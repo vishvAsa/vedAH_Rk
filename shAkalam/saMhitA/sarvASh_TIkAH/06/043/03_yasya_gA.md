@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य मदे। अश्मनः- जडप्रतीकगिरेर्मेघाद्वा। अन्तः। दृळ्हाः- दृढपिधानान्। गाः- चिद्रश्मीन्।  अवासृजः- निः सारितवान्। अयं स सोम इन्द्र ते सुतः पिब॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्य** सोमस्य **मदे** मदकरे रसे पीते सति **अश्मनः** वलासुरेण निहितस्य पर्वतस्य **अन्तः** मध्ये विद्यमानाः **दृब्हाः** दृढपिधानाश्च **गाः** पणिभिरपहृताः **अवासृजः** वलस्य बन्धनाद्व्यसृजः स सोम इत्यादि गतम् ॥
@@ -200,7 +203,6 @@ here is that soma, Indra, pressed for you. Drink!
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. subtly undermines the autonomous power of Indra. In the refrain of all three vss. Indra is addressed as svadhāpate ‘lord of independent power’, but here in the first hemistich Indra is said to be like (ná) “one grown strong by (his own) power,” like “one overpowering by his own forms of help” (svā́bhir ūtíbhih). In other words the power that appears to be Indra’s own (svá-) is really produced for him by soma.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -240,8 +242,6 @@ In dessen Rausch die Kühe du befreitest, die der Fels urnschloss, Der Soma ist 
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -257,7 +257,7 @@ In dessen Rausch die Kühe du befreitest, die der Fels urnschloss, Der Soma ist 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) सम्पूर्ण रोगों के नाश करनेवाले (यस्य) जिस (अश्मनः) मेघ के (अन्तः) मध्य में (दृळ्हाः) दृढ़ (गाः) किरणों को (मदे) आनन्द के लिये (अवासृजः) उत्पन्न करता है उसके सम्बन्ध से (सः) वह (अयम्) यह (सोमः) रोगों को नाश करनेवाला ओषधियों का रस (ते) आपके लिये (सुतः) निर्म्माण किया गया उसको आप (पिब) पीजिये ॥३॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) सम्पूर्ण रोगों के नाश करनेवाले (यस्य) जिस (अश्मनः) मेघ के (अन्तः) मध्य में (दृळ्हाः) दृढ़ (गाः) किरणों को (मदे) आनन्द के लिये (अवासृजः) उत्पन्न करता है उसके सम्बन्ध से (सः) वह (अयम्) यह (सोमः) रोगों को नाश करनेवाला ओषधियों का रस (ते) आपके लिये (सुतः) निर्म्माण किया गया उसको आप (पिब) पीजिये ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

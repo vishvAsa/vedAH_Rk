@@ -3,7 +3,6 @@ title = "005"
 devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - हिरण्यस्तूप आङ्गिरसः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -270,6 +268,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रयिम्- दानार्हधनम्। नः- अस्माकम्। त्रिः- त्रिवारम्। वहतम्- प्रापयतम्। अश्विना। युवम्-  युवाम्। देवताता- द्योतनशख्निद्योतितोपासने। त्रिः- त्रिधा आगच्छतम्। उत- अपि च। धियः-  धारणाशख्निम्। त्रिः- त्रिधा। अवतम्- रक्षतम्। सौभगत्वम्- युवयोः सौभाग्यम्। त्रिः- त्रिधा  भवति। उत- अपि च। श्रवांसि- चिदाकाशस्थमन्त्रश्रवणशख्नयः। त्रिः- तिस्रो भवन्ति। त्रिष्ठम्- त्रिलोकेष्वपि स्थितम्। वाम्- युवयोः। रथम्- वाहनम्। सूरे- आत्मसूर्यस्य। दुहिता- पुत्री।  ज्ञानोदयदेवता। रुहत्- आरुरोह॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** **युवं** **नः** अस्मान् **रयिं** धनं **त्रिः** **वहतं** त्रिवारं प्रापयतम् । **देवताता** देवतातौ देवैर्युक्ते कर्मणि त्रिः त्रिवारमागच्छतमिति शेषः । **उत** अपि च **धियः** अस्मद्बुद्धीः **त्रिः** त्रिवारं रक्षतम्। **सौभगत्वं** सौभाग्यं **त्रिः** वहतमिति शेषः। **उत** अपि च **श्रवांसि** अन्नानि **नः** अस्मभ्यं **त्रिः** वहतम् । **वां** युवयोः संबन्धिनं **त्रिष्ठं** चक्रत्रयेऽवस्थितं **रथं** **सूरे** सूर्यस्य **दुहिता** पुत्री । ‘दुहिता दुर्हिता दूरे हिता' ( निरु. ३. ४ ) इति यास्कः । सा आरूढवती ॥ देवताता । ‘सर्वदेवात्तातिल् ' (पा. सू. ४. ४. १४२) इति स्वार्थिकः तातिल्प्रत्ययः । तेन देवतातिशब्देन देवसंबद्धो यज्ञो लक्ष्यते । ‘देवताता मखः ' (नि.३. १७. १० ) इति तन्नामसु पठितत्वात् । ‘लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । सुपां सुलुक्' इति सप्तम्या डादेशः। त्रिष्ठम् । त्रिषु चक्रेषु तिष्ठतीति त्रिष्ठः । ‘सुपि स्थः ' ( पा. सू. ३. २. ४ ) इति कः । ‘अम्बाम्ब° '(पा. सू. ८. ३. ९७ ) इत्यादिना सकारस्य षत्वम् । सूरे । ‘षू प्रेरणे'। “ सुसूधागृधिभ्यः क्रन्' ( उ. सू. २. १८२ ) इति क्रन् । नित्त्वादाद्युदात्तः । विभक्तिव्यत्ययः । आ रुहत् ।' कृमृदृरुहिभ्यश्छन्दसि' (पा. सू. ३. १. ५९ ) इति च्लेः अङादेशः ॥
@@ -293,7 +296,7 @@ standing places.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-sū́re duhitā́“daughter of the Sun” preserves, by most accounts, the archaic sandhi of final -as &gt; -e before initial dental. For further disc., see Jamison 2010 (Fs. Melchert). The myth on which this pāda is based, Sūryā’s marriage, is not otherwise mentioned in this hymn. On the formulaic representation of the myth in the RV see Jamison 2001 (Fs. Parpola).
+sū́re duhitā́“daughter of the Sun” preserves, by most accounts, the archaic sandhi of final -as > -e before initial dental. For further disc., see Jamison 2010 (Fs. Melchert). The myth on which this pāda is based, Sūryā’s marriage, is not otherwise mentioned in this hymn. On the formulaic representation of the myth in the RV see Jamison 2001 (Fs. Parpola).
 </details>
 
 <details><summary>Griffith</summary>
@@ -319,8 +322,6 @@ Dreimal, o Açvinen, fahrt uns Reichthum her, dreimal beim Gottesdienste, und dr
 Трижды счастье и трижды славу нам (принесите)!  
 На трехместную вашу колесницу поднимается дочь Солнца.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

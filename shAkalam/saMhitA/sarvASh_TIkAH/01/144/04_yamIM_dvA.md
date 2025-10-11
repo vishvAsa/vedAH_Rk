@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ईम्- एनमग्निम्। समाने योना- समाने सदने। समोकसा- समाननिवासौ। दिवा न नख्नम्-  दिवारात्रमिव संपृख्नौ। सवयसा- तुल्यशीलवयोवृत्तौ। मिथुना- दम्पती। सपर्यतः- परिचरतः।  पलितः- जीर्णोग्निः। युवाजनि- परिचर्यया तरुणो जातः। शमितप्रायोग्निः दम्पतीहव्यवृद्धो युवा  ववर्धेत्याधिभौतिके। भावनाननुष्ठानाज्जीर्णोग्निर्दम्पतीभावनाभिवृद्धोभिनवतां गत इत्याध्यात्मिके।  मानुषा युगा- मनुष्ययुगोपलक्षितमनुष्यप्रज्ञा अभ्युदयप्रायाः। पुरु चरन्- बहुधा सञ्चरन्। अजरः-  अजीर्णो भवति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यमीम्** एनमग्निं **द्वा** द्वौ **सवयसा** समानवयस्कौ समानसामर्थ्यौ वा **समाने** **योना** योनौ फलस्योत्पत्तिस्थाने यज्ञे वर्तमानौ **मिथुना** दम्पती इव एककार्योद्युक्तौ **समोकसा** समाननिवासौ देवयजनस्थानौ ईदृशौ होत्रध्वर्यू **सपर्यतः** पूजयतः स्तुत्या हविष्प्रदानेन च प्रीणयतः । कदेत्याह । **दिवा** **न** अहनीव **नक्तं** रात्रावपि । सर्वदेत्यर्थः । एवं पूज्यमानोऽग्निः **पलितः** पूर्वम् अङ्गारावस्थायां जीर्णोऽपि समिन्धनानन्तरं **युवा** तरुणः तेजसा सर्वस्य मिश्रयिता वा **अजनि** जायते । एवं जातोऽयं **मानुषा** **युगा** मनोः संबन्धीनि युगानि जायापतिरूपाणि होत्रध्वर्युरूपाणि वा उद्दिश्य **पुरु** **चरन्** बह्वाज्यादिकं भक्षयन् **अजरः** अजीर्णो जरारहितो वर्तते ॥
@@ -256,8 +259,6 @@ the gray youth was born by day, not by night—he who roams unaging  through man
 The phrase dívā ná náktam is universally taken as “by night as by day” (that is, “always,” as Sāyaṇa points out), with a very extended sense of the simile marker ná. I take ná rather as the homonymous negative: “by day, not by night.” This would reflect the simple fact that the ritual fire is kindled only in the morning and draw attention to the oddity of this practice, since in everyday terms fire is more needed and desired at night, for light and warmth. The position of ná allows either interpr.: it is in expected 2nd position for a simile, but in my interpr. it immediately precedes the word it negates, which is standard when ná is not a sentential negation, but negates a single word in a clause.
 
 I render the verb in this clause as preterital, in keeping with the Pp. reading yúvā ajani. However, to match the presential saparyátaḥ of pāda a and the generality of the statement about his birth it would be possible to read (without emending the Saṃhitā text) yuvā jani, with an injunctive, which could have presential/timeless sense: “he is born …”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -296,8 +297,6 @@ Gleich alt die beiden, bringen ihm Verehrung dar, in gleichem Schoosse wohnend d
 Ночью, как и днем, седой (вновь) родился юным,  
 Двигаясь, не старея, сквозь многие людские поколения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

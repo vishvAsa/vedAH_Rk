@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - प्रियमेध
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियमेधासः- प्रियधियः। वृख्नबर्हिषः- वर्जितहिंसाः। हितप्रयसः- हितहविष्काः। एषाम्- एतेषां  देवानाम्। प्रत्नस्य- पुराणस्य। ओकसः- गृहस्य। पूर्वां- पुराणीम्। प्रयतिम्- नियतिम्। आशत-  व्याप्नुवन्ति॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अनया स्तुतिमुपसंहरति । **एषां** देवानामिन्द्रादीनां **प्रत्नस्य** पुराणस्य **ओकसः** स्थानस्य पुराणं स्थानं **प्रियमेधासः** प्रियमेधाः **अनु** **आशत** अनुप्राप्ताः । कीदृशाः प्रियमेधाः । **पूर्वां** मुख्यं **प्रयतिं** प्रदानम् **अनु** लक्षीकृत्य **वृक्तबर्हिषः** स्तीर्णदर्भाः **हितप्रयसः** आसादितसोमादिहविष्काः ॥ ॥ ७ ॥ ॥ ७ ॥
@@ -208,10 +211,6 @@ Nach ihrer alten Gewohnheit haben die Priyamedha´s, die das Barhis herumgelegt 
 
 Die Prijamedha's reichten heran an die frühen Darbringung jener aus dem alten Heimatssitze entsprungenen (Vorfahren), Streu bereitend und Opfer bringend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

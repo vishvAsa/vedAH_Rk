@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रो गावो वा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 idám ← ayám (pronoun)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋषभस्य- वृषभस्य। रेतसीत्याधिभौतिके। इन्द्र- परमैश्वर्यदैवत। तव- ते। वीर्ये इत्यध्यात्मिके।  आसु। गोषु- धेनुष्वित्याधिभौतिके चिद्रश्मिष्वित्यध्यात्मिके। इदम्- एतत्। उपपर्चनम्-  आप्यायनम्। उप पृच्यताम्- सम्पृच्यताम्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आसु** **गोषु** **इदमुपपर्चनम्** आप्यायनम् **उप** **पृच्यतां** संपृच्यताम् । हे **इन्द्र** **तव** **वीर्ये** त्वदीयवीर्ये निमित्ते **ऋषभस्य** गवां गर्भमादधानस्य वृषभस्य **रेतसि** इदमुपपर्चनमाप्यायनम् । गोषु हि आप्यायितासु सतीषु तत्संबन्धिक्षीरादिहविर्द्वारेणेन्द्र आप्यायितो भवतीत्यर्थः । **उप** इति पुनर्वचनं पादभेदानां पूरणार्थमिति ॥ ॥ २५ ॥
@@ -233,8 +236,6 @@ Es werde diese Zumischung dieser Milch zugefüllt, und dem Samen des Stieres [de
 До(бавится) к семени быка,  
 До(бавится), о Индра, к твоему мужеству!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

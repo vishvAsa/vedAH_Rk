@@ -3,7 +3,6 @@ title = "002"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः सप्तवध्रिर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+निमिषश्चित्- निमेषादपि।  जवीयसा- क्षिप्रेण। रथेन। अश्विना- हे प्राणेशनशख्निभूतौ देवौ। आ  यातम्- आगच्छतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **निमिषश्चित्** निमेषादपि **जवीयसा** अतिशयवेगेन **रथेन** **आ** **यातम्** आगच्छतमस्मद्यज्ञं हे **अश्विना** । शिष्टमुक्तम् ॥
@@ -197,8 +200,6 @@ Mit eurem Wagen, Ritter, kommt, der schneller als ein Augenblick; Es sei uns eur
 Что быстрей мгновенья!  
 Пусть ваша помощь будем рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- परमेश्वरः। सुत्रामा- सुरक्षकः। अवोभिः- रक्षाभिः। स्ववान्- आत्मवान्। विश्ववेदाः-  सर्वज्ञः। सुमृळीकः- आनन्दकरः। भवतु। द्वेषः- द्वेषभावनानि। बाधताम्- नाशयतु। अभयम्।  कृणोतु- करोतु। सुवीर्यस्य। पतयः- पालकाः। स्याम- भवेम॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् सः **इन्द्रः** **अवोभिः** रक्षणैः **सुमृळीकः** सुष्ठु सुखयिता **भवतु** । तथा च **विश्ववेदाः** सर्वधनः सर्वविद्वान् वा स इन्द्रः **द्वेषः** द्वेष्टॄन शत्रून् **बाधतां** हिनस्तु । **अभयं** भयरहितं चास्माकं **कृणोतु** करोतु । वयं च तत्प्रसादात् **सुवीर्यस्य** शोभनवीर्यस्य **पतयः** **स्याम** भवेम ॥
@@ -217,8 +220,6 @@ _________
 **इन्द्रस्सुत्रामा** सुष्ठु त्राता सर्वेषाम् । तेनैव मनिन् । **स्ववान्** धनवान् । 'दीर्घादटि समानपादे' इति रुत्वम् । **अवोभिः** रक्षणैः **सुमृडीकः** सुसुखः सुष्ठु सुखयितास्माकं **भवतु** । 'मृडीकादयश्च' इति कन्, 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । विश्ववेदाः 'गतिकारकयोरपि' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वश्च । सर्वधनो वा । 'बहुव्रीहौ विश्वं संज्ञायाम्' इति विश्वशब्दस्यान्तोदात्तत्वम्, ।  
 किञ्च - बाधतां नाशयतु द्वेष द्वेष्टॄन् । 'अन्येभ्योपि दृश्यते' इत्यसुनि वा जातावेकवचनम् । अभयं चास्माकं कृणोतु । 'धिन्विकृण्व्योरच' इत्युप्रत्ययः । सुवीर्यस्य सुसारस्य सर्वस्य वयं पतयस्स्याम भूयास्म । 'वीरवीय्रौ च' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -238,8 +239,6 @@ Let him thrust away hatred; let him create fearlessness. Might we be  lords of g
 
 In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a variant of 10a mṛḷá, and ábhayaṃ kṛṇotu reminds us of 8ab ánu neṣi … ábhayam.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -248,8 +247,6 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 </details>
 </div>
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -277,12 +274,10 @@ Let him restrain the enemy, let him make security,
 May we be lords of strength [4].
 </details>
 
-
 <details><summary>Griffith (AV)</summary>
 
 May Indra with his help, Lord of all treasures, be unto us a careful protector. Drive off our foes and give us peace and safety. May we be lords of goodly store of heroes.
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -307,8 +302,6 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 Пусть прогонит он ненависть, пусть создаст безопасность!  
 Да будем мы повелителями хорошего мужского потомства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -392,4 +385,3 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 
 टिप्पणी:   १−(इन्द्रः) परमैश्वर्यवान् राजा (सुत्रामा) त्रैङ् पालने-मनिन्। अतिरक्षकः (स्ववान्) स्वा ज्ञातयः। प्रशस्तज्ञातियुक्तः (अवोभिः) रक्षणैः (सुमृडीकः) बहुसुखयिता (विश्ववेदाः) वेदांसि धनानि ज्ञानानि वा। बहुधनः। बहुज्ञानः। (बाधताम्) निवारयतु (द्वेषः) द्विष अप्रीतौ-विच्। द्वेष्टॄन् (अभयम्) निर्भयत्वम् (नः) अस्मभ्यम् (कृणोतु) करोतु (सुवीर्यस्य) अतिपराक्रमस्य (पतयः) पालकाः (स्याम) भवेम ॥
 </details>
-

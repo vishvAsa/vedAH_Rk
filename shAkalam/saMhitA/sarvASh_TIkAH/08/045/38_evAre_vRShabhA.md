@@ -3,7 +3,6 @@ title = "038"
 devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशोकः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्वघ्नीव निवता चरन्- शुनकेन दस्युबाधक इव। यः शुनकेन चोरानन्विष्य नाशयति स श्वघ्नी। स  यथा करोति तथेन्द्रो देवशुन्या जिज्ञासान्वेषणवेदनप्रतीकभूतया रसं मृगयन्निति भावः। वृषभ-  वर्षक। त्वम्। एवारे- एवमागच्छति सोमे रसे। सुते- अभिषुते निष्पन्ने। असिन्वन्- अबध्नन्।  मोचयन्निति भावः। भूरि- प्रभूतं सोमं रसम्। आवयः- अभक्षयः। अन्वभवः॥३८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृषभ** कामानां वर्षकेन्द्र **एवारे** । एवारो नाम कश्चित् । तस्मिन् **सुते** अभिषुते सोमे सति **भूरि** बहूनि धनानि **असिन्वन्** न बध्नन् **श्वघ्नी** । श्वघ्नी कितवः । तथा च यास्कः - ’श्वघ्नी कितवो भवति स्वं हन्ति---' (निरु. ५, २२ )॥
@@ -172,8 +175,6 @@ sashaying around the lower depths like a guy with ‘the dog-killer’ [=the  wi
 I consider this verse the Maruts’ insulted response to Indra’s insults, couched in a very slangy register. The first sign of this speech level is the voc. are (to arí- ‘stranger’), a vocative not otherwise found in the RV, but remember the Pāli and Pkt. “interjections” are, ale, clearly derived from this voc. (Thieme, Fremdl. 3-4), as well as the famous shibboleth he ‘lavo of ŚB III.2.1.23, consisting of an l-form of the plural voc. of this word in MIA guise (see EWA, KEWA s.v.). Its use as a shibboleth and with an l-form suggests popular speech.
 
 Note also the lengthened voc. vṛṣabhā (also in 22a). Lengthened vocatives are quite rare in the RV; AiG III.96-97 cites only these two forms, but remarks that pluti vocatives were surely a feature of living speech, found in the Brāhmaṇas and in Pāli and the Prākrits. The use of the well-known gambling term svaghnī́also marks the speech as low register. The substance of the Maruts’ counter-accusations is that Indra greedily drank up the soma offered to him below (that is, among men). I’ve used the expression “lower depths” to refer to the louche aspects of a gambling place (and also possibly to the depression in the ground where the dicing happens). Indra carried on arrogantly and without sharing the soma, but then, they say, when he got into a jam in the Vrtra ̥ battle he suddenly remembered he had pals and upbraided them for desertion.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
 <details open><summary><h2>37-38 ...{Loading}...</h2></summary>
@@ -206,8 +207,6 @@ Beim Soma, nimmersatter Stier, der recht dir ist, verschlangst du viel, Dem Spie
 Ты много поглощал, не насыщаясь,  
 Словно удачливый игрок (в кости), действующий понизу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

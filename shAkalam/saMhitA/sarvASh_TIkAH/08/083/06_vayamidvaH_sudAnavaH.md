@@ -3,7 +3,6 @@ title = "006"
 devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    सुदानवः- शोभनदानाः। क्षियन्तः- निवसन्तः। अध्वन्- शोभनमार्गे। यान्तः- गच्छन्तः। देवाः।  वः- युष्मान्। वयम्। वृधाय- वृद्धये। हूमहे- आह्वयामः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुदानवः** शोभनदाना हे **देवाः** **क्षियन्तः** गृहेष्वग्निहोत्रार्थं निवसन्तः **अध्वन्** । सुपो लुक्। अध्वनि समिदाहरणार्थं **यान्तः** गच्छन्तोऽपि **वयं** **वः** **इत्** युष्मानेव **वृधाय** हविर्भिर्वर्धनाय **हूमहे** आह्वयामः । यद्वा । वयं गृहेषु गृहान्निर्गमनकाले मार्गेषु च वृधायास्माकं धनादिभिर्वर्धनायाह्वयामः ॥
@@ -185,10 +188,6 @@ Wir rufen euch, ihr gabenschönen Götter, zum Gedeihen, wenn wir rasten und unt
 
 Wir rufen, gabenreiche, euch, daheim und auf der Reise an, O Götter, uns zur Förderung.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

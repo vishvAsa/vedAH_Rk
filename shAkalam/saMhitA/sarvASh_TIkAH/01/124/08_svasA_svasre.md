@@ -3,7 +3,6 @@ title = "008"
 devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान् दैर्घतमस औशिजः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्वसा- सोदरी रात्रिर्मनुष्यप्रज्ञा। ज्यायस्यै- श्रेष्ठायै। स्वस्रे- स्वभगिन्यै। उषसे  दैवप्रज्ञोपलक्षितविद्यायै। योनिम्- स्थानम्। अरैक्- प्रादात्। अस्याः- उषसो दैवप्रज्ञायाः।  प्रतिचक्ष्येव- ज्ञापयन्तीव। अप एति- उषसः स्थानं दत्त्वा अपगच्छति। सूर्यस्य- आत्मसूर्यस्य।  रश्मिभिः- चिद्रश्मिभिः। व्युच्छन्ती- तमो विवासयन्ती। समनगाः- समानहृदयेन गच्छन्त्यः। व्राः- व्रतानुसारिण्य आप इव। प्रकृतिनियत्यनुसारिणो मूलशख्निप्रवाहा इव। अञ्जं - व्यञ्जकं तेजः।  अंख्ने- प्रकाशयति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एकस्मादेवान्तरिक्षादुपन्नत्वात् परस्परं स्वसृभावः । तथाप्यह्नः प्राथम्यात् तेजस्वित्वाच्च ज्यायस्त्वम् । स्वयमेव सरतीति वा **स्वसी** । रात्रिः **स्वस्रे** **ज्यायस्यै** उक्तरीत्या ज्येष्ठायै **योनिम्** उत्पत्तिस्थानम् अपररात्ररूपम् **अरैक्** अरिचन् प्रादात् प्ररेचयतीत्यर्थः । तथा च पूर्वत्राम्नातं-‘रात्र्युषसे योनिमारैक्' (ऋ. सं. १. ११३. १ ) इति। दत्त्वा च **अस्याः** उत्पन्नाया उषसः प्रतिचक्ष्येव । ज्ञापयित्वेव स्वयमपसृत्यैव गच्छति । ज्यायस्यामागतायां तस्यै स्वस्थानं दत्त्वा स्वयं तत्संनिधौ स्थातुमनुचितमिति विज्ञायैवापगच्छतीति भावः । एवमुत्पन्ना एषा **सूर्यस्य** **रश्मिभिः** **व्युच्छन्ती** तमो विवासयन्ती **अञ्जि** व्यञ्जकं तेजः । यद्वा । अञ्जि व्यक्तं जगत् । **अङ्क्ते** अनक्ति प्रकाशयति । किमिव । **समनगाइव** । सम्यगननहेतव आपः समनाः । ता गच्छन्तीति समनगाः विद्युतः । **व्राः** व्राताः । विद्युसंघा इव । यद्वा। सम्यगननाय गच्छन्तीति समनगाः सूर्यरश्मयः । ते इव व्रा व्राताः संधीभूताः । ते यथाञ्जते जगत्प्रकाशयन्ति तथेत्यर्थः ॥ व्रात इत्यत्र तकारलोपश्छान्दसः ॥
@@ -235,8 +238,6 @@ As indicated in the published introduction, I believe that this verse continues 
 On the basis of I.113.1, Geldner suggests persuasively that the subj. of pāda a is Night and her older sister is Dawn. Nonetheless, I take the subj. of b to be Dawn, who is going away from Night. The crucial word in b is praticákṣyă/ā (latter Pp.), which can be either a gerund (-ă) or a gerundive (-ā). Most (though not Oldenberg) take it as the latter, as I do, but with the sense “to be seen again” (e.g., Geldner “die man wiedersehen soll”), that is, as one who will return. But this is not the standard meaning of práti √cakṣ, which simply means ‘gaze upon’. Here I think “to be gazed upon” represents the display motif of the svayaṃvara marriage: before the girl exercises her choice among the assembled suitors, she enters the arena (vel sim.) and is announced and displayed for all to see (for disc. see esp. Jamison 1999 [Penelope] and for this passage in general Jamison 2003 [Fs. H.-P. Schmidt], pp. 42-44).
 
 The choosing maidens (vrā́ḥ) of the same marriage type are the topic of pāda d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -270,8 +271,6 @@ Die Schwester räumt der edleren den Sitz ein, und geht davon, sobald sie sie ge
 Пламенея лучами Сурьи,  
 Она умащается мазью, как блудницы, идущие на свидание.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

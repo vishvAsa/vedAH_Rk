@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। सुतावान्- रसनिष्पादकः सन्। बहुभ्यः- बहुभूतहिताय। त्वा- भवन्तम्। आ- मर्यादया।  आविवासति- परिचरति। तत्- तस्मै। इन्द्रः। उग्रम्। शवः- बलम्। पत्यते- अनुगृह्णाति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **बहुभ्यः** मनुष्येभ्यः सकाशात् **यश्चिद्धि** य एव खलु यजमानः **सुतावान्** अभिषुतसोमयुक्तः सन् हे इन्द्र **त्वा** त्वाम् **आविवासति** परिचरति । विवासतिः परिचरणकर्मा । **तत्** तस्मै यजमानाय यत् **उग्रम्** उद्गूर्णं **शवः** बलम् **इन्द्रः** **अङ्ग** क्षिप्रं **पत्यते** पातयति प्रापयति ॥ तत् ।  ‘ सुपां सुलुक्° ' इति चतुर्थ्याः लुक् । पत्यते । पत्लृ गतौ ' । अस्मात् अन्तर्भावितण्यर्थात् व्यत्ययेन श्यन् ॥
@@ -199,8 +202,6 @@ He has control of powerful strength – Indra indeed!
 A broken construction. The subject of the 3rd ps. verb in c (patyate) must be Indra, though he is represented by 2nd ps. tvā in the apparent rel. cl. of ab. (The parallel in III.36.4b ugráṃ śávaḥ patyate dhṛṣṇv ójaḥ, where Indra is undeniably the subject, makes it clear that the mortal soma-presser of our ab cannot be the subject of patyate.) The yá- clause of ab thus has no direct grammatical connection with what ought to be its main clause in c, and I therefore take yáś cid as the functional equivalent of the indefinite káś cid.
 
 I.84.10-12: See published introduction. for the structure of this tṛca and its relation to I.80. The subjects of all three verses are feminine (gauryàḥ, yā́ḥ … sayā́varīḥ 10; tā́(ḥ) … pṛ́śnayaḥ, … dhenávaḥ 11; tā́(ḥ) 12; vásvīḥ 10-12), but, in my opinion, the hidden referent of all three verses is the Maruts. See also comm. on vs. 16.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -232,8 +233,6 @@ Denn wer von vielen Stätten auch als Somabringer her dich lockt, Von wem empfä
 Отвоевать тебя у многих, –  
 Грозной силой этой владеет Индра, в самом деле.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

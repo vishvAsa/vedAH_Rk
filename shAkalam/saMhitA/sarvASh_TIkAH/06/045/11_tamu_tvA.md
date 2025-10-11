@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। पुरा- पूर्वस्मिन् काले। हिते- निहिते। धने निमित्ते सति। हव्यः- ह्वातव्यः। आसिथ-  बभूविथ। तम्। अद्याप्याह्वये। सः- असौ त्वम्। हवम्- आह्वानम्। शृधि- शृणु॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **तमु** **त्वा** तमेव त्वां स्तुम इति शेषः । **यः** त्वं **पुरा** पूर्वस्मिन् काले **हव्यः** ह्वातव्यः **आसिथ** बभूविथ धनलाभार्थम् । **यो** **वा** यश्च त्वं **हिते** शत्रुषु निहिते **धने** निमित्तभूते सति **नूनम्** अद्यापि हव्यः ह्वातव्यो बभूविथ **सः** त्वमस्मदीयं **हवं** स्तोत्रं **श्रुधि** शृणु ॥
@@ -209,8 +212,6 @@ Hear our call!
 <details><summary>Jamison Brereton Notes</summary>
 
 It is worth noting that in the temporally contrastive rel. clauses (a: purā́ ‘previously’, b: nūnám ‘now’) whose joint predicate is the grdv. hávyaḥ (see above), the one with past reference has an overt copula, pf. ā́sitha, while the one with current reference has the copula gapped.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -245,8 +246,6 @@ Dich, der du jetzt und früher auch dabei warst, wenn's den Kampfpreis galt, Du 
 Или как сейчас, надо призывать,  
 Когда установлена ставка. Услышь призыв!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

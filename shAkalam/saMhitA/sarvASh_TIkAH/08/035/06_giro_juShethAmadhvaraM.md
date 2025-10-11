@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गिरः- मन्त्रान्। जुषेथाम्- सेवेथाम्। अध्वरम्- ध्वरविरोधं कर्म। जुषेथाम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देवौ** अश्विनौ नोऽस्माकं **गिरः** स्तुतीः **जुषेथां** सेवेथाम् । तथा **अध्वरं** यज्ञं च **जुषेथाम्** । **इह** यज्ञे विश्वानि सवनानि **अव** **गच्छतं** प्राप्नुतम् ॥ ॥ १४ ॥
@@ -264,8 +267,6 @@ Geniesst die Lieder und geniesst den Opfertrank, zu allen Spenden kommt, o Gött
 Единодушные с Ушас и Сурьей,  
 Привозите нам жертвенную усладу, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

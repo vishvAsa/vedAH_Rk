@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋष्व- महात्मन्। महेमते- महामते। इन्द्र- परमेश्वर। यद्ध- यदि। परावति- दूरदेशेसि। यद्वा।  पृथिव्याम्- भूम्याम्। दिवि- नभसि। तर्हि। युजानः- योगयुख्नः। ऋष्वेभिः- महद्भिः। हरिभिः-  प्राणाश्वैः। आ गहि- आगच्छ॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -239,8 +242,6 @@ Wenn jetzt du in der Ferne weilst, im Himmel, auf der Erde hier, So spann, hochh
 (То) запрягши буланых коней, о Индра великодушный,  
 Огромный приезжай на огромных (конях),
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "वर्धमाना गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "वर्धमाना गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - वर्धमाना गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    विप्रस्य- मेधाविनः। सुष्टुतिम्- शोभनस्तुतिम्। शृण्वन्। त्वम्। अमर्त्यः- अमृतः। दूतः सन्।  दैव्यं जनम्- देवान्। आ वह॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अमर्त्यः** अमरणधर्मः **त्वं** **दूतः** भूत्वा **दैव्यं** देवसंबन्धिनं **जनम्** **आ** **वह** अस्मद्यज्ञ आनय । किं कुर्वन् । 'विप्रस्य मेधाविनो भरद्वाजस्य **सुष्टुतिं** शोभनां स्तुतिं **शृण्वन्** ।
@@ -159,7 +162,6 @@ when you hear the lovely praise of the inspired poet.
 <details><summary>Jamison Brereton Notes</summary>
 
 The “divine race” (daívyaṃ jánam) here may resonate with the “human race, race stemming from Manu” (mā́nuṣe jáne) in 1c, though they belong to different tṛcas.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -192,8 +194,6 @@ Als Bote fahr, unsterblicher, du her das göttliche Geschlecht, Vernimm des Sän
 Привези (сюда) божественный род.  
 Слушая прекрасную хвалу вдохновленного (поэта)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्। द्युक्षम्- दिव्यम्। वरेण्यम्- वरणीयमिति। मन्यसे। तत्। इन्द्र- परमेश्वर। आ भर- आहर।  ते- तव । अकूपारस्य- अकुत्सितान्तस्य। अथवा कूर्मवत् प्रत्याहारयुख्नस्य। कूर्मस्य प्रत्याहारगुणः  प्रसिद्धो महाभारते पुनः पुनः कथ्यते यदा संहरते कामान् कूर्मोगांनीव सर्वशः।  तदाऽऽत्मज्योतिरात्मायमात्मन्येव प्रपश्यतीत्यादिषु। तस्य। दावने- दाने। वयम्। विद्याम-  जानीमः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेइन्द्र यत् द्युक्षमन्नं वरेण्यं वरणीयं मन्यसे तत् द्युक्षं आभरास्मभ्यं ते तवसम्बन्धिनोवयं तस्य तादृशस्योक्तलक्षणस्याकूपारस्य अकुत्सितः पारोन्तोयस्यतादृशस्यान्नस्य दावने दाने विद्याम स्याम ॥ २ ॥ वाजपेयेअतिरिक्तोक्थ्येयत्तेदित्स्वेषा सूत्रितञ्च-यत्तेदित्सुप्रराध्यन्त्वामिच्छवसस्पतइति ।
@@ -218,8 +221,6 @@ Although this vs. is lexically and syntactically quite distinct from V.38.2, the
 - Indra as unbounded ocean -- while in 38.2cd the unidentified praiseworthy thing
 spreads itself out longest, also an image of unbounded expanse. The means of expressing the concept are quite different, but the concept itself seems the same.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -251,8 +252,6 @@ Was, Indra, dir vorzüglich dünkt, das himmlische, das bringe her; Wir mögen d
 Мы хотели бы тебя таким узнать:  
 Безграничным в дарении!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

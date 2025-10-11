@@ -3,7 +3,6 @@ title = "011"
 devataa = "सविता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजयन्तः- गतिकामाः। वयम्। देवस्य- द्योतनशीलस्य। भगस्य- भगवतः। सवितुः-  सूर्यस्यात्मनः। रातिम्- दानयोग्यसम्पदम्। पुरन्ध्या- पुरुधारणया। ईमहे- याचामहे॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजयन्तः** वाजमन्नमात्मन इच्छन्तः **वयं** **देवस्य** द्योतमानस्य **सवितुः** **पुरंध्या** तद्विषयस्तुत्या प्रज्ञया वा **भगस्य** भजनीयस्य धनस्य **रातिं** दानम् **ईमहे** याचामहे ॥ रातिम् ।' मन्त्रे वृष°  इत्यादिना क्तिन उदात्तत्वम् ॥
@@ -141,8 +144,6 @@ along with the plenitude of god Savitar.
 <details><summary>Jamison Brereton Notes</summary>
 
 I take púraṃdhyā as an instr. of accompaniment, not (with Geldner [/Witzel Gotō]) an instr. of means.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -175,8 +176,6 @@ Durch Schatz des Gottes Savitar sind wir zum Güterwunsch erregt; Des Spenders G
 Мы, стремящиеся к награде,  
 Молим о даре Бхаги.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

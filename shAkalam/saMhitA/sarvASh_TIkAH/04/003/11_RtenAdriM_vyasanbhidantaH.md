@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भिदन्तः- भिन्दन्तः। ऋतेन- प्रकृतिनियतिभूतसत्येन। अद्रिम्- जडप्रतीकगिरिम्। व्यसन्-  व्यक्षिपन्। अङ्गिरसः- अङ्गनशीलाः। गोभिः- चिद्रश्मिभिः। सं नवन्त- समगच्छन्त। शुनम्-  सुखेन। उषासम्- प्रभातीमात्मज्ञानोदयदेवताम्। नरः- उपासकाः। परि सदन्- उपासांचक्रिरे।  अग्नौ- सर्वभूतहितक्रतौ पावके। जाते- उद्भूते। स्वः- आत्मसूर्यः। आविः अभवत्-  आविरभूत्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अङ्गिरसः** मेधातिथिप्रभृतयः **ऋतेन** यज्ञेन हेतुना गवां निरोधकम् **अद्रिं** पर्वतं **भिदन्तः** विदारयन्तः सन्तः **व्यसन्** व्यक्षिपन् । ततस्ते **गोभिः** **सं** **नवन्त** समगच्छन्त । **नरः** कर्मणां नेतारः ते **शुनं** सुखेन **उषसं** **परि** **सदन्** परितः प्राप्नुवन् । ततः **स्वः** सूर्योऽपि **आविः** **अभवत्** । सर्वमेतत् **अग्नौ** त्वयि **जाते** मथनेन निष्पादिते सत्यभूदिति ॥ असन् । अस्यतेर्लुङि च्लेः  ‘ अस्यतिवक्ति° ' इत्यादिना अङादेशः ।  ‘ अनित्यमागमशासनम् ' इति थुगभावः ॥
@@ -261,8 +264,6 @@ For blessing the men besieged the dawn; the sun became visible when  the fire wa
 The third truth-formulation vs. sets up the Vala myth as the model for the coming of dawn: just as the Aṅgirases breached the Vala cave and let loose the cows, so the human sacrificers break Dawn out of her confinement by kindling the ritual fire. This is the third step in the depiction of the morning ritual. As noted elsewhere (see esp. the published introduction to Maṇḍala IV and to IV.1), the Vala myth and the Aṅgirases play an outsize role in the Agni cycle of IV.
 
 Despite the injunctives of pāda a (vy àsan) and c (pári ṣadan), I am tempted, with Grassmann, to read anavanta in b, to produce 11 syllables. (Consider the augmented impf. in d, abhavat.) Oldenberg (Noten) considers this restoration possible but not necessary. Hoffmann (Injunk., 209) gives a typical treatment of the vs. in his interpretational system, assuming an injunc. navanta in b.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
@@ -301,8 +302,6 @@ Durch Recht zerstückten sie den Fels, ihn spaltend, die Angirasen jauchzten mit
 Мужи успешно окружили Ушас.  
 Стало видно солнце, когда родился Агни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

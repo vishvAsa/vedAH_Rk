@@ -3,7 +3,6 @@ title = "017"
 devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "एकपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "एकपदा विराट्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - एकपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -77,6 +75,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवाः। उरौ- विस्तृते। अनिबाधे- बाधारहिते। स्याम- भवेम॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देवाः** युष्माकं संबन्धिनि **उरौ** महति **अनिबाधे** नितरां बाधरहिते सुखे **स्याम** भवेम वयमत्रयः ॥
@@ -114,8 +117,6 @@ Wir sein in freier Unbedrängtheit, Götter.
 
 Да будем мы, о боги, в широком (просторе), в нестесненности!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

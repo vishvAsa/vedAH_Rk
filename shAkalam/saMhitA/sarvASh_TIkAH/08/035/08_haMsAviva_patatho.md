@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हंसाविव पतथः। अध्वगौ- पथिकौ। इव। सोमं सुतं महिषेवाव गच्छथः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **हंसाविव** यथा हंसौ **अध्वगाविव** यथा च पथिकावुदकं गच्छतः तथा वेगेन **सुतं** **सोमं** **पतथः** । सिद्धमन्यत् ॥ ।
@@ -266,8 +269,6 @@ Wie Schwäne und wie Wandervögel flieget ihr, wie Büffel kommt ihr zum gepress
 Единодушные с Ушас и Сурьей,  
 Трижды совершите объезд, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

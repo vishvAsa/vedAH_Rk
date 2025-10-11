@@ -3,7 +3,6 @@ title = "003"
 devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - सत्यश्रवा आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषा- इयम्। अरुणेभिः- रोचमानैः। गोभिः- रश्मिभिर्धेनुभिर्वा। युजाना- योजयन्ती। अस्रेधन्ती-  अक्षीणा। अप्रायु- अविचलिताम्। रयिम्- दानयोग्यसम्पदम्। चक्रे- अकरोत्। देवी सुविताय-  सुखाय। पथः- मार्गान्। रदन्ती- विलिखन्ती। पुरुष्टुता- बहुभिः स्तुता। विश्ववारा- बहुभिर्वृता।  वि भाति- प्रकाशते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषा** उषाः **अरुणेभिः** अरुणवर्णैः **गोभिः** बलीवर्दैः रथं **युजाना** योजयन्ती **अस्रेधन्ती** अशुष्यन्त्यक्षीणा वा । किम् । **रयिं** धनम् **अप्रायु** अप्रगन्तृ अविचलितं **चक्रे** करोति । किं कुर्वती । **पथः** मार्गान् **रदन्ती** प्रकाशयन्ती । किमर्थम् । **सुविताय** सुष्ठु गमनाय **देवी** द्योतमाना **पुरुष्टुता** बहुभिः स्तुता 'विश्ववारा सर्वैर्वरणीया **वि** **भाति** प्रकाशं करोति ॥
@@ -246,7 +249,6 @@ There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthet
 
 That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -279,8 +281,6 @@ Die güt'ge Uschas schaffte unablässig uns Reichthum her, mit rothen Stieren fa
 Пролагая пути для удачной поездки, богиня,  
 Несущая все желанные дары, ярко сверкает, когда ее много прославили.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

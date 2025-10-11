@@ -3,7 +3,6 @@ title = "004"
 devataa = "उषाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इदा हि- इदानीमेव। वः- युष्मान्। विधते- परिचरते। रत्नम्। अस्ति- भवति। उषासः-  अरुणोदयदेवता ज्ञानोदयदेवताः। दाशुषे- दात्रे। वीराय- साधकाय। इदा- इदानीमेव यच्छथ।  इदा- इदानीमेव। यत्- यस्मिन्। उक्था- मन्त्राः सन्ति। तस्मै। मावते- मादृशाय। जरते-  रसनिष्पादकाय। विप्राय- मेधाविने। पुरेव। नि वहथ- रत्नं नितरां प्रापयथ॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उषसः** **इदा** **हि** इदानीमेव **वः** युष्माकं **विधते** परिचरते दातुं **रत्नं** धनम् **अस्ति** । **इदा** हि इदानीमेव **वीराय** प्रेरयित्रे हविषां **दाशुषे** यजमानाय दातुं वो रत्नमस्ति । **इदा** हि इदानीमेव **विप्राय** प्राज्ञाय **जरते** स्तुवते दातुं वो रत्नमस्ति । **यत्** यस्मिन् विप्रे **उक्था** उक्थनामकानि स्तोत्राणि विद्यन्ते **मावते** मत्सदृशाय यजमानाय तद्रत्नं **नि** **वहथ** । **पुरा** **चित्** पुरापि रत्नं मह्यं दत्तम् ॥
@@ -269,14 +272,13 @@ Grassmann (and Lubotsky) assign ukṣámānāḥ to √ukṣ ‘sprinkle’, but
 
 Our problematic expression may have spawned the two ánu forms (in c and d) from áyā nú. The first is in the familiar expression ánu jóṣam (II.21.3, etc.) “according to / at pleasure”; the latter I construe with tanvàm (cf. I.147.4 ánu mrk̥ ṣīṣta tanvàm, with similar discontinuity). Neither √vakṣ / ukṣ nor √mṛc otherwise ánu.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is lexical chaining between 3d and 4a with the identical phrase vidhaté rátnam in the same metrical position.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -309,8 +311,6 @@ Denn bald wird Reichthum dem, der euch verehret, dem Manne, der euch huldigt, Mo
 Сейчас для вдохновенного (исполнителя), когда поет он гимны.  
 Вы же привозили (сокровище) еще раньше (человеку,) подобному мне.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - एकद्यूर्नौधसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    नः- अस्माकम्। वाजयुम्- गतिकामम्। रथम्। अव- रक्ष। किमित्- किमपि। परि- परितः। ते-  तव। सुकरम्- सुखेन कर्तव्यं भवति। अस्मान्- नः। सु- सुष्ठु। जिग्युषः- जेतॄन्। कृधि-  कुरु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **नः** **वाजयुम्** अन्नेच्छुं **रथम्** **अव** रक्ष संग्रामे । **ते** तव **किमित्** किमपि सर्वकर्तव्यजातं **परि** परितः **सुकरं** सुखेन कर्तव्यम्। तव कर्तुमशक्यं न किंचिदस्ति । यस्मादेवं तस्मात् **सु** **जिग्युषः** सुष्ठु जेतॄन् कुरु संग्रामे ॥
@@ -209,10 +212,6 @@ Hilf unserem gewinnbegierigen Wagen! Es ist dir leicht, was steht im Wege? Mach 
 
 Dem Wagen hilf, der Preis erstrebt, leicht ist es dir, was hindert dich? O lass gewinnen uns den Preis.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

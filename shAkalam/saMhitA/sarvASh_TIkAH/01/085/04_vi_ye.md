@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुमखासः- शोभनयज्ञाः। ऋष्टिभिः- आयुधैः। भ्राजन्ते- शोभन्ते। अच्युता-  अचलोपलक्षितजडशख्नीः। ओजसा- बलेन। प्रच्यावयन्तः- प्रकर्षेण च्यावयितारः। मनोजुवः-  मनोवेगाः। मरुतः- प्राणविशेषाः। वृषव्रातासः- वर्षकसङ्घाः। रथेषु-  लक्ष्यप्रापकगतिभूतस्ववाहनेषु। पृषतीः- मृगीः। मृगी जिज्ञासाप्रतीकभूता श्रुतौ। आ- समन्तात्।  शास्त्रमर्यादया वा। अयुग्ध्वम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुमखासः** शोभनयज्ञाः **ये** मरुतः **ऋष्टिभिः** आयुधैः **वि** **भ्राजन्ते** विशेषेण दीप्यन्ते ते मरुतः **अच्युता** **चित्** च्यावयितुमशक्यानि दृढानि पर्वतादीन्यपि **ओजसा** स्वकीयेन बलेन **प्रच्यावयन्तः** प्रकर्षेण च्यावयितारः प्रेरयितारो भवन्ति । उत्तरार्धः प्रत्यक्षकृतः । हे **मरुतः** **मनोजुवः** मनोवद्वेगगतयः **वृषव्रातासः** वृष्ट्युदकसेचनसमर्थसप्तसंघात्मका यूयं **रथेषु** आत्मीयेषु **पृषतीः** । पृषत्यः इति मरुद्वाहनानां संज्ञा ‘पृषत्यो मरुताम् ' ( नि. १. १५. ६ ) इत्युक्तत्वात् । पृषद्भिः श्वेतबिन्दुभिर्युक्ताः मृगीः **यत्** यदा **आ** **अयुग्ध्वं** आभिमुख्येन नियुक्ता अकृढ्वम् । तदानीं पर्वतादिकं प्रच्यवते इत्यर्थः ॥ सुमखासः । सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति नञ्सुभ्याम्' इत्यस्य प्रवृत्त्यभावे बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अच्युता ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । मनोजुवः । जु इति सौत्रो धातुर्गत्यर्थः ।  ‘ क्विब्वचि° ' इत्यादिना क्विब्दीर्घौ । अयुग्ध्वम् ।  ‘ युजिर योगे' । लुङि ‘धि च ' (पा. सू. ८. २. २५) इति सकारलोपः ॥
@@ -249,7 +252,6 @@ This verse contains no main clause, just two different subordinate clauses intro
 The adj. manojúvaḥ ‘mind-swift’ could equally well be a nom. pl. masc.
 
 modifying the Maruts or an acc. pl. fem. modifying pṛ́ṣatīḥ. Most tr. opt for the latter, I think correctly on thematic grounds, but grammatically and semantically either is possible. Grassmann and Macdonell (Vedic Reader) take it as a nominative; certainly its position right before marutaḥ in pāda a, with pŕṣatīḥ appearing only in the middle of the second pāda, suggests that the initial audience interpretation would be as a modifier of the Maruts.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -284,8 +286,6 @@ Die kühnen Kämpfer funkeln mit den Speeren rings, mit Kraft erschütternd auch
 Запрягли в колесницы пестрых (антилоп,) быстрых, как мысль.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -306,7 +306,7 @@ Die kühnen Kämpfer funkeln mit den Speeren rings, mit Kraft erschütternd auch
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यो को उचित है कि मन के समान वेगयुक्त विमानादि यानों में जल, अग्नि और वायु को संयुक्त कर, उसमें बैठ के, सर्वत्र भूगोल में जा-आके शत्रुओं को जीतकर, प्रजा को उत्तम रीति से पाल के, शिल्पविद्या कर्मों को बढ़ा के सबका उपकार किया करें ॥ ४ ॥
+भावार्थभाषाः -  मनुष्यो को उचित है कि मन के समान वेगयुक्त विमानादि यानों में जल, अग्नि और वायु को संयुक्त कर, उसमें बैठ के, सर्वत्र भूगोल में जा-आके शत्रुओं को जीतकर, प्रजा को उत्तम रीति से पाल के, शिल्पविद्या कर्मों को बढ़ा के सबका उपकार किया करें ॥ ४ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

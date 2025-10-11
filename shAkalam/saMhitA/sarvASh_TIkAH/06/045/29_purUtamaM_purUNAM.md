@@ -3,7 +3,6 @@ title = "029"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अतिनिचृत्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अतिनिचृत्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - अतिनिचृत्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -99,6 +97,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    पुरूणाम्- बहूनाम्। स्तोतॄणाम्। वाजेभिः वाजयताम्- सद्गतिभिर्बलं कुर्वताम्। विवाचि-  विशेषवाङ्मये लोके। पुरूतमम्- प्रभूतमिन्द्रं पश्ये॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **पुरुतमं** पुरूणां बहूनां शत्रूणां तमयितारं ग्लपयितारं त्वां **पुरूणां** बहूनां **स्तोतॄणाम्** अस्माकं स्तुतिः प्राप्नोत्विति शेषः । कीदृशानाम् । **विवाचि** विविधाः स्तुतशस्त्रात्मिका वाचो यस्मिन् यज्ञे तस्मिन् **वाजेभिः** वाजैर्हविर्लक्षणैरन्नैः  **वाजयतां** वाजवन्तं बलवन्तं वा त्वां कुर्वताम् ॥
@@ -129,8 +132,6 @@ who compete for the prize with their prizes.
 This vs. is syntactically dependent on 28, with the acc. purūtámam picking up tvā in 28a.
 
 The cognate expression vā́jebhir vājayatā́m “competing for the prize with their prizes” is a bit puzzling. I interpr. it as being a slight play on words, with the instr. vā́jebhiḥ referring to the singers’ songs, expressing the means by which they compete, while the prizes they compete for are material goods and fame. This interpr. is somewhat supported by the next vs., where we hope that our praise-song is the most successful one.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -163,8 +164,6 @@ Dem reichsten unter vielen dir im Wettgesang der Preisenden, Die reich an allen 
 В словесном состязании восхвалителей,  
 Соревнующихся за награды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

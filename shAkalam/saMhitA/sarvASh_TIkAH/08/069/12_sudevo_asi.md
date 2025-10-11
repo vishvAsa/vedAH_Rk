@@ -3,7 +3,6 @@ title = "012"
 devataa = "वरुणः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रियमेध
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वरुण। सुदेवः- शोभनदेवः। असि- भवसि। यस्य। ते। सप्त सिन्धवः-  सप्तसाधनभूमिकोन्मुखमूलशख्निधाराः। काकुदम्- मुख्यम्। सूर्म्यं- शोभनोर्मिम्। सुषिरामिव- निम्नमिव। अनुक्षरन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वरुण जलाभिमानिन् देव त्वं **सुदेवोऽसि** **यस्य** सुदेवस्य **ते** तव **काकुदं** तालु समुद्राख्यं **सप्त** **सिन्धवः** गङ्गाद्याः सप्त नद्यः **अनुक्षरन्ति** जिह्वायां सर्वदा स्रवन्ति ॥
@@ -180,9 +183,6 @@ The peculiar simile suggests that the Indo-Aryans were familiar with pipes to co
 
 In fact my thinking was that this might be a structure similar to a (Iranian) qanat -- or something like that. The priyamedha-s were proximal to the branches that became Iranic.
 </details>
-
-
-
 
 <details><summary>Wilson</summary>
 
@@ -223,10 +223,6 @@ Du bist ein guter Gott, o Varuna, in dessen Schlund die sieben Ströme fließen 
 
 Ein rechter Gott bist du, o Varuna, in dessen Schlund die sieben Ströme hineinrinnen, wie in eine Wasserröthe, die gutes Gefälle hat.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

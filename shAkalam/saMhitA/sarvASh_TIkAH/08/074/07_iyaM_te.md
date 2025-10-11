@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्द्र- आनन्दकर। सुजात- सुष्ठु आविर्भूत। सुक्रतो- शोभनसङ्कल्पभूत। अमूर- विद्वन्। दस्म-  दर्शनीय। अतिथे । अग्ने। इयम्- एषा। ते- तव। नव्यसी- अभिनवा। मतिः। अस्मत्-  अस्मासु। अधायि- स्थापिता॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **इयम्** इदानीं क्रियमाणा **नव्यसी** नवतरा स्तुतिः **ते** तव स्वभूता **अस्मत्** अस्मासु **अधायि** धृताभूत् । वयं तव स्तुतिं कुर्म इत्यर्थः । हे **मन्द्र** मोदमान **सुजात** शोभनजनन **सुक्रतो** शोभनकर्मन् **अमूर** अमूढ **दस्म** दर्शनीय **अतिथे** अतिथिवत् पूज्य इत्यग्नेर्विशेषणानि ॥
@@ -223,10 +226,6 @@ Dieses neueste Gedicht wurde dir, Agni, von uns gewidmet, du erfreulicher, hochg
 
 Es ist dir dieses neue Lied, o Agni, dargebracht von uns, O holder, edler, wirkender, o einsichtsvoller, hehrer Gast.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

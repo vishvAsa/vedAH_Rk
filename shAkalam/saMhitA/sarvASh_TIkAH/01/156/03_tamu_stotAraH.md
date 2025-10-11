@@ -3,7 +3,6 @@ title = "003"
 devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -255,6 +254,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तोतारः- हे उपासकाः। यथा विद- यथा जानीथ तथा। तम्। पूर्व्यं- पुराणम्। ऋतस्य गर्भं-  प्रकृतिनियतेरपि कारणभूतम्। जनुषा- विष्णोः स्वात्मनि प्रकटनविषयकीर्तनेन।  अवतारकथाकीर्तनेन वा। पिपर्तन- प्रीणयत। अस्य- एतस्य विष्णोः। आ- आभिमुख्येन। नाम।  चित्- एव। जानन्तः- विद्यासहिताः। विवख्नन- वदत। विष्णो- सर्वव्यापिन्। ते- तव। महः-  महतीम्। सुमतिम्- शोभनमतिम्। भजामहे- सेवामहे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **स्तोतारः** **तमु** तमेव विष्णुं **पूर्व्यं** पूर्वार्हम् अनादिसंसिद्धम् **ऋतस्य** **गर्भं** यज्ञस्य गर्भभूतं यज्ञात्मनोत्पन्नमित्यर्थः । यज्ञो वै विष्णुः '(श. ब्रा. १. १. २. १३) इति श्रुतेः । यद्वा । ऋतस्योदकस्य गर्भं गर्भकारणम् उदकोत्पादकमित्यर्थः ।  ‘ अप एव ससर्जादौ' (मनु. १.८) इति स्मृतेः । एवंभूतं विष्णुं **यथा** **विद** जानीथ तथा **जनुषा** जन्मना स्वत एव न केनचिद्वरलाभादिना पिपर्तन स्तोत्रादिना प्रीणयत यावदस्य माहात्म्यं जानीथ तावदित्यर्थः ॥ विदेर्लटि मध्यमबहुवचनम् । ' विद ऋतस्य ' इत्यत्र संहितायाम्  ‘ ऋत्यकः' इति प्रकृतिभावः ॥ किंच **अस्य** महानुभावस्य विष्णोः **नाम** **चित्** सर्वैर्नमनीयमभिधानं सार्वात्म्यप्रतिपादकं विष्णुरित्येतन्नाम **जानन्तः** पुरुषार्थप्रदमित्यधिगच्छन्तः **आ** समन्तात् **विवक्तन** वदत संकीर्तयत । यद्वा । नाम यज्ञात्मना नमनं विष्णोरेव सर्वेषां स्वर्गापवर्गसाधनाय इष्ट्याद्यात्मना द्रव्यदेवतात्मना वा परिणामम् आ जानन्तो यूयं विवक्तन ब्रूत स्तुत ॥ वचेर्लोटि छान्दसः शपः श्लुः । बहुलं छन्दसि' इति अभ्यासस्य इत्वम् । पूर्ववत् तनादेशः ॥ इदानीं साक्षात्कृत्याह । हे **विष्णो** सर्वात्मक देव **महः** महतः **ते** तव **सुमतिं** सुष्टुतिं शोभात्मिकां बुद्धिं वा **भजामहे** सेवामहे वयं यजमानाः ॥
@@ -281,7 +285,7 @@ Recognizing him, announce his very names. Let us share in the favor of  you who 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The Pp. reads vidá here, the 2nd pl. act. pf., though vidé or indeed vidáḥ would be equally possible in this sandhi situation. Oldenberg says we’re not obliged to read vidé, and the standard tr. follow the Pp. The cross-pāda sandhi -a ṛ- suggested by the Pp is impeccable. As Dieter Gunkel points out to me (pc 11/5/15) “’underlying’ /-e ṛ- /, /-a ṛ-/, and /-as ṛ-/ are all transmitted as ←-a ṛ-&gt; in the saṃhitā text. Where the hemistich boundary intervenes, as here, they are also metrically identical, and therefore identical in the restored text. I gathered examples of /-a ṛ-/ at hemistich boundary from the first four books and found these: 1.15.12ab, 1.68.4ab, 1.116.23b, 1.152.3cd, 2.35.8ab, 3.14.” Nonetheless, against the Pp. I opt for the 3rd sg. mid. vidé, which is common in this phrase (yáthā vidé).
+The Pp. reads vidá here, the 2nd pl. act. pf., though vidé or indeed vidáḥ would be equally possible in this sandhi situation. Oldenberg says we’re not obliged to read vidé, and the standard tr. follow the Pp. The cross-pāda sandhi -a ṛ- suggested by the Pp is impeccable. As Dieter Gunkel points out to me (pc 11/5/15) “’underlying’ /-e ṛ- /, /-a ṛ-/, and /-as ṛ-/ are all transmitted as ←-a ṛ-> in the saṃhitā text. Where the hemistich boundary intervenes, as here, they are also metrically identical, and therefore identical in the restored text. I gathered examples of /-a ṛ-/ at hemistich boundary from the first four books and found these: 1.15.12ab, 1.68.4ab, 1.116.23b, 1.152.3cd, 2.35.8ab, 3.14.” Nonetheless, against the Pp. I opt for the 3rd sg. mid. vidé, which is common in this phrase (yáthā vidé).
 
 The standard tr. interpr. pipartana in fairly generic ways: Geldner “ihn heget,” Renou “comblez (le de louanges)” (taking it to √pṝ ‘fill’), Witzel Gotō “den … fördert.” In the context of the birth motif found in pāda c as well as in 2c, I take the verb as more precise and idiomatic: the usual ‘carry (to the far shore)’ narrowed to ‘carry to term’ of birth. The same sense is found in VI.48.5 (a passage adduced by Geldner) gárbham ṛtásya píprati of Agni’s birth.
 
@@ -311,8 +315,6 @@ Und ihn, o Sänger, der von Alters her besteht, den Spross des Rechts beschenket
 Зная его имена, объявите (их)!  
 Мы хотим вкусить милости у тебя, великого.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

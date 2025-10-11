@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। त्वेषितः- त्वत्प्रार्थितः। विष्णुः- पूषा। पचच्छतं महिषाँ इन्द्र तुभ्यम्। पूषा विष्णुरिति श्रुतेः।  उरुक्रमः- स्वरश्मिना व्याप्तो धर्मभूतज्ञानेन वा। यः पार्थिवानि विममे स एतशो रजांसि देवः सविता  महित्वनेति श्रुतेः सूर्यस्याप्युरुक्रमत्त्वमुच्यते। शतम्- प्रभूतान्। महिषान्- महतो यज्ञान्।  क्षीरपाकमोदनम्- यज्ञहव्यभूतं पायसमन्नम्। अथवा ज्ञानम्। उत नो धियो गोअग्राः  पूषन्विष्णवेवयाव इति श्रुतेः। एमुषम्- यज्ञप्रवर्तनाय जलवन्तम्। वराहम्- मेघं  प्रतीकमित्याध्यात्मिके। विश्वा- सर्वाणि। ता- तानि। आभरत्- आहरत्। इदमेवं चेत् सर्वत्र पूषैव  विष्णुरिति कस्मान्न गृह्यते। शं नो विष्णुः शमु पूषा। कथा महे पुष्टिम्भराय पूष्णे कद्रुदाय सुमखाय  हविर्दे कद्विष्णव उरुगायाय। अदत्रया वार्याणि पूषा भगो अदितिर्वस्त उस्रः इन्द्रो विष्णुर्वरुणो मित्रो  अग्निः। इत्यादि बहुश्रुतिवाक्यैर्विष्णुपूष्णोर्भेदो ज्ञायते। पूषा विष्णुरिति श्रुतेरिन्द्रार्थं महिषपचनादिकं ३    कार्यं पूष्ण एव न तु स्वयं विष्णोरिति सिद्धम्। पूषा स्वकिरणैर्व्याप्तः स्वधर्मभूतज्ञानेन व्याप्त  इतिकारणाभ्यां तस्य विष्णुरिति नाम। विष्ण्वंशभूतत्त्वाद्वा। यथा पुरुषशब्देन परमात्मनिर्देशकेन  विज्ञानात्मापि निर्दिश्यते तदंशत्त्वात्। पूष्णो विष्णुनामापि कादाचित्कमेव। विष्णुशब्दस्य  प्रधानार्थस्त्वन्तर्यामी सर्वव्यापी परमात्मैव श्रुतिषु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अस्या ऋचो नैरुक्तैतिहासिकमतभेदेन द्विधा योजना । नैरुक्तपक्षे तावत् । हे इन्द्र **ता** तानि यानि त्वया स्रष्टव्यान्युदकानि सन्ति तानि **विष्णुः** व्यापनशील आदित्यः **आभरत्** आभरति । लोकाय प्रयच्छतीत्यर्थः । कीदृशो विष्णुः । **उरुक्रमः** बहुगतिः । किं स्वविरोधेन नेत्याह । **त्वेषितः** त्वया प्रेरितः । न केवलमुदकान्येव अपि च **शतं** **महिषान्** शतसंख्याकान् पशून् । महिषशब्दो गवादेरप्युपलक्षकः । अथवा शतशब्दोऽपरिमितवचनो महिष इति महन्नाम । असंख्यातान् महतो यज्ञान् यजमानेभ्य आभरत् ददातीत्यर्थः । किंच **क्षीरपाकं** क्षीरपक्वम् **ओदनं** पायसम् । एतच्चरुपुरोडाशादेरुपलक्षकम् । तद्यजमानेभ्य आभरत् । अथवा सर्वार्थं वृष्टिप्रदानद्वारोदनं प्राहरत् । किंच **इन्द्रः** **वराहं** जलपूर्णं मेघं हन्तीति शेषः । कीदृशं तम् । **एमुषम्** । आ इत्यस्य स्थाने छान्दस एकारः । आमुषमुदकस्य मोषकमित्यर्थः । निरुक्तपक्ष एवम् । ऐतिहासिकपक्षे चरकब्राह्मण इतिहास आम्नायते । विष्णुर्यज्ञः । स देवेभ्य आत्मानमन्तरधात् । तमन्यदेवता नाविदन्निन्द्रस्त्ववेत् । स इन्द्रमब्रवीत्को भवानिति । तमिन्द्रः प्रत्यब्रवीदहं दुर्गाणामसुराणां च हन्ता भवांस्तु क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हन्ता ततोऽयं वराहो वाममुष एकविंशत्याः पुरां पारेऽश्ममयीनां वसति तस्मिन्नसुराणां वसु वाममस्ति तमिमं जहीति । तस्येन्द्रस्ताः पुरो भित्त्वा हृदयमविध्यत्। अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः अस्येदु मातुः सवनेषु ( ऋ. सं. १. ६१. ७ ) ‘ विश्वेत्ता विष्णुः' इत्याभ्यां प्रतिपादितः । तयोर्मध्ये ‘अस्येदु मातुः' इत्यत्र विष्णुना हे इन्द्र त्वं दुर्गाणां हन्तेत्यात्मानं कथयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो ‘ विध्यद्वराहम्' इति पादेन प्रतिपादितः । इन्द्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितान्यसुरश्च घातितस्तस्य वामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थः ‘मुषायद्विष्णुः पचतम्' इति पादेन सूचितः । स किं पुनर्मुषितवानिति तदत्रोच्यते ' विश्वेत्ता' इति । हे इन्द्र त्वेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपी त्वेषितस्त्वं दुर्गादाहर्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि त्वयाहर्तव्यानीत्युक्तानि यानि च तत्र स्थितानि तानि सर्वाण्याभरत् आभरतु । कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान् वा क्षीरपाकमोदनं च पक्वमात्रमेवौदनं चाभरत् ।' विध्यद्वराहम्' इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इन्द्रस्तु वराहं वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति शेषः ॥
@@ -230,8 +233,6 @@ a hundred buffaloes, a rice porridge cooked in milk—(when) Indra
 <details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg and Geldner (see his n. 10d) read loc. índre contra the Pp. nom. índraḥ and interpret the verse as meaning that Viṣṇu brought Emuṣa to Indra, along with the food named in pāda c. But this seems unlikely: the central fact of the myth is that Indra pierced the boar. Cf. I.61.7d vídhyad varāháṃ tiró ádrim ástā “He pierced the boar through the stone, (Indra) the archer.” This last pāda contains both Indra and the boar and ends with the boar’s name as if as the solution of a riddle (remember that this is the only occurrence of the name in the RV), and it would seem rhetorically anticlimactic for the image merely to be one of Viṣṇu lugging the corpse of the boar, along with some food, to Indra. Instead it seems the encapsulation of the myth, and I would further argue that it finally closes the incomplete syntactic circle begun in verse 6. In 6a we find nír āvidhyad giríbhya ā́“(he) pierced from/to/through the mountains,” with the signature verb and the signature locale (see ádrim in I.61.7 just quoted), but neither subject nor object. But in 10d we have both subject (reading nom. índraḥ with the Pp.) and object, but no verb. This seems a clever variant on ring composition, where a structure begun at the beginning of a section is completed at the end. Even if, as I suggest in the introduction, vs. 10 is a tacked-on addition to the original Viṣṇu-less version of the myth found in the rest of this hymn (and other mentions in VIII), the poet has cleverly made use of the underdefined treatment in 6a to attach vs. 10 more closely to vss. 6-9 by supplying the missing pieces in 10d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -265,8 +266,6 @@ Alles dies brachte der von dir gesandte weitschreitende Vischnu herbei, hundert 
 Сотню буйволов, похлебку, вареную на молоке,  
 Кабана Эмушу, о Индра.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

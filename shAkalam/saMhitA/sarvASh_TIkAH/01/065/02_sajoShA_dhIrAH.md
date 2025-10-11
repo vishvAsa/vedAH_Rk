@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,12 +143,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+न तायुम्- चोरमिव स्थितम्। चित्तचोरमिति भावः। पश्वा- द्रष्ट्रात्मना। पश्यतीति पशुः। गुहा  चतन्तम्- हृद्गुहाविष्टम्। चोरो यथा गह्वरेषु लीनो भवति तथा लीनमिति भावः। नमो युजानम्-  नमस्कारानुपासकैर्योजयन्तम्। नमो वहन्तम्- देवानां कृते नमांसि प्रापयन्तम्। अग्निम्। सजोषाः-  समानप्रीतयः। धीराः- धारणासंपन्नाः। पदैः- चरणलाञ्छनोपलक्षिताभिः सद्भावनाभिः। अनु  ग्मन्- अन्वगच्छन्। विश्वे- सर्वे। यजत्राः- यज्ञपालकाः। त्वा- भवन्तम्। उप सीदन्-  उपविविशुः॥१॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धीराः** मेधाविनो देवाः **सजोषाः** समानप्रीतयः सन्तो हे अग्ने त्वां **पदैः** मार्गे पादकृतैर्लाञ्छनैः **अनु** **ग्मन्** अन्वगमन् । कीदृशम् । **पश्वा** अपहृतेन पशुना सह वर्तमानं **तायुं** **न** । तायुरिति स्तेननाम । यथा स्तेनः परकीयं पश्वादिधनमपहृत्य दुष्प्रवेशे गिरिगह्वरे वर्तते तद्वत् । **गुहा** **चतन्तं** अब्रूपायां गुहायां गच्छन्तं वर्तमानम् । चततिर्गतिकर्मा । तथा च तैत्तिरीयैरग्नेरप्सु प्रवेशः समाम्नायते-- ’ स निलायत सोऽपः प्राविशत् ' (तै. सं. २. ६. ६. १ ) इति । यद्वा । अश्वत्थगुहायां वर्तमानम्। श्रूयते च -– अग्निर्देवेभ्यो निलायत । अश्वो रूपं कृत्वा सोऽश्वत्थे संवत्सरमतिष्ठत् ' ( तै. ब्रा. १. १. ३. ९ ) इति । तथा **नमो** **युजानं** हविर्लक्षणमन्नमात्मना संयुजानं **नमो** **वहन्तं** देवेभ्यः प्रत्तं हविर्वहन्तम् । **यजत्राः** यजनीयाः **विश्वे** सर्वे देवा हे अग्ने **त्वा** त्वाम् **उप** **सीदन्** समीपं प्राप्नुवन्  ददृशुरित्यर्थः । पश्वा । तृतीयैकवचनस्य ' जसादिषु च्छन्दसि वावचनम् ' इति नाभावाभावः । ‘उदात्तयण: ' इति विभक्तेरुदात्तत्वम् । गुहा । भिदादिषु पाठात् अङ्गप्रत्ययान्तः । वृषादिषु पाठादाद्युदात्तत्वम् ।' सुपा सुलुक्' इति सप्तम्या लुक् । युजानम् । शानचि ‘बहुलं छन्दसि ' इति विकरणस्य लुक् । सजोषाः । ‘ जुषी प्रीतिसेवनयोः'। समानं जुषन्त इति सजोषसः । ‘ समानस्य च्छन्दसि° ' इति सभावः । कृदुत्तरपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्' इति जसः सुः । ग्मन् । गमेर्लुङि ‘ मन्त्रे घस ' इति च्लेर्लुक् ।' गमहन° ' इत्यादिना उपधालोपः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । यजत्राः ।“ अमिनक्षि' इत्यादिना अत्रन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -165,8 +166,6 @@ something else is enclosing Agni, configured as a calf (vátsaṃ), using pári 
 (I wonder if the somewhat pleonastic+++(=redundant)+++ presence of bhúvat in our passage is meant to resonate with those pári √bhū passages.) Thus, though in our passage Agni is clearly the object of enclosure in the myth of his hiding in the waters, he himself can take the role of encloser in this tight-knit collection - allowing for the possibility that he might here be supplied as subjective genitive with páriṣṭiḥ, save for the mythological context.
 
 All in all, I.65.3cd packs a lot into its ten syllables and five words, as witnessed by the many more words (more than ten times as many) in this entry required to describe its syntactic and semantic tricks.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -198,10 +197,6 @@ ihm gingen die Weisen einträchtig auf seinen Spuren nach. Dir nahten alle Opfer
 Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich versteckt hält, Die hehren alle, – um dich sich setzend, Der Andacht anschirrt – und Andacht fähret.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -222,7 +217,7 @@ Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich ve
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! तुम लोग जैसे वस्तु को चुराए हुए चोर के पाद आदि अङ्ग वा स्वरूप देखने से उसको पकड़कर चोरे हुए पशु आदि पदार्थों का ग्रहण करते हो, वैसे अन्तःकरण में उपदेश करनेवाले, सबके आधार विज्ञान से जानने योग्य परमेश्वर तथा बिजुलीरूप अग्नि को जान और प्राप्त होके सब आनन्द को स्वीकार करो ॥ १ ॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! तुम लोग जैसे वस्तु को चुराए हुए चोर के पाद आदि अङ्ग वा स्वरूप देखने से उसको पकड़कर चोरे हुए पशु आदि पदार्थों का ग्रहण करते हो, वैसे अन्तःकरण में उपदेश करनेवाले, सबके आधार विज्ञान से जानने योग्य परमेश्वर तथा बिजुलीरूप अग्नि को जान और प्राप्त होके सब आनन्द को स्वीकार करो ॥ १ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

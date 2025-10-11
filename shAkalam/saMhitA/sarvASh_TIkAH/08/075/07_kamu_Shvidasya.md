@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। अपाकचक्षसः- अनल्पचक्षसः। अग्नेः। सेनया- ज्वालारूपिण्या। कम्। पणिम्-  लोभिनम्। गोषु- धेनुषु चिद्रश्मिषु निमित्तभूतेषु। स्तरामहे- अभिभवेम॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** **अग्नेः** **अपाकचक्षसः** अनल्पचक्षसोऽग्नेः **सेनया** ज्वालारूपया **गोषु** निमित्तेषु **कमु** **ष्वित्** कं खलु **पणिं** **स्तरामहे** । स्तरणं हिंसनम् । इदानीं बलिनमभिभवेमेत्यर्थः ॥
@@ -188,10 +191,6 @@ Welchen Pani werden wir denn mit dem Flammenheere dieses Agni, der im Rücken Au
 
 Wie? strecken wir durch das Geschoss des Agni hier, der fernhin strahlt, Den Dieb nicht bei den Kühen hin?
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

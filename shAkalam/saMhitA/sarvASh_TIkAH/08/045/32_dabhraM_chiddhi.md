@@ -3,7 +3,6 @@ title = "032"
 devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशोकः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षमि- भूमौ। अधि। त्वावतः- त्वद्विधस्य। दभ्रम्- अल्पम्। चित्- एव। हि- खलु। कृतं कर्म।  शृण्वे- श्रूयते। यच्छ्रूयते तच्छतांशमेवेति भावः। शततमी सा तनूर्मे बभूवेति यथा। इन्द्र- परमेश्वर।  ते- तव। मनः- चित्तम्। जिगातु- अस्मानभिगच्छतु॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वावतः** त्वत्सदृशस्य **दभ्रं** **चित्** अल्पमपि **कृतं** कर्म **अधि** **क्षमि** क्षमायाम् । अधीति सप्तम्यर्थानुवादः । **शृण्वे** विश्रुतं भवति हि । तथा सति **ते** तव **मनः** **जिगातु** मयि गच्छतु ॥
@@ -208,8 +211,6 @@ Denn auch das kleinste, was du thust, so wie du bist, ist weltberühmt; Dir, Ind
 Пусть мысль твоя обратится к нам, о Индра!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -229,8 +230,6 @@ Denn auch das kleinste, was du thust, so wie du bist, ist weltberühmt; Dir, Ind
 </details>
 
 <details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
-
-
 </details>
 
 <details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>

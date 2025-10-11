@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वतोधीः- सर्वतो मेधावान्। नः- अस्माकम्। ऊतये- रक्षायै। पुरन्धिः- पुरुधारणासमर्थः। नः-  अस्मान्। आ गहि- आगच्छ॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **स्मत्पुरंधिः** स्वर्गकुटुम्बी **नः** अस्मान् **आ** **गहि** । तथा **विश्वतोधीः** सर्वजगतो धारकस्त्वं **नः** अस्माकम् **ऊतये** रक्षणाय आ गहि आगच्छ ॥
@@ -227,8 +230,6 @@ Mit Segensfülle komm zu uns auf alles achtend, uns zum Schutz; Von jenes Herrsc
 Повелевая тем небом,  
 Все отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

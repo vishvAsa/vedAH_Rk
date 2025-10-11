@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -257,6 +255,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+परमया- श्रेष्ठया। धिया- धारणया। पुराजाम्- पुरा जातम्। अजरम्- जरारहितम्। तम्। इन्द्रम्।  अर्कैः- मन्त्रैः। अभि अनूषि- स्तौमि। अस्मिन्- एतस्मिन्निन्द्रे। ब्रह्म- उपासनानि। गिरः-  मन्त्रान्। च। सम्- सम्यक्। दधिरे- धृतवन्तः। इन्द्रे। महान्। स्तोमः- मन्त्रः। अधि वर्धत्-  वर्धते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **तं** तादृशम् **इन्द्रं** **वः** त्वाम् ॥ व्यत्ययेन बहुवचनम् ॥ **परमया** उत्कृष्टतमया **धिया** स्तुत्या **अकैं:** अर्चनसाधनैर्हविर्भिः सार्धम् अभ्यनूषि अभिष्टौमि । कीदृशम् । **पुराजां** पूर्वस्मिन् काले जातं चिरंतनम् **अजरं** जरारहितं नित्यम् । अतः कारणात् अस्मिन् **इन्द्रे** **ब्रह्म** ब्रह्माणि हविर्लक्षणान्यन्नानि **गिरः** स्तुतयश्च **सं** दधिरे संधीयन्ते संश्लिष्यन्ते । **महान्** प्रवृद्धः **स्तोमः** **च** **अधि** **वर्धत्** अधिकं वर्धते ॥
@@ -286,8 +289,6 @@ The second hemistich contains, in my view, a double ca construction conjoining t
 My “puts strength in Indra” reflects the transitive periphrasis I see in this lexeme.
 
 The syntactically clearer forms of act. várdha- in the next vs. can be viewed as a type of poetic repair.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
@@ -320,8 +321,6 @@ Den urgebornen Indra, der nicht altert, begrüss' ich euch mit Preis und bester 
 Священные слова и хвалебные песни сосредоточены на нем,  
 И пусть крепнет великое восхваление Индре!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

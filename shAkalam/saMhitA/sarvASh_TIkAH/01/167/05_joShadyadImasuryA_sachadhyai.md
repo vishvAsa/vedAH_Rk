@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नृमणाः- नृणां हितकारिणी। विषितस्तुका- विप्रकीर्णकेशी। वृत्रैर्युद्धावस्थायामेवं भवति। असुर्या-  प्राणदा। रोदसी- सस्तनयित्नुविद्युद्भूता। आध्यात्मिके रुद्रविद्यामयी वाक्। विदथ्येव सं वागिति  श्रुतेः। सचध्यै- सङ्गमाय। ईम्- मरुद्गणम्। जोषत्- सेवते। सूर्येव- उषा यथाश्विरथमारोहति तथा।  विधतः- परिचरतो मरुद्गणस्य। रथम्। आ गात्। त्वेषप्रतीका- दीप्तिमती। नभसः- सूर्यस्य।  नेत्या- गतिरिव तस्या भवति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रोदसी** मरुत्पत्नी विद्युत् वा एतन्नामिकेयमपि **ईम्** एनं मरुत्संघं **जोषत्** सेवते ॥ जुषेर्लेटि अडागमः ॥ किमर्थम् । **सचध्यै** संगमनार्थम् । कीदृशी सा । **असुर्या** । असुराः क्षेप्तारो मरुतः । तेषां  स्वभूता **विषितस्तुका** विशिष्टकेशसंघा विप्रकीर्णकेशसंघा वा संभोगवशेन तथा **नृमणाः** नृषु नेतृषु मरुत्सु मननवती मनुष्येषु वा वृष्टिप्रदानमनोयुक्ता **त्वेषप्रतीका** दीप्तोपक्रमा दीप्तावयवा । ईदृशी देवी **विधतः** परिचरतो मरुत्संघस्य **रथम्** **आ** **गात्** आगच्छति व्याप्नोति । यागदेशं गन्तुं रथमारुह्य वा यज्ञमागच्छति । केव । विधतः सूर्यस्य रथं त्वेषप्रतीका **सूर्येव** सूर्यपत्नीव । यद्वा । सूर्यस्य दुहिता अश्विनोः रथमिव सा यथा आरोहति तद्वत् आगमने दृष्टान्तः। **नभसः** **इत्या** **न** । अन्तरिक्षादित्ययोः साधारणोऽयं नभःशब्दः ‘नभ इति षट् साधारणानि ' ( नि. १. ४. ६ ) इत्युक्तत्वात् । अत्र आदित्यवचनः । तस्य गतिरिव । सा यथा शीघ्रा तद्वत् ॥ ॥ ४ ॥
@@ -263,8 +266,6 @@ My reason for preferring the preterital reading has to do with my view of the st
 
 Since the chariot mounting of 6a is part of the mythological past, a preterital (or timeless) tr. fits it better. (It might also be better to tr. the injunc. ā́… gāt in 5c in the same preterital fashion.) In the published translation I take śubhé with the preceding pāda: “mount for beauty,” since śúbh- is very commonly used in Marut hymns to refer to their journey (cf., e.g.,
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
@@ -297,8 +298,6 @@ Wenn sie nun will die himmlische begleiten, gelösten Haars die männerholde Jun
 Как Сурья, она взошла на колесницу почитателя,  
 С видом страшным, как приближение грозовой тучи.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

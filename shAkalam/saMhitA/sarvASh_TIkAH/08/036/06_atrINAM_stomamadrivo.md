@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "शक्वरी"
 - ऋषिः - श्यावाश्वः
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -281,6 +279,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिवः- वज्रिन्। अत्रीणाम्- अग्न्युपासकानाम्। स्तोमम्- मन्त्रम्। महस्कृधि- पूजितं कुरु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रिवः** अद्रिमन् **अत्रीणां** **स्तोमं** **महस्कृधि** पूजितं कुरु । सिद्धमन्यत् ॥
@@ -331,8 +334,6 @@ Der Atri's Loblied schätze hoch, o Schleuderer, den Soma trink zum Rausch, o vi
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

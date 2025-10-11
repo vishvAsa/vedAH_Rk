@@ -3,7 +3,6 @@ title = "016"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अक्षितम्- अक्षीणम्। उत्सम्- उदकम्। दुहन्तः। ये। द्रप्सा इव- सरणशीलाः। वृष्टिभिः। रोदसी-  द्यावापृथिव्यौ। अनु धमन्ति- अनुगच्छन्ति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** मरुतः **द्रप्साइव** उदबिन्दव इव **रोदसी** द्यावापृथिव्यौ **वृष्टिभिः** वर्षणैः **अनु** **धमन्ति** अनुगच्छन्ति साकल्येन व्याप्नुवन्ति । यद्वा । अनुध्माते उच्छ्वसितावयवे कुर्वन्ति । किं कुर्वन्तः । **अक्षितम्** अक्षीणमुदकम् **उत्सं** मेघं दुहन्तः पूरयन्तो मेघादवाङ्मुखं पातयन्तः। दुहेः ‘लक्षणहेत्वोः' (पा. सू. ३. २. १२६) इति हेतौ शतृप्रत्ययः । यत एवं दुहन्ति ततो रोदसी अनुधमन्तीत्यर्थः ॥
@@ -157,7 +160,6 @@ milking the unfailing wellspring,
 <details><summary>Jamison Brereton Notes</summary>
 
 However odd the expression drapsā́ḥ … dhámanti “the droplets blow their blast” may seem, it is found twice elsewhere: the extremely enigmatic VIII.96.13 and the somewhat clearer IX.73.1. The latter is a noise-making context, as this may be.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
 <details open><summary><h2>16-17 ...{Loading}...</h2></summary>
@@ -197,8 +199,6 @@ Sie, die den unerschöpften Born ergiessend alle Welt besprühn mit Regen wie de
 Каплями дождя, словно капли сомы,  
 Выдаивая неистощимый источник...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। एतत्- इदम्। ते- तव। वीर्यम्। गीर्भिः- वाग्भिः। कारवः- कर्मशीलाः।  गृणन्ति- स्तुवन्ति। ते- अमी। स्तोभन्तः- स्तुवन्तः। ऊर्जं- प्राणं बलं वा। ऊर्ज प्राणबलयोः।  आवन्- प्रापुः। घृतश्चुतम्- जीवोदकस्रावकम्। धीतिभिः- धीभिः। पौरासः- शारीराः। नक्षन्-  व्याप्नुवन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -233,8 +236,6 @@ Die Dichter preisen mit Gesang o Indra, diese deine Kraft, Sie brachten singend 
 Восхваляя, они овладели питательной силой, сочащейся жиром.  
 Пауры пришли со (своими) молитвами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

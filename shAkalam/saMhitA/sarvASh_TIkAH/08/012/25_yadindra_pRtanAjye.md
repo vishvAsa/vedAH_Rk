@@ -3,7 +3,6 @@ title = "025"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। यत्- यदा। देवाः। त्वा- त्वाम्। पृतनाज्ये- युद्धे। पुरः दधिरे- नेतृत्त्वेन स्थापितवन्तः।  आदित्- तदैव। ते- तव। हर्यता- कमनीयौ। हरी- प्राणाश्वौ। ववक्षतुः- अवहताम्॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **पृतनाज्ये** । संग्रामनामैतत् । पृतनाः सेना अजन्ति गच्छन्त्यस्मिन्निति वा पृतना जीयतेऽत्रेति वा पृतनाज्यं संग्रामः । तत्र **त्वा** त्वां **यत्** यदा **देवाः** **पुरः** **दधिरे** वृत्रहननाय पुरतोऽधारयन् **आदित्** अनन्तरमेव **हर्यता** हर्यतौ कान्तौ । **हर्य** गतिकान्त्योः ' । 'भृमृदृशि' इत्यादिनौणादिकोऽतच्प्रत्ययः । ईदृशौ **हरी** अश्वौ **ते** त्वां **ववक्षतुः** अवहताम् ॥ ॥ ५ ॥
@@ -187,7 +190,6 @@ When, o Indra, at the battle-charge the gods set you in front, just after that y
 <details><summary>Jamison Brereton Notes</summary>
 
 The opening verse of this tṛca echoes that of the last tṛca (22), with 22ab índram …, devā́so dadhire puráḥ matched by 25b devā́s tvā dadhiré puráḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details open><summary><h2>25-28 ...{Loading}...</h2></summary>
@@ -220,8 +222,6 @@ Als Indra dich zur Feindesschlacht die Götter hatten ausersehn, Da wuchs empor 
 Боги тебя поставили впереди,  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

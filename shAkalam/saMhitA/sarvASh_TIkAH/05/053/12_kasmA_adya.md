@@ -3,7 +3,6 @@ title = "012"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एना- अनेन। यामेन- मार्गेण। मरुतः। कस्मै। अद्य- इदानीम्। सुजाताय-  अभ्युदितशोभनभावनाय। रातहव्याय- दत्तहविष्काय। प्र- प्रकर्षेण। ययुः- गच्छन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्य** अस्मिन् दिने **कस्मै** **सुजाताय** **रातहव्याय** दत्तहविष्काय **प्र** **ययुः** प्रकर्षेण गच्छेयुः **एना** अनेन **यामेन** रथेन **मरुतः** ॥
@@ -179,8 +182,6 @@ Zu welchem hochgeborenen, der Opfer spendet, drangen heut Auf ihrer Fahrt die Ma
 Приносителю жертв отправились  
 Сегодня Маруты по тому пути.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। रथीतमः- महारथः। सूरः- सूर्यः। परुषे- पर्ववति। गवि- स्वकिरणसमूहे।  हिरण्ययम्- सुवर्णम्। चक्रम्। न्यैरयत्- प्रेरयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **सूरः** प्रेरकः **रथीतमः** अतिशयेन रथी नेतृतमो वा पूषा **परुषे** परुष्मति पर्ववति भास्वति वा **गवि** । गच्छतीति गौरादित्य: । तस्मिन् **हिरण्ययं** हिरण्मयं सुवर्णनिर्मितम् **अदः** तत् रथस्य **चक्रं** **न्यैरयत्** नितरां प्रेरयति स्म ॥
@@ -169,8 +172,6 @@ he set down in the “gray cow”—he the best charioteer.
 As noted in the published introduction, the content of this vs. is quite baffling, though the syntax and, for the most part, the lexicon are not. Geldner (n. 3) pronounces it a “dunkler Sagenzug,” and I can only agree. I have argued that it is connected with the even more baffling VI.48.17 (see comm. there) and that these two passages associate Pūṣan with the “tearing off the Sun’s wheel” myth that remains tantalizingly out of our reach. But this must remain speculation.
 
 The paruṣé gávi tr., “in ‘the gray cow’,” is of course masc., so should perhaps be “gray bull,” though I meant cow=bovine. The phrase is reminiscent of V.27.5 paruṣā́ḥ … ukṣánaḥ “gray bulls/oxen,” but that phrase is in a dānastuti and does not help us with the metaphor here. For another possible - if extremely tenuous - connection see comm. ad X.5.5.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/056/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -204,8 +205,6 @@ Und dort stiess auf den bunten Stier das goldne Sonnenrad herab Er, der am beste
 Загнал золотое колесо солнца.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -226,7 +225,7 @@ Und dort stiess auf den bunten Stier das goldne Sonnenrad herab Er, der am beste
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो मनुष्य कठोर भाषण को छोड़ कोमल भाषण करता है, वह सदा आनन्दी होता है ॥३॥
+भावार्थभाषाः -  जो मनुष्य कठोर भाषण को छोड़ कोमल भाषण करता है, वह सदा आनन्दी होता है ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "012"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शत्रून्- रिपून्। हतम्- नाशयतम्। मित्रिणः- सुहृदः। यततम्- गच्छतम्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **शत्रून्** **च** **हतम्** । उतापि च **यततं** **मित्रिणः** मैत्रीयुक्तान् **च** गच्छतम् । सिद्धमन्यत् ॥ ॥ १५ ॥
@@ -286,8 +289,6 @@ Erschlagt die Feinde, einigt die Verbündeten, und schenket Kinder, schenket rei
 Единодушные с Ушас и Сурьей,  
 Наделите нас питательной силой, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

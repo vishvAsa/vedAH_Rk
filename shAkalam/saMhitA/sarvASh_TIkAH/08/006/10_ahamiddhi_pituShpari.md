@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहम्। पितुः- जनकसमस्य। ऋतस्य- सत्यस्य। मेधाम्। जग्रभ- गृहीतवानस्मि। अहम्।  सूर्यः- सविता। इव। अजनि- जातः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पितुः** पालकस्य **ऋतस्य** सत्यस्य अवितथस्येन्द्रस्य **मेधाम्** अनुग्रहात्मिकां बुद्धिम् **अहमित्** अहमेव **परि** **जग्रभ** परिगृहीतवानस्मि नान्ये । **हि** यस्मादेवं तस्मात् **अहं** सूर्यइवाजनि सूर्यो यथा प्रकाशमानः सन् प्रादुर्भवति तथाजनिषं प्रादुरभूवम् ॥ ॥ १० ॥
@@ -185,8 +188,6 @@ I have been (re)born like the sun.
 Geldner explains the form of ajani as “attraction to the simile” (that is, 3rd ps.
 
 instead of 1st ps.), but although obviously there is no 1st sg. passive aorist, if there were to be, this is what it would be. More problematic is the logical connection of ab with c. Geldner thinks that the rebirth is “durch die Erleuchtung”; I assume he means that the acquisition of knowledge and the resulting illumination caused the poet to be reborn like the sun. But the sun is reborn every day, and the passing of knowledge from father to son presumably happens once or a few times at most -- although, if the father is the son’s teacher, it might be a daily event.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -219,8 +220,6 @@ Denn ich empfing vom Vater her des heil'gen Brauches Wissenschaft, Der Sonne gle
 Дар прозрения истины.  
 Я (воз)родился, словно солнце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

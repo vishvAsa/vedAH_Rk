@@ -3,7 +3,6 @@ title = "009"
 devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - आप्त्यस्त्रितः कुत्स आङ्गिरसो वा
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। अमी- ते। सप्त रश्मयः- भूर्भुवरादिसप्तस्थानस्थाः सप्तचित्किरणविशेषाः। तत्र- तेषु। मे-  मम। नाभिः- मध्यः सारः। आतता- विस्तीर्णः क्लृप्तः। आप्त्यः- आप्तहितकारीति वैदिककोशः।  त्रितः- तीर्णतमस्तिरस्कृताज्ञानः। सः। जामित्वाय- चिद्रश्मिभिः स्वबान्धव्यख्यापनाय। रेभति-  तान् स्तौति। रेभृ शब्दे॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 योऽमी द्युलोके वर्तमानाः सप्तसङ्ख्याका रश्मयः सूर्यस्य किरणाः सन्ति तत्र तेषु सूर्यरश्मिष्वध्यात्वं सप्तप्राणरूपेण वर्तमानेषु मे मदीया नाभिरातता सम्बद्धा । ऋषिरात्मानमेव परोक्षतया निर्दिशति । त्रितस्तीर्णतमस्तिरस्कृताज्ञान आप्त्योऽपां पुत्र ऋषिस्तत्पूर्वोक्तं वृत्तान्तं वेद । जानाति । नान्यः । स जानन्नृषिर्जामित्वाय कूपान्निर्गन्तृत्वाय रेभति । तान् रश्मीन् स्तौति । अन्यत्समानं ॥ अतता । तनोतेः कर्मणि निष्या । आनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । जामित्वाय । जमतिर्गतिकर्मा । जमति गच्छतीति जामिः । औणादिक इण्प्रत्ययः । तस्य भावस्तत्त्वम् । रेभति । रेभृ शब्दे । भौवादिकः ॥ ९ ॥
@@ -262,8 +265,6 @@ Trita Āptya knows this. He rasps (witness) to the kinship.
 Various referents have been suggested for the seven reins. I tentatively take them as the seven seers (note the phonological echo between raśmáyah and ṛ́ṣayaḥ), which would allow a connection to be established both with the poetic tradition and, if the seven seers are already equated with the stars in the Big Dipper (in the Great Bear) as they are later, with that astronomical structure. That the next verse also presents what appears to be an astronomical image supports this interpr. Moreover the phrase tátrā me nā́bhir ā́tatā “to there my umbilical cord is stretched” recalls the idiom “tie navel to navel” (sám / ā́√dā), which asserts a family connection between the earthly poet and divine or semi-divine figures and elements in heaven. See comm. ad I.139.1.
 
 The verb ‘rasps’ (rebhati) may convey the sound of old man's voice, as would be appropriate for an ancestor.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -298,8 +299,6 @@ Dort wo die sieben Strahlen sind, da ist verbreitet mein Geschlecht, Das kennet 
 Он поднимает голос в пользу родства.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

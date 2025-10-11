@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। हविष्मन्तः- हव्ययुख्नाः। जनासः- जनाः। मित्रम्- सखायम्। न- इव। सर्पिरासुतिम्-  सर्पिग्राहकम्। प्रशस्तिभिः- प्रशंसाभिः। प्रशंसन्ति- स्तुवन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यम्** अग्निं **जनासः** जना यजमानाः **हविष्मन्तः** सन्तः **मित्रं** **न** मित्रमिवादित्यमिव सखायमिव वा सर्पिरासुतिं सर्पिरासूयते हूयते यस्मिंस्तादृशं **प्रशंसन्ति** स्तुवन्ति **प्रशस्तिभिः** स्तुतिभिः स्तुव इति शेषः ॥
@@ -162,10 +165,6 @@ Den die Leute, Opfergaben bringend, den Schmalzschlürfer wie Mitra mit Preisred
 
 Ihn, den die Menschen opferreich, den Butterschlürfer, gleich dem Freund Mit Preisgesang verherrlichen,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

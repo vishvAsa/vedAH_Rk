@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्ये- ते। एते- इमे। वृथक्- पृथक्। अग्नयः। इद्धासः- समुद्दीपिताः। उषसाम्- अरुणोदयानाम्।  केतवः- रश्मयः। इव। समदृक्षत- अदृश्यन्त॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एते** **त्ये** एते अग्नयः **वृथक्** पृथक् **इद्धासः** अग्निहोत्रिभिः समिद्धाः सन्तः **उषसामिव** **केतवः** उषसां प्रज्ञापका इव **समदृक्षत** सम्यग्दृश्यन्ते ॥ ॥ २९ ॥
@@ -190,8 +193,6 @@ Es zeigten diese Flammen sich der Morgenröthe Strahlen gleich, Entzündet, lust
 Зажженные огни,  
 Словно знамена зорь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

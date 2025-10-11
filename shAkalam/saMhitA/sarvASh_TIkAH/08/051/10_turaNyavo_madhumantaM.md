@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मधुमन्तम्- मधुरम्। घृतश्चुतम्- उदकस्रावकम्। अर्कं- मन्त्रम्। तुरण्यवः- त्वरमाणाः। विप्रासः-  मेधाविनः। आनृचुः- समर्पयन्ति। अस्मे- अस्मै। रयिः- दानयोग्यधनम्। पप्रथे- प्रथितं भवति।  अस्मे- अस्मै।  वृष्ण्यम्- वर्षकम्। शवः- बलम्। अस्मे- अस्मै। सुवानासः- सुष्ठु निष्पन्नाः।  इन्दवः- रसा भवन्ति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -215,8 +218,6 @@ Die eifrigen Sänger haben den Preisgesang gesungen, der von süssem Somatrank b
 У нас распространилось богатство, бычья сила,  
 У нас выжаты соки сомы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

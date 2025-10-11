@@ -3,7 +3,6 @@ title = "020"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मही- महत्यौ। समीची- सङ्गते। चम्वा- द्यावापृथिव्यौ। इन्द्रः। सम्- सम्यक्। ऐरयत्- प्रेरयति।  उभे ते- द्यावापृथिव्यौ। अस्य- एतस्येन्द्रस्य। वसुना- तेजसा। न्यृष्टे- व्याप्ते। वसूनि- सम्पदः।  विन्दमानः- लभमानः। वीरः- इन्द्रः। शृण्वे- श्रूयते। महद्देवानामसुरत्त्वमेकम्॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मही** महत्यौ **समीची** परस्परं संगते **चम्वा** । चमन्त्यदन्त्यनयोः देवमनुष्याः इति चम्वौ। यद्वा । चम्येते अद्येते भूतजातैरिति चम्वौ द्यावापृथिव्यौ । **समैरत्** इन्द्रः प्रजापश्वादिभिः सम्यगयोजयत् । **ते** **उभे** द्यावापृथिव्यौ **अस्य** इन्द्रस्य **वसुना** तेजसा धनेन वा **न्यृष्टे** नितरां व्याप्ते भवतः । **वीरः** समर्थः स इन्द्रः **वसूनि** शत्रूनभिभूय तदीयानि धनानि **विन्दमानः** लभमानः सन् **शृण्वे** सर्वैः श्रूयते । ‘तवेदिदमभितश्चेकिते वसु' (ऋ. सं. १.५३.३ ) इत्यादिषु दृष्टत्वात् ॥ ऐरत् ।  ‘ ईर गतौ ' इत्यस्य लङि रूपम् । न्यृष्टे । 'ऋषी गतौ ' । कर्मणि क्तः ।  ‘ गतिरनन्तरः' इति गतेः स्वरः । शृण्वे ।  ‘ श्रु श्रवणे' इत्यस्य व्यत्ययेन कर्मणि श्नुः ।  ‘ लोपस्त आत्मनेपदेषु ' इति तलोपः । विन्दमानः । ' विद्लृ लाभे ' इत्यस्य लटि शानचि रूपम् । तस्य लसार्वधातुकस्वरे धातुस्वरः ॥
@@ -250,8 +253,6 @@ lordship of the gods.
 <details><summary>Jamison Brereton Notes</summary>
 
 I assume that the subject of this vs. is Indra. One of his standard cosmogonic deeds involves the creation and separation of the two worlds, the separation here implied by the material crammed between them. Indra is of course commonly identified as a vīrá-; he also “finds goods” (e.g., II.13.11, VIII.61.5), though so do other gods as well as mortals.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -285,8 +286,6 @@ Er schuf vereint die beiden Weltenschalen, sie beide sind gefüllt mit seinem Gu
 Героем слывет (тот,) кто находит добро.  
 Велико могущество богов, единственно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

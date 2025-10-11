@@ -3,7 +3,6 @@ title = "024"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    अग्ने। वसुः- शरण्यः। वसुपतिः- धनपालकः। विभावसुः- दीप्तिधनः। असि- भवसि। ते- तव।  सुमतौ। स्याम- भवेम॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वं **विभावसुः** दीप्तिधनः **वसुपतिः** धनपतिः **वसुः** वासयिता च **असि** भवसि **हि** यस्मादतो वयम् **अपि** **ते** तव **सुमतौ** अनुग्रहबुद्धौ **स्याम** भवेम ॥
@@ -198,8 +201,6 @@ Denn du bist guter Herr des Guts, du bist, o Agni, glanzbegabt, Lass fest uns st
 О Агни, чье благо – это блеск.  
 Да будем мы в милости у тебя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

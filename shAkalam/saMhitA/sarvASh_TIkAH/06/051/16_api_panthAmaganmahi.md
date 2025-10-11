@@ -3,7 +3,6 @@ title = "016"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)
 _________
 **Morph**  
 aganmahi ← √gam- (root)  
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अपि- अपि च। येन। विश्वाः- सर्वान्। द्विषः- द्वेष्टॄन्। परि वृणख्नि- नाशयति। वसु- सम्पदम्।  विन्दते- लभते। तम्। स्वस्तिगाम्- क्षेमेण गन्तव्यम्। अनेहसम्- अदोषम्। पन्थाम्- मार्गम्।  अगन्महि- प्राप्ताः स्मः॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पन्थां** पन्थानं मार्गम् **अपि** **अगन्महि** । अपिगताः प्राप्ताः स्मः । कीदृशम् । स्वस्तिगां सुलेन गन्तव्यम् **अनेहसं** पापरहितम्। **येन** पथा गच्छन् **विश्वाः** सर्वाः **द्विषः** द्वेष्ट्रीः प्रजाः **परि** **वृणक्ति** परिवर्जयति बाधते **वसु** धनं च **विन्दते** लभते । तादृशं पन्थानमित्यर्थः ॥ ॥१३॥
@@ -212,8 +215,6 @@ Wir haben den Pfad betreten, der zum Heile führt und sicher ist, auf dem man al
 На котором избегают всякой  
 Враждебности, находят добро.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

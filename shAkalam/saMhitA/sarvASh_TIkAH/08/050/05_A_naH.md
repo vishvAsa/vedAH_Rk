@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। सोमे- रसे। स्वध्वरे- यज्ञे। आ  इयानः- आगच्छन्। अत्यः- युद्धाश्वः। न-  इव। तोशते- वृत्राणि हिनस्ति। यम्। ते- त्वाम्। स्वदावन्- आस्वादनकुशल। गूर्तयः- उद्यताः  स्तुतयः। स्वदन्ति- आस्वादयन्ति स त्वम्। पौरे- बन्धने निमित्ते सति। हवम्- तद्भेदनाय  आह्वानम्। छन्दयसे- कामयसे॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -241,8 +244,6 @@ Zu unserm schönen Soma eilt er wie ein rascher Renner hin; Den dir die Lieder s
 (Тот,) кого хвалы делают вкусным для тебя, о дарящий - сам по себе.  
 Тебе нравится приглашение к Пауре.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

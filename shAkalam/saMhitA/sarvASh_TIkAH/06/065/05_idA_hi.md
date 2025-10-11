@@ -3,7 +3,6 @@ title = "005"
 devataa = "उषाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इदा हि- इदानीमेव। उषः- प्रभाति ज्ञानोदयदेवते। अद्रिसानो- उच्छ्रिते। ते- तव। गवां गोत्रा-  चिद्रश्मिसमूहप्राप्त्यर्थम्। अङ्गिरसः- अङ्गनशीला उपासकाः। गृणन्ति- त्वां स्तुवन्ति। अर्केण-  मन्त्रेण। ब्रह्मणा- उपासनेन। च। वि- विशेषेण। बिभिदुः- जडोन्मुखवासनामभिन्दन्। नृणाम्-  मनुष्याणाम्। देवहूतिः- देवाह्वानम्। सत्या- अवितथम्। अभवत्- अभूत्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उषो** **अद्रिसानो** आदृतसानो **ते** तव प्रसादात् **इदा** **हि** सद्यं एव **गवां** **गोत्रा** संघान् **अङ्गिरसो** **गृणन्ति** उत्सृजन्ति । तथा च निगमान्तरं - ' गवां गोत्रमुद सृजो यदङ्गिरः । (ऋ. सं. २.२३. १८) इति । **अर्केण** अर्चनीयेन **ब्रह्मणा** स्तोत्रेण **वि** **बिभिदुः** तमांसि विदारयन्ति च । **नृणां** नेतॄणां तेषामङ्गिरसां **देवहूतिः** देवविषया स्तुतिः **सत्या** सत्यफला **अभवत्** ॥
@@ -267,8 +270,6 @@ Renou). I then take the yé of c to have domain over b as well -- the same aberr
 
 The hapax stauná- is, as Renou says, “ininterprétable” (which does not stop him from trying). Geldner suggests reading *astaunāḥ (with abhinihita sandhi after yé in the Saṃhitā text), deriving it from √stu and tr. ‘ohne Lob(?)’. Although this has the merit of connecting it to a known root and without phonological disturbance, I find Renou’s tr. “sans être inertes” (without comm. on the etym., but perhaps based on von Bradke’s “Sie stehen nicht still”) more appealing in context, since it would provide a satisfying contrast with ayā́saḥ: in Renou’s tr., “eux qui, sans être inertes, (sont bien au contraire) inlassables.” I am also struck by the echo pointed out by von Bradke, with our staunā́matched by (ta)sthau ná in the next vs., 6d. As often, contextual poetics may have led to the choice of an enigmatic word. My own extremely speculative interpr. (“like posts”) is that it is related to sthū́ṇā- ‘pillar’, which is well anchored in Iranian (YAves. stū̆na-, stunā-, OP stūnā-, as well as Middle and Mod. Iranian) and found also widely in MIA and NIA (Pā, Pkt thūṇā, etc.). This suggestion requires the perhaps counter-intuitive assumption that the aspiration in sthū́ṇā is secondary, perhaps based on the MIA form (where initial *st would of course develop into th); the unmotivated retroflex ṇ in the Vedic form might give some support to that hypothesis. And secondary (if it is secondary) association with √sthā ‘stand’ would also encourage an aspirated initial. Another wrinkle is that it may have trisyllabic scansion (so Grassmann), but that is further than I can go. For a similarly impenetrable form in this maṇḍala with the same phonological profile, see staulā́in VI.44.7 and comm. ad loc. The last problem in the vs. (or at least the last one I will tackle) is in d: does nū́cid here mean ‘even now’ or ‘never’. Geldner, Renou, and von Bradke opt for the latter; Scarlatta (405) gives a choice of both. Although these two choices seem starkly oppositional, they may amount to the same thing with the subjunctive áva yāsat: even now she is trying to appease them, and she never will be able to.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -301,8 +302,6 @@ Jetzt preisen, Uschas, die du thronst auf Bergen, die Angiras dir an der Kühe S
 Они раскололи (скалу) пением и священным словом.  
 Свершился призыв богов мужами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

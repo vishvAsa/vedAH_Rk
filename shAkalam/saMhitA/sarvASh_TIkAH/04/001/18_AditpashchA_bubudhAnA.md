@@ -3,7 +3,6 @@ title = "018"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -244,6 +242,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित् पश्चा- अनन्तरमेव। बुबुधानाः- जानन्तः। व्यख्यन्- गाश्चिद्रश्मीनपश्यन्। आदित्-  अनन्तरमेव। द्युभख्नम्- चिदाकाशसम्भख्नाम्। रत्नम्- सम्पदम्। धारयन्त- अधारयन्। विश्वे-  सर्वे। देवाः। विश्वासु- सर्वेषु। दुर्यासु- सदनेषु भवन्तु। मित्र- स्नेहाधिदैवत। वरुण- ऋताधिदैवत।  धिये- बुद्ध्यै। सत्यम्। अस्तु- भवतु॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आदित्** सूर्योदयानन्तरं **बुबुधानाः** पणिभिरपहृता निरोधान्निर्गता गा जानाना अङ्गिरसः **पश्चा** पृष्ठदेशेषु **व्यख्यन्** अशेषेण ता गा अपश्यन् । तथा **आदित्** अनन्तरं **द्युभक्तं** दीप्तियुक्तं देवैः संभक्तं वा **रत्नं** पणिभिरपहृतं धनं च **धारयन्त** अधारयन् । लब्धगोधनानामङ्गिरसां **विश्वासु** दुर्यासु सर्वेषु गृहेषु **विश्वे** यजनीयाः सर्वे **देवाः** आजग्मुः । हे **मित्र** मित्रभूत हे **वरुण** उपद्रवाणां वारक हे अग्ने **धिये** कर्मणां कर्त्रे स्तोत्रे वा यजमानाय **सत्यमस्तु** । यदेतत्तवोपद्रववारणसामर्थ्यं तद्यथार्थभूतमस्तु ॥ पश्चा । ‘पश्च पश्चा च छन्दसि ' इति निपातितः । बुबुधानाः । बुधेर्लिटि कानचि रूपम् । चित्त्वादन्तोदात्तः । द्युभक्तम् ।  ‘ भज सेवायाम्' । कर्मणि क्तः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः ॥
@@ -271,8 +274,6 @@ I interpr. the “treasure apportioned by heaven” (rátnam … dyúbhaktam) to
 9, 11 above), and provides an easy transition to the invocation of Agni in the next vs. The subj. of dhārayanta in b I take as the gods in c (with Oldenberg, SBE, Hoffmann, Witzel Gotō), rather than taking c as a separate nominal cl. (Geldner, Renou). Note the chiastic morphological figure in c, allowing alliteration between the nom./loc. pairs: víśve víśvāsu dúryāsu devā́(ḥ).
 
 In d I supply the treasure (in the form of light) as the subj. of satyám astu (so also Hoffmann). This VP should be interpr. in the context of santi satyā́in 7a. See comm. there.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
@@ -312,8 +313,6 @@ Da erst erwachend leuchteten fortan sie, da erst erhielten sie den Schatz des Hi
 О Митра, о Варуна, да будет истина для (нашей) поэтической мысли!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -334,7 +333,7 @@ Da erst erwachend leuchteten fortan sie, da erst erhielten sie den Schatz des Hi
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो लोग ब्रह्मचर्य्य से विद्या, उत्तम शिक्षा, सत्य और धर्माचरणों को धारण करके अन्य जनों के प्रति उपदेश देते हैं, वे बुद्धि को बढ़ा के सर्वत्र प्रसिद्ध हो के आनन्द से घरों में रहते हैं ॥१८॥
+भावार्थभाषाः -  जो लोग ब्रह्मचर्य्य से विद्या, उत्तम शिक्षा, सत्य और धर्माचरणों को धारण करके अन्य जनों के प्रति उपदेश देते हैं, वे बुद्धि को बढ़ा के सर्वत्र प्रसिद्ध हो के आनन्द से घरों में रहते हैं ॥१८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

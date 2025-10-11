@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नृभ्यः- मनुष्येभ्यः। गवे- धेनवे। रथाय। पन्थाम्- मार्गम्। उरुं कुरु। देववीतिम्- दिव्यानुभूतिम्।  मनामहे- ध्यायामः॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **नृभ्यः** अस्मदीयेभ्यो भृत्येभ्यः **उरुं** हितं **मनामहे** याचामहे । तथा **गवे** । एतदुपलक्षणम् । गवाश्वादिकाय तथा **रथाय** **पन्थां** पन्थानं मार्गम् । अथवा नृप्रभृतीनां संचाराय शोभनं मार्गं मनामहे । तथा **देववीतिं** यज्ञं मनामहे ॥
@@ -168,10 +171,6 @@ Als breiten Weg für die Männer, als breiten Weg für Rind und Wagen erachten w
 
 Gib [kṛdhi aus 12] weite Bahn den Männern, dem Rinde, dem Wagen; wir sorgen für das Göttermahl.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

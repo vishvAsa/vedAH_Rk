@@ -3,7 +3,6 @@ title = "006"
 devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवि। सरस्वति। वाजिनि- अन्नवति। वाजेषु- अन्नेषु निमित्तेषु। त्वम्। पूषेव- पोषकः सूर्य इव।  सनिम्- सम्भजनम्। नः- अस्मभ्यम्। रद- विलिख॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देवि** दानादिगुणयुक्ते हे **वाजिनि** । वाजो बलमन्नं वा । तद्युक्ते हे **सरस्वति** **त्वं** **वाजेषु** संग्रामेषु **अव** अस्मान् रक्ष । अपि च **नः** अस्मभ्यं **पूषेव** पोषको देव इव **सनिं** संभजनीयं धनं **रद** विलिख । प्रयच्छेति यावत् ॥
@@ -170,6 +173,7 @@ Aid (him), goddess Sarasvatī, at the prize (contests), you prizewinner. Channel
 This tṛca is almost empty of content, in part because so much of each Gāyatrī — not a capacious meter in the first place — is occupied by repeated material: the last 6 of the 8 syllables of the 1st pāda of each vs. contain the nom. (4) or voc. (5, 6) of the NP devī́sárasvatī, and the b pādas of 4 and 6 contain responsive material: vā́jebhiḥ vājínīvatī (4) and x x vā́jeṣu vājini. Otherwise, as a helper (avitrī́) she is twice asked to help (4c avatu, 6b ávā). In the published translation these two impvs. are rendered in two different ways: “Let … help” and “aid” respectively. I would now change the 2nd to “help” as well to mark their essential identity (save for ps.). [Note that the Holland & van Nooten Rig Veda edition restoration of avitry àvatu in 4c is wrong: correct their avitrí to avitrī́.]
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -200,8 +204,6 @@ Dem hilf Göttin Sarasvati, in Kämpfen, starke Kämpferin; Wie Puschan theil un
 Помоги с наградами, о богатая наградами!  
 Словно Пушан, проложи нам (путь) к добыче!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

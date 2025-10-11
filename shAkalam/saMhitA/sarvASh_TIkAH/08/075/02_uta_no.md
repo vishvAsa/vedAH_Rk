@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। नः- अस्मान्। देव- द्योतनशील। देवान्। अच्छ- अभिलक्ष्य। विदुष्टरः- विद्वत्तरः  सन्। वोचः- वद। विश्वा- सर्वान्। वार्या- वरान्। श्रत्- सत्यान्। कृधि- कुरु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देव** अग्ने **उत** अपि च **नः** अस्मान् **देवान्** **अच्छा** **वोचः** अभिब्रूयाः । सम्यगनुष्ठितवन्त इति । तथा **विदुष्टरः** विद्वत्तमान् वोचः । तथा कृत्वा **विश्वा** सर्वाणि **वार्या** वरणीयानि धनानि देवसंबन्धीनि **श्रत्** सत्यानि **कृधि** कुर्वस्माकम् । अथवास्मदीयानि सर्वाणि वरणीयानि हवींषि श्रत् सत्यानि कुरु । देवान् प्रापयेत्यर्थः ॥
@@ -199,10 +202,6 @@ Und lade, o Gott, die Götter zu uns als der Kundigere! Sichere uns alle begehre
 
 Und ruf uns, Gott, die Götter her, der du am besten es verstehst, Und alles Gut vertrau uns an.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

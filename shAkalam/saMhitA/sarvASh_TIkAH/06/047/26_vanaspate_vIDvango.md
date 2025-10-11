@@ -3,7 +3,6 @@ title = "026"
 devataa = "रथः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वनस्पते। वीड्वङ्गः- दृढाङ्गः। हि- खलु। भूयाः- भव। अस्मत्सखा- अस्माकं मित्रभूतः।  प्रतरणः- तारकः। सुवीरः। गोभिः- तेजोभिः। सन्नद्धः। असि- भवसि। वीळयस्व- दृढीकुरु। ते-  तव। आस्थाता- उपासकः। जेत्वानि- जेतव्यानि। जयतु॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वनस्पते** वनस्पतिविकार रथ त्वं वीड्वङ्गः दृढावयवः **भूयाः** भव । **अस्मत्सखा** वयं सखायो यस्य स तादृशश्च भव । **प्रतरणः** प्रवर्धयिता **सुवीरः** शोभनैर्वीरैः शूरभटैः पुत्रादिभिर्वा युक्तश्च भव । अपि च त्वं **गोभिः** गोविकारैश्चर्मभिः **संनद्धो** **असि** सम्यक् बद्धो भवसि । तादृशस्त्वं **वीळयस्व** अस्मान् दृढीकुरु । **ते** तव **आस्थाता** त्वयि अवस्थितो रथी च **जेत्वानि** जेतव्यानि शत्रुसैन्यानि **जयतु** ॥
@@ -235,8 +238,6 @@ you are knotted together with cows [=leather (straps)]. Be firm! Let the  one wh
 <details><summary>Jamison Brereton Notes</summary>
 
 Because of the hí, I have made ab the causal foundation for the beginning of c. If we are willing to allow hí to be some kind of unspecified emphatic, the clauses can be disjoined, with the first hemistich simply “you should become …” As in the matching sequence … pratáraṇaḥ suvī́raḥ in I.91.19, ‘lifetime’ could be supplied as the implicit obj. of pratáraṇah.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
@@ -271,8 +272,6 @@ O Wagengestell, sei fest an deinen Gliedern, uns ein Gefährte, vordringend, hel
 Взошедший на тебя пусть завоюет добычу!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रथः
@@ -288,7 +287,7 @@ O Wagengestell, sei fest an deinen Gliedern, uns ein Gefährte, vordringend, hel
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (वनस्पते) किरणों के पालन करनेवाले सूर्य्य के समान वर्त्तमान (हि) जिससे (वीङ्वङ्गः) बलिष्ठ अङ्ग जिसके वह (प्रतरणः) पार करनेवाले (सुवीरः) अच्छे प्रकार वीरों से युक्त (गोभिः) उत्तम प्रकार शिक्षित वाणियों के साथ (सन्नद्धः) अच्छे प्रकार तैयार हुए आप (असि) हो इससे (अस्मत्सखा) हम लोगों के मित्र (भूयाः) हूजिये और (आस्थाता) स्थिति से युक्त हुए हम लोगों को (वीळयस्व) दृढ़ कराइये (ते) आपकी सेना (जेत्वानि) जीतने योग्य शत्रुओं की सेनाओं को (जयतु) जीते ॥२६॥
+पदार्थान्वयभाषाः -  हे (वनस्पते) किरणों के पालन करनेवाले सूर्य्य के समान वर्त्तमान (हि) जिससे (वीङ्वङ्गः) बलिष्ठ अङ्ग जिसके वह (प्रतरणः) पार करनेवाले (सुवीरः) अच्छे प्रकार वीरों से युक्त (गोभिः) उत्तम प्रकार शिक्षित वाणियों के साथ (सन्नद्धः) अच्छे प्रकार तैयार हुए आप (असि) हो इससे (अस्मत्सखा) हम लोगों के मित्र (भूयाः) हूजिये और (आस्थाता) स्थिति से युक्त हुए हम लोगों को (वीळयस्व) दृढ़ कराइये (ते) आपकी सेना (जेत्वानि) जीतने योग्य शत्रुओं की सेनाओं को (जयतु) जीते ॥२६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

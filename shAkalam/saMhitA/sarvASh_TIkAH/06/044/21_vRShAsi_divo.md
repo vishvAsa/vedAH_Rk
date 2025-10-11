@@ -3,7 +3,6 @@ title = "021"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- द्युलोकस्य। वृषा- वर्षकः। असि- भवसि। पृथिव्याः- भूम्याः। वृषभः- वर्षकः।  सिन्धूनाम्- नदीनाम्। वृषा- वर्षकः। स्तियानाम्- सङ्घभूतानां प्राणिनाम्। वृषभः- वर्षकः। वृष्णे-  वर्षकाय। ते- तुभ्यम्। वृषभ- वर्षक। इन्दुः- क्लेदनशीलो रसः। स्वादुः। मधुपेयः- मधुरः। रसः।  वराय- श्रेष्ठाय। पीपाय- प्यायते वर्धते॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **दिवः** द्युलोकस्य **वृषासि** । हविर्भिः सेक्ता भवसि । **पृथिव्याः** भूमेश्च **वृषभः** कामानां वर्षिता । **सिन्धूनां** स्यन्दनशीलानां च नदीनां **वृषा** वर्षेण पूरयितासि । तथा **स्तियानां** संघीभूतानां स्थावरजङ्गमात्मनां प्राणिनां **वृषभः** कामानां वर्षिता भवसि । यद्वा । स्तियाः संघीभूता आपः । तासां वर्षितासि । **वृषभ** कामानां वर्षकेन्द्र **वराय** श्रेष्ठाय **वृष्णे** सेक्त्रे **ते** तुभ्यं त्वदर्थं  **स्वादुः** मधुरः **रसः** रसनीयः प्रशस्यो रसवान् वा रसात्मको वा **मधुपेयः** मधुवत् पातव्यः **इन्दुः** सोमः **पीपाय** प्यायते वर्धते । अतस्त्वमागत्य तं सोमं पिबेति भावः ।
@@ -247,7 +250,6 @@ O bull, for bullish you the drop has swelled, the sweet sap, the honeyed  drink,
 <details><summary>Jamison Brereton Notes</summary>
 
 Given the parallelism of the phrase vṛ́ṣā síndhūnāṃ vṛṣabhá stíyānām, it is clear that the gen. pl. stíyānām must be in semantic complementarity with síndhūnām ‘of the rivers’. Almost the same pair is found in VII.5.2, with a substitution for the first nom.: netā́síndhūnāṃ vṛṣabhá stíyānām. Grassmann glosses stíyā- ‘Schneefeld, Gletscher’, but, given the relative lack of attention to snow and the like in the RV once the Indo-Aryans had left the high mountains mostly behind, some other type of water contrasting with rivers seems more likely -- with Geldner’s “der stehenden Gewässer” a likely alternative (cf. also Lüders, Varuṇa I.144). Renou’s “eauxstagnantes” (EVP XIII.56 and 141), though expressing a similar contrast, is less appealing because of the negative implication of “stagnant waters”: would Indra really want to be their bull? The question then is what the form is derived from; EWA classifies it with the root √styā ‘be stiff’, of limited attestation in Skt. but found also in MIA, which seems reasonable. However, I am tempted to see a primary or secondary association with √sthā ‘stand’, since forms of this root (with the sense ‘stand still’) can be used of waters. Cf., e.g., the famous phrase describiing the rushing of the waters freed by Indra in the Vṛtra battle in I.32.10 átiṣṭḥantīnām “of those (waters) not standing still.” Renou (EVP XIII.141) in a lapidary comment -- “fait comme díya-” -- seems to hint at a direct derivation (díya- to √dā, then stíya- to √sthā) without pursuing it, and Lubotsky (System, 104) tentatively suggests that it belongs to an *-i-enlarged form of √*steh2, viz. *steh2-i-, but doesn’t further spell out the details. The trick of course is to keep the laryngeal from aspirating the t; if we start with Lubotsky’s root, the zero-grade *sth2-i- would presumably metathesize to *stih2 (as with √pā(y) ‘drink’: pītá-), which would yield stiy- before a vowel. But I have no commitment to such an analysis. In any case it is impossible to tell whether the form belongs to a short or a long a/ā stem, since it only shows up in the gen. pl.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -286,8 +288,6 @@ Der Stier bist du des Himmels, Stier der Erde, der Ströme Stier und Stier der s
 Вкусный сок, который сладко пить, сколько хочешь.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -308,7 +308,7 @@ Der Stier bist du des Himmels, Stier der Erde, der Ströme Stier und Stier der s
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! जो आप बिजुली, भूमि, नदी, समुद्र, अन्तरिक्ष, स्थावर और जङ्गम पदार्थों की विद्या और उपयोग को जानिये तो आपको बड़ा आनन्द प्राप्त होवे ॥२१॥
+भावार्थभाषाः -  हे राजन् ! जो आप बिजुली, भूमि, नदी, समुद्र, अन्तरिक्ष, स्थावर और जङ्गम पदार्थों की विद्या और उपयोग को जानिये तो आपको बड़ा आनन्द प्राप्त होवे ॥२१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

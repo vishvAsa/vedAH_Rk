@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः सप्तवध्रिर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यामहूतमा- अतिशयेन काले आह्वातव्यौ। अश्विना। नेदिष्ठम्- अन्तिकतमम्। आप्यम्-  युवयोर्बान्धव्यम्। यामि- अभिगच्छामि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यामहूतमा** अतिशयेन काले ह्वातव्यौ **अश्विना** अश्विनौ **यामि** । **नेदिष्ठम्** अन्तिकतमम् **आप्यं** बान्धवं च यामि तयोः ॥
@@ -185,8 +188,6 @@ Die Ritter, die beim Fest man ruft, geh' ich um engste Freundschaft an; Es sei u
 Я молю о самой близкой дружбе.  
 Пусть ваша помощь будет рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

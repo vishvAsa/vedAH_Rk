@@ -3,7 +3,6 @@ title = "015"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋभुमन्ता- ऋभुयुख्नौ। वृषणा- वर्षकौ। वाजवन्ता- बलवन्तौ॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **ऋभुमन्ता** ऋभुसहितौ **वृषणा** कामानां वर्षितारौ वाजवन्तौ वाजयुक्तौ मरुत्वन्तौ च स्तोतुराह्वानं गच्छतम् । ऋभुमन्ता वाजवन्ता इति ज्येष्ठकनिष्ठाभ्यां व्यपदेशः । सिद्धमन्यत् ॥
@@ -224,8 +227,6 @@ Vereint mit Ribhu und mit Vadscha, Stiere ihr, und mit den Maruts kommt ihr zu d
 Единодушные с Ушас и Сурьей,  
 Приезжайте с Адитьями, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

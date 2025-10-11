@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्मै। त्वम्। वसो- शरण्य। दानाय। मंहसे- यच्छसि। सः। रायस्पोषम्- धनपुष्टिम्। इन्वति-  गच्छति। वसूयवः- सम्पत्कामाः। वसुपतिम्- सम्पत्पालकम्। शतक्रतुम्- प्रभूतप्रज्ञम्। इन्द्रम्-  परमेश्वरम्। स्तोमैः- मन्त्रैः। हवामहे- आह्वयामः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -233,8 +236,6 @@ Wem du, o guter, Geschenke ertheilst, derför dert seines Reichthums Blüte; nac
 Стремясь к благам, повелителя благ стоумного  
 Индру мы зовем восхвалениями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

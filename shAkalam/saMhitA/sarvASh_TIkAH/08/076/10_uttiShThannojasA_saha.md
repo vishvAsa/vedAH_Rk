@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत्तिष्ठन्। ओजसा- बलेन। सह। इन्द्र। चमूसुतम्- स्थैर्यप्रतीकग्रावनिष्पन्नम्। सोमम्। पीत्वी-  पीत्वा। शिप्रे- हनू। अवेपयः- अकम्पयः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **पीत्वी** पीत्वा **ओजसा** बलेन **सह** **उत्तिष्ठन्** **शिप्रे** हनू **अवेपयः** अकम्पयः । मदावेशादिति भावः । किं पीत्वा । **चमू** चम्वोरधिषवणफलकयोः **सुतं** सोमम् ॥
@@ -170,10 +173,6 @@ Mit deiner Kraft aufstehend hast du, Indra, die Lippen geschüttelt, nachdem du 
 
 Du schütteltest die Lippen dir, erhebend Indra dich mit Kraft, Nach des gepressten Soma Trunk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

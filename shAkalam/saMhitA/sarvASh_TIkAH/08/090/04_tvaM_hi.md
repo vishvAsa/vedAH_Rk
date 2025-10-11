@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - नृमेधपुरुमेधौ
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। हि- खलु। सत्यः। मघवन्- इन्द्र। अनानतः- नमयितुमशक्यः। भूरि- प्रभूतानि। वृत्रा-  आवरणानि। न्यृञ्जसे- न्यक्करोषि। सः- असौ। त्वम्। शविष्ठ- बलिष्ठ। वज्रहस्त- वज्रपाणे।  दाशुषे- दात्रे। अर्वाञ्चम्- अस्मदभिमुखम्। रयिम्- धनम्। आ  कृधि- कुरु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** धनवन्निन्द्र **सत्यः** सत्यकर्मा **त्वम्** एव **अनानतः** केषामप्यप्रह्वः सन् **भूरि** भूरीणि वृत्राणि रक्षांसि **न्यृञ्जसे** तानि प्रह्वीभावयसि । न्यक्करोषीत्यर्थः । हिरवधारणे । हे **शविष्ठ** बलेन वृद्धतम हे **वज्रहस्त** । वज्रो हस्ते यस्य स तथोक्तः । हे इन्द्र **सः** तादृशः **त्वं** **दाशुषे** तुभ्यं हविर्दत्तवते यजमानाय **रयिं** धनादिकम् **अर्वाञ्चम्** अवाचीनमभिमुखं यथा गच्छति तथा तम् **आ** **कृधि** समन्तात्कुरु ॥
@@ -248,10 +251,6 @@ Denn du, Gabenreicher, der Wahrhafte, Ungebeugte, zwingst viele Feinde. Bring, M
 
 Denn du bist wahrhaft ungebeugt, o mächtiger, und viele Feinde streckst du hin; So bring', o stärkster, Gut dem Frommen nah herbei, der in der Hand den Blitz du trägst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

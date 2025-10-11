@@ -3,7 +3,6 @@ title = "005"
 devataa = "सूर्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 sūrya ← sū́rya- (nominal stem)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    सूर्य- सवितः। आत्मन्नित्याध्यात्मिके। यत्- यदा। आसुरः- प्राणमयः। स्वर्भानुः- मायाप्रकाशः।  राहुरित्याधिभौतिके। मूलप्रकृतिरित्याध्यात्मिके। मूलप्रकृतेः प्रकाशत्त्वं हिरण्मयेन पात्रेण  सत्यस्यापिहितं मुखमित्यादिश्रुतिषु निहितं भाति शुभ्रमित्याद्युपनिषत्सु च प्रसिद्धम्। तमसा-  अन्धकारेणाज्ञानमयेन। अविध्यत्- आवृणोत्। तदा। अक्षेत्रवित्- अन्धकारे क्षेत्रमजानन्। मुग्धः-  मनुष्यो मूढो भवति। तथा। भुवनानि- लोकाः। अदीधयुः- अदृश्यन्त। छादयति शशी सूर्यमिति  सूर्यग्रहणमुख्नमार्यभट्टीये। शशी मनुष्यप्रज्ञास्थरसप्रतीकः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इदमादिचतुर्भिर्मन्त्रैः अत्रीणां कर्म कीर्त्यते । हे **सूर्य** प्रेरक देव **त्वा** त्वां **यत्** यदा **आसुरः** असुरस्य प्राणापहर्तुरसुर्या वा पुत्रः **स्वर्भानुः** स्वर्भानुसंज्ञकः **तमसा** मायानिर्मितेन **अविध्यत्** आवृणोदित्यर्थः । तदा **भुवनानि** सर्वाणि **अदीधयुः** दृश्यन्ते । **यथा** तत्रत्यः सर्वो जनः **अक्षेत्रवित्** स्वस्वस्थानमजानन् **मुग्धः** मूढो भवति तथा ॥ ॥ ११ ॥
@@ -209,10 +212,6 @@ Als dich, Surya, der asurische Svarbhanu mit Finsternis geschlagen hatte, da sch
 
 Als dich, o Soma, Suarbhanu, der dämonische, mit Finsterniss schlug, da sahen alle Wesen aus, wie ein Verirrter, der der Gegend unkundig ist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

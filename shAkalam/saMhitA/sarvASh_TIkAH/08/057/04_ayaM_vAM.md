@@ -3,7 +3,6 @@ title = "004"
 devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यजत्रा- पूज्यौ। नासत्या- सत्यस्वरूपौ। अयम्- एषः। वाम्- युवयोः। भागः- हविर्भागः।  निहितः- स्थापितः। इमाः- एताः। गिरः- वाचः। उप यातम्- आगच्छतम्। अस्मे- अस्मदर्थम्।  मधुमन्तम्- मधुरम्। सोमम्- रसम्। पिबतम्- अनुभवतम्। दाश्वांसम्- दातारम्। शचीभिः-  प्रज्ञाभिः। प्र- प्रकर्षेण। अवतम्- रक्षतम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -250,8 +253,6 @@ Hier ist eur Antheil hingestellt, o hehre, o kommt, ihr Treuen, her zu diesen Li
 Пейте сому, самого сладкого у нас!  
 Поддерживайте (вашего) почитателя (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

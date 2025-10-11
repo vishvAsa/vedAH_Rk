@@ -3,7 +3,6 @@ title = "014"
 devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - बभ्रुरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रुशमानां राजनि। ऋणञ्चये- यस्मादृणं प्राप्तास्तस्मिन्नुपास्ये सति। या। रात्रिः- निशा। परितक्म्या-  परितो गन्त्री। सा। औच्छत्- व्युष्टाऽभवत्। ऋणं गतमिति भावः। रघुः- अनायासः। अज्यमानः-  प्रेरितः। अत्यो न वाजी- अश्व इव। बभ्रुः- तेजस्वी ऋषिः। सहस्रा- अनन्तान्। असनत्-  लेभे॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रुशमानं** रुशमनाम्नां जनानां **राजनि** प्रभौ **ऋणंचये** एतत्संज्ञके तत्समीप एव **या** रात्रिः **परितक्या** परितो गन्त्री भवति **सा** **रात्री** **औच्छत्** व्युष्टाभवत् । **अत्यः** सततगामी **वाजी** **न** अश्व इव **रघुः** शीघ्रगामी **अज्यमानः** प्रेर्यमाणः **बभ्रुः** एतन्नामक ऋषिः **चत्वारि** चतुःसंख्याकानि **सहस्रा** सहस्राणि गोरूपाणि धनानि **असनत्** अलभत ॥
@@ -223,8 +226,6 @@ like a steed quick in competition, being driven [/anointed], Babhru won  four th
 <details><summary>Jamison Brereton Notes</summary>
 
 The primary reading of ajyámānaḥ is surely “being driven,” as the standard interpr. have it. But it could also be the passive of √añj ‘anoint’ and inhabit the same semantic realm as “well-ornamented with thousands of cows” in 13ab: he would be anointed with prize cows.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
@@ -269,8 +270,6 @@ Als dämmerte die Nacht im Morgendunkel, hat Babhru viermal tausende empfangen, 
 Бабхру получил четыре тысячи.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र ऋणञ्चयश्च
@@ -291,7 +290,7 @@ Als dämmerte die Nacht im Morgendunkel, hat Babhru viermal tausende empfangen, 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे विद्वानो ! आप लोग रात्रि और दिन के कृत्यों को जान कर और स्वयं करके, उत्तम परीक्षा करके राजा आदिकों के लिये उन कृत्यों का उपदेश दीजिये, जिससे ये सब सुखी हों और जैसे शीघ्र चलनेवाला घोड़ा दौड़ता है, वैसे ही दिन और रात्रि व्यतीत होता है, यह जानना चाहिये ॥१४॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे विद्वानो ! आप लोग रात्रि और दिन के कृत्यों को जान कर और स्वयं करके, उत्तम परीक्षा करके राजा आदिकों के लिये उन कृत्यों का उपदेश दीजिये, जिससे ये सब सुखी हों और जैसे शीघ्र चलनेवाला घोड़ा दौड़ता है, वैसे ही दिन और रात्रि व्यतीत होता है, यह जानना चाहिये ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

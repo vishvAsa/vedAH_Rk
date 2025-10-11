@@ -3,7 +3,6 @@ title = "017"
 devataa = "ऋक्षाश्वमेधयोर्दानस्तुतिः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -114,6 +112,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अतिथिग्वे- अतिथिभिर्गमनीये। इन्द्रोते- इन्द्ररक्षासम्पन्ने। सचा- सह। पूतक्रतौ-  शोधितप्रज्ञासम्पन्ने। षट्। वधूमतः- वडवायुख्नान्। अश्वान्- प्राणतुरगान्। सनम्-  लब्धवान्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आतिथिग्व** **इन्द्रोते** **पूतक्रतौ** शुद्धप्रज्ञे शुद्धकर्मोपेते वा तस्मिन् **वधूमतः** वधूभिर्वडवाभिस्तद्वतः **षडश्वान्** **सचा** ऋक्षाश्वमेधयोः पुत्राभ्यां दत्तेनाश्वादिधनेन सचा सह **सनं** लब्धवानस्मि । एतत्साहित्यवचनमिन्द्रोतदानस्य प्रासङ्गिकत्वे लिङ्गम् ॥
@@ -144,8 +147,6 @@ vadhúmant- means literally ‘having women, brides’, but Geldner raises the q
 
 Dānastutis regularly lump horses and female humans together. Very parallel is I.126.3 śyāvāḥ ... vadhū́mantaḥ ... ráthāsaḥ, “dusky (horses) and chariots carrying brides.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details open><summary><h2>15-17 ...{Loading}...</h2></summary>
 
@@ -174,10 +175,6 @@ Sechs Hengste samt Frauen empfing ich zusammen von Atithigva Indrota, von Putakr
 
 Sechs Rosse nebst zugehörigem Geschirr empfing ich von Indrota, dem Nachkommen des Atithigva, und zugleich von Putakratu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

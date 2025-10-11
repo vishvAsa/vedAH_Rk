@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वेः- विदुषः। अध्वरस्य- ध्वररहितकर्मणः। दूत्यानि- दौत्यानि। विद्वान्- जानाति। उभे रोदसी-  द्यावापृथिव्योः। अन्तः- मध्ये। चिकित्वान्- ज्ञाता भवति। दिवः- स्वर्गस्य। आरोधनानि-  आरोहणानि प्रति। विदुष्टरः- अतिशयेन विद्वान्। उराणः- विस्तारयिता। प्रदिवः- प्रकर्षप्रकाशः।  दूतः। ईयसे- गच्छसि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **विद्वान्** सर्वं जानानस्त्वम् **अध्वरस्य** यज्ञस्य संबन्धीनि **दूत्यानि** दूतकर्माणि **वेः** वेत्सि कामयसे' वा । यद्वा वेरिति यज्ञविशेषणम् । वेर्यजमानस्याभीष्टफलजनकस्याध्वरस्य यागस्य संबन्धीनि दूत्यानि दूतकर्माणि विद्वान् जानन्। **उभे** **रोदसी** उभयो रोदस्योर्द्यवापृथिव्योः **अन्तः** मध्ये स्थितमन्तरिक्षं **संचिकित्वान्** सम्यक् जानन् **प्रदिवः** पुराणः । पुराणनामेदं  ‘ प्रत्नं प्रदिवः ' ( नि. ३. २७. २ ) इति पुराणनामसु पाठात् । **उराणः** अल्पमपि हविः उरु बहु कुर्वाणः ।  ‘ उराण उरु कुर्वाणः' इति यास्केनोक्तत्वात् । विदुष्टरः विद्वत्तरो देवानां **दूतः** त्वं **दिवः** स्वर्गस्य **आरोधनानि** आरोहणानि । आरोहणार्हाणि स्थानानीत्यर्थः । देवानां हवींष्यर्पयितुम् **ईयसे** गच्छसि ॥
@@ -201,8 +204,6 @@ You speed as the messenger chosen from of old, since you know better  the means 
 <details><summary>Jamison Brereton Notes</summary>
 
 The VP √vid āródhanaṃ diváḥ (a variant of our vidúṣṭaro divá āródhanāni) occurs in the next hymn, IV.8.2, 4, assuring that the acc. here is governed by the comparative to the pf. part. vidúṣṭara-. With most (though not Grassmann, Witzel Gotō) I take āródhana- as belonging with √ruh ‘climb’ (/√rudh ‘grow’), not √rudh ‘obstruct’. On the difficulties in sorting out these roots, see EWA s.v. RODH2 .
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -245,8 +246,6 @@ Er geht, auf Opfers Botschaft sich verstehend, hin zwischen beiden Welten, wohl 
 От века ты движешься, выбранный вестником,  
 Лучше других знающий подъемы на небо.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

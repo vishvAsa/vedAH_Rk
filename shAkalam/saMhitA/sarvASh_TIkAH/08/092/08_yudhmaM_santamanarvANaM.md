@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+युध्मम्- योद्धारम्। सन्तम्- साधुम्। अनर्वाणम्- अनभिगतम्। सोमपाम्- रसानुभवकरम्।  अनपच्युतम्- च्युतिरहितम्। नरम्- नेतारम्। अवार्यक्रतुम्- अनिवार्यप्रज्ञम्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवंगुणोपेतमिन्द्रमागमयेत्याह । **युध्मं** शत्रूणां संप्रहारकं **सन्तम्** अत एव **अनर्वाणम्** अन्यैरप्रत्यृतमनभिगतं तस्मात् **अनपच्युतं** संग्रामेषु शत्रुभिरहिंसितं **सोमपां** सोमस्य पातारमस्य सोमस्य मदे सति **अवार्यक्रतुं** भटैरनिवारणीयकर्माणं **नरं** सर्वस्य नेतारम् । एतादृग्गुणोपेतमिन्द्रमागमयेति पूर्वेण सह संबन्धः ॥
@@ -172,10 +175,6 @@ Der der unerreichte Kämpfer ist, den unentwegten Somatrinker, den Herrn, der si
 
 Den Kämpfer, der unnahbar ist, ein Somatrinker nimmersatt, Ein Mann von unbezwungner Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

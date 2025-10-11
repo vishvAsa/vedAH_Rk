@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। यम्। दाश्वांसम्- दातारम्। त्रायसे- रक्षसि। तम्। मर्तं- मर्त्यम्। अरातयः- शत्रवः।  रायः- धनिकाः। न। युवन्त- पृथक्कुर्वन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **तं** स्तोतारम् **अरातयः** अदानशीला द्वेषिणः **रायः** रयिमन्तः **न** **युवन्त** न पृथक्कुर्वन्ति । रायो धनाद्वा न युवन्त । **यं** **दाश्वांसं** हविर्दातारं **त्रायसे** पालयसे ॥
@@ -178,10 +181,6 @@ Nicht wird Mißgunst dem opferspendenden Sterblichen den Reichtum vorenthalten, 
 
 Böse können nicht, o Agni, dem, den du beschützest, rauben Seinen Schatz dem frommen Manne.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

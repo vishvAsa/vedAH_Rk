@@ -3,7 +3,6 @@ title = "006"
 devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्राः- उदूर्णाः। ते- अमी। शवसा- बलेन। धृष्णुसेनाः- शत्रुधर्षकसेनाः। सुमेके- सुरूपिण्यौ।  रोदसी- द्यावापृथिव्यौ। उभे। युजन्त- योजयन्ति। अध स्म- अपि च। एषु- एतेषु। रोदसी-  माध्यमिका वा। स्वशोचिः- स्वप्रकाशा वर्तते। अमवत्सु- बलवत्सु मरुत्सु। रोकः- निरोधकः।  न तस्थौ- न तिष्ठति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ते** मरुतः **उग्राः** **शवसा** बलेन वेगेन युक्ताः **धृष्णुषेणाः** धर्षकसेनाः  
@@ -238,7 +241,6 @@ they have yoked the two well-formed hemispheres of the universe.
 further, the self-radiant rodasI appeared among them,  
 standing among the impetuous ones, like a source of light.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -285,8 +287,6 @@ Sie, die gewalt'gen, kühnen Scharen füllten mit Kraft die beiden segensreichen
 Испускающая собственное сияние, словно источник света.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -307,7 +307,7 @@ Sie, die gewalt'gen, kühnen Scharen füllten mit Kraft die beiden segensreichen
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो मनुष्य बिजुली और पृथिवी की विद्या को लेकर दृढ़ सेनावाले होते हैं, उनको शत्रुजन रोक नहीं सकते तथा जो उत्तम घरों में निवास करते हैं, वे प्रकाशित बुद्धिवाले होते हैं ॥६॥
+भावार्थभाषाः -  जो मनुष्य बिजुली और पृथिवी की विद्या को लेकर दृढ़ सेनावाले होते हैं, उनको शत्रुजन रोक नहीं सकते तथा जो उत्तम घरों में निवास करते हैं, वे प्रकाशित बुद्धिवाले होते हैं ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

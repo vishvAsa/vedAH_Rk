@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 āsām ← ayám (pronoun)  
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्मके- दुष्टभावनानामरणभूते। वैलस्थानके- बिलोपलक्षिताप्रज्ञास्थाने। महावैलस्थाने- अगाधे  अप्रज्ञास्थाने स्थितानाम्। आसां। यातुमतीनाम्- हिंसाभावनानाम्। शर्धः- बलम्। मघवन्-  संपद्वन्। अव जहि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **मघवन्** धनवन् **आसां** **यातुमतीनाम्** । यातनसाधनानि आयुधानि यातूनि तद्वतीनां यातुधानवतां वा सेनानां **शर्धः** बलम् **अव** **जहि** चूर्णय। तथा कृत्वा च **अर्मके** कुत्सिते शवैः अरणीये **वैलस्थानके** कुत्सिते पूर्वोक्तलक्षणे श्मशाने क्षपय इति शेषः । यद्वा । वैलस्थानके बिलसंबन्धिनि कुत्सिते स्थाने अन्धकारावृते अधोलोके स्थापयेति शेषः। ननु यत्र क्वचित् क्षुद्रे न इत्याह । **महावैलस्थे** सर्वैर्गन्तव्ये महाश्मशाने नागलोके वा । पुनः कीदृशे । **अर्मके** कुत्सिते गतासुभिः अरणीये ॥
@@ -184,8 +187,6 @@ Stosse hinab, o mächtiger, die Schar dieser Hexen in den Trümmerhaufen der Sch
 На месте бойни, на свалке,  
 На огромном месте бойни, на свалке!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

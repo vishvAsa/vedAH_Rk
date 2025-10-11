@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यः। मनायोः- मन्त्रकामस्येन्द्रस्य। उचथानि- मन्त्रान्। हर्यन्- कामयमानः। यः। इन्द्राय-  परमेश्वराय। अद्य- इदानीम्। सोमम्- रसम्। सुनवत्- निष्पादयति। पख्नीः- पख्नव्यान्। पचत्-  पचति। धानाः- यवादीन्। भृज्जाति- भर्जयति। तस्मिन्। वृषणम्- वर्षकम्। शुष्मम्- बलम्।  इन्द्रः- ईशनाधिदेवता। दधत्- धारयति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्य** अस्मिन् दिवसे **यः** यजमानः **इन्द्राय** परमैश्वर्ययुक्ताय देवाय **सोमं** सोम लक्षणमन्नं **सुनवत्** सुनुयात् अभिषवं कुर्यात् । तथा यः **पक्तीः** पक्तव्यांश्च पुरोडाशादीन् **पचात्** पचेत् पचनं कुर्यात् । **उत** अपि च यः **धानाः** भर्जनयोग्यान यवान् । अत्र भृष्ट्यववाची धानाशब्दस्तद्योग्यं यवमात्रं लक्षयति । **भृजाति** भृज्जेत् भर्जनं कुर्यात् । **इन्द्रः** **मनायोः** स्तुतिमिच्छतो यजमानस्य **उचथानि** स्तोत्राणि **प्रति** **हर्यन** प्रतिकामयमानः सन् **तस्मिन** यजमाने **वृषणं** कामानां वर्षणसमर्थं **शुष्मं** बलं **दधत्** धारयति ॥
@@ -247,7 +250,6 @@ upon him will Indra, gladly receiving the recitations of the zealous one,  confe
 <details><summary>Jamison Brereton Notes</summary>
 
 The śúṣma- that Indra confers on the sacrificer is the ‘explosive force’ that will help him (both Indra and the mortal aided by him) prevail in battle.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -273,10 +275,6 @@ Wer heute dem Indra Soma pressen und Kochspeisen kochen und Körner rösten wird
 
 Wer heute Soma keltert für den Indra, ihm Brühen kocht und ihm die Körner röstet, Wer Lust hat an des frommen Dichters Sprüchen, dem schenket Indra heldengleiche Stärke.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

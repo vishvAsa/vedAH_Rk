@@ -3,7 +3,6 @@ title = "018"
 devataa = "रथवीतिर्दाल्भ्यः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुतसोमे- रसनिष्पादके। रथवीतौ- रंहणानुभूतियुख्ने इन्द्रे। मे- मम। कामः- इच्छा। न अपवेति-  नापगच्छति। इति। मे- माम्। वोचतात्- ब्रूहि॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऊर्म्ये **उत** अपि च **मे** मां **वोचतात** ब्रूहि । किमित्युच्यते । **इति** इत्थम् । कथमिति । **सुतसोमे** कृतसोमयागे **रथवीतौ** राज्ञि **मे** **कामः** तत्पुत्रीविषयः **न** **अप** **वेति** नापगच्छति न विरमते इतीत्थं वोचतात ॥
@@ -175,8 +178,6 @@ And then speak for me thus to Rathavīti who has pressed the soma: “My desire 
 <details><summary>Jamison Brereton Notes</summary>
 
 The Rathavīti phrase is in the loc.; the published translation renders it as if the addressee, which is technically incorrect. It is either a loc. absol. without participle or a “chez/bei” expression: “speak for me thus when R. (is present) / at R’s.” Since the net result is the same, I have kept the easier-to-parse addressee tr.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details open><summary><h2>17-19 ...{Loading}...</h2></summary>
@@ -209,8 +210,6 @@ Und so sage zu mir: „Wenn Räthaviti 8oma presst, so wendet sich mein Verlange
 У Ратхавити, выжавшего сому:  
 Желание не оставляет меня.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

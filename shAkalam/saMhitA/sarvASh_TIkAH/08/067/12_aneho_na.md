@@ -3,7 +3,6 @@ title = "012"
 devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    तोकाय- पुत्रस्य। जीवसे- जीवनाय। अनेहः- अपापान्। नः- अस्मान्। उरुव्रजे- उरुगमने।  उरूचि वि प्रसर्तवे- विस्तीर्णाभिसरणाय। कृधि- कुरु॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अनेहः** अपापान् **नः** अस्मान् हे **उरुव्रजे** विस्तीर्णगमने। दूरमियमदितिर्भूमिरूपा गता भवत्यतिविस्तृतत्वात् । अथवोरुगमने धीरे हे **उरूचि** उरुत्वं **वि** **प्रसर्तवे** अभिसरणाय **कृधि** कुरु । कस्मै । **तोकाय** पुत्राय मत्स्याय **जीवसे** तस्य जीवनाय । यथा जीवेम पुत्रान्रक्षितुं तथोरुत्वं कुर्विति ॥
@@ -162,7 +165,6 @@ and for our offspring to live.
 <details><summary>Jamison Brereton Notes</summary>
 
 Since anehás- is an adjective, a noun needs to be supplied with it (contra Geldner, Renou). I supply ‘shelter’ on the basis of VIII.18.21 (also a hymn to the Ādityas) containing aneháḥ … trivárūtham … chardíḥ, with the várūtha- and chardís- found in our vss. 3b, 6b.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
@@ -195,8 +197,6 @@ Weitschreitende, weitreichende, schaff unsern Kindern sichern Schutz, Dass leben
 С громадной оградой, чтобы (наш род) далеко распространился,  
 Чтобы жило (наше) потомство!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    मातुः- निर्मात्र्या रात्रेः। दिधिषुम्- धारकम्। अब्रवम्- अवदम्। स्वसुः- स्वतः सरणशीलाया  उषसो ज्ञानोदयदेवतायाः। जारः- रसनिष्पादकः। नः- अस्मान्। शृणोतु। इन्द्रस्य-  ईशनाधिदैवतस्य। भ्राता- सोदरः। मम- मे। सखा- मित्रम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मातुः** निर्मात्र्या रात्रेः **दिधिषुं** पतिं पूषणम् **अब्रवं** स्तौमि । **स्वसुः** उषसः **जारः** च पूषा **नः** अस्माकं स्तोत्राणि **शृणोतु** । **इन्द्रस्य** **भ्राता** सहजातः पूषा **मम** स्तोतुः **सखा** मित्रभूतोऽस्तु ॥
@@ -174,7 +177,6 @@ brother of Indra, companion to me.
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner interpr. abravam to mean “I have spoken of” (“(Von Pūṣan) … habe ich gesprochen”), but the fact that we immediately urge him to hear us suggests that we have spoken to him. In the next hymn VI.56.4 … tvā … brávāma also clearly means “we speak/say to you.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -207,8 +209,6 @@ Der Mutter Freier nannt' ich ihn, der Schwester Buhle höre uns, Des Indra Brude
 Да услышит нас любовник (своей) сестры.  
 Брат Индры, друг мой!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

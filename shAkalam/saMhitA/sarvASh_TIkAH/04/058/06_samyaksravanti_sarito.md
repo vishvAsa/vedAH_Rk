@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सरितः- घृताख्यात्मज्योतिर्युख्नमूलशख्निधाराः। धेनाः- श्रुतिवाचः। न- इव। सम्यक्। स्रवन्ति।  अन्तर्हृदा- चिदुन्मुखभावनया। मनसा- चित्तेन। पूयमानाः- शोधिताः सरन्ति। घृतस्य-  आत्मज्योतिषः। ऊर्मयः- तरङ्गाः। एते- इमे। अर्षन्ति- सरन्ति। क्षिपणोः- जिघांसोः।  ईषमाणाः- पलायमानाः। मृगा इव। ता वृत्राख्यावरणान्निसरन्त्यः स्रवन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अस्याग्नेरुपरि **सम्यक्** **स्रवन्ति** क्षरन्ति । घृतस्य धाराः। किमिव । **सरितो** **न** **धेनाः** प्रीणयित्र्यो नद्य इव । **अन्तर्हृदा** **मनसा** हृदयमध्यगतेन चित्तेन । भावनासचिवेनेति यावत् । तेन **पूयमानाः** शुद्धीकृताः । तदेवोच्यते । **एते** **घृतस्य** **ऊर्मयः** रसाः **अर्षन्ति** गच्छन्ति । जुह्वाः सकाशादग्नेरुपरि पतन्ति । किमिव । **क्षिपणोः** क्षेपकात् व्याधात् । **ईषमाणाः** पलायमानाः **मृगाइव** । ते यथा कक्षं प्रविशन्ति तद्वत् । अनेन शैघ्र्यमुक्तं भवति ॥
@@ -229,8 +232,6 @@ These waves of ghee rush, like wild beasts retreating from a javelin.
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda c combines etā́arṣanti from 5a with a variant of the repeated ghr̥tásya dhā́rāḥ, namely ūrmáyo ghrtásya ̥ .
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
@@ -264,8 +265,6 @@ Zusammen strömen Flüssen gleich die Tränke, gereinigt innen durch Gebet von H
 Бегут эти волны жира,  
 Словно газели, мчащиеся от стрелы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

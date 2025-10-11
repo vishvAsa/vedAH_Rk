@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्रोणे- कलशे रसोपलब्धिस्थाने। हरयः- सोमा रसाः। कर्म। प्र- प्रकर्षेण। अग्मन्- अगच्छन्।  पुनानासः- शोधकाः। ऋज्यन्तः- सत्यकामाः। अभूवन्- अभवन्। इन्द्रः। पूर्व्यः- सनातनः।  नः- अस्माकम्। अस्य- एतं रसम्। पपीयात्- अनुभूयात्। द्युक्षः- स्वर्गस्थः। मदस्य- तर्पकस्य।  सोमस्य- रसस्य। राजा- ईश्वरः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हरयः** हरितवर्णाः सोमाः **नः** **कर्म** अस्मदीयं यज्ञं **प्रो** **अग्मन्** प्रकर्षेण गच्छन्ति प्राप्नुवन्ति । प्राप्य च **पुनानासः** पूयमानाः **द्रोणे** द्रोणकलशे **ऋज्यन्तः** ऋजु गच्छन्तः **अभूवन्** भवन्ति । **पूर्व्यः** पुरातनः **द्युक्षः** दीप्तेर्निवासभूतो द्युस्थानो वा **मदस्य** मदकरस्य **सोम्यस्य** सोमस्य **राजा** ईश्वर एवंभूतः **इन्द्रः** च **अस्य** इमं सोमं **पपीयात्** पिबतु ॥
@@ -246,7 +249,6 @@ heaven-ruling king of soma’s exhilaration.
 
 Accented asyá in c presupposes the gen. phrase in d mádasya somyásya, even though the two genitives are construed differently: the one in c as (partitive) gen. with √pā ‘drink’, the one in d dependent on rā́jā.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -254,6 +256,7 @@ On the shift in referent between the hárayaḥ in 1b (Indra’s horses) and the
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -287,8 +290,6 @@ Zum Werke schritten vor die goldgefärbten, sie schossen hin gereinigt in die Ku
 Небесный царь хмельного напитка из сомы!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -304,7 +305,7 @@ Zum Werke schritten vor die goldgefärbten, sie schossen hin gereinigt in die Ku
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (इन्द्रः) अत्यन्त ऐश्वर्य्यवाला (अस्य) इस (सोम्यस्य) ऐश्वर्य्य में हुए (मदस्य) आनन्द का (द्युक्षः) अन्तरिक्ष के सदृश भूमि जिसकी वह (पपीयात्) बढ़े और (पूर्व्यः) पूर्वजनों से उत्पन्न किया गया (नः) हम लोगों का (राजा) प्रकाशमान राजा होवे और जो (पुनानासः) पवित्र (ऋज्यन्तः) सरल के सदृश आचरण करते हुए (हरयः) मनुष्य (द्रोणे) परिमाण में (कर्म) कर्म्म को (प्रो) अच्छे प्रकार (अग्मन्) प्राप्त होते हैं और (अभूवन्) प्रसिद्ध होते हैं, वे अन्यों को भी पवित्र करते हैं ॥२॥
+पदार्थान्वयभाषाः -  जो (इन्द्रः) अत्यन्त ऐश्वर्य्यवाला (अस्य) इस (सोम्यस्य) ऐश्वर्य्य में हुए (मदस्य) आनन्द का (द्युक्षः) अन्तरिक्ष के सदृश भूमि जिसकी वह (पपीयात्) बढ़े और (पूर्व्यः) पूर्वजनों से उत्पन्न किया गया (नः) हम लोगों का (राजा) प्रकाशमान राजा होवे और जो (पुनानासः) पवित्र (ऋज्यन्तः) सरल के सदृश आचरण करते हुए (हरयः) मनुष्य (द्रोणे) परिमाण में (कर्म) कर्म्म को (प्रो) अच्छे प्रकार (अग्मन्) प्राप्त होते हैं और (अभूवन्) प्रसिद्ध होते हैं, वे अन्यों को भी पवित्र करते हैं ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "035"
 devataa = "आदित्याः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सोभरिः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यूयम्। राजानः- स्वामिनः। चर्षणीसहः- शत्र्वभिभावुकाः। मानुषान् अनु- मनुष्यान्। क्षयन्तम्-  क्षपयन्तम्। कं चित्- कञ्चित् अभिभवथ। मित्र। वरुण। अर्यमन्। ते- अमी। वयम्। वः-  युष्मदीयाः। ऋतस्य रथ्यः- ऋताख्यरथनेतारः भवेम॥३५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **राजानः** राजमाना हे **चर्षणीसहः** शत्रुभूतानामभिभवितार आदित्याः **यूयं** **मानुषाननु** मनुष्यान् यजमानाननुलक्ष्य **क्षयन्तं** क्षपयन्तं **कं** **चित्** कमपि शत्रुं सर्वमपि शत्रुवर्गमभिभवथेति शेषः । यद्वा । मनुष्येषु यजमानेषु क्षयन्तं स्तुतीनामीश्वरं कं चित् कमपि स्तोतारं मा यूयं गच्छत । हे **वरुण** हे **मित्र** हे **अर्यमन्** **ते** तादृशाः **वयं** **वः** युष्माकं संबन्धिनः **ऋतस्य** यज्ञस्य **रथ्यः** **स्याम** नेतारो भवेम ॥
@@ -228,8 +231,6 @@ might we be those to you, o Varuṇa, Mitra, and Aryaman; might we  alone be the
 <details><summary>Jamison Brereton Notes</summary>
 
 The triple voc. phrase váruṇa mítrā́ryaman is accented despite being internal in a pāda that begins with tonic elements. There is no obvious reason for this: although the vocc. follow the caesura and immediately follow an enclitic (vayám té vo, váruṇa mítrā́ryaman), neither of these factors ordinarily triggers voc. accentuation. See, e.g., I.122.7 stuṣé sā́vāṃ, varuṇa mitra rātíḥ, where both conditions are found. For discussion of a similar case, see comm. ad VII.59.1.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
 <details open><summary><h2>34-35 ...{Loading}...</h2></summary>
@@ -263,8 +264,6 @@ O Könige [(beschützt) dies oder ähnliches aus einem frühern, nicht vorhanden
 Мы (хотим быть) такими для вас, о Варуна, Арьяман!  
 Да будем мы колесничими вселенского закона!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

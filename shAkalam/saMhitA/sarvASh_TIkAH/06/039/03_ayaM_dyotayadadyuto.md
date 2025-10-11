@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्युतः- अद्योतमानाः। अख्नून्- निशाः। अयम्- एषः। इन्दुः- सोमः। द्योतयत्- प्रकाशयति।  दोषा वस्तोः- रात्रिं दिवम्। शरदः- संवत्सरान्। व्यदीपयत्। अह्नाम्- दिवसानाम्। इमम्- एतं  चन्द्रम्। केतुम्- प्रज्ञापकम्। अदधुः- कृतवन्तः। शुचिजन्मनः- पवित्रजन्मयुख्नाः। उषसः। २    चकार- अकरोत्। आध्यात्मिके तु सोमो धार्मिकजीवने उपासकस्य हृदयस्थरसः। रात्र्यां  मनुष्यप्रज्ञायामपि प्रकाशं प्रापयति। स्वसाधनेन उषसं विद्यामानयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वया नियम्यमानः पीयमानो वा अयम् **इन्दुः** सोमः **अद्युतः** अद्योतमानान् **अक्तून्** । अक्तुरिति रात्रिनाम । अत्र च तत्संबन्धात् पक्षमासादयो लक्ष्यन्ते । पक्षमासादीन् तथा **दोषा** रात्रिं **वस्तोः** दिवसं **शरदः** संवत्सरांश्च **वि** द्योतयत् व्यदीपयत्। कुत इत्यत आह । **नू** **चित्** पुरा देवाः **इमं** सोमं चन्द्रात्मना नभसि वर्तमानम् **अह्नां** दिवसानां **केतुं** प्रज्ञापकं यस्मात् **अदधुः** व्यदधुः अकुर्वन् तस्मादनेन पक्षमासादयः सर्वे प्रकाश्यन्ते । चन्द्रगत्यधीनत्वात्तिथिविभागानाम् । अपि चायं सोमः **उषसः** उषःकालान् **शुचिजन्मनः** आत्मीयेन तेजसा शुद्धोदयान् **चकार** करोति ॥
@@ -263,8 +266,6 @@ This one they established to be ever the beacon of the days: he has made  the da
 <details><summary>Jamison Brereton Notes</summary>
 
 The identity of ayám as soma is fixed by índuḥ ‘drop’ towards the end of b, but not until fairly late in this sequence. The play of índu- and índra- so prominent in Maṇḍala IX is found here in their adjacency at the end of the hemistich.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
@@ -302,8 +303,6 @@ Die dunkeln Nächte machte dieser Indu, o Indra, hell, die Herbste, Abends, Morg
 Его установили навсегда как признак дней.  
 Он создал чисторожденные утренние зори.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

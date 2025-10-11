@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। इन्द्रः। मरुत्सखा- मरुतां प्राणविशेषाणां मित्रभूतः। वृत्रस्य- आवरणप्रतीकरक्षसः।  शिरः- शीर्षम्। शतपर्वणा- प्रभूतसन्धिना। वज्रेण। अभिनत्- बिभेद॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयमिन्द्रो** **मरुत्सखा** मरुद्युक्तः **वृत्रस्य** **वि** **अभिनत्** व्यच्छिनत् **शिरः** **वज्रेण** **शतपर्वणा** शतसंधिना ॥
@@ -177,10 +180,6 @@ Dieser Indra mit den Marut als Kameraden zerspaltete des Vritra Haupt mit der hu
 
 Er, Indra mit der Marutschar, zerspaltete des Vritra Haupt Mit seinem hundertzack'gen Blitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

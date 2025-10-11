@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - स्वस्त्यात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ánu ← ánu (invariable)  
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    सूर्याचन्द्रमसौ- सूर्याचन्द्रौ। इव। स्वस्ति- क्षेमकरम्। पन्थाम्- मार्गम्। अनु चरेम- अनुगच्छेम।  पुनः। ददत- यच्छत। अघ्नता- अहिंसता। जानता- विदुषा। सं गमेमहि- सङ्गच्छेमहि॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पन्थां** पन्थानं **स्वस्ति** क्षेमेण **अनु** **चरेम** **सूर्याचन्द्रमसाविव** । तौ यथा निरालम्बे मार्गे राक्षसादिभिरनुपद्रुतौ संचरतस्तद्वत् । किंच वयं प्रवसन्तः **पुनर्ददता** अभिमतम् **अघ्नता** चिरकालविलम्बकोपेन अहिंसता **जानता** अविस्मरता मदीयश्चिरकालं गतः कोऽयमिति संदेहमकुर्वता । मदीयोऽयमिति बुध्यमानेनेत्यर्थः । उक्तलक्षणेन बन्धुजनेन **सं** **गमेमहि** संगच्छेमहि । यद्वा । पूर्वार्धं प्रवसतां वाक्यमुत्तरार्धं बन्धूनाम् । वयं बन्धवो ददताभिमतमुपार्जितं यच्छताघ्नता प्रवासकोपेन अहिंसता जानता सस्नेहमधिगच्छता प्रवसता सं गमेमहि ॥ ॥ ७ ॥
@@ -238,8 +241,6 @@ Zum Heil lasst unsern Pfad uns gehn, gleichwie die Sonne und den Mond, Gesellt m
 Пусть встретимся мы с дающим вновь,  
 С неубивающим, с понимающим!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

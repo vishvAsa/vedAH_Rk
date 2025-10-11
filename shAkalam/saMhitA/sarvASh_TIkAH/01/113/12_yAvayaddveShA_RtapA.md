@@ -3,7 +3,6 @@ title = "012"
 devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यावयद्द्वेषा- द्वेषभावनानि वर्जयन्ती। ऋतपाः- प्रकृतिनियत्याख्यर्तपालयित्री। ऋतेजाः-  प्रकृतिनियतिजा। सुम्नावरी- सुखकरी। सूनृताः- प्रियहिततत्त्वानि। ईरयन्ती- प्रेरयन्ती।  सुमङ्गलीः- शोभना। देववीतिम्- देवकाम्यम्। बिभ्रती- धरयन्ती सती। इह- अत्र। अद्य-  इदानीम्। उषः- ज्ञानोदयदेवते। श्रेष्ठतमा- उत्तमा। व्युच्छ॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यावयद्द्वेषाः** । यावयन्ति अस्मत्तः पृथक्तकृतानि द्वेषांसि द्वेष्टॄणि राक्षसादीनि यया सा तथोक्ता । न ह्युष्यसि जातायां राक्षसादयोऽवतिष्ठन्ते यतस्ते निशाचराः । **ऋतपाः** ऋतस्य सत्यस्य यज्ञस्य वा पालयित्री **ऋतेजाः** यज्ञार्थं प्रादुर्भूता । सत्यामुषसि अहनि यागा अनुष्ठीयन्ते अतो यज्ञार्थं जातेत्युच्यते। **सुम्नावरी** । सुम्नमिति सुखनाम तद्वती । **सूनृताः** । वाङ्नामैतत् । पशुपक्षिमृगादीनां वचांसि **ईरयन्ती** प्रेरयन्त्युत्पादयन्ती । **सुमङ्गलीः** सौमङ्गल्योपेता । पत्या कदाचिदपि न वियुक्तेत्यर्थः । **देववीतिं** देवैः काम्यमानं यज्ञं **बिभ्रती** धारयन्ती हे **उषः** **श्रेष्ठतमा** उक्तेन प्रकारेणातिप्रशस्ता त्वम् **इह** अस्मिन् देवयजनदेशे **अद्य** अस्मिन् यागसमये **व्युच्छ** विवासय ॥ यावयद्द्वेषाः। ‘यु मिश्रणामिश्रणयोः' । अस्मात् ण्यन्तात् लटः शतृ । तस्य छन्दस्युभयथा ' इति आर्धधातुकत्वात् अदुपदेशात् लसार्वधातुकानुदात्तत्वाभावात् प्रत्ययस्वर एव शिष्यते । पुनर्बहुव्रीहौ स एव स्वरः । छान्दसः पदकालीनो ह्रस्वः । ऋतपाः । ऋतं पाति रक्षतीति ऋतपाः। ‘पा रक्षणे'। विच् । ऋतेजाः ।ऋते निमित्तभूते जायते इति ऋतेजाः । जनी प्रादुर्भावे ' । जनसनखनक्रमगमो विट् । ‘ विड्वनोरनुनासिकस्यात् ' इति आत्वम् । तत्पुरुषे कृति बहुलम्' इति अलुक्। सुम्नावरी ।  ‘ छन्दसीवनिपौ । इति मत्वर्थीयो वनिप् । 'वनो र च ' इति ङीप् नकारस्य रेफादेशश्च । अन्येषामपि दृश्यते ' इति दीर्घः । व्यत्ययेन प्रत्ययाद्युदात्तत्वम्। सुमङ्गलीः। ‘सुमङ्गलात् संज्ञायाम्' (पा. सू. ४.१.४१. ग.) इति गौरादिषु पाठात् ङीष् । सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति 'हल्ङ्याब्भ्यः' इति सुलोपस्य विकल्पितत्वात् अभावे रुत्वविसर्गौ । देववीतिम् ।  ‘ वी गतिप्रजनकान्त्यशनखादनेषु । देवैर्वीयते काम्यते इति देववीतिर्यज्ञः । कर्मणि क्तिन् । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् ॥
@@ -235,8 +238,6 @@ of good omen, bringing to birth (our ritual) pursuit of the gods—here  today, 
 Pāda b contains complex phonetic echoes: sumnāvárī sūnṛ́tā īráyantī, with repeated su/ū as well as mirror-image árī / īrá mediated by ṛ́; the n in each word and the final ī of the first and third could be added.
 
 In c the phrase bíbhratī devávītim is somewhat puzzling; devávīti- generally refers to humans’ ‘pursuit of the gods’, that is, the fervent invitation to the gods to partake of our sacrifice. It should not, therefore, be something that Dawn “brings,” as she brings prizes, for example. I therefore take the fem. part. bíbhratī in its birth sense: she bears / brings to birth our pursuit of the gods by waking us up to initiate this pursuit. Cf. a similar birth context in 19d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
@@ -275,8 +276,6 @@ Feindscheuchend, treu dem Recht und Recht beschirmend, voll Güte, alle Herrlich
 Несущая добрые предзнаменования, приглашающая богов:  
 Здесь, Ушас, сегодня зажгись, о самая лучшая!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

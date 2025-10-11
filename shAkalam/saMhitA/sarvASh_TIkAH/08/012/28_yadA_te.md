@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। ते- तव। हर्यता- कमनीयौ। हरी- प्राणाश्वौ। दिवेदिवे- प्रतिदिनम्। वावृधाते- वर्धेते। आदित्-  तदैव। ते- त्वदीयानि। विश्वा- सर्वाणि। भुवनानि। येमिरे- नियम्यन्ते॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वदीयौ **हर्यता** हर्यतौ कान्तौ **हरी** हरणशीलावश्वौ **दिवेदिवे** प्रतिदिवसं **यदा** यस्मिन् काले **वावृधाते** प्रवृद्धौ बभूवतुः **आदित्** अनन्तरमेव त्वया **विश्वा** विश्वानि सर्वाणि **भुवनानि** भूतजातानि **येमिरे** नियम्यन्ते स्म ।
@@ -189,6 +192,7 @@ For the only time in the hymn the Anhang is only three syllables, yemire, but th
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details open><summary><h2>25-28 ...{Loading}...</h2></summary>
 
@@ -220,8 +224,6 @@ Als dein geliebtes Füchsepaar an Grösse zunahm Tag für Tag, Da schmiegten all
 Стала крепнуть день ото дня,  
 Только тогда тебе подчинились все существа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

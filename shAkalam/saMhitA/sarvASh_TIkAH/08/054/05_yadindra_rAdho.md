@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणबाधक। इन्द्र- परमेश्वर। मघवत्तम- अतिशयेन सम्पद्वन्। माघोनम्- सम्पद्युख्ना।  राधः- संसिद्धिः। यत्- या। ते- त्वदीया। अस्ति- भवति। तेन- तया। नः- अस्मान्। सधमाद्यः-  सहमादकः सन्। भगः- भगवान् सन्। वृधे- वृद्ध्यै। दानाय। बोधि- बोधय॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -230,8 +233,6 @@ Mit deiner reichen Gabe, die dein eigen, reichster Indra, ist, Mit der sei unser
 С ним будь нашим сотрапезником, для (нашего) возрастания,  
 Благой будь для дарения, о убийца Вритры!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

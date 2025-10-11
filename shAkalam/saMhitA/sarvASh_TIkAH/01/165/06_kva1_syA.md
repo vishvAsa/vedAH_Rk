@@ -3,7 +3,6 @@ title = "006"
 devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - इन्द्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अथेन्द्रवचनम्। अहिहत्ये- अप्रज्ञाख्यबिलस्थवासनाहननाय वृष्ट्यावरणहननाय। यत्- यदा।  मामेकम्- इन्द्रं मामसहायम्। समधत्त- धृतवन्तः। तदा। मरुतः- हे प्राणविशेषाः। वः-  युष्माकम्। स्वधा- इन्द्रभिन्ना स्वधारणा। क्व स्या आसीत्- कुत्रासीत्। कुत्रापि नासीदिति भावः।  अहं। हि- खलु। उग्रः- उद्गूर्णः। तविषः- बली। तुविष्मान्- महत्त्वोपेतः। वधस्नैः-  वृत्रहननसाधनैर्वज्रैः। विश्वस्य शत्रोः- सर्वान् शत्रून्। अनमम्- विनीतानकरवम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्या** सा **स्वधा** तदुदकं बलं वा **वः** युष्माकं संबन्धि **क्व** आसीत् नैवासीदित्यर्थः । अस्माकमुदकं त्वमनुभवसीति ब्रूथ। **यत्** या स्वधा **एकम्** असहायं माम् **अहिहत्ये** वृष्टयर्थं मेघहननकर्मणि वृत्रवधे वा **समधत्त** सहितमभूत् । समासीदिति संबन्धः । असहायस्य कथमिति मतं सेत्स्यतीति अतः आह । **अहं** **हि** अहं खलु **उग्रः** उद्गूर्णबलः **तविषः** बलवान् **तुविष्मान्** महत्त्वोपेतोऽस्मि । यस्मात् अतिबलोऽहं तस्मात् **विश्वस्य** कृत्स्नस्य **शत्रोः** मेघस्य । शत्रुरेवायम् ॥ कर्मणि षष्ठी ॥ सर्वं शत्रुसंघं वधस्नैः वधरूपैः शोधनैः वधकौशलैरित्यर्थः । यद्वा । वध इति वज्रनाम । वधस्नैर्वज्रस्यासनैः क्षेपणप्रकारैः । अनमम् अनमयम् । अन्तर्भावितण्यर्थोयम् ॥ वशीकरोमीत्यर्थः ॥
@@ -264,8 +267,6 @@ For I, the powerful and mighty, possessed of might, humbled with my  weapons tho
 I do not understand the length in ūgrá- here and 10c. Lubotsky (2000 [“Vedic root vṛ …,” Indoarisch, Iranisch und die Indogermanistik]: 320 n. 16) attributes it to compensatory lengthening from *hí uHgrás, after laryngeal metathesis from *hi Hugrás, but I find the proposed metathesis counterintuitive (despite the other exx. he adduces); one would rather expect the laryngeal to remain where it is as a hiatus-filler. Moreover, assuming that this remained as a synchronic rule in the RV is quite hard to accept.
 
 Indra adroitly manipulates the wording here to contrast his own solitary state with the Maruts’ collectivity: … mā́m ékaṃ samádhatta “… me alone together you…”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -300,8 +301,6 @@ Wo war denn diese eure Selbständigkeit, ihr Marut, als ihr mich im Drachenkampf
 Сгибал (смертельное оружие) любого врага (своим) смертельным оружием.  
 Маруты:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

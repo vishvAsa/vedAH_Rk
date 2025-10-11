@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। पृतनासु- शत्रुसेनासु। जामीरजामीन्- बन्धूनबन्धून्। शत्रून्- रिपून्। तव- ते। ऊतिभिः-  रक्षाभिः। वंसाम- हनाम। इन्द्र। तत्। वृषणम्- वर्षकम्। धनस्पृतम्- सम्पत्स्पर्शकम्।  शूशुवांसम्- प्रवृद्धम्। सुदक्षम्- शोभनसामर्थ्योपपन्नम्। शुष्मम्- शत्रुशोषकं बलम्। नः-  अस्मभ्यम्। आ भर- आहर॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **वृषणं** वर्षितारं **शुष्मं** सेनालक्षणं बलं **नः** अस्मभ्यम् **आ** **भर** आहर । कीदृशम् । **धनस्पृतं** धनस्य पालकं **शूशुवांसं** प्रवृद्धं **सुदक्षं** शोभनबलम् । हे इन्द्र **तवोतिभिः** त्वदीयाभी रक्षाभिः **पृतनासु** संग्रामेषु । पृतना इति संग्रामनाम । **येन** बलेन **शत्रून्** **वंसाम** हनाम। उतेत्यत्र भिन्नक्रमः । **जामीन्** बन्धून् **उत** अपि च **अजामीन्** शत्रूंश्च येन शुष्मेण वंसाम तं शुष्ममा भरेति पूर्वेण संबन्धः ॥
@@ -249,8 +252,6 @@ non-kin, with your help.
 
 In d the utá is oddly positioned, since it appears to be meant to conjoin jāmī́m̐r ájāmīn “kin and non-kin,” there being no other likely candidates. Klein (DGRV I.356-57) calls it a “peculiar passage” and classes it with two other examples of what he schematizes as utá X Y (/ Z …). The pair jāmí- ájāmi- is several times asyndectic (I.111.3, IV.4.5, VI.44.17) as here, so no conjunction is actually necessary, but we can cite nearby VI.25.3 … jāmáya utá yé ‘jāmayaḥ, where the utá is correctly placed. Perhaps our passage is a blend of the asyndectic figure and the “X and which Y” construction in VI.25.3.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -260,6 +261,7 @@ This participle picks up śáviṣṭham … śávaḥ in vs. 6.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -292,8 +294,6 @@ Und Heldenkraft bring uns herbei, o Indra, die Preis erringt, sehr mächtige, ge
 С которым мы сможем одолеть в сражениях врагов:  
 Кровных родственников (или) чужих – с твоими поддержками!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

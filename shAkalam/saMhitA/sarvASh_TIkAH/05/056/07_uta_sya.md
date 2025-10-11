@@ -3,7 +3,6 @@ title = "007"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। स्यः- सः। अरुषः- रोचमानः। तुविष्वनिः- बहुस्वनः। दर्शतः- दर्शनीयः। वाजी-  तुरगः। इह- अत्र। धायि- रथे नियोजितः। मरुतः। वः- युष्माकम्। यामेषु- गमनेषु। मा। चिरं  करत्- विलम्बं करोतु। तम्- अश्वम्। रथेषु। प्र चोदत- प्रचोदयत॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **स्यः** सः **वाजी** वेजनवान् **अरुषः** आरोचमानः **तुविष्वणिः** प्रभूतध्वनिरश्वः । अरुष इत्यनेन रोहित इत्युक्तं भवति ।  ‘ प्रष्टिर्वहति रोहितः ' ( ऋ. सं. १. ३९. ६ ) इति ह्युक्तम् । **इह** इदानीं **दर्शतः** दर्शनीयः सन् **धायि** रथे नियोजितः । **स्म** इति पूरणः । हे **मरुतः** **वो** **यामेषु** गमनेषु सोऽश्वः **चिरं** विलम्बं **मा** **करत्** मा करोतु । **तं** **रथेषु** । रथे युक्तमिति शेषः । **प्र** **चोदत** प्रेरयत । यथा विलम्बं न कुर्यात्तथा प्रेरयत ॥
@@ -253,7 +256,7 @@ tr. I identified the referent as Agni (and I still think he is a possible second
 
 Flg. Wackernagel (Fs. Jacobi), Hoffmann (Injunk. 55-56; see also 92) explains this potentially embarrassing form as the injunctive to a thematized root aor., which thematization began from the ambiguous 1st sg. ákaram. He (somewhat disingenuously) notes that outside of mā́clauses the kara- forms are otherwise only subjunctives, and he further suggests that his two exx. are found in idiomatic expressions that belong to the Volkssprache, which could explain the earlier thematization (cf. also Aufs. II.344 n. 2). (His other ex. of mā́… karat in VIII.2.20 I explain differently, as not belonging to the mā́clause at all. See comm. ad loc.) Hoffmann’s thematic aor. explan. has been apparently accepted by Lubotsky, who classifies the two forms identified thus by Hoffmann under “A-AOR.inj.” I am generally dubious, because the root aor. of √kṛ is so well entrenched in the RV and the -a-forms are otherwise found in clear subjunctive usage. However, I am somewhat sympathetic to the “idiomatic” explanation, esp. combined with a metrical observation: the injunc. kaḥ expected here is found almost entirely at the end of Triṣṭubh pādas, but would not work here at the end of a Jagatī pāda. Nonce thematization, esp. perhaps in a low-register expression, would be a quick fix.
 
-Witzel Gotō produce a curious hybrid of prohibitive and subjunctive: “Nicht soll und wird er … (euch) langsam machen” (my italics). I do not understand the explanation given in the n., or at least do not understand what sort of grammatical category is envisioned: “Uns scheint ein expekativer oder voluntativer Konjunktiv deutlich mitzuschwingen: &gt;(Auf keinen Fall erwarten wir), dass er euch langsam mache← bzw.
+Witzel Gotō produce a curious hybrid of prohibitive and subjunctive: “Nicht soll und wird er … (euch) langsam machen” (my italics). I do not understand the explanation given in the n., or at least do not understand what sort of grammatical category is envisioned: “Uns scheint ein expekativer oder voluntativer Konjunktiv deutlich mitzuschwingen: >(Auf keinen Fall erwarten wir), dass er euch langsam mache← bzw.
 
 >Dass er euch ja nicht langsame mache!← This clearly builds on Tichy’s analysis of
 the function of the subjunctive as “expectation,” but I do not understand how the subjunctive would interact with the mā́.
@@ -282,8 +285,6 @@ Dies rothe, schnelle Ross auch, das gewaltig tobt, das schöne ward hier angeleg
 Чтобы он не отставал, о Маруты, в ваших походах,  
 Погоняйте его перед колесницами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

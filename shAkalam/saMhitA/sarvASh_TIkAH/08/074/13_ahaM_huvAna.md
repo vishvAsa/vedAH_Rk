@@ -3,7 +3,6 @@ title = "013"
 devataa = "श्रुतर्वण आर्क्षस्य दानस्तुतिः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आर्क्षे- सौम्ये। श्रुतर्वणि- उपासितप्राणे। मदच्युते- सोमस्रावके। अहम्। हुवानः- आहूतः।  चतुर्णाम्। स्तुकविनाम्- केशिनामश्वानाम्। शर्धांसीव- बलानीव। शीर्षा- शिरांसि। मृक्ष-   मृजामि॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अहम्** ऋषिः **हुवानः** हूयमानो यज्ञदिदृक्षार्थं **श्रुतर्वणि** एतन्नाम्नि राजनि **मदच्युति** शत्रूणां मदस्य च्यावयितरि **स्तुकाविनाम्** । स्तुकाविन ऊर्णायवः । स्तुकः केशसंघातः । तद्वतां **शर्धांसीव** उच्छ्रितानि लोमानीव तानि यथा स्पृशन्ति तद्वत् **वृक्षा** वृक्षाणि । वृश्च्यन्त इति वृक्षाः केशाः । तद्वन्ति वृक्षाणि **शीर्षा** शीर्षाणि शिरांसि । केषाम् । **चतुर्णां** श्रुतर्वणा प्रदत्तानामश्वानां शिरांस्युन्मृजामीति शेषः । अथवा वृक्षा वृक्षेण । व्रश्चनसाधनत्वाद्वृक्षो हस्तः । तेनोन्मृजामि ॥
@@ -189,10 +192,6 @@ Zu dem stolzen Srutarvan, des Riksa Sohne, gerufen soll ich die Köpfe von vier 
 
 Ich, der anrufende, werde nun striegeln die Köpfe der vier von Çrutarvan, dem Sohne des Rikscha, empfangenen Rosse, wie man die Scharen der mit Haarlocken versehenen [Schafe?] striegelt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

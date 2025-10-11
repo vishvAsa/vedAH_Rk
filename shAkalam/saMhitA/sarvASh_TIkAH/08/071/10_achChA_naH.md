@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शीरशोचिषम्- अशनशीलज्वालम्। दर्शतम्- दर्शनीयमग्निम्। अच्छ- अभिलक्ष्य। नः-  अस्माकम्। गिरः- मन्त्राः। यन्तु- गच्छन्तु। यज्ञासः- यज्ञाः। नमसा- नमस्कारेण। पुरूवसुम्-  प्रभूतधनम्। पुरुप्रशस्तम्- बहुभिः स्तुतम्। अच्छ। ऊतये- रक्षायै। यन्तु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अच्छ** अभिमुखं **यन्तु** गच्छन्तु **नः** अस्माकं **गिरः** स्तुतयः । कम् । **शीरशोचिषम्** अशनशीलज्वालं **दर्शतं** सर्वैर्दर्शनीयमग्निम् । तथा **यज्ञासः** यज्ञाश्चास्मदीयाः **नमसा** हविषाज्यादिलक्षणेन **अच्छ** अभिमुखं यन्तु गच्छन्तु । कीदृशम् । **पुरुवसुं** प्रभूतधनं **पुरुप्रशस्तं** बहुस्तुतम् । किमर्थम् । **ऊतये** अस्माकं रक्षणाय ॥ ॥ १२ ॥
@@ -203,10 +206,6 @@ Unsere Lobesworte sollen zu dem Scharfflammigen, Gerngesehenen gelangen, zu ihm 
 
 Es sollen unsre Lieder nahn, dem schönen, heisserglühenden, Dem güterreichen demuthsvoll die Opfer auch, dem vielgelobten zum Genuss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऊर्मिः- तरङ्गः। नावम्- प्लवम्। न- इव। समस्य- सर्वस्य। परिद्वेषसः- द्विषतः। दूढ्यः-  पापबुद्धेः। अंहतिः- हननम्। मा। नः- अस्मान्। आ वधीत्- हिंस्यात्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **समस्य** सर्वस्य **परिद्वेषसः** परितो द्विषतः **दूढ्यः** पापबुद्धेः **अंहतिः** हननं **मा** **आ** **वधीत्** मा हिंस्यात् । **नावम्** **ऊर्मिः** समुद्रतरङ्ग इव । स यथा तां पीडयति तद्वन्मा वधीदित्यर्थः । अत्र ‘मा नः सर्वस्य दुर्धियः' (निरु. ५. २३) इत्यादि निरुक्तं द्रष्टव्यम् ॥
@@ -181,10 +184,6 @@ Nicht soll uns von irgend einem übelgesinnten Feinde Ungemach treffen wie die W
 
 Nicht möge eines tückischen Bedrängers Hass zerschlagen uns, Gleich wie das Schiff der Wogendrang.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

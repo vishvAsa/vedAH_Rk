@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - नृमेधः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। तुरयन्तम्- शत्रुहिंसकम्। शुष्मम्- बलम्। क्षोणी- द्यावापृथिव्यौ। शिशुम्- वत्सम्।  मातरा- जनन्यौ। न- इव। अनु ईयतुः- अनुगच्छतुः। वृत्रम्- आवरणम्। यत्- यदा। इन्द्र।  तूर्वसि- हंसि तदा। विश्वाः- सर्वे। ते- तव। स्पृधः- स्पर्धमाना रिपवः। मन्यवे- क्रोधाय।  श्नथयन्त- खिन्ना भवन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ते** तव **शुष्मं** बलं **तुरयन्तं** हिंसन्तं शत्रुं **क्षोणी** द्यावापृथिव्यौ **मातरा** मातरौ **शिशुं** **न** शिशुमिव **अनु** **ईयतुः** अनुगच्छतः । गमनमात्रे दृष्टान्तः । किंच हे **इन्द्र** त्वं **यत्** यस्मात् **वृत्रं** शत्रुं **तूर्वसि** हंसि अतः **ते** तव **मन्यवे** क्रोधाय **विश्वाः** सर्वाः **स्पृधः** संग्रामकारिण्यः सेनाः **श्रथयन्त** श्रथिताः खिन्ना भवन्ति ॥
@@ -251,7 +254,6 @@ The phrase itá ūtī́(also, as itá ūtī́ḥ I.119.8, I.130.5) cannot be sep
 
 Here in this Anhangslied it is likely that ūtí- ‘help’ has captured the de-compounded phrase, but that the phrase is still associated with the notion of constancy, hence my compromise “with enduring help.” Geldner tr. “zu eurem unmittelbaren (immediate) Beistand,” but in n. allows “den durch Fortdauer (oder Verjüngung) Alterlosen.”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -284,8 +286,6 @@ Die beiden Fluten eilen seiner Siegerkraft wie Aeltern ihrem Kinde nach und alle
 Все твои противники слабеют перед (твоей) яростью,  
 Когда, о Индра, ты побеждаешь Вритру.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

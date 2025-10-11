@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शवसः- बलस्य। उत्सवेषु- प्रवाहेषु। तम्। अप्सन्त- आप्नुवन्ति। नरम्- नेतारम्। नराः-  नेतारः। तम्। धनाय- संपदे आप्नुवन्ति। सः। अन्धे चित् तमसि- अन्धकारे एव अज्ञाने सति।  ज्योतिः- ज्ञानम्। विदत्- लब्धवान्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नरः** नेतारः स्तोतारः **शवसः** बलस्य संबन्धिषु **उत्सवेषु** संग्रामेषु **नरं** जयस्य नेतारं **तम्** इन्द्रम् **अप्सन्त** आप्नुवन्ति । किमर्थम् । **अवसे** अन्नार्थं रक्षणार्थं वा । तथा **धनाय** धनार्थं च **तम्** इन्द्रं प्राप्नुवन्ति । यस्मात् **सः** इन्द्रः **तमसि** दृष्टिप्रतिबन्धके **अन्धे** **चित्** आध्यानरहिते चित्तव्यामोहकरेऽपि संग्रामे **ज्योतिः** विजयलक्षणं प्रकाशं **विदत्** लम्भयति । तस्मात् तमेव प्राप्नुवन्तीत्यर्थः । अन्यत् समानम् ॥ अप्सन्त । आप्लृ व्याप्तौ । लङि व्यत्ययेन आत्मनेपदम् । व्यत्ययेन क्सप्रत्ययः । व्यत्ययेन धातोर्ह्रस्वत्वम् । विदत् । **विद्लृ** लाभे'। 'छन्दसि लुङ्लङ्लिटः' इति वर्तमाने छान्दसो लुङ् । लुदित्त्वात् च्लेः अङादेशः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः ॥
@@ -266,7 +269,7 @@ He found the light even in blind darkness. – Accompanied by the  Maruts, let I
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The apparent 3rd pl. med. verb apsanta is difficult. Geldner simply refuses to translate. Oldenberg suggests a connection with √sap but without conviction. Renou and Witzel Gotō (though both without disc.) must take it as a desiderative to √āp ‘reach, obtain’ (“… cherchent à gagner,” “… wollen … erreichen”). But, though the standard desid. to this root, ī́psati, is not attested until the AV, the lack of reduplication and the short root vowel make the stem apsa- an unlikely desid. (This analysis is also rejected by Geldner in n. 8a.) I tentatively suggest that it belongs to the putative root √bhas ‘breathe’, which Thieme (Gramm. Kat. 539) suggests underlies the various compounds in -psu-, as well as Grk. ψυχή (see EWA s.vv. psu- and bhas2 ) and that it means ‘inspire’. It would then be the imperfect of a root pres. (or possibly a root aor.). Though we might expect a weak form of the middle ending, *apsata, this may well be an -anta replacement for act. -an of the type identified and described in Jamison 1979 (IIJ 21).
+The apparent 3rd pl. med. verb apsanta is difficult. Geldner simply refuses to translate. Oldenberg suggests a connection with √sap but without conviction. Renou and Witzel Gotō (though both without disc.) must take it as a desiderative to √āp ‘reach, obtain’ (“… cherchent à gagner,” “… wollen … erreichen”). But, though the standard desid. to this root, ī́psati, is not attested until the AV, the lack of reduplication and the short root vowel make the stem apsa- an unlikely desid. (This analysis is also rejected by Geldner in n. 8a.) I tentatively suggest that it belongs to the putative root √bhas ‘breathe’, which Thieme (Gramm. Kat. 539) suggests underlies the various compounds in -psu-, as well as Grk. ψυχή (see EWA s.vv. psu- and bhas2 ) and that it means ‘inspire’. It would then be the imperfect of a root pres. (or possibly a root aor.). Though we might expect a weak form of the middle ending, *apsata, this may well be an -anta replacement for act. -an of the type identified and described in Jamison 1979 (IIJ 21).
 
 Oldenberg rejects a derivation from √bhas, but presumably referring to the other √bhas ‘bite’.
 </details>
@@ -294,8 +297,6 @@ Die Männer werben um den Mann zur Stärkung, zum Schutz, zur Beute in den Krieg
 Он даже в непроглядной тьме нашел солнце.  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

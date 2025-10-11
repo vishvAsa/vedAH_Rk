@@ -3,7 +3,6 @@ title = "037"
 devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशोकः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मर्याः- हे मर्त्याः। अमिथितः- अनाक्रुष्टः। कः। सखा। सखायं प्रति। जहा- अहं कं जघान।  कः। अस्मत्- अस्मत्तः। ईषते- पलायते। इति। ब्रवीति॥३७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **को** **नु** कः खलु हे **मर्याः** मनुष्याः **अमिथितः** । मेथतिराक्रोशकर्मा । अनाक्रुष्ट इन्द्रादन्यः **सखा** **सखायं** प्रति **जहा** अहं कं जघान **कः** को वा **अस्मत्** अस्मत्तो भीतः **ईषते** पलायत इति **अब्रवीत्** वदति । इन्द्र एवैतादृशस्य वचनस्य वक्तेत्यभिप्रायः । तथा च यास्कः- मेथतिराक्रोशकर्मा। अपापकं जघान कमहं जातु कोऽस्मद्भीतः पलायते ' (निरु. ४. २) इति । ‘मा न एकस्मिन्नागसि' इत्यादिकया श्रुत्या नूनमृषिमिन्द्र आजहारेत्यर्षिर्विस्मयत इति ।
@@ -175,8 +178,6 @@ Geldner takes ámithitaḥ as “ohne Zank” (without a quarrel), but I think i
 
 However, Oldenberg very persuasively suggests that it is a 1st sg. subjunctive in the direct speech introduced by abravīt. Although to the reduplicated present of √hā we would expect accent on the reduplication (*jáhā), Oldenberg argues that the fluctuation of accent in IIIrd class presents makes the accent irrelevant. I would alternatively suggest that it could be a subjunctive to the perfect stem. See Oldenberg’s extensive discussion of the various previous proposals about this form.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
 <details open><summary><h2>37-38 ...{Loading}...</h2></summary>
 
@@ -208,8 +209,6 @@ Wer, o ihr Männer, sagte je als Freund vom Freunde ungereizt: Verschmähend lä
 Друг сказал другу:  
 Я хочу оставить (тебя). Кто нас избегает?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

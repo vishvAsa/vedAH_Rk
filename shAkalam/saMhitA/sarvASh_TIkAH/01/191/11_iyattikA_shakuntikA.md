@@ -3,7 +3,6 @@ title = "011"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -31,13 +29,13 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 iyattikā́ ← iyattikā́- (nominal stem)  
@@ -277,6 +275,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इयत्तिका- अल्पप्रमाणा सूक्ष्मेत्यर्थः। शकुन्तिका- शकुनस्त्री। सका- सा। ते- तव। विषम्।  जघास- अभक्षयत्। शकुन्तिकः पक्षी मुमुक्षाप्रतीकः। मुमुक्षा अत्यन्तरत्याख्यविषं  निवारयति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इयत्तिका** इयत्तां कुर्वाणा इयत्तावती वा । बालेत्यर्थः । **शकुन्तिका** । शकुन्तः शकुनः । तस्य स्त्री । तां कपिञ्जलीमाहुः । **सका** सा **ते** तव **विषं** **जघास** भक्षितवती । सा विषहर्त्रीति प्रसिद्धा । **सो** **चित्** ॥ सा उ इति निपातसमुदायः एकं पदम् । सापि शकुन्तिका न म्रियते नित्यप्रतिपक्षत्वाद्विषस्य । शिष्टं व्याख्यातचरम् । अनेन विद्यायां यद्देहावृतं विषं तस्य शकुनेभ्यः आदित्याय च प्रदानमस्तीत्युक्तं भवति ।
@@ -332,8 +335,6 @@ Dies so winzige Vögelchen hat dein Gift verschlungen, und wird doch daran nicht
 Правящий булаными конями, уничтожил его суть.  
 Медовая (трава) медом сделала тебя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। इमा- एतानि। पुरु- बहूनि। वार्या- वरणीयानि। दिवोदासाय- देवसेवकाय। सुन्वते-  रसनिष्पादकाय। भरद्वाजाय- हव्यधारकाय। दाशुषे- यच्छते। यच्छसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **त्वम्** **इमा** इमानि दृश्यमानानि **पुरु** पुरूणि बहूनि **वार्या** वार्याणि वरणीयानि संभजनीयानि धनानि **दिवोदासाय** **सुन्वते** । लुप्तोपममेतत् । यथा सोमाभिषवं कुर्वते दिवोदासाख्याय राज्ञे प्रादास्तथा **दाशुषे** हवींषि दत्तवते **भरद्वाजाय** ऋषये देहीति शेषः ॥ ॥ २१ ॥
@@ -138,8 +141,6 @@ You—(give) these many valuables to Divodāsa the (soma) presser, to Bharadvāj
 <details><summary>Jamison Brereton Notes</summary>
 
 A verb must be supplied in this vs., with ‘give’ being the obvious choice.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -172,8 +173,6 @@ Dem Divodasa schenktest du, dem Somapresser, vieles Gut, Dem frommen Bharadvadsc
 Диводасе, выжимающему (сому),  
 Бхарадвадже, почитающему (тебя)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

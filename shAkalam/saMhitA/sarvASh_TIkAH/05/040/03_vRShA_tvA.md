@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वज्रिन्- वज्रपाणे। चित्राभिः- नानाविधाभिः। ऊतिभिः- रक्षाशख्नभिर्निमित्ताभिः। वृषा- रसवर्षकः  सन्। त्वा- त्वाम्।  वृषणम्- वर्षकम्। हुवे- आह्वये। वृषन्निन्द्र वृषभिर्वृत्रहन्तम॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वज्रिन्** वज्रवन् **इन्द्र** **वृषा** सोमरसस्य सेक्ताहं **वृषणं** त्वां **हुवे** आह्वयामि । किमर्थम् । **चित्राभिः** चायनीयाभिः **ऊतिभिः** रक्षाभिर्निमित्तभूताभिः । शिष्टं गतम् ॥
@@ -187,10 +190,6 @@ Als Bulle rufe ich nach dir, dem Bullen, du Keulenträger, mit deinen wunderbare
 
 Dich ruf' ich an, der Stier den Stier, o Blitzer, an Genüssen reich, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

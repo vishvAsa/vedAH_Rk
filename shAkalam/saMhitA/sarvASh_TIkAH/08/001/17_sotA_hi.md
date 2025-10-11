@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेधातिथिमेध्यातिथी काण्वौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिभिः- स्थैर्योपलक्षितग्रावभिः। सोत- रसं निष्पादयत। एनम्- एतम्। अप्सु-  मूलशख्निधारासु। आ धावत। गव्या- रश्मीन्। वस्त्रेव- वासांसीव। वासयन्तः- बिभ्रतः। नरः-  नेतारः। वक्षणाभ्यः- नदीभ्यः। निर्धुक्षन्- उदकं दुहन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अध्वर्यवः **अद्रिभिः** ग्रावभिः **सोमं** **सोत** । हिरवधारणे । अभिषुणुतैव। **एनम्** इमम् **अप्सु** वसतीवरीषु **आ** **धावत** । अस्य सोमस्य धवनं कुरुत । अदाभ्यग्रहे हिमादासुत इत्यादिभिर्मन्त्रैर्वसतीवरीष्वाधवनं सोमस्य क्रियते । तत् कुरुतेत्यर्थः । **गव्या** गवि भवानि **वस्त्रेव** वस्त्राण्याच्छादकानि चर्माणीव मेघान **वासयन्त** **इत्** आच्छादयन्त एव **नरः** नेतार इन्द्रस्यानुचरा मरुतः **वक्षणाभ्यः** नदीभ्यो नदीनामर्थाय **निर्धुक्षन्** उदकानि निर्दुहन्ति क्षारयन्ति । यत एवमतः कारणादिन्द्रयागाय सोममद्रिभिरभिषुणुतैव । मोदासिषतेत्यर्थः ॥
@@ -238,8 +241,6 @@ On the īm enam doubling see Jamison 2002.
 In c I take gavyā́as part of the frame, not the simile, because of the position of iva. Contra Geldner, who takes gavyā́vástrā as the simile: “[g]leichsam in Milchgewänder…” dhukṣan should be an injunctive to the sa-aorist found in ádhukṣat, etc., the only reliably attested sigmatic aorist to √duh. It would be appealing to interpret it as a subjunctive to an athematic s-aorist (as the pub tr. “will milk”and Geldner’s “wollen … herausmelken” suggest), but it should then have full-grade *dhokṣan.
 
 On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
@@ -273,8 +274,6 @@ So presst mit Steinen Soma denn, und spület ihn mit Wasser durch, Und Männer i
 Мужи, будто рядя его в молочные одежды,  
 Пусть выдаивают (его) из нутра!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

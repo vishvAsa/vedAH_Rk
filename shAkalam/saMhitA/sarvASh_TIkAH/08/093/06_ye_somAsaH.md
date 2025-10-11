@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    ये। सोमासः- रसाः। परावति- दूरे। अर्वावति- अन्तिके। सुन्विरे- निष्पन्नाः। सर्वान्। तान्।  इन्द्र। गच्छसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ये** **सोमासः** सोमाः **परावति** विप्रकृष्टेऽतिदूरदेशे **ये** सोमाः **अर्वावति** अन्तिकतमे देशे च **सुन्विरे** । छन्दसि द्विर्वचनस्य विकल्पितत्वादत्र द्विर्वचनाभावः। ये सोमा ऋत्विग्भिरभिषूयन्ते **सर्वान्** दूरे समीपे चाभिषूयमाणान् **तान्** सोमान् **गच्छसि** तत्पानार्थं युगपत्प्राप्नोषि । अनेनेन्द्रस्य सर्वगतत्वं सूचितम् ॥
@@ -189,10 +192,6 @@ Die Somatränke, die in der Ferne, die in der Nähe ausgepreßt werden, zu allen
 
 O Indra, welche Tränke dir bereitet werden fern und nah, Zu denen allen gehst du hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

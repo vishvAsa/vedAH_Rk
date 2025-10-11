@@ -3,7 +3,6 @@ title = "005"
 devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -26,7 +24,6 @@ ChandaH = "गायत्री"
 दु॒रि॒तानि॒ परा॑सुव ।
 यद्भ॒द्रन्तन्म॒ आसु॑व ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -166,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देव सवितः। विश्वा- सर्वाणि। दुरितानि- अघानि। परा सुव- दूरे प्रेरय। यत्। भद्रम्- कल्याणम्।  तत्। नः- अस्मभ्यम्। आ सुव- आभिमुख्येन प्रेरय॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सवितः **देव** त्वं विश्वानि दुरितानि परा सुव । यद्भदं प्रजापशुगृहादिकं तत् **नः** अस्मभ्यम् “ **सुव** अस्मदभिमुखं प्रेरय। ‘प्रजा वै भद्रं पशवो भद्रं गृहं भद्रम् ' इति हि श्रुतिः ॥ ॥ २५ ॥
@@ -215,8 +217,6 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 Бедствия прочь отзови,  
 Что благого – то к жизни вызови для нас!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

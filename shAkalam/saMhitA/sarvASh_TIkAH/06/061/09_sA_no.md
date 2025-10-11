@@ -3,7 +3,6 @@ title = "009"
 devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सा। नः अस्माकम्। द्विषः- द्वेषभावनानि। विश्वा- सर्वाणि। अति- अतिक्रम्य। सूर्यः। अहन्-  अहानि। अतन्- अतिक्रम्य गच्छति। इव। अन्याः- इतराः। स्वसॄः- स्वतःसरणशीला  मूलशख्निधारा अपः। अतीत्य। ऋतावरी- प्रकृतिनियतिभूतसत्ययुख्ना। गच्छति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सा** सरस्वती **नः** अस्मान् **विश्वाः** सर्वाः द्विषः द्वेष्ट्रीः प्रजाः **अति** नयतु अतितारयतु । तथा **स्वसॄः** स्वयं सारिणीः सहोत्पन्ना वा **ऋतावरीः** । ऋतमित्युदकनाम । तद्युक्ताः **अन्याः** च नदीरस्मानतिनयतु । यद्वा । जस्येव ‘वा छन्दसि इति पूर्वसवर्णदीर्घः । उदकवत्यः स्वसारो भगिन्योऽन्या गङ्गाद्या नद्यश्चास्मान् शत्रून् अतिनयन्तु। तत्र दृष्टान्तः । **सूर्यः** सर्वस्य प्रेरक आदित्यः **अतन्** सततं गच्छन् **अहेव** अहानीव । यथाहानि शीघ्रमतिनयति तद्वत् ॥
@@ -192,8 +195,6 @@ Because of its position within the NP víśvā áti dvíṣaḥ, áti is probabl
 
 The position of anyā́ḥ identifies the sisters as a defined and limited group, and of course, as the next vs. states (10b saptásvasā), Sarasvatī has precisely seven sister rivers.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -225,8 +226,6 @@ Sie dehnt' uns durch der Schwestern Schar und über alle Feinde aus, Die hehre, 
 Верная закону, других сестер  
 Она протянула (для нас), как солнце – дни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

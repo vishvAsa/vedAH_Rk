@@ -3,7 +3,6 @@ title = "022"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तत्। वः- यूयम्। सुते- रसे निष्पन्ने। सत्वने- सनित्रे। पुरुहूताय- बहुभिः साहाय्यायाहूत।  शाकिने- शख्निमते। गवे- प्रकाशयुख्नाय। न- च। शम्- मङ्गळं यथा भवति तथा। सचा- सङ्गत्य।  गाय- कीर्तयत॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतारः **वः** यूयं **सुते** अभिषुते सोमे सति **पुरुहूताय** बहुभिर्यजमानैराहूताय **सत्वने** शत्रूणां सादयित्रे धनानां वा सनित्रे दात्रे इन्द्राय **तत्** स्तोत्रं **सचा** सह संहता भूत्वा **गाय** गायत । **यत्** स्तोत्रं **शाकिने** शक्तिमते इन्द्राय **शं** सुखकरं भवति **गवे** **न** । यथा गवे यवसं सुखकरं तद्वदित्यर्थः ॥
@@ -183,8 +186,6 @@ Lit. this should be “Sing (o poet=me) this, (on behalf of) you all (=priests).
 Skjaervø, BAI 19 [2005]), where this passage is disc. p. 69. The effort to introduce the 2nd pl. into the English would overbalance the tr., in a way that the slender enclitic vaḥ does not.
 
 The simile in c is somewhat unsettling: “Sing what is weal for the able one as if for a cow.” Presumably it’s not the song that would be weal for a/the cow. Sāyaṇa.’s explan., reported by Geldner (n. 22c), may well be correct: “as (fodder is) for a cow.” Recall also 7c gā́ṃ ná dóhase huve “I call upon (Indra) like a cow for milking,” where the cow simile is filled out. In light of this passage it may be that here what is weal for the cow is not fodder but rather the call to be milked, which would better resemble the song that is weal for Indra: “Sing what is weal for the able one, as (a milking call) is for a cow.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -218,8 +219,6 @@ Das sing' ich eurem tapferen, beim Soma vielgerufenen, Was heilsam ist dem stark
 Что благо (для него,) сильного, как бык!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -240,7 +239,7 @@ Das sing' ich eurem tapferen, beim Soma vielgerufenen, Was heilsam ist dem stark
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे सम्पूर्ण विद्याओं के पार जानेवाले के अध्यापन और उपदेशरूप कर्म्म से सब का मङ्गल बढ़ता है, वैसे ही उत्तम राजा से प्रजा का सुख उन्नत होता है ॥२२॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे सम्पूर्ण विद्याओं के पार जानेवाले के अध्यापन और उपदेशरूप कर्म्म से सब का मङ्गल बढ़ता है, वैसे ही उत्तम राजा से प्रजा का सुख उन्नत होता है ॥२२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

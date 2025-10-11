@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सम्भृताश्वः- अश्वभरणशील। सम्भृतैः- त्वया सम्भृतैः। सरूपैः- सुरूपैरश्वैः। नः- अस्मान्। सु-  सुष्ठु। आ गहि- आगच्छ॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **संभृताश्वः** पुष्टाश्वस्त्वं **सु** **संभृतैः** **सरूपैः** समानरूपैरश्वैः **नः** अस्मान् **आ** **गहि** आगच्छ । सिद्धमन्यत् ॥
@@ -222,8 +225,6 @@ Mit den verbundnen, gleichen komm, der du verbund'ne Rosse lenkst; Von jenes Her
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

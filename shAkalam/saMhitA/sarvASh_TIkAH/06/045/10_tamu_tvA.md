@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- अमुम्। त्वा- त्वाम्। सत्य- अवितथ। इन्द्र- परमेश्वर। वाजानां पते- अन्नपालक।  सोमपाः- रसानुभवकर। श्रवस्यवः- अतीन्द्रियश्रुत्युपलक्षितदिव्यानुभूतिकामा वयम्। अहूमहि-  आह्वयामः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सत्य** अवितथस्वभाव **सोमपाः** सोमस्य पातर्हे **वाजानां** **पते** अन्नानां पालयितरेवंभूत हे **इन्द्र** **श्रवस्यवः** श्रवोऽन्नमात्मन इच्छन्तो वयं **तमु** **त्वा** तादृशं त्वामेव अहूमहि आह्वयामः स्तुम इत्यर्थः ॥ ॥ २२ ॥
@@ -174,8 +177,6 @@ that we have called upon, seeking fame—
 After the opening tám u tvā, the rest of the hemistich consists only of vocc.
 
 satya somapā, índra vājānām pate, with only a single accent among them: índra is accented because it’s initial in its pāda, while the gen. pl. vājānām is unaccented because it’s part of a voc. phrase. Note that in the Holland & van Nooten Rig Veda edition ed. vājānā́m bears an impossible, final-syllable accent, a typo that should be deleted.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -210,8 +211,6 @@ O Indra, Somatrinker, dich, wahrhafter Herr der Labungen, Dich rufen wir voll Pr
 О Индра, повелитель наград,  
 Мы позвали, стремясь к славе,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

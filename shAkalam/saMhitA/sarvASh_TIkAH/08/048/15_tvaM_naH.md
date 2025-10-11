@@ -3,7 +3,6 @@ title = "015"
 devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रगाथः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -246,6 +244,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। त्वम्। नः- अस्माकम्। विश्वतः- सर्वतः। वयोधाः- अन्नधारकः। स्वर्विदा-  ज्योतिर्विदा। विशा- जनेन। नृचक्षाः- नृणां द्रष्टा असि। त्वम्। नः- अस्मान्। इन्दो-  हृदयस्पर्शिन्। ऊतिभिः- रक्षाभिः। सजोषाः- समानप्रीतः सन्। पश्चादुत वा पुरस्तात्। पाहि-  पालय॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वं** **नः** अस्माकं **विश्वतः** सर्वाभ्यो दिग्भ्यः **वयोधाः** अन्नदाता । तथा **त्वं** **स्वर्वित्** स्वर्गलम्भकः **नृचक्षाः** सर्वमनुष्यद्रष्टा त्वम् **आ** **विश** । हे **इन्दो** **त्वं** **सजोषाः** सह प्रीयमाणः सन् **ऊतिभिः** सह । अथवीतयो गन्तारो मरुतः । तैः सहितः सन् **पश्चात्तात्** पश्चात् **उत** वा **पुरस्तात्** च पाहि ॥ ॥ १३ ॥ ॥ ६ ॥
@@ -268,7 +271,7 @@ With your protecting powers:ūtyaḥ = **Maruts**, gantāraḥ, ava gatau
 
 You, o Soma, confer vitality on us on all sides; you, as finder of the sun,  possessing the eye of men—enter us.  
 You, o drop, along with your help—protect us from behind and also  from in front.  
-Vālakhilya Hymns  
+Vālakhilya Hymns  
 The following eleven hymns (VIII.49–59) are known as the Vālakhilya hymns.  These are apocryphal or, in Geldner’s felicitous description, “half-apocryphal”  (halbapokryph). A  number of khilāni or apocrypha were transmitted in the  R̥gvedic tradition, but only these eleven (or, in some other reported recensions,  somewhat fewer) were inserted into and transmitted within the R̥gveda Saṃhitā  
 itself, as well as in the khilāni collections. Moreover, these eleven were trans mitted with accents and were treated in the Padapāṭha, the Anukramaṇī (save  for the tenth, VIII.58), and so forth, though they were not commented on by  Sāyaṇa in his R̥gvedic commentary. In our R̥gveda recension, the Śākalya, they  were inserted between the sixth and seventh anuvākas of VIII, though they are  reported to appear elsewhere in other recensions, not always in a single group.  The Grassmann numbers, 1018–1028, reflect the status of these hymns as addi tions to the original saṃhitā.  
 The text of these hymns is in general less well transmitted than the rest of  the R̥gveda, and the hymns themselves sometimes have the air of a school exer cise. Notable in this connection is the fact that the first eight hymns proceed in  pairs, each pair dedicated to the same divinity (except for a few verses in the  third pair, VIII.53–54) and containing the same number of verses in the same  meter (except for a few verses in the last pair, VIII.55–56). Moreover, the first  pair (VIII.49–50) and, to a much lesser extent, the second pair (VIII.51–52)  follow the same model, verse by verse, often using identical or near identical  vocabulary but varying grammar, or else employing transparent lexical sub  
@@ -303,8 +306,6 @@ In uns geh ein von allen Seiten, Soma, uns Glanz verschaffend, auf uns Männer s
 Ты нас, сок сомы, единодушный со (своими) помощниками,  
 Защити сзади или также и спереди!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

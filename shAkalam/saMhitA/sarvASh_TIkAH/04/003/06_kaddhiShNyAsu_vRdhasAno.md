@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धिष्ण्यासु- चित्तधारणासु। वृधसानः- वर्धमानः। अग्ने। कत्- किं ब्रूयाः। कत्- किम्। प्रतवसे-  बलिष्ठाय। शुभंये- शुभप्रापकाय। वाताय- वायवे प्राणाय ब्रूयाः। परिज्मने- परितो गन्त्रे।  नासत्याय- सत्यस्वरूपायाश्विभ्यामित्यर्थः। क्षे- भूम्यै। ब्रवः- किं ब्रूयाः। अग्ने। नृघ्ने-  सर्वसंहारकाय। रुद्राय- वेगाधिदैवताय। कत्- किं ब्रूयाः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **धिष्ण्यासु** आग्नीध्रीयादिधिष्ण्येषु **वृधसानः** घृताद्याहुतिभिर्वर्धमानस्त्वं **कत्** कथं ब्रूयाः । **प्रतवसे** प्रकृष्टबलाय **शुभंये** शुभस्य प्रापयित्रे **परिज्मने** परितो गन्त्रे **नासत्याय** सत्यस्य नेत्रे। यद्वा न विद्यतेऽसत्यं यस्य तस्मै । **वाताय** वायवे । यद्वा नासत्याय इति वचनव्यत्ययः । नासत्याभ्यामश्विभ्याम् । **क्षे**। क्षा इति पृथिवीमाह। क्षियन्ति निवसन्त्यस्यां प्राणिन इति । तस्यै क्षे पृथिव्यै च **कत्** कथं ब्रूयाः । हे **अग्ने** **नृघ्ने** नृणां पापकृतां हन्त्रे **रुद्राय** देवाय **कत्** कथमागः **ब्रवः** ब्रूयाः ॥ वृधसानः । वृधु वर्धने' । असानच्' इत्यनुवृत्तौ ‘ऋञ्जिवृधिमन्दिसहिभ्यः कित्' इति असानच्प्रत्ययः । कित्त्वादगुणः । चित्त्वादन्तोदात्तः । शुभंये । ' या प्रापणे ' । विच् । 'तत्पुरुषे कृति बहुलम् ' इति द्वितीयायाः अप्यलुक् । कृत्स्वरः । क्षे ।  ‘ क्षि निवासगत्योः ।  ‘ अन्येभ्योऽपि दृश्यते ' इत्यधिकरणे डः । ततष्टाप् । चतुर्थ्येकवचने ' आतो धातोः' इत्यत्र ‘ आतः' इति योगविभागात आकारलोपः। नृघ्ने । **हन** हिंसागत्योः ।  ‘ बहुलं छन्दसि' इति क्विप् ॥
@@ -234,8 +237,6 @@ The so-called “double stem” vṛdhasāná- is morphologically anomalous, but
 There is unfortunately no neut. s-stem *vṛ́dhas-, though there is a single attestation of an infinitival dat. vṛdháse with suffixal accent. See also disc. of vṛdhasnú- ad IV.2.3.
 
 Pāda c is problematic, both metrically (it lacks a syllable) and grammatically: this is the only place in the RV where nā́satya- appears in the sg., not the du., and the identity of pāda-final kṣé is disputed. The metrical problem and the kṣé problem can be easily solved together if we adopt the suggestion of Hoffmann registered in Schindler (Root nouns, s.v. kṣā́-) that kṣé is a haplologized form of datival inf. *yakṣé ‘to appear’ in the environment (nā́sati )yāya [ya]kṣé. (Note that yakṣám ‘apparition’ appears in 13a.) This interpr. is also reflected in Witzel Gotō’s rendering, and one way or other it goes back to Ludwig; see Oldenberg (SBE, Noten). The published translation should have an asterisk before “to appear.” As for sg. nā́satyāya, although this analysis is emphatically rejected by both Oldenberg (Noten) and Debrunner (AiG II.2.136), I have adopted Henry’s old suggestion that the form is a vṛddhi adj. of appurtanance whose vṛddhi is invisible because the base already has initial-syllable vṛddhi. We would of course expect the accent to shift to the final syllable (AiG II.2.133ff.), hence *nāsatyá-, but the dominance of the initially accented noun could have altered the accent, possibly redactionally. I supply ‘chariot’ in this dat. expression, since the Aśvins’ chariot is esp. prominent and párijman- modifies their chariot elsewhere (I.20.3, X.41.1). Cf. esp. I.20.3 tákṣan nā́satyābhyām párijmanaṃ sukháṃ rátham “They fashioned the earth-circling wellnaved chariot for the Nāsatyas.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
@@ -279,8 +280,6 @@ Was willst, o Agni, an Altären wachsend, dem mächt'gen Wind du sagen, der zum 
 Что, о Агни, Рудре, убивающему мужей?
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -296,7 +295,7 @@ Was willst, o Agni, an Altären wachsend, dem mächt'gen Wind du sagen, der zum 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अग्ने) अग्नि के सदृश प्रकाशमान आप ! (धिष्ण्यासु) बुद्धि में उत्पन्न क्रियाओं में (वृधसानः) बढ़नेवालों का विभाग करते हुए (प्रतवसे) श्रेष्ठ बल और (वाताय) विज्ञान के लिये (कत्) कब (ब्रवः) कहो (अग्ने) हे विद्वन् राजन् ! (परिज्मने) सब ओर भूमि जिसके उस (शुभंये) कल्याण को प्राप्त होनेवाले (नासत्याय) असत्य आचरण से रहित के लिये (कत्) कब कहो (क्षे) पृथिवी राज्य के लिये विद्यमान जिसमें उसमें (नृघ्ने) शत्रुओं के नायकों के नाश करने और (रुद्राय) दुष्ट पुरुषों को रुलानेवाले के लिये (कत्) कब कहो ॥६॥
+पदार्थान्वयभाषाः -  हे (अग्ने) अग्नि के सदृश प्रकाशमान आप ! (धिष्ण्यासु) बुद्धि में उत्पन्न क्रियाओं में (वृधसानः) बढ़नेवालों का विभाग करते हुए (प्रतवसे) श्रेष्ठ बल और (वाताय) विज्ञान के लिये (कत्) कब (ब्रवः) कहो (अग्ने) हे विद्वन् राजन् ! (परिज्मने) सब ओर भूमि जिसके उस (शुभंये) कल्याण को प्राप्त होनेवाले (नासत्याय) असत्य आचरण से रहित के लिये (कत्) कब कहो (क्षे) पृथिवी राज्य के लिये विद्यमान जिसमें उसमें (नृघ्ने) शत्रुओं के नायकों के नाश करने और (रुद्राय) दुष्ट पुरुषों को रुलानेवाले के लिये (कत्) कब कहो ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

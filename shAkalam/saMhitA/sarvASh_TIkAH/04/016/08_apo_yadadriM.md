@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -249,6 +247,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरुहूत- बहुभिराहूत। अद्रिम्- जडोपलक्षितगिरिम्। अपः- मूलशख्निधारा अभिलक्ष्य। दर्दः-  विदारितवानसि। ते- त्वदर्थम्। पूर्व्यं- सनातनं चिद्रश्मिसमूहम्। सरमा- देवशुनी  जिज्ञासान्वेषणवेदनप्रतीकभूता। आविर्भुवत्- प्रकाशितवती। अङ्गिरोभिः- अङ्गनशीलैरुपासकैः।  गृणानः- स्तुतः सन्। सः- असाविन्द्रः। गोत्रा- गिरीन् मेघान् वा जडप्रतीकान्। रुजन्- भञ्जन्।  भूरिम्- प्रभूतम्। वाजम्- अन्नम्। नः- अस्मभ्यम्। नेता सन्। दर्षि- आदरं कृतवानसि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पुरुहूत** बहुभिराहूतेन्द्र **यत्** यदा **अपः** प्रति वृष्टिलक्षणान्युदकानि लक्षीकृत्य **अद्रिं** मेघं **दर्दः** विदारितवानसि। **सरमा** देवशुनी **पूर्व्य** पुरा **ते** तुभ्यं पणिभिः अपहृतं गोधनम् **आविर्भुवत्** प्रकाशयामास । **अङ्गिरोभिः** ऋषिभिः **गृणानः** स्तूयमानः सन् **गोत्रा** गोत्राण्यभ्राणि **रुजन्** **नः** अस्मान **भूरि** प्रभूतं **वाजम्** अन्नं **नेता** प्रापयिता **सः** त्वम् **आ** **दर्षि** आदरं कृतवानसि ॥
@@ -286,8 +289,6 @@ Geldner takes the 2nd hemistich as the words of Saramā, an interpr. I accept bo
 
 Verse-final gṛṇānáḥ has an exact match at the end of vs. 1, and this bit of ring composition signals that this section of the hymn is finished. In the next section we move on to the Kutsa / Uśanā Kāvya story.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -319,8 +320,6 @@ Als du zerbrachst des Wassers Fels, gepries'ner, ging Sarama voran als deine Bot
 Как вождь открой нам богатую добычу,  
 Разбивая загоны с коровами, воспеваемый Ангирасами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

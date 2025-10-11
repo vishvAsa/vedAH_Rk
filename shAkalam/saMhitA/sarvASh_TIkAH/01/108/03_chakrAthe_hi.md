@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सध्र्यक्- सहैव। भद्रम्- अभ्युदयात्मकम्। नाम- नामधेयम्। चक्राथे- कृतवन्तौ। उत- अपि  च। सध्रीचीना- सहैव। वृत्रहणा- आत्मावरणनाशकौ। स्थः- भवथः। इन्द्राग्नी। तौ। सध्र्यञ्चा -  सहैव। निषद्य- उपविश्य। वृष्णः- वर्षकस्य। सोमस्य- रसस्य। वृषणा- धाराम्। वृषेथाम्-  वर्षतम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** **भद्रं** कल्याणं **नाम** स्वकीयं नामधेयं 'सध्र्यक् सहगतमिन्द्राग्नी इत्येवं संयुक्तं **चक्राथे** युवां कृतवन्तौ । **उत** अपि च हे **वृत्रहणौ** वृत्रस्यासुरस्य हन्ताराविन्द्राग्नी **सध्रीचीना** सहाञ्चन्तौ वृत्रवधार्थं संगतौ **स्थः** भवथः । **हि** यस्मादेवं तस्मात् हे **वृषणा** कामानां वर्षिताराविन्द्राग्नी **तौ** युवां सध्र्यञ्चौ सहितावेव सन्तौ **निषद्य** वेद्यामुपविश्य **वृष्णः** सेक्तुः **सोमस्य** आत्मीयं भागम् **आ** **वृषेथां** स्वकीये उदरे आसिञ्चेथाम् ॥ सध्र्यक् । सहशब्दोपपदादञ्चतेः ‘ऋत्विक्' इत्यादिना क्विन् । 'अनिदिताम्' इति नलोपः। ‘सहस्य सध्रिः ।  ‘ अद्रिसध्र्योरन्तोदात्तनिपातनं कृत्स्वरनिवृत्त्यर्थम् ' ( पा. सू. ६. ३. ९५. १ ) इति वचनात् सध्र्यादेशोऽन्तोदात्तः । यणादेशे ‘उदात्तस्वरितयोर्यणः' इति स्वरितत्वम् । सध्रीचीना। विभाषाञ्चेरदिक्स्त्रियाम्' इति स्वाथै खः ।  ‘ सुपां सुलुक्' इति विभक्तेः आजादेशः । वृत्रहणौ । संहितायाम् आवादेशे  ‘ लोपः शाकल्यस्य ' इति वलोपः । वृषेथाम् । वृष सेचने'। व्यत्ययेन शः आत्मनेपदं च ॥
@@ -255,7 +258,6 @@ The signature word of this vs. is sadhryàñc- / sadhrīcīná- ‘joint(ly), co
 Geldner (explicitly) and Renou / Klein (DGRV I.373) / Witzel Gotō (all implicitly) take vṛtrahaṇā in b as a predicate vocative (so, “you two, conjoined, are Vṛtra-smashers”).
 
 I would prefer this interpretation, but think that the lack of accent should be taken seriously. Moreover, given the repetition of sadhryàñc- / sadhrīcīná- just noted, it may be that the conjunction of Indra and Agni is what is being highlighted, not their Vṛtra-smashing.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -289,8 +291,6 @@ Ihr habt vereint ja eure hehren Namen und seid vereinigt, o ihr Vritratödter, D
 О Индра и Агни, сев с одной целью, вы,  
 Два быка, залейте себя дождем быка – сомы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

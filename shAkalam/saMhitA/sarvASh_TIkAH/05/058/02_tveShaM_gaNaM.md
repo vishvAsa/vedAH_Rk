@@ -3,7 +3,6 @@ title = "002"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वेषम्- दीप्तम्। तवसम्- बलवन्तम्। खादिहस्तम्- कटकहस्तम्। धुनिव्रतम्- कम्पनधर्मवन्तम्।  मायिनम्- प्रज्ञावन्तम्। दातिवारम्- दानशीलम्। गणम्- मरुद्गणं प्राणप्रतीकम्। वन्दस्व-  नमस्कुरु। मयोभुवः- आनन्दकराः। ये। अमिताः- अनन्ताः। महित्वा- महिम्ना। तुविराधसः-  बहुसिद्धयः। तान्। नॄन्- वीरान्। विप्र- मेधाविन्। वन्दस्व- नमस्कुरु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 त्वेषं दीप्तं **गणं** मारुतं **तवसं** बलवन्तं **खादिहस्तं** कटकहस्तं **धुनिव्रतं** कम्पयितृकर्माणं **मायिनं** प्रज्ञावन्तं **दातिवारं** दत्तधनं हे **विप्र** होतः **वन्दस्व** स्तुहीति संबन्धः । **ये** मरुतः **मयोभुवः** सुखस्य भावयितारः **महित्वा** महत्त्वेन **अमिताः** अपरिच्छिन्नाः ॥ तान् **तुविराधसः** प्रभूतधनान् **नॄन्** नेतॄन् वन्दस्व ॥
@@ -228,7 +231,7 @@ who are joy itself, immeasurable in their greatness. O poet, extol the  powerful
 
 <details><summary>Jamison Brereton Notes</summary>
 
-In my opinion the same switch in number happens in this vs. as in the preceding one, exactly in the same way -- with yé in c picking up gaṇám in the first hemistich. The standard tr. take the rel. cl. of c with d: the pl. yé matches the number of its putative antecedent nṝ́n in d exactly. Although connecting with c thus appears to be the easier syntactic course, the exact parallelism between 1abc and 2abc makes that structure more appealing, and in addition the pāda-init. impv. vándasva in d seems to be marking a syntactic break.
+In my opinion the same switch in number happens in this vs. as in the preceding one, exactly in the same way -- with yé in c picking up gaṇám in the first hemistich. The standard tr. take the rel. cl. of c with d: the pl. yé matches the number of its putative antecedent nṝ́n in d exactly. Although connecting with c thus appears to be the easier syntactic course, the exact parallelism between 1abc and 2abc makes that structure more appealing, and in addition the pāda-init. impv. vándasva in d seems to be marking a syntactic break.
 
 The first hemistich, which consists entirely of an acc. phrase, obviously simply continues vs. 1, skipping back over the rel. cl. in 1cd to the gaṇám phrase in 1ab.
 
@@ -265,8 +268,6 @@ Die wilde, starke Schar, die ringgeschmückte, die brausendgehnde, weise, gabenr
 Славь, о вдохновенный, (этих) мощнодарящих мужей!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -287,7 +288,7 @@ Die wilde, starke Schar, die ringgeschmückte, die brausendgehnde, weise, gabenr
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यों को चाहिये कि योग्य धार्मिक विद्वानों का ही सत्कार करें, जिससे सुख बढ़े ॥२॥
+भावार्थभाषाः -  मनुष्यों को चाहिये कि योग्य धार्मिक विद्वानों का ही सत्कार करें, जिससे सुख बढ़े ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

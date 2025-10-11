@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -108,6 +106,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अमृतम्- अमरणशीलम्। जातवेदसम्- जातविद्यम्। तमांसि- अन्धकारान्। तिरः- तिरस्कृत्य।  दर्शतम्- दर्शनीयम्। घृताहवनम्- घृतसमर्पितम्। ईड्यम्- स्तुत्यम्। स्तौमि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 स एवागत्य स्तौति । **अमृतम्** अमरणं **जातवेदसं** जाततेजआद्युपलक्षणधनं **तमांसि** **तिरः** **दर्शतं** नाशयन्तमित्यर्थः। **घृताहवनम्** । घृतमाहूयते यत्र तम् । **ईड्यं** स्तुत्यम्। ईदृशमागन्मेति संबन्धः ॥ ॥ २१ ॥
@@ -142,10 +145,6 @@ Dem unsterblichen Jatavedas, der durch das Dunkel sichtbar ist, dem mit Schmalz 
 
 Dem ew'gen Wesenkenner ihm, der durch das Dunkel sichtbar ist, Der preisenswerth die Opfer fährt,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

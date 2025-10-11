@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सुपर्णः काण्वः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतस्य- सत्यस्य। सदने- सुद्मनि। घृतप्रुषः- जोतिःस्रावकाः। सौम्याः- रसमय्यः। जीरदानवः-  स्तोतृदात्र्यः। सप्त- सप्तभूमिकाभिमुख्यः। स्वसारः- स्वतः सरणशीला मूलशख्निधाराः। घृतश्चुतः-  रसस्रावकाः। याः। ताभिः। इन्द्रावरुणा- हे इन्द्रावरुणौ। वाम्- युवाम्। धत्तम्- धारयतम्।  यजमानाय। शिक्षतम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -252,8 +255,6 @@ Von Butter trieft, von Tränken strömt im Sitz des Rechts der sieben Schwestern
 (Те) самые, что струят вам жир, о Индра-Варуна,  
 Ради них дайте (богатство), поддержите жертвователя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

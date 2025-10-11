@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। त्वाम्। अथर्वा- चित्तवृत्तिनिरोधकः। थर्वतिश्चरतिकर्मा तत्प्रतिषेध इति यास्कः। पुष्करात्-  हृदयपुण्डरीकात्। निरमन्थत- निर्ममन्थ। विश्वस्य- जगतः। वाघतः- वाहकात्। मूर्ध्नः-  शिरःस्थानात्। महत्तत्त्वाद्धिरण्यगर्भात् निरमन्थत॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **अथर्वा** एतत्संज्ञक ऋषिः **त्वां** **पुष्करादधि** पुष्करपर्णे **निरमन्थत** । अरण्योः सकाशात् अजनयत् । कीदृशात् पुष्करात् । **मूर्ध्नः** मूर्धवद्धारकात् **विश्वस्य** सर्वस्य जगतः **वाघतः** वाहकात् । पुष्करपर्णे हि प्रजापतिर्भूमिम् अप्रथयत् ' तत्पुष्करपर्णेऽप्रथयत्' ( तै. ब्रा. १.१.३.६ ) इति श्रुतेः ॥ भूमिश्च सर्वजगत आधारभूतेति पुष्करपर्णस्य सर्वजगद्धारकत्वम् । अत्र पुष्करशब्देन पुष्करपर्णमभिधीयत इति । एतच्च तैत्तिरीयके विस्पष्टमाम्नातं- ‘ त्वामग्ने पुष्करादधीत्याह पुष्करपर्णे ह्येनमुपश्रितमविन्दत् ' ( तै. सं. ५.१.४.४ ) इति ॥
@@ -166,8 +169,6 @@ You, Agni, did Atharvan churn forth from the lotus,
 <details><summary>Jamison Brereton Notes</summary>
 
 On the ritual use of the lotus and the relevance of this vs., see Krick (Feuergründung, 155-59), where (155) she calls this vs. “die Primärquelle für die Verwendung eines Lotusblattes im Feuerritual.” In c vāghátaḥ can be gen. sg. or nom. pl. (as I take it, with Geldner and Renou). Since I don’t know what’s going on here, I would certainly not exclude the gen. sg.: “… (churned) from the head of every vāghát” (so Krick 297) It is perhaps relevant that víśvasya vāghátaḥ phonologically echoes víśvasya jágataḥ “of the whole world” (I.101.5, IV.13.3, VI.50.7, VII.60.2, 101.2, X.73.8).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -202,8 +203,6 @@ Dich, Agni, zog Atharvan her durch Reiben aus dem Himmelskelch, Dem Haupte jedes
 Добыл трением Атхарван,  
 (Тебя-) жрецы из головы вселенной.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

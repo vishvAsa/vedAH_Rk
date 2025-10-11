@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- ईशनाधिदैवत। सोमपते- रसपालक। इमम्- एतम्। माध्यंदिनम्- मध्याह्ने कल्पितम्।  सवनम्- सम्भजनमयम्। चारु- कल्याणम्। ते- तव। सोमम्- रसम्। पिब- अनुभव। शिप्रे-  नासिकाद्वारे। प्रप्रुथ्य- श्वासेन पूरयित्वा। मघवन्- सम्पद्वन्। ऋजीषिन्- आर्जवसम्पन्न। हरी-  श्वासप्रश्वासाख्यप्राणौ। विमुच्य- विमोच्य कुम्भके सन्। इह- अत्र। मादयस्व- सन्तुष्टो भव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 विश्वामित्रो ब्रूते । **सोमपते** सोमस्याधिपते हे **इन्द्र** **इमम्** अस्माभिर्माध्यंदिने सवने क्रियमाणं **सोमं** सोमरसं **पिब** । **यत्** यस्मात् **ते** त्वदर्थं क्रियमाणं **माध्यंदिनं**  मध्यंदिनसंबन्धि **सवनं** निष्केवल्याख्यं शस्त्रं **चारु** रमणीयं वर्तते । **मघवन्** धनवन् **ऋजीषिन्** । ऋजीषशब्देन गतसारं सोमद्रव्यमुच्यते । तद्वन हे इन्द्र **हरी** रथे योजितावश्वौ रथात् विमुच्य **शिप्रे** हनू **प्रप्रुथ्य** अत्रत्येन ग्रासेन पूरयित्वा **इह** देवयजनदेशे **मादयस्व** तावश्वौ  हर्षय ॥ प्रप्रुथ्य। प्रोथृ पर्याप्तौ' इत्यस्य ल्यपि रूपम् । ह्रस्वछन्दसः । लित्स्वरः । ऋजीषिन् । अर्ज षर्ज अर्जने इत्यस्मात् ‘अर्जेश्च ऋजि च ' ( उ. सू. ४.४६८) इतीषन्प्रत्ययः ऋजि इत्यादेशश्च धातोः । अर्ज्यत इत्यृजीषम् । तदस्यास्ति इति इनिप्रत्ययः । आमन्त्रितत्वान्निघातः । मादयस्व । मदि स्तुत्यादिषु । हेतुमण्णिच् । निघातः ॥
@@ -243,7 +246,7 @@ Snuffling out your two lips, you bounteous possessor of the silvery drink,  havi
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The impv. píba is accented, though it is located mid-clause. There is no obvious reason for this. Oldenberg suggests weakly (ZDMG 60: 736) that it is an emphatic accent, but this is of course a circular argument: any verb bearing an unexpected accent can be called emphatic. I find the accent esp. disturbing because the identical phrase, minus the initial voc. índra, is found without accented impv. elsewhere: \#sómam somapate piba# (V.40.1=VIII.21.3) versus our #índra sómaṃ somapate píbemám#. There are several possible contributing factors. First, three pādas at the beginning of this hymn begin with accented píbā (2b, 3d, 5b), and our form may have had its accent added redactionally. However, I think that píba has special status and can be accented in positions that strict syntactic rules would not allow. (This is rather like Oldenberg’s “emphatic” argument, except that I limit the effect to a single verb form.) See esp. I.15.1, II.37.1-3 and comm. there. The unsanctioned accent may arise partly because píba ‘drink!’ is a particularly rousing verb in RVic discourse. It also often occurs in non-initial position when it nonetheless legitimately has accent -- after init. vocatives (e.g. índra píba III.36.2, etc.) or at the beginning of a clause after another short clause (or clauses) (e.g., VIII.4.8 tū́yam éhi drávā píba “Come here swiftly! Run! Drink!”), and this may have led to the sense that it can be accented in non-initial position in general. I also note in Lubotsky’s conspectus that unaccented piba generally occupies either final position in its pāda or second position, while accented píba, besides being common and expected in initial position, tends to avoid both those positions except when 2nd position follows an initial voc. (as in III.36.2, etc.) or final position opens a new clause (as in VIII.4.8). Note that if this distribution holds, the “identical” phrases I cite at the beginning of this comment are not the same after all, because unaccented piba is pāda-final and our accented píba is followed by another element. However, there are a few counterexamples with pāda-final pibȧ not beginning a new clause (e.g., VIII.4.3, 65.5). One can speculate on why 2nd and final position would favor the unaccented verb while full medial favors the accented form: namely, that 2nd position is of course Wackernagel’s position, where enclitics typically migrate, and, assuming a basic SOV underlying order, absolute final position is the default position for unaccented main-clause verbs. Still, the full medial position where we find accented main-clause píba does not otherwise favor or impose accent on other verbs that appear there, so if this hypothesis holds, it is only for this special verb.
+The impv. píba is accented, though it is located mid-clause. There is no obvious reason for this. Oldenberg suggests weakly (ZDMG 60: 736) that it is an emphatic accent, but this is of course a circular argument: any verb bearing an unexpected accent can be called emphatic. I find the accent esp. disturbing because the identical phrase, minus the initial voc. índra, is found without accented impv. elsewhere: \#sómam somapate piba# (V.40.1=VIII.21.3) versus our #índra sómaṃ somapate píbemám#. There are several possible contributing factors. First, three pādas at the beginning of this hymn begin with accented píbā (2b, 3d, 5b), and our form may have had its accent added redactionally. However, I think that píba has special status and can be accented in positions that strict syntactic rules would not allow. (This is rather like Oldenberg’s “emphatic” argument, except that I limit the effect to a single verb form.) See esp. I.15.1, II.37.1-3 and comm. there. The unsanctioned accent may arise partly because píba ‘drink!’ is a particularly rousing verb in RVic discourse. It also often occurs in non-initial position when it nonetheless legitimately has accent -- after init. vocatives (e.g. índra píba III.36.2, etc.) or at the beginning of a clause after another short clause (or clauses) (e.g., VIII.4.8 tū́yam éhi drávā píba “Come here swiftly! Run! Drink!”), and this may have led to the sense that it can be accented in non-initial position in general. I also note in Lubotsky’s conspectus that unaccented piba generally occupies either final position in its pāda or second position, while accented píba, besides being common and expected in initial position, tends to avoid both those positions except when 2nd position follows an initial voc. (as in III.36.2, etc.) or final position opens a new clause (as in VIII.4.8). Note that if this distribution holds, the “identical” phrases I cite at the beginning of this comment are not the same after all, because unaccented piba is pāda-final and our accented píba is followed by another element. However, there are a few counterexamples with pāda-final pibȧ not beginning a new clause (e.g., VIII.4.3, 65.5). One can speculate on why 2nd and final position would favor the unaccented verb while full medial favors the accented form: namely, that 2nd position is of course Wackernagel’s position, where enclitics typically migrate, and, assuming a basic SOV underlying order, absolute final position is the default position for unaccented main-clause verbs. Still, the full medial position where we find accented main-clause píba does not otherwise favor or impose accent on other verbs that appear there, so if this hypothesis holds, it is only for this special verb.
 
 Geldner rather charmingly suggests that praprúthya represents “brr machend” to stop the horses. Although “whoa” would be the equivalent English word/vocal gesture, given the object ‘lips’ (śípre), I wonder if it’s the “horse training voice command” (gleaned on the internet) called “smooching” -- defined as “kissing sound with lips used to ask a horse to move on or up a gait.” I rather like the idea of Indra smooching to his fallow bays.
 </details>
@@ -271,8 +274,6 @@ Trink diesen Soma, Somaherr, o Indra, den Mittagstrunk des Saftes, der dir lieb 
 Почмокав губами, о щедрый (бог,) пьющий выжимки,  
 Распрягай пару буланых коней, опьяняйся здесь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

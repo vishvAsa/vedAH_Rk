@@ -3,7 +3,6 @@ title = "029"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एव- एवम्। तुवीमघ- बहुधन। विश्वेभिः- सर्वैः। धातृभिः- धारकैः। धायि- स्थापितम्। रातिः-  दानं भवतु। अध- अथ। चित्- एव। इन्द्र। मे- मम। सचा- सहायो भव॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **तुविमघ** । तुविरिति बहुनाम । बहुधनवन्निन्द्र **विश्वेभिः** विश्वैः **धातृभिः** कर्माधारकैः । यद्वा । देवानां हविर्दानेन पोषयितृभिः । सर्वैर्यजमानैस्तव **रातिः** गवाश्वधनादिदानं **धायि** तैर्धार्यते **एव** । दधातेर्लुङि कर्मणि रूपम् । चिदेवार्थे । **अध** अत एव हे **इन्द्र** एवंविध त्वं **मे** यष्टुर्ममापि **सचा** धनादिदानेन कर्मसहायो भव ॥
@@ -191,10 +194,6 @@ Sicherlich ward von allen Opferveranstaltern die Gabe veranstaltet, du Vielschen
 
 Fürwahr, o reicher, Gabe ward von allen Gebern ausgetheilt, So sei denn Indra, du mit mir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

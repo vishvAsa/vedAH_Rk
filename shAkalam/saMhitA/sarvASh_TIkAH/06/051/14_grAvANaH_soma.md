@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    सोम- रस। नः- अस्माकम्। ग्रावाणः- रसनिष्पादकस्थैर्यप्रतीकपाषाणाः। सखित्वनाय- मैत्र्यै।  वावशुः- कामयन्ते। अत्रिणम्- सुखादिं दुःखनिधनं भक्षकम्। पणिम्- लोभभावनम्। जहि-  नाशय। सः- तत्। वृकः- आदानपरम्। हि- खलु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **नः** अस्मदीया इमे **ग्रावाणः** अभिषवार्थाः पाषाणाः तव **सखित्वनाय** सख्यार्थं **वावशुः** कामयन्ते । **कम्** इति पूरकः । **हि** यस्मादर्थे । यस्मादेवं तस्मात्त्वं **पणिं** वणिजमदातारम् **अत्रिणम्** अदनशीलं राक्षसादिकं **नि** **जहि** विनाशय । **सः** पणिः **वृको** **हि** आदानपरः खलु । सर्वदास्मत्तोऽपहरणशीलः । अतस्त्वं जहीत्यर्थः ॥  ‘ कुक वृक आदाने' इति धातुः ॥
@@ -212,8 +215,6 @@ The most salient feature of the pressing stones is their noise, and so bellowing
 
 See comm. ad vs. 13 for the four-syllable pāda consisting of the nominal sentence vṛ́ko hí ṣáḥ. As I argued in my 2009 “Function of Animals in the RV” (Paris animal vol., 206-9, esp. 208), the wolf is a cross-category in RVic classification, and this statement is a quasi-legal declaration that a particular human evil-doer is an outlaw -- with parallels in other early Indo-European traditions.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -246,8 +247,6 @@ Die Presssteine, o Soma, riefen uns ja recht zur Genossenschaft; schlage nieder 
 Убей атрина, пани – ведь он волк!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -268,7 +267,7 @@ Die Presssteine, o Soma, riefen uns ja recht zur Genossenschaft; schlage nieder 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। यदि धर्मात्मा विद्वान् जन धर्मिष्ठ विद्वानों के साथ मित्रता रखते हैं तो वे निरन्तर सुख को प्राप्त होकर मेघ के समान सबको बढ़ाके दुष्ट आचरण करनेवाले छलियों को शीघ्र मारते हैं ॥१४॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। यदि धर्मात्मा विद्वान् जन धर्मिष्ठ विद्वानों के साथ मित्रता रखते हैं तो वे निरन्तर सुख को प्राप्त होकर मेघ के समान सबको बढ़ाके दुष्ट आचरण करनेवाले छलियों को शीघ्र मारते हैं ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

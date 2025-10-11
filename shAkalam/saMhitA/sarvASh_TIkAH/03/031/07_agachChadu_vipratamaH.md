@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विप्रतमः- अतिशयेन मेधावीन्द्रः। सखीयन्- सख्यमिच्छन्। अगच्छत्। सुकृते- शोभनकर्मकर्त्रे  इन्द्राय। अद्रिः- पर्वतो जडप्रतीकः। गर्भं- स्वगर्भभूतं चिद्रश्मिसमूहम्। असूदयत्- निरगमयत्।  युवभिः- तरुणैर्मरुद्भिः प्राणविशेषैः। मखस्यन्- यज्ञमिच्छन्। मर्यः- वृत्रमारक इन्द्रः। ससान-  चिद्रश्मीन् भेजे। अर्चन्- इन्द्रं पूजयन्। सद्यः- क्षणेन। अथ- अनन्तरमृषिः। अङ्गिराः-  अङ्गनशीलः। अभवत्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विप्रतमः** अतिशयेन मेधावी **सखीयन्** अङ्गिरोभिः साकमात्मनः सखित्वमिच्छन् इन्द्रः **अगच्छत्** **उ** । गोभिरधिष्ठितं पर्वतमगमदेव । सः **अद्रिः** सखित्वमिच्छन् **सुकृते** सुष्ठु युद्धकर्त्रे इन्द्राय **गर्भं** गवात्मकं गर्भम् **असूदयत्** निरगमयत् । **युवभिः** नित्यतरुणैर्मरुद्भिः सह **मखस्यन्** गोधनमङ्गिरसामिच्छन् **मर्यः** असुराणां मारयितेन्द्रः **ससान** असुरैरपहृताः ताः गाः भेजे । **अथ** अनन्तरम् **अङ्गिराः** सप्तानामङ्गिरसां मध्ये वरिष्ठोऽङ्गिरा ऋषिः इन्द्रात् ता गा लब्ध्वा **सद्यः** तदानीमेव **अर्चन्** इन्द्रं पूजयन् **अभवत्** ॥ अगच्छत् । गमेर्लङि रूपम् । सखीयन् । सुप आत्मनः क्यच् । असूदयत् । ‘षूद निरासे' इत्यस्य ण्यन्तस्य लङि रूपम् । ससान। ‘षण संभक्तौ' इत्यस्य लिटि णलि रूपम् । लित्स्वरः। मखस्यन् । 'छन्दसि परेच्छायाम्' इति" परेच्छायामपि क्यच् । सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः इति सुगागमः । एकादेशस्वरः । अङ्गिराः ।' सृ गतौ' । अङ्गारशब्द उपपदे सर्तेर्धातोरसुन्प्रत्ययः । उपपदे गकारात् परस्याकारस्येत्वम् अन्त्यलोपश्च धातोर्लोपश्च ‘अङ्गिराः' इति सूत्रेण निपात्यते। भूतकालेऽङ्गारेभ्यः सृत इति अङ्गिरा ऋषिः । ‘अङ्गारेष्वङ्गिराः ' ( निरु. ३. १७ ) इति यास्कः । नित्स्वरः ॥
@@ -247,7 +250,6 @@ In c the standard tr. (save for Renou and Klein, DGRV II.67) take makhasyá- as 
 My tr. of d, áthābhavad áṅgirasāḥ sadyó árcan, differs in an important way from the standard. In my opinion it states that Indra became an Aṅgiras as soon as he sang; the others that the Aṅgiras [=Indra] right away became a singer (e.g., Geldner “Da ward sogleich der Aṅgiras zum Lobsänger”). On the one hand, I’m not certain that √bhū + pres. part. can yield this sort of predication, esp. with the pres. part. standing in, in effect, for an agent noun. So -- a syntactic argument, though I have not examined the evidence in detail. Another syntactic/lexical argument: sadyáḥ + participle is frequently used to indicate the circumstances under which the action of the main verb takes place. This is esp. common with sadyó jātáḥ “just born” / sadyó jajñānáḥ “having just been born” -- e.g., the next hymn, III.32.9 sadyó yáj jātó ápibo ha sómam (≅10) “Just born, you drank the soma” (and cf. III.29.3). But the prevailing interpr. here requires the sadyáḥ to go with the main verb, despite its position directly before the participle -- e.g., Klein “And then did the Aṅgiras straightway become a singer.” And finally a semantic objection: the proposed tr.
 
 seems to me thematically backwards. Indra joins the category of the Aṅgirases because he joins them in song, which is their principal function in this myth; he is not an Aṅgiras by nature who happens to start singing. (This point is made, more or less, by Schmidt [173], despite his contrary tr.)
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -283,8 +285,6 @@ Und es kam der weiseste [Indra] sich ihr gesellend; dem kräftig wirkenden macht
 Юный муж добился (своей цели) вместе с юношами, настраиваясь воинственно,  
 Тут сразу же возник воспевающий Ангирас.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - नारदः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रिकद्रुकेषु- त्रिस्थानेषु भूर्भुवःसुवर्लोकाख्यमनःप्राणशरीरेषु। चेतनम्- प्रज्ञामयम्। यज्ञम्। देवासः-  देवाः। अत्नत- अतन्वत। सदावृधम्- सदा वर्धकमिन्द्रम्। तम्। नः- अस्माकम्। गिरः- वाचः।  वर्धन्ताम्॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रिकद्रुकेषु** । त्रिकद्रुका नाम ज्योतिर्गौरायुरिति त्रीण्याभिप्लविकान्यहानि । तेषु **देवासः** देवाः **चेतनं** चेतयितारमिन्द्रं **यज्ञं** यष्टव्यम् **अत्नत** अतन्वत अकृषत । तनोतेर्लङि छान्दसो विकरणस्य लुक् । ‘तनिपत्योश्छन्दसि' इत्युपधालोपः । **तमित्** तमेवेन्द्रं **नः** अस्माकं **गिरः** स्तुतयश्च वर्धयन्तु । कीदृशम् । **सदावृधं** सर्वदा स्तोतॄणां वर्धयितारम् ॥
@@ -178,8 +181,6 @@ Just him [=Indra] let our hymns increase—him who ever increases.
 <details><summary>Jamison Brereton Notes</summary>
 
 See the discussion of the tṛca as a whole above.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -212,8 +213,6 @@ In den drei Kufen woben da die Götter schönes Opferwerk; Ihn kräft'ge unsrer 
 Жертву принесли боги.  
 Ее пусть и усилят наши хвалебные песни, (ее,) всегда усиливающуюся.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

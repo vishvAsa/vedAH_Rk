@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतपर्वणा- शतधारासंपन्नेन। वज्रेण- स्वायुधेन। सानौ अधि- वृत्रस्योच्छ्रितप्रदेशे। इन्द्रः। नि-  नितराम्। जिघ्नते- प्रहरते। मन्दानः- हृष्टः। सखिभ्यः- स्वमित्रेभ्यः। अन्धसः- सोमस्य। गातुम्-  मार्गम्। इच्छति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रः **शतपर्वणा** शतसंख्याकधाराभिर्युक्तेन **वज्रेण** **सानौ** **अधि** **नि** **जिघ्नते** । अधिः सप्तम्यर्थानुवादी । समुच्छ्रिते वृत्रस्य कपोलादौ स्थाने नितरां हिनस्ति । स च **इन्द्रः** **मन्दानः** मन्दमानः स्तूयमानः सन् 'सखिभ्यः समानख्यानेभ्यः स्तोतृभ्यः **अन्धसः** अन्नस्य **गातुं** मार्गमुपायम् **इच्छति** । अन्यत् पूर्ववत् ॥ मन्दानः । मदि स्तुतौ ' । कर्मणि शानचि यक्। छन्दस्युभयथा' इति शानच आर्धधातुकत्वात् अतोलोपयलोपौ । अनुदात्तेतः परत्वात् शानचो लसार्वधातुकानुदात्तत्वे सति यक एवोदात्तत्वम् । अनुदात्ते शानचि तस्य यको लोपे सति उदात्तनिवृत्तिस्वरेण शानच उदात्तत्वं प्राप्नोति । एवं तर्हि शानच आर्धधातुकत्वादेव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एवावशिष्यते ॥
@@ -224,8 +227,6 @@ He keeps smashing down on his back with the hundred-jointed mace. Indra, exhilar
 <details><summary>Jamison Brereton Notes</summary>
 
 This verse paraphrases and expands vs. 2. The nominal expression in 2b ási bhū́ri parādadíḥ is turned into the verb parādádāti in 6b; śikṣasi in 2d is echoed by śikṣatu in 6c; the phrase bhū́ri te vásu is repeated verbatim (2e, 6d); and the dative beneficiaries in 2 (yájamānāya 2d, suvaté 2e) are replaced by dāśúṣe (6b) and, more tellingly, asmábhyam (6c). The source of the wealth that Indra distributes is also made clear: it belonged to the stranger and is presumably plunder.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/080/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Auf Vritra's Scheitel schleudert er mit seinem hundertzack'gen Blitz, Den Freund
 Да воспоют они (твое) собственное царство!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -277,7 +276,7 @@ Auf Vritra's Scheitel schleudert er mit seinem hundertzack'gen Blitz, Den Freund
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे राजन् ! जैसे (इन्द्रः) विद्युत् अग्नि (शतपर्वणा) असंख्यात अच्छे-अच्छे कर्मों से युक्त (वज्रेण) अपने किरणों से मेघ के (सानावधि) अवयवों पर प्रहार करता हुआ (निजिघ्नते) प्रकाश को रोकनेवाले मेघ के लिये सदैव प्रतिकूल रहता है, वैसे ही जो आप (गातुम्) उत्तम रीति से शिक्षायुक्त वाणी की (इच्छति) इच्छा करते हैं सो (सखिभ्यः) मित्रों के लिये (मन्दानः) आनन्द बढ़ाते हुए और (स्वराज्यम्) अपने राज्य का (अन्वर्चन्) सत्कार करते हुए (अन्धसः) अन्न के दाता हों ॥ ६ ॥
+पदार्थान्वयभाषाः -  हे राजन् ! जैसे (इन्द्रः) विद्युत् अग्नि (शतपर्वणा) असंख्यात अच्छे-अच्छे कर्मों से युक्त (वज्रेण) अपने किरणों से मेघ के (सानावधि) अवयवों पर प्रहार करता हुआ (निजिघ्नते) प्रकाश को रोकनेवाले मेघ के लिये सदैव प्रतिकूल रहता है, वैसे ही जो आप (गातुम्) उत्तम रीति से शिक्षायुक्त वाणी की (इच्छति) इच्छा करते हैं सो (सखिभ्यः) मित्रों के लिये (मन्दानः) आनन्द बढ़ाते हुए और (स्वराज्यम्) अपने राज्य का (अन्वर्चन्) सत्कार करते हुए (अन्धसः) अन्न के दाता हों ॥ ६ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

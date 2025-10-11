@@ -3,7 +3,6 @@ title = "004"
 devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -245,6 +243,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे प्राणविशेषाः। सः- असौ। विः- पक्षी मुमुक्षामोक्षादिप्रतीकः। विभ्यः-  पक्षिभ्यस्तात्कालिकविमोचनेभ्यः। प्र- प्रकर्षेण। सु। अस्तु- भवतु। श्येनः। श्येनेभ्यः।  आशुपत्वा- शीघ्रपतनः। प्र अस्तु। मनवे- विदुषे। देवजुष्टम्- देवसेवितम्। हव्यम्- अमृतम्।  अचक्रया- चलनरहितया। स्वधया- आत्मधारणया। सुपर्णः। भरत्- आहरत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथैतदादिभिः श्येनः स्तूयते । हे **मरुतः** वेगेन मरुत्सदृशाः पक्षिणः सः प्रसिद्धः श्येनाख्यः विः पक्षी विभ्यः पक्षिभ्यो युष्मत्तः प्र सु **अस्तु** बलेन प्रकृष्टो भवतु । किंच श्येनेभ्यः शंसनीयगमनेभ्यः स्वसमानजातिभ्यः पक्षिभ्यः सकाशात् **आशुपत्वा** आशुपतनः शीघ्रगामी श्येनः प्रकृष्टो भवतु । 'सुपर्णः शोभनपतनः यत् यदा श्येनः **अचक्रया** चक्रवर्जितया स्वधया रथेन देवजुष्टं देवैः सेवितं **हव्यं** सोमलक्षणं हविः **मनवे** प्रजापतये भरत् अहरत द्युलोकसकाशादाहृतवान् । अत्र स्वधाशब्दो रथवाची अचक्रया स्वधया वर्तमानम् ' ( ऋ. सं. १०. २७. १९) इत्यादौ दर्शनात् ॥
@@ -272,7 +275,6 @@ because the fine-feathered one, with his independent power that needed  no (char
 <details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich sounds like a formal eulogistic opening, though I don’t know of any parallels elsewhere (quite possibly for want of looking).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
@@ -306,8 +308,6 @@ Voran sei dieser Vogel andern Vögeln, der schnelle Aar den Aaren, o ihr Maruts,
 Когда по собственному порыву без колес прекраснокрылый  
 Понес жертву для Ману, услаждающую богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

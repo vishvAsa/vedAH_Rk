@@ -3,7 +3,6 @@ title = "012"
 devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - विश्वमना वैयश्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अघ्नते- अहिंसकाय। विष्णवे- व्यापनशीलाय परमात्मने। सुदानवे- शोभनदानाय। वयम्।  अरिष्यन्तः- अहिंसन्तो भवेम। स्वयावन्- असहायगते। सिन्धो- स्यन्दनशील। पूर्वचित्तये-  प्राचीनप्रज्ञानाय। शृधि- शृणु॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वोऽर्धर्चः परोक्षकृतः । **अरिष्यन्तः** पालनवत्त्वात् केनाप्यबाधिताः **वयम्** **अघ्नते** स्तोतॄणां यष्टॄणां चाहिंसकाय **सुदानवे** शोभनदानाय **विष्णवे** स्वमहत्त्वेन सर्वव्यापकायैतन्नामकाय देवाय स्तुतिं कुर्मः । अथ प्रत्यक्षः । हे **स्वयावन्** । स्वयमेवासहायः सन् दिवि संग्रामे वा यातीति स्वयावान् । **सिन्धो** स्तोतॄन् प्रति धनानां स्यन्दनशील विष्णो **पूर्वचित्तये** । चित्तिः कर्म । मन्त्रान्तरेऽपि तथा श्रवणात् - ‘सा चित्तिभिर्नि हि चकार मर्त्यम् ' (ऋ. सं. १. १६४. २९) इति । पूर्वं प्रारब्धकर्मणे यजमानाय तदर्थं **श्रुधि** अस्माभिः क्रियमाणां स्तुतिं त्वं शृणु ॥
@@ -176,8 +179,6 @@ Listen, o River traveling your own course, (for us) to be first in your  thought
 <details><summary>Jamison Brereton Notes</summary>
 
 A verb needs to be supplied for ab to be a clause. On the basis of śrudhí in c, I supply ‘sing’, but any verb of service to a divinity that takes a dative would work. Geldner “serve” (dienen), Renou, somewhat more elaborately “apportons notre prière.” Ideally we would supply sacemahi on the basis of áriṣyantaḥ … sacemahi in 11c, but √sac doesn’t accommodate this case frame. (The few exx. with dat. given by Grassmann are to be explained otherwise.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -210,8 +211,6 @@ Dem Vischnu folgen unversehrt, dem Spender wir, der nicht verletzt; O höre, sel
 Не терпя вреда, (ему,) с прекрасными дарами (хотим служить).  
 Услышь (нас), о Синдху, текущая сама по себе, чтобы нас заметили первыми!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

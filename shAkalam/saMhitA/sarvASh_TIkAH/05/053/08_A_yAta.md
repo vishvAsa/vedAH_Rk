@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे वायवः। दिवः- नभसः। अन्तरिक्षात्। अमात्- अस्मात् स्थानात्। आ यात-  आगच्छत। परावतः- दूरदेशे। मा अवस्थात- मा तिष्ठत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुतः** **परावतः** अत्यन्तदूरदेशात् **दिवः** द्युलोकात् **आ** **यात** । तथा **अन्तरिक्षात्** **आ** यात । **उत** अपि च **अमात्** अस्माल्लोकादा यात । परावत इत्यत्रापि वा योज्यम् । परावतो दूरदेशे तत्र तत्र द्युलोकादौ **माव** **स्थात** अवस्थितिं मा कुरुत ॥
@@ -177,7 +180,6 @@ However, it’s also possible to take mā́va sthāta in c as a parenthetical ex
 There is also the question of what the lexeme áva √sthā means here.
 
 Generally it means ‘descend’, often into a river or the like (see Renou ad loc.). But that doesn’t make sense here: if the Maruts are to come here from heaven or the midspace, as they are invited to in ab, they will have to descend. If we take the áva seriously, perhaps the idea is that the Maruts shouldn’t perform their descent somewhere else than here-- at a distance -- perhaps into the rivers named in the next vs. But this seems overly complex.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -209,8 +211,6 @@ Vom Himmel kommt, o Maruts her, aus weiter Luft, von nahem Ort, nicht bleibet in
 Из воздушного пространства, а также из дому!  
 Не задерживайтесь в далеких краях!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

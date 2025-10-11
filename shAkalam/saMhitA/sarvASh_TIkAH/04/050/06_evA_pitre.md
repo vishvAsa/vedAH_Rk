@@ -3,7 +3,6 @@ title = "006"
 devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एवा- एवम्। पित्रे- अस्मज्जनकभूताय। विश्वदेवाय- सर्वदेवमयाय। वृष्णे- वर्षकाय। यज्ञैः-  उपासनैर्दानैः सङ्गतिकरणैः। हविर्भिः- चरुपुरोडाशध्यानभावनादिहव्यैः। नमसा- नमस्कारेण।  विधेम- परिचरेम। बृहस्पते। सुप्रजाः- सुसन्ततियुख्नाः। वीरवन्तः- ३    दानवीरकर्मवीरयुद्धवीरसखायः। वयम्। रयीणाम्- दानयोग्यसम्पदाम्। पतयः। स्याम-  भवेम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पित्रे** पालकाय **विश्वदेवाय** सर्वदेवतारूपाय । देवानां मन्त्रप्रतिपाद्यत्वादस्य च मन्त्राभिमानित्वात् विश्वदेवत्वम् । यद्वा । अत्र देवशब्दः स्तुत्यर्थः । सर्वैः स्तुत्याय **वृष्णे** वर्षकाय बृहस्पतये देवाय **एव** एवमुक्तप्रकारेण **यज्ञैः** तत्साधनैः **हविर्भिः** आज्यचर्वादिलक्षणैः **नमसा** स्तुत्या च **विधेम** परिचरेम । हे **बृहस्पते** **सुप्रजाः** शोभनपुत्राः **वीरवन्तः** वीर्योपेताः **वयं** **रयीणां** धनानां **पतयः** **स्याम** ॥
@@ -234,7 +237,6 @@ O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of r
 
 As indicated in the published introduction, this is the final vs. of the 1st section of the hymn and has the standard marks of a hymn-final summary vs. It is the best evidence that vss. 1-6 were a separate composition, only secondarily amalgamated with the following two sections. Nonetheless, I think it simply marks a pause and a transition to the thematically contrastive next section.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -250,7 +252,6 @@ Then to the father, with the All-gods, to the strong one, Let us pay honour with
 May we be lords of wealth.
 
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -281,8 +282,6 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 С сыновьями-героями, повелителями богатств!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः
@@ -298,7 +297,7 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ों के पालन करनेवाले जैसे हम लोग (यज्ञैः) मिले हुए कर्मों से (विश्वदेवाय) संसार के प्रकाशक (वृष्णे) वृष्टि करने और (पित्रे) पालन करनेवाले के लिये (नमसा) सत्कार वा अन्न आदि से (हविर्भिः) ग्रहण करने योग्य उपदेश वा द्रव्यों से (विधेम) करें और अर्थात् क्रिया विधान करें तथा (सुप्रजाः) विद्या और विनयवाली श्रेष्ठ प्रजाओं से युक्त (वीरवन्तः) वीर पुत्रोंवाले (वयम्) हम लोग (रयीणाम्) धनों के (पतयः) स्वामी (स्याम) होवें (एवा) वैसे ही आप हूजिये ॥६॥
+पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ों के पालन करनेवाले जैसे हम लोग (यज्ञैः) मिले हुए कर्मों से (विश्वदेवाय) संसार के प्रकाशक (वृष्णे) वृष्टि करने और (पित्रे) पालन करनेवाले के लिये (नमसा) सत्कार वा अन्न आदि से (हविर्भिः) ग्रहण करने योग्य उपदेश वा द्रव्यों से (विधेम) करें और अर्थात् क्रिया विधान करें तथा (सुप्रजाः) विद्या और विनयवाली श्रेष्ठ प्रजाओं से युक्त (वीरवन्तः) वीर पुत्रोंवाले (वयम्) हम लोग (रयीणाम्) धनों के (पतयः) स्वामी (स्याम) होवें (एवा) वैसे ही आप हूजिये ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

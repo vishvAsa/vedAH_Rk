@@ -3,7 +3,6 @@ title = "014"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अङ्गिरस्वन्ता- ऋषियुख्नौ। उत- अपि च। विष्णुवन्ता- विष्णुयुख्नौ। मरुत्वन्ता जरितुर्गच्छथो  हवम्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे अश्विनौ युवाम् **अङ्गिरस्वन्तौ** अङ्गिरोभिर्युक्तौ **विष्णुवन्ता** विष्णुना च सहितौ मरुद्भिश्च सहितौ स्तोतुराह्वानं गच्छतम् । सिद्धमन्यत् ॥
@@ -218,8 +221,6 @@ Vereinigt mit dem Vischnu und den Angiras, und mit den Maruts kommt ihr zu des S
 Единодушные с Ушас и Сурьей,  
 Приезжайте с Адитьями, о Ашвииы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

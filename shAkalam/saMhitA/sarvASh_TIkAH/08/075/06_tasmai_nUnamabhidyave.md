@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अभिद्यवे- अभितो द्योतनशीलाय। तस्मै- अमुष्मै। नूनम्- निश्चयेन। नित्यया- अनाद्यनन्तया  मन्त्रमय्या। वाचा। विरूप- निरूपय। वृष्णे- वर्षकाय। सुष्टुतिम्- शोभनस्तुतिम्। चोदस्व-  चोदय॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विरूप** नानारूपैतन्नामक महर्षे त्वं **तस्मै** प्रसिद्धाय **अभिद्यवे** अभिगतदीप्तये **वृष्णे** वर्षकायाग्नये **नित्यया** उत्पत्तिरहितया **वाचा** मन्त्ररूपया **सुष्टुतिं** **नूनम्** इदानीं **चोदस्व** स्तुहीत्येवमृषिः स्वात्मानं ब्रवीति यजमानो वा होतारं विरूपम् ॥
@@ -171,10 +174,6 @@ Beeile jetzt, o Virupa, das Loblied auf diesen himmlischen Bullen durch eigene R
 
 Beeile diesem Stiere nun dem Himmelsstürmer Lobgesang, Virupa, siegend fort und fort.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- ईशनाधिदैवत। अत्र। दशोणये- बहुहविष्कात्। कवये- सूक्ष्मदर्शिनः। अर्कसातौ- मन्त्रलाभे  सति। पणयः- लोभिनो लोभभावनानि वा। शतैः- अनन्तैः स्वगणैः। अपद्रन्- प्राद्रवन्।  अशुषस्य- अशुष्कस्य। शुष्णस्य- शोषकस्य रक्षसः। मायाः- वञ्चनाशख्नीः। वधैः-  प्रहरणसाधनैः। न प्र अरीरेचीत्- अतिरिख्ना नाकरोत्। किं चन- किमपि। पित्वः- तेषामन्नम्।  नारिरेचीत्- सर्वमप्यपाहरत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्र** अस्मिन् **अर्कसातौ** । अर्कोऽन्नं प्राप्यतेऽस्मिन्नित्यर्कसातिर्युद्धम् । तस्मिन् **दशोणये** बहुहविष्कात् **कवये** मेधाविनः । पञ्चम्यर्थे चतुर्थी । हे **इन्द्र** त्वत्सहायात् कुत्सात् बिभ्यतः **पणयः** एतन्नामकासुराः **शतैः** शतसंख्याकैः बलैः सार्धम् **अपद्रन्** अपाद्रवन् । अपलायन्त । अपि चेन्द्रः **अशुषस्य** अशुष्कस्य । संपूर्णबलस्येत्यर्थः । **शुष्णस्य** एतन्नामकासुरस्य कुत्सस्य शत्रोः **मायाः** कपटान् **वधैः** हननसाधनैरायुधैः **न** **प्र** **अरिरेचीत्** प्ररिक्तानतिरिक्तान्नाकरोत् । **पित्वः** अन्नस्य । पितुरित्यन्ननामैतत् । **किं** **चन** किंचिदपि न प्रारिरेचीत् । तदीयमन्नं सर्वमप्यपाहारयत् ॥
@@ -251,8 +254,6 @@ That arká-sāti means ‘winning of the (sun’s) rays’ is strongly suggested
 
 I don’t understand pāda d, but I would point out that another “insatiable Śuṣṇa” passage also has a mention of mealtime: IV.16.12 kútsāya śúṣṇam aśúṣaṃ ní barhīḥ, prapitvé áhnaḥ kúyavaṃ sahásrā “For Kutsa you laid low insatiable Śuṣṇa, who brings bad harvest, with his thousands, before the day's first meal.” Perhaps the point is that despite his voraciousness, Śuṣṇa is deprived of his meal by Indra’s timely blow. In that case the subj. of arirecīt … prá here is Indra, who leaves nothing for Śuṣṇa.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -285,8 +286,6 @@ Durch hundert Hiebe stürzten da die Diebe, o Indra, und des bösen Çuschna Lis
 От (твоих) смертельных ударов (разлетелись) колдовские чары прожорливого Шушны.  
 Из еды он не оставил (ему) ничего.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

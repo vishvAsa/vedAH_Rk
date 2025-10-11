@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - ऋजिश्वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -241,6 +239,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञियाः- पूज्याः। विश्वे देवाः- सर्वे देवाः। मम- मे। मन्म- मननम्। शृण्वन्तु। उभे रोदसी-  द्यावापृथिव्यौ। अपां नपात्- अब्जोग्निः। च- अपि। शृण्वन्तु। वः- युष्मान् प्रति। परिचक्ष्याणि-  वर्जनीयानि। वचांसि। मा। वोचम्- वदानि। सुम्नेषु- सुखेषु। वः- युष्माकम्। अन्तमाः-  अन्तिके। मदेम- सन्तुष्टा भवेम॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञियाः** यज्ञार्हाः **विश्वे** **देवाः** **मम** मदीयं **मन्म** मननीयं स्तोत्रं **शृण्वन्तु** । चित्तेऽवधारयन्तु । तथा **उभे** **रोदसी** द्यावापृथिव्यौ **अपां** **नपात्** मध्यमस्थानोऽग्निः **च** अस्मदीयं स्तोत्रं शृण्वन्तु । अथ प्रत्यक्षकृतः । हे देवाः **वः** युष्मभ्यं **परिचक्ष्याणि** वर्जनीयानि **वचांसि** स्तोत्राणि **मा** **वोचं** मा ब्रवीमि । अपि तु समीचीनानि । अतः **वः** युष्माकम् **अन्तमाः** अन्तिकतमाः सन्तो वयं **सुम्नेष्वित्** युष्माभिर्दत्तेषु सुखेष्वेव वर्तमानाः **मदेम** मोदेम ॥
@@ -263,8 +266,6 @@ Let me not speak speeches to you that can be disregarded. Might we, in  nearest 
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is metrically problematic. The Anukr. (also Holland & van Nooten Rig Veda edition) identifies it as a Jagatī, but the vs. instead seems mostly to be aiming to be a Triṣṭubh, like the surrounding (and thematically related) vss. 13 and 15. To begin at the end, d is simply a standard Triṣṭubh pāda (though with uncommon break): 11 syllables with a fine cadence. The intermediate pādas b and c have 12 syllables (possibly 13 in c), but a Triṣṭubh cadence, which seems more diagnostic than the syllable count. Oldenberg (ad loc. and ad I.53.10) favors an “überzählig” interpr. for both, in other words as Triṣṭubhs with an extra syl.; see his disc. in Prol. 67. Only pāda a is an unproblematic Jagatī, and even here, as Oldenberg points out (though he does not favor this analysis), it might be possible to read the final word yajñíyāḥ as a disyllable, which would again produce a perfect Triṣṭubh.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -297,8 +298,6 @@ Mein Flehen sollen alle Götter hören, die Welten beide und der Sohn der Wasser
 Да возрадуемся мы как самые близкие в ваших благодеяниях!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -319,7 +318,7 @@ Mein Flehen sollen alle Götter hören, die Welten beide und der Sohn der Wasser
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जिन विद्वानों का वचन असत्य नहीं होता तथा जिनका सङ्ग सर्वदा सुख और विज्ञान का बढ़ानेवाला है और जो भूमि और सूर्य के तुल्य सब के पालनेवाले और विवाद सुनकर पक्षपात को छोड़ न्याय करनेवाले हों, उनके निकट स्थित होकर सदैव आनन्द को प्राप्त होओ ॥१४॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जिन विद्वानों का वचन असत्य नहीं होता तथा जिनका सङ्ग सर्वदा सुख और विज्ञान का बढ़ानेवाला है और जो भूमि और सूर्य के तुल्य सब के पालनेवाले और विवाद सुनकर पक्षपात को छोड़ न्याय करनेवाले हों, उनके निकट स्थित होकर सदैव आनन्द को प्राप्त होओ ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

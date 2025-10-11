@@ -3,7 +3,6 @@ title = "007"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    एषाम्- एतेषाम्। यामन्- मार्गे। पृथिवी- भूमिः। प्रथिष्ट- प्रख्याताऽभवत्। भर्ता- पतिः। गर्भम्।  इव। स्वम्- स्वकीयम्। शवः- उदकम्। धुः- स्थापितवन्तः। वातान् हि अश्वान्-  प्राणप्रणालीभूततुरगान्। धुरि। आयुयुज्रे- योजितवन्तः। स्वेदम्- स्वकठिनसाधनप्रतीकस्वेदवत्  स्थितम्। वर्षम्। रुद्रियासः- रुद्रजाः। चक्रिरे- कृतवन्तः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषां** मरुतां **यामन्** यामनि गमने **पृथिवी** **चित्** भूमिः । चिदिति पूरणः । **प्रथिष्ट** प्रख्याताभवत् । गर्भयोग्याभवदित्यर्थः । ते च मरुतः **भर्ता** लौकिकः पतिः **गर्भम्** **इव** भार्यायाः तथा भूम्याः **स्वमित्** स्वभूतं गर्भं गर्भस्थानीयं **शवः** उदकं **धुः** स्थापितवन्तः । **हि** यस्मात् **वातान्** गन्तॄन् **अश्वान्** **धुरि** रथसंबन्धिन्याम् **आयुयुज्रे** आयोजितवन्तः तस्मात् **वर्षं** **स्वेदं** स्वेदस्थानीयं वृष्टिसंस्त्यायं **चक्रिरे** कुर्वन्ति **रुद्रियासः** रुद्रपुत्राः ॥
@@ -273,8 +276,6 @@ The first hemistich has distinct sexual overtones, with the Earth spreading hers
 
 It is difficult to get a causal reading from hí in c. It cannot be connected with the preceding pāda, and the action of c seems irrelevant to d, so connection with the following pāda seems unlikely. I have settled for the craven ‘certainly’.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -282,6 +283,7 @@ Sustained phonetic play, esp. with p and r/ṛ, in prá-pra (5b), pṛ́śneḥ 
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -315,8 +317,6 @@ Bei ihrem Gange streckte sich die Erde, sie legten Kraft hinein, wie Frucht der 
 Сыновья Рудры превратили (свой) пот в дождь.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -337,7 +337,7 @@ Bei ihrem Gange streckte sich die Erde, sie legten Kraft hinein, wie Frucht der 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो मनुष्य पृथिवी के सदृश क्षमाशील और विस्तीर्ण विद्यावाले वाहनों के पवन रूप घोड़ों को संयुक्त करके और वृष्टि के कारणों का निर्माण करके कार्य्यों को सिद्ध करते हैं, वे सम्पूर्ण सुख कर सकते हैं ॥७॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो मनुष्य पृथिवी के सदृश क्षमाशील और विस्तीर्ण विद्यावाले वाहनों के पवन रूप घोड़ों को संयुक्त करके और वृष्टि के कारणों का निर्माण करके कार्य्यों को सिद्ध करते हैं, वे सम्पूर्ण सुख कर सकते हैं ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

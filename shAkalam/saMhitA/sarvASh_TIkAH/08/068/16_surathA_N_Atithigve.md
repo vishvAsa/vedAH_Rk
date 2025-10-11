@@ -3,7 +3,6 @@ title = "016"
 devataa = "ऋक्षाश्वमेधयोर्दानस्तुतिः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -108,6 +106,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आतिथिग्वे- अतिथिभिर्गमनीये। सुरथानश्वान् गृह्णामि। आर्क्षे- आवरणबाधके। स्वभीशूनश्वान्  गृह्णामि। आश्वमेधे। सुपेशसः- सुरूपानश्वान् गृह्णामि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आतिथिग्वे** इन्द्रोते **सुरथान्** शोभनरथोपेतानश्वानाददे । **आर्क्षे** ऋक्षपुत्रे **स्वभीशून्** अश्वानाददे । **आश्वमेधे** अश्वमेधपुत्रे 'सुपेशसः सुरूपानश्वान् शोभनालंकारानाददे ॥
@@ -156,10 +159,6 @@ Mit schönem Wagen von Atithigva; mit schönen Zügeln vom Sohn des Riksa, mit s
 
 Rosse, die mit schönem Wagen und Zügeln versehen sind, empfing ich vom Sohne des Rikscha, dem Nachkommen des Atithigva aus dem Geschlechte des Açvamedha.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

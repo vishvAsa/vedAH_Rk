@@ -3,7 +3,6 @@ title = "007"
 devataa = "अश्विनौ (गर्भस्राविण्युपनिषत्)"
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सप्तवध्रिरात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 puṣkaríṇīm ← puṣkaríṇī- (nominal stem)  
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। वातः- वायुः। पुष्करिणीम्- सरोवरम्। सर्वतः। समिङ्गयति- चालयति। एवा- तथा। ते-  तव। गर्भः। एजतु- कम्पताम्। दशमास्यः। निरैतु- निर्गच्छतु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एतदादि ऋक्त्रयं गर्भस्राविण्युपनिषत् । एतदाद्यृक्त्रयेणासौ सप्तवध्रिः स्वयोषितः । गर्भिण्याः प्रसवायाशु स्तुतवानश्विनावृषिः । **यथा** **वातः** **पुष्करिणीं** सरआदिकं **सर्वतः** **समिङ्गयति** सम्यक् चालयति **एव** एवं तव **गर्भः** **एजतु** कम्पताम्' इतस्ततः संचरतु । **दशमास्यः** दश मासान् गर्भे स्थितः **निरैतु** निर्गच्छतु ॥
@@ -191,8 +194,6 @@ Gleichwie der Wind den Lotusteich zu Wogen aufregt überall so reg' sich deine L
 Пусть он выйдет десятимесячным!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विनौ
@@ -213,7 +214,7 @@ Gleichwie der Wind den Lotusteich zu Wogen aufregt überall so reg' sich deine L
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो स्त्रीपुरुष ब्रह्मचर्य्य से विद्या को पढ़ के विवाह करें तो दशवें मास में प्रसव हो, ऐसा जानना चाहिये ॥७॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो स्त्रीपुरुष ब्रह्मचर्य्य से विद्या को पढ़ के विवाह करें तो दशवें मास में प्रसव हो, ऐसा जानना चाहिये ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

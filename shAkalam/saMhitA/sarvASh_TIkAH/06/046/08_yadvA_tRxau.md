@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मघवन्- इन्द्र। तृक्षौ- गतिशीले। द्रुह्यौ- शत्रुबाधके। पूरौ- पूरके। यत्। वृष्ण्यम्- वर्षकं  बलमस्ति। तत्। नृषाह्ये- शत्रुसहने निमित्ते। पृत्सु- युद्धेषु। अमित्रान्- शत्रून्। तुर्वणे-  बाधयितुम्। सम्- सम्यक्। रीरिहि- यच्छ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** धनवन्निन्द्र **तृक्षौ** एतत्संज्ञे राजनि **यद्वा** यञ्च बलं विद्यते **द्रुह्यौ** **आ** द्रुह्यौ चैतत्संज्ञे च **जने** यत् बलमस्ति । **पूरौ** एतत्संज्ञे नृपे च **यत्** **कच्च** यत्किंचन **वृष्ण्यं** वीर्यं विद्यते **तत्** सर्वम् **अस्मभ्यं** स्तोतृभ्यः **सं** सम्यक् **रिरीहि** प्रयच्छ। कदा। **नृसह्ये** नृभिर्योद्धृभिः सोढव्ये युद्धे प्रवृत्ते । किमर्थम् । **पृत्सु** पृतनासु संग्रामेषु **अमित्रान्** शत्रून् **तुर्वणे** तुर्वितुं हिंसितुम् ॥
@@ -250,7 +253,6 @@ grant that to us fully at (the time of) the conquering of men, for us to  vanqui
 <details><summary>Jamison Brereton Notes</summary>
 
 On the verbal rection of turváṇe see Keydana (Inf., 245-47). Note also that the circumstantial loc. nṛṣā́hye “at the conquering of men” and the purpose infinitival phrase amitrā́n … turváṇe “to vanquish our foes” have the same semantic structure, though different syntax.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -283,8 +285,6 @@ Und was bei Trikschi, starker, was beim Druhju-Volk, beim Purustamm an Stiereskr
 Нам ее отдай при покорении мужей,  
 Чтобы преодолеть недругов в сражениях!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

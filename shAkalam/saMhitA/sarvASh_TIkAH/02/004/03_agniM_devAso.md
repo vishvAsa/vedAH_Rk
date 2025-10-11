@@ -3,7 +3,6 @@ title = "003"
 devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - सोमाहुतिर्भार्गवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षेष्यन्तः- गतिमन्तः। मित्रं न- सखायमिव। देवासः- देवाः। अग्निम्- पावकं सर्वभूतहितक्रतुम्।  प्रियम्। मानुषीषु विक्षु- मनुष्यप्रजासु। धुः- स्थापितवन्तः। सः- असावग्निः। दक्षाय्यः- समर्थः। दास्वते- दात्रे। दमे- तस्य सदने। आ- आभिमुख्येन। उशतीः- कामयमानाः। ऊर्म्याः- अपो  मूलशख्निधाराः। आ दीदयत्- उद्दीपितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 देवासोदेवाः क्षेष्यन्तः स्वर्गम्प्रतिगच्छन्तःसन्तः पूर्वम्मानुषीषुमनुष्यसम्बन्धिनीषुविक्षुप्रजासु प्रियन्देवानाम्प्रीणयितारमग्निं धुः अधुः स्थपितवन्तः तत्रदृष्टान्तः—क्षेष्यन्तोमित्रन्न रायम्प्रतिगच्छ- न्तोनरामित्रम्प्रियंसखायंस्वगृहरक्षार्थंस्थापयन्ति तद्वत् एवन्देवैःस्थापितोयोग्निर्दास्वतेहविर्दत्तवते- यजमानायतदर्थन्दमतदीयेयागगृहेआआहितः स्थापितः दक्षाय्यः समर्धयितादातावा सोग्निः उशतीः कामयमानाः ऊर्म्याः रात्रीः सर्वासुरात्रिषुआदीदयत् दीप्यतेसर्वतः सर्वरात्रीरादीपयतिवा ॥ ३ ॥
@@ -254,8 +257,6 @@ He will shine toward the nights desirous (of him), he whose skill is to be  beso
 I tr. dīdayat … ū́rmyā ā́“shine towards the nights,” rather than “illuminate the nights” with the standard tr., because I could not otherwise account for the ā́. Narten’s tr. (KlSch 370 n. 5) is similarly intransitive though with a temporal, rather than goal, acc.: “Er soll die Nächte hindurch leuchten.” Note mitrám √dhā in b reprising the same lexeme in 1c.
 
 On dakṣā́yyaḥ, whose morphology resembles didhiṣā́yyaḥ in 1c, see comm. ad I.91.3. As noted there, in this passage it could also or alternatively mean “to be skillfully tended.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -298,8 +299,6 @@ Den Agni setzten in der Menschen Häuser als lieben Freund die Götter, zur Erqu
 Он светит сквозь жаждущие (его) ночи,  
 (Тот,) за кем надо ухаживать щедрому (покровителю) в доме (своем).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

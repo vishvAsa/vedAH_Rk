@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हियानः- प्रेरितः। अश्वः- तुरगः। न- इव। नः- अस्माकम्। स्तोमम्- स्तुतिम्। सोतृभिः-  रसनिष्पादकैः। आ उप द्रवत्- आधावतु। इन्द्र- परमेश्वर। स्वधावन्- आत्मवन्। यम्। ते-  त्वाम्। कण्वेषु- मन्त्रविन्मुनिषु। रातयः- दानानि। धेनवः- गावो वत्समिव। स्वदयन्ति-  आस्वादयन्ति तं त्वा भजामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -246,8 +249,6 @@ Komm schnell zu unserm Soma her, gespornt von Pressern wie ein Ross, Den, schöp
 Которое делают тебе приятным дойные коровы, о следующий своему обычаю,  
 О Индра, (и жертвенные) дары у Канвов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

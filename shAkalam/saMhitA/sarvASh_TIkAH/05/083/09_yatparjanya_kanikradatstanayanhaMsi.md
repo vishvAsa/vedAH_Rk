@@ -3,7 +3,6 @@ title = "009"
 devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 kánikradat ← √krand- (root)  
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। पर्जन्यः। कनिक्रदत्- गर्जति। स्तनयन्- गर्जन्। दुष्कृतः- पापिनः। हंसि- बाधसे।  तदा। इदम्- एतत्। यत्किञ्च पृथिव्यामधि- यत्किञ्चित् भूम्या उपर्यस्ति तत्। विश्वम्- सर्वम्।  मोदते- तुष्यति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पर्जन्य** **यत्** यदा त्वं **कनिक्रदत्** अत्यर्थं शब्दयन् **स्तनयन्** **दुष्कृतः** पापकृतो मेघान् **हंसि** विदारयसि तदानीम् **इदं** **विश्वं** जगत् **प्रति** मोदते । विश्वं विशेष्यते । **यत्किं** **च** **पृथिव्यामधि** भूम्यामधिष्ठितं यच्चराचरात्मकं तदिदं विश्वं मोदते हृष्यति । वृष्टेः सर्वजगत्प्रीतिकारणत्वं प्रसिद्धम् ॥
@@ -197,7 +200,6 @@ thundering, kill the evildoers,
 to this all jubilate  
 and whatever exists on earth.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -247,8 +249,6 @@ Wenn, o Pardschanja, brüllend du und donnernd schlägst der Frevler Schar, so f
 Что только есть на земле.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पृथिवी
@@ -264,7 +264,7 @@ Wenn, o Pardschanja, brüllend du und donnernd schlägst der Frevler Schar, so f
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (यत्) जो (पर्जन्य) मेघ (कनिक्रदत्) अत्यन्त शब्द करता तथा (स्तनयन्) गर्जन करता हुआ (दुष्कृतः) दुःख से करनेवालों का (हंसि) नाश करता है (यत्) जो (किम्) कुछ (च) भी (इदम्) यह वर्त्तमान (पृथिव्याम्) पृथिवी (अधि) पर (विश्वम्) सम्पूर्ण जगत् वर्त्तमान है वह जिस मेघ से (प्रति, मोदते) आनन्दित होता है, वह बड़ा उपकारी है ॥९॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (यत्) जो (पर्जन्य) मेघ (कनिक्रदत्) अत्यन्त शब्द करता तथा (स्तनयन्) गर्जन करता हुआ (दुष्कृतः) दुःख से करनेवालों का (हंसि) नाश करता है (यत्) जो (किम्) कुछ (च) भी (इदम्) यह वर्त्तमान (पृथिव्याम्) पृथिवी (अधि) पर (विश्वम्) सम्पूर्ण जगत् वर्त्तमान है वह जिस मेघ से (प्रति, मोदते) आनन्दित होता है, वह बड़ा उपकारी है ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

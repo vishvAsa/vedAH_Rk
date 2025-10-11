@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उपश्रुति- उपश्रुतौ। नः- अस्मान्। आ याहि- आगच्छ। उक्थेषु- मन्त्रेषु। इह- अत्र। रणय-  रमस्व॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **नः** अस्माकम् **इह** यज्ञे **उक्थेषु** शस्त्रेषु पठ्यमानेषु **उपश्रुति** उपश्रुतौ समीपम् **आ** **याहि** आगच्छ । अस्मान् **रणय** च । सिद्धमन्यत् ॥
@@ -207,8 +210,6 @@ Komm nah herbei, lass hören dich, ergötz dich an den Sprüchen hier; Von jenes
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

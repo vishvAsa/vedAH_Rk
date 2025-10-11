@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नीषोमौ। यः। वाम्- युवयोरुपासकः। अनेन- एतेन। घृतेन- पूतनवनीतेन पूतचित्तेन। वाम्-  युवयोः। दाशति- ददाति। तस्मै। बृहत्- महत्। दीदयतम्- प्रयच्छतम्। दाशृ दाने॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्नीषोमौ **वां** युवयोः संबन्धी **यः** यजमानः **अनेन** **घृतेन** उत्पवनादिभिः संस्कृतेनाज्येन युक्तं हविः **वां** युवाभ्यां **दाशति** प्रयच्छति **तस्मै** यजमानाय **बृहत्** प्रभूतं धनं **दीदयतं** प्रकाशयतं प्रयच्छतमित्यर्थः । दाशति । दाशृ दाने '। शप्तिपोः पित्त्वादनुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । दीदयतम् । दीदयतिः। दीप्तिकर्मा ॥
@@ -166,8 +169,6 @@ beginning in a, while I take it as a part of that yád cl. There is no way to te
 There are also no semantic implications; I weakly prefer mine because of the fairly emphatic ā́d ‘then, just after that’ beginning the second hemistich.
 
 All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is doubtless the primary sense here, since this sequence of vss. describes a forest fire, but ‘winners’ is also possible, since the metaphorical context is that of a chariot race; see esp. 10a, 11c.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -200,8 +201,6 @@ Der euch mit diesem Liede ehrt, mit Butter, Agni-Soma, euch, Dem strahlet hohes 
 Этой (жертвой), кто (почитает) вас жиром, –  
 Сделайте, чтоб для него высоко засверкало (богатство)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

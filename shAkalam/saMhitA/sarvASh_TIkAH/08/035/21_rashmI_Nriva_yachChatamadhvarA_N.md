@@ -3,7 +3,6 @@ title = "021"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदच्युता। श्यावाश्वस्य। सुन्वतः। अध्वरान्। रश्मीन्- प्रग्रहान्। इव। यच्छतम्॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **श्यावाश्वस्य** मम **अध्वरान्** **रश्मीनिव** यथाश्वप्रग्रहांस्तद्वत् **उप** **यच्छतम्** उपगच्छतम् । सिद्धमन्यत् ॥
@@ -223,8 +226,6 @@ Wie Zügel lenkt die Opfergaben zu euch hin des Somapressers Çjāvaaçva, trunk
 Единодушные с Ушас и Сурьеи,  
 (Пейте сому,) (бродящего) вторые сутки, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

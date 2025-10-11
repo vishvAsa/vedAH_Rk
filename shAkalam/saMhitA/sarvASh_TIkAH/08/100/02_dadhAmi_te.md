@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -244,6 +242,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- त्वदर्थम्। मधुनो भक्षम्- रसम्। अग्रे- तवाग्रतः। दधामि- धारयामि। ते- तव। भागः।  सुतः- निष्पन्नः। सोमः- रसः। हितः- स्थापितः। अस्तु- भवतु। त्वम्। दक्षिणतः- दक्षिणपार्श्वे।  मे- मम। सखा- सुहृत् सन्। असः- स्थितो भव। भूरि- प्रभूतानि। वृत्राणि- आवरणानि। अध-  अधुना। जङ्घनाव- आवां हन्वः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ते** तुभ्यं **मधुनः** मदकरस्य सोमस्य **भक्षमग्रे** प्रथमं **दधामि** धारयामि । **सुतः** अभिषुतः **भागः** भजनीयः **सोमः** **ते** तव हृदये **हितः** निहितः **अस्तु** भवतु । अपि च **त्वं** **मे** मम **दक्षिणतः** दक्षिणपार्श्वे **सखा** सन् **असः** स्थितो भव। **अध** अथ **भूरि** बहूनि **वृत्राणि** अस्मदीयाञ्छत्रून् **जङ्घनाव** त्वमहं चोभौ आवां हन्वः ॥
@@ -267,8 +270,6 @@ _________
 Geldner (followed by Klein, DGRV I.242, II.108) takes pāda c as a subordinated conditional clause with d, with the subordination marked by ca (i.e., “if you will be my comrade, then we will …”). This is certainly possible, but it is impossible to tell formally if c is subordinated to d or coordinated with b (as I take it) because the accent on the verb ásaḥ can result from its initial position. Perhaps in favor of the Geldner/Klein interpretation is the fact that both c and d contain subjunctives, while b has an imperative. On the other hand, in a related passage (also adduced by Geldner), the two expressions are parallel, not in a subordinate/main clause relation: X.83.7 … dakṣiṇató bhavā me, ádhā vṛtrā́ṇi jaṅghanāva bhū́ri “Be on my right side.
 
 Then we two will keep smiting obstacles in abundance.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -304,8 +305,6 @@ Ich schenke dir zuerst den Trank des Methes, dein Antheil sei gesetzt, gebraut d
 И если ты хочешь стать моим другом справа,  
 То мы разобьем множество врагов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

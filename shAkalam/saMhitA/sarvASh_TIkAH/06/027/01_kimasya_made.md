@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -274,6 +272,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य सोमस्य रसे। मदे- हर्षे। किम्। अस्य पीतौ- रसानुभूतौ। किम्। इन्द्रः। अस्य-  एतस्य रसस्य। सख्ये- मैत्र्याम्। किम्। चकार- अकरोत्। अस्य- एतस्य। निषदि- सदने।  रणा- रममाणाः। पुरा- पुराणाः। नूतनासः- नूतनाः। किम्। विविद्रे- लब्धवन्तः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 भरद्वाज ऋषिः फलविलम्बनासहिष्णुः सन् अनयेन्द्रमाक्षिपति । **अस्य** सोमस्य **मदे** सति **इन्द्रः** **किं** **चकार** कृतवान् । **किमु** किंच **अस्य** सोमस्य **पीतौ** पाने सति किं चकार । **अस्य** सोमस्य **सख्ये** सखित्वे **किं** चकार । पानात् पूर्वम् इन्द्रः सोमेन सह वसतीत्यर्थः । **अस्य** सोमस्य **निषदि** गृहे **रणा** **वा** **ये** स्तोतारश्च सन्ति ते स्तोतारः **पुरा** पूर्वं हे इन्द्र **ते** त्वत्तः **किं** **विविद्रे** किं लेभिरे । **नूतनास:** नूतना इदानींतनाः स्तोतारश्च **किमु** लेभिरे ॥
@@ -314,8 +317,6 @@ The first hemistich is otherwise unproblematic, but the second one raises some f
 **04-05**  
 Hoffmann (Injunk. 163-64) tr. and discusses this pair of vss., with special reference to the change from augmented to injunctive verbs.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -348,8 +349,6 @@ Was hat in dieses Soma's Rausch und Trunke Indra vollbracht? und was mit ihm im 
 Или же (те) состояния радости, которые (бывают) при осаждении (его),  
 Что раньше они означали для него и что теперь?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

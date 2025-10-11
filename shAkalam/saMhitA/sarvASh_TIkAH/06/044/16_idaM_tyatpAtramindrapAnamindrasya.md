@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इदं त्यत्- तदेतत्। पात्रम्- पातव्यम्। इन्द्रपानम्। इन्द्रस्य। प्रियम्। अमृतम्। अपायि-  अनुभवतु। स रसः। देवम्- इन्द्रम्। सौमनसाय। मत्सत्- मादयेत्। अस्मत्- अस्मत्तः। द्वेषः-  द्वेषभावनम्। अंहम्- अघम्। वि युयवत्- वियोजयतु॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पात्रं** पातव्यम् **इन्द्रपानम्** इन्द्रस्य पानार्हम् **इन्द्रस्य** **प्रियम्** अनुकूलं **त्यत्** तत् **इदं** सोमात्मकम् **अमृतमपायि** । इन्द्रः पिबतु ॥ व्यत्ययेन कर्तरि चिण् ॥ यद्वा । एतदमृतमपायि । इन्द्रेण पीयताम् । **यथा** येन प्रकारेण पीतः सोमः **सौमनसाय** सुमनस्त्वाय **देवम्** इन्द्रं **मत्सत्** मादयेत्तथा पीयतामित्यर्थः । स पीतसोम इन्द्रः **द्वेषः** द्वेष्टॄन् **अस्मत्** अस्मत्तः **वि** **युयवत्** वियोजयतु । **अंहः** पापं चास्मत्तो वियोजयतु ॥४॥
@@ -244,7 +247,6 @@ so that it will exhilarate the god for the sake of his good favor and will  keep
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes índrasya as agent of apāyi (“Indra hat seinen lieben Göttertrank getrunken”), but finite passives, even verbs of consumption, don’t take genitive agents.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -278,8 +280,6 @@ Es dient der Becher hier zum Trunk dem Indra, dem Indra lieb ward Göttertrank g
 Чтобы он вдохновил бога на доброжелательность,  
 Чтобы он прогнал прочь от нас ненависть, прочь беду.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

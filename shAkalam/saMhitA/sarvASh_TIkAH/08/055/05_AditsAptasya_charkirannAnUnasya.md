@@ -3,7 +3,6 @@ title = "005"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "कृशः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - कृशः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    आदित्- अथ। अनूनस्य- अन्यूनस्य। साप्तस्य- सप्तरश्मिवतः सूर्यस्य। महि- महतीम्। श्रवः-  श्रुतिम्। न। चर्किरन्- अकुर्वन्। श्यावीः- गाः। पथः- मार्गात्। अतिध्वसन्- अधः पतन्।  चक्षुषा। चन- अपि। संनशे- सम्यक् व्याप्तुं नेष्टे॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -201,8 +204,6 @@ Dann gedachte man des [geschenkten] Siebengespannes; gross ist die Kraft des noc
 Черные кобылы мчатся по дорогам -  
 Глазом (их) не охватить.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

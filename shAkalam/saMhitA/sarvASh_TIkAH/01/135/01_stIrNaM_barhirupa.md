@@ -3,7 +3,6 @@ title = "001"
 devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अत्यष्टिः"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अत्यष्टिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -294,6 +292,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नियुत्वते- प्राणाधिदैवताय वायवे।  बर्हिः- दर्भासनमित्याधिभौतिके। चित्ताकाशमित्याध्यात्मिके।  बर्हिःशब्दोऽन्तरिक्षनामसु पठितः। स्तीर्णं- आस्तृतम्। वीतये- रसानुभवाय। नः- अस्मान्।  सहस्रेण शतिनीभिः- प्रभूतेन। नियुता- अश्वसमूहेन प्राणप्रणालीसमूहेन। उप याहि- आगच्छ।  देवाय- द्योतनशीलाय। तुभ्यम्- ते। पूर्वपीतये- प्रथमरसानुभवाय। देवाः- द्योतनशीलाः। येमिरे-  प्रेरितवन्तः। ते- तव। मदाय- तृप्तये। क्रत्वे- प्रज्ञायै सत्सङ्कल्पाय। मधुमन्तः- मधुराः। सुतासः-  रसाः। प्र- प्रकर्षेण। अस्थिरन्- तस्थुः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वायो **नः** अस्मद्यज्ञार्थं **स्तीर्णम्** आस्तृतं **बर्हिः** अभिलक्ष्य **उप** **याहि** आगच्छ। किमर्थम्। **वीतये** हविषां भक्षणाय। केन साधनेनेति तदुच्यते। **सहस्रेण** सहस्रसंख्याकेन **नियुता**। जातावेकवचनम् ॥ नियुत इति वायोरश्वानां नामधेयं, ' नियुतो वायोः' (नि. १. १५. १०) इति निरुक्तत्वात् । तथा **शतिनीभिः** शतसंख्योपेताभिः नियुद्भिः आगच्छेति शेषः । यद्वा । सहस्रेण नियुता शतिनीभिश्च नियुद्भिः **नियुत्वते** तद्वते देवाय हविर्दीयते इति शेषः । यद्वा । तुभ्यमित्यनेन संबन्धः । उक्तसंख्याकाभिर्नियुद्भिः तद्वते **देवाय** द्योतमानाय **तुभ्यम्** ॥  ‘ ङयि च ' ( पा. सू. ६. १. २१२) इति आद्युदात्तत्वम् ॥ **पूर्वपीतये** इतरदेवेभ्यः पूर्वं पानाय **देवाः** **येमिरे** यमितवन्तः । यद्वा । स्तोतारः ऋत्विजो देवाय तुभ्यं येमिरे । आहवनीयं प्रति सोमं नियमितवन्तः । अग्रं पिबा मधूनां सुतं वायो' (  ऋ. सं. ४. ४६. १ ) इत्यादिमन्त्रान्तरप्रसिद्धिद्योतनार्थो हिशब्दः । किंच एते त्वदर्थं **सुतासः** अभिषुताः **मधुमन्तः** माधुर्योपेताः सोमाः **मदाय** तव मोदाय **अस्थिरन्** तिष्ठन्ति। किंच **क्रत्वे** कर्मणे तत्सिद्ध्यर्थम् **अस्थिरन्**। ऋत्विग्भिः धृताः तिष्ठन्ति । अतः त्वं पिबेति शेषः ॥ तिष्ठतेश्छान्दसे लुङि व्यत्ययेन झस्य रन् । 'स्थाध्वोरिञ्च' इति सिचः कित्त्वं धातोः इत्वं च । 'ह्रस्वादङ्गात् ' इति सिचोलोपः ॥
@@ -317,8 +320,6 @@ The pressed, honeyed (soma drinks) have been set forth for you—have  been set 
 <details><summary>Jamison Brereton Notes</summary>
 
 Unaccented niyutvate in bc appears to be a voc. to an otherwise unattested -istem niyutvati-, whose formation would be morphologically peculiar (a secondary -istem built to a -vant-stem?!). It must be a nonce manipulation of the standard -vantstem niyútvant-. As Renou points out, vocatives in -pate may have had some influence in producing this rhyme form. Since Vāyu is almost the only referent of niyútvant-, it is highly unlikely that the form represents a dative to the -vant-stem that lost its accent for some reason.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -356,8 +357,6 @@ Der Sitz ist fertig, komme her zu unserm Mahl mit tausendfachem Vielgespann, o R
 Выжатые сладкие (соки сомы) выставлены для тебя,  
 Выставлены для опьянения, для силы духа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

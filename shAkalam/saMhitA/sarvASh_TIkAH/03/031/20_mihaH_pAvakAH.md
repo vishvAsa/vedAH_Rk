@@ -3,7 +3,6 @@ title = "020"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मिहः- सेचनसमर्थाः। पावकाः- शोधयित्र्यो आपो मूलशख्निधाराः। प्रतताः- विस्तृताः। अभूवन्-  अभवन्। आसाम्- अपां मूलशख्निधाराणाम्। पारम्- तीरे। नः- अस्मान्। स्वस्ति- भद्राय।  पीपृहि- पूरय। इन्द्र- परमेश्वर। त्वम्। रथिरः- रंहणशीलः। नः- अस्माकम्। रिषः- हिंसकात्।  पाहि- रक्ष। मक्षु मक्षु- शीघ्रम्। नः- अस्मान्। गोजितः- चिद्रश्मिसम्पादकान्। कृणुहि-  कुरु॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** ते **पावकाः** पापानां शोधयित्र्यः **मिहः** सेचनसाधनान्यापः **प्रतताः** लोके प्रकर्षेण विस्तृताः **अभूवन्** । **आसाम्** अपां **स्वस्ति** विनाशरहितं **पारं** तीरं **नः** अस्मदर्थं **पिपृहि** जलैः संपूर्णं कुरु । जलमवारपारीणं कुर्वित्यर्थः । **रथिरः** रथवान् **त्वं** **रिषः** हिंसकात् शत्रोः सकाशात् **नः** अस्मान् **पाहि** पालय । अनन्तरं **नः** अस्मान् **मक्षुमक्षु** अतिशीघ्रं **गोजितः** गवादिपशूनां जेतॄन्
@@ -265,8 +268,6 @@ O Indra, as charioteer protect us from harm. Quickly, quickly make us  winners o
 <details><summary>Jamison Brereton Notes</summary>
 
 The mists are probably in part metaphorical -- menacing threats and mental darkness -- but may also refer physically to morning mists, which are clearing as the dawn sacrifice begins. Note also that pāda-initial míhaḥ is a mirror image of máhi, which opens so many pādas in this hymn (see comm. ad 12b).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
@@ -300,8 +301,6 @@ Viele schwüle Nebel waren ausgebreitet, führe uns durch sie hindurch zum Heile
 О Индра, ты, колесничий, сохрани нас от повреждения!  
 Как можно скорей сделай нас захватчиками коров!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -18,7 +17,6 @@ ChandaH = "गायत्री"
 शृ॒ण्वन्त्व॒मृत॑स्य॒ ये ।
 सु॒मृ॒डी॒का भ॑वन्तु नः ।
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमृतस्य सूनवः- अमृतपुत्राः। नः- अस्माकम्। गिरः- मन्त्रान्। उप शृण्वन्तु। नः- अस्माकम्।  सुमृळीकाः- आनन्दकराः। भवन्तु- सन्तु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अमृतस्य** मरणरहितस्य प्रजापतेः **ये** **सूनवः** पुत्राः ते देवाः **नः** अस्माकं **गिरः** स्तुतीः **उप** **शृण्वन्तु** । **नः** अस्माकं **सुमृळीकाः** सुष्ठु मृडयितारः सुखयितारश्च **भवन्तु** ॥
@@ -184,8 +187,6 @@ Let them be very merciful to us.
 This vs. consists of two 3rd pl. impv. clauses, ab and c. The 2nd is entirely straightforward, and the first is until the end, where we find a hemistich-final rel.
 
 prn. yé, clearly coreferential with the subj. of the impv. but difficult to construe: úpa naḥ sūnávo gíraḥ, śṛṇvántu amṛ́tasya yé. The only grammatical way to interpr. this is as a tag nominal rel. cl. amṛ́tasya yé “who (are) of the immortal one.” But this leaves the main-cl. subj. sūnávaḥ underdefined: it is not any set of sons that we invite to hear our hymns, but only the sons of the immortal one. But tag rel. clauses generally give additional, not necessary, information about their referents in the main clause, and so such an interpr. would leave the sentence oddly unbalanced. We cannot take the whole hemistich as a rel. cl. (“which sons of the immortal …”), not only because the rel. prn. would be too deep in its clause, following both subject and VP, but also because impvs. do not occur in subordinate clauses in the RV. I think we’re dealing with a poet who knew about tag rel. clauses and wanted to try his hand at one, but didn’t know how they work. As Geldner points out (n. 9ab), the substance of the cl. is identical to X.13.1 śṛṇvántu víśve amṛ́tasya putrā́ḥ. Given these considerations, I have not attempted to render the yé -- passing in silence over a journeyman’s lapse.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
@@ -219,8 +220,6 @@ Die Söhne der Unsterblichkeit, sie mögen hören unser Lied, Und seien gnädig 
 Пусть будут очень милостивы к нам!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -241,7 +240,7 @@ Die Söhne der Unsterblichkeit, sie mögen hören unser Lied, Und seien gnädig 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  पितृजनों को राजनीति वा अपने कुल में यह दृढ़ नियम करना चाहिये कि जितने हमारे सन्तान हैं, वे ब्रह्मचर्य्य से विद्याओं के समस्त ग्रहण के लिये ब्रह्मचर्य्य आश्रम को करें, जो इसका विनाश करे, उसे राजा वा कुलीन निरन्तर दण्ड देवें ॥९॥
+भावार्थभाषाः -  पितृजनों को राजनीति वा अपने कुल में यह दृढ़ नियम करना चाहिये कि जितने हमारे सन्तान हैं, वे ब्रह्मचर्य्य से विद्याओं के समस्त ग्रहण के लिये ब्रह्मचर्य्य आश्रम को करें, जो इसका विनाश करे, उसे राजा वा कुलीन निरन्तर दण्ड देवें ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

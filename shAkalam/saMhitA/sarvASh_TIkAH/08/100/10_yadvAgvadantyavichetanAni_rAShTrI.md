@@ -3,7 +3,6 @@ title = "010"
 devataa = "वाक्"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। देवानां राष्ट्री। अविचेतनानि- अप्रज्ञातानर्थान्। वदन्ती- प्रज्ञापयन्ती। वाक्। मन्द्रा-  आनन्दकरी। निषसाद- उपविशति। तदा। चतस्रो दिशः। ऊर्जं- शख्निम्। पयांसि- जीवोदकानि।  दुदुहे। अस्याः- एतस्या वाचः। परमम्- परमो ध्वनिर्भावो वा। क्व- कुत्र। जगाम- गतः।  भवतीति भावः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **राष्ट्री** राजनशीला **देवानां** **मन्द्रा** मादयित्री' वा **यत्** यदा **वाक्** **अविचेतनानि** विज्ञानरहितानप्रज्ञातानर्थान् **वदन्ती** प्रज्ञापयन्ती **निषसाद** यज्ञे निषीदति तदा **चतस्रः** दिशः प्रति **ऊर्जम्** अन्नं **पयांसि** तत्कारणभूतानि उदकानि **दुदुहे**। **अस्याः** माध्यमिकाया वाचः स्वभूतं यत् **परमं** श्रेष्ठं तत् **क्व** **जगाम** क्व गच्छतीति न दृश्यत इत्यर्थः । तथा च यास्कः - ‘ यद्वाग्वदन्त्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मन्द्रा मदना चतस्रोऽनु दिश अर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरन्तीति वा ' (निरु. ११. २८) इति ॥
@@ -244,8 +247,6 @@ she milked out in four (streams) nourishment and milk drinks. Where  indeed did 
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner is understandably reluctant to construe avicetanā́ni with vádantī, since this attributes unintelligible speech to Speech herself, but his solution, to construe the neut. pl. loosely with niṣasā́da (“… sich bei den unvernünftigen (Geschöpfen) niederliess”), does not work syntactically. Oldenberg’s mythological explanation is preferable.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -279,8 +280,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 Она дала надоить из себя в четыре (струи) питательную силу (и) молоко.  
 Куда же пошла ее основная часть?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

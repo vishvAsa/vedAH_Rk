@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    अग्ने। नः- अस्मान्। नि- नितराम्। पाहि- पालय। सहस्कृत- शख्निज। देव- द्योतनशील।  रीषतः- हिंसकान्। द्वेषः- द्वेष्टॄन्। भिन्धि- विदारय॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहस्कृत** बलेन कृत **देव** दीप्त **अग्ने** **रिषतः** हिंसकान् **नः** अस्मान् **प्रति** **नि** **पाहि** प्रतिरक्ष । **स्म** इति पूरणः । **द्वेषः** द्विषः शत्रूंश्च **भिन्धि** विदारय ॥
@@ -180,8 +183,6 @@ Split hatred, o might-made one.”
 <details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I supply daha in b, with the preverb práti, since práti is not otherwise found with √pā, the verb of pāda a, but is common with √dah ‘burn’. Cf. esp. I.12.15 práti ṣma ríṣataḥ daha. VII.15.13b is identical to our pāda, and the verb in pāda c of that vs. is daha, which governs the acc. in b.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -214,8 +215,6 @@ Behüte du, o Agni, uns, o Gott, vor dem Beschädiger, Den Feind zerspalte, kraf
 От(брось) же, о бог, тех, кто (нам) вредит!  
 Проломи враждебность, о созданный силой!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। नेमः- भवदर्धः। पुमान्- पतिर्मरुत्। युवा स मारुतो गण इत्यादिषु मरुतामेकत्त्वं  यथा भवति तथात्रापि पुंशब्देन मरुद्गणो गृह्यते। अस्तुतः- पूर्णतया न स्तुतः। इति। पणिः-  स्तोताऽहम्। ब्रुवे- वदामि। सः। वैरदेये- वीर्यवद्दाने। समः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **घ** अपि च । घेति पूरणः । **नेमः** । ‘त्वो नेम इत्यर्धस्य ' ( निरु. ३. २० ) इति निरुक्तम् । नेमोऽर्धः । जायापत्योर्मिलित्वैककार्यकर्तृत्वादेक एव पदार्थः ।  ‘ अर्धं शरीरस्य भार्या । इत्यादिस्मृतेः । शशीयस्या अर्धभूतस्तरन्तः **पुमान्** **अस्तुतः** इति **ब्रुवे** । बहुधा स्तुतोऽपि गुणस्यातिबाहुल्यादस्तुत एवेति ब्रुवे **पणिः** स्तोताहम् । **सः** च तरन्तः **वैरदेये** । वीरा धनानां प्रेरयितारो दानशीलाः । तैर्दातव्यं धनं देयम् । तस्मिन् धने **समः** । सर्वेभ्यो दातेत्यर्थः । **इत्** इति पूरणः ॥
@@ -199,8 +202,6 @@ but he is only equivalent (to a man) in the matter of wergeld.
 On vaíradeya-, lit. ‘what is to be given for a man/hero’, as Wergeld or blood money, see Roth (ZDMG 41: 672-76) and Macdonell-Keith Vedic Index s.v. vaira.
 
 Another indirect ref. to the same phenomenon is found in II.32.4 vīráṃ śatádāyam “a hero (for whom) a hundred (cows) are to be given.” In our case the person in question is hardly worth the name ‘man’ and would be better off dead than alive, since his relatives would still receive the standard recompense for a vīrá, whatever his personal failings had been. It is telling that he is called a paṇí- ‘niggard’, a reminder to Śyāvāśva’s patron that stinginess is a grave flaw.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -233,8 +234,6 @@ Und dagegen ist mancher nicht lobenswerthe geizig, der einen Mann sich nennt, ei
 Скупец (тоже) мужчиной называется.  
 Он равен (ему) только по выкупу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -279,6 +277,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। इदम्- एतत्। ज्योतिः। हृदये। आहितम्- स्थापितम्। तदा। मे- मम। कर्णा-  कर्णौ। वि- विविधम्। पतयतः- पततः। चक्षुः। वि- विविधं पतति। मे- मदीयम्। मनः। दूर  आधीः- दूरे आध्यानं कुर्वत्। वि- विविधम्। चरति- सरति। किंस्वित्- किं वा कथं वा। वक्ष्यामि।  किम्। मनिष्ये- चिन्तयिष्यामि। न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः। न विुद्मो न विजानीमो  यथैतदनुशिष्यात्॥ इति हि तलवकारे। अथवा अस्य मन्त्रस्यायमर्थः- अस्मिन् ज्योतिषि हृदये  आहिते श्रोत्रादिकं विगतपतनं भवति। एवमिन्द्रियनिरोध उच्यते॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वैश्वानरं श्रोतुकामस्य **मे** मम **कर्णा** कर्णौ **वि** **पतयतः** विविधं गच्छतः । श्रोतव्यानां तदीयगुणानां बहुत्वात् । तथा वैश्वानरं दिदृक्षमाणस्य मम **चक्षुः** इन्द्रियं **वि** पतयति विविधं गच्छति । दृष्टव्यानां तदीयरूपाणां बहुत्वात् । तथा **ज्योतिः** प्रकाशकं हृदये हृदयपुण्डरीके **आहितं** निहितं **यत्** बुद्ध्याख्यं तत्त्वम् **इदमपि** **वि** पतयति विविधं गच्छति वैश्वानरात्मानं ज्ञातुम् । अपि च **दूरआधीः** । दूरे विप्रकृष्टे विषय अधीराध्यानं यस्य तादृशम् । छान्दसो लिङ्गव्यत्ययः । **मे** मदीयं **मनः** च **वि** **चरति** विविधं प्रवर्तते । एवमहमहमिकया सर्वेष्विन्द्रियेषु प्रवृत्तेषु **किं** **स्वित्** अहं
@@ -308,6 +311,7 @@ The last three vss. of this hymn are dominated by play on the syllable ví, whic
 And of course it is Agni Vaiśvānara who is the source of the poet’s revelation and therefore the focus of the hymn. The stationing of vaiśvānaráḥ at the beginning of the last hemistich of the hymn also forms a ring with the same form at the beginning of the second hemistich of the 1st vs. and reinforces the omphalos structure.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -342,8 +346,6 @@ Auf thun sich meine Ohren, auf mein Auge auf dieses Licht, das in mein Herz gese
 Воспаряет моя мысль, проникающая далеко.  
 Что же скажу я? Что же придумаю?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

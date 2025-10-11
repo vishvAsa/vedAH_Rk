@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। तव- ते। इत्- एव। आशसा- आशंसनेन। हस्ते। दात्रम्। चन- अपि। आ ददे- गृह्णामि।  दिनस्य वा- पूर्वमेव छिन्नस्य वा। यवस्य। सम्भृतस्य वा- पूर्वमेव छित्त्वा निष्कृतस्य वा। यवस्य।  काशिना- मुष्टिना। मघवन्- इन्द्र। पूर्धि- पूर्त्तिं कुरु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **तवेत्** तवैव **आशसा** आशंसनेन त्वमस्मदीयं क्षेत्रं यवसमृद्धं करोषीत्याशंसनेन **हस्ते** **दात्रं** **चन** लवनसाधनं दात्रमपि **आ** **ददे** स्वीकरोमि । किमनेन प्रयासेन । **दिनस्य** **वा** पूर्वमेव छिन्नस्य वा यवस्य **संभृतस्य** **वा** पूर्वमेव छित्त्वा निष्कृतस्य राशीकृतस्य वा **यवस्य** **काशिना** मुष्टिना **पूर्धि** पूरय । आशंसनं देहि च ॥ ॥ ३२ ॥
@@ -253,10 +256,6 @@ In der Hoffnung auf dich, Indra, nehme ich nicht einmal die Sichel in die Hand. 
 
 Aus Verlangen nach dir, o Indra, nahm ich auch die Sichel in die Hand; beschenke uns, o mächtiger mit abgeschnittener oder eingesammelter Gerste, soviel deine Hand fassen kann.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

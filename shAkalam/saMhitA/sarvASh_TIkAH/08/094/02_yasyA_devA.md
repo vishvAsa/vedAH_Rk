@@ -3,7 +3,6 @@ title = "002"
 devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बिन्दुः पूतदक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्याः। उपस्थे- अन्तिके। विश्वे- सर्वे। देवाः। व्रतान्- धर्मान्। धारयन्ति- भरन्ति। सूर्यामासा-  सूर्याचन्द्रौ। दृशे- दर्शनाय। कम्- सुखेन वर्तमानौ भवतः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 गौः सर्वदेवमयीत्याह । **यस्याः** मरुतां मातुर्गोः **उपस्थे** वर्तमानाः **विश्वे** सर्वे **देवाः** **व्रता** व्रतानि स्वस्वकर्माणि **धारयन्ते** बिभ्रति । इयमेवास्माकं स्वपयोमिश्रितस्य सोमस्य दात्रीति सर्वे तत्समीपे तिष्ठन्तीत्यर्थः। किंच **सूर्यामासा** । माति स्वकलाभिस्तिथीनिति माश्चन्द्रमाः ॥  ‘ देवताद्वन्द्वे च ' इत्युभयपदप्रकृतिस्वरत्वम् । सूर्याचन्द्रमसौ **दृशे** दर्शनाय सर्वलोकप्रकाशनाय च यस्या गोः समीपे **कं** सुखेन वर्तमानौ भवतः । सेयं गौः सोमं धयतीति पूर्वेण समन्वयः ॥
@@ -156,8 +159,6 @@ She in whose lap all the gods cause their commandments to be upheld, for the sun
 Curiously, vratā́… dhāráyante seems to be the only full VP with vratá- as obj. of a verbal form of √dhṛ, despite the common (nearly 20x) bahuvrīhi dhṛtávrata- ‘whose commandments are upheld’.
 
 There are several ways to construe the dual dvandva sū́ryāmā́sā of c. Geldner takes it as a separate obj. of dhāráyante, Renou as an additional subj. of the same verb, while I take it as the subj. of the purpose inf. dṛśé.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -190,8 +191,6 @@ In deren Schoosse all ihr Werk die Götter wohl befestigen Und Sonn' und Mond, u
 Боги поддерживают заветы,  
 (И) солнце и луна, чтобы их было видно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

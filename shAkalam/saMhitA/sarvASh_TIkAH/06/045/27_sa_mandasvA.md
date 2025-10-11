@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ त्वम्। तन्वा- स्वदेहेन। अन्धसः- हव्यस्य। महे- महत्यै। राधसे- संसिद्ध्यै।  मन्दस्व- हृष्टस्तृप्तो भव। स्तोतारम्- उपासकम्। निदे- निन्दायै। न- मा। करः- कुरु॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र 'सः तादृशस्त्वम् **अन्धसः** सोमस्य पानेन हृष्टया **तन्वा** आत्मीयेन शरीरेण **मन्दस्व** मोदस्व । किमर्थम् । **महे** महते **राधसे** धनार्थम् । **हि** पूरणः । अपि च त्वदीयं **स्तोतारं** **निदे** निन्दकाय तस्य वशं **न** **करः** न कुर्याः ॥
@@ -175,7 +178,6 @@ You will not put your praiser to scorn.
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is identical to III.41.6, q.v. The lack of accent on mandasvā despite the following hí is puzzling.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -209,8 +211,6 @@ Erfreu dich denn am Somakraut zu grosser Gab' aus eigner Lust; Nicht gib den Sä
 Не выдай восхвалителя хуле!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -226,7 +226,7 @@ Erfreu dich denn am Somakraut zu grosser Gab' aus eigner Lust; Nicht gib den Sä
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वन् ! (हि) जिससे आप (तन्वा) शरीर से (महे) बड़े (राधसे) धन के लिये (अन्धसः) अन्न आदि से (मन्दस्वा) आनन्दित हूजिये वा आनन्दित करिये और (निदे) निन्दा करनेवाले के लिये (स्तोतारम्) स्तुति करनेवाले को (न) नहीं (करः) करिये इससे (सः) वह आप जनों को प्रिय हैं ॥२७॥
+पदार्थान्वयभाषाः -  हे विद्वन् ! (हि) जिससे आप (तन्वा) शरीर से (महे) बड़े (राधसे) धन के लिये (अन्धसः) अन्न आदि से (मन्दस्वा) आनन्दित हूजिये वा आनन्दित करिये और (निदे) निन्दा करनेवाले के लिये (स्तोतारम्) स्तुति करनेवाले को (न) नहीं (करः) करिये इससे (सः) वह आप जनों को प्रिय हैं ॥२७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

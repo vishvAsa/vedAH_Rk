@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इषा- सदेषणया। मन्दस्व- हृष्टो भव। आत्- अनन्तरम्। ते- तव। वराय- श्रेष्ठाय। मन्यवे-  मननाय। अरम्- रसोऽलं भवति। इन्द्र। ते- तव। हृदे- हृदयाय। शम्- शान्तिः। भुवत्-  भवतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **इषा** सोमलक्षणेनान्नेन **मन्दस्व** मोदस्व हृष्टो भव । **उ** इत्यवधारणे । **आत्** अनन्तरमेव **ते** तव **वराय** शत्रुनिवारकाय **मन्यवे** क्रोधाय स सोमः **अरम्** अलं पर्याप्तो भवतु । क्रोधशमने समर्थो भवतु । यदा सोमं पिबति तदा मन्युं त्यजतीत्यर्थः । किंच **ते** तव **हृदे** हृदये स सोमः **शं** शंकरः सुखकरः **भुवत्** भवतु ॥
@@ -199,10 +202,6 @@ Berausche dich am Labetrank, und er sei dir recht nach Wunsch und Absicht und sa
 
 Am Trank erfreu dich, und er sei recht deinem Wunsch und Sinn gemäss, O Indra, deinem Herzen hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

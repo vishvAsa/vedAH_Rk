@@ -3,7 +3,6 @@ title = "005"
 devataa = "सूर्यः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्योरुपस्थे- चिदाकाशे। मित्रस्य- स्नेहाधिदैवतस्य। वरुणस्य- ऋताधिदैवतस्य। अभिचक्षे-  दर्शनाय। तत्। रूपम्। सूर्यः- आत्मसूर्यः। कृणुते- करोति। हरितः- सूर्यस्याकर्षणशख्नयः।  अस्य- एतस्य सूर्यस्य। अन्यम्। रुशत्- दीप्यमानम्। अनन्तम्- अन्तरहितम्। पाजः- अहर्भूतं  बलम्। सम्- सम्यक्। भरन्ति- धरन्ति। अन्यत्। कृष्णम्- निशाभूतं बलमपि। भरन्ति।  आत्मसूर्यस्यैव शख्निद्वयं मनुष्यप्रज्ञा दैवीप्रज्ञा इत्याध्यात्मिके॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तत्** तदानीम् उदयसमये **मित्रस्य** **वरुणस्य** एतदुभयोपलक्षितस्य सर्वस्य जगतः **अभिचक्षे** आभिमुख्येन प्रकाशनाय **द्योः** नभसः **उपस्थे** उपस्थाने मध्ये **सूर्यः** सर्वस्य प्रेरकः सविता **रूपं** सर्वस्य निरूपकं प्रकाशकं तेजः **कृणुते** करोति । अपि च **अस्य** सूर्यस्य **हरितः** रसहरणशीला रश्मयः हरिद्वर्णाः अश्वा वा **अनन्तम्[१]** अवसानरहितं कृत्स्नस्य जगतो व्यापकं **रुशत्** दीप्यमानं श्वेतवर्णं **पाजः** । बलनामैतत् । बलयुक्तम् अतिबलस्यापि नैशस्य तमसो निवारणे समर्थम् **अन्यत्** तमसो विलक्षणं तेजः **सं** **भरन्ति** अहनि स्वकीयागमनेन निष्पादयन्ति । तथा **कृष्णं** कृष्णवर्णम् **अन्यत्** तमः स्वकीयापगमनेन रात्रौ । अस्य रश्मयोऽप्येवं कुर्वन्ति किमु वक्तव्यं तस्य माहात्म्यमिति सूर्यस्य स्तुतिः ॥ अभिचक्षे । संपदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । द्योः ।  ‘ ङसिङसोश्च ' ( पा. सू. ६. १. ११० ) इति पूर्वरूपता । उपस्थे ।  ‘ घञर्थे कविधानम्' इति कप्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । पाजः । पाति रक्षतीति पाजो बलम् । पातेर्बले जुट् च ' ( उ. सू. ४, ६४२) इति असुन् जुडागमश्च । छान्दसो मत्वर्थीयस्य विनो लोपः ॥
@@ -268,7 +271,6 @@ same idea as “the eye of M+V” in 1b, “so that M+V can see (the world).” 
 Thus we can construct a consistent and convincingly naturalistic interpr. of these two verses as referring only to sunrise, without the dubious baggage of the “night-sun.” The second of the two verses, which is the last real verse of the hymn, also forms a ring with vs. 1: not only is the sun identified as the eye/sight of Mitra and Varuṇa (1b, 5a), but the “brilliant face” (citrám … ánīkam) of 1a is reprised by the “gleaming surface” (rúśat … pā́jaḥ) of 5c.
 
 [I.116-20 JPB]
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -309,8 +311,6 @@ Vor Varuna's und Mitra's Aug' entfaltet im Himmelsschooss die Sonne ihre Schönh
 Бесконечно светла одна его сторона,  
 Другую, черную, собирают (его) кобылицы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

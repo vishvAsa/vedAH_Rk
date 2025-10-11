@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यवयुः- धान्यकामः। गव्युः- गोकामः। अश्वयुः- अश्वकामः। मम- मे। कामः। हिरण्ययुः-  सुवर्णकामः। त्वाम्। एषते- इच्छति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्वामित्** त्वामेव **एषते** । किम् । **मम** **कामः** । स कीदृशः । **यवयुः** यवेच्छुः सन्नेषते । तथा **गव्युः** सन्नेषते । तथा **हिरण्ययुः** च सन्नेषते । तथा **अश्वयुः** च सन्नेषते । तं काममाप्तेच्छं कुर्विति भावः ॥
@@ -176,10 +179,6 @@ Zu dir strebt mein Wunsch, der nach Korn und Rind und Gold verlangt, zu dir mein
 
 Zu dir ja strebet hin mein Wunsch, der Gerste, Rinder, Gold begehrt, Zu dir mein Wunsch nach Rossbesitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

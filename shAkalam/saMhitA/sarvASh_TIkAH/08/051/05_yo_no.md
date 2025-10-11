@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्माकम्। वसूनाम्- सम्पदाम्। दाता। तमिन्द्रम्। वयम्। हूमहे- आह्वयामः।  अस्य- एतस्येन्द्रस्य। नवीयसीम्- अभिनवाम्। सुमतिम्। विुद्म- जानीमः। तस्य। गोमति  व्रजे- गोसमूहं चिद्रश्मिसमूहम्। गमेम- अभिगच्छेम॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -238,8 +241,6 @@ Diesen Indra rufen wir, welcher uns Güter schenkt; denn wir kennen sein neustes
 Ведь мы знаем его новую милость,  
 Мы хотим придти к загону, полному коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

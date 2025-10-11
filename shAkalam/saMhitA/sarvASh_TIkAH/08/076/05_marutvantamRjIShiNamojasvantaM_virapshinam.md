@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -108,6 +106,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुत्वन्तम्- प्राणसम्पन्नम्। ऋजीषिणम्- आर्जवसम्पन्नम्। ओजस्वन्तम्- बलिनम्।  विरप्शिनम्- महात्मानम्। इन्द्रम्। गीर्भिः- वाग्भिः। हवामहे- आह्वयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मरुत्वन्तं** मरुद्भिस्तद्वन्तम् **ऋजीषिणम्** । अभिषुतशेष ऋजीषः । स च तृतीयसवने पुनः सूयते । तद्वन्तम् **ओजस्वन्तम्** । ओजो नामाष्टमी दशा । शरीरवृद्ध्युपेतमित्यर्थः । **विरप्शिनम्** । महन्नामैतत् । महान्तमेवंमहानुभावम् **इन्द्रं** **गीर्भिः** स्तुतिभिः **हवामहे** आह्वयामः ॥
@@ -147,10 +150,6 @@ Den marutbegleiteten Indra, den Trestertrinker, den starken, im Überfluß leben
 
 Den mächt'gen mit der Marutschar, der vorwärts dringt mit Kraft begabt, Mit Liedern rufen Indra wir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

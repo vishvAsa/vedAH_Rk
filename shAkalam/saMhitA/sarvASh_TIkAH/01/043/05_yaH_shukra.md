@@ -3,7 +3,6 @@ title = "005"
 devataa = "रुद्रः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कण्वो घौरः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः- यो रुद्रः। शुक्रः- भ्राजमानः। सूर्यः। इव। हिरण्यमिव- सुवर्णमिव। रोचते- भ्राजते।  देवानाम्- द्योतनशख्नीनाम्। श्रेष्ठः- उत्तमः। वसुः- चित्तवृत्तिस्तम्भकारकः। वसु स्तम्भे।  अस्माकमुपासकानां निवासभूतः। वस निवासे॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** रुद्रः **सूर्यः** इव **शुक्रः** सूर्यवद्दीप्तिमान् **हिरण्यमिव** **रोचते**। यथा सर्वेषां प्राणिनां हिरण्यं प्रीतिकरं भवति तथा रुद्रोऽपि । स च **देवानां** सर्वेषां मध्ये **श्रेष्ठः** **वसुः** निवासहेतुश्च ॥ रोचते ।  ‘ रुच दीप्तावभिप्रीत्यां च ' । अदुपदेशात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । श्रेष्ठः । प्रशस्यतरः । प्रशस्यशब्दात् इष्टनि प्रशस्यस्य श्रः' (पा. सू. ५. ३. ६० ) इति श्रादेशः । नित्त्वादाद्युदात्तत्वम् । वसुः । वासयति सर्वमिति वसुः । ‘वस निवासे' । अन्तर्भावितण्यर्थात् ' शृस्वृस्निहि°! इत्यादिना उप्रत्ययः ।  ‘ नित्' इत्यनुवृत्तेराद्युदात्तत्वम् ॥ ॥ २६ ॥
@@ -152,7 +155,6 @@ He who shines like the Venu, the sun, like gold,
 
 Some RV mantravAdin-s suggest replacing this incantation of kaNva in the midst of the long sUkta of gR^itsamada to rudra (A te pitar marutAm...), in place of the R^ik-s alluding to his fiercer tendencies.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -195,8 +197,6 @@ Der leuchtend wie die Sonne ist, der gute, der wie Gold erglänzt, Der beste all
 Яркое солнце, словно золото,  
 (Кто) лучший из богов, добрый.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

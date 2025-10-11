@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ऋजीषिः- आर्जवसम्पन्नः। तरुत्रः- तारकः। यः। शिप्रवान्-  शोभननासिकोपलक्षितप्राणसम्पन्नः। यः। मतीनाम्- शुद्धमननानाम्। वृषभः- वर्षकः। यः।  गोत्रभित्- गिर्युपलक्षितजडभेदकः। वज्रभृत्- वज्रपाणिः। हरिष्ठाः- प्राणाश्वस्थः। स त्वम्। ईम्-  एतं रसम्। पाहि- अनुभव। इन्द्र- ईशनाधिदैवत। वाजान्- अन्नानि। अभि- आभिमुख्येन।  तृन्धि- प्रकाशय॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ऋजीषी** । ऋजीषशब्देन गतरसः सोमोऽभिधीयते । तद्वान् **यः** त्वं **तरुत्रः** शत्रूणां तारकोऽसि **यः** त्वं **शिप्रवान्** शोभनहनुरसि **यः** त्वं **मतीनां** स्तोतॄणाम् ॥ मन्यतेः स्तुतिकर्मणः कर्तरि क्तिच् ॥ **वृषभः** कामानां वर्षितासि **सः** त्वम् **ईम्** एनं सोमं **पाहि** पिब । हे इन्द्र यस्त्वं **वज्रभृत्** वज्रधरः **यः** त्वं **गोत्रभित्** गोत्राणां पर्वतानां मेघानां वा भेत्तासि **यः** त्वं **हरिष्ठाः** हर्योः स्थातासि हे **इन्द्र** **सः** त्वं **चित्रान्** विचित्रान् **वाजान्** अन्नानि **अभि** **तृन्धि** अस्मभ्यं प्रकाशय ॥
@@ -270,8 +273,6 @@ who are the cowpen-splitter, the mace-bearer, who are the mounter of  fallow bay
 <details><summary>Jamison Brereton Notes</summary>
 
 Again I think the “drink!” imperative is semi-detached from the rest of the vs., a mere interruption of the sequence of rel. clauses with Indra as subj., which begins with a fully realized clause in 1cd and continues in 2abc with a set of five compressed definitional nominal clauses with an izafe-like feel.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -305,8 +306,6 @@ So trink ihn denn, vordringend du und siegreich, der gross an Lippen du der Anda
 Кто проломитель загона для коров, носитель ваджры, кто правит конями!  
 О Индра, пробуравь яркие награды!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

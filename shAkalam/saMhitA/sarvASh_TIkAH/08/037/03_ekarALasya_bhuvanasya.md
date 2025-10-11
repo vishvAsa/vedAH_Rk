@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। भुवनस्य- जगतः। एकराट्- एकस्वामी। राजसि- प्रकाशसे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शचीपते** **इन्द्र** **अस्य** **भुवनस्य** **एकराट्** एक एव राजा सन् **राजसि** भ्राजसे। सिद्धमन्यत् ॥
@@ -237,8 +240,6 @@ Als einz'ger König herrschst du über diese ganze Welt, o Herr der Kraft, mit a
 О безупречный,  
 Испей сомы, о громовержец!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वसो- शरण्य। मघवन्- सम्पद्वन्। गिर्वणः- गीर्भिः सम्भजनीय। शिक्षो- शिक्षक। इन्द्र-  परमेश्वर। त्वम्। यस्मै- येभ्यः। दाशुषे- दातृभ्यः। शिक्षसि- यच्छसि विद्यां ददासि वा।  अस्माकम्- तेषां नः। गिरः। उत- अपि च। सुष्टुतिम्- शोभनस्तुतिम्। कण्ववत्- मन्त्रविदामिव।  हवम्- आह्वानम्। शृणुधि- शृणु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -238,8 +241,6 @@ Welchem Verehrer du, o mächtiger, liedliebender Indra, o freigiebiger, Huld erw
 Наши песни и прекрасное восхваление, о благой,  
 Услышь, как у Канвы, (наш) призыв!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सपर्येण्यः- परिचरणीयः। सः- असौ। प्रियः- प्रेमभाजनभूतः। विक्षु- प्रजासु। अग्निः। होता-  देवाह्वाता। मन्द्रः- आनन्दकरः। यजीयान्- पूज्यः। निषसाद- उपविष्टवान्। तम्- अमुम्। त्वा-  भवन्तम्। वयम्। दमे- देवयजनसदने ऋते वा। यजा नो मित्रावरुणा यजा देवानृतं बृहत्। अग्ने  यक्षि स्वं दमम्॥ इति श्रुतेः ऋतमेवाग्नेः सदनम्। आ- आभिमुख्येन। दीदिवांसम्- दीप्तम्।  ज्ञुबाधः- जानुनी बाधयन्तः अवनतजानवः। नमसा- नमस्कारेण। उप सदेम- उपास्महे॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** **अग्निः** सपर्येण्यः पूज्यः **प्रियः** कामानां पूरकः विक्षु प्रजासु **होता** होमनिष्पादकः **मन्द्रः** मदनीयः **यजीयान्** अतिशयेन इतरदेवानां यष्टा यजनायो वा । एवं महानुभावोऽग्निः **नि** **षसाद** निषण्णोऽभूत् । अथ प्रत्यक्षकृतः। **तं** **त्वा** तादृशं त्वां वयं यजमानाः **दमे** गृहे **दीदिवांसं** दीप्यमानं **ज्ञुबाधः** जानुनी बाधयन्तः अवनतजानवः प्रणताः सन्तः नमसा स्तोत्रेण **उप** **आ** **सदेम** आसादयेम । अथवा उपासीदेमेत्येवमाशास्ते ॥
@@ -258,7 +261,6 @@ You, shining in our house, do we reverently approach, on bended knee,  with homa
 Pāda b hótā … ní ṣasāda yájīyān closely echoes 2a ádhā hótā ny àsīdo yájīyān. The opening of pāda c (as well as 7a), táṃ tvā, also matches 2c, and dīdivā́ṃsam of c matches the same adj. in 3d.
 
 Whatever the exact posture described by jñubā́dhaḥ (for detailed disc. see Scarlatta 343-45), the Engl. idiom “on bended knee” conveys the same sense of physical reverence.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -306,8 +308,6 @@ Der flehenswerthe, liebe Agni setzte sich in die Häuser hold als bester Opfrer;
 Тебе, такому пылающему в доме, мы  
 Хотим служить, преклонив колени, поклонением.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - प्रियमेध
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- अमुम्। ईम्- इमम्। इत्था- इत्थम्। नमस्विनः- नमस्कारयुख्नाः। स्वराजम्-  आत्मप्रकाशम्। उप आसते। अस्य- एतस्य। अर्थम्। सुधितम्- सुष्ठु धृतम्। एतवे- गमनाय।  दावने- दानार्थम्। आवर्तयन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तं** **घ** तं खलु **ईम्** एनमिन्द्रम् **इत्था** इत्थमनेन प्रकारेण **नमस्विनः** अन्नवन्तः स्तुतिवन्तो वाध्वर्य्वादयः **स्वराजं** स्वयं राजमानं वा **उप** **आसते** सेवन्ते । तथा कृत्वा **अर्थं** **चित्** अरणीयं धनं **सुधितं** सुष्ठु स्थापितम् **अस्य** इन्द्रस्य संबन्धिनं प्राप्नुवन्तीति शेषः । कदेति आह । **यत्** यदा **एतवे** अस्येन्द्रस्य गमनाय स्वयं प्राप्तुं वा **दावने** हविर्दानाय **आवर्तयन्ति** स्तुतयः तदेत्यर्थः । अथवाश्वा वावर्तयन्ति तदेत्यर्थः ॥
@@ -245,10 +248,6 @@ Ihn erwarten sie hier unter Verbeugungen, den Selbstherrscher. Sein Zweck ist so
 
 Denn ihn vor allem, den selbststrahlenden [Indra] verehren die Anbetungsvollen; all sein Werk ist wol eingerichtet, wenn sie ihn herwenden, dass er schenke.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

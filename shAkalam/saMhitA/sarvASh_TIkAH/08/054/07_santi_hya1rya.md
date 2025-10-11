@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्ये- आर्यशीले। इन्द्रे- परमेश्वरे। आयुः आशिषः। सन्ति- भवन्ति। हि- खलु। मघवन्-  इन्द्र। अस्मान्- नः। अवसे- रक्षायै। नक्षस्व- व्याप्नुहि। पिप्युषीम्- पालयित्रीम्। इषम्-  सदेषणाम्। धुक्षस्व॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -221,8 +224,6 @@ Zum treuen Indra geht der Wunsch der Menschen hin um Lebenskraft. O reicher, kom
 К нам приди, о щедрый, для помощи!  
 Дай надоить набухшей жертвенной услады!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

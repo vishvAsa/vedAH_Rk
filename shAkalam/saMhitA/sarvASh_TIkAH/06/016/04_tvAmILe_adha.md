@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। त्वाम्। भरतः- निर्वाहकः सन्। द्विता शुनम्- अभ्युदयनिःश्रेयसात्मकं सुखमुद्दिश्य।  त्वाम्। वाजिभिः- प्राणतुरगैः। ईळे- स्तौमि। यज्ञेषु। यज्ञियम्- पूज्यम्। ईजे- पूजयामि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **त्वां** **भरतः** दौष्यन्तिरेतत्संज्ञो राजा **वाजिभिः** । वाजो हविर्लक्षणमन्नम् । तद्वद्भिः ऋत्विग्भिः सह **द्विता** द्विविधमिष्टप्राप्त्यनिष्टपरिहाररूपेण द्विधा भिन्नं **शुनं** सुखमुद्दिश्य **ईळे** स्तुतवान्। स्तुत्वा च **यज्ञियं** यज्ञार्हं त्वां **यज्ञेषु** । तृतीयार्थे सप्तमी । यज्ञैः **ईजे** इष्टवान् । तस्मै त्वम् उभयविधं सुखं प्रादा इत्यर्थः ॥
@@ -166,8 +169,6 @@ Klein (DGRV II.122) ascribes “logical conjunctive value ‘therefore’” to 
 In b bharató vājíbhiḥ “Bharata with his prize-winner” is an untranslatable pun on the poet’s name Bharad-vāja, whose name appears in the next vs. (5c).
 
 The ritualistic verbs īḷe ‘reverently invoke’ (a) and ījé ‘sacrifice’ (c) are exact rhymes (save for accent). I take them here as 3rd sg. , as do Geldner and Renou Although the 3rd sg. to the former stem is usually īṭṭ́ e with īḷ ́ e the 1st sg., in this context a 3rd sg. reading is favored, and the lack of accent on īḷe allows it to be drawn into the morphological orbit of the pf. ījé (cf. 3rd sg. perfect-accented īḍé in IV.3.3). Kümmel (389), flg. Tichy, takes both verbs as 1st sg., which is equally possible, as long as Bharata is referring to himself by name: “You do I, Bharata, reverently invoke …”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -201,8 +202,6 @@ Dich pries zum Heil einst Bharata und mit den reichen opferte Bei Opfern er, dem
 Он жертвовал жертвы достойному жертв.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -218,7 +217,7 @@ Dich pries zum Heil einst Bharata und mit den reichen opferte Bei Opfern er, dem
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वन् ! जैसे मैं (यज्ञेषु) समागमरूप यज्ञों में (यज्ञियम्) यज्ञ करने योग्य (त्वाम्) आप विद्वान् की (ईळे) प्रशंसा करता हूँ (अध) इसके अनन्तर (द्विता) दो पढ़ाने और पढ़नेवाले वा उपदेश करने वा उपदेश पाने योग्यों का (भरतः) धारण और पोषण करनेवाला मैं (वाजिभिः) विज्ञानादिकों से (शुनम्) सुख की (ईजे) सङ्गति करता हूँ, वैसे आप सङ्गति कीजिये ॥४॥
+पदार्थान्वयभाषाः -  हे विद्वन् ! जैसे मैं (यज्ञेषु) समागमरूप यज्ञों में (यज्ञियम्) यज्ञ करने योग्य (त्वाम्) आप विद्वान् की (ईळे) प्रशंसा करता हूँ (अध) इसके अनन्तर (द्विता) दो पढ़ाने और पढ़नेवाले वा उपदेश करने वा उपदेश पाने योग्यों का (भरतः) धारण और पोषण करनेवाला मैं (वाजिभिः) विज्ञानादिकों से (शुनम्) सुख की (ईजे) सङ्गति करता हूँ, वैसे आप सङ्गति कीजिये ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

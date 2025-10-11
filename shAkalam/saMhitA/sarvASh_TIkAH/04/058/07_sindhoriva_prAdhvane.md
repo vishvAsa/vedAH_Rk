@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सिन्धोः- नद्याः। शूघनासः- आशुगन्त्र्य आपः। न- इव। वातप्रमियः- वायुवेगाः। यह्वाः-  महत्यः। घृतस्य धाराः- घृताख्यज्ञानप्रकाशधाराः। अरुषः- रोचमानः। वाजी- अश्वः। न- इव।  काष्ठाः- आवारकाणि। भिन्दन्। पिन्वमानः- वृद्धमुदकमिव। पतयन्ति- सरन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सिन्धोः** स्यन्दमानाया नद्याः सकाशात् **इव** उदकानीव **प्राध्वने** प्रवणवति देशे **शूघनासः** आशुगन्त्र्यः ।  ‘ आशु इति च शु इति च क्षिप्रनामनी भवतः ' ( निरु. ६. १ ) इति निरुक्तम् । **वातप्रमियः** वायुवत् प्रकृष्टवेगाः **यह्वाः** महत्यः **घृतस्य** **धाराः** **पतयन्ति** गच्छन्त्यग्नेरुपरि । घृतमुदकमिति पक्षे सिन्धोरिवेत्यत्र इवशब्दोऽनर्थकः । स्यन्दनसाधनादन्तरिक्षादुक्तलक्षणा घृतधारा उदकधाराः पतयन्ति गच्छन्ति भूमौ । किंच घृतसंस्त्यायः **काष्ठाः** मर्यादाभूतान् परिधीन् **भिन्दन्** **ऊर्मिभिः** रसैः **पिन्वमानः** वर्धमानो भवति । उदकमिति पक्षे काष्ठाः क्रान्त्वा स्थिता दिशो भिन्दन्नूर्मिभिः तरङ्गैः पिन्वमानो भवति । तत्र दृष्टान्तः । **अरुषो** **न** **वाजी** आरोचमानो गर्वेण गमनशीलोऽश्व इव । स यथा भिन्दन् पिन्वमानश्च भवति तद्वत् ॥
@@ -223,8 +226,6 @@ A difficult verse, primarily because of the two hapaxes, śūghanā́saḥ and v
 As for vā́tapramiyaḥ, there is no question about its component parts, merely about how they fit together. -pramiyaḥ patterns with the nearby forms IV.54.4 pramíye (‘to be violated’) and IV.55.7 pramíyam (‘to violate’). It also strongly recalls I.24.6 ná yé vā́tasya praminánti ábhvam “nor those [=the gods] who confound the wind’s formless mass.” As Oldenberg points out, this latter passage fixes the interpr. of our cmpd.: the first member must be functionally the object of the 2nd. The problem is the accent; it should be a bahuvrīhi, not a tatpuruṣa. See, however, Scarlatta (388), who suggests a plausible bahuvrīhi interpr. ‘die Schmälerung des Windes habend’, with the first member essentially an objective genitive. The point is that the speed and violence of the streams are stronger than those of the wind, which is thus confounded.
 
 I read kā́ṣṭhā(ḥ) in both simile and frame: in the simile it refers to the wooden barriers of the race-course that the horse splits in his speeding around the course, in the frame to sticks floating in the current of the streams and split (against rocks vel sim.) by the violent speed of that current. (Of course the “frame” here is itself metaphorical, since these are streams of ghee, not actual watercourses.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
@@ -261,8 +262,6 @@ Die schnellen fliegen wie im Sturz des Stromes, hinschiessend rascher als des Wi
 Ломающий преграды, набухая волнами.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः सूर्यो वाऽपो वा गावो वा घृतं वा
@@ -278,12 +277,12 @@ Die schnellen fliegen wie im Sturz des Stromes, hinschiessend rascher als des Wi
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (पिन्वमानः) प्रसन्न करता हुआ मैं जैसे (शूघनाशः) शीघ्रगामिनी (यह्वाः) बड़ी (वातप्रमियः) वायु को मापनेवाली और (प्राध्वने) उत्तम प्रकार से चलने योग्य मार्ग के लिये (सिन्धोरिव) नदियों के अर्थात् नदियों की तरङ्गों के समान (पतयन्ति) पति के सदृश आचरण करती हैं तथा (अरुषः) लाल रूपवाले (वाजी) घोड़ों के (न) सदृश (घृतस्य) जल की (धाराः) धारा (ऊर्म्मिभिः) तरङ्गों से (काष्ठाः) दिशाओं के समान तटों को (भिन्दन्) विदीर्ण करती हैं, वैसे उपदेशों की वृष्टि करके अविद्याओं का नाश करता हूँ ॥७॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (पिन्वमानः) प्रसन्न करता हुआ मैं जैसे (शूघनाशः) शीघ्रगामिनी (यह्वाः) बड़ी (वातप्रमियः) वायु को मापनेवाली और (प्राध्वने) उत्तम प्रकार से चलने योग्य मार्ग के लिये (सिन्धोरिव) नदियों के अर्थात् नदियों की तरङ्गों के समान (पतयन्ति) पति के सदृश आचरण करती हैं तथा (अरुषः) लाल रूपवाले (वाजी) घोड़ों के (न) सदृश (घृतस्य) जल की (धाराः) धारा (ऊर्म्मिभिः) तरङ्गों से (काष्ठाः) दिशाओं के समान तटों को (भिन्दन्) विदीर्ण करती हैं, वैसे उपदेशों की वृष्टि करके अविद्याओं का नाश करता हूँ ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जिन विद्वानों के नदियों के प्रवाह सदृश उत्तम उपदेश प्रचरित होते और घोड़ों के समान दुःखों के पार कराते हैं, वे ही बड़े श्रेष्ठ पुरुष हैं ॥७॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जिन विद्वानों के नदियों के प्रवाह सदृश उत्तम उपदेश प्रचरित होते और घोड़ों के समान दुःखों के पार कराते हैं, वे ही बड़े श्रेष्ठ पुरुष हैं ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

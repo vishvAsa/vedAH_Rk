@@ -3,7 +3,6 @@ title = "051"
 devataa = "सूर्यः पर्जन्या अग्नयो वा"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 etát ← eṣá (pronoun)  
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतत्। उदकम्- जलम्। समानम्- एकमेव। उत् च- ऊर्ध्वं च। अव च- अधस्तात् च। अहभिः-  अहोभिः। एति- चरति। पर्जन्याः- वृष्टयः। भूमिम्- पृथिवीम्। जिन्वन्ति- प्रीणयन्ति। दिवम्-  आकाशम्। अग्नयः- औपासनाग्नयः। जिन्वन्ति॥५१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एतत्** प्रसिद्धम् **उदकं** **समानम्** एकरूपमित्यर्थः । **अहभिः** कैश्चिदहोभिः ग्रीष्मकालीनैः **उच्चैति** उर्ध्वं गच्छति । तथा अहभिः **वर्षकालीनैरेव** तदुदकम् **अव** **च** एति अवाङ्मुखं च गच्छति ॥ ‘चवायोगे प्रथमा ' इति प्रथमा विभक्तिर्न निहन्यते ॥ रश्मिनाड्यैव भूमिं प्राप्नोति । तदेवोच्यते । **पर्जन्याः** प्रीणयितारो मेघाः **भूमिं** **जिन्वन्ति** उदकसंस्त्यायेन सस्याद्युत्पादनद्वारा भूमिष्ठान् प्रीणयन्ति । तथा **अग्नयः** आहवनीयाद्याः स्वे हुते आहुत्या **दिवं** द्युलोकस्थान् देवान् **जिन्वन्ति** प्रीणयन्ति ।
@@ -229,8 +232,6 @@ Dies allen gemeinsame Wasser steigt auf und kommt herab im Lauf der Tage; die Er
 Землю дожди оживляют.  
 Небо оживляют огни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

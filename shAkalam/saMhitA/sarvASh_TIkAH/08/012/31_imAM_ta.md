@@ -3,7 +3,6 @@ title = "031"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जामिम्- बन्धुम्। पदेव- उत्कृष्टानि पदानि प्रापयतीव। इन्द्र। इमाम्- एताम्। ते- तव। पिप्रतीम्-  प्रीणयित्रीम्। सुष्टुतिम्- शोभनस्तुतिम्। विप्रः- मेधावी। धीतिभिः- धीभिः। अध्वरे-  ध्वरविरोधकर्मणि सर्वभूतहितकर्मणि। प्र इयर्ति- प्रेरयति॥३१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **विप्रः** मेधावी स्तोता **अध्वरे** यज्ञे **इमां** पुरोवर्तिनीं **पिप्रतीं** पूजयन्तीं प्रीणयन्ती वा सुष्टुतिं शोभनां स्तुतिं **धीतिभिः** कर्मभिः परिचरणैः सार्धं **ते** त्वां **प्र** **इयर्ति** प्रेरयति प्रगमयति । **जामिं** **पदेव** यथा बन्धुभूतं पुरुषमुत्कृष्टानि पदानि स्थानानि प्रापयति तद्वत् ॥
@@ -191,8 +194,6 @@ The inspired poet, through his insights, raises this good praise to you, Indra, 
 Pāda c presents some difficulties of interpretation, in particular how to distribute the three accusatives jāmím, padā́, and pípratīm. The last, a participle, takes padám as object in IX.10.7 (adduced by both Oldenberg and Geldner): padám ékasya píprataḥ “guiding the track of the lone one safely across.” But it also takes personal objects, as in nearby VIII.6.2 prajā́m rtásya p ̥ íprataḥ “guiding the child of truth [=poem] safely across.” I therefore take it as a semantically mixed construction, with jāmím ‘kin’ (which in this case, as in VIII.6.2, would be a poem or hymn) in the frame and ‘footsteps’ in the simile. By contrast, Geldner takes jāmím as the subject of the simile, parallel to suṣṭutím: “die wie eine Schwester deine Schritte geleitet.” His interpretation reads better, but ignores the position of iva and also the contrasting constructions of the participle píprat- elsewhere. By my interpretation the point is that the suṣṭutí- produced in ab takes the rest of the verbal portion of the sacrifice along with it to the god.
 
 I take the refrain prā́dhvaré as a (quasi) locative absolute, as in VIII.46.18, rather than as integrated into what precedes.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
@@ -225,8 +226,6 @@ Dies Preislied bringt, o Indra, dir der Sänger dar mit frommem Sinn, Das schwes
 Вдохновенный (певец) воссылает с молитвами,  
 (Ту, что) как родная сестра, направляющая шаги (твои) во время обряда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

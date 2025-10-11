@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्वर्विदा- स्वर्गज्ञेन। नाभिना- बन्धनेन ध्यानेन। अयम्- एषः। रुचानः- दीप्तः। अरुचः-  अन्धकारमयान्यज्ञानमयानि चित्तानि। रोचयत्- ज्ञानेनोद्दीपयति। ऋतेन- प्रकृतिनियतिभूतसत्येन।  पूर्वीः पुराणीरुषसः। अयम्। वि वासयत्- व्यापयति। ऋतयुग्भिः- प्रकृतिनियतिभूतसत्याख्यरथे  योजितैः। अश्वैः- प्राणतुरगैः। अयम्। चर्षणिप्राः- प्रजापूरकः। ईयते- सरति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयम्** इन्द्रः **रुचानः** रोचमानः सूर्यात्मना दीप्यमानः **अरुचः** प्रकाशरहितान् तमसा मलीमसान् सर्वलोकान् **रोचयत्** प्रकाशयति । तथा **पूर्वीः** बह्वीरुषसश्च **अयम्** इन्द्रः **ऋतेन** सत्यभूतेन सर्वत्र गमनशीलेन वा तेजसा **वि** **वासयत** व्यापयति । तत्रत्यानि तमांसि निवर्तयतीत्यर्थः । तथा **ऋतयुग्भिः** ऋतेन स्तोत्रेण युज्यमानैः **अश्वैः** **नाभिना** संनद्धेन **स्वर्विदा** सुष्ट्वरणीयस्य धनस्य लम्भकेन रथेन **चर्षणिप्राः** चर्षणीनां मनुष्याणां कामैः पूरयिता सन् **अयम्** एवेन्द्रः **ईयते** गच्छति ॥
@@ -226,8 +229,6 @@ Whether the referent of the ‘unshining’ (arúcaḥ) is the same as that of t
 Geldner (explicitly n. 2b) considers ṛtayúj- here as having a different sense from the same cmpd. in vs. 2: “mit dem Recht im Bunde” (2b) versus “mit den rechtzeitig geschirrten Rossen” (4c). Even if ṛtá- ever had the sense ‘timely, punctual’ (which it does not), it is inconceivable to me that in a hymn of this length, the poet would use the same cmpd. in two very different senses, within two vss. of each other and marking the boundaries of an omphalos. Schmidt (149) also considers this unlikely, though he attributes the contrary view to Lüders, who, as far as I can see, doesn’t hold it or at least explicitly state it; Scarlatta (425) temporizes in his disc., though he tr.
 
 the other three instances of ṛtayúj- (incl. our vs. 4), all modifying ‘horses’, with the anodyne ‘wohlgeschirrten’, as opposed to our vs. 2, which he renders ‘der Verbündete des Ṛta’ -- in other words, implicitly following Geldner’s differentiation. I would alter the published translation from “whose yoke is truth” to “yoked with truth,” as in vs. 2.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
@@ -266,8 +267,6 @@ Die lichtlos waren, machte licht der lichte, nach heil'gem Brauch erhellte er di
 Со ступицей, находящей солнце, (он) переполняющий народы.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -283,7 +282,7 @@ Die lichtlos waren, machte licht der lichte, nach heil'gem Brauch erhellte er di
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वन् जनो ! जैसे (अयम्) यह (अरुचः) प्रकाश से रहित चन्द्र आदिकों को (रुचानः) प्रकाशित करता हुआ सूर्य्य सम्पूर्ण जगत् को (रोचयत्) प्रकाशित करता है, वैसे विद्या से सब मनुष्यों को प्रकाशित करिये जैसे (अयम्) यह सूर्य्य (ऋतेन) जल के सदृश सत्य से (पूर्वीः) पहिले उत्पन्न हुए प्रजाओं को (वि, वासयत्) विशेष वसाता है, वैसे सम्पूर्ण प्रजाओं को सत्य विज्ञान से संयुक्त करिये और जैसे (अयम्) यह सूर्य्य (ऋतयुग्भिः) जल के युक्त करनेवालों से (अश्वैः) महान् शीघ्रगामी किरणों और (स्वर्विदा) सुखको जानते हैं जिससे उस (नाभिना) मध्य के आकर्षण आदि बन्धन से (चर्षणिप्राः) विद्या आदि गुणों से मनुष्यों के प्रति व्याप्त होनेवाला हुआ (ईयते) जाता है, वैसे सत्य के युक्त करानेवाले बड़े गुणों से सुख देनेवाले आत्मा के आकर्षण से और वक्तृत्व से श्रोताओं को व्याप्त होते हुए जहाँ तहाँ जाइये ॥४॥
+पदार्थान्वयभाषाः -  हे विद्वन् जनो ! जैसे (अयम्) यह (अरुचः) प्रकाश से रहित चन्द्र आदिकों को (रुचानः) प्रकाशित करता हुआ सूर्य्य सम्पूर्ण जगत् को (रोचयत्) प्रकाशित करता है, वैसे विद्या से सब मनुष्यों को प्रकाशित करिये जैसे (अयम्) यह सूर्य्य (ऋतेन) जल के सदृश सत्य से (पूर्वीः) पहिले उत्पन्न हुए प्रजाओं को (वि, वासयत्) विशेष वसाता है, वैसे सम्पूर्ण प्रजाओं को सत्य विज्ञान से संयुक्त करिये और जैसे (अयम्) यह सूर्य्य (ऋतयुग्भिः) जल के युक्त करनेवालों से (अश्वैः) महान् शीघ्रगामी किरणों और (स्वर्विदा) सुखको जानते हैं जिससे उस (नाभिना) मध्य के आकर्षण आदि बन्धन से (चर्षणिप्राः) विद्या आदि गुणों से मनुष्यों के प्रति व्याप्त होनेवाला हुआ (ईयते) जाता है, वैसे सत्य के युक्त करानेवाले बड़े गुणों से सुख देनेवाले आत्मा के आकर्षण से और वक्तृत्व से श्रोताओं को व्याप्त होते हुए जहाँ तहाँ जाइये ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

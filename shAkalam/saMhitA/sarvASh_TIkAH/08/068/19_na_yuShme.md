@@ -3,7 +3,6 @@ title = "019"
 devataa = "ऋक्षाश्वमेधयोर्दानस्तुतिः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजबन्धवः- हे अन्नदातारः। युष्मे- युष्मासु। निनित्सुः- निन्दकः। चन- च। मर्त्यः। अवद्यम्-  दोषम्। न। अधि दीधरत्- आरोपयति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वाजबन्धवः** अन्नबन्धवोऽन्नप्रदाः । एवं पुत्राणां पितृपुत्ररूपाणां षण्णां वा संबोधनम् । हे राजानः **युष्मे** युष्मासु **निनित्सुश्चन** निन्दकोऽपि **मर्त्यः** मनुष्यः **अवद्यं** निन्दा **न** **अधि** **दीधरत्** नान्वधारयत्। नारोपयति युष्मासु । अतोऽनिन्द्या यूयमिति दातॄणां स्तुतिः ॥ ॥ ४ ॥
@@ -166,10 +169,6 @@ Auch ein tadelsüchtiger Mensch soll euch, ihr Beutegenossen, keinen Tadel anhä
 
 Nicht kann auf euch, o Kampfgenossen, selbst ein tadelsüchtiger Sterblicher einen Vorwurf bringen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

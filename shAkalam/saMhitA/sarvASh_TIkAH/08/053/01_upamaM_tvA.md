@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषभाणाम्- वर्षकाणाम्। ज्येष्ठम्- पूर्व्यम्। मघोनाम्- सम्पद्वताम्। उपमम्- उपमानम्। त्वा-  त्वाम्। पूर्भित्तमम्- अतिशयेन बन्धनाशकम्। मघवन्- सम्पद्वन्। इन्द्र- परमेश्वर। गोविदम्-  चिद्रश्मिज्ञम्। ईशानम्- ईश्वरम्। रायः- सम्पदः। ईमहे- याचामहे॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -213,8 +216,6 @@ Als herrlichsten der Mächtigen, und als der Stiere trefflichsten, Als Reichthum
 Лучше всех проламывающего крепости, о щедрый Индра, находящего коров,  
 Владыку мы просим о богатствах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

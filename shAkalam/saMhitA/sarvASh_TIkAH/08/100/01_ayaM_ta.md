@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -251,6 +249,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषोऽहम्। ते- तव। पुरस्तात्- अग्रतः। तन्वा- मद्देहेन। एमि- यामि। विश्वे- सर्वे।  देवाः। पश्चात्- अनन्तरम्। मा- माम्। अभि यन्ति- अभिगच्छन्ति। इन्द्र। यदा। मह्यम्- मे।  भागम्। दीधरः- अधारयः। आदित्- अनन्तरमेव। तदेति भावः। मया- मद्द्वारा मया सह वा।  वीर्याणि। कृणवः- कुरु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** तव **पुरस्तात्** अग्रतः **तन्वा** पुत्रेण सह **अयम्** अहम् **एमि**। शत्रूनभिभवितुं गच्छामि । तवाग्रतो गच्छन्तं मां **विश्वे** **देवाः** त्वया सह **पश्चात्** **अभि** **यन्ति** अभिगच्छन्ति । **यदा** त्वं **मह्यं** भार्गवाय नेमाय **भागं** शत्रुषु स्थितं भागं **दीधरः** धारयसि **आदित्** अनन्तरमेव **मया** सह मच्छत्रूञ्जेतुं **वीर्याणि** पौरुषाणि **कृणवः** कुरु । यदि शत्रुषु स्थितं धनं मह्यं दित्ससि तर्हि शत्रुजयार्थं गच्छतः सपुत्रस्य मम साहाय्यं कुर्विति भावः ॥
@@ -278,8 +281,6 @@ When you will have secured a portion for me, Indra, only after that will  you pe
 <details><summary>Jamison Brereton Notes</summary>
 
 I take dī́dharaḥ as the subjunctive of the redupl. aor., whose indicative forms are generally athematic (dīdhar, etc., though cf. augmented thematic ádīdharat in the very late hymn X.173.3). The sequence yadā́… dī́dharaḥ …, ā́d íd … kṛṇavaḥ with aorist subjunctive in the protasis and present subjunctive in the apodosis seems a rough-and-ready attempt to express anteriority (“when you will [have] …, only after that will you …”) in a language that does not, as far as I can see, have either a formalized system of sequence of tense in conditionals or a standard way to express anteriority with finite verb forms (as opposed to participles and, somewhat later, the gerund).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -316,8 +317,6 @@ Ich hier gehe in eigener Person dir voran, alle Götter folgen mir hinterdrein. 
 О Индра, вот тогда ты совершишь со мною подвиги.  
 Индра:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अवस्युरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। यत्- यदा। वृष्णे- वर्षकाय। ते- तुभ्यम्। ये। पवयः- पवमाना मरुतः। अनश्वासः  अरथाः- यद्यप्यसहायास्तथापि। इन्द्रेषिताः- इन्द्रप्रेरिताः। दस्यून्- स्तेनान् स्वार्थैकपरान्।  अभ्यवर्तन्त- अजयन्। ते। वृषणः- वर्षका मरुतः प्राणविशेषा वायवो वा। अर्कं- मन्त्रम्। अर्चान्-  अब्रुवन्। तदा। ग्रावाणः- अभिषवपाषाणाः स्थैर्यप्रतीकाः। अदितिः- अखण्डप्रकृतिश्च। सजोषाः-  मरुद्भिर्भवत्कीर्तने सङ्गताः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **यत्** यदा **वृषणः** सेचनसमर्था मरुतः **वृष्णे** कामानां वर्षित्रे **ते** तुभ्यम् **अर्कं** स्तोत्रम् **अर्चान्** अस्तुवन् अकुर्वन्नित्यर्थः । तदा **अदितिः** अदीनाः ॥ वचनव्यत्ययः ॥ 
@@ -277,8 +280,6 @@ I take níṣattam as proleptic, depicting Vṛtra’s position after the action
 
 In b I supply ‘thinking himself’ with amarmáṇaḥ on the basis of 3c and of the almost identical III.32.4cd … viveda, amarmáṇo mányamānasya márma. The verb in b, vidát, is accented because of the following íd (see Grassmann s.v. íd 5, though there are fewer clear examples than he presents, since many of them are also pāda-initial). The Indra-reference shifts from 3rd to 2nd between the first and second hemistich, but this is scarcely novel.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -303,7 +304,6 @@ When heroes sang their laud to thee the Hero, Indra! and stones and Aditi accord
      Without or steed or chariot were the fellies which, sped by Indra, rolled upon the Dasytis.
 </details>
 
-
 <details><summary>Keith</summary>
 
 What time the strong sang praise to the strong,  
@@ -311,7 +311,6 @@ O Indra, the stones and Aditi in unison,
 Without steeds or chariots were the fellies  
 Which, sped by Indra, rolled against the Dasyus.
 </details>
-
 
 <details><summary>Geldner</summary>
 
@@ -331,8 +330,6 @@ Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der
 Посланные Индрой, наехали на дасью.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -348,7 +345,7 @@ Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) दुष्ट दलों के नाश करनेवाले राजन् ! (यत्) जिन (वृष्णे) वृष्टि करनेवाले (ते) आपके लिये (अर्कम्) सत्कार करने योग्य का प्रजाजन (अर्चान्) सत्कार करें वह जैसे (वृषणः) वर्षा के निमित्त (ग्रावाणः) मेघ और (सजोषाः) समान प्रीति का सेवन करनेवाला और (अदितिः) अन्तरिक्ष वर्त्तमान हैं, वैसे हूजिये और (ये) जो (अरथाः) वाहनों से रहित (अनश्वासः) घोड़ों से रहित (इन्द्रेषिताः) स्वामी से प्रेरणा किये गये (पवयः) चक्र (दस्यून्) दुष्ट चोरों के (अभि) सन्मुख (अवर्त्तन्त) वर्त्तमान हैं, उनका आप निरन्तर सत्कार कीजिये ॥५॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) दुष्ट दलों के नाश करनेवाले राजन् ! (यत्) जिन (वृष्णे) वृष्टि करनेवाले (ते) आपके लिये (अर्कम्) सत्कार करने योग्य का प्रजाजन (अर्चान्) सत्कार करें वह जैसे (वृषणः) वर्षा के निमित्त (ग्रावाणः) मेघ और (सजोषाः) समान प्रीति का सेवन करनेवाला और (अदितिः) अन्तरिक्ष वर्त्तमान हैं, वैसे हूजिये और (ये) जो (अरथाः) वाहनों से रहित (अनश्वासः) घोड़ों से रहित (इन्द्रेषिताः) स्वामी से प्रेरणा किये गये (पवयः) चक्र (दस्यून्) दुष्ट चोरों के (अभि) सन्मुख (अवर्त्तन्त) वर्त्तमान हैं, उनका आप निरन्तर सत्कार कीजिये ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चित्र- असाधारण। अद्रिवः- वज्रिन्। विदद्वसो- सम्पल्लम्भक। इन्द्र- परमेश्वर। यत्- या।  त्वादातम्- त्वद्दत्ता। मेहना- मंहनीया। राधः- संसिद्धिः। अस्ति- भवति। तत्- ताम्।  उभयाहस्ति- उभाभ्यां हस्ताभ्याम्। आ भर- आहर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेइन्द्र हेचित्र चायनीय हेअद्रिवोवज्रवन् यत् मेहनामेहनीयं त्वादातं त्वयादातव्यं राधोधनमस्ति तद्धनं हेविदद्वसो लब्धधनेन्द्र नोस्मभ्यं उभयाहस्ति उभाभ्यांहस्ताभ्यां आभर आहर अत्र यदिन्द्रचित्रचायनीयम्मंहनीयन्धनमस्तीत्यादिनिरुक्तन्द्रष्टव्यम् ॥ १ ॥
@@ -204,8 +207,6 @@ What is given by you in profusion, bright Indra, possessor of the stone, that la
 The poet re-uses mehánā from V.38.3 and rā́dhaḥ from V.38.1, as well as adrivaḥ (though that voc. is quite common in this run of hymns). Because of their commitment to mehánā as ‘rain’ in 38.3, Witzel Gotō are forced to insert rain here, though the context is hardly favorable.
 
 The Pp. reads ubhayāhastí with short -í, which is assigned to an -i-stem by Grassmann, as a neut. modifying rā́dhaḥ, though he also suggests that it might be read -ī́, as the masc. nom. sg. of an -ín-stem. The latter works better morphologically than the former: hastín- is well attested and well formed, whereas there is no straight -i-stem hastí- and no easy mechanism for producing one -- though a nonce back-formation from the well-formed adj. -hasti ya- might be possible. See esp. ubhayāhasti yā́vásu in I.81.7. (A neut. to the -ín-stem would likewise probably come out as -í, and this may be an easier solution). I nonetheless tentatively suggest that ubhayāhastí here (if that is the reading) might be compared with the problematic dakṣiṇít ‘with the right (hand)’ in nearby V.36.4, which appears in the same kind of context, concerns hands, and has a problematic suffixal short -i-, followed there by a morphologically mysterious dental final.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -238,8 +239,6 @@ Welch Gut dir, Indra, reichlich ist, das du verschenkst, o Schleuderer, O lichte
 Ты его нам, о находящий блага,  
 Принеси обеими руками!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

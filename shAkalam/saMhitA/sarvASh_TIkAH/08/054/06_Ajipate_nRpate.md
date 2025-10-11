@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आजिपते- सेनापते। नृपते- नृणां पालक। सुक्रतो- सुसङ्कल्प। त्वम्। होत्राभिः- वाग्भिः। उत-  अपि च। देववीतिभिः- हव्यैः। वीती- भोख्ना सन्। हि- खलु। नः- अस्मान्। वाजे- युद्धे। आ  वक्षि- आवहसि। ससवांसः- हव्यवन्तो यजमानाः। वि- विशेषेण। शृण्विरे- श्रूयन्ते॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -258,8 +261,6 @@ O Schlachtenherr, o Männerherr, vielwirkender, zu unserm Opfer fahre du; Durch 
 Жертвенным угощением, возлияниями и приглашениями богов  
 Они прославились как достигшие цели.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

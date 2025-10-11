@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 áyamānaḥ ← √i- 2 (root)  
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मनोजवाः- मनोवेगः। अयमानः- गतिशीलः। आयसीम्- अयोमयीम्। पुरम्- पुरीं  बन्धनप्रतीकभूताम्। अतरत्- अतारीत्। सुपर्णः- मुमुक्षाप्रतीकपक्षी। दिवम्- चिदाकाशम्।  गत्वाय- गत्वा। सोमम्- अध्यात्मरसम्। वज्रिणे- ईशनाधिदैवतप्रोत्साहनाय। आभरत्-  आहरत्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुपर्णः** गरुत्मान् **मनोजवाः** मनोवेगः **अयमानः** गच्छन् **आयसीं** हिरण्मयीं **पुरं** नगरीम् **अतरत्** अतारीत्। ततः **दिवं** स्वर्गं **गत्वाय** गत्वा **वज्रिणे** इन्द्राय **सोमम्** **आभरत्** आहरच्च ॥
@@ -186,8 +189,6 @@ The fine-feathered (falcon), having gone to heaven, brought the soma to  the mac
 <details><summary>Jamison Brereton Notes</summary>
 
 The stealing of the soma treated here logically precedes the outcome of the Vṛtra battle treated in 7 and 9, since Indra needed to drink the soma in order to fight Vṛtra, as is well known. I suggest that the theft is intercalated here, between two hemistichs about the vájra- (7cd, 9ab), not only because Rigvedic narratives are famously shattered chronologically, but also to play a trick. The vajrá- was let fly (a in 7d (apīpatat); in the next half-verse (8ab) the unspecified subject goes at the speed of thought. The default assumption would be that it is the flying mace, but cd disappoints our expectations by introducing the bird and the familiar soma-theft.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -221,8 +222,6 @@ Der gedankenschnelle Adler durchdrang eilend die eherne Wolkenburg, und als er z
 Попав на небо, орел  
 Принес сому громовержцу
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

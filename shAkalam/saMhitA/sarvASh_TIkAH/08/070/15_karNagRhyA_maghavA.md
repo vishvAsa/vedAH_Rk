@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "पुरउष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पुरउष्णिक्"
 - ऋषिः - पुरुहन्मा
 - छन्दः - पुरउष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अजाम्- प्रकृतिम्। सूरिः- विद्वान्। धातवे- धारणायै। न- इव। कर्णगृह्य- कर्णे गृहीत्वा। त्रिभ्यः-  शत्रुभ्यस्त्रिभ्यः। मघवा- इन्द्रः। नः- अस्मभ्यम्। वत्सम्- शाबं चिद्रश्मिप्रतीकम्। शौरदेव्यः-  शूरदेवसम्बन्धम्। आनयत्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **मघवा** इन्द्रः **त्रिभ्यः** हिंसकेभ्यः सकाशात् **शौरदेव्यः** । दीव्यन्ति क्रीडन्त इति देवा योद्धारः। शूराश्च ते देवाश्च शूरदेवाः । तेषां हितं शौरदेवं युद्धम्। तत्संबन्धिन्यो गाः। युद्धे शत्रून् हत्वा तत्संबन्धिन्य इत्यर्थः । ताः **वत्सं** **न** । नेति चार्थे। वत्ससहिता अस्मभ्यं **कर्णगृह्य** कर्णे गृहीत्वा **आनयत्** आनयतु । **सूरिर्न** प्रेरकः स्वामीव **धातवे** पानाय **अजां** यथा स आनयति कर्णे गृहीत्वा तद्वदिति ॥ ॥ १० ॥
@@ -203,10 +206,6 @@ Der freigebige Sohn des Suradeva führte uns dreien ein Kalb zu, an den Ohren es
 
 Bei den Ohren es ergreifend, führte uns dreien der Spross des Çuradeva, der reiche, je ein Kalb zu, wie ein Opferherr die Ziege, damit sie Milch gebe.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षेमस्य प्रयुजश्च- योगक्षेमाभ्याम्। त्वम्। ईशेषे- स्वामित्त्वं वहसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अपि च हे **शचीपते** **इन्द्र** सर्वस्य जगतः **क्षेमस्य** **प्रयुजश्च** प्रयोगस्य च । योगक्षेमयोरित्यर्थः। **ईशिषे** ईश्वरो भवसि । सिद्धमन्यत् ॥
@@ -248,8 +251,6 @@ Denn du gebietest über Frieden über Krieg, o Herr der Kraft, mit allen Hülfen
 О безупречный,  
 Испей сомы, о громовержец!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आयुधम्- प्रहरणम्। तिग्मम्- तीक्ष्णम्। मरुताम्- वातानां प्राणानाम्। अनीकम्- सङ्घश्च तवैव  महानस्ति। इन्द्र। कः। ते- तव। वज्रम्। प्रति दधर्ष- अभिभवति। धृष प्रसहने। असुराः-  बलिनः। अदेवाः- अन्धकारप्रतीकराक्षसाः। अनायुधासः- भवदायुधसकाशे निरायुधा इव दृश्यन्ते।  चक्रेण। तान्। ऋजीषिन्- आर्जवसम्पन्न। अप वप- अपगतान् कुरु। नाशय॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** तव स्वभूतं **तिग्मं** तीक्ष्णम् **आयुधम्** । आयुध्यतेऽनेनेत्यायुधं धनुः । तत्र **मरुतां** त्रयःषष्टिसंख्याकानां त्वत्सहायानाम् **अनीकं** संघं च त्वदीयं **वज्रं** च **कः** को वा देवो मनुष्यो वा **प्रति** **दधर्ष** प्रतिकूलमभिभवति । अभिभावुको नास्तीत्यर्थः ।  ‘ धृष प्रसहने । आ धृषाद्वा' इति विभाषितणिच् । तदभावे लिटि रूपम् । अत एव **अनायुधासः** धनुराद्यायुधवर्जिताः **अदेवाः** देववर्जिता देवद्विषो ये **असुराः** सन्ति हे **ऋजीषिन्** । अपार्जितोऽभिषुतः सोम ऋजीषः । तद्वन्निन्द्र **तान्** असुरान् **चक्रेण** चक्रसमानवीर्येण चक्ररूपेण वज्रेण वा **अप** **वप** अपगतान् कुरु । अपनुदेत्यर्थः ॥
@@ -255,8 +258,6 @@ scatter them, possessor of the silvery drink.”
 
 However tempting it might be, the juxtaposed phrase ásurā adevā́ḥ is most likely not to be interpreted as an early instantiation of the Asura/Deva conflict of middle Vedic times. Instead it probably refers to human or semi-divine lords (for the former see W. E. Hale, 1986: 83) who do not have the gods on their side. Hale points out that adevá- is the only form in the RV so accented (contrasting with ádeva-), and it must be a bahuvrīhi meaning “not having gods, without gods.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -281,10 +282,6 @@ Eine scharfe Waffe ist die Heeresspitze der Marut. Wer hat je deiner Keule getro
 
 Wer widersteht, o Indra, deinem Blitze, der scharfen Waffe? wer dem Zug der Maruts? Wehrlos sind dir die bösen Götterfeinde; vordringend jag' sie fort mit deinem Rade.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ते- तव। नूनम्- अवश्यम्। शतक्रतो- प्रभूतप्रज्ञ। इन्द्र। द्युमिन्तमः- अतिशयेन दीप्तः।  मदः- हर्षः। तेन। मदे- रसे। मदेः- तृप्तो भव॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अत्र सोमः स्तूयते । हे **शतक्रतो** शतविधप्रज्ञान हे **इन्द्र** **द्युम्नितमः** यशस्वितमः **यः** **मदः** । माद्यन्त्यनेनेति मदः सोमः । यः सोमः **नूनं** पुरा **ते** त्वदर्थमस्माभिरभिषुतोऽस्ति **तेन** अस्माभिः प्रदीयमानेन सोमेन **नूनम्** इदानीं **मदे** तत्पानेन मदे तव संजाते सत्यस्मानपि **मदेः** धनादिदानेन त्वं मादय । ‘मदी हर्षे' । अत्रान्तर्णीतण्यर्थः । ‘बहुलम्' इति शप् ॥
@@ -185,10 +188,6 @@ Was, o Ratreicher, dein erleuchtetster Rausch jetzt ist, Indra, mit dem berausch
 
 Welch wirkungsreichster Rausch dir je o thatenreichster Indra ist, Mit dem berausch dich nun beim Trunk,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

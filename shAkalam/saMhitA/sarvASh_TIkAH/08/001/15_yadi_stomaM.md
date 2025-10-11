@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेधातिथिमेध्यातिथी काण्वौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदि। मम- मे। स्तोमम्- मन्त्रम्। श्रवत्- इन्द्रः शृणुयात्। तर्हि। अस्माकम्- नः। इन्दवः-  क्लेदनशीला हृदयस्पर्शिनो रसाः। पवित्रम्- शोधकं रसोपलब्धिस्थानं पात्रं प्रतीकम्। तिरः-  अतिक्रम्य। ससृवांसः- सरन्तः। आशवः- क्षिप्राः। तुग्र्यावृधः- रश्मिना वर्धमानाः। इन्द्रम्-  परमेश्वरम्। मन्दन्तु- तोषयन्तु॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमिन्द्रः **मम** मदीयं स्तोत्रं **यदि** **श्रवत्** शृणुयात् तदानीं तम् **इन्द्रम्** **अस्माकम्** अस्मदीयाः **इन्दवः** सोमाः **मदन्तु** मादयन्तु हर्षयन्तु । कीदृशाः सोमाः। **तिरः** तिर्यगवस्थितं **पवित्रं** पवनसाधनं दशापवित्रं **ससृवांसः** प्राप्तवन्तः । दशापवित्रेण पूता इत्यर्थः । **आशवः** शीघ्रं मदजनकाः **तुग्र्यावृधः** तुग्र्याभिर्वसतीवर्येकधनाख्याभिरद्भिर्वर्धमानाः ॥ ॥ १२ ॥
@@ -193,8 +196,6 @@ If he will listen to my praise, let our (soma-)drops invigorate Indra, when they
 <details><summary>Jamison Brereton Notes</summary>
 
 Again the uncertainty about whether Indra will pay attention to their praise gives a slightly nervous air to the beginning of this verse. In the 2nd pāda the full form of ‘our’ (asmā́kam) is fronted; a tr. better reflecting this emphasis and in harmony with the poets’ anxieties about Indra’s attention would be “let it be our (soma-)drops that invigorate Indra…” Cf. 3cd.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
@@ -228,8 +229,6 @@ Wenn Indra meinen Sang vernimmt, so mögen meine Tränke ihn Erfreun, die scharf
 Бурно текущие через цедилку, быстрые,  
 Пусть опьянят Индру, (эти) подкрепители сына Тугры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

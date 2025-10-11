@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। आशवः- क्षिप्राः। वाता इव। प्रसक्षिणः- सङ्गच्छमानाः। येभिः। मनुषः- मनुष्यस्य।  अपत्यम्- पतनरहितं धर्मम्। परीयसे- परित आगच्छसि। येभिः- यैः। विश्वम्- सर्वम्। स्वः-  स्वर्गम्। दृशे- द्रष्टुमिच्छसि। अजिरासः- ते जरारहिताः। हरयः- प्राणाश्वाः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -244,8 +247,6 @@ Beweglich sind die goldnen Renner, die du hast, die vorwärts dringen wie der Wi
 На которых ты ездишь вокруг потомства Ману,  
 С помощью которых (ты) всему миру (даешь) увидеть солнце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

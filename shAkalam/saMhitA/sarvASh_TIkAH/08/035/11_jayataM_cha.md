@@ -3,7 +3,6 @@ title = "011"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -251,6 +249,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जयतम्। च। प्र- प्रकर्षेण। स्तुतम्- स्तोतारम्। अवतम्- रक्षतम्। प्रजां च धत्तं द्रविणं च  धत्तम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **जयतं** शत्रून् **च** जयतम् । **प्र** **स्तुतं** स्तोतॄन् **च** **प्र** **चावतम्** अस्मांश्च प्ररक्षतम् । अन्यत् सिद्धम् ॥
@@ -273,8 +276,6 @@ In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
 <details><summary>Jamison Brereton Notes</summary>
 
 The distribution of ca’s in pāda a is somewhat puzzling or, perhaps, syncopated, with the 2nd ca following preverb+verb (prá stutaṃ ca), though the other two preverb/verb combinations in this tṛca place the ca in the expected position after the preverb (ā́ca gachatam 10a and immediately following prá cāvatam 11a). This does not seem to be metri causa, or at least not in some obvious way.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -308,8 +309,6 @@ Erweist euch rühmlich, sieget und beschützet uns, und schenket Kinder, schenke
 Единодушные с Ушас и Сурьей,  
 Наделите нас питательной силой, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

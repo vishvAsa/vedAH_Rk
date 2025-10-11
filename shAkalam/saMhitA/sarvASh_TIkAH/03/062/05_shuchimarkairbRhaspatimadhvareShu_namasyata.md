@@ -3,7 +3,6 @@ title = "005"
 devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शुचिम्- शुद्धम्। बृहस्पतिम्- मेधाधिदैवतम्। अर्कैः- मन्त्रैः। अध्वरेषु- ध्वररहितेषु कर्मसु।  नमस्यत- नमस्कुरुत। अनामि- नमितुमशक्यम्। ओजः- बलम्। आ चके- याचे॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजो यूयम् **अध्वरेषु** **शुचिं** शुद्धं **बृहस्पतिम्** **अर्कैः** अर्चनीयैः स्तोत्रैः **नमस्यत** परिचरत । **अनामि** अनमनशीलं परैरनभिभवनीयम् **ओजः** तस्य बलम् **आ** **चके** सर्वतो याचे ॥ बृहस्पतिम् । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरः । चके । कमेर्लिट्युत्तमे मकारलोपश्छान्दसः ॥ ॥ ९ ॥
@@ -152,7 +155,6 @@ To blazing Br̥haspati give reverence with recitations at the ceremonies— his 
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) take ā́cake as 3rd sg. (Geldner: “Er liebt unbeugsame Kraft”). This is certainly possible, but Schmidt (Bṛhaspati und Indra, 131) makes good arguments for flg. Sāyaṇa and Grassmann in taking it as 1st sg.; see also Renou (EVP XVI, ad loc.).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -185,8 +187,6 @@ Verehrt den einen Andachtsherrn beim Opferwerk mit Lobgesang, Er liebet ungebeug
 Во время обрядов с помощью хвалебных песен.  
 Ему нравится несгибаемая сила –
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

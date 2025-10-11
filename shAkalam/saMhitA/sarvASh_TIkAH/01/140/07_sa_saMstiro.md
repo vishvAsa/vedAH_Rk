@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -254,6 +252,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- अग्निः। संस्तिरः- संच्छन्नो भवति। विष्टिरः- विस्तृतो भवति। सम्- सम्यक्। गृभायति-  गृह्णाति। जानतीः- प्रज्ञामयानि ध्यानभावनादिहव्यानि। जानन्नेव। नित्यः- सनातनः। आ-  आभिमुख्येन। शये- हृदयगुहायां शेते। पुनः। वर्धन्ते- समर्पितानि हव्यानि वर्धन्ते। देव्यम्- दिव्यं  धाम। अपि यन्ति- गच्छन्ति। सचा- अग्निना सह। पित्रोः- द्यावापृथिव्योः। अन्यद्वर्पः-  अन्यद्रूपम्। कृण्वते- कुर्वन्ति। ओषधिमयानि हव्यानि अग्निना पक्वानि वृष्ट्याहरणाय इन्द्रादिदेवान्  गच्छन्ति। वृष्ट्या द्यावापृथिव्योरभिनवं रूपं यच्छन्ति। आध्यात्मिके तु ध्यानभावनाहव्यानि सर्वभूतहितक्रतुना पक्वानि  मूलशख्निप्रवाहाहरणाय ईशनादिगुणानभिगच्छन्ति।  मूलशख्निप्रवाहवृष्ट्या शरीरस्य मनसश्चाभिनवं रूपं यच्छन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** अग्निः **संस्तिरः** आच्छन्नः ॥ संपूर्वात् स्तृणातेर्मूलविभुजादित्वात् कप्रत्ययः (पा. सू. ३. २. ५. २.)। ‘परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ॥ तथा **विस्तिरः** कदाचित् विस्तीर्णः सन् **सं** **गृभायति** संगृह्णात्योषधीः । किंचायं **जानन्नेव** यजमानार्थं प्रवृद्धेन भवितव्यम् अतो ज्वालाभिः संयोज्यः इत्यधिगच्छन्नेव **जानतीः** यजमानार्थं प्रवृद्धाभिर्भवितव्यम् इत्यवगच्छन्तीर्ज्वालाः **नित्यः** अविच्छिन्नः सन् **आ** **शये** आशेते आश्रयतीत्यर्थः ॥ ‘लोपस्त आत्मनेपदेषु' इति तलोपः । एवंभूतज्वालाः **पुनः** पूर्वं प्रवृद्धा एव पुनरपि यागयोग्या यथा भवन्ति तथा **वर्धन्ते** । **देव्यं** यागादिव्यवहारयोग्यं स्तुत्यं वा अग्निम् **अपि** **यन्ति** प्राप्नुवन्ति । यद्यप्यग्निज्वालयोरेकत्वं तथापि ‘राहोः शिरः' इतिवदौपचारिको गन्तृगन्तव्यभावः । किचैवं प्रवृद्धा ज्वाला ओषधयो वा **सचा** अग्निना सह **पित्रोः** जगत्पालयित्रोस्ताभ्यां संभूय द्यावापृथिव्योः **अन्यत्** पूर्वमविद्यमानं तेजोमयं **वर्पः** रूपं **कृण्वते** कुर्वन्ति लोकद्वयं स्पृशन्तीत्यर्थः ॥
@@ -279,8 +282,6 @@ They grow again; they approach divinity. They make for themselves a  form differ
 The idiom punar √vṛdh ‘grow again’ recurs from 2b, again referring to the plants immolated by the fire (at least in my opinion; others take the subject to be the flames). Here their regeneration is linked with their contact or merger with divinity.
 
 The final pāda is variously interpreted. I take the plants still to be the subject and the form “different from their parents” refers to their burned residue as ash and cinders, as opposed to the branches and leaves that were fed to the fire. But if pitróḥ is taken as a loc., the referent may be different; some take it as referring to Heaven and Earth (Sāyaṇa, Oldenberg [SBE], Witzel Gotō).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -321,8 +322,6 @@ Die sich vereinen und zerstreuen, hält er fest, vertraut auf die vertrauten leg
 Они снова растут (и) соединяются в божественной сути.  
 У родителей они создают себе иную личину.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

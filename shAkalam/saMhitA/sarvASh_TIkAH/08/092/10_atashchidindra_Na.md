@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतवाजया सहस्रवाजया- अनन्तगतियुख्नया। इषा- सदेषणया। इन्द्र। अतः- अस्मात्। नः-  अस्मान्। उप आयाहि- आगच्छ॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **अतश्चित्** अस्मात् द्युलोकादेव यद्वास्मात् शत्रुस्थानात् **शतवाजया** शतसंख्याकबलयुक्तेन तथा **सहस्रवाजया** । वाजोऽन्नम् । सहस्रसंख्यान्नवता बहुबलान्नेन **इषा** अन्नरसेन युक्तः सन् **नः** अस्मान् **उपा** **याहि** अधिकमाभिमुख्येनागच्छ ॥ ॥ १६ ॥
@@ -183,10 +186,6 @@ Auch von dort komm her zu uns, Indra, mit Speisesegen, der hundertfachen, tausen
 
 Von dort, o Indra, komme her mit Nahrung zu uns, die erlabt Uns hundertfach und tausendfach.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

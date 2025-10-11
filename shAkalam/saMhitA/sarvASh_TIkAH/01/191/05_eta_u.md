@@ -3,7 +3,6 @@ title = "005"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 adr̥śran ← √dr̥ś- (root)  
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रदोषम्- रात्रौ। तस्करा इव- चोरा इव। त्ये एते- त इमे। प्रत्यदृश्यन्- दृश्यन्ते। तस्मात्।  अदृष्टाः- हे अदृश्यमानाः चित्ते अन्तर्हिताः। विश्वदृष्टाः- हे विश्वहिताय दृष्टा भावनाः। प्रतिबुद्धाः-  प्रबोधिताः। अभूतन- भवत॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्ये** एते **ते** सर्पाः प्रत्यदृश्रन् प्रतिदृश्यन्ते रात्रौ श्वासादिलिङ्गेन । यद्वा । ते रात्रौ हन्तारो दिवा एते प्रतिदृश्यन्ते । तत्र दृष्टान्तः । **प्रदोषम्** । रात्रिर्दोषा । रात्रिं प्रति तमसाभिभूतासु रात्रिषु **तस्कराइव** हिंसकाश्चौरा दृश्यन्ते यथा तद्वत् । कीदृशास्ते । **अदृष्टाः** अपरिदृश्यमानाः **विश्वदृष्टाः** विश्वं दृष्टं यैस्ते तादृशाः प्रतिदृश्यन्ते । अतो हे नराः **प्रतिबुद्धा** **अभूतन** भवत ॥ ॥ १४ ॥
@@ -221,8 +224,6 @@ Und diese sind in der Nacht wieder sichtbar geworden, wie Diebe, ihr unbemerkten
 Вы, невидимые, стали  
 Видимыми для всех, заметными!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

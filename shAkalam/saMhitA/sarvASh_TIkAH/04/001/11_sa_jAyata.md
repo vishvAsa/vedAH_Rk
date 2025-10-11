@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषभस्य- वर्षकस्य। नीळे- सदने। आयोयुवानः- चिद्रश्मीन् मिश्रयन्। पस्त्यासु- सदनेषु। महः-  महतः। बुध्ने- मूले। अस्य रजसो योनौ- अन्तरिक्षसदने। प्रथमः- मुख्यः सन्। अपादशीर्षा-  अरूपः। अन्ता- अन्तर्हृदये। गुहमानः- निहितः। सः- असावग्निः। जायत- अजायत॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** अग्निः **प्रथमः** अहवनीयादिरूपतया श्रेष्ठः सन् **पस्त्यासु** यजमानानां गृहेषु **जायत** आहुत्यधिकरणतया संपद्यते । तथा **महः** महतः **अस्य** **रजसः** अन्तरिक्षस्य **बुध्ने** मूले पृथिव्यां तत्रापि **योनौ** उत्तरवेद्यादिस्थाने संपद्यते । सोऽग्निः **अपात्** पादवर्जितः **अशीर्षा** शिरोवर्जितः । तदेवाह । **अन्ता** आद्यन्ते पादशिरसी **गुहमानः** गूहमानः । अविज्ञेयपादशिरा इत्यर्थः । **वृषभस्य** बर्षणसमर्थस्य मेघस्य **नीळे** निलये नभसि **आयोयुवानः** धूमाकारेणात्मानमायोजयन् वर्तते । यद्वा । यः प्रथमो वैद्युतोऽग्निः पस्त्यासु नदीषु बुध्नेऽन्तरिक्षे महो महतो रजस उदकस्य तेजसो वा योनौ स्थाने च चरति । अपादशीर्षा पादशिरोवर्जितः अन्ता आत्मनः पर्यन्तप्रदेशान् स्वतेजसा गुहमान आच्छादयन् पुनश्च आयोयुवानः तानि तेजांसि स्वात्मनि मिश्रीकुर्वन् वृषभस्य मेघस्य नीळे स्थाने नभसि चरति सोऽग्निरधुना कर्मयोग्यतया अजायत । अपात् । **पादस्य** लोपोऽहस्त्यादिभ्यः' इति अकारलोपः समासान्तः । गुहमानः ।  ‘ गुहू संवरणे' । शब्विकरणी। शानचि रूपम् । शानचो लसार्वधातुकस्वरे कृते प्रत्ययस्वरः । आयोयुवानः ।  ‘ यु मिश्रणे' । यङ्लुकि शानचि रूपम् । अभ्यस्तस्वरेणाद्युदात्तः ॥
@@ -236,7 +239,6 @@ footless, headless, concealing his two ends, continually retracting (his  limbs 
 
 The vs. treats the birth of the ritual fire on earth, with the second hemistich describing the amorphous shape and constant motion of physical fire. That it has neither foot nor head (apā́d aśīrṣā́) presumably refers to the lack of consistent vertical definition of a flickering fire; “concealing its two ends” (guhámāno ántā) is reminiscent of 7c “enveloped within the limitless” (ananté antáḥ párivītaḥ), and the explanations suggested there may apply here. In addition, the “two ends” may be the non-existent foot and head just referred to.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -244,6 +246,7 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -282,8 +285,6 @@ Er ward zuerst geboren in den Häusern, am Grund des Himmels, in dem Schooss des
 Втягивающий (свои члены) в гнезде быка.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -299,7 +300,7 @@ Er ward zuerst geboren in den Häusern, am Grund des Himmels, in dem Schooss des
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे (सः) बिजुलीरूप अग्नि (प्रथमः) प्रथम सूर्य्य (महः) बड़े (बुध्ने) अन्तरिक्ष में (अस्य) इस (रजसः) लोकों के समूह के (योनौ) कारण में (जायत) उत्पन्न होता है और जैसे (गुहमानः) ढंपा हुआ (अपात्) पैरों और (अशीर्षा) शिर आदि (आयोयुवानः) सब प्रकार अत्यन्त मिलाने वा अलग करनेवाला (वृषभस्य) वृष्टि करनेवाले सूर्य्य के (नीळे) स्थान में (अन्ता) समीप में उत्पन्न होता है, वैसे ही आप लोग भी (पस्त्यासु) घरों में उत्पन्न अर्थात् प्रकट हूजिये ॥११॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे (सः) बिजुलीरूप अग्नि (प्रथमः) प्रथम सूर्य्य (महः) बड़े (बुध्ने) अन्तरिक्ष में (अस्य) इस (रजसः) लोकों के समूह के (योनौ) कारण में (जायत) उत्पन्न होता है और जैसे (गुहमानः) ढंपा हुआ (अपात्) पैरों और (अशीर्षा) शिर आदि (आयोयुवानः) सब प्रकार अत्यन्त मिलाने वा अलग करनेवाला (वृषभस्य) वृष्टि करनेवाले सूर्य्य के (नीळे) स्थान में (अन्ता) समीप में उत्पन्न होता है, वैसे ही आप लोग भी (पस्त्यासु) घरों में उत्पन्न अर्थात् प्रकट हूजिये ॥११॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

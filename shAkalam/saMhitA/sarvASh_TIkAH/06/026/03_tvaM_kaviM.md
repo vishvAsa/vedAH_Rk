@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्कसातौ- मन्त्रसम्भजने। त्वम्। कविम्- क्रान्तदर्शिनम्। चोदयः- प्रेरितवान्। त्वम्। कुत्साय-  कर्मशीलायोपासकाय। कुत्सा एते हर्यश्वाय शूषमिति श्रुतावेवमेव दृश्यते । दाशुषे- दात्रे। शुष्णम्-  शोषकं रक्षः। वर्क्- अच्छिन्दः। अतिथिग्वाय- अतिथिपूजकाय। शंस्यम्- कीर्तिम्। करिष्यन्-  वर्धयन्। त्वम्। अमर्मणः- अवीरस्य ते शत्रोः। शिरः। पराहन्- नाशितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वम्** **अर्कसातौ** अन्नलाभार्थं **कविं** भार्गवमृषिं **चोदयः** अचोदयः । प्रैरयः । किंच हे इन्द्र **त्वं** **दाशुषे** हविर्दत्तवते **कुत्साय** **शुष्णम्** असुरं **वर्क्** छेदितवानसि ॥ वर्क् इति वृणक्छेदनार्थस्य लुङि रूपम् ॥ तथा **त्वम्** **अतिथिग्वाय** अतिथीनामभिगन्त्रे दिवोदासाय **शंस्यं** स्तुत्यं सुखं **करिष्यन्** **अमर्मणः** मर्महीनमात्मानं मन्यमानस्य शम्बरस्थ **शिरः** शीर्षं **पराहन्** अवधीः ॥
@@ -236,8 +239,6 @@ You struck far away the head of the invulnerable one, intending to do (a  deed) 
 As discussed ad VI.20.4, the three occurrences of arká-sāti- ‘the winning of the sun’s rays’ (I.174.7, VI.20.4, and here) are all found in conjunction with a poet (kaví-) and in connection with the Kutsa / Śuṣṇa myth. These associations point fairly decisively to Uśanā Kāvya as the poet in question.
 
 Pāda b contains one of the few occurrences of √vṛj ‘twist, wring’ without preverb; another is found nearby at VI.18.8. Hoffmann (183) reads injunc. párā han for Pp. párā ahan. Given the preponderance of injunctives in these vss. and esp. han at the end of 5c, this seems likely. (See also sácāhan in the next vs. and 6d.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details open><summary><h2>03-06 ...{Loading}...</h2></summary>
@@ -271,8 +272,6 @@ Den Sänger schärftest du bei Liederfindung, dem frommen Kutsa warfst du hin de
 Ты отбил голову неуязвимому,  
 Желая совершить славное дело ради Атитхигвы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

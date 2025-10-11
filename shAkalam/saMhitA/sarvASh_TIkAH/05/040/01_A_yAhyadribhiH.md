@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्तम- अतिशयेन वृत्रनाशक। सोमपते- रसपालक। इन्द्र- परमेश्वर। वृषन्- वर्षक। आ  याहि- आगच्छ। वृषभिः- वर्षकैः। अद्रिभिः- पाषाणैः स्थैर्यप्रतीकैः। सुतम्- निष्पादितम्।  सोमम्- रसम्। पिब- अनुभव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **आ** **याहि** अस्मद्यज्ञमागच्छ । आगत्य च हे **सोमपते** सोमस्य स्वामिन्निन्द्र **अद्रिभिः** ग्रावभिः **सुतं** अभिषुतं **सोमं** पिब । हे **वृषन्** फलस्य वर्षयितः **वृत्रहन्तम** अतिशयेन शत्रूणां हन्तृतम **वृषभिः** वर्षकैर्मरुद्भिः सहा याहि पिब च ॥
@@ -192,10 +195,6 @@ Komm, trink den mit Steinen ausgeschlagenen Soma, du Somaherr, du Bulle Indra, m
 
 Komm, trinke Soma, Somaherr, den dir die Steine kelterten, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

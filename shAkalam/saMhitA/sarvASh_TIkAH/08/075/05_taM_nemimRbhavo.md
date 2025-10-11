@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋभवः- चित्किरणाधिदेवताः। नेमिम्- स्वकीयरथम्। यथा- इव। तम्- अमुम्। नेदीयः-  अन्तिकतमम्। यज्ञम्। सहूतिभिः- समानाह्वानैर्देवैः। अङ्गिरः- हे उपासक। नमस्व-  नमस्कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अङ्गिरः** त्वं **सहूतिभिः** समानाह्वानैरन्यैर्देवैः सह **नेदीयः** अन्तिकतमं **यज्ञम्** **आ** **नमस्व'** आनमय । **ऋभवः** **नेमिं** रथमिव ॥ ॥ २४ ॥
@@ -176,10 +179,6 @@ Ihn beuge näher heran zum Opfer wie die Ribhu´s den Radkranz biegen, durch gem
 
 Ihn bieg' durch Anrufungen her, wie Zimmerer des Rades Kranz, Recht nah ans Opfer, Angiras.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

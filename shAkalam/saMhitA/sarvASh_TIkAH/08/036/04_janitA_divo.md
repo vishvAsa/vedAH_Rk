@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "शक्वरी"
 - ऋषिः - श्यावाश्वः
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -266,6 +264,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः पृथिव्याः- द्यावापृथिव्योः। जनिता- जनयिता॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **दिवः** द्युलोकस्य **जनिता** जनकोऽसि । **पृथिव्याः** च **जनिता** असि । सिद्धमन्यत् ॥
@@ -311,8 +314,6 @@ Des Himmels Zeuger und der Erde Zeuger du, den Soma trink zum Rausch, o vielfach
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

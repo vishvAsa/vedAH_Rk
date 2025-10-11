@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सत्यशवसम्- अवितथबलम्। ऋभ्वसम्- महान्तम्। मारुतम्। शर्धः- गणम्। उच्छंस- उत्कृष्टं  स्तुहि। स्पन्द्राः- स्पन्दमानाः। ते- अमी। नरः- नेतारः। शुभे- उदकार्थम्। त्मना- स्वतः। प्र-  प्रकर्षेण। युजत- समयोजयन्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतः **मारुतं** **शर्धः** बलम् **उत्** उत्कृष्टं **शंस** स्तुहि । कीदृशं शर्धः। **सत्यशवसं** सत्यवेगम् **ऋभ्वसं** महदतिप्रवृद्धम् । **उत** **स्म** अपि च **नरः** वृष्टेर्नेतारः **ते** मरुतः **शुभे** उदकार्थं **प्र** **युजत** प्रायुञ्जत समयोजयन् **त्मना** आत्मनैव जगद्रक्षाबुद्ध्यैव **स्पन्द्राः** चलनस्वभावाः पृषतीरित्यर्थः । ।
@@ -215,8 +218,6 @@ The men, streaming, hitch up by themselves for beauty.
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes syandrā́(ḥ) as acc. pl. fem. and supplies antelopes as the obj. of yujata. This is not impossible, but syandrā́(ḥ) was already used of the Maruts in 3a (cf. also V.87.3).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -250,8 +251,6 @@ Besinge laut die Marutschar, die wahrhaft starke, tüchtige; Schon rüsteten zum
 И вот эти мужи для блеска  
 Сами, подпрыгивая, снаряжаются.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

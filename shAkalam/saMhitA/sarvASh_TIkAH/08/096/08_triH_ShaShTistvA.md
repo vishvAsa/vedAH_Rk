@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -238,6 +236,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रिः षष्टिः- बहवः। मरुतः- वाताः प्राणविशेषाः। त्वा- त्वाम्। ववृधानाः- वर्धमानाः। उस्रा इव  राशयः- गोसङ्घा इव भवन्तः। यज्ञियासः- पूज्याः। त्वा- त्वाम्। उप आ इमः- उपास्महे। नः-  अस्मभ्यम्। भागधेयम्। कृधि- कुरु। ते- तव। शुष्मम्- बलम्। एना- अनेन। हविषा-  चरुपुरोडाशध्यानभावनादिहव्येन। विधेम- परिचरेम॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 प्रसङ्गादेतावन्तो मरुतः सहाया अभवन्नित्याह। हे इन्द्र **त्रिः** त्रयः । जसः ‘सुपां सुलुक्' इति सुः । षष्टित्र्युत्तरसंख्याका मरुतः । ते च तैत्तिरीयके 'ईदृङ्चान्यादृङ्च' (तै. सं. ४. ६.५. ५) इत्यादिना नवसु गणेषु सप्त सप्त प्रतिपादिताः। तत्रादितः पञ्च गणाः संहितायामाम्नायन्ते । स्वतवांश्च प्रघासी च सांतपनश्च गृहमेधी च क्रीडी च शाकी चोज्जेषी ' ( वा. सं. १७. ८५) इति खैलिकः षष्ठो गणः । ततो ‘धुनिश्च ध्वान्तश्च' (तै. आ. ४. २४) इत्याद्यास्त्रयोऽरण्येऽनुवाक्याः । इत्थं त्रयःषष्टिसंख्याकाः **उस्राइव** **राशयः** गाव इव संघीभूतास्ते त्वां **वावृधानाः** स्वबलेन वर्धितवन्तः । ते **मरुतः** **यज्ञियासः** यज्ञार्हा अभवन् । तं मरुत्सहायमिन्द्रं **त्वा** त्वां वयम् **एमः** उपगच्छामः । ततस्त्वं **नः** अस्मभ्यं **भागधेयं** भजनीयं धनं **कृधि** कुरु । पश्चाद्वयमपि **एना** एनेन सोमलक्षणेन **हविषा** **ते** तुभ्यं **शुष्मं** शत्रूणां शोषकं बलं **विधेम** । ‘विध विधाने'। विदध्म । कुर्म इत्यर्थः ॥
@@ -267,8 +270,6 @@ your unbridled force with this oblation.”
 
 Although the med. pf. of √vṛdh is ordinarily intransitive or reflexive, vāvṛdhānā́ḥ is here best interpreted as transitive in the frame (“increasing you,” with tvā in a as obj.) but intransitive in the simile (“as ruddy throngs increase,” with the nominative NP usrā́iva rāśáyaḥ). See X.78.8 for a similar example of case disharmony.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -293,10 +294,6 @@ Zu dir kommen wir dreiundsechzig Marut wie die Kuhherden zunehmend, wir Opferwü
 
 Dir folgen dreimal sechzig starke Maruts, ehrwürdige, wie morgendliche Sterne; Wir gehn dich an, o schenk uns Glückesgabe, wir huld'gen deiner Kraft mit diesem Opfer.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

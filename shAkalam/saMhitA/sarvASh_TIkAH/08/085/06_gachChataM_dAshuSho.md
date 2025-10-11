@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कृष्णः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इत्था- एवम्। स्तुवतः- स्तोतुः। दाशुषः-दातुः। गृहम्- सुद्म। अश्विना। गच्छतम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** अश्विनौ **इत्था** इत्थमनेन प्रकारेण **स्तुवतः** युवयोः स्तोत्रं कुर्वतः **दाशुषः** हवींषि दत्तवतो यजमानस्य **गृहं** प्रति गच्छतं युवामागच्छतम् । किमर्थम् । **मध्वः** **सोमस्य** **पीतये** इति ॥
@@ -170,8 +173,6 @@ O kommt in des Verehrers Haus, der, Ritter, euch von Herzen preist, Zum Trunk de
 В самом деле восхваляющего (вас),  
 Чтобы пить сладкого сому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

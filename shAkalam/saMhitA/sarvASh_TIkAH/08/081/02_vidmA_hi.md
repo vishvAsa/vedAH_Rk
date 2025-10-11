@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -121,6 +119,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वा- त्वाम्। तुविकूर्मिं- बहुकर्माणम्। तुविदेष्णम्- बहुदानम्। तुवीमघम्- बहुधनम्। तुविमात्रम्-  बहुप्रमाणम्। अवोभिः- रक्षाभिः। विुद्म- जानीमः। हि- खलु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वा** त्वां **विद्म** **हि** जानीमः खलु । कीदृशमिति । **तुविकूर्मिं** बहुकर्माणं तुविदेष्णं बहुप्रदेयं **तुविमघं** बहुधनं **तुविमात्रं** बहुप्रमाणम् **अवोभिः** युक्तम् ॥
@@ -160,10 +163,6 @@ Denn wir kennen dich als den Vielunternehmenden, Vielschenkenden, Vielgebenden, 
 
 Denn wir wissen, dass an Thaten, Dass an Gaben, an Geschenken, Spenden, Hülfen du sehr reich bist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

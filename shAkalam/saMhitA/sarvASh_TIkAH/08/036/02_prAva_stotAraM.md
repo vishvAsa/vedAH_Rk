@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "शक्वरी"
 - ऋषिः - श्यावाश्वः
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -278,6 +276,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तोतारम्। प्र- प्रकर्षेण। अव- रक्ष। मघवन्- सम्पद्वन्। अव। त्वाम्। अव॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** **स्तोतारं** **प्राव** प्ररक्ष । **त्वां** च **अव** सोमपानेन रक्ष । सिद्धमन्यत् ॥
@@ -334,8 +337,6 @@ Erquick den Sänger, starker, und erquick dich selbst, den Soma trink zum Rausch
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

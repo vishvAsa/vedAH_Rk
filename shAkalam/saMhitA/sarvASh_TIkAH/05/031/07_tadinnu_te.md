@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अवस्युरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -267,6 +265,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    दस्म- दर्शनीय। विप्र- मेधाविन्। यत्। अहिम्- वृत्रम्। घ्नन्- नाशयन्। ओजः। अत्र- अस्मिन्  देशे। अमिमीथाः- प्रकाशितवान्। तत्। ते- तव। करणम्- कर्म शोभनम्। शुष्णस्य- शोषकस्य।  मायाः। परि अगृभ्णाः- परिगृहीतवान्। प्रपित्वं यन्- युद्धाय गच्छन्। दस्यून्- स्तेनान्  स्वार्थैकपरान्। अप असेधः- बाधितवान्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दस्म** दर्शनीय **विप्र** मेधाविन्निन्द्र त्वम् **अत्र** अस्मिल्ँलोके **अहिं** वृत्रमसुरं **घ्नन्** हिंसन् **यत्** **ओजः** यद्बलम् **अमिमीथाः** प्रकाशितवानसि **तदिन्नु** तत्खलु **ते** त्वदीयं **करणं** कर्म विद्यते । अपि च **शुष्णस्य** **चित्** एतन्नामकस्याप्यसुरस्य संबन्धिनीः **मायाः** प्रज्ञाः **परि** **अगृभ्णाः** परिगृहीतवानसि । हे इन्द्र त्वं **प्रपित्वं** संग्रामं समीपं वा **यन्** प्राप्नुवन् **दस्यून्** असुरान् **अप** **असेधः** अपाबाधथाः ॥
@@ -296,7 +299,6 @@ Even Śuṣṇa’s magic arts you enveloped; on your way to the ritual meal  yo
 vádhar appears here in the same metrical position as in 3b. There the weapon was Vṛtra’s (which Indra struck away), while here it is Indra’s. Another example of vocab. first used of Vṛtra reassigned to Indra -- like ékaḥ … apratíḥ in 3a and the similar expression in 9a. Indeed, ápratītam appears here in b, characterizing Indra’s weapon, which is ‘might’ itself (sáhaḥ). The use of sáhaḥ as an appositive here supports my view of the same usage of this word in V.31.3 (contra Geldner [/Witzel Gotō]). There it characterizes Indra himself. It is even possible that sáho ápratītam here is nominative and an appositive to índraḥ, rather than an acc. and appositive to vádhar, though the juxtaposition of the two terms in b makes that unlikely. In any case note the similarity in phrasing: 31.3a # úd yát sáhaḥ ... 32.7ab # úd yád ... sáhaḥ; the verbs in these clauses are also rhyming: 31.3 ájaniṣṭa, 32.7 yámiṣṭa.
 
 As noted ad vs. 4, the poetic repair effected by prábhṛtā mádasya in 5c is somewhat muddied by 7c vájrasya prábhṛtau. What exactly this latter phrase means is not clear. I doubt that Geldner’s “im Schlag mit der Keule” is correct, since ‘strike’ is not a standard sense of prá √bhṛ (the closest we get is ‘bear down on’). Witzel Gotō’s “beim Vorführen des Vajra” is similar to my “at the proffering of the mace” (‘proffer’ having been chosen to match the tr. of this lexeme in 4c and 5c). The English idiom “present arms” is a direct correspondent, though the action in the English phrase is a gesture of respect, not (as here) of intimidation. The point of both úd … vádhar yámiṣṭa “held up his weapon” and vájrasya prábhṛtau seems to be to show Vṛtra the unbeatable power of the vájra-. See also the mahatā́vadhéna in 8c.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -336,8 +338,6 @@ Und diese That auch, wunderbarer, weiser, dass dort die Schlange tödtend Kraft 
 Ты овладел колдовскими чарами самого Шушны.  
 Стремительно двигаясь, ты выдворил дасью.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रत्नथा- पुराणा यथा। पूर्वथा- पूर्वे यथा। विश्वथा- सर्वे यथा। इमथा- इमे यथा। तथा।  ज्येष्ठतातिम्- ज्येष्ठम्। बर्हिषदम्- दर्भासनस्थम्। स्वर्विदम्- स्वर्गविदम्। प्रतीचीनम्-  अस्मदभिमुखम्। वृजनम्- बलिनम्। जयन्तम्- जयशीलम्। तम्- अमुमिन्द्रम्। आशुम्-  क्षिप्रम्। गिरा- वाचा। दोहसे- धुक्ष्व। यासु- यासु सद्भावनासु। त्वं अनुवर्धसे ता इन्द्राय  समर्पय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयमुत्तरा च द्वे ऐन्द्र्याव् इत्य् आहुः । तत्रोपपत्तिमेवमाहुः । 
@@ -263,7 +266,7 @@ The standard ploy, which I think is basically correct, is to supply a fem. pl. o
 
 apáḥ ... ā́viśad yā́su várdhate Soma, unnamed, “entered the waters among which he grows strong.” (Note the nearly identical rel. cl.) For Agni cf. I.95.5 ... vardhate ...
 
-āsu “he grows strong among/in them” (here prob. = plants); I.141.5 ā́d ín mātṝ́r ā́viśad yā́su ... ví vāvrdhe ̥ “Just after that he entered into his mothers, within whom ....
+āsu “he grows strong among/in them” (here prob. = plants); I.141.5 ā́d ín mātṝ́r ā́viśad yā́su ... ví vāvrdhe ̥ “Just after that he entered into his mothers, within whom ....
 
 he grew widely” (again prob. plants; note that vāvṛdhe, as transmitted without accent, is not part of the rel. cl. If the transmitted form is correct). The connection of a fem.
 
@@ -304,8 +307,6 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 (Этого) быстрого, завоевывающего (коров), от которых ты будешь укрепляться.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -326,7 +327,7 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो प्राचीन रीति से प्राचीन उत्तम राजाओं के तुल्य पिता के सदृश राज्य का उत्तम प्रकार पालन करके पूर्ण बलयुक्त सेना को कर शीघ्र विजय को प्राप्त हुई प्रजाओं को सुख के अनुकूल वर्त्तावें, उन्हीं को उत्तम अधिकार में नियुक्त करिये, जिससे राजा और प्रजा का निरन्तर सुख बढ़े ॥१॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो प्राचीन रीति से प्राचीन उत्तम राजाओं के तुल्य पिता के सदृश राज्य का उत्तम प्रकार पालन करके पूर्ण बलयुक्त सेना को कर शीघ्र विजय को प्राप्त हुई प्रजाओं को सुख के अनुकूल वर्त्तावें, उन्हीं को उत्तम अधिकार में नियुक्त करिये, जिससे राजा और प्रजा का निरन्तर सुख बढ़े ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

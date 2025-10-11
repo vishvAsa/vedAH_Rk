@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिव- वज्रिन्। यत्। ते- तव। दित्सु- दानेच्छु। प्रराध्यम्- प्रकर्षेण संसिद्धम्। श्रुतम्-  श्रुतिमयम्। बृहत्- महत्। मनः- चित्तम्। अस्ति- भवति। तेन। दृळ्हा- दृढम्। वाजम्- अन्नम्।  सातये- सम्भजनाय। दर्षि- आदरयसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेइन्द्र ते तव यद्दित्सुदानेषु प्रराध्यं प्रकर्षेणस्तुत्यं श्रुतं विश्र्तं बृहत् महत् मनःअस्ति तेनमनसा हेअद्रिवोवज्रवन्निन्द्र दृह्ळाचित् दृढमपि वाजमन्नं आदर्षि आदरयसि सातयेस्मत्सम्भजनायलाभायवा ॥ ३ ॥
@@ -222,8 +225,6 @@ Your thought, famed and lofty, which is eager to give, should be realized. With 
 <details><summary>Jamison Brereton Notes</summary>
 
 I take ab as nominal rel. clause with a predicated grdv. prarā́dhyam, while Geldner (/Witzel Gotō) simply take it as a nom. cl. (“what is your thought…”). My tr. should be modified slightly to make it clear that the ásti is accented: “Which thought of yours, famed and lofty, eager to give, is to [/should] be realized, with it …” In cd both Geldner and Witzel Gotō separate the two pādas and supply a second verb (or, as far as I can tell, a 2nd exemplar of the overt verb ā́darṣi in different usage). I interpr. ā́darṣi as taking a double acc. in a condensed expression: “split X for (its contents) Y.” The lexeme ā́√dṛ can take as obj. either the container or the contained; for a similar double acc. with both see III.30.21 ā́no gotrā́dardṛhi … gā́ḥ “Split open the cowpens for the cows.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -257,8 +258,6 @@ Welch hochberühmter Sinn dir ist, der gerne gibt, den leicht man lenkt, Mit dem
 Выбей награду для захвата!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -274,7 +273,7 @@ Welch hochberühmter Sinn dir ist, der gerne gibt, den leicht man lenkt, Mit dem
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अद्रिवः) उत्तम प्रकार शोभित पर्वत से युक्त विद्वन् ! (ते) आपके (यत्) जो (दित्सु) देने की इच्छा करनेवाला (प्रराध्यम्) अत्यन्त साधने योग्य (श्रुतम्) श्रवण और (बृहत्) बड़ा (मनः) चित्त (अस्ति) है (तेन) इससे (चित्) भी आप (दृळ्हा) दृढ़ वस्तुओं की रक्षा करते हो और (सातये) धर्म और अधर्म के विभाग के लिये (वाजम्) संग्राम का (आ, दर्षि) भङ्ग करते हो ॥३॥
+पदार्थान्वयभाषाः -  हे (अद्रिवः) उत्तम प्रकार शोभित पर्वत से युक्त विद्वन् ! (ते) आपके (यत्) जो (दित्सु) देने की इच्छा करनेवाला (प्रराध्यम्) अत्यन्त साधने योग्य (श्रुतम्) श्रवण और (बृहत्) बड़ा (मनः) चित्त (अस्ति) है (तेन) इससे (चित्) भी आप (दृळ्हा) दृढ़ वस्तुओं की रक्षा करते हो और (सातये) धर्म और अधर्म के विभाग के लिये (वाजम्) संग्राम का (आ, दर्षि) भङ्ग करते हो ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

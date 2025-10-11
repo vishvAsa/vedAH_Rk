@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अत्यष्टिः"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अत्यष्टिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -366,6 +364,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रौषट्- श्रौषडुपलक्षितनमस्कारः स्तुतिर्वा। अस्तु- भवतु। पुरः- अस्मत्प्रत्यक्षस्थम्। अग्निम्-  पावकम्। धिया- चित्तधारणया। दधे- धरामि। इन्द्रवायू- हे प्राणेशौ। नु- क्षिप्रम्। यत्- या।  क्राणा- कुर्वाणा। नव्यसी- स्तुतिर्मन्त्ररूपिणी। णु स्तुतौ। विवस्वति- दीप्ते। नाभा- नाभिस्थाने।  यज्ञे। यज्ञमाहुर्भुवनस्य नाभिमिति श्रुतेः। सन्दायि- संबध्यते। तत्। दिव्यम्- अमानुष्यम्। शर्धः-  भवतो बलम्। आ- आभिमुख्येन। वृणीमहे- वरयामः। अध- अनन्तरम्। देवान् अच्छा न- देवता  अभिलक्ष्येव। नः- अस्मानभिलक्ष्य। धीतयः- धारणाशख्नयः। प्र- प्रकर्षेण। सु- सुष्ठु। उप यन्तु-  आगच्छन्तु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अहं **पुरः** पुरत उत्तरवेद्याम् **अग्निम्** आहवनीयाख्यं **धिया** प्रणयनादिकर्मणा **दधे** धारितवानस्मि । **तच्छर्धः** तादृशं बलवन्तं वा अग्निं यद्वा तच्छर्धः तादृशं मरुतां स्वरूपं बलं **दिव्यं** दिवि भवं **नु** क्षिप्रम् **आ** **वृणीमहे** आभिमुख्येन संभजामहे । किंच **इन्द्रवायू** **वृणीमहे** । **यत्** यस्मात् कारणात् **विवस्वति** दीप्तिमति **नाभा** नाभौ भूम्या नाभिस्थाने देवयजने वेदिरूपे । यद्वा । नाभौ सर्वफलस्य संबन्धके यज्ञे । ‘ यज्ञमाहुर्भुवनस्य नाभिम् ' (तै. सं. ७.४.१८. २) इति श्रुतेः । **क्राणा** कुर्वाणा स्वार्थप्रकाशनं **नव्यसी** नवतरा स्तुतिरूपा वाक् **संदायि** संबध्यते ॥ छान्दसः कर्मणि लुङ् ॥ अस्माभिः प्रयुज्यते इत्यर्थः। यस्मात् स्तुतिः क्रियते तस्मात् **अस्तु** **श्रौषट्** अस्याः स्तुतेः श्रवणं भवतु । श्रोता भवतु वा मरुतां गणोऽग्निर्वा । इन्द्रवायुपक्षे प्रत्येकापेक्षा एकवचनम् । **अध** अनन्तरं **नः** **धीतयः** अस्मदीयानि कर्माणि स्तुत्यादिरूपाणि **प्र** **सु** **उप** **यन्तु** प्रकर्षेण सुष्ठु युष्मानुपगच्छन्तु । किंच **देवाँ** **अच्छा** **न** अग्न्यादिदेवान् आभिमुख्येन प्राप्तमिव **धीतयः** अस्मदीयानि कर्माणि उप यन्तु ते समीपं प्राप्नुवन्तु ॥
@@ -396,8 +399,6 @@ then let our thoughts go forth—our thoughts (going) as if to the gods.
 The pass. aor. saṃdā́yi is taken by Grassmann (etc.) to √dā ‘tie’, surely correctly.
 
 But there are several other occurrences of this lexeme sám √dā that also appear to express the same idiom, but, with different morphological realizations, are generally assigned to √dā ‘give’ (though see, e.g., Kümmel 244). The idiom, in its fullest expression, is sám √dā nā́bhim [ACC] nā́bhā(u) [LOC] ‘tie navel to navel’, that is, to assert a family connection (often between gods or semidivine figures like seers and us humans. In the passive the first navel is of course in the nom. - a nom. that is gapped in this passage. Another ex. of the idiom is found in IV.44.5, also passive, this time with the loc. gapped (or substituted for by a prn.): sáṃ yád dadé nā́bhiḥ pūrvyā́vām “because (our) ancient umbilical tie is attached to you (or, to your [navel]),” of the Aśvins. Instead of sám the preverb can be ā́: see IX.10.8 with the fullest form of the idiom, containing both case forms of ‘navel’: nā́bhā nā́bhiṃ na ā́dade “he has bound his navel to our navel.” Also IX.79.4 diví te nā́bhā paramó yá ādadé “It was in heaven, to its navel, that your highest (navel) was bound.” (This last tr. is different from the published one; see comm. ad IX.79.4 for the alteration and the difficulties in the passage.) Another ex. of the idiom is probably found in the noun saṃdadí- in IX.99.7, though the telltale navel is absent. See disc. there. The other occurrence of saṃdadíin II.39.7 even more attenuated, but still expresses the sense of attachment. A variant of the idiom, ā́√tan nā́bhim LOC is found in I.105.9; see comm. there.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -435,8 +436,6 @@ Erhörung sei. – Den Agni fleh' zuerst ich an; nun wünschen wir uns diese Him
 Пусть дальше легко продвигаются наши молитвы,  
 Словно к богам, (к ним – наши) молитвы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

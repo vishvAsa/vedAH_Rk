@@ -3,7 +3,6 @@ title = "009"
 devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। देवासः- देवाः। ओहसा- वहनसाधनेन भवन्ति ते न मिनन्ति। मर्ताः- मर्त्याः। अयज्ञसाचः-  अयज्ञाश्च न मिनन्ति। ये। अप्यः- कर्मशीलाः। पुत्राः- प्रीणयितारस्ते न मिनन्ति । मित्रावरुणा-  मित्रावरुणौ। युवधिता- युवाभ्यां धृतानि। वाम्- युवयोः। प्रिया- प्रियाणि। धाम- धामानि।  स्पूर्धन्- स्पर्धमाना एव। प्र- प्रकर्षेण। मिनन्ति- हिंसन्ति। तस्मात्तान् विनाशयतमिति  पूर्वेणान्वयः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मित्रावरुणौ **वां** युवयोः **प्रिया** प्रियाणि **धाम** धामानि कर्माणि **युवधिता** युवाभ्यां विहितानि **यत्** ये अयजन्तो जनाः **स्पूर्धन्** स्पर्धमानाः **प्र** **मिनन्ति** हिंसन्ति । ये च देवासः देवाः **ओहसा** वहनसाधनेन स्तोत्रेण **न** युज्यन्ते । **मर्ताः** मनुष्याश्च ओहसा **न** युज्यन्ते । ये च **अप्यः** । पः: कर्म । तद्वन्तः **अयज्ञसाचः** न यज्ञयुक्ताः वृथाकर्माणि कुर्वन्त इत्यर्थः । ये च **न** **पुत्राः** । पृणन्तीति पुत्राः । न पुत्रा अपृणन्त इत्यर्थः । तान् सर्वान् वि चयिष्टमित्यनुषज्यते ॥
@@ -259,8 +262,6 @@ The first half of this vs. is fairly straightforward; the problems arise in the 
 *apíyaḥ, but I would suggest that this unclear hapax would have been attracted to the
 reasonably well-attested ‘watery’ stem ápi ya- and the accent retracted. As for meaning, I suggest that ‘not swelling/swollen’ means ‘not growing / thriving’, and in reference to children to stunted or underdeveloped ones, afflicted by what is now called “failure to thrive” in pediatric medicine. Note that the aniṭ form of the ‘swell’ root makes a negated root-noun cmpd apít- in VII.82.3 ápinvatam apítaḥ “you two made the unswollen (waters) swell.” The published translation does not represent the rel. prn. yé in c but treats all of cd as the main cl. corresponding to the subord. clauses of ab. I do not know an easy way to do this, but might suggest an alternative tr. of cd as “those not attending on the sacrifice who are neither gods … nor mortals are like children …”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -293,8 +294,6 @@ Wenn wider euch, Varuna-Mitra, streiten und eure lieben Satzungen verletzen Die 
 (Те,) кто не боги по уважению (и) не смертные,  
 Не придерживаются жертвоприношений, словно сыновья водяной нимфы,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

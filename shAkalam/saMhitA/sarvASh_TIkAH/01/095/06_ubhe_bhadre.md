@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उभे- द्यावापृथिव्यौ। भद्रे- मङ्गळे। न मेने- मान्ये नार्याविव। जोषयेते- अग्निं सेवेते। ऐवैः-  स्वगतिभिः। गावः- धेनवः। वाश्राः- स्ववत्सानिव। उप तस्थुः। यम्। हविर्भिः-  पुरोडाशध्यानादिहव्यैः। दक्षिणतः- स्वसामर्थ्यतः। अञ्जन्ति- संगच्छन्ति। सः। दक्षाणाम्-  बलानाम्। दक्षपतिः- बली। बभूव- अभवत्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उभे** अहश्च रात्रिश्च । यद्वा उभे द्यावापृथिव्यौ । अरणी वा । भद्रे भजनीये शोभनाङ्ग्यौ **मेने** स्त्रियौ **जोषयेते** **न** सेवेते इव । यथा शोभने स्त्रियौ चामरहस्ते राजानमुभयतः सेवेते एवं द्यावापृथिव्यौ एनमग्निमुभयतः सेवेते इत्यर्थः । अपि च **वाश्राः** हम्भारवं कुर्वत्यः **गावो** **न** गावो यथा **एवैः** स्वकीयैश्चरित्रैरादरातिशयेन स्वकीयान् वत्सान् **उप** **तस्थुः** संगच्छन्ते तथेममग्निं द्यावापृथिव्यौ उपस्थिते भवतः । पूर्वं सेवनमात्रमुक्तम् इदानीं पुन: गोनिदर्शनेन तत्रैवादिरातिशयो द्योत्यते। अतः **सः** अग्निः **दक्षाणां** सर्वेषां बलानां **दक्षपतिः** बलाधिपतिः **बभूव** आसीत् । बलानां मध्ये यदतिशयितं बलं तस्याधिपतिर्बभूवेत्यर्थः । **यम्** अग्निं **दक्षिणतः** आहवनीयस्य दक्षिणभागे अवस्थिताः ऋत्विजः **हविर्भिः** चरुपुरोडाशादिभिः **अञ्जन्ति** आर्द्रीकुर्वन्ति तर्पयन्ति सोऽग्निरिति पूर्वेणान्वयः ॥ वाश्राः । ‘ वाशृ शब्दे'। ‘ स्फायितञ्चि° ' इत्यादिना रक् । एवैः । ‘ इण् गतौ ' ‘इण्शीङ्भ्यां वन्' इति भावे वन्प्रत्ययः ॥
@@ -256,8 +259,6 @@ He has become the skill-lord of skills, whom they anoint from the right  (/south
 The position of simile-marking ná is aberrant, preceding the simile’s noun méne and following the verb. Since the full simile is bhadré … ná méne, it seems that this syntagm was distracted in some fashion, with the verb placed in its middle. On méne see I.62.7.
 
 The etymological figure in c, dákṣāṇāṃ dákṣapatiḥ “skill-lord of skills,” then participates in a phonological figure with semantically distinct dakṣiṇatáḥ “from the right (/south)” in d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -296,8 +297,6 @@ Wie Fraun liebkosen ihn die beiden schönen, wie Kühe brüllend nahn sie ihm in
 Он был господином сил действия,  
 Которого они мажут жертвенными возлияниями, (подходя к нему) справа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

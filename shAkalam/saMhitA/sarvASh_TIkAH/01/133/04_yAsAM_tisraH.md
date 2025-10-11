@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 pañcāśátaḥ ← pañcāśát- (nominal stem)  
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यासाम्। तिस्रः पञ्चशतः- प्रभूताः। अभिप्लवङ्गैः- अभिगमनैः। अपावपः- नाशितवानसि। सु-  सुष्ठु कृतम्। ते- भवतः। तत्- तत्कर्म। यद्यपि महत्। तथापि विनयेन। तकत्- अल्पमिति।  मनायति- भवान् मन्यते। अहङ्कारजयोपि भवता कृत इत्युच्यते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **यासां** पूर्वमन्त्रोक्तलक्षणानां सेनानां **तिस्रः** **पञ्चाशतः** त्रिगुणितपञ्चाशत्संख्यां सार्धशतम् **अभिव्लङ्गैः** अभिगमनैः ॥ व्लङ्गतिर्गतिकर्मेत्युक्तम् । अभिगम्य **अपावपः** नाशितवानसि । हे इन्द्र **तत्** तादृशं सेनावधादिरूपं कर्म **सु"** **मनायति** सुष्ठु संभावयतीत्यर्थः। किंच हे इन्द्र **ते** तव अध्यर्धशतशत्रुसेनाजयरूपं महदपि **तकत्** इति **सु** मनायति अत्यल्पमिदमिति सुष्ठु मन्यते ॥
@@ -214,8 +217,6 @@ Von denen du dreiundfunfzig durch Fortstossen hinwegrafftest; das dünkte dir gu
 Хорошо понимает это твое (деяние),  
 Уже это-то твое (деяние) хорошо понимает.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

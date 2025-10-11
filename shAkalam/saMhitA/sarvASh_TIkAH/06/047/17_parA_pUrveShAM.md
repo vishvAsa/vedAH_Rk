@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वेषाम्। सख्या- सख्यानि। परा वृणख्नि- वर्जयति। वितर्तुराणः- हिंसन्। अपरेभिः- अर्वाचीनैः।  एति- सख्यं गच्छति। अनानुभूतीः- अनुभूतिरहितान्। अवधून्वानः- त्यजन्। पूर्वीः- बहून्।  शरदः- संवत्सरान्। इन्द्रः। तर्तरीति- अतिक्रामति। नवो भवतीति भावः॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमिन्द्रः **पूर्वेषां** पूर्वभाविनां प्रशस्तानां कर्मणां कुर्वतां पुरुषाणां **सख्या** सखित्वानि **परा** **वृणक्ति** वर्जयति । अपि च **वितर्तुराणः** तान् हिंसन् 'अपरेभिः अपरैः अमुख्यैरप्रशस्तैरपि कर्मानुष्ठातृभिः **एति** सख्यं प्राप्नोति । तथा **अनानुभूतीः** अपरिचरणाः प्रजाः **अवधून्वानः** परित्यजन् **पूर्वीः** बह्वीः **शरदः** संवत्सरान् अयम् **इन्द्रः** **तर्तरीति** भृशमतिक्रामति । स्तोतृभिः सह सख्यं कुर्वन् चिरकालं वसतीत्यर्थः ॥
@@ -190,8 +193,6 @@ The pū́rva-/ápara- binary returns from 15, but here I think it not only refer
 The hapax ánānubhūtīḥ is not entirely clear, but two things must be kept in mind: 1) it’s a fem. pl., presumably acc.; 2) its sense must be derived from ánu √bhū, which generally means ‘come close to, give way to’. Because of 1), it should modify śarádaḥ ‘autumns’, a fem. cons. stem (so Geldner). But Geldner’s rendering “dass sie an ihm nicht wahrgenommen werden” seems distant in sense from the verbal lexeme; Oldenberg’s “(alles) Sichnichtanschliessen …” seems closer. I take the cmpd as a bahuvrīhi meaning ‘having no intimacy’ and interpr. it as proleptic in an expression of purpose: Indra shakes off the years so that they do not come close/attach themselves to him.
 
 (Geldner’s “dass sie … nicht …” has the same proleptic purpose interpr.) The point is that one can’t get old if one keeps the years at a distance; my “close in” is meant to capture the slangy tone of the passage (see also “double-cross” in b).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
@@ -225,8 +226,6 @@ Er löset auf Genossenschaft der frühern, abwechselnd geht im Bund er mit den s
 Индра оставляет позади много осеней,  
 Стряхивая (их) с себя, чтобы они не ощущались.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

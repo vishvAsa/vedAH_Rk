@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शूर- समर्थ। वसो- शरण्य। यथा। कृत्व्ये- महति कर्मणि कर्तव्ये सति। एतशम्- सद्गतिशीलम्।  प्रावः- प्रकर्षेण अरक्षः। दशव्रजे धने- प्रभूतगोसमूहे प्रभूतचिद्रश्मिसमूहे निमित्ते सति। वशम्-  वशिनमरक्षः। तथा। एतावतः- एतादृशम्। नव्यसः- अभिनवम्। ते- त्वाम्। विद्याम-  जानीमः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -220,8 +223,6 @@ Als einen solchen zeige dich aufs Neue uns, o guter Held, Wie im Entscheidungska
 Как (та, что) ты помог Эташе в решающей ставке,  
 Как (та, что) - Ваше у Дашавраджи.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

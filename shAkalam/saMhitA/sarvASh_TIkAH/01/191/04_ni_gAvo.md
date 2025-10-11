@@ -3,7 +3,6 @@ title = "004"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 asadan ← √sad- (root)  
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नि- नितराम्। अदृष्टाः- अदृश्यमानाः। अलिप्सत- लिम्पन्ति। तदपनोदनाय। गावः-  चित्किरणाः। गोष्ठे- तदुपलब्धिस्थाने। नि असदन्- निषीदन्ति। मृगासः- गौराः।  अन्वेषणवेदनप्रतीकाः। अविक्षत- निविष्टाः। जनानां। केतवः- प्रज्ञाः। नि- नितरां बोधिताः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गावो** **गोष्ठे** **नि** असदन् निषीदन्ति । **मृगासः** मृगाः **नि** अविक्षत निविष्टाः । स्वस्वस्थाने उपरताः । **जनानां** प्राणिनां **केतवः** प्रज्ञानानि **नि** । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ नीचान्यभवन् । एते अस्मिन्समये **अदृष्टाः** अदृश्यमानरूपाः सन्तः **नि** **अलिप्सत** निलिम्पन्ति विशेषेण ॥
@@ -223,8 +226,6 @@ Die Kühe haben sich in ihrem Stall niedergelassen, die Waldthiere sind eingekeh
 За (гасили) огни люди.  
 Замазаны невидимые.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

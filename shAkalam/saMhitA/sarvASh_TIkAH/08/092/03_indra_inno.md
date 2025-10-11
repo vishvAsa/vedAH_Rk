@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। नः- अस्मभ्यम्। महानाम्- महताम्। दाता। वाजानाम्- सद्गतीनां दाता। नृतुः- नर्तकः।  महान्- महात्मा। अभिज्ञु- अभिगतजानुकम्। आ यमत्- आयच्छतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्र** **इत्** पूर्वोक्तलक्षण इन्द्र एव **नः** अस्मभ्यं **महानां** महतां **वाजानाम्** अन्नानाम् । यद्वा । महानाम् । वर्णव्यत्ययः । मघानां धनानां वाजानामन्नानां च **दाता** भवतु । कीदृशः । नृतुः। ‘नृतिशृध्योः कूः' (उ. सू. १. ९१) इति कूप्रत्ययः । ह्रस्वछान्दसः । सर्वस्य नर्तयिता । यद्वा। ‘नॄ नये । औणादिकस्तुप्रत्ययः। धातोर्हस्वश्छान्दसः । स्तोतृभ्यो गवादिनेता। अत एव **महान्** स इन्द्रः **अभिजु** अभिगतजानुकमस्मभ्यम् **आ** **यमत्** आयच्छतु ददातु । यद्वा स इन्द्रोऽभिज्ञ्वस्मदभिमुखमागच्छद्धनं स्वहस्तयोः परिगृह्यास्मान्नयतु । धनं यत्वास्मभ्यं ददात्वित्यर्थः ॥
@@ -175,8 +178,6 @@ prizes) here.
 
 What posture abhijñú designates is not clear. Geldner thinks it involves bending the knees and sinking down, Scarlatta (345) that Indra crouches down because he is so large. I think rather that, as in I.37.10, it indicates a slightly crouching position, with knees bent, for driving a chariot (note I.37.10 abhijñú yā́tave “abhijñu to drive”), in this case to bring the prizes to us. The word nṛtúḥ ‘dancer’ at the end of b is suggestive, so that abhijñu might instead, or also, be a dancing posture.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -201,10 +202,6 @@ Indra, der Vortänzer, ist uns ein Geber großer Belohnungen; der Große möge s
 
 Ja Indra, er, der grosse Fürst, sei grosser Schätze Spender uns Und thürm bis an das Knie sie auf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

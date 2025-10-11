@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्यम्- तम्। परावृख्नम्- अक्षीणवीर्यमिति दयानन्दः। पुत्रम्- सुतमिवोपासकम्।  अग्रुवः- अग्रसरः। शतक्रतुः- अनन्तप्रज्ञः। इन्द्रः। उक्थेषु- मन्त्रेषु। आभजत्- सम्भजनं  कृतवान्॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **शतक्रतुः** शतकर्मा **इन्द्रः** **त्यं** तं प्रसिद्धम् **अग्रुवः** एतन्नाम्न्याः **पुत्रं** **परावृक्तम्** एतन्नामकम् **उक्थेषु** स्तोत्रेषु **आभजत्** भागिनं कृतवान् । अयमर्थः ‘वम्रीभिः पुत्रमग्रुवः ' ( ऋ. सं. ४. १९. ९) इत्यस्यामृचि प्रतिपादित इति ॥
@@ -151,8 +154,6 @@ give a share in the recitations.
 <details><summary>Jamison Brereton Notes</summary>
 
 This son of the unwed maiden appears to be the same one who was being eaten by ants in IV.19.9 (in the same Indra cycle); see comm. there. These tantalizing snippets are all we know about the story.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -185,8 +186,6 @@ Und jenem ausgestossnen Sohn der Jungfrau theilte Indra zu Der Sprüche Kraft, d
 Подкидышу, Индра многомудрый  
 Дал приобщиться к хвалебным песням.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

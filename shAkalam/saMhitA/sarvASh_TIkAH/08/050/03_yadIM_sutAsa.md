@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। ईम्- एतम्। प्रियम्। सुतासः- निष्पन्नाः। इन्दवः- क्लेदनशीला रसाः। अभि  अमन्दिषुः- आनन्दयन्ति। तदा। वसो-शरण्य। आपः- उदकानि। न- इव। दुघा इव- धेनव  इव। दाशुषे- दात्रे। मे- मह्यम्। सवनम्- इन्द्रसम्भजनम्। उप धायि- स्थापितम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -256,8 +259,6 @@ Wenn die gepressten Tropfen ihm, dem lieben, haben Rausch gebracht, Dann wird di
 Мое выжимание принято (тобой), о Васу, словно вода (-жаждущим),  
 Словно дойные коровы пред(назначенные) для почитателя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -268,11 +266,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ भर- आवह। एतत्- एतां सम्पदम्। माकिः- को वा। परि ष्ठात्- प्रतिबाध्य तिष्ठेत्। त्वा-  भवन्तम्। वसूनां वसुपतिम्- सम्पत्पालकम्। विुद्म- जानीमः। इन्द्र- परमेश्वर। ते- तव।  माहिनम्- महिमोपेतम्। दत्रम्- दानम्। यदस्ति। तत्। अस्मभ्यम्- नः। हर्यश्व- प्राणाश्वसम्पन्न।  प्र यन्धि- प्रयच्छ॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र तु क्षिप्रं धनमा भर । एतत्त्वय दीयमानं धनं माकिः को वा परि ष्ठात् । प्रतिबध्य तिष्ठेत् । त्वा त्वां वसूनां धनानां वसुपतिमुत्तमस्य धनस्य स्वामिनम् विद्म हि । जानीमः खलु । ते तव माहिनं महनीयं यद्दत्रं धनमस्ति हे यर्यश्व दद्धनमस्मभ्यं प्र यन्धि । प्रयच्छ । तु । ऋचि तुनुघेत्यादिना संहितायां दीर्घः । भर । भरतेर्लोटि रूपम् । माकिः । विपातः । स्थात् । तिष्ठतेश्छान्दसे लुङिरूपम् । उपसर्गात्सुनोतीत्यादिना संहितायां षत्वम् । निघातः । विद्म वेत्तेर्लटि विदो लटो वेति मसो मादेशः । प्रत्ययस्वरः । सम्हितायां द्व्यचोऽतस्तिङ इति दीर्घः । वसुपतिम् । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरः । माहिनम् । महेरिनण् चेतीनण्प्रत्ययः । णित्त्वादुपधावृद्धिः । ग्रामादित्वादाद्युदात्तः । यन्धि । यमु उपरमे । लोटि बहुलं छन्दसीति शपो लुक् । सेर्हिः । तस्य वा छन्दसीति पित्त्वस्य विकल्पितत्वादत्राङित्त्वादङितश्चेति हेर्ध्यादेशः निघातः ॥ ९ ॥
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -301,7 +303,6 @@ Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus
 
 On the form of dátra- see comm. ad IV.17.6.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -325,7 +326,6 @@ That mighty gift of thine, O Indra,
 Vouchsafe it us, O lord of the bay steeds [3].
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Bring doch mit! Keiner soll dir dabei im Wege stehen! Wir kennen dich ja als den Herrn der Güter. Gewähre uns, o Falbenlenker, deine großmächtige Gabe, die du, Indra, hast!
@@ -343,8 +343,6 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 О Индра, (тот) великий дар, который у тебя есть,  
 Пожалуй его нам, о обладатель буланых коней!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

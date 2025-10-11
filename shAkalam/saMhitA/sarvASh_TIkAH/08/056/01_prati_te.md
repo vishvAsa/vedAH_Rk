@@ -3,7 +3,6 @@ title = "001"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पृषध्रः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दस्यवे- स्तेनाय। वृक- हे दस्युविकर्तन। ते- तव। राधः- संसिद्धिः। अह्रयम्- अकुटिला। प्रति-  प्रतिकूलतया। अदर्शि- दृश्यते। द्यौः- सूर्यः। न- इव। प्रथिना- पृथुत्वेन। शवः- तव  बलमस्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -179,8 +182,6 @@ Es hat sich gezeigt, o Dasjavevrika, dein reichliches Geschenk, wie der Himmel b
 Твой дар, которого не придется стыдиться.  
 Сила (твоя) протяженностью, словно небо!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

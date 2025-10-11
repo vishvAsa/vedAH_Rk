@@ -3,7 +3,6 @@ title = "009"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -252,6 +250,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्वम्। सहसः सूनो- शाख्न। नः- अस्मदर्थम्। अद्य- इदानीम्। देवान्। अस्मिन्-  एतस्मिन्। अध्वरे- ध्वररहितकर्मणि। आ ववृत्याः- आवर्तय। सदमित्- सदैव। ते- तव। रातौ-  दाने। अहम्। स्याम्- भवेयम्। अग्ने। तव- ते। अवसा- रक्षया। सुवीरः। स्याम्- भवेयम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **सहसः** **सूनो** बलस्य पुत्राग्ने **त्वम्** **अद्य** अस्मिन् काले **नः** अस्मदीये **अस्मिन्नध्वरे** यागे **देवान्** यष्टव्यानिन्द्रादीन् **आ** **ववृत्याः** आवर्तय । आगमय । अपि च **अहं** **ते** तव **रातौ** धनस्य दाने **सदमित्** सर्वदैव वर्तमानः **स्यां** भवेयम् । तथा हे **अग्ने** **तव** **अवसा** त्वदीयेन रक्षणेन **सुवीरः** शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेतश्च **स्यां** भवेयम् ॥
@@ -274,8 +277,6 @@ Might I be always within (the sphere of) your giving; by your help might  I poss
 <details><summary>Jamison Brereton Notes</summary>
 
 “within (the sphere of)” is an attempt to render the loc. rātaú, since “Might I always be in your giving” is hard to parse. Klein’s (DGRV I.422) “Might I be ever (present) at thy giving” is more elegant. I might emend the published translation to “Might I always be (there) at your giving.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
@@ -309,8 +310,6 @@ Und wende du, o Sohn der Kraft, uns heute die Götter her zu dieser Opferfeier; 
 Да буду я всегда у тебя в милости!  
 Да буду я с твоей помощью обладателем хороших сыновей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

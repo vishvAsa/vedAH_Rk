@@ -3,7 +3,6 @@ title = "001"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कृशः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रस्य। भूरि- प्रभूतम्। वीर्यम्। अभ्यायति- अभित आभिमुख्येन प्राप्नोतीति। व्यख्यम्- अहं  विशेषेण अज्ञासिषम्। वृक- हे शत्रुविकर्तन। ते- तव। राधः- संसिद्धिः। दस्यवे- स्तेनबाधनाय  भवति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -200,8 +203,6 @@ Des Indra [des mit Indra vergleichbaren Fürsten] grosse Heldenkraft habe ich er
 Я узрел. Пусть придет  
 (Твой) дар, о Дасьяве Врика!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

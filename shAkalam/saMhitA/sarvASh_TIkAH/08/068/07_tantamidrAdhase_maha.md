@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रियमेध
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। पूर्व्यां- पुराणीम्। अनुस्तुतिम्। कृष्टीनाम्- प्रजानाम्। नृतुः- नर्तनशीलः सन्। ईशे-  स्वामित्त्वं वहति। तम्। इन्द्रम्। महे- महत्यै। राधसे- संसिद्ध्यै। पीतये- रसानुभूतये। चोदामि-  चोदयामि॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तंतमित्** तमेव इन्द्रम् । सर्वेष्वपि यागकालेषु तमेवेन्द्रमित्यर्थः। तं प्रति **चोदामि** प्रेरयामि स्तुतिं **पीतये** सोमपानाय । ततः को लाभ इति उच्यते । **महे** महते **राधसे** धनाय प्रभूतधनलाभार्थम् । **यः** **नृतुः** फलस्य नेता देवः **पूर्व्यां** पूर्वे भवां यज्ञमुखस्थाम् **अनुष्टुतिम्** अनुक्रमेण क्रियमाणां स्तुतिं **कृष्टीनां** मनुष्याणामृत्विजां संबन्धिनीम् **ईशे** ईष्टे श्रोतुं तं चोदामीति संबन्धः ॥
@@ -222,10 +225,6 @@ Nur ihn eifere ich zu großer Freigebigkeit, den Indra zum Trinken an, der auf d
 
 Ihn, ihn, den Indra treib' ich an, zu grosser Spende und zum Trunk Ihn, dem das erste Lob gebührt der Menschen, ihn, den hohen Herrn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    महि- महता। दंसा- दर्शनेन। उर्वीं- विस्तृताम्। क्षाम्- भूमिम्। वि- विशेषेण। पप्राथ-  पूरितवान्। ऋष्वः- महात्मा सन्। इन्द्र। बृहत्- महत्। द्याम्- नभः। स्तभायः- स्तम्भितवान्।  प्रत्ने- पुराणे। यह्वी- महत्यौ। ऋतस्य- प्रकृतिनियत्याः। मातरा- निर्मात्र्यौ। देवपुत्रे- दिव्ये।  रोदसी- द्यावापृथिव्यौ। अधारयः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **महि** महता **दंसः** दंससा कर्मणा **उर्वीं** विस्तीर्णां **क्षां** भूमिं **वि** **पप्राथ** विशेषेण पूरितवानसि । ‘प्रा पूरणे' इति धातुः । हे **इन्द्र** **ऋष्वः** महांस्त्वं **बृहत्** बृहतीं **द्यां** दिवम् **उप** **स्तभायः** उपस्तभ्नासि । निरालम्बं वितिष्ठन्ती द्यौर्यथा न पततीन्द्रस्तथा करोतीत्यर्थः । अपि च त्वं **रोदसी** द्यावापृथिव्यौ **अधारयः** पोषणैर्धारयसि । कीदृश्यौ । **देवपुत्रे** । देवाः पुत्रा ययोस्ते । **प्रत्ने** पुराणे **मातरा** मातरौ निर्मात्र्यौ **ऋतस्य** उदकस्य यज्ञस्य वा **यह्वी** यह्व्यौ महत्यौ । यद्वा । विश्वस्य मातरौ ऋतस्य ब्रह्मणो यह्वी पुत्र्यौ । यहुरित्यपत्यनामैतत् ॥
@@ -258,7 +261,7 @@ Both Oldenberg (ZDMG 55.320 and Noten) and Geldner (fld. by Klein DGRV II.92- 93
 
 But the actual verb form is wrong for all sorts of reasons. First, the indic. pf. of √prath is otherwise only middle, but this would be act. Second, the root √prath  never otherwise has vṛddhi forms, but the root syllable here is prāth. Then, if it is a 3rd sg. (so Geldner “Er breitete …”), it opens a cosmogonic sequence of 2nd sg. expressions, and such formulaic cosmogonies tend to be consistent in ps. and no. (though see 9cd below). Recognizing this last problem, Oldenberg suggests it’s a 2nd sg., standing for
 
-*paprath-tha &gt; *paprattha, with the heavy syllable *atth redistributing metrical
+*paprath-tha > *paprattha, with the heavy syllable *atth redistributing metrical
 weight [not his terminology] to āth. This type of change would not be unusual in Middle Indic, but it would have been useful to provide parallel examples in Rig Veda.
 
 Moreover, since √prath is a seṭ root, we should in any case expect a 2nd sg.
@@ -293,8 +296,6 @@ Du fülltest aus die grosse Erd' ein Prachtwerk, und stütztest, grosser Indra, 
 Двух древних матерей, юных (дочерей) закона.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -310,7 +311,7 @@ Du fülltest aus die grosse Erd' ein Prachtwerk, und stütztest, grosser Indra, 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) सूर्य्य के सदृश ऐश्वर्य्य करनेवाले ! जैसे सूर्य्य (महि) बड़े (दंसः) कर्म्म को (उर्वीम्) विस्तृत (क्षाम्) भूमि को और (द्याम्) प्रकाश को (वि, उप, पप्राथ) विशेष कर समीप में पूरित करता है और (ऋष्वः) बड़ा महात्मा जन (बृहत्) बड़े को (स्तभाय) स्तम्भित करता है, वैसे आप पूरित कीजिये और जैसे यह सूर्य्य (ऋतस्य) सत्य कारण के समीप से प्रकट हुए (देवपुत्रे) विद्वानों के पुत्र के समान वर्त्तमान (प्रत्ने) प्राचीन (मातरा) माता के सदृश आदर करनेवाले (यह्वी) बड़े (रोदसी) भूमि और सूर्य्य लोक को धारण करता है, वैसे आप (अधारयः) धारण करते हो ॥७॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) सूर्य्य के सदृश ऐश्वर्य्य करनेवाले ! जैसे सूर्य्य (महि) बड़े (दंसः) कर्म्म को (उर्वीम्) विस्तृत (क्षाम्) भूमि को और (द्याम्) प्रकाश को (वि, उप, पप्राथ) विशेष कर समीप में पूरित करता है और (ऋष्वः) बड़ा महात्मा जन (बृहत्) बड़े को (स्तभाय) स्तम्भित करता है, वैसे आप पूरित कीजिये और जैसे यह सूर्य्य (ऋतस्य) सत्य कारण के समीप से प्रकट हुए (देवपुत्रे) विद्वानों के पुत्र के समान वर्त्तमान (प्रत्ने) प्राचीन (मातरा) माता के सदृश आदर करनेवाले (यह्वी) बड़े (रोदसी) भूमि और सूर्य्य लोक को धारण करता है, वैसे आप (अधारयः) धारण करते हो ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

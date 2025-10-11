@@ -3,7 +3,6 @@ title = "011"
 devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। मर्त्यासः- मनुष्याः। पूर्वतराम्- पुराणीम्। व्युच्छन्तीम्- तमो विवासयन्तीं ज्योतिषा व्याप्य  तिष्ठन्तीम्। उषसम्- ज्ञानोदयदेवताम्। अपश्यन्- दृष्टवन्तः। ते। ईयुः- गताः। अस्माभिः। नु-  इदानीम्। प्रतिचक्ष्या- दृष्टा। अभूत्। ये। अपरीषु- भाविनिशान्तेषु। पश्यान्- द्रक्ष्यन्ति। ते।  यन्ति- आगमिष्यन्त्येव। सा सार्वकालिकेति भावः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **मर्त्यासः** मरणधर्माणो मनुष्याः **व्युच्छन्तीं** विवासयन्तीं **पूर्वतराम्** अतिशयेन पूर्वां विप्रकृष्टाम् **उषसम्** **अपश्यन्** दृष्टवन्तः **ते** मनुष्याः **ईयुः** गताः। तथा **अस्माभिः** अपि **नु** इदानीं **प्रतिचक्ष्या** प्रकर्षेण द्रष्टव्या **अभूत्** जाता । तथा **अपरीषु** भाविनीषु रात्रिषु **ये** मनुष्याः एतामुषसं **पश्यान्** पश्यन्ति **ते** । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव **यन्ति** आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः ॥ 
@@ -269,8 +272,6 @@ They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) 
 <details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
@@ -317,8 +318,6 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 Это нам теперь она явилась воочию.  
 Идут и те, кто увидит ее в будущие времена.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

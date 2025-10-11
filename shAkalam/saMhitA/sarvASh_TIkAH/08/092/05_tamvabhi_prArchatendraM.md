@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमस्य पीतये- रसानुभूतये। तम्। अभि- आभिमुख्येन। प्र- प्रकर्षेण। अर्चत- पूजयत। तत्।  हि- खलु। अस्य- एतस्येन्द्रस्य। वर्धनम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः तमु तमेव **इन्द्रम्** **अभि** आभिमुख्येन **प्रार्चत** प्रकर्षेण स्तुत । किमर्थम् । **सोमस्य** **पीतये** अत्रागत्य सोमपानाय । किमर्थं सोमपानायेति विशेष्यते तदाह । **तदित्** तत्सोमपानमेव **अस्य** इन्द्रस्य **वर्धनं** वर्धकं भवति खलु । तस्मात्सोमपानजहर्षाय प्रार्चत ॥ ॥ १५ ॥
@@ -199,10 +202,6 @@ Auf ihn stimmet das Lied an, auf Indra, daß er den Soma trinke, denn das ist se
 
 Besinget diesen Indra nun, begleitend seinen Somatrunk Denn das ist seine Labung ja.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतत्- इदम्। घ- एव। पौंस्यम्- पौरुषम्। वीर्यं- सामर्थ्यम्। चकर्थ- अकरोः। दुर्हणायुवम्-  दुःखेन हननमिच्छन्तीम्। दिवः दुहितरम्। स्त्रियम्। वधीः- अवधीः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **उत** अपि च **यत्** यस्त्वम् **एतत्** उपलक्षितं **पौंस्यं** बलं **वीर्यं** सामर्थ्योपेतं **चकर्थ** कृतवानसि । **घ** **इत्** इति पूरणौ। किंच **दुर्हणायुवं** दुष्टं हननम् इच्छन्तीं **दिवः** **दुहितरं** द्युलोकसकाशादुत्पन्नां **स्त्रियम्** उषसं **वधीः** अवधीः ॥
@@ -210,8 +213,6 @@ that you smote a woman, the evilly angry daughter of Heaven.
 
 The juxtaposition of vīryám … paúṃsyam “manly and masculine” with stríyam “woman” brings the gender polarization into sharp relief. There is certainly no sense that it’s unseemly or unsporting to hit a girl!
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -223,6 +224,7 @@ I suggest instead that pāda a contains an abbreviated form of a common formula 
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -255,8 +257,6 @@ Auch dieses grosse Heldenwerk, die Mannesthat vollführtest du, dass du das Weib
 Что злонамеренную жену,  
 Дочь неба ты прибил.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

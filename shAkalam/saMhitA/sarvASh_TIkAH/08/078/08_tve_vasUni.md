@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- हे इन्द्र। त्वे- त्वयि। विश्वा- सर्वाणि। सौभगा- सौभाग्यवन्ति। सुदातु- शोभनदानानि।  अपरिह्वृता- अकुटिलानि। वसूनि- धनानि। सङ्गता- सङ्गतानि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वे** त्वयि **वसूनि** धनान्यस्मदिष्टानि **संगता** संगतानि । तथा हे **सोम** सोमवन्निन्द्र त्वयि **विश्वा** सर्वाणि **सौभगा** सौभाग्यानि संगतानि । तथा **सुदातु** सुदानानि **अपरिह्वृता** अकुटिलानि । अतस्तानि कुर्विति भावः । यद्वा । इन्द्रः सोमं पीत्वा सोम इत्यभिहितः सोमश्रुतेः ॥
@@ -176,10 +179,6 @@ Bei dir sind alle Schätze und alle Glücksgüter vereinigt, o Soma, die schön 
 
 In dir, o Indra, sind vereint die Güter, alle Herrlichkeit, Vieltheilig, unbeschädiget.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कृशः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुदेवाः- सुद्योतनशीलाः। स्थ- भवथ। काण्वायनाः- मन्त्रविन्मार्गगाः। वयो वयः- पक्षिण इव।  विचरन्तः। अश्वासः- तुरगाः। न- इव। च क्रमत- अचरन्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -166,8 +169,6 @@ Von den Göttern seid ihr begünstigt, o Nachkommen des Kanva, Jugendalter auf J
 Проходя один период жизни за другим,  
 Вы гарцуете, как кони.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

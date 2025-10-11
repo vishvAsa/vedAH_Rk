@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - एकद्यूर्नौधसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हन्त। किम्। आससे- तूष्णीं भवसि। प्रथमम्। नः- अस्माकम्। रथम्। कृधि- कुरु। उपमम्-  अन्तिकाम्। वायजु- सद्गतिकामाम्। श्रवः- श्रुतिं कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हन्तेत्येतदादि मुख्यकृदामन्त्रितेन समानम् । **हन्त** इन्द्र **नु** इदानीं **किं** त्वं तूष्णीम् **आससे** । तत्र किं करोमीति चेदुच्यते । **नः** **रथं** **प्रथमं** सर्वेषां मुख्यं **कृधि** कुरु । **वाजयु** अस्माकममिच्छत् **श्रवः** अन्नं हविर्लक्षणम् **उपमम्** । अन्तिकनामैतत् । तवान्तिकभूतं वर्तत इति शेषः । यस्मादेवं तस्माद्रथमस्मदीयं प्रथमं कृधीति ॥ ॥ ३५ ॥
@@ -212,10 +215,6 @@ Holla! Was willst du noch still sitzen? Mach unseren Wagen zum Vordersten, uns b
 
 O sag', was sitzest du so still? voran lass unsern Wagen sein, Uns nahe sei der schöne Preis.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -250,6 +248,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- अग्निम्। अग्रुवः- अग्रतः स्थिता हव्यपुष्टा ज्वालाः। केशिनीः- अग्नेः केशस्थानीयाः। सं  रेभिरे- परिरेभिरे। हि- खलु। मम्रुषीः- मृतप्रायाः। प्रायवे- उज्जीवनाय। पुनः। ऊर्ध्वास्तस्थुः-  उद्गच्छन्ति। परम्- श्रेष्ठम्। असुम्- प्राणम्। जीवम्- उज्जीवनम्। अस्तृतम्- अहिंसितम्।  जनयन्- उत्पादयन्। तासाम्- ज्वालानाम्। जराम्- जीर्णतोपलक्षितमरणात्। प्रमुञ्चन्- ता  मोचयन्। नानदत्- शब्दयन्। एति- अग्निरागच्छति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तम्** अग्निम् **अग्रुवः** अग्रतः स्थिताः । यद्वा । अङ्गुलिनामैतत् । अङ्गुलय इव अकुटिलाः । **केशिनीः** केशस्थानीयोर्ध्वभाविकार्ष्ण्योपेता: ज्वालाः **सं** **रेभिरे** **हि** परिरम्भं कुर्वन्ति खलु आलिङ्गन्ति । किंचैवं कुर्वत्यः **मम्रुषीः** मृता अङ्गारभावापन्ना अपि ॥ म्रियतेः क्वसुप्रत्ययान्तात्
@@ -281,8 +284,6 @@ further living life-force (for them?), which cannot be laid low.
 <details><summary>Jamison Brereton Notes</summary>
 
 Again there is a difference of opinion as to referent. With Oldenberg (SBE) I take the plants once again as the subjects of pāda a (so, partly, Witzel Gotō), contra Sāyaṇa, Geldner, Renou, Kümmel (419), who interpret them as flames.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -323,8 +324,6 @@ Die Jungfraun, die langhaar'gen, halten ihn umfasst, die todten sind erstanden n
 Освобождая их от старости, он идет, громко ревя,  
 Рождая высшее жизненное дыхание, несокрушимую жизнь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अनेहसम्- अपापम्। हवमानम्- आहूतम्। ऊतये- रक्षायै। मध्वः- मधुराः। वः- युष्माकम्।  धीतयः- सोमा रसाः। क्षरन्ति। वसो- शरण्य। त्वा- त्वाम्। हवमानासः- स्तुताः। इन्दवः-  रसाः। आ- आभिमुख्येन। स्तोत्रेषु। दधिरे- धृतवन्तः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -227,8 +230,6 @@ Gebete rinnen zu dem Trank, der zum Genuss dich ruft, dem unvergleichlichen, Die
 Призывающие тебя, о Васу, соки сомы  
 Присоединены к восхвалениям.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

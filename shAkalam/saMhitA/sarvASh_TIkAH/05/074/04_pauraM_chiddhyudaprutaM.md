@@ -3,7 +3,6 @@ title = "004"
 devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पौर आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पौर- पूरकौ। पौरम्- पूरकम्। द्रुहस्पदे- मृगयायां निर्गमनाय गर्जन्तम्। सिंहमिव स्थितं मेघम्।  उदप्रुतम्- उदकप्लुतं मेघम्। गृभीततातये- गृहीतयज्ञसन्तानाय। पौराय- पूरकाय। जिन्वथः-  प्रेरयथः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पौर**। इदमश्विनोः संबोधनम् । पौरेण स्तुत्यत्वेन संबन्धात् अश्विनावपि पौरौ । उभयोः छान्दसमेकवचनम् । हे पौरसंबन्धिनावश्विनौ युवां **पौरम्** । **चित्** इति पूरणः । पौरेण वृष्ट्यर्थं प्रार्थ्यमानत्वेन संबन्धात् मेघोऽपि पौरः । तम् **उदप्रुतम्** उदकप्लावकं मेघं पौराय ऋषये मह्यं **जिन्वथः** प्रेरयथः । **यत्** यौ युवां **गृभीततातये** गृहीतयज्ञसंतानाय पौराय **ईम्** एनं मेघं प्रति गच्छथः **द्रुहः** द्रोहस्य **पदे** स्थानेऽरण्यदेशे **सिंहमिव** गर्जन्तं प्रबलं सिंह यथा बलात् च्यावयन्ति शूरास्तद्वत् जिन्वथ इति ॥
@@ -202,7 +205,7 @@ Paurāya = to me the ṛṣi so called; aṣ..a lion in a forest: siṃham iva d
 
 <details><summary>Jamison Brereton</summary>
 
-For you two bring to life even Paura, who was swimming in the waters,  for the sake of “muchness” (paurá), o (you who are) “Muchness”  
+For you two bring to life even Paura, who was swimming in the waters,  for the sake of “muchness” (paurá), o (you who are) “Muchness”  
 itself,  
 when him for captivity, like a lion in the track of deceit...
 </details>
@@ -230,8 +233,6 @@ Ihr Füller regt den Paura an den Füller, der im Wasser schwimmt, Wenn diesen i
 Когда его для захвата  
 (Загоняют,) словно льва на место обмана.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

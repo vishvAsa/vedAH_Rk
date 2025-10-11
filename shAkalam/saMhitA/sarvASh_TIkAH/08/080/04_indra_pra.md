@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - एकद्यूर्नौधसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिवः- वज्रिन्। इन्द्र। नः- अस्माकम्। रथम्- सद्रंहणप्रतीकवाहनम्। पश्चात्सन्तम्-  पश्चाद्भूतम्। अव- रक्ष। एनम्- इमं रथम्। मे- मम। पुरस्तात्। कृधि- कुरु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **नः** **रथं** **प्र** **अव** प्ररक्ष । कीदृशं रथम् । **पश्चाच्चित्सन्तम्** । चिदप्यर्थे । अस्मत्समानरथानां पश्चाद्भूतमपि **एनं** **मे** रथं हे **अद्रिवः** वज्रवन्निन्द्र **पुरस्तात्** वर्तमानं **कृधि** कुरु ॥
@@ -204,10 +207,6 @@ Indra, hilf unserem Wagen vorwärts, auch wenn er noch zurück ist, o Herr des P
 
 Schaff Indra unsern Wagen vor, wenn er zurück bleibt, Schleuderer, Lass meinen an der Spitze gehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

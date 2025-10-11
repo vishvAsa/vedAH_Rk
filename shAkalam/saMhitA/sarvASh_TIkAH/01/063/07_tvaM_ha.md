@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नोधा गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। वज्रिन्। पुरुकुत्साय- कर्मशीलाय। कुत्सा एते हर्यश्वाय शूषमिति श्रुतावेवमेव दृश्यते ।  त्वम्। त्यत् सप्त पुरः- तैः सप्तभिर्बन्धनैर्वृत्रकृतैः। युध्यन्। दर्दः- तानि व्यदारयः। राजन्। यत्-  यदा। सुदासे-  शोभनदानाय। बर्हिर्न- आकाश इव विस्तृतः प्रकटयसि। तदा। वृथा- अनायासेन।  अंहः- पापं वृत्रम्। वर्क्- अच्छिनः। पूरवे- इन्द्रेण हृदयं पूरयित्रे। वरिवः- संपदम्। कः-  अकरोः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वज्रिन्** वज्रवन् **इन्द्र** **पुरुकुत्साय** एतत्संज्ञाय ऋषये **युध्यन्** तदीयशत्रुभिः सह युद्धं कुर्वाणः **त्वम्** एव **त्यत्** ताः **सप्त** **पुरः** तदीयानि सप्तसंख्यानि नगराणि **दर्दः** व्यदारयः अभैत्सीरित्यर्थः । अपि च **सुदासे** एतत्संज्ञाय राज्ञे **अंहोः** एतत्संज्ञस्यासुरस्य संबन्धि **यत्** धनमस्ति तत् **वृथा** अनायासेन **बर्हिर्न** बर्हिरिव **वर्क्** अवृणक् अच्छिनः इत्यर्थः । तदनन्तरं **पूरवे** त्वां हविषा पूरयते तस्मै सुदासे हे **राजन्** स्वामिन् इन्द्र **वरिवः** धनं **कः** अकार्षीः ॥ त्यत् । ‘सुपां सुलुक्' इति विभक्तेर्लुक् । दर्दः । **दॄ** विदारणे'। अस्मात् यङ्लुगन्तात् लङि सिपि ‘अदादिवच्च' इति वचनात् शपो लुक् । 'हल्ङ्याब्भ्यः° ' इति सलोपः ।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । सुदासे। शोभनं ददातीति सुदाः । असुन् । ‘सुदाः कल्याणदानः' (निरु. २. २४ ) इति यास्कः । वर्क्। वृजी वर्जने'। लङि सिपि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । लघूपधगुणे पूर्ववत् सलोपः। अडभावश्च । चोः कुः' इति कुत्वम् । कः । डुकृञ् करणे । लुङि सिपि  ‘ मन्त्रे घस” ' इति च्लेर्लुक् । पूर्ववत् सलोपाडभावौ ॥
@@ -270,8 +273,6 @@ When at will you twisted them like ritual grass for Sudās, o king, from  narrow
 <details><summary>Jamison Brereton Notes</summary>
 
 “one after the other” is my attempt to render an “object-distributive” value for the intensive dardaḥ. (For this notion see Schaefer 1994: 86-87, though she considers dardar- lexicalized and does not attribute this sense to it, pp. 135-36.) The use of várg ‘you twisted’ differs in tone in simile and frame. In the frame it is distinctly hostile and destructive, but in the simile it simply expresses the ritual action of twisting the barhis grass into seats for the visiting gods.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
@@ -305,8 +306,6 @@ Du, Indra, hast zerstört die sieben Burgen, o Blitzesherr, für Purukutsa kämp
 (Тем,) что для Судаса ты легко бросал наземь (врагов), словно жертвенную солому,  
 Ты создал для Пуру широкий выход из бедствия, о царь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

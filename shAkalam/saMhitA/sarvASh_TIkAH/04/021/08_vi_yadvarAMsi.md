@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पर्वतस्य- मेघस्य गिरेर्वा जडोपलक्षितस्य। वरांसि- श्रेष्ठानि द्वाराणि। वि वृण्वे- उद्धाटितवान्।  अपाम्- उदकानाम्। जवांसि- वेगानुद्दिश्य। पयोभिः- जलैः। जिन्वे- प्यायति। यदि- यदा।  वाजाय- सद्गतये। सुध्यः- शोभनध्याना उपासकाः। वहन्ति-  चरुपुरोडाशध्यानभावनादिहव्यमावहन्ति तदा। गोहे- तत्सुद्मनि। गौरस्य- कृष्णसारस्य शख्निम्।  गौरः श्रुतौ ज्ञानतृष्णान्वेषणवेदनप्रतीकः। गव्यस्य- चिद्रश्मिम्। विदत्- लेभे॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रः **पर्वतस्य** मेघस्य **वरांसि** द्वाराणि **वि** **वृण्वे** विवृतानि कृतवानिति **यत्** । **अपाम्** उदकानां **जवांसि** वेगान् **पयोभिः** जलैः **जिन्वे** प्याययतीति यत् । **यदि** यदा **सुध्यः** शोभनकर्माणो यजमानाः **वाजाय** अन्नाय **वहन्ति** इन्द्रं प्राप्नुवन्ति तदा **गोहे** गृहे **गौरस्य** गौरमृगस्य **गवयस्य** गवयमृगस्य च **विदत्** तौ द्वौ पशू लभते इति यत् । तत्सर्वं सत्रा इति पूर्वेण संबन्धः ॥
@@ -241,8 +244,6 @@ subjects várāṃsi … jávāṃsi (e.g., Geldner “Wenn sich die Breiten des
 
 The sudhyáḥ ‘those of good insight’ are probably, with Witzel Gotō, the Aṅgirases in the Vala myth, but I would add that this word would also identify the poets/priests at the ritual, in the double reading of this triad of verses that I favor.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -277,8 +278,6 @@ Wenn ich des Berges Weiten mir eröffne, der Wasser Eile durch die Milch beschle
 Он находит (сокровище) в укрытии быка-гаура, быка-гавая,  
 Если благочестивые выезжают за добычей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

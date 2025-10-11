@@ -3,7 +3,6 @@ title = "014"
 devataa = "श्रुतर्वण आर्क्षस्य दानस्तुतिः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+माम्। चत्वारः। शविष्ठस्य- बलिष्ठस्य। आशवः- क्षिप्राः। द्रवित्नवः- द्रवणशीलाः। सुरथासः-  रथवाहका अश्वाः। प्रयः- अन्नम्। अभि- अभिलक्ष्य। वयः न तुग्र्यम्- भुज्युं नाव इव  प्रापयन्ति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मां** **शविष्ठस्य** अतिशयेनान्नवतः श्रुतर्वणो राज्ञः संबन्धिनः **चत्वारः** **आशवः** अश्वाः **द्रवित्नवः** गमनशीलाः **सुरथासः** शोभनरथा अश्वाः **प्रयः** अन्नं शत्रूणां प्रति **अभि** **वक्षन्** अभिवहन्ति । **वयो’** **न** **तुग्र्यम्**। भुज्युं यथाश्विभ्यां प्रेरिताश्चतस्रो नावः स्वगृहं प्रापयन् तद्वदिति ॥
@@ -203,10 +206,6 @@ Mich sollen die vier laufschnellen Renner des Mächtigsten am schönen Wagen zum
 
 Mich sollen vier schnell laufende Rosse des Çavischtha an schönen Wagen geschirrt zum Mahle fahren, wie Vögel den Sohn des Tugra (Bhudschju.)
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

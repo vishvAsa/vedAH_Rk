@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नीषोमौ। युवम्- युवाम्। नः- अस्माकम्। इमानि- एतानि। हव्या- हव्यानि। जुजोषतम्-  सेवेथाम्। नः- अस्माकम्। उप- समीपम्। सचा- सहितौ भूत्वा। आ यातम्- आगच्छतम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्नीषोमौ** **युवं** युवां **नः** अस्मदीयानि **इमानि** **हव्या** हवींषि **जुजोषतं** सेवेथाम् । तदर्थं **नः** अस्मान् **सचा** सह युवाम् **उप** **आ** **यातं** उपागच्छतम् ॥ जुजोषतम् । ‘जुषी प्रीतिसेवनयोः । लोटि व्यत्ययेन शप्। छान्दसं द्विर्वचनम् । यद्वा। विकरणस्य ‘बहुलं छन्दसि' इति श्लुः । ततो व्यत्ययेन शप् । ' बहुलं छन्दसीति वक्तव्यम्' इति वचनात् ‘नाभ्यस्तस्याचि पिति' इति लघूपधगुणप्रतिषेधाभावः ॥
@@ -170,8 +173,6 @@ Together drive right up to us.
 I supply ‘makes’ on the basis of 9c sugáṃ kṛdhi, though strictly speaking “that is an easy way” is perfectly acceptable.
 
 tāvaká-, the vṛddhi derivative of the genitive of the 2nd ps. pronoun, enlarged with -ka-, is a striking form, though exactly what special effect it is aiming at is unclear. For the use of -ka- in pronominal derivatives, see Jamison 2009 (IIJ 52). As discussed there, the -ka- tends to signal a lower register or slangy tone.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -204,8 +205,6 @@ Lasst diesen unsern Opfertrank gefallen, Agni-Soma, euch, Und kommt vereinigt zu
 Этими нашими жертвенными возлияниями!  
 Приходите к нам вместе!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

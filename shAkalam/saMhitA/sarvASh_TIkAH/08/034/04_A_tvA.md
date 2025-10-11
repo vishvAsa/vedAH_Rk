@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कण्वाः- मन्त्रविदः। वाजसातये- बललाभाय। त्वा- त्वाम्। इह- अत्र। अवसे- रक्षायै। आ  हवन्ते- आह्वयन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वा** त्वाम् **इह** यज्ञे **कण्वाः** **अवसे** रक्षणाय **वाजसातये** अन्नस्य प्राप्त्यर्थं च **आ** **हवन्ते** आभिमुख्येन ह्वयन्ति । सिद्धमन्यत् ॥
@@ -207,8 +210,6 @@ Dich rufen hier die Kanva's an um Hülfe und um Gutsgewinn; Von jenes Herrschers
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

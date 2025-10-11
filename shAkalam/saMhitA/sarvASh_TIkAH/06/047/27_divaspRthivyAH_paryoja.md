@@ -3,7 +3,6 @@ title = "027"
 devataa = "रथः"
 RShiH = "गर्गः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गर्गः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। पृथिव्याः- भूम्याः। परि। ओजः- बलम्। उद्भृतम्- उद्धृतम्। वनस्पतिभ्यः-  वृक्षेभ्यः। परि। सहः- शख्निः। आभृतम्- उद्धृता। अपाम्- उदकानां मूलशख्निधाराणाम्।  ओज्मानम्- वेगम्। गोभिः- चिद्रश्मिभिः। परि आवृतम्- पर्यावेष्टितम्। इन्द्रस्य- परमेश्वरस्य।  वज्रम्। रथम्। हविषा- हव्येन। यज- पूजय॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिवः** द्युलोकात् **पृथिव्याः** भूमेश्च **उद्भृतम्** उद्धृतं सारत्वेनोपात्तं यत् **ओजः** बलमस्ति तद्रूपम् । वनस्पतिविकारत्वाद्रथस्य । वनस्पतयो हि पृथिव्याः सारभूताः ते च द्युसंबन्धिभिरुदकैः प्रवृद्धाः । अतो रथस्य लोकद्वयसारत्वमुपपन्नम्। **परि** पञ्चम्यर्थानुवादी । अपि च **वनस्पतिभ्यः**  वृक्षेभ्यः। **परि** पूर्ववत् । आभृतम् आहृतं **सहः** बलरूपम् **अपाम्** उदकानाम् **ओज्मानं** प्रेरकम् ॥ यद्वा । ओज्मा वेगः । अपां वेग इव वेगवन्तं **गोभिः** गोविकारैश्चर्मभिः **परि** परितः **आवृतम्** आवेष्टितम् **इन्द्रस्य** **वज्रं** वज्रैकदेशम् । श्रूयते हि -- इन्द्रो वृत्राय वज्रमुदयच्छत् स त्रेधा व्यभवत् स्फ्यस्तृतीयं रथस्तृतीयं यूपस्तृतीयम्' इति । एवंगुणविशिष्टं **रथं** **हविषा** पुरोडाशादिना हे अध्वर्यो **यज** ॥ नूनमेषोत्तरा च रथदेवत्यस्य हविषो याज्यानुवाक्ये लिङ्गादवगन्तव्ये ॥
@@ -246,8 +249,6 @@ Indra—to the Chariot—sacrifice with an oblation.
 The awkward ‘strongness’ in English tr. is meant to represent the difference between ójas- ‘strength’ in pāda a, the standard nominal abstract to this root, and ojmán-, found only here in the RV, though attested in subsequent Vedic texts. Although the ref. to the chariot in vs. 26 is hardly transparent, in this vs. it has become a barely solvable riddle. In particular, “the strongness of the waters enclosed by cows” (apā́m ojmā́nam pári góbhir ā́vṛtam) could not be interpr. without 26a, c: the “strongness of the waters” is presumably the tree (vánas-páti- in 26a, 27b), or rather the wood of the tree -- so called because plants grow only when watered.
 
 “Enclosed by cows” recalls 26c “knotted together with cows’ (hide)” (góbhiḥ sáṃnaddhaḥ), referring to the leather that binds the wooden parts.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
@@ -281,8 +282,6 @@ Die von der Erde und dem Himmel entnommene Kraft, die von den Bäumen hergenomme
 Энергию вод, перехваченную коровьими ремнями,  
 Дубину грома Индры, колесницу почитай жертвенным возлиянием.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

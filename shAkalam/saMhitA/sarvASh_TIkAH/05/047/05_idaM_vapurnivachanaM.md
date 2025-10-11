@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रतिरथ आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -233,6 +231,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जनासः- हे जनाः। इदम्- एतत्। वपुः- सूर्यरूपम्। निवचनम्- स्तुत्यम्। यत्- यमाश्रित्य।  नद्यः। चरन्ति। आपः- उदकानि। तस्थुः। ईम्- एतं सूर्यम्। द्वे- अहोरात्रे। अन्ये- नानाविधे।  इहेह- अत्र। जाते। यम्या- नियमसम्पन्ने। सबन्धू- बन्धुभूते। मातुः- निर्मातुरन्तिके। बिभृतः-  धारयतः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जनासः** हे जना ऋत्विजः **इदं** पुरतः दृश्यमानं **वपुः** शरीरं मण्डलं **निवचनं** स्तुत्यं भवतीति शेषः । यन्मण्डलमुपजीव्य **नद्यः** **चरन्ति** प्रवहन्ति । **आपः** च **यत्** मण्डलमधितस्थुः । मण्डलाधीनत्वात्तासाम् । **ईम्** एतदुक्तलक्षणं यन्मण्डलं **द्वे** अहोरात्रे **मातुः** निर्मातुर्मातृस्थानीयादन्तरिक्षात् **अन्ये** **इहेह** **जाते** इह चेह च सूर्ये जाते निष्पन्ने **यम्या** यम्ये नियमनीये युग्मभूते वा **सबन्धू** समानबले समान बन्धने उभयोरप्येक एव सूर्यों बन्धकोऽक्षो ययोस्तादृश्यौ **बिभृतः** धारयतः ॥
@@ -264,8 +267,6 @@ The opening idáṃ vápur nivácanam “Here is the wonder, the enigma” annou
 The first -- the rivers move, but the waters stay -- seems unconnected to the themes of the hymn, simply presenting a wonder of the natural world: no matter how much the rivers flow, there is always water in them (see Geldner n. 5b). The verb cáranti repeats that of 4d (and see cárase in 4b), but does not echo its meaning there.
 
 The second hemistich does continue the ritual and cosmic focus of the rest of the hymn (see the parallel openings of 4a and 5c cited just above). It treats the surrogate parentage of an unidentified figure. Geldner (n. 5cd) suggests that this figure can be both Agni and the sun, with two different mother-substitutes referred to depending on the original identification of īm. In Geldner’s view, Sūrya’s “real” mother is Dawn, but the two other females who bear him are Heaven and Earth; for Agni, the kindling stick is the mother, but the two other females are Night and Dawn. In both cases the two have different places of birth, but form a twin pair. Although I am not overwhelmingly convinced by Geldner’s identifications, I do not have better ones. Of his two suggestions, Agni seems significantly more likely than the sun. The sole passage he cites as evidence for Dawn as the sun’s mother (VII.63.3) does not seem to me to say that, and of course Dawn is more commonly his lover. The evidence for Night and Dawn as Agni’s surrogate mothers is much more robust; the two passages he cites (I.95.1, 96.5) both depict the two giving suck to Agni using the same verb as found here (4b), though not in this vs. : I.95.1 anyā́nyā vatsám úpa dhāpayete; I.96.5 náktoṣā́sā … dhāpáyete śíśum ékam.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -299,8 +300,6 @@ Das ist, o Menschen, wunderbar zu sagen, dass Ströme gehn, und still die Wasser
 Что две иные, чем мать, носят его,  
 Родившиеся одна тут, другая там, (но при этом) близнецы (и) родственницы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। ते- अमी मरुतः। परुष्ण्याम्- नद्याम्। ऊर्णाः- दीप्तीः। शुन्ध्यवः- शोधिकाः।  वसत- आच्छादयन्ति। उत- अपि च। रथानां पव्या- रथचक्रेण। ओजसा- स्वबलेन। अद्रिम्-  गिरिम्। भिन्दन्ति। प्राणविशेषा जडोन्मुखभावनं चैतन्यनिष्पादनाय बिभिदुरिति भावः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **स्म** अपि च **ते** मरुतः **परुष्ण्याम्** एतन्नामिकायां नद्यां वर्तन्ते । ये **ऊर्णाः** दीप्तीः **शुन्ध्यवः**  शोधिकाः **वसत** अच्छादयन्ति ते। **उत** अपि च **पथ्या** नेम्या **रथानां** स्वकीयानां रथचक्रेण **ओजसा** बलेन च **अद्रिं** **भिन्दन्ति** मेघं गिरिं वा विदारयन्ति ॥
@@ -199,8 +202,6 @@ The phrase páruṣṇyām ū́rṇā vasata is similar to IV.22.2 páruṣṇī
 The ‘wool’ in both passages is best understood as a metaphor for ‘foam’. The stem páruṣṇī- is the fem. corresponding to paruṣá- ‘gray’. It is also a river name, presumably so called because it is covered with grayish foam. For disc. see Oldenberg, Hoffmann (Aufs. 333-35 [=Die Sprache 1974]). The mediating image in this picture is provided by śundhyávaḥ; I follow Thieme (KZ 79 [1965] = Kl Sch. 219ff.) in interpr. this form as ‘preening [waterbird]’ (to √śudh ‘clean’). As pointed out in the published introduction, the density of imagery is remarkable: the Maruts swathed in clouds (not explicitly mentioned) are compared to birds in a river covered with foam, with the foam (again not explicit) characterized as wool.
 
 The instr. sg. pavyā́to the masc. stem paví- shows the older -ā ending, which becomes limited to fem. -i-stems when the masc./ neut. adopt -inā.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -235,8 +236,6 @@ Sie zogen an ihr wollnes Kleid, die schmucken in dem Sturmgewölk, Und mit der W
 Они с силой разбивают скалу.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -252,7 +251,7 @@ Sie zogen an ihr wollnes Kleid, die schmucken in dem Sturmgewölk, Und mit der W
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (परुष्ण्याम्) पालन करनेवाली में (शुन्ध्यवः) शोधन करनेवाली (रथानाम्) वाहनों के (पव्या) रथों के चक्रों पहियों की लीकों के सदृश (ओजसा) बल से (अद्रिम्) मेघ को (भिन्दन्ति) तोड़ती हैं (उत) और वर्षाती हैं, वे (ते) तुम्हारे लिये हों (उत) और (स्म) निश्चित (ऊर्णाः) रक्षित हुए यहाँ सत्कार किये गये आप लोग (वसत) वसिये ॥९॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (परुष्ण्याम्) पालन करनेवाली में (शुन्ध्यवः) शोधन करनेवाली (रथानाम्) वाहनों के (पव्या) रथों के चक्रों पहियों की लीकों के सदृश (ओजसा) बल से (अद्रिम्) मेघ को (भिन्दन्ति) तोड़ती हैं (उत) और वर्षाती हैं, वे (ते) तुम्हारे लिये हों (उत) और (स्म) निश्चित (ऊर्णाः) रक्षित हुए यहाँ सत्कार किये गये आप लोग (वसत) वसिये ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

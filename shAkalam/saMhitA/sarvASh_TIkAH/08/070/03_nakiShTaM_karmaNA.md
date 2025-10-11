@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वगूर्तं- सर्वस्तुत्यम्। ऋभ्वसम्- महान्तम्। अधृष्टम्- अप्रधृष्यम्। धृष्वोजसम्-  धर्षकबलयुख्नम्। इन्द्रम्। यज्ञैः- उपासनैः। सदा वृधम्- सदा वर्धकम्। यः। चकार- अकरोत्।  तम्। नकिः- न कोपि। कर्मणा। नशत्- व्याप्नोति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तं** जनमन्यो मर्षको जनः **कर्मणा** हननादिव्यापारेण **नकिः** **नशत्** नैव व्याप्नोति । **यः** **इन्द्रं** **चकार** इन्द्रमेवानुकूलं **यज्ञैः** साधनैः । कीदृशमिन्द्रम् । **सदावृधं** सदा वर्धकं **विश्वगूर्त** सर्वैः स्तुत्यम् **ऋभ्वसं** महान्तम् **अधृष्टम्** अन्यैः **धृष्ण्वोजसं** धर्षकबलम् ॥
@@ -236,10 +239,6 @@ Keiner kommt dem an Verdienst gleich, der einen stets Fördernden wie den Indra 
 
 Ihm kommt an Werken keiner gleich, die er gethan, dem segnenden, Dem vielgeliebten Indra an Verehrung nicht, der stark ist, kühn und unbesiegt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। दत्रवान्- दानशीलः। उषसो न प्रतीकम्- प्रभातप्रकाशः। दाशुषे- दात्रे। वार्याणि- श्रेष्ठानि।  व्यूर्णुते- प्रकाशयति। देवः- स द्योतमानः। सविता- प्रेरकः सूर्यः। त्रायमाणः- रक्षकः।  हिरण्यपाणिः- सुवर्णपाणिः। यजतः- पूज्यः। जगम्यात्- आगच्छतु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रायमाणः** रक्षन् 'हिरण्यपाणिः सुवर्णहस्तो हितरमणीयपाणिर्वा **यजतः** यष्टव्यः एवंभूतः **सविता** प्रेरकः **देवः** **नः** अस्मान् **आ** **जगम्यात्** आगच्छतु । **यः** देवः **दत्रवान्** धनवान् **उषसो** **न** **प्रतीकम्** उषसः प्रमुखमिव **दाशुषे** हवींषि दत्तवते यजमानाय **वार्याणि** वरणीयानि धनानि **व्यूर्णुते** विवृणोति प्रकाशयति स सवितेत्यन्वयः ॥
@@ -223,8 +226,6 @@ who, rich in gifts, like the face of Dawn discloses valuables to the pious.
 <details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Renou, I take the simile uṣáso ná prátīkam as a nominative phrase, matching the subject Savitar. Since the dakṣiṇās are distributed at dawn and Dawn is therefore associated with munificence, her face (= her light) can be characterized as a discloser of valuables. However, it would also be grammatically possible to take it as acc., with Savitar disclosing valuables as if disclosing the face of Dawn, though I think this less likely.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
@@ -258,8 +259,6 @@ Es komme her Gott Savitar, der hehre, zu uns mit goldnen Händen der Beschützer
 Который, имея дары, словно лик Ушас,  
 Раскрывает перед почитающим (его) избранные богатства.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

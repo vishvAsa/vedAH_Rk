@@ -3,7 +3,6 @@ title = "023"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृष्णि- वर्षकम्। पौंस्यम्- पौरुषम्। चक्राणाः- कुर्वन्तः। पर्वशः- पर्वणि पर्वणि। वृत्रम्-  आवरणम्। पर्वतान्- जडप्रतीकमेघान्। वि ययुः- विशेषेण भेत्तुं गच्छन्ति॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अराजिनः** राज्ञा केनचित्स्वामिनानधिष्ठिताः। यद्वा । राजा स्वामी अस्य न विद्यत इत्यराजेन्द्रः । तद्युक्तः । **वृष्णि** वीर्यवत् पौस्यं बलं **चक्राणाः** कुर्वाणा मरुतः **वृत्रम्** आवरकमसुरं मेघं वा **पर्वशः** पर्वणि पर्वणि भेदेन **वि** **ययुः** विशिष्टं वधमगमयन् । तथा **पर्वतान्** गिरींश्च विशिष्टं वधं प्रापयन् ॥
@@ -172,8 +175,6 @@ performing a bullish manly deed.
 arājín- is a hapax. Though it is obviously derived from a root √rāj, it is not clear whether it belongs to ‘shine’ (so Grassmann ‘nicht glänzend’, Renou ‘sans éclat’) or ‘rule’ (Geldner ‘die herrenlosen Berge’; Oldenberg ‘königlos’) -- or both, as I suspect. Although neither root yields compelling sense as a negated quality of mountains, the phrase should be interpreted in light of 1c ví párvateṣu rājatha, where I see the same pun.
 
 It is possible that ví √yā should be rendered ‘drive through’, not ‘drive apart’, although this produces a less happy contrast with sám in vs. 22. In that case I would tr. “they drove through Vṛtra, joint by joint, (drove) through the mountains …” On vṛ́ṣṇi see comm. ad VIII.96.19.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
 <details open><summary><h2>22-23 ...{Loading}...</h2></summary>
@@ -211,8 +212,6 @@ Und Glied für Glied zertraten sie den Vritra und die dunklen Höhn, Vollendend 
 Пере(ехали) горы, (оказавшиеся таким образом) без блеска,  
 Совершая бычье мужественное деяние.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

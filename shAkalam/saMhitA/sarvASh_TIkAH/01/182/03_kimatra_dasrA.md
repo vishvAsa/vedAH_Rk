@@ -3,7 +3,6 @@ title = "003"
 devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -259,6 +257,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दस्रा- दर्शनीयौ। किम्। अत्र। कृणुथः- कुरुथः। किम्। आसाथे- तिष्ठथः। यः। कश्चित्। जनः-  मनुष्यः। अहविः- अदाता। महीयते- प्रवृद्धो भवति तम्। अति क्रमिष्टम्- अतिक्रम्य भवतम्।  पणेः- आध्यात्मिके वाणिज्यभावसंपन्नस्य। असुम्- प्राणम्। जुरतम्- जरयतम्। वचस्यवे-  मन्त्रेच्छवे। विप्राय- मेधाविने। ज्योतिः। कृणुतम्- कुरुतम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दस्रा** उपक्षपयितारौ युवाम् **अत्र** अस्मिन् मनुष्ये **किं** **कृणुथः** कुरुथः । हविषोऽभावादिति भावः । तत्रैव किमासाथे किं तिष्ठथः । अत्रेत्युक्तं कुत्रेत्याह । **यः** **कश्चित्** **जनः** जन्मवान् **अहविः** यज्ञार्थहवीरहितः **महीयते** पूज्यते स्वयं न युष्मान् पूजयति । तं जनम् **अति** **क्रमिष्टं** पराभूय तिष्ठतम् । न केवलमतिक्रममात्रं किंतु **पणेः** वणिग्भूतस्य लुब्धकस्यायष्टुः तस्य **असुं** प्राणं **जुरतम्** अहिंसिष्टम् अनीनशतम् । **विप्राय** मेधाविने **वचस्यवे** वचसः स्तोत्ररूपस्य युवाभ्यामिच्छते मह्यं **ज्योतिः** **कृणुतं** युष्मद्यजनविषयज्ञानं कुरुतम् ॥
@@ -283,8 +286,6 @@ eloquent inspired poet.
 <details><summary>Jamison Brereton Notes</summary>
 
 The sense of pāda a would be better conveyed by “what are you doing there?” The main cl. kím āsāthe lacks an expressed antecedent to jáno yáḥ in the following rel. cl., but it is not difficult to supply.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -318,8 +319,6 @@ Was thut ihr dort, was sitzt ihr wunderkräftige beim Volk, das alles opferlos s
 Пройдите мимо! Состарьте жизненное дыхание скупца!  
 Создайте свет речистому поэту.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

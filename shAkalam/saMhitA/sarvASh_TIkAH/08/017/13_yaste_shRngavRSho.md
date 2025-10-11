@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - इरिंबिठिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शृङ्गवृषः- रश्मिवर्षकसूर्यस्य। नपात्- स्थापयितः। प्रणपात्- प्रकर्षेण स्थापयितः। ते- त्वदीयाः।  यः। कुण्डपाय्यः- रसोपलब्धिस्थानप्रतीकैः कुण्डैः पातव्यः सोमः। अस्मिन्- तस्मिन्नस्मिन् सोमे  रसे। मनः- चित्तम्। आ- आभिमुख्येन। दध्रे- दधिरे॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे शृङ्गवृषो **नपात्**। शृङ्गवृषा नाम कश्चिदृषिः । तस्य चेन्द्रः स्वयमेव पुत्रतया जज्ञ इत्याख्यायिका। नपादित्यपत्यनाम । शृङ्गवृषः पुत्र । यद्वा । शृणन्ति हिंसन्तीति शृङ्गाणि रश्मयः । तैर्वर्षतीति शृङ्गवृडादित्यः । तस्य नपातयितः स्वकीये स्थानेऽवस्थापयितः ।  ‘ सुबामन्त्रिते° ' इति षष्ठ्यन्तस्य पराङ्गवद्भावेनामन्त्रितानुप्रवेशात् समुदायस्याष्टमिकं सर्वानुदात्तत्वम् । ईदृश हे इन्द्र **ते** तव संबन्धी **प्रणपात्** प्रकर्षेण न पातयिता रक्षिता **कुण्डपाय्यः** । कुण्डैः पीयतेऽस्मिन् सोम इति कुण्डपाय्यः क्रतुविशेषः ।  ‘ क्रतौ कुण्डपाय्यसंचाय्यौ ' (पा. सू. ३. १. १३०) इति पिबतेरधिकरणे ण्यत्प्रत्ययो युगागमश्च निपात्यते । एतत्संज्ञो **यः** क्रतुरस्ति **अस्मिन्** कुण्डपाय्ये क्रतौ **मनः** स्वान्तम् **आ** **नि** **दध्रे** । अभितो वर्तमानाः कुण्डपायिनामान ऋषयः पुरा नि दधिरे । सम्यक् त्वद्देवत्यं क्रतुमनुष्ठितवन्त इत्यर्थः । दधातेर्लिटि ‘इरयो रे' इति रेभावः ॥
@@ -178,8 +181,6 @@ kuṇḍapā́yya- is a technical term in later śrauta ritual; see Oldenberg I 
 
 The verb dadhre is taken by Oldenberg as most likely a 1st sg.; Geldner allows that possibility but tr. with a 3rd sg. I supply Indra as subject, both because he is the deity of the hymn and because he is the default consumer of soma. Kümmel (264) takes the verb as intransitive and presential with mánaḥ as subject: “darin bleibt das Denken fast.” He also notes the possibility that this is a 3rd plural to √dhā, rather than belonging to √dhṛ.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -211,8 +212,6 @@ Auf den Kundapājia, der dir, o Enkel des Çringavrisch ein Urenkel ist, ist dei
 О внук Шрингавриша, о правнук,  
 К нему он направил (свою) мысль.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

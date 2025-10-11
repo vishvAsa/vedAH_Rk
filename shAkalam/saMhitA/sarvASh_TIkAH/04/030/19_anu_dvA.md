@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणभेदक। जहिता- त्यख्नौ। द्वा- द्वौ। अन्धं श्रोणं च- नेत्रश्रोत्रहीनौ। अनु नयः-  अनुनीतवानसि। तत्। ते- तव। सुम्नम्- आनन्दम्। अष्टवे- कोप्यभिभवितुम्। न- नार्हति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्रस्य हिंसकेन्द्र त्वं **जहिता** जहितौ सर्वैर्बन्धुभिस्त्यक्तौ **अन्धं** चक्षुर्हीनमेकं **श्रोणं** **च** पङ्गुमपरं च **द्वा** एतौ द्वौ **अनु** **नयः** अन्धपङ्गुत्वपरिहारेण अनुनीतवानसि । हे इन्द्र **ते** त्वया दत्तं **तत्** **सुम्नं** सुखम् **अष्टवे** व्याप्तुं कोऽपि **न** । प्रभवतीति शेषः ॥
@@ -197,8 +200,6 @@ that favor of yours is not to be equaled.
 The blind man and the lame one also figure in IV.19.9, along with the son of the unmarried woman; see vs. 16 above. The blind and the lame form a pair elsewhere in the RV, e.g., I.112.8; II.13.12, 15.7; VIII.79.3.
 
 The infinitival phrase ná … áṣṭave is rendered in the published translation “not to be equalled,” though it lit. means “not to be reached/attained.” The lit. tr. implies that no one can actually receive Indra’s favor, but I think the point is rather that favor such as Indra’s cannot be deployed by anyone else (that is, any other deity) -- hence the adjustment in the English. On this interpr, see Hoffmann (185). Geldner supplies “with words” (i.e., “not to be obtained [with words]”), presumably meaning that no poet can describe the extent of Indra’s favor.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -232,8 +233,6 @@ Und zwei Verlassne führtest du, den Blinden, Lahmen, Vritrafeind, Nichts gleich
 Не достигнуть такого твоего благородства!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -249,7 +248,7 @@ Und zwei Verlassne führtest du, den Blinden, Lahmen, Vritrafeind, Nichts gleich
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (वृत्रहन्) शत्रुओं के नाश करनेवाले ! जो (नयः) नायक अर्थात् अग्रणी होते हुए आप (अन्धम्) नेत्रों के विज्ञान से विकल (श्रोणं, च) और खञ्ज अर्थात् पङ्गु (द्वा) दोनों (जहिता) छोड़नेवालों का (अनु) पश्चात् पालन करें तो (ते) आपके (तत्) उस (सुम्नम्) सुख को (अष्टवे) व्याप्त होने को कोई भी शत्रु (न) नहीं समर्थ होवें ॥१९॥
+पदार्थान्वयभाषाः -  हे (वृत्रहन्) शत्रुओं के नाश करनेवाले ! जो (नयः) नायक अर्थात् अग्रणी होते हुए आप (अन्धम्) नेत्रों के विज्ञान से विकल (श्रोणं, च) और खञ्ज अर्थात् पङ्गु (द्वा) दोनों (जहिता) छोड़नेवालों का (अनु) पश्चात् पालन करें तो (ते) आपके (तत्) उस (सुम्नम्) सुख को (अष्टवे) व्याप्त होने को कोई भी शत्रु (न) नहीं समर्थ होवें ॥१९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

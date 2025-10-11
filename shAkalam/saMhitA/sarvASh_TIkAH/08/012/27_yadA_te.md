@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। ते- त्वदर्थम्। विष्णुः- व्यापनशीलः। ओजसा- तेजसा। त्रीणि पदा विचक्रमे- भूर्भुवःसुवर्लोकेषु  व्याप्तो भवति॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ते** तवानुजः **विष्णुः** व्यापनशीलो देवः **ओजसा** बलेन **यदा** यस्मिन् काले **त्रीणि** पदानि पदत्रयरूपेण त्रील्ँलोकान् **विचक्रमे** विक्रान्तवान् परिच्छिन्नवान् । गतमन्यत् ॥
@@ -193,7 +196,6 @@ just after that your two beloved fallow bays waxed strong.
 <details><summary>Jamison Brereton Notes</summary>
 
 That te in a is a dative of benefit, not a genitive with ójasā is shown by 52.3 yásmai víṣṇus trī́ṇi padā vicakramé.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details open><summary><h2>25-28 ...{Loading}...</h2></summary>
@@ -226,8 +228,6 @@ Als Vischnu dann durch deine Kraft der Schritte drei vollendete, Da wuchs empor 
 Прошагал три шага.  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

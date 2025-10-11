@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य- यस्मिन्। अन्धसः- रसे। मन्दानः- हृष्टः। माघोनं शवः- इन्द्रशख्निम्। दधिषे- धारयसि।  अयं स सोम इन्द्र ते सुतः पिब॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **यस्य** **अन्धसः** सोमलक्षणस्यान्नस्य पानेन’ **मन्दानः** मन्दमानो हृष्टः सन् **माघोनम्** ऐन्द्रं **शवः** असाधारणं बलं **दधिषे** धारयसि । येन सोमेन तवेन्द्रत्वं जातमित्यर्थः । **सः** **अयं** **सोमः** **सुतः** अभिषुतस्तं **पिब** ॥ ॥ १५ ॥ ॥ ३ ॥
@@ -192,8 +195,6 @@ here is that soma, Indra, pressed for you. Drink!
 <details><summary>Jamison Brereton Notes</summary>
 
 On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scarlatta (689). Scarlatta construes vaḥ with this form (“der nicht auf euch einschlägt”) as well as with gṛṇīṣé (“… will ich für euch preisen”). I take vaḥ only with gṛṇīṣé and supply ‘us’ with the root noun cmpd.; Geldner likewise takes vaḥ with the verb and supplies “keiner” as obj. of the cmpd. There is no way to choose and no reason to do so, since all three are more or less equivalent: Indra is all powerful but does not threaten the community to which the poet belongs.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -227,8 +228,6 @@ An dessen Trunke du erfreut empfangen hast gewalt'ge Macht, Der Soma ist gepress
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -249,7 +248,7 @@ An dessen Trunke du erfreut empfangen hast gewalt'ge Macht, Der Soma ist gepress
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जिससे बल, बुद्धि और सुख बढ़े, उसी रस और अन्न का निरन्तर सेवन करो ॥४॥ इस सूक्त में इन्द्र, सोम और विद्वान् के गुणवर्णन करने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जानी चाहिये ॥ यह ऋग्वेद के छठे मण्डल में तृतीय अनुवाक, तेंतीसवाँ सूक्त और चौथे अष्टक में सातवें अध्याय में पन्द्रहवाँ वर्ग समाप्त हुआ ॥
+भावार्थभाषाः -  हे मनुष्यो ! जिससे बल, बुद्धि और सुख बढ़े, उसी रस और अन्न का निरन्तर सेवन करो ॥४॥ इस सूक्त में इन्द्र, सोम और विद्वान् के गुणवर्णन करने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जानी चाहिये ॥ यह ऋग्वेद के छठे मण्डल में तृतीय अनुवाक, तेंतीसवाँ सूक्त और चौथे अष्टक में सातवें अध्याय में पन्द्रहवाँ वर्ग समाप्त हुआ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

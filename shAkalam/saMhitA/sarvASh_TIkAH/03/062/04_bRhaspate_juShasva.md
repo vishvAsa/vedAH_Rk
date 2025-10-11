@@ -3,7 +3,6 @@ title = "004"
 devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वदेव्य- सर्वदेवात्मक। बृहस्पते- मेधाधिदैवत। नः- अस्माकम्। हव्यानि-  चरुपुरोडाशध्यानभावनादिहव्यानि। जुषस्व- सेवस्व। दाशुषे- दात्रे। रत्नानि- रमणीयभावनानि।  रास्व- प्रयच्छ॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वदेव्य** सर्वदेवहित हे **बृहस्पते** **नः** अस्मत्संबन्धीनि **हव्यानि** हवनयोग्यानि पुरोडाशादीनि हवींषि **जुषस्व** सेवस्व । ततस्त्वं **दाशुषे** हविर्दत्तवते यजमानाय मह्यं **रत्नानि** उत्तमानि धनानि **रास्व** देहि ॥ रास्व । ‘रा दाने '। व्यत्ययेनात्मनेपदम् ॥
@@ -150,7 +153,6 @@ Do thou rejoice in our oblations;
 Grant riches to the generous giver.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 Be pleased! with our oblations, thou loved of all Gods, Brhaspati:  
@@ -173,8 +175,6 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 Жертвенными возлияниями, о всебожеский!  
 Пожалуй сокровища почитающему (тебя)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

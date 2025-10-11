@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। अन्तरिक्षे- आकाशे। पर्णिनः- पर्णयुख्नानि। दिद्यवः- तापकानि। तिग्ममूर्धानः-  तीक्ष्णानि। आयुधानि। पतयन्ति- पतन्ति। तदा। नः- अस्माकम्। इन्द्र। वृधे- वृद्ध्यै। भव।  इन्द्र। युधि- युद्धे। नायम्- नायकम्। अव- रक्ष॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **अध** **स्म** तदानीं **नः** अस्माकं **वृधे** वर्धनाय **भव** । अपि च **नायं** योऽस्माकं नयो नेता **युधि** युद्धे तमपि **अव** रक्ष। तदेत्युक्तं कदेत्याह । **पर्णिनः** पक्षवन्तः **तिग्ममूर्धान:** तीक्ष्णास्याः **दिद्यवः** दीप्ता बाणा: **यत्** यदा' **अन्तरिक्षे** व्योम्नि  **पतयन्ति** शत्रुभिर्विसृष्टाः पतन्ति तदानीं वृधे भवेत्यन्वयः ॥
@@ -213,8 +216,6 @@ when the feathered, sharp-headed arrows fly in the midspace,
 <details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is a bare variant of 3d: both contain the complex verbal construction vṛdhé √bhū ‘be for strengthening / be there to strengthen’, each with the complement enclitic naḥ. The only difference is the placement of the impv.: initial bhávā in 3d, final bhava in 11a, differing only in accent and, possibly, in the length of the final vowel: the Pp. resolves the cross-pāda sandhi bhavéndra with short bhava, like 10d, but a long vowel would be equally possible.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
@@ -251,8 +252,6 @@ Sei nun, o Indra, uns zum Heil und hilf dem Führer in der Schlacht, Wenn in den
 Выстрелы с острыми головами!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः प्रगाथो वा
@@ -268,7 +267,7 @@ Sei nun, o Indra, uns zum Heil und hilf dem Führer in der Schlacht, Wenn in den
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) ऐश्वर्य्य के बढ़ानेवाले सेना के स्वामी ! (यत्) जो (अन्तरिक्षे) अन्तरिक्ष में (पर्णिनः) पक्षियों के समान (दिद्यवः) प्रकाशमान (तिग्ममूर्द्धानः) ऊपर वर्त्तमान योद्धा जन (युधि) सङ्ग्राम में (पतयन्ति) जाते हैं (अध) इसके अनन्तर विजय को (नायम्) प्राप्त करने का प्रयत्न करते हैं उनके साथ (नः) हम लोगों की (वृधे) वृद्धि के लिये (भव) प्रसिद्ध हूजिये और सङ्ग्राम में हम लोगों की (स्मा) ही निरन्तर (अवा) रक्षा कीजिये ॥११॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) ऐश्वर्य्य के बढ़ानेवाले सेना के स्वामी ! (यत्) जो (अन्तरिक्षे) अन्तरिक्ष में (पर्णिनः) पक्षियों के समान (दिद्यवः) प्रकाशमान (तिग्ममूर्द्धानः) ऊपर वर्त्तमान योद्धा जन (युधि) सङ्ग्राम में (पतयन्ति) जाते हैं (अध) इसके अनन्तर विजय को (नायम्) प्राप्त करने का प्रयत्न करते हैं उनके साथ (नः) हम लोगों की (वृधे) वृद्धि के लिये (भव) प्रसिद्ध हूजिये और सङ्ग्राम में हम लोगों की (स्मा) ही निरन्तर (अवा) रक्षा कीजिये ॥११॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

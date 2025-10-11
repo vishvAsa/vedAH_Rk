@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -190,6 +188,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वयम्। इन्द्र। ते- त्वाम्। स्तोमेभिः- मन्त्रैः। विधेम- परिचरेम। त्वम्। अस्माकम्- नः।  शतक्रतो- प्रभूतप्रज्ञ। महि- महतीम्। स्थूरम्-प्रभूताम्। शशयम्- निहितामिति भावः। अह्रयम्-  अकुटिलाम्। राधः- संसिद्धिम्। प्रस्कण्वाय- मन्त्रविदे। नि- नितराम्। तोशय- यच्छ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -226,8 +229,6 @@ Mit Liedern wollen wir, o Indra, dienen dir, sei unser, der du vieles wirkst; La
 Щедро пожертвуй великий прочный неиссякающий дар  
 Для Прасканвы, (дар,) которого не придется стыдится!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

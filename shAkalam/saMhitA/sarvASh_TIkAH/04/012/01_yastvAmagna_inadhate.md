@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -257,6 +255,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदः- जातविद्य। चिकित्वान्- विद्वान् सन्। क्रत्वा- प्रज्ञया। अग्ने। यः। त्वाम्- भवन्तम्।  इनधते- उद्दीपयति। सस्मिन्- सर्वस्मिन्। अहन्- अहनि। ते- त्वदर्थम्। त्रिः- त्रिवारम्। अन्नम्-  हव्यम्। कृणवत्- करोति। सः। द्युम्नैः- तेजोभिः। प्रसक्षत्- प्रसहमानं तेजः। अभ्यस्तु- अभितो  भवतु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **यतस्रुक्** स्रुचा संबद्धः **यः** यजमानः **त्वाम्** **इनधते** दीप्तियुक्तं कुर्यात् । यः **सस्मिन्नहन्** सर्वस्मिन्नहनि **ते** तुभ्यं **त्रिः** त्रिवारं सवनत्रये **अन्नं** हविर्लक्षणमन्नं **कृणवत्** कुर्यात् । हे **जातवेदः** जातानां वेदितरग्ने **तव** तोषकेण **क्रत्वा** इन्धनादिहेतुना कर्मणा **प्रसक्षत्** प्रसहमानं त्वदीयं तेजः **चिकित्वान्** जानन् **सः** यजमानः **द्युम्नैः** धनैर्यशोभिर्वा **सु** अत्यन्तम् **अभ्यस्तु** शत्रून् अभिभवतु ॥
@@ -283,7 +286,6 @@ The form prasákṣat is implicitly taken as a finite form by Scarlatta (602-3) 
 The last word of the verse, the perf. part. cikitvā́n, is characteristically used elsewhere of Agni, in absolute value. Indeed, the same pāda ending jātavedaś cikitvā́n qualifies Agni in nearby IV.3.8 and IV.5.12 (see also cikitvā́n of Agni in IV.8.4). However, in our vs. grammatically this nom. sg. must modify the worshiper, not Agni (pace Renou, who manages to attach it to the preceding voc.: “ô Jātavedas, (dieu) qui comprends”). I think rather that the application of this standard epithet of Agni to Agni’s devotee shows the same closed loop discussed with regard to the immediately preceding hymn (see comm. ad IV.11.2), where the worshiper shares qualities of the god, which he receives from the god. There may also be a slight pun: ‘observant’ means one thing for Agni -- he watches over everything -- but another for the mortal who attends on him: ‘observant’ in English can refer to someone who ‘observes’, that is, ‘faithfully carries out’, the prescribed rites.
 
 In the published translation I construe táva krátvā with the preceding pāda: may the man succeed “in accordance with your purpose,” but I now wonder if it is not another indication of the closed loop of reciprocity: the mortal worshiper is observant like Agni because it is Agni’s will or purpose that he should be. Of course it can be applicable to both pādas.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -323,8 +325,6 @@ Wer, Agni, dich entflammt, den Löffel ausstreckt, dreimal dir Spende schafft an
 Благодаря твоей силе духа, о Джатаведас, (бог,) который понимает!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -345,7 +345,7 @@ Wer, Agni, dich entflammt, den Löffel ausstreckt, dreimal dir Spende schafft an
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे विद्वानो ! जो लोग आपके लिये ईश्वरज्ञान, बड़े विहार की विद्या और उत्तमबुद्धि को सब काल में देते हैं, वे यश और धन से युक्त करने चाहिये ॥१॥
+भावार्थभाषाः -  हे विद्वानो ! जो लोग आपके लिये ईश्वरज्ञान, बड़े विहार की विद्या और उत्तमबुद्धि को सब काल में देते हैं, वे यश और धन से युक्त करने चाहिये ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

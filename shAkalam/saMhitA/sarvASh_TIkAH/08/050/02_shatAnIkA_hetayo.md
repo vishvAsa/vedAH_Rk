@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। इन्द्रस्य। हेतयः- आयुधानि। शतानीकाः- प्रभूतप्रणालीयुख्नानि। दुष्टरा-  दुस्तराणि। इषः- सदेषणाः। महीः- महत्यः। यत्- यदा। ईम्- एतमिन्द्रम्। सुताः- रसाः।  अमन्दिषुः- आनन्दयन्ति तदा। भुज्मा- पालकः। गिरिः- मेघः। न- इव। मघवत्सु- हव्यवत्सु।  पिन्वते- प्रीणयन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -236,8 +239,6 @@ Wie hunderschneid'ge Pfeile unbezwinglich sind Indra's Geschosse, mächtig gross
 Словно обильная гора, набухает он для щедрых покровителей,  
 Когда опьянили его выжатые соки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

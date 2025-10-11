@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ (गर्भस्राविण्युपनिषत्)"
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सप्तवध्रिरात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 bhītā́ya ← √bhī- (root)  
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भीताय- अश्रद्धाप्रवेशभीताय। नाधमानाय- याचते। सप्तवध्रये- सप्तभूमिकासु शुष्काय तस्मात्  दुःखिताय। ऋषये। मायाभिः- प्रज्ञाभिः। अश्विना- हे अश्विनौ। युवम्- युवाम्। वृक्षम्- तरुं  भौमभोगम्। सम्- सङ्गमयथः। वि च अचथः- विभागं च कुरुथः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भीताय** निर्गमात् बिभ्युषे **नाधमानाय** विमोक्षं याचमानाय **सप्तवध्रये** **ऋषये** हे **अश्विना** अश्विनौ **युवं** युवां **मायाभिः** **वृक्षं** वृक्षविकारां पेटिकां **सं** **चाचथः** मम निर्गमार्थं संगच्छथः । **वि** अचथः **च** विभक्तं कुरुथः ॥
@@ -206,8 +209,6 @@ Dem fürchtenden, dem flehenden, dem Dichter Saptavadhri biegt Mit Zauberkunst, 
 Вы, о Ашвины, (вашими) волшебными силами  
 Защемляете и расщемляете дерево.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

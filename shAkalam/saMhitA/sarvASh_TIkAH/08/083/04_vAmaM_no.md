@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्यमन्। वरुण। नः- अस्माकम्। शंस्यम्- मन्त्रः। वामम्- कल्याणः। अस्तु- भवतु। वामम्-  कल्याणम्। आवृणीमहे- वरणं कुर्मः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अर्यमन्** देव **वामं** वननीयं संभजनीयं धनं **नः** अस्माकम् **अस्तु** भवतु । हे **वरुण** **शंस्यं** सर्वं शंसनीयं स्तुत्य **वामं** धनमस्माकमस्तु । कुतः । हिशब्दो हेतौ । यस्मात्कारणाद्वयं **वामं** धनं युष्मान् **आवृणीमहे** याचामह इत्यर्थः ।
@@ -172,10 +175,6 @@ Glück soll uns werden, Aryaman, preisliches Glück, Varuna, denn das Glück erb
 
 Uns werde Schatz, o Arjaman, gepries'ner Schatz, o Varuna; Denn schönen Schatz begehren wir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

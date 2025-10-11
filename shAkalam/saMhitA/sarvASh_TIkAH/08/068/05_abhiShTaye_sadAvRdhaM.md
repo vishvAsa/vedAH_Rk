@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -121,6 +119,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अभिष्टये- सदेषणायै। सदावृधम्- सदा वर्धकम्। स्वर्मीळ्हेषु- स्वर्गप्राप्तिसाधनेषु। यम्। नरः-  नेतारः। ऊतये- रक्षायै। नाना- नानाविधतया। हवन्ते- आह्वयन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे यजमानाः युष्माकम् **अभिष्टये** साहाय्यार्थमभिगमनायाभिष्टये वा **सदावृधं** सर्वदा वर्धयन्तं सेवकान् स्वयं सर्वदा वर्धमानं वा हुव इति शेषः । **यं** **स्वर्मीळ्हेषु** संग्रामेषु **नरः** नेतारो मनुष्याः **नाना** बहुप्रकारं **हवन्ते** आह्वयन्ति **ऊतये** रक्षार्थं तं हुव इति शेषः ॥ ॥ १ ॥
@@ -155,10 +158,6 @@ Den stets Förderlichen, den die Menschen in den Kämpfen um die Sonne von versc
 
 Zu Hülfe den, der stets erquickt, den Männer in der Schlachten Drang, Um Beistand rufen hier und da,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

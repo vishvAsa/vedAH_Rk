@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - बभ्रुरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वज्री- वज्रपाणिः। पुरुहूतः- बहुभिः साहाय्यायाहूतः। सुतसोमम्- निष्पन्नं रसम् रसनिष्पादकं  वा। इच्छन्- कामयन्। राया- दानयोग्यसम्पदा। तदोकः- रसनिष्पादकस्य सदनं प्रति। ऊती-  रक्षायै। गन्ता- अभिगन्ता। वीरः- कुशलः। स्यः- सः। क्व- कुत्रास्ति। सुखरथम्- सुखेन  रथस्थम्। हरिभ्याम्- प्राणाश्वाभ्याम्। ईयमानम्- गच्छन्तम्। इन्द्रम्- परमेश्वरम्। कः।  अपश्यत्- ददर्श॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वज्री** वज्रवान् **पुरुहूतः** बहुभिराहूतः **यः** इन्द्रः **राया** देयेन धनेन सह **सुतसोममिच्छन्** अभिषुतसोमं यजमानमन्विच्छन् **ऊती** ऊत्यै रक्षायै **तत्** तस्य यजमानस्य **ओकः** गृहं **गन्ता** प्राप्तो भवति **वीरः** विक्रान्तः **स्यः** स इन्द्रः **क्व** कुत्र विद्यते । **सुखरथं** शोभनाक्षद्वारः रथो यस्य स सुखरथः । सुष्ठु खनति लिखति भूमिमिति वा सुखम् । तादृग्रथम् । ‘सुहितं खेभ्यः खं पुनः खनतेः ' ( निरु. ३. १३ ) इति यास्कः । **हरिभ्यां** स्ववाहनाभ्याम् अश्वाभ्याम् **ईयमानं** गच्छन्तम् **इन्द्रं** कोऽपश्यत् कश्च ददृशे ॥
@@ -264,7 +267,6 @@ the mace-bearer, who, seeking one who has pressed the soma, will come  to that h
 Despite the distance between them and the syntagms in between, I take rāyā́ and ūtī́as parallel polarized instr. to be construed primarily with gántā. Geldner and Witzel Gotō differently, though also differently from each other.
 
 It is tempting to interpr gántā in d as a periphrastic future, a temptation yielded to in the published translation
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -298,8 +300,6 @@ Wo ist der Mann? wer hat geschaut den Indra, der mit den Füchsen fährt auf sch
 Который ищет со (своим) богатством того, кто выжал сому, (он,) громовержец,  
 (И) отправляется в такой дом со (своей) помощью, (он) многопризываемый?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

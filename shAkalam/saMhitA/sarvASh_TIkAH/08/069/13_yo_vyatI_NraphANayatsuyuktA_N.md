@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रियमेध
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। व्यतीन्- विविधगमनानश्वान्। सुयुख्नान्- नियमितान् कृत्वा। दाशुषे- दात्रे। उप अफाणयत्-  उपगमयति। तदित्- तदानीमेव। तक्वः- गतिशीलः। नेता। वपुः- वपुष्मान्। उपमा-  उपमानभूतः। अमुच्यत- मुख्नो भवति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** इन्द्रः **व्यतीन्** विविधगमनान् ‘सुयुक्तान् सुष्ठु रथे संबद्धानश्वान् **दाशुषे** हविर्दात्रे यजमानाय गन्तुं प्राप्तुम् **उप** **अफाणयत्** उपगमयति । फणतिर्गतिकर्मा । यदैवं करोति **तदित्** तदानीमेव **तक्वः** । तकतिर्गतिकर्मा । यज्ञगमनशीलः **नेता** उदकस्य फलस्य वा नायक इन्द्रः **वपुः** उदकमुत्पादयतीति शेषः । **यः** इन्द्रः **उपमा** उपमानभूतः **अमुच्यत** अन्यैर्वृष्टिनिवारकैरसुरादिभिर्मुक्तो भवति ॥
@@ -233,10 +236,6 @@ Der die wohlgeschirrten Gespanne für den Opfernden in Galopp setzte. Takva ist 
 
 Welcher die schöngeschirrten Renner hinspringen liess zu dem Verehrer, der schnelle Lenker, der ganz in der Nähe die herrliche Gestalt ausspannte.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

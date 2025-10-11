@@ -3,7 +3,6 @@ title = "031"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    मदानाम्- रसानाम्। पते- पालक। नः- अस्माकम्। सुतम्- निष्पन्नं रसम्। हरिभिः- प्राणाश्वैः।  उप याहि- आगच्छ॥३१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मदानां** **पते** । माद्यन्तेऽनेनेति मदाः सोमाः। ‘मदोऽनुपसर्गे' इति करणेऽप्प्रत्ययः । सोमानां स्वामिन्निन्द्र **हरिभिः** ‘आ शतेन हरिभिः' (ऋ. सं. २.१८.६ ) इत्यादिषु बहूनामश्वानां श्रुतेरत्रापि शतसहस्रसंख्याकैरश्वैः सह **नः** अस्माकं यज्ञे **सुतम्** अभिषुतं सोमम् **उप** याहि । तत्पानार्थं शीघ्रमायाहि । पुनः **उप** **नः** इत्यादरार्थः ॥
@@ -194,10 +197,6 @@ Komm mit den Falben zu unserem Soma, du Herr der Räusche, mit den Falben zu uns
 
 O komme mit den Füchsen her, zum Soma, Herr der Tränke du, Mit Füchsen komm zu unserm Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

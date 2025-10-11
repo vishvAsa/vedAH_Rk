@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - सोभरिः काण्वः
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। अतिथिः। वसुः- शरण्यः। पुरुप्रशस्तः- बहुभिः स्तुतः। एषः- अयम्। अग्निः।  सुहोता- सुष्ठु देवाह्वाता। स्वध्वरः- शोभनकर्मा। नः- अस्मभ्यम्। मा। हृणीताम्- केनापि  रुध्यताम्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वसुः** वासकः **अतिथिः** अतिथिवत् प्रियः **पुरुप्रशस्तः** बहुभिः स्तुतः **सुहोता** सुष्ठु देवानामाह्वाता **स्वध्वरः** सुयज्ञश्च **यः** **अग्निः** सः **एषः** अग्निः **नः** अस्मभ्यं **मा** **हृणीतां** केनापि न रुध्यताम् । केनाप्यनवरुद्धः सन् अग्निः अस्मभ्यमभीष्टं प्रयच्छत्वित्यर्थः ॥
@@ -187,7 +190,6 @@ Let the guest not be angry at us, this good Agni, proclaimed by many, who is the
 The mā́prohibitive here takes an apparent impv. hṛṇītām rather than the expected injunctive *hṛṇīta. Hoffmann (94-95) explains this as having an underlying pluti form hṛṇītā3, with nasalization in hiatus, hence *hṛṇītā3m̐, which was misunderstood by the redactors and normalized to hṛṇītām. Although I find this explan. rather ad hoc and over-complex, I have nothing better to suggest. I do not, however, subscribe to his notion that because it is built to a pres. stem, it has inhibitive (“let him stop being angry”) rather than prohibitive (“let him not be angry”) value. There is nothing in the hymn up to this point that would indicate that Agni has anything but benevolent feelings towards us. See Ian Hollenbaugh’s work, which refutes Hoffmann’s assumption of inhibitive value for pres. injunc. with mā́.
 
 Pāda-final eṣáḥ is less rare than I would have predicted, though the usual position of nom. sg. eṣá(ḥ) is pāda initial.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
@@ -218,8 +220,6 @@ Nicht möge zürnen Agni uns, der holde Gast, er, dieser vielgepriesene, Der tre
 
 :прекрасный хотар suhota svadhvarah
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

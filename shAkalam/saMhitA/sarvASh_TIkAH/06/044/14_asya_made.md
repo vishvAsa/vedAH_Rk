@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य रसस्य। मदे- हर्षे। पुरु- बहूनि। वर्पांसि- रूपाणि। वृत्राणि- आवरणानि।  विद्वान्- ज्ञानी। इन्द्रः। अप्रति- अप्रतिगतः। जघान- हिंसितवान्। तम्। मधुमन्तम्- मधुरम्।  सोमम्- रसम्। शिप्रिणे- शोभननासिकोपलक्षितप्राणाय। वीराय। अस्मै- एतस्मै। पिबध्यै-  अनुभवितुम्। प्र- प्रकर्षेण। होषि- समर्पय॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** सोमस्य पानेन **मदे** हर्षे सति **विद्वान्** अभिज्ञः **इन्द्रः** **पुरु** पुरूणि बहूनि **वर्पाँसि** आवरकाणि **वृत्राणि** शत्रून् **अप्रति** स्वयमन्यैरप्रतिगतः सन् **जघान** हतवान् । यद्वा । वर्प इति  रूपनाम । बहूनि वर्पांस्यसुरमायया निर्मितानि रूपाणि विद्वान् जानन्निन्द्रो वृत्राणि आवरकाणि रक्षःप्रभृतीनि इतः पूर्वमन्यैरप्रतिगतानि जघान हतवान् । **मधुमन्तं** माधुर्यवन्तं **तमु** तमेव **सोमं** **शिप्रिणे** शोभनहनुकाय **अस्मै** **वीराय** शत्रूणां वीरयित्र इन्द्राय **पिबध्यै** पातुं **प्र** **होषि** हे अध्वर्यो प्रजुहुधि ॥
@@ -253,8 +256,6 @@ The hapax -si impv. hoṣi has no structural support in the RV, the only aor.
 attested being the pass. aor. áhāvi. However, an act. s-aor. is reasonably well attested in Vedic prose, beginning with the BYV Saṃhitās (ahauṣīt, etc.); see Narten (Sig.Aor. 288). It is difficult to know whether yoṣi is indirect evidence for a s-aor.
 
 subjunctive to this aor., *hoṣat, etc., to which hoṣi would ultimately belong, or whether it was created as a nonce beside the other -si impvs. in this ritual sphere such as yákṣi, mátsi and has nothing to do with the aor. forms in prose. I weakly favor the latter explanation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -289,8 +290,6 @@ Im Somarausch erschlug, viel Künste kennend, die Feinde Indra, die dem Angriff 
 Сомы герою прекрасногубому, чтобы он пил!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -306,7 +305,7 @@ Im Somarausch erschlug, viel Künste kennend, die Feinde Indra, die dem Angriff 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (विद्वान्) विद्यायुक्त, जैसे (इन्द्रः) सूर्य्य (वृत्राणि) मेघों का (जघान) नाश करता है, वैसे (अस्य) इस ओषधियों के समूह के (मदे) आनन्दकारक रस में (अप्रती) नहीं विश्वास किये गये (पुरु) बहुत (वर्पांसि) सुन्दर रूपों का निर्म्माण करके स्वीकार करे (तम्) उसके प्रति (उ) भी (मधुमन्तम्) मधुर आदि गुणों से युक्त द्रव्य के साथ (सोमम्) बड़ी ओषधियों के रस को (अस्मै) इस (शिप्रिणे) उत्तम ठुड्ढी और नासिकावाले (वीराय) भयरहित जन के लिये (पिबध्यै) पीने को आप (प्र, होषि) देते हो, इससे सत्कार करने योग्य हो ॥१४॥
+पदार्थान्वयभाषाः -  जो (विद्वान्) विद्यायुक्त, जैसे (इन्द्रः) सूर्य्य (वृत्राणि) मेघों का (जघान) नाश करता है, वैसे (अस्य) इस ओषधियों के समूह के (मदे) आनन्दकारक रस में (अप्रती) नहीं विश्वास किये गये (पुरु) बहुत (वर्पांसि) सुन्दर रूपों का निर्म्माण करके स्वीकार करे (तम्) उसके प्रति (उ) भी (मधुमन्तम्) मधुर आदि गुणों से युक्त द्रव्य के साथ (सोमम्) बड़ी ओषधियों के रस को (अस्मै) इस (शिप्रिणे) उत्तम ठुड्ढी और नासिकावाले (वीराय) भयरहित जन के लिये (पिबध्यै) पीने को आप (प्र, होषि) देते हो, इससे सत्कार करने योग्य हो ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -241,6 +239,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रपित्वे- त्वदाह्वानकाले प्राप्ते। प्रपित्वे प्राप्त इति यास्कः। दोषा वस्तोः- दिवारात्रम्। वहीयसः-  त्वद्वाहकान्। अश्वान्- तुरगोपलक्षितप्राणान्। अवसाय- विमुच्येति यास्कः। नियमितान् प्राणान्  विरामं नीत्वेति भावः। वयः- मुमुक्षुप्रतीकभूतं पक्षिणम्। विमुच्य। इन्द्र- परमेश्वर। निषदे-  उपवेशनाय। ते- तुभ्यम्। योनिः- हृदयासनं हृदयगृहं वा। अकारि- कृतम्। तम्- तत्। स्वानः-  शब्दयुख्नः। अर्वा न- अश्व इव। आ- आगत्य। नि षीद- उपविश॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **योनिः** वेद्याख्य स्थानं ते तव **निषदे** निषदनाय उपवेशनाय **अकारि** कृतमस्माभिः प्रकल्पितमभूत् । **तं** योनिम् **आ** **नि** **षीद** शीघ्रमागत्य तत्रोपविश । शीघ्रागमने दृष्टान्तः । **स्वानो** **नार्वा** । अर्वा इति अश्वनाम । यथाश्वः स्वानो हेषाशब्दं कुर्वन् स्वकीयं स्थानं शीघ्रमागच्छति तद्वत् । किं कृत्वा । **वयः** अश्वबन्धनार्थान् रश्मीन् **विमुच्य** रथाद्विश्लिष्य तथा **अश्वान्** रथे योजितांश्च तुरगान् **अवसाय** विमुच्य । अत्र निरुक्तम्-' अवसायाश्वानिति स्यतिरुपसृष्टो विमोचने ' (निरु. १. १७ ) इति । कीदृशानश्वान् । **प्रपित्वे** यागकाले प्राप्ते । ‘ प्रपित्वे प्राप्तेऽभीकेऽभ्यक्ते' ( निरु. ३. २० ) इति यास्कः । **दोषा** रात्रौ **वस्तोः** अहनि च **वहीयसः** आदरातिशयेन वोढॄन् । निषदे । सदेः संपदादिलक्षणो भावे क्विप्। स्वानः । ‘स्यमु स्वन ध्वन शब्दे' । बहुलवचनात् कर्तरि घरञ् । 'कर्षात्वतः° ' इत्यन्तोदात्तत्वम् । वयः । वियन्ति रथेन सह संगच्छन्ते इति विशब्देन रश्मयः उच्यन्ते । वी गत्यादिषु । औणादिकः इप्रत्ययः टिलोपश्च । द्वितीयार्थे प्रथमा । अवसाय ।' षो अन्तकमर्णि '।आदेचः° ' इति आत्वम् ।' समासेऽनञ्पूर्वे॰ ' इति क्त्वो ल्यबादेशः । वहीयसः । ‘ वह प्रापणे ' । तृजन्तात् वोढृशब्दात् ‘तुश्छन्दसि ' इति ईयसुन् । ' तुरिष्ठेमेयःसु ' इति तृलोपे कर्तव्ये ढत्वधत्वष्टुत्वढलोपानामसिद्धत्वात् तदाश्रितस्य ओत्वस्याप्यभावे तृलोप एव क्रियते ॥
@@ -269,7 +272,7 @@ once you have released your vitality [/the birds] and unhitched the horses,  who
 
 As noted in the published introduction, s u vānó nā́rvā in b contains a triple pun, since the participle s u vānáḥ can be read in three different ways: 1) as nom. sg. to the adj.
 
-svāná- ‘sounding’ (√svan ‘sound’)(so Oldenberg, Renou, Witzel Gotō); 2) as athem. med. part. to √sū ‘impel’, used passively (so Geldner); 3) as athem. med. part. to √su ‘press’, also used passively (mentioned by Geldner in n. 1b). In this last case the simile would compare Indra seating himself on the ritual ground to soma placed at the soma press. The diction in the rest of this hemistich is quite similar to that found in soma hymns. Cf., e.g., IX.70.7 ā́yóniṃ sómaḥ súkrtḁ ṃ ní ṣīdati, with yóni-, a form of √kṛ characterizing it, and the verb ní √sad. In the published translation only the first of these is given, because including a set of bracketed alternatives -- "[/ like a steed having been impelled [/ like (soma) the steed being pressed]" -- seemed disruptive and distracting.
+svāná- ‘sounding’ (√svan ‘sound’)(so Oldenberg, Renou, Witzel Gotō); 2) as athem. med. part. to √sū ‘impel’, used passively (so Geldner); 3) as athem. med. part. to √su ‘press’, also used passively (mentioned by Geldner in n. 1b). In this last case the simile would compare Indra seating himself on the ritual ground to soma placed at the soma press. The diction in the rest of this hemistich is quite similar to that found in soma hymns. Cf., e.g., IX.70.7 ā́yóniṃ sómaḥ súkrtḁ ṃ ní ṣīdati, with yóni-, a form of √kṛ characterizing it, and the verb ní √sad. In the published translation only the first of these is given, because including a set of bracketed alternatives -- "[/ like a steed having been impelled [/ like (soma) the steed being pressed]" -- seemed disruptive and distracting.
 
 Pāda b contains the word váyaḥ, which raises the same question as in 103.7: is this the plural to ví- ‘bird’ or the neuter sg. s-stem váyas- ‘vitality, vigor’? Neither of them is an entirely natural object to vimúcyā ‘having released’ in this context. Geldner (/Witzel Gotō) opt for the latter, Oldenberg and Renou for the birds. In the published translation I treat it as a pun, but I am not certain what either phrase would represent.
 
@@ -299,8 +302,6 @@ Hier ist der Schooss zum Sitzen dir bereitet, zur Einkehr löse deine Flügelros
 Испуская жизненную силу, останавливая коней,  
 Которые лучше возят вечером (и) утром – перед едой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

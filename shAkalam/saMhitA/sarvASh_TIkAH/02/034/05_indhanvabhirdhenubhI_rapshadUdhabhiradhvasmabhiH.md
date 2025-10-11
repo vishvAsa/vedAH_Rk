@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्धन्वभिः- इन्धनभूतैः। रप्शदूधभिः- महोधस्कैः। अध्वस्मभिः- अहिंसकैः। धेनुभिः-  चित्किरणभूतैः। पथिभिः- मार्गैः। भ्राजदृष्टयः- ज्वलद्दृष्टयः। समन्यवः- मननशीलाः। मरुतः-  वायवः प्राणविशेषाः। मधोर्मदाय- रसानुभूतये। हंसासः- पक्षिणः। स्वसराणि न- नीडानीव। आ  गन्तन- आगच्छत॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 समन्यवः समानमनस्काः समानक्रोधाः समानतेजसोवाहेमरुतः भ्राजदृष्टयोदीप्यमानायुधायूयं इन्धन्वभिः समिन्धनवद्भिः इन्धनशब्दाच्छन्दसीवनिपावितिमत्वर्थीयोवनिप् छान्दसोवर्णलोपः धेनुभिः प्रीणयितृभिश्च रप् शादूधभिः विरप् शीतिमहन्नाम महोधस्कैः ऊधांसिजलस्रोतोमार्गः यद्वा रपलपव्यक्तायांवाचि शब्दायमानोच्छ्रितप्रदेशैः अध्वरस्मभिः ध्वंसनरहितैः पथिभिः पतन्तिगच्छ- न्तीतिपन्थानोमेघाः एवम्भूतैर्मेघैःसहमार्गैरेववाआगन्तन आगच्छत किमर्थं मधोर्मदाय सोमस्यमदा- र्थं तत्रदृष्टान्तः—हंसासोन यथाहंसाः स्वसराणिस्वकीयानि निवासस्थानानि प्राप्नुवन्तितद्वत् ॥ ५ ॥
@@ -225,8 +228,6 @@ The identity of the three female goddesses is unclear. They could be, with Sāya
 Macdonell (fld. by Doniger and Maurer) suggests that they are the waters of the three worlds, but I am not aware of a “waters of the three worlds” trope.
 
 A more acute problem in this vs. is kṛ̥́tā (in sandhi before vowel; Pp kṛ́tāḥ) in c. There is no agreement as to what stem it belongs to or what grammatical form it represents. Some simply refuse (or fail) to tr. it (Geldner, Doniger, Schaeffer 198-99); others give it a contextual meaning (Macdonell ‘breasts’, Renou ‘plantes’, Maurer ‘nurses’), without attempting etymological justification. Witzel Gotō suggest ‘Spinnerinnen’ (female spinners, spinsters in fact) with a derivation from √kṛt. What makes the word so difficult is the root accent; it would otherwise be easily interpreted as a past participle to √kṛ. The most sensible disc. of the word is Oldenberg’s. He sees it a sexual slang, as in the expression kanyāṃ √kṛ, glossing “die Engjungferte” (deflowered girl). Certainly in English “to make” or “to do” a girl/woman is a perennial slangy verb for “have sex with,” and one can also adduce the expression “to make (s.o.) a woman,” for “deflower, have sex with a virgin.” He justifies the accent retraction from the ppl. kṛtá- (or rather fem. kṛtā́-) on the basis of AiG II.1.19-20, where substantivized adjectives retract their accent. This seems the best hypothesis of a generally bad lot, and it would fit the context, in that pāda d describes Apām Napāt sucking the first milk of females who’ve given birth for the first time (if that’s what pūrvasū́- means; see Scarlatta 620-21) -- which makes sense if the females just lost their virginity in the preceding pāda. I therefore take the word as an acc. pl. fem. to a substantivized kṛ́tā- from the ppl. to √kṛ.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Mit flammenreichen Kühen, deren Euter strotzt, auf unbefleckten Pfaden, lanzeng
 Отправляйтесь, словно гуси – на пастбища,  
 Для опьянения медом, о Маруты единодушные!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

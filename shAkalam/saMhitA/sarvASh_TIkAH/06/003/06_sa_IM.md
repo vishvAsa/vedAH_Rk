@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -250,6 +248,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स ईम्- सोऽयम्। रेभो न- स्तुत्यः सूर्य इव। उस्राः- किरणान्। प्रति वस्ते- निवासयति।  मित्रमहाः- महामित्रभूतः। शोचिषा- स्वप्रकाशेन। रारपीति- शब्दं करोति। य ईम्- सोऽयम्।  नॄन्- मनुष्यान्। नख्नम्- रात्रावपि मनुष्यप्रज्ञया। दिवा- अहनीव दैवप्रज्ञायामिव शोभनं कर्म  कारयति। अमर्त्यः- अमरः सन्। दिवाः- अहनि दैवप्रज्ञायाम्। उपासकान् प्रेरयति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **ईं** सोऽयमग्निः **रेभो** **न** स्तुत्यः सूर्य इव **उस्राः** दीप्ता ज्वालाः **प्रति** **वस्ते** आच्छादयति । तथा **मित्रमहाः** सर्वेषामनुकूलप्रकाशः सन् **शोचिषा** तेजसा **रारपीति** भृशं शब्दं करोति । **यः** **ईं** योऽयमग्निः **नक्तं** रात्रौ **अरुषः** आरोचमानः सन् **दिवा** अहनीव **नॄन्** मनुष्यान् स्वस्वकार्ये प्रेरयति । पुनर्यच्छब्दः पूरकः । तथा **अमर्त्यः** अमरणधर्मा **अरुषः** आरोचमानो रोषरहितो वा **यः** अग्निः **दिवा** द्योतमानेन तेजसा **नॄन्** नेतॄनात्मीयान् रश्मीन् प्रेरयति स इति पूर्वत्र संबन्धः । यद्वा । नक्तं रात्रौ योऽयमग्निररुष आरोचमानो यश्च मरणरहितोऽग्निर्दिवा अह्नि नॄन् नेतॄन् देवान् हविर्भिः संयोजयति । यः दिवा नॄनिति पुनरुक्तिरादरार्था ।
@@ -283,13 +286,13 @@ Given its position, it would be difficult to take it as a preverb with rārapīt
 
 As noted previously, pāda b is metrically bad, with caesura after 3 and a bad cadence mitrámahaḥ, where we should have a heavy penult.
 
-The īm in Wackernagel’s position in pāda a is, in my opinion, a long-distance anticipation of the īm in c, and both are placeholders for nṝ́n at the end of c and d.
+The īm in Wackernagel’s position in pāda a is, in my opinion, a long-distance anticipation of the īm in c, and both are placeholders for nṝ́n at the end of c and d.
 
-This might be clearer if the published translation read “he keeps muttering to them.” The second hemistich consists of a pair of parallel relative clauses with no overt verb. It also, quite unusually, shows verbatim repetition after the caesura: x x x x / aruṣó yó divā́nṝ́n. Such tag repetitions are far more characteristic of short echo pādas in meters like Atyaṣṭi, and even in those meters there tends to be some patterned variation. I don’t know what function this repetition serves here. I would attribute it to the poet’s flagging imagination, except the rest of the hymn bursts with imagination.
+This might be clearer if the published translation read “he keeps muttering to them.” The second hemistich consists of a pair of parallel relative clauses with no overt verb. It also, quite unusually, shows verbatim repetition after the caesura: x x x x / aruṣó yó divā́nṝ́n. Such tag repetitions are far more characteristic of short echo pādas in meters like Atyaṣṭi, and even in those meters there tends to be some patterned variation. I don’t know what function this repetition serves here. I would attribute it to the poet’s flagging imagination, except the rest of the hymn bursts with imagination.
 
 There have been various solutions to the lack of verb in these relative clauses.
 
-Oldenberg, fld. by Renou, supplies ‘protects’ (√pā). There’s nothing wrong with this -- it provides a verb to govern acc. pl. nṝ́n, and “protect men” is a relatively common predicate, as Oldenberg points out. But there’s nothing in the context that imposes this addition; the closest we can come is pā́si in 1d. Geldner takes these as nominal clauses -- “der bei Nacht, der am Tage das rötliche (Ross) der Männer ist” -- which saves him from supplying an unmotivated verb, but requires nṛ́̄n to be a gen. pl., which I think we should avoid if at all possible. The simplest solution, at least as far as I can see, is simply to continue the verb of the first hemistich, rārapīti. The īm of 6a, echoed by īm in c, may suggest that the clauses follow the same template, and as noted above, īm in 6a is easiest to explain if it anticipates nṛ́̄n in the relative clauses. Needless to say, when a verb needs to be supplied in the RV, a silent iteration of a verb in a previous nearby pāda or verse is often the best choice. And in this case the intensive (=frequentative) form of rārapīti in b may be reflected iconically in the implied repetition of Agni’s muttering in the rest of the verb. The next two vss. provide some further support for this suggestion. In 7ab an intensive in the relative clause of pāda is matched by an intensive to the same root in pāda b, and in 8a supplying an intensive in the rel. cl. to match the one in the main clause of b also makes sense.
+Oldenberg, fld. by Renou, supplies ‘protects’ (√pā). There’s nothing wrong with this -- it provides a verb to govern acc. pl. nṝ́n, and “protect men” is a relatively common predicate, as Oldenberg points out. But there’s nothing in the context that imposes this addition; the closest we can come is pā́si in 1d. Geldner takes these as nominal clauses -- “der bei Nacht, der am Tage das rötliche (Ross) der Männer ist” -- which saves him from supplying an unmotivated verb, but requires nṛ́̄n to be a gen. pl., which I think we should avoid if at all possible. The simplest solution, at least as far as I can see, is simply to continue the verb of the first hemistich, rārapīti. The īm of 6a, echoed by īm in c, may suggest that the clauses follow the same template, and as noted above, īm in 6a is easiest to explain if it anticipates nṛ́̄n in the relative clauses. Needless to say, when a verb needs to be supplied in the RV, a silent iteration of a verb in a previous nearby pāda or verse is often the best choice. And in this case the intensive (=frequentative) form of rārapīti in b may be reflected iconically in the implied repetition of Agni’s muttering in the rest of the verb. The next two vss. provide some further support for this suggestion. In 7ab an intensive in the relative clause of pāda is matched by an intensive to the same root in pāda b, and in 8a supplying an intensive in the rel. cl. to match the one in the main clause of b also makes sense.
 
 Although I still think the 2nd half of this vs. is clumsy, it may be clumsy apurpose.
 </details>
@@ -317,8 +320,6 @@ In Morgenroth gekleidet wie ein Sänger, spricht murmelnd er im Licht der Freund
 Кто ночью, кто днем, алый, (охраняет) мужей,  
 Бессмертный, кто днем, алый, (охраняет) мужей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

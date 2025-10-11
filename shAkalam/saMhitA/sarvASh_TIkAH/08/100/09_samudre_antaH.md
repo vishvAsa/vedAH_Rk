@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 antár ← antár (invariable)  
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वज्रः। समुद्रे- अन्तरिक्षस्य। अन्तः- मध्ये। उद्गा- उदकेन। अभीवृतः- आवृतः। शयते-  शेते। अस्मै- तस्मै। संयतः- युद्धस्य। पुरः प्रस्रवणाः- पुरस्ताद्गच्छन्तः। बलिम्। भरन्ति-  आहरन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यः **वज्रः** **समुद्रे** **अन्तः** समुद्रस्य मध्ये **शयते** शेते यश्च **उद्ना** उदकेन **अभिवृतः** **अस्मै** वज्राय **संयतः** संग्रामस्य । ‘सग्मन् संयतः' इति संग्रामनामसु पाठात् । **पुरःप्रस्रवणाः** पुरस्ताद्गच्छन्तः शत्रवः **बलिम्** उपहारं **भरन्ति** धारयन्ति । तस्य छेद्या भवन्तीत्यर्थः ॥
@@ -177,7 +180,6 @@ _________
 The poet now plays another trick. The first pāda “within the sea he/it lies” (samudré antáḥ śayate) returns us to the Vṛtra myth and, we would think, to Vṛtra, who, in the most famous treatment of the myth, I.32, lies (√śi, Vṛtra’s signature verb there) submerged in water after his smiting (e.g., I.32.8 … amuyā́śáyānam … áti yanty ā́paḥ “The waters go across him lying in that way”). Here we have both the signature verb and the water - but it’s the vájra that is lying in the water, not Vṛtra, as we discover in the next pāda. Moreover, in that pāda the mace is ‘covered’ (abhī́vṛtaḥ) with water, using the same root (at least synchronically, whatever its source) as the transitive verb expressing Vṛtra’s obstruction of the waters in 7b (ávīvarīt). Both forms of course also evoke Vṛtra himself, “obstruction” embodied.
 
 As far as I know, this image of the submerged mace receiving tribute from the waters is found nowhere else in the Vṛtra myth complex, and seems to have been invented here for the purpose of verbal trickery.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -211,8 +213,6 @@ Im Innern des Meeres liegt der Blitz von Fluten bedeckt; es bringen ihm die unun
 Несут ему дань  
 Непрерывно текущие вперед (воды).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

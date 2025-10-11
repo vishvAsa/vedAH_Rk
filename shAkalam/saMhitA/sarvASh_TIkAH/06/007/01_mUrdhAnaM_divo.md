@@ -3,7 +3,6 @@ title = "001"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। मूर्धानम्- शिरःस्थानम्। पृथिव्याः- भूम्याः। अरतिम्- गन्तारम्। वैश्वानरम्-  सर्वनरहितम्। ऋते- प्रकृतिनियतिभूतसत्ये। आ जातम्- उद्भूतम्। कविम्- क्रान्तदर्शिनम्।  सम्राजम्- स्वामिनम्। जनानाम्- विशाम्। अतिथिम्। आसन्- देवमुखम्। पात्रम्- पातारम्।  अग्निम्- पावकं सत्क्रतुम्। देवाः- देवताः। आ- आभिमुख्येन। जनयन्त- ससृजुः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मूर्धानं** शिरोभूतम् । कस्य । **दिवः** द्युलोकस्य **पृथिव्याः** प्रथिताया भूमेः **अरतिं** गन्तारम् । यद्वा । गन्तव्यं स्वामिनं **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **ऋते** । ऋतमिति सत्यस्य यज्ञस्य वा नाम । निमित्तसप्तम्येषा । ऋतनिमित्तम् **आ** आभिमुख्येन **जातं** सृष्ट्यादावुत्पन्नं **कविं** क्रान्तदर्शिनं **सम्राजं** सम्यग्राजमानं **जनानां** यजमानानाम् **अतिथिं** हविर्वहनाय सततं गन्तारम् । यद्वा । अतिथिवत्पूज्यम् । **आसन्** आसनि आस्ये । द्वितीयार्थे सप्तमी । आस्यभूतम् । अग्निलक्षणेनास्येन हि देवा हवींषि भुञ्जते । **पात्रं** पातारं रक्षकम् । यद्वा । आस्येन धारकम् । एवंगुणविशिष्टं वैश्वानराग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **आ** **जनयन्त** । यज्ञाभिमुख्येन अजीजनन् । अरण्योः सकाशाद् उदपादयन् ॥
@@ -240,7 +243,6 @@ As a cup for the mouth, the gods generated.
 
 One of the awe-inspiring motifs in shruti is that of agni at the head of heaven, as the wheel of earth & as the cup from which the gods feed. Both metaphors, "head of heaven"& "the mouth of the gods" likely represented year beginning colures.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -270,8 +272,6 @@ Since Agni is often called the mouth of the gods, Geldner (and others) assume th
 Renou considers āsán simply an attribute limiting the pā́tra-, a “récipient pour la bouche, récipient à boire,” while I take it as referring to the gods’ (collective) mouth.
 
 Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -316,8 +316,6 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 Поэта, самодержца, гостя у людей,  
 Породили боги, чтобы устами он пил (возлияния).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

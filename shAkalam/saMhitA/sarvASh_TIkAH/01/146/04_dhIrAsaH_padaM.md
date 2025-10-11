@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धीरासः- धारणावन्तः। कवयः- क्रान्तदर्शिनः। नाना- नानाविधाः। अजुर्यं- अजीर्णमग्निम्। हृदा-  हृदयेन। रक्षमाणाः- पालयन्तः। पदम्- परमं पदम्। नयन्ति। सिषासन्तः- संभख्नुमिच्छन्तः।  सिन्धुम्- मूलशख्निप्रवाहम्। पर्यपश्यन्तः- अन्वभवन्। एभ्यः- एतेभ्यः। नॄन्- नृभ्यः। सूर्यः-  आत्मसूर्यः। आविरभवत्- आविर्बभूव॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धीरासः** धीरा धीमन्तः प्रयोगज्ञा अध्वर्वादयः **अजुर्यम्** अजर्यम् अजीर्णम् एनमग्निं **पदं** स्थानं वेदिलक्षणं **नयन्ति** प्रापयन्ति मथनदेशात् गार्हपत्याद्वा । अथवा वक्ष्यमाणलक्षणा यजमानादयः पदमास्पदं सर्वकामानाम् आस्पदम् एनं गमयन्ति। कीदृशास्ते । **कवयः** क्रान्तदर्शिनो मेधाविनः अनूचाना वा । ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. २ ) इति श्रुतेः । किंच **नाना** **हृदा** बहुप्रकारया बुद्ध्या **रक्षमाणाः** धारयमाणाः । किंच एवंरूपास्ते **सिन्धुं** स्यन्दमानं यज्ञद्वारा फलानि स्रवन्तम् अग्निं **सिषासन्तः** संभक्तुमिच्छन्तः। सनतेः सनि ‘ सनीवन्तर्ध°' इति विकल्पनात् इडभावः । ‘ जनसनखनाम् ' इति आत्वम् ॥ **पर्यपश्यन्त** परितः पश्यन्ति । शुश्रूषन्त इत्यर्थः । किंच **सूर्यः** सर्वस्य प्रसविता अयमग्निः **एभ्यः** एवं कुर्वद्यःश  **नॄन्** नृभ्यो नेतृभ्यः **आविः** **अभवत्** तेषामनुग्रहेण प्रत्यक्षोऽभवत् ॥ नॄनित्यत्र वचनव्यत्ययः॥ नॄन् प्राणिनोऽनुग्रहीतुमिति वा योज्यम् ॥
@@ -234,7 +237,7 @@ manifest to them as the sun toward men.
 
 Pāda c is universally taken as a reference to Agni’s flight, his hiding himself in the waters, and the gods’ discovery and recovery of him there. I find this unlikely, but I do not have a better idea.
 
-nṛ́̄n at the end of d is problematic. Geldner takes it as a truncated gen. pl., hence “the sun of men,” but I would prefer to avoid such grammatical inventions. Sāyaṇa takes it as a dat. (nṝn nṛbhyaḥ), and Oldenberg (SBE and ZDMG 55: 286-88 [=KlSch 745-47]), with a delicate adjustment of that interpr., states that ṇṝ́n can “stand for” different cases, in this instance the dative, though it is an acc. pl. in form. This interpr. makes it functionally parallel to ebhyaḥ, hence Oldenberg’s (SBE) “He the Sun became visible to them, to the men.” I would prefer to keep it functionally the acc. pl. it appears to be formally, and I therefore construe it as a goal with sū́ryaḥ “the sun towards men.” The syntax of this interpr. is pretty dubious, however.
+nṛ́̄n at the end of d is problematic. Geldner takes it as a truncated gen. pl., hence “the sun of men,” but I would prefer to avoid such grammatical inventions. Sāyaṇa takes it as a dat. (nṝn nṛbhyaḥ), and Oldenberg (SBE and ZDMG 55: 286-88 [=KlSch 745-47]), with a delicate adjustment of that interpr., states that ṇṝ́n can “stand for” different cases, in this instance the dative, though it is an acc. pl. in form. This interpr. makes it functionally parallel to ebhyaḥ, hence Oldenberg’s (SBE) “He the Sun became visible to them, to the men.” I would prefer to keep it functionally the acc. pl. it appears to be formally, and I therefore construe it as a goal with sū́ryaḥ “the sun towards men.” The syntax of this interpr. is pretty dubious, however.
 </details>
 
 <details><summary>Griffith</summary>
@@ -265,8 +268,6 @@ Die weisen Seher lenken seine Schritte, behüten sorgsam ihn, der nimmer alt wir
 Стремясь овладеть (им), они осмотрели реку со всех сторон-  
 (И вот) им явилось солнце, (осветив) мужей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

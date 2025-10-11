@@ -3,7 +3,6 @@ title = "004"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमृत- अमृतस्वरूप। त्वाम्। जायमानम्। शिशुम्। न- इव स्थितम्। देवाः। अभि-  आभिमुख्येन। सम्- सम्यक्। नवन्ते- स्तुवन्ति। यत्- यदा। पित्रोः- द्यावापृथिव्योर्मध्ये।  अदीदेः- दीप्यसे। तदा। तव- ते। क्रतुभिः- प्रज्ञाभिः। अमृतत्त्वम्। आयन्- प्राप्नुवन्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अमृत** मरणधर्मरहिताग्ने **विश्वे** सर्वे **देवाः** स्तोतारः **जायमानम्** अरण्योः सकाशात् उत्पद्यमानं **त्वां** **शिशुं** न पुत्रमिव **अभि** **सं** **नवन्ते** अभिसंस्तुवन्ति । यद्वा । दीव्यन्तीति देवा रश्मयः । ते सर्वे जायमानं त्वामभि सं नवन्ते अभिसंगच्छन्ते यथा पितरः पुत्रमभिगच्छन्ति । अपि च हे **वैश्वानर** अग्ने **यत्** यदा **पित्रोः** पालयित्र्योर्द्यावापृथिव्योर्मध्ये **अदीदेः** दीप्यसे तदानीं **तव** त्वदीयैः क्रतुभिः कर्मभिर्ज्योतिष्टोमादिभिर्यागैः **अमृतत्वं** देवत्वम् **आयन्** यजमानाः प्राप्नुवन्ति ।
@@ -249,8 +252,6 @@ I assumed that the first hemistich refers to the regular kindling of the fire an
 However, I now wonder if we should interpret the abstract amṛtatvám in c in light of the voc. amṛta in pāda a. In the first hemistich Agni is addressed as “immortal one” when he is being born and the gods cry out to him; indeed the voc. “o immortal one” might be the content of their cry, expressed in the verb abhí sáṃ navante. In the second hemistich the gods went to immortality (amṛtatvám), that is, to the abstract quality possessed by the one addressed as amṛta, and they did so “according to your [=Agni’s] intentions” (táva krátubhiḥ), again when he was born. The gods’ journey to amṛtatvám may therefore not be one of the distant mythic past (or not only of the distant past), but one they undertake whenever he is kindled. The abstract principle of immortality may also be found in the gen. amṛ́tasya in the last pāda of the hymn (7d), where Agni is identified as its protector.
 
 Note that the phrase víśve … devā́ḥ, parcelled out over two pādas, may teasingly invite us to connect the first term, víśve, with the dominant epithet in this hymn, vaiśvānará-.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
@@ -283,8 +284,6 @@ O dir, unsterblicher, dem neugebor'nen, wie ihrem Kinde jauchzen zu die Götter,
 Благодаря твоим силам духа они пришли к бессмертию,  
 О Вайшванара, когда ты засверкал (в лоне) родителей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

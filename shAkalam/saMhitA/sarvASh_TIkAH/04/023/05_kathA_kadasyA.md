@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कथा- कथम्। कत्- कदा। अस्याः- एतस्याः। उषसः- प्रभात्या विद्याया इत्याध्यात्मिके। व्युष्टौ-  व्युच्छने। देवः- इन्द्रः। मर्त्यस्य- मनुष्यस्य। सख्यम्- मैत्रीम्। जुजोष- सेवेत। ये। अस्मिन्-  एतस्मिन्। सुयुजम्- योगमयम्। कामम्। ततस्रे- वितेनिरे। तेभ्यः। सखिभ्यः- मित्रेभ्यः। कथा-  कथम्। कत्- कदा। सख्यम्- मैत्री भवेत्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवः** द्योतमान इन्द्रः **अस्या** **उषसो** **व्युष्टौ** प्रभाते **मर्तस्य** मर्त्यस्य मनुष्यस्य स्तोतुः संबन्धि **सख्यं** सखिकर्म **कथा** कथं केन प्रकारेण **कत्** कदा **जुजोष** सेवेत । **ये** स्तोतारः **अस्मिन्** इन्द्रे **सुयुजं** सुष्ठु प्रयुज्यमानं **कामं** कामनीयं हविः स्तोत्रं च **ततस्रे** वितेनिरे **अस्य** इन्द्रस्य **सख्यं** सखिकर्म **सखिभ्यः** स्तोतृभ्यः **कथा** कथं **कत्** कदाचित् । भवेदिति शेषः ॥ ॥ ९ ॥
@@ -247,8 +250,6 @@ How and what is his comradeship for his comrades, who have tugged  their well-ha
 <details><summary>Jamison Brereton Notes</summary>
 
 As noted above, fem. asyā́(ḥ) patterns with the ubiquitous asya in this vs.: 5a kathā́kád asyā́/ 5c kathā́kád asya.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -281,8 +282,6 @@ Wie hat der Gott bei dieses Morgens Leuchten Gefallen an des Sterblichen Gemeins
 Как (он дружит) и какова его дружба с друзьями,  
 Которые направили на него (свое) хорошо запряженное желание?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

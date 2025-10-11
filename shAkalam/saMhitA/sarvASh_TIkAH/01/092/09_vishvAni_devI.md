@@ -3,7 +3,6 @@ title = "009"
 devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवी- द्योतनशख्निः। प्रतीची- प्रत्यङ्मुखी। चक्षुः- ज्ञानचक्षुः। विश्वानि- सर्वाणि। भुवनानि।  अभिचक्ष्य- अभिप्रकाश्य। उर्विया- विस्तृतभावनया। वि- विशेषेण। भाति- राजते। विश्वम्-  सर्वम्। जीवम्- प्राणधारणम्। बोधयन्ती- प्रबोधयन्ती। चरसे- सञ्चरसि। विश्वस्य- सर्वस्य।  मनायोः- चित्ताधारभूतप्राणस्य। मुख्यप्राणस्येति भावः। वाचम्- मन्त्रम्। अविदत्- ज्ञातवती॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवी** द्योतमानोषाः **विश्वानि** सर्वाणि **भुवना** भुवनानि भूतजातानि **अभिचक्ष्य** अभिप्रकाश्य प्रकाशवन्ति कृत्वा अनन्तरं **प्रतीची** प्रत्यङ्मुखी सती **चक्षुः** प्रकाशकेन तेजसा **उर्विया** उर्वी विस्तीर्णा सती **वि** **भाति** प्रकाशते । अपि च **विश्वं** **जीवं** सर्वं प्राणिजातं **चरसे** चरणाय स्वस्वव्यापारेषु प्रवर्तनाय **बोधयन्ती** निद्रातः सकाशात् उद्बोधयन्त्युषाः **विश्वस्य** सर्वस्य **मनायोः** मनसा युक्तस्य वाग्व्यवहारसमर्थस्य प्राणिजातस्य या वागस्ति तां **वाचमविदत्** अलभत । अत एवोषसः सूनृतावतीति संज्ञोपपन्ना भवति ॥ अभिचक्ष्य। चक्षिङ् व्यक्तायां वाचि'। अयं प्रकाशनार्थोऽपि ।  ‘ समासेऽनञ्पूर्वे० ' ( पा. सू. ७. १. ३७) इति क्त्वाप्रत्ययस्य ल्यबादेशः । प्रतीची। प्रतिपूर्वात् अञ्चतेः  ‘ ऋत्विक् ' इत्यादिना क्विन् । ' अनिदिताम् । इति नलोपः ।  ‘ अञ्चतेश्चोपसंख्यानम् इति ङीप् । अचः' इति अकारलोपे  ‘ चौ ' इति दीर्घत्वम् । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् । उर्विया । उर्वीशब्दादुत्तरस्य सोः ‘इयाडियाजीकाराणां चोपसंख्यानम् ' ( पा. सू. ७. १. ३९. १) इति डियाजादेशः । आदेशसामर्थ्यात् तस्य लोपो न भवति । मनायोः । मन आत्मन इच्छति मनस्यति । सुप आत्मनः क्यच् ।' क्याच्छन्दसि ' इति उः । वर्णव्यापत्त्या सकारे आकारः । यद्वा ।  ‘ कर्तुः क्यङ् सलोपश्च ' इति क्यङ् सकारलोपश्च ।  ‘ अकृत्सार्वधातुकयोः' इति दीर्घः ॥
@@ -232,8 +235,6 @@ Unfortunately it is not possible to render the three fronted forms of víśva- (
 cákṣuḥ in b can be either nom. or acc. Most tr. take it as the latter, with Dawn facing either the eye(s) of, presumably, humans (so Geldner [/Witzel Gotō], Renou) or the eye of the sun (so Macdonell [Hymns from the Rigveda], Maurer). The latter is unlikely on pragmatic grounds: although the eye of the sun is a standard trope in the RV (see in fact 11d), the sun rises after dawn, and Dawn surely wouldn’t be looking behind her, to the east. The former is certainly possible, but I prefer to take cákṣuḥ as nominative, referring to Dawn as an eye, since she has just been said to oversee (abhicákṣyā) all creatures.
 
 I’m not entirely sure what pāda d refers to, but perhaps it means that by dawning she has stimulated ritual speech and therefore “finds” it.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -272,8 +273,6 @@ Die Göttin, alle Wesen rings beschauend, erstrahlet weit, ihr Auge zu uns wende
 Пробуждая к движению все живое,  
 Она встречает речь (каждого) преданного (поэта).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

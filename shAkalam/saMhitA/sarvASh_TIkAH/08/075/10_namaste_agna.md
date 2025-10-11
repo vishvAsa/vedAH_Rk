@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। ते- तव। ओजसे- बलाय। नमः। देव- द्योतनशील। कृष्टयः- प्रजाः। गृणन्ति- स्तुवन्ति।  अमैः- बलैः। अमित्रम्- शत्रुम्। अर्दय- नाशय॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **देव** **ते** तुभ्यं **नमः** **गृणन्ति** नमस्कारशब्दमुञ्चारयन्ति । किमर्थम् । **ओजसे** बलाय । के। **कृष्टयः** मनुष्या यजमानाः । अतोऽहमपि गृणामीत्यर्थः । तथा **अमैः** बलैः **अमित्रं** शत्रुम् **अर्दय** नाशय ॥ ॥ २५ ॥
@@ -176,10 +179,6 @@ Deiner Stärke, o Gott Agni, sprechen die Völker eine Huldigung aus; mit deinen
 
 Anbetung weihen deiner Macht, o Gott, die Menschen, Agni, dir; Mit Schrecken quäle du den Feind.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

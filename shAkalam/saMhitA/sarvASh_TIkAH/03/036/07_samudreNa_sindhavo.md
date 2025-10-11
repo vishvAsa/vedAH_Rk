@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -180,6 +178,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सिन्धवः- नद्यो यथा। समुद्रेण- समुद्रसङ्गमं याचन्ते तथा। यादमानाः- याचमानाः। इन्द्राय-  परमेश्वराय। सुषुतम्- सुष्ठु निष्पन्नम्। सोमम्- रसम्। भरन्तः- धारयन्तः। हस्तिनः- शोभनहस्तोपलक्षितशोभनकर्मोपेताः। भरित्रैः- भरणसाधनैः। अंशुम्- रसम्। दुहन्ति-  निष्पादयन्ति। धारया। मध्वः- मधुरान् रसान्। पवित्रैः- शुद्धभावनाभिः। पुनन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 समुद्रेण । सहिता नद्यादिरूपेणापोऽभिद्रवन्त्येनमिति समुद्रः । तेन यादमानास्तेन सह सङ्गतिं याचमानाः सिन्दह्वो नद्यो यथा तं पूरयन्ति तद्वद्धस्तिनो हस्तवन्तोऽध्वर्व्यादय इन्द्राय तुभ्यं सुषुतं सुष्ठ्वभिषुतं सोमं भरन्त । सम्पादयन्तोंशुं दुहन्ति । लताखण्डमभिषुण्वन्ति । तथा तेऽध्वर्व्यादयः स्रवतो रसस्य धारया पवित्रैः पावनैर्भरित्रैः । कर्मकरणार्थं पदार्थान्बिभ्रतिति भरित्रा बाहवः । तैर्मध्वो माधुर्योपेतान्सोमान्पुनन्ति । शोधयन्ति । समुद्रेण समुत्पूर्वाद्द्रवतेरन्येभ्योऽपि दृश्यत इति डः । डित्त्वाट्टिलोपः । यद्वा । उन्दी क्लेदने । सम्पूर्वस्य स्फायुतञ्चीत्यादिना रक् । कित्त्वादुपधालोपः । उभयत्र प्रत्ययस्वरः । सुपा सहैकादेशे कृत एकादेश उदात्त एव । यादनाना । टु याचृ याज्ञायाम् । शानच् । व्यत्ययेन चकारस्य दकारः । शानचो लसार्वधातुकस्वरे धातुस्वरः । दुहन्ति । दुह प्रपूरण इत्यस्य लटिरूपम् । भरित्रैः । डुभृञ् धारण पोषणयोरित्यस्मादशित्रादिभ्य इत्रोत्रावितीत्रप्रत्ययः । प्रत्ययस्वरः । पुनन्ति । पूञ् पवन इत्यस्य लटि रूपम् । ॥ ७ ॥
@@ -207,8 +210,6 @@ The standard tr. take pāda a as a simile, with the rivers compared to the pries
 The verse contains two parallel morphological word-plays: bhárantaḥ … bharítraiḥ and punanti … pavítraiḥ, each containing a neuter -tra- instrument noun.
 
 The latter, pavítra- lit. ‘instrument for purifying’, is of course very well attested in the RV, referring to the soma-purifying filters, but bharítra- is a hapax, obviously generated to match pavítra-, including the -i-liaison vowel appropriate only to the seṭ root √pū, not to aniṭ √bhṛ. It is tr. ‘arm’ by all (going back to the Naigh.), but milking with the arms doesn’t make sense in either life or metaphor. I think it means rather ‘hand’ and participates in a different word-play within its pāda: an ‘instrument for carrying’ can easily be a hand, and so it is synonymous with hásta- ‘hand’ found in the immediately preceding word hastín- ‘hand-ed’. There is a further implied verbal twist, at least with my interpr. of ab: the rivers don't have hands but carry anyway, while the priests do have hands but use their carrying appendages for something else. I’m afraid the published translation needed to be quite heavy-handed to convey the deftness of this little play.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -242,8 +243,6 @@ Die Ströme gehen mit dem Schwall der Wogen dem Indra bringend schön gebrauten 
 (Жрецы) с (умелыми) руками выжимают пальцами стебель.  
 Они очищают сладкие (соки) – струей через цедилки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

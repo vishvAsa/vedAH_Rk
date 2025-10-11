@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुत्वानिन्द्रः"
 RShiH = "मरुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मरुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अथ मरुद्वचनम्। अतः- अनेन कारणेन। वयम्। अन्तमेभिः- अस्माकमात्यन्तिकैः। स्वक्षत्रेभिः-  स्वकीयक्षत्रियधर्मैः। युजानाः- युख्नाः। तन्वः- रूपाणि। शुम्भमानाः- दीपयन्तः। इन्द्र- ईश्वर।  नु- क्षिप्रम्। महोभिः- महाभावनैः। एतान्- इमानुपासकहृदयभावान्। उप युज्महे- त्वया  साकमनुभवामः। नः- अस्माकम्। स्वधामनु- स्वधारणामनु। हि- खलु। बभूथ- त्वमभवः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवमुक्ता मरुतः तमेवं ब्रुवते । हे इन्द्र त्वं यस्मात् एवं करोषि **अतः** कारणात् **वयम्** अपि **अन्तमेभिः** अन्तिकतमैः अश्वैः **युजानाः** युक्ताः सन्तः । कीदृशैः । स्वक्षत्रेभिः स्वायत्तबलैः। किंच **महोभिः** तेजोभिः **तन्वः** आत्मशरीराणि **शुम्भमानाः** दीपयन्तः हर्षं प्राप्नुवाना इत्यर्थः । यद्वा । महोभिः स्वमहत्त्वेन युक्ता वयम् **एतान्** गन्तून् नु क्षिप्रम् **उप** **युज्महे** तव साकं हविरादि स्वीकुर्महे इत्यर्थः। हे **इन्द्र** त्वमपि **नः** अस्मत्संबन्धि **स्वधाम्** उदकं बलं वा **अनु** **बभूथ** **हि** अस्मत्सृष्टोदकजन्यं हविः अनुभवसि खलु । हिशब्दः परस्परोपकार्योपकारिभावप्रसिद्धिद्योतनार्थः ॥ ॥ २४ ॥
@@ -253,7 +256,6 @@ yujmahe is a famous crux: though it should belong to the well-attested root aor.
 
 *yuñjmahe belonging to the nasal-infix pres. Although this explanation has a
 plausible foundation (as opposed to Geldner’s motiveless non-redupl. pf.), the coexistence of yujmahe with yujāná- in the same verse, and the general trickiness of Agastya’s poetry, incline me to a nonce, contextual explanation. The oddly placed nú ‘now’ (though see 9a) immediately following the verb form and ending the pāda seems Agastya’s signal that he’s twisted and tweaked the aorist to his own ends -- a temporary present. Thanks to Jesse Lundquist for assembling the relevant lit. and for illuminating disc.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -288,8 +290,6 @@ Aus diesem Grunde haben wir mit den selbstherrlichen Rossen als den nächsten Ge
 О Индра, ты ведь (всегда) считался с нашей природой!  
 Индра:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

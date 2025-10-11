@@ -3,7 +3,6 @@ title = "006"
 devataa = "सविता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जिगीषुः- आवरणविजिगीषुरग्निः। विष्ठितः- चित्तवृत्तीर्निरुद्ध्य। समाववर्ति- पुनरात्मानं स्वमूलं  समावर्तते। विश्वेषाम्- सर्वजगताम्। कामः- क्रतुरूपेण स्थितः। चरताम्- सर्वेषां जीवानाम्।  अमा- शरण्यः। अमाशब्दो  गृहनामसु पठितः। अभूत्- अभवत्। दैव्यस्य सवितुः- सूर्यस्यात्मनः। व्रतम्- नियतिम्। अनु। शश्वान्- नित्योग्निः। विकृतम्- अधर्मम्। अपः- कर्म।  हित्वी- हित्वा। अगात्- स्वमूलं जगाम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 जिगीषुः विजयेच्छुर्योद्धा विष्ठितः युद्धार्थम्प्रस्थितः समाववर्ति समावर्तयति विश्वेषां सर्वेषां चरताञ्जङ्गमानां अमा अमादमइतिगृहनामसुपाठात् गृहम्प्रतिकामोभूत् भवति शश्वान् नित्यङ्कर्म रतः अपः कर्म विकृतं अर्धकृतं हित्वी हित्वा आगात् गृहमागच्छति एतत्सर्वं दैव्यस्य दिवि भवस्य सवितुः प्रेरकस्य सूर्यस्यव्रतं अस्तमयाख्यं कर्मानुजायतइत्यर्थः ॥ ६ ॥
@@ -240,7 +243,7 @@ The first pāda of this vs. takes up the idiom ví √sthā ‘disperse’ found
 
 The verb samā́vavarti is taken by Kümmel (465-66) as a (pseudo-)passive aor. to √vṛt, with ref. to Hoffmann (Aufs. II.589-92), a form that is attested also after the RV (see Kümmel n. 884). The lexeme sám-ā́√vṛt is used in the causative of Dawn’s cows rolling up the darkness (VII.79.2), so here I think the nuance is the gathering or rolling up together of everything that was dispersed during the day, playing on the common opposition between ví and sám that is prominent in this hymn.
 
-Although we might expect víkṛtam to mean ‘badly/wrongly done’, I think the dominant sám / ví play in this hymn trumps that, and if sáṃskr̥ta- is ‘perfected, brought to completion’, víkrtḁ - can mean ‘incomplete, not done’.
+Although we might expect víkṛtam to mean ‘badly/wrongly done’, I think the dominant sám / ví play in this hymn trumps that, and if sáṃskr̥ta- is ‘perfected, brought to completion’, víkrtḁ - can mean ‘incomplete, not done’.
 </details>
 
 <details><summary>Griffith</summary>
@@ -267,8 +270,6 @@ Es kehrt zurück, wer zu erwerben ausging; die Sehnsucht aller Wandrer strebte h
 По завету божественного Савитара.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता
@@ -284,12 +285,12 @@ Es kehrt zurück, wer zu erwerben ausging; die Sehnsucht aller Wandrer strebte h
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (विष्ठितः) विशेषता से स्थित दृढ़ (विश्वेषाम्) समस्त (चरताम्) प्राण धारनेवालों के सुख की (कामः) कामना करने वा (शश्वान्) शीघ्र चलने और (जिगीषुः) जीतने का शील रखनेवाला (अभूत्) होता है वा जो (अमा) घर में (समाववर्त्ति) अच्छे प्रकार वर्त्तमान है (विकृतम्) विकार को प्राप्त हुए (अपः) कर्म को (हित्वी) छोड़ के (दैव्यस्य) विद्वानों से पाये हुए (सवितुः) संसार को उत्पन्न करनेवाले जगदीश्वर के (व्रतम्) नियम को (अनु,आ,अगात्) अनुकूलता से प्राप्त होता वह सुख को भी प्राप्त होता है ॥६॥
+पदार्थान्वयभाषाः -  जो (विष्ठितः) विशेषता से स्थित दृढ़ (विश्वेषाम्) समस्त (चरताम्) प्राण धारनेवालों के सुख की (कामः) कामना करने वा (शश्वान्) शीघ्र चलने और (जिगीषुः) जीतने का शील रखनेवाला (अभूत्) होता है वा जो (अमा) घर में (समाववर्त्ति) अच्छे प्रकार वर्त्तमान है (विकृतम्) विकार को प्राप्त हुए (अपः) कर्म को (हित्वी) छोड़ के (दैव्यस्य) विद्वानों से पाये हुए (सवितुः) संसार को उत्पन्न करनेवाले जगदीश्वर के (व्रतम्) नियम को (अनु,आ,अगात्) अनुकूलता से प्राप्त होता वह सुख को भी प्राप्त होता है ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो मनुष्य सब प्राणियों में सुख-दुःख के व्यवहार में समदर्शी परमेश्वर के उपदेश से विरोध न करनेवाले और पापाचरण को छोड़ निश्चित धर्माचरण को करते हैं, वे निरन्तर सुख को प्राप्त होते हैं ॥६॥
+भावार्थभाषाः -  जो मनुष्य सब प्राणियों में सुख-दुःख के व्यवहार में समदर्शी परमेश्वर के उपदेश से विरोध न करनेवाले और पापाचरण को छोड़ निश्चित धर्माचरण को करते हैं, वे निरन्तर सुख को प्राप्त होते हैं ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

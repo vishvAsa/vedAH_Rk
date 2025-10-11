@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्र- उद्गूर्ण। इन्द्र- परमेश्वर। इदि परमैश्वर्ये। मेघानां पर्जन्यस्य वृष्टेः कारणभूता या  ईशनशख्निरस्ति सैवेन्द्र इत्याधिभौतिके। आध्यात्मिके तु इन्द्रियाणां विषयवासनानां या शख्निश्चित्ते  वशीकरोति तस्या देवतेन्द्रः। गृणानः- स्तुतः सन्। महि ऊर्वं गव्यम्- चिद्रश्मिसमूहम्। तर्दः-  प्रकाशितवानसि।  सोमम्- रसम्। अभि- आभिमुख्येन। पिब- अनुभव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उग्र** उद्गूर्णबल **इन्द्र** **गृणानः** अङ्गिरोभिः स्तूयमानस्त्वं **यं** सोमम् **अभि** उद्दिश्य । पातुमित्यर्थः । **महि** महत् **गव्यं** गोसंबन्धि **ऊर्वं** पणिभिरपहृतं समूहं **तर्दः** प्रकाशितवानसि । तृदिर्हिंसाकर्मात्र प्रकाशनार्थः । तं **सोमं** **पिब** पानं कुरु । हे **धृष्णो** शत्रूणां धर्षक **वज्रहस्त** वज्रपाणे हे इन्द्र **यः** त्वं **शवोभिः** बलैः सहितः सन् **विश्वा** विश्वं **वृत्रम्** आवरकम् **अमित्रिया** अमित्रं शत्रुम् ॥ अमित्रशब्दात् द्वितीयैकवचनस्येयादेशः ॥ **वि** **वधिषः** व्यवधीः स त्वं सोमं पिबेति संबन्धः ॥
@@ -256,8 +259,6 @@ Geldner (flg Grassmann, fld. by Schmidt, Bṛhaspati und Indra, 144) takes yám 
 respectively, with Indra the subject of both, represented by *yáḥ. But how would this corruption arise? Oldenberg suggests that *yáḥ (*yá in this sandhi context) was changed to yám because it immediately follows abhí, but it is hard to conceive of a Rigvedic poet who could be misled by a separable preverb, esp. since the 2nd hemistich has a supposedly parallel rel. cl. containing yáḥ, likewise following a preverb (ví). I agree with Oldenberg that Geldner’s interpr. is unlikely, but I do not think this requires changing the text. Instead I think píbā sómam is an abrupt hortatory opening, essentially detached from the rest of the vs., and I take the yám as referring to the ūrváṃ gávyam. This whole clause anticipates the imperatival main clauses that end the next vss., 2d sá indra citrā́m̐abhí tṛndhi vā́jān and 3d … abhí gā́indra tṛndhi, both with abhí √tṛd and an obj. that refers to the contents of the cattle enclosure. My interpr. requires the rel. cl. of 1ab to float in syntactic suspension till it is resolved in 2d, with a number of other things going on in between -- mostly rel. clauses with Indra as subject, but I do not think this is much to ask of a Rigvedic audience. In fact, I think that the rel. cl. in 1ab is the initial marker of the ring structure that prevails in these three vss.
 
 In d Geldner suggests that vṛtrám is a “collective singular” and should be construed with neut. pl. víśvā amitríyā, tr. “alle feindseligen Vṛtra’s.” I see no advantage to ignoring the number, and the passages he adduces as parallel do not impose the notion of “collective singular.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -292,8 +293,6 @@ Den Soma trink, den, mächt'ger, du erschlossest, so wie den Kuhstall, hochgepri
 Всех врагов недружелюбных – (своими) силами!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -309,7 +308,7 @@ Den Soma trink, den, mächt'ger, du erschlossest, so wie den Kuhstall, hochgepri
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (व्रजहस्त) शस्त्र है हस्त में जिनके ऐसे (धृष्णो) अत्यन्त दृढ़ (इन्द्र) अत्यन्त ऐश्वर्य की इच्छा करनेवाले ! (यः) जो (शवोभिः) बलों से (वृत्रम्) मेघों को सूर्य्य जैसे वैसे (विश्वा) सम्पूर्ण (अमित्रिया) शत्रुओं को आप (वि) विशेष करके (वधिषः) नाश करिये और हे (उग्र) तेजस्विन् (महि) बड़े (गव्यम्) गौओं के घृत की (गृणानः) स्तुति करते हुए (यम्) जिस (ऊर्वम्) हिंसा करने योग्य की (अभि) (तर्दः) हिंसा करिये, उसके सम्बन्ध में वह आप (सोमम्) महौषधि के रस (पिबा) पीजिये ॥१॥
+पदार्थान्वयभाषाः -  हे (व्रजहस्त) शस्त्र है हस्त में जिनके ऐसे (धृष्णो) अत्यन्त दृढ़ (इन्द्र) अत्यन्त ऐश्वर्य की इच्छा करनेवाले ! (यः) जो (शवोभिः) बलों से (वृत्रम्) मेघों को सूर्य्य जैसे वैसे (विश्वा) सम्पूर्ण (अमित्रिया) शत्रुओं को आप (वि) विशेष करके (वधिषः) नाश करिये और हे (उग्र) तेजस्विन् (महि) बड़े (गव्यम्) गौओं के घृत की (गृणानः) स्तुति करते हुए (यम्) जिस (ऊर्वम्) हिंसा करने योग्य की (अभि) (तर्दः) हिंसा करिये, उसके सम्बन्ध में वह आप (सोमम्) महौषधि के रस (पिबा) पीजिये ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

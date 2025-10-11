@@ -3,7 +3,6 @@ title = "047"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। ते- त्वदर्थम्। च- मन्त्रेण। ऋचा- मन्त्रेण। हृदा- हृदयेन। तष्टम्- निर्मितम्। हविः-  भावनामयं हव्यम्। भरामसि- धारयामः। ते- त्वदर्थम्। ते- तानि। उक्षणः- सेचकानि।  ऋषभासः- श्रेष्ठानि। उत- अपि च। वशाः- कान्तानि। भवन्तु- सन्तु॥४७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अनयाध्ययनं प्रशस्यत इत्याश्वलायनो मन्यते (आश्व. गृ. १. १. ५)। हे **अग्ने** **ते** तुभ्यं **हृदा** हृदयेन **तष्टं** संस्कृतम् **ऋचा** ऋग्रूपेण वर्तमानं हविः ऋचमेव हविः कृत्वा **आ** **भरामसि** आहरामः । त इति तच्छब्देन प्रकृतमृग्रूपं हविः परामृश्यते । प्रतिनिर्दिश्यमानापेक्षया पुंस्त्वबहुत्वे । ऋग्रूपं तद्धविः **ते** तुभ्यम् **उक्षणः** उक्षाणः सेचनसमर्थाः **ऋषभासः** ऋषभाः **उत** अपि च **वशाः** च **भवन्तु** । ऋषभवशारूपेण परिणतं सत् त्वद्भक्षणाय भवत्विति शेषः ॥
@@ -218,7 +221,6 @@ let the oxen, bulls, and mated cows be yours.
 <details><summary>Jamison Brereton Notes</summary>
 
 Bloomfield (ad V.6.5) proposes tr. our passage “We bring ... oblation with song fashioned in the mind,” suggesting that “the cases of ṛcā́and havíḥ are inverted.” This is certainly true at the level of deep-structure formula: hṛdā́taṣṭá- “fashioned by the heart” normally modifies a verbal product, e.g. I.171.2 stómo hṛdā́taṣṭáḥ. But, as so often, the poet is playing with our expections by producing a twist on the standard phraseology.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
 <details open><summary><h2>47-48 ...{Loading}...</h2></summary>
@@ -250,8 +252,6 @@ Wir bringen dir, o Agni, unter Gesang den aus liebendem Herzen bereiteten Trank 
 Да будут для тебя эти  
 Быки, волы и коровы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

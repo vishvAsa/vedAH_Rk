@@ -3,7 +3,6 @@ title = "002"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समरे-  सङ्गमने। अतमानाः- चेष्टमानाः शख्नयः। यम्- यत्। वयन्ति- सृजन्ति। तत्।  नाहं  तन्तुं न वि जानाम्योतुम्- कारणकार्यं नाहं जान इति भावः। तन्तवः पटस्य प्रागायत्तानि सूत्राणि।  ओतवस्तिरश्चीनानि सूत्राणि। कस्य स्वित्। परः- श्रेष्ठतरः। पुत्रः। अवरेण। पित्रा- जनकेन  शिक्षितः सन्। इह- अत्र। वत्तवानि- अस्मिन् विषये वख्नव्यानि। वदाति- वक्ष्यति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वैश्वानरस्य महत्त्वमाख्यास्यन्नृषिस्तदर्थं यज्ञं वस्त्रात्मकतया रूपयन् तस्य दुर्ज्ञानत्वमनया प्रतिपादयतीति यज्ञवादिनो मन्यन्ते । **तन्तुम्** । तन्तवः पटस्य प्रागायतानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्र्यादीनि छन्दांसि स्तुतशस्त्राणि च । तानि **अहं** **न** **वि** **जानामि** । तथा **ओतुम्** । ओतवस्तिरश्चीनानि सूत्राणि । तानि चात्र यजूंष्याध्वर्यवाणि कर्माणि च । तान्यहं **न** वि जानामि । अपि चैतदुभयसाध्यं तं पटं यज्ञलक्षणं **न** वि जानामि **यं** पटं यज्ञलक्षणं **समरे** संगमने देवयजने **अतमानाः** सततं चेष्टमाना ऋत्विजः **वयन्ति** तन्तूनोतूंश्च संतन्वन्ति । वस्त्ररूपेण निष्पादयन्ति इत्यर्थः । **इह** अस्मिन् लोके **कस्य** **स्वित्** । स्विदिति वितर्के । कस्य खलु **पुत्रः** मनुष्यः **वक्त्वानि** वक्तव्यानि तानीमानि **परः** परस्तादमुष्मिन् लोके वर्तमानो यः सूर्यस्तस्य **पित्रा** **अवरेण** अवस्तात् अस्मिन् लोके वर्तमानेन वैश्वानराग्निनानुशिष्टः सन् **वदाति** वदेत्। न कश्चिदपि प्रवदितुं शक्नोतीत्यर्थः । एतच्च संप्रदायविद्भिरुक्तं- वैश्वानरस्य पुत्रोऽसौ परस्ताद्दिवि यः स्थितः । छन्दांस्यध्वरवस्त्रस्य स्तुतशस्त्राणि तन्तवः ॥ यजूंषि चेष्टाश्चौतुः स्याद्वस्त्रं वातव्यमध्वरः । परः परः स्थितः सूर्यः पिताग्निः पार्थिवो मतः' इति ॥ रूपकतया जगत्सृष्टेर्दुर्ज्ञानत्वमनया प्रतिपादयतीत्यात्मविदो मन्यन्ते । तन्तुं तन्तून् तन्तुस्थानानि सूक्ष्माणि वियदादीन्यपञ्चीकृतानि भूतानि न विजानामि । ओतुमोतून् पञ्चीकृतानि स्थूलान्योतुस्थानीयान्यपि वियदादीनि न विजानामि । न च तत्कार्यं पटस्थानीयं प्रपञ्चं विजानामि यं प्रपञ्चं समरे तन्तुनामोतूनां च संगमनेऽतमानाः सततं चेष्टमानाः संसारिणो वयन्ति उत्पादयन्ति । तेषां भोगार्थमीश्वरः सृजतीति कर्तृत्वमुपचर्यते । इहास्मिन्विषये परः परस्ताद्बुद्धेरविषये वर्तमानानि वक्त्वानि वक्तव्यानीमान्यवरेणार्वाचीनेन सृष्ट्युत्तरकालमुत्पन्नेन पित्रा स्वजनकेनानुशिष्टः सन् कस्य खलु पुत्रो वदाति । वदेत् । स्वोत्पत्तेः प्राचीनं वृत्तान्तमजानानः कश्चिदपि न वदेदित्यर्थः ॥
@@ -287,8 +290,6 @@ Of course, since the weaving in this verse is metaphorical for poetic compositio
 
 The second hemistich contains two sets of polarized terms: putrá- / pitár- ‘son’ / ‘father’ and pará- / ávara- ‘above’ / ‘below’. (That pará- and ávara- make up a polarized pair is clear from numerous passages in which they are contrasted [e.g., I.164.17, X.88.17].) The case assignment in the text, nominative for the first of each pair, instrumental for the second, makes it clear that it is the son who is above, the father below, although this is the counterintuitive pairing. As noted in the published introduction, despite his professed ignorance of poetic craft, the young poet feels that he must not only equal but surpass his father, to further the poetic lineage. That pará- can mean not only ‘higher’ but also ‘further’, while ávara- means both ‘below’ and ‘nearer’, allows the sense of “furthering” the line also to be read in the passage. The father is close by, both to the poet and the present moment, but the poet himself must go farther, in the future, beyond the model of his father, to speak “what is to be said” (váktvāni); it is perhaps ironic that the only other occurrence of váktva- in the RV outside this hymn is as a genitive pl. dependent on ‘father’: III.26.9 pitáraṃ váktvānām “the father of what is to be said,” referring to Agni. It is a nice touch in our vs. that because ‘father’ is in the instr., it better fits the phonological template of ‘son’ than the direct cases would: putrá … pitrā́.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -321,8 +322,6 @@ Nicht weiss ich recht zu spannen noch zu weben das Werk, was sie zum Wettstreit 
 Чей же сын смог бы произносить  
 Речи выше оказавшегося внизу отца?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

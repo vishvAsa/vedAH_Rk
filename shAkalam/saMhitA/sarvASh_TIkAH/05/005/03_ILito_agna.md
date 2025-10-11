@@ -3,7 +3,6 @@ title = "003"
 devataa = "इळः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वसुश्रुत आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक सत्क्रतो। ईळितः- स्तुतः। चित्रम्- असाधारणम्। प्रियम्। इन्द्रम्- ईशनाधिदैवतम्।  सुखैः- आनन्दकरैः। रथेभिः- रथैः। ऊतये- रक्षायै। इह- अत्र। आ वह॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **ईळितः** स्तुतः सन् **आ** **वहेन्द्रं** **चित्रं** चायनीयं **प्रियम्** **इह** अस्मिन् यज्ञे **सुखैः** **रथेभिः** रथैः **ऊतये** अस्मद्रक्षणाय ॥
@@ -200,8 +203,6 @@ Gepriesner Agni fahre du den lichten, lieben Indra her Auf schnellen Wagen zum G
 На легкоходных колесницах – для поддержки!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आप्रियः
@@ -222,7 +223,7 @@ Gepriesner Agni fahre du den lichten, lieben Indra her Auf schnellen Wagen zum G
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! आप बड़े ऐश्वर्य्य को प्राप्त होके प्रजा के रक्षण के लिये सर्वत्र भ्रमण कीजिये ॥३॥
+भावार्थभाषाः -  हे राजन् ! आप बड़े ऐश्वर्य्य को प्राप्त होके प्रजा के रक्षण के लिये सर्वत्र भ्रमण कीजिये ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

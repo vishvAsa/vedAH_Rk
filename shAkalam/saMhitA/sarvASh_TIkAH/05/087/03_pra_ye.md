@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अतिजगती"
 - ऋषिः - एवयामरुदात्रेयः
 - छन्दः - अतिजगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -266,6 +264,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। बृहतः- महतः। दिवः- नभसः। प्र- प्रकर्षेण। शृण्विरे- श्रूयन्ते। तान्। एवयामरुत्-  मरुदुपासकः। गिरा- वाचा स्तुतवान्। सुशुक्वानः- ते सुशख्नाः। सुभ्वः- शोभनभावनाः। येषाम्-  मरुताम्। सधस्थे- स्थाने। ईरी- प्रेरिता। न। ईष्टे- न ईशते। स्वविद्युतः- स्वप्रकाशाः। धुनीनाम्-  अपाम्। प्र- प्रकर्षेण। स्पन्द्रासः- चालकाः। अग्नयः। न- इव भवन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** मरुतः **बृहतः** महत: **दिवः** द्युलोकादागच्छन्तः **प्र** **शृण्विरे** शृण्वन्ति तान् मरुतः **गिरा** **एवयामरुत्** स्तुतवान्। कीदृशास्ते । **शुशुक्वानः** दीप्ताः **सुभ्वः** सुष्ठु भवन्तः । **येषां** मरुतां **सधस्थे** सहस्थाने स्वकीये निवासे तिष्ठताम् **इरी** ईरिता प्रेरित **न** **ईष्टे** **आ** न ईशते च चालयितुम् । इति चार्थे। **अग्नयो** **न** अग्नय इव **स्वविद्युतः** स्वयमेव विद्योतमानाः **धुनीनां** नदीनां **स्पन्द्रासः** वर्षणेन चालयितारश्च ॥
@@ -306,7 +309,7 @@ devī-type -ī-stem, but of course such stems are rare and problematic in all th
 
 I do not understand the pāda-final ā́. Assuming that ī́ṣte belongs to √īś, that root does not otherwise appear with ā́(or any other preverb). It’s worth noting that ī́ṣṭe here is the only t-full 3rd sg.; the usual and very well-attested 3rd sg. is, of course, ī́śe. We might try to connect the form with √īṣ or √iṣ, but neither is promising formally or semantically.
 
-The last pāda, prá syandrā́so dhúnīnām, confronts us with a lexical conundrum: it contains two plurals, one nom., one gen., both of which are good Marut words. For the Maruts as syandrá- see V.52.3, 8; for dhúni- see dhúni-vratain this hymn (1e) and V.58.2, as well as the simplex adj. in numerous passages (e.g., V.60.7). So which one modifies the (unexpressed) Maruts, and what should we do with the other? The poet seems to be messing with our minds: we encounter the first, syandrā́saḥ, and understandably assume it refers to the Maruts, then come to the second, dhúni-, which is an even more characteristic Marut word, and have to readjust. Geldner supplies ‘chariots’ (Wagen, sim. Witzel Gotō Fahrzeuge) with the nominative, and the published translation tentatively follows that. Renou manages to make both words refer to the Maruts, “(dieux) bruyants qui rapides (vont) de l’avant,” breezily remarking “il n’est pas indispensable de sous-entendre ←←les chars&gt;&gt;.” But, though I’m sympathetic to his intuition that both words should refer to the Maruts, the grammatical difference is unambiguous. In Max Müller’s tr. of this hymn (SBE 32), he tr. “the rushing chariots of these roaring Maruts come forth” and notes that “chariot” was Oldenberg’s suggestion (presumably in their consultation on the SBE translations; the suggestion is not registered in the Noten). One of the problems with supplying ‘chariots’ is the preceding pāda (d), also in the nom. pl., which seems clearly to describe the Maruts.
+The last pāda, prá syandrā́so dhúnīnām, confronts us with a lexical conundrum: it contains two plurals, one nom., one gen., both of which are good Marut words. For the Maruts as syandrá- see V.52.3, 8; for dhúni- see dhúni-vratain this hymn (1e) and V.58.2, as well as the simplex adj. in numerous passages (e.g., V.60.7). So which one modifies the (unexpressed) Maruts, and what should we do with the other? The poet seems to be messing with our minds: we encounter the first, syandrā́saḥ, and understandably assume it refers to the Maruts, then come to the second, dhúni-, which is an even more characteristic Marut word, and have to readjust. Geldner supplies ‘chariots’ (Wagen, sim. Witzel Gotō Fahrzeuge) with the nominative, and the published translation tentatively follows that. Renou manages to make both words refer to the Maruts, “(dieux) bruyants qui rapides (vont) de l’avant,” breezily remarking “il n’est pas indispensable de sous-entendre ←←les chars>>.” But, though I’m sympathetic to his intuition that both words should refer to the Maruts, the grammatical difference is unambiguous. In Max Müller’s tr. of this hymn (SBE 32), he tr. “the rushing chariots of these roaring Maruts come forth” and notes that “chariot” was Oldenberg’s suggestion (presumably in their consultation on the SBE translations; the suggestion is not registered in the Noten). One of the problems with supplying ‘chariots’ is the preceding pāda (d), also in the nom. pl., which seems clearly to describe the Maruts.
 
 If syandrā́saḥ does not refer to the Maruts but to their chariots, we must either assume that the flashing entities in d are also chariots or put an unsignalled break between the two pādas. The published translation essentially does the latter, but it is unsatisfactory.
 
@@ -338,8 +341,6 @@ Die vom hohen Himmel her mit ihrer Stimme sich hören lassen, die sehr leuchtend
 Вы(езжают) стремительные (колесницы) сотрясателей.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरूतः
@@ -355,12 +356,12 @@ Die vom hohen Himmel her mit ihrer Stimme sich hören lassen, die sehr leuchtend
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (ये) जो (सुशुक्वानः) उत्तम प्रकार शुद्ध (सुभ्वः) और सुन्दर धर्मयुक्त व्यवहार में होनेवाले (दिवः) कामना करते हुओं वा बिजुली आदिकों को जैसे (स्वविद्युतः) अपने स्वरूप से व्याप्त और (धुनीनाम्) कम्पन क्रिया से युक्त भूमि आदिकों के (स्यन्द्रासः) पिघलते हुए वा पिघलाते हुए (अग्नयः) अग्नियाँ (न) वैसे (गिरा) वाणी से (बृहतः) बड़े (प्र, शृण्विरे) सुनते हैं और (येषाम्) जिनका (एवयामरुत्) विज्ञानवाला मनुष्य (इरी) प्रेरणा करनेवाला (सधस्थे) समान स्थान में (न) जैसे वैसे (प्र, ईष्टे) स्वामी होता है, उनको आप लोग (आ) अच्छे प्रकार जानिये ॥३॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (ये) जो (सुशुक्वानः) उत्तम प्रकार शुद्ध (सुभ्वः) और सुन्दर धर्मयुक्त व्यवहार में होनेवाले (दिवः) कामना करते हुओं वा बिजुली आदिकों को जैसे (स्वविद्युतः) अपने स्वरूप से व्याप्त और (धुनीनाम्) कम्पन क्रिया से युक्त भूमि आदिकों के (स्यन्द्रासः) पिघलते हुए वा पिघलाते हुए (अग्नयः) अग्नियाँ (न) वैसे (गिरा) वाणी से (बृहतः) बड़े (प्र, शृण्विरे) सुनते हैं और (येषाम्) जिनका (एवयामरुत्) विज्ञानवाला मनुष्य (इरी) प्रेरणा करनेवाला (सधस्थे) समान स्थान में (न) जैसे वैसे (प्र, ईष्टे) स्वामी होता है, उनको आप लोग (आ) अच्छे प्रकार जानिये ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे मनुष्यो ! जो विद्या की कामना करनेवाले जन बड़ी विद्याओं को प्राप्त होकर बिजुली आदि पदार्थों को स्वाधीन करते हैं, वे ही सिद्ध इच्छावाले होते हैं ॥३॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे मनुष्यो ! जो विद्या की कामना करनेवाले जन बड़ी विद्याओं को प्राप्त होकर बिजुली आदि पदार्थों को स्वाधीन करते हैं, वे ही सिद्ध इच्छावाले होते हैं ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

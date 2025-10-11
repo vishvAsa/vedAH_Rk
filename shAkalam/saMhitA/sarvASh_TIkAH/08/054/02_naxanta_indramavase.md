@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येषाम्। सुतेषु- निष्पादनेषु। मन्दसे- तुष्यसि। ते। इन्द्रम्- परमेश्वरम्। अवसे- रक्षायै।  सुकृत्यया- शोभनकर्मणा। नक्षन्त- व्याप्नुवन्ति। यथा। संवर्ते- तपसि सम्यग्वर्तमाने। यथा।  कृशे- तपसा कार्श्यं गते। अमदः- तुष्यसि। एव- तथा। अस्मे- अस्मासु। इन्द्र। मत्स्व- तुष्टो  भव॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -243,8 +246,6 @@ Dir, Indra, nahn mit heil'gem Werk um Hülfe sie, an deren Tränken du dich labs
 Как опьянялся ты у Самварты, как у Криши,  
 Ты у нас опьяняйся, о Индра!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

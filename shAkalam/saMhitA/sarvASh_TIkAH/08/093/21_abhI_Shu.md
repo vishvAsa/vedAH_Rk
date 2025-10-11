@@ -3,7 +3,6 @@ title = "021"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्मभ्यम्। सहस्रिणम्- प्रभूताम्। रयिम्- दानयोग्यसम्पदम्। मन्दसानः- तुष्टः। अभि-  आभिमुख्येन। सु- सुष्ठु। त्वम्। प्रयन्ता- नियन्ता सन्। दाशुषे- दात्रे। बोधि- बुद्ध्यस्व॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्र्ो **त्वं** **मन्दसानः** अस्माभिर्दत्तेन सोमेन मोदमानः सन् **सहस्रिणं** सहस्रसंख्याकं धनं **नः** अस्मभ्यं **सु** सुष्ठु **अभि** आभर । तदेवाह । त्वं **दाशुषे** हविर्दत्तवते यजमानाय **प्रयन्ता** धनादेः प्रदाता कर्मणो नियन्ता वा भवानीति **बोधि** बुध्यस्व । ‘बुध अवगमने'। भौवादिकः । लोटि छान्दसो विकरणस्य लुक् । हेर्धिः। धित्वे धकारलोपश्छान्दसः ॥
@@ -177,10 +180,6 @@ Bring du uns doch ja nach Tausenden zählenden Reichtum, wenn du dich ergötzest
 
 Erfreuten Sinnes reiche bald uns tausendfachen Reichthum dar, Sei Spender dem Verehrenden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

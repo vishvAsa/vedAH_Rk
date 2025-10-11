@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -239,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रिः सप्त- सप्त लोकाः सप्त सिन्धवः सप्त मरुत इति त्रिः सप्त तत्त्वानि। गुह्यानि- रहस्यानि। त्वे-  त्वयि। इत्- एव। निहिता- निहितानि। पदानि- तानि पदानि। यज्ञियासः- यज्ञसंबन्धिन उपासका  देवा वा। अविदन्- लेभिरे। तेभिः- तैः। अमृतम्- अमृतस्वरूपं सोमम्। रक्षन्ते- पालयन्ति।  सजोषाः- समानप्रीतिस्त्वम्। पशून्- कवीन्। पश्यतीति पशुः। स्थातॄन् चरथम्- स्थावरजङ्गमं  च। पाहि- रक्ष॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रिः सप्त** एकविंशतिसङ्ख्याकानि गुह्यानि रहस्यानि वेदैक-समधि-गम्यानि **यद्** यानि **पदा** पदानि । पद्यते गम्यते स्वर्ग एभिरिति व्युत्पत्त्या पदशब्देनात्र यज्ञा उच्यन्ते । ते चैक-विंशति-सङ्ख्याकाः । औपासन-होम-वैश्वदेवादयः सप्त पाकयज्ञाः । अग्न्याधेय-दर्शपूर्णमासादयः सप्त हविर्यज्ञाः । अग्निष्टोमात्यग्निष्टोमादयः सप्त सोमयज्ञाः । एवम् एकविंशति सङ्ख्याकानि यज्ञलक्षणानि पदानि हे अग्ने **त्वे इत्** त्वय्य् एव **निहिता** स्थापितानि । तेषां सर्वेषां त्वत्-प्रधानत्वात् । न ह्य् अग्निम् अन्तरेण यागा अनुष्ठातुं शक्यन्ते । 
@@ -272,7 +275,7 @@ The Pp. reads unaccented avidan, but accented ávidan should be extracted from t
 
 As often with RVic numerology, the identity of the three times seven secret padā́is not clear. Geldner tr. padā́as Wörte (sim. Renou), which is certainly possible and has parallels (see Geldner’s disc. in n. to 6ab), but the padé paramé that figured significantly earlier in the hymn (2d, 4d) should be kept in mind. Moreover, in the next vs. Agni is said to be “inwardly knowing the roads (ádhvanaḥ) leading to the gods” (7c), and since the padā́were found in Agni here, it may be that these padā́are tracks and identical to the ádhvanaḥ that he inwardly knows. As I argued in the published introduction, I think the padā́are the “tracks” of the ritual.
 
-What amṛ́tam refers to is also unclear; it could be, as Sāyaṇa suggests, Agni, or simply “immortality, the immortal principle” (so Renou). It unfortunately cannot be the body, which is fem. Note the “way towards immortality” (amṛtatvā́ya gātúm) in 9b below. The phrase sthātṝ́n caráthaṃ ca with its number mismatch shows Parāśara’s fondness for this merism (I.66.9, 68.1, 70.3, 7) and the grammatical anomaly found in most of the occurrences in his oeuvre; see disc. ad locc.
+What amṛ́tam refers to is also unclear; it could be, as Sāyaṇa suggests, Agni, or simply “immortality, the immortal principle” (so Renou). It unfortunately cannot be the body, which is fem. Note the “way towards immortality” (amṛtatvā́ya gātúm) in 9b below. The phrase sthātṝ́n caráthaṃ ca with its number mismatch shows Parāśara’s fondness for this merism (I.66.9, 68.1, 70.3, 7) and the grammatical anomaly found in most of the occurrences in his oeuvre; see disc. ad locc.
 </details>
 
 <details><summary>Griffith</summary>
@@ -303,8 +306,6 @@ Da dreimal sieben tief verborgne Spuren, die in dir sind, die heiligen gefunden,
 Ими они единодушно охраняют бессмертие.  
 Защити скот, а также неподвижные и подвижные (существа)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

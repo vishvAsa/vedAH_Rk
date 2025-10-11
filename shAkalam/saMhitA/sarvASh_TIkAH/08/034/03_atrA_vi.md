@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अत्र। एषाम्- अभिषवग्राव्णाम्। नेमिः- सोमलताम्। उराम्- मेषीम्। वृकः। न- इव। वि-  विशेषेण। धूनुते- कम्पयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्र** अस्मिन् यज्ञे **एषाम्** अभिषवग्राव्णां **नेमिः** सोमलतां **वि** **धूनुते** विशेषेण कम्पयति । **उरां** मेषीं **वृको** **न** वृक इव । सिद्धमन्यत् ॥
@@ -222,8 +225,6 @@ Der Steine Umfang schüttelt dort den Soma, wie der Wolf das Lamm; Von jenes Her
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

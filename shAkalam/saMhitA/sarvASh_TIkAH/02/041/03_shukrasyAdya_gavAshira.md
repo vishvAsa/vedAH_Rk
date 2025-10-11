@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रवायू"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्य- इदानीम्। नरा- नेतारौ। इन्द्रवायू- इन्द्र ईशनाधिदेवता। वायुः प्राणाधिदेवता। नियुत्वतः- प्राणप्रणालीयुख्नस्य। गवाशिरः- चिद्रश्मिमिश्रितस्य। शुक्रस्य- शुद्धरसस्यानुभूतये। आ यातम्-  आगच्छतम्। पिबतम्- अनुभवतम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेनरानेतारौ हेइन्द्रवायू अद्यास्मिन्नहनिनियुत्वतः विभक्तिव्यत्ययः नियुत्वन्तौ युवां गवा शिरः गव्यम्पयः आशीराश्रयणसाधनंयस्य तस्यशुक्रस्यदीप्तस्य सोमस्य पानार्थं आयातं आगच्छ तं आगत्यसोमम्पिबतम् ॥ ३ ॥
@@ -157,8 +160,6 @@ drive here and drink it, men!
 The stem niyútvant- (3b) is repeated from 1c and 2a, as noted above, but here as an apparent gen. sg. modifying the soma drink (or rather one of them), not a god or gods. Geldner (n. 3b) suggests that it is a metrically conditioned “hypallage” for dual niyútvantā, which would qualify Indra and Vāyu. This is a clever idea and would restore parallelism to the phraseology of the tṛca, though I’m not sure that’s necessary: Rigvedic poets enjoy tweaking parallelism in the syntactic equivalent of a slant rhyme. Oldenberg floats a truly oddball idea, unworthy of his usual acuity: that niyútvant- should modify an unexpressed ráthena but in the absence of a head noun in the proper case it gets sucked [not Oldenberg’s term] into the gen. by the “benachbarte” gen. Even if this were a reasonable explanation in principle -- that an untethered adj.
 
 could be captured by an adjacent or nearby word in another case -- niyútvataḥ is actually in a different pāda from the other genitives and is adjacent only to the dual dvandva índrāvāyū.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -191,8 +192,6 @@ Von diesem milchgemischten trinkt, dem reinen, vielbespannten heut, O Männer In
 Смешанного с молоком (сомы), о Индра-Ваю,  
 Правя упряжками, приезжайте, о два мужа!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

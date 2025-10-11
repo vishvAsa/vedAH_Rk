@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)
 _________
 **Morph**  
 adyá ← adyá (invariable)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नीषोमा। यः। अद्य- इदानीम्। वांम्- युवयोः। इदम्- एतत्। वचः- वाक्यम्। सपर्यति- पूजितं  करोति। तस्मै। सुवीर्यं- शोभनवीर्यम्। गवाम्- चिद्रश्मीनाम्। पोषम्- पुष्टिम्। स्वश्व्यम्-  शोभनप्राणम्। धत्तम्- धारयतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्नीषोमौ **यः** यजमानः **अद्य** अस्मिन् कर्मणि **वां** युवाभ्यां युष्मदर्थम् **इदं** स्तुतिलक्षणं **वचः** वाक्यं **सपर्यंति** पूजितं करोति **तस्मै** यजमानाय **गवां** पशूनां **पोषम्** अभिवृद्धिं **धत्तं** प्रयच्छतम् । कीदृशं पोषम् । **सुवीर्यं** शोभनेन वीर्येण सामर्थ्येनोपेतं **स्वश्व्यं** शोभनैरश्वैर्युक्तम् ॥ गवाम् । ‘सावेकाचः' इति प्राप्तस्य विभक्त्युदात्तत्वस्य ‘न गोश्वन्साववर्ण ' इति प्रतिषेधः ॥
@@ -230,8 +233,6 @@ O Agni-Soma, dem der heut mit diesem Liede euch verehrt, Dem reicht der Rinder M
 Того наделите прекрасными мужами,  
 Изобилием коров, обладанием прекрасными конями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

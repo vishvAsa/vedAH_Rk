@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्राबृहस्पती"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। द्रप्सः- वेगवान्। अंशुमत्याः- रसधारकमूलशख्निधारायाः। उपस्थे- अन्तिके।  तित्विषाणः- देदीप्यमानः। तन्वम्- स्वदेहम्। अधारयत्। अदेवीः- अन्धकारमयीः। विशः-  प्रजाः। अभ्याचरन्तीः- आगच्छन्तीः। इन्द्रः- ईशनाधिदेवता। बृहस्पतिना- मेधामन्त्राधिदेवतया।  युजा- युख्नः। अभि ससहे- अभ्यभवत्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अध** अथ **द्रप्सो** द्रुतगामी **कृष्णः**  
@@ -229,6 +232,7 @@ Schlerath also point out that the last word of the hymn is rājan.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -258,10 +262,6 @@ Da behauptete sich Drapsa in schlimmer Lage im Schoße der Amsumati zornfunkelnd
 
 Da nun erhielt im Schooss des Somastromes der Tropfen funkelnd erst sein rechtes Aussehn; Die gottvergessnen Stämme, die sich nahten, bezwang vereint mit dem Gebetsherrn Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

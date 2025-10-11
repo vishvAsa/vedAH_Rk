@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मातरिश्वा काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वे- सर्वे। सजोषसः- समानप्रीतयः। देवासः- देवाः। नः- अस्मान्। आ उप गन्तन-  आगच्छत। वसवः- शरण्याः। रुद्राः- द्रवणशीलाः। अवसे- रक्षायै। नः- अस्मान्। आ गमन्-  आगच्छन्तु। मरुतः- वाताः प्राणविशेषा वा। हवम्- आह्वानम्। शृण्वन्तु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -253,8 +256,6 @@ Ihr Götter, kommet doch zu uns, ihr alle, eines Sinnes her, Die Vasu's, Rudra's
 Пусть Васу (и) Рудры придут нам на помощь!  
 Пусть Маруты услышат (наш) зов!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

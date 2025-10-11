@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पद्या- चरणीया पृथिवी। पुरुरूपा- बहुरूपिणी। वपूंषि- मनुष्यादीनां देहान्। वस्ते- निवासयति।  त्र्यविम्- वत्समग्निम्। रेरिहाणा- लिहती। ऊर्ध्वा- उत्कृष्टा। तस्थौ। विद्वान्- एतज्जानन्। ऋतस्य  सुद्म- यज्ञसदने। वि चरामि। महद्देवानामसुरत्त्वमेकम्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पद्या** । जगत्स्रष्टुः परमेश्वरस्य पद्भ्यां जातत्वात् पद्या भूमिः । तथा च मन्त्रवर्णः -- ‘पद्यांया भूमिः' (ऋ. सं. १०.९०.१४) इति । यद्वा पादसंचारे साधुः पद्या भूमिः **पुरुरूपा** नानाविधस्वरूपाणि **वपूंषि** स्थावरजङ्गमात्मकानि रूपाणि **वस्ते** आच्छादयति । सैषा भूमिः **ऊर्ध्वा** उत्तरवेद्यात्मनोन्नता सती स्वसारभूतेन हविषा **त्र्यविम्** । सार्धसंवत्सरवयस्को वत्सस्त्र्यविरित्युच्यते । तस्प्रमाणमादित्यम्। त्रीन् लोकान् अवति स्वतेजसा व्याप्नोतीति त्र्यविरिति वा । **रेरिहाणा** लिहती **तस्थौ** । **ऋतस्य** सत्यभूतस्यादित्यस्य **सद्म** स्थानं **विद्वान्** जानानोऽहं **वि** **चरामि** हविर्भिः तमादित्यं परिचरामि ॥ पद्या । पादशब्दात् ' भवे छन्दसि' इति यत् । **पद्यत्यतदर्थे** ' ( पा. सू. ६.३.५३ ) इति पादस्य पद्भावः । यद्वा । तत्र साधुः' इति यत् । यतोऽनावः' इति
@@ -254,7 +257,6 @@ I roam through the seat of truth as a knowing one. – Great is the one  and onl
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) takes pádyā as merely a locational ‘unten’, contrasting with ūrdhvā́at the beginning of the next pāda. It seems unlikely that a formation with so much lexical content would be used in so colorless a manner, esp. given the deployment of padá-forms elsewhere in the hymn (padé iva níhite beginning the next vs. [15a], padé góḥ 1b, padajṇā́ḥ 2b). The “feet” of Dawn are presumably, in naturalistic terms, the light of dawn nearest to the horizon; shining through morning mists it will take on various shapes and colors. (Lüders [617 n. 3] suggests that the various shapes and forms are vegetation on the earth, which is also worth considering.) But in mytho-ritual terms, if Dawn is the cow nurturing the young fire in 13b (as well as pāda b in this vs.), the “wondrous forms” (vápūṃṣi) she clothes herself in and the “many shapes” she possesses (pururū́pā) are the forms and colors of the fire over which she stands. That the scene is set on the ritual ground is suggested by pāda c, where “I” roam across “the seat of truth” (ṛtásya sádma), which I take as a reference to seat of the ritual. Geldner (/Witzel Gotō), however, interpret the pāda as simply meaning “I wander ‘im Geiste’” -- I think because of the vidvā́n ‘knowing’, though that word usually refers to knowledge of the ritual or to cosmic knowledge related to the religio-ritual system. With Geldner (/Witzel Gotō) I take pururū́pā as fem. nom. sg.; however, it can equally be neut. acc. pl. (with Grassmann and Renou) modifying vápūṃṣi. The choice actually has almost no effect on the sense of the pāda.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
@@ -288,8 +290,6 @@ Sie legt sich an den schönen Schmuck der Füsse, stand aufrecht nun, das junge 
 Я брожу в лоне закона как знаток.  
 Велико могущество богов, единственно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    उत- अपि च। यत्र। इन्द्र। मर्त्याय- मनुष्याय। सूर्यं- सवितारम्। अरिणाः- प्रेरितवान्।  शचीभिः- प्रज्ञाभिः। एतशम्- प्राणाश्वम्। प्रावः- प्रकर्षेण रक्षितवान्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** यस्मिन् संग्रामे **उत** अपि च हे **इन्द्र** त्वं **मर्त्याय** मनुष्याय एतशाख्याय ऋषये **सूर्यम्** **अरिणाः** अहिंसीः । **कम्** इति पूरणः । तदानीं **शचीभिः** युद्धकर्मभिः **एतशम्** एतत्संज्ञकमृषिं **प्रावः** प्रकर्षेणारक्षः ॥॥ २ ॥
@@ -162,7 +165,6 @@ and you helped Etaśa through your powers.
 <details><summary>Jamison Brereton Notes</summary>
 
 The purport of this verse is something of a puzzle. I think the point is that the journey undertaken by Indra in vs. 4 has finally brought him here, with both his battle-lust and his equipment on full display, in order to drink soma with the ritualists (including the “I” of the speaker). Cf. nearby IV.29.2, where Indra presents himself in a non-intimidating way (or so he thinks) and “becomes exhilarated along with the heroes who have pressed the soma.” Here his arrival is at sunrise, and “I” have a share in the soma along with Indra at that time. In order to make sense of 6c, we need to understand/supply ábhakṣi from 5c (as Geldner [/Witzel Gotō] do also). Although Klein (DGRV II.129) thinks the two ádha’s in c have different functions, the pointed parallel structure of that short pāda -- ádha LOC ádha LOC -- makes that conclusion quite unlikely in its strong form -- though I think it is the case that the formal parallelism conceals a functional distinction (different from the one suggested by Klein). The question is how to construe the locatives, and it is here that the sácā in 5c comes into play. As I noted apropos of that pāda, the sácā there seems just to signal that the loc. sū́rye is a functional loc. absol. In our pāda c there is no sácā, but I think it should be understood. On the one hand, it again (silently) marks sū́rye as a loc. absol.; however, with índre I suggest it has lexical value (as it likely has in the two occurrences of tvé sácā in the next hymn [IV.32.3c, 4a]), indicating that “I” take my share in Indra’s company. What I am suggesting is that a non-overt sácā, supplied on the basis of its occurrence in the previous vs., has two different functions in a single pāda, a pāda whose structure suggests that its parts should be rigidly parallel. This is not sufficiently conveyed by the published translation -- I am not sure that English is up to conveying it -- which I would now emend to “(I have taken my share) now in (company with) you, now in (company with) the sun (i.e., at sunrise).”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -200,8 +202,6 @@ Als du den Sterblichen zum Heil die Sonne, Indra, triebst zum Lauf, Ihr Ross dur
 Силами (своими) ты поддержал Эташу.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -217,12 +217,12 @@ Als du den Sterblichen zum Heil die Sonne, Indra, triebst zum Lauf, Ihr Ross dur
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) सुख के देनेवाले आप (सूर्य्यम्) सूर्य्य को वायु के सदृश (शचीभिः) बुद्धियों वा कर्म्मों से (एतशम्) विद्या को प्राप्त घोड़े के सदृश बलवान् की (प्र, आवः,) रक्षा करें (यत्र) जिस राज्य में (मर्त्याय) मनुष्य के लिये (कम्) सुख (अरिणाः) देवें वहाँ (उत) भी दुष्टों को दुःख देवें ॥६॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) सुख के देनेवाले आप (सूर्य्यम्) सूर्य्य को वायु के सदृश (शचीभिः) बुद्धियों वा कर्म्मों से (एतशम्) विद्या को प्राप्त घोड़े के सदृश बलवान् की (प्र, आवः,) रक्षा करें (यत्र) जिस राज्य में (मर्त्याय) मनुष्य के लिये (कम्) सुख (अरिणाः) देवें वहाँ (उत) भी दुष्टों को दुःख देवें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जहाँ राजा श्रेष्ठों का सत्कार और दुष्टों को दण्ड देकर विद्या और विनय को बढ़ाता है, वहाँ सम्पूर्ण प्रजा स्वस्थ होती है ॥६॥
+भावार्थभाषाः -  जहाँ राजा श्रेष्ठों का सत्कार और दुष्टों को दण्ड देकर विद्या और विनय को बढ़ाता है, वहाँ सम्पूर्ण प्रजा स्वस्थ होती है ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

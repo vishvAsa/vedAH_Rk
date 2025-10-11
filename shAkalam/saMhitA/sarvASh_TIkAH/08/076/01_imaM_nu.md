@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमम्- एतम्। नु- क्षिप्रम्। मायिनम्- प्रज्ञावन्तम्। ओजसा- बलेन। ईशानम्- ईश्वरम्।  मरुत्वन्तम्- वातवन्तं प्राणयुख्नम्। न- च। इन्द्रम्- ईशनाधिदैवतम्। वृञ्जसे- शत्रुच्छेदनाय। हुवे-  आह्वये॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इमं** **मायिनं** प्रज्ञावन्तम् **ओजसा** स्वबलेन **ईशानं** सर्वस्य स्वामिनं **मरुत्वन्तं** **न** । नेति संप्रत्यर्थे । मरुद्भिस्तद्वन्तमिदानीम् **इन्द्रं** वृञ्जसे शत्रूणां छेदनाय **हुवे** आह्वयामि ॥
@@ -174,10 +177,6 @@ Diesen listenreichen Indra rufe ich jetzt, der durch seine Stärke mächtig ist,
 
 Nun ruf ich diesen weisen an, den Indra mit der Marutschar, Der kraftvoll herrscht, er weiche nicht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

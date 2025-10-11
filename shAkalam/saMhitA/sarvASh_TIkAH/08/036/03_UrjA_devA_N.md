@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "शक्वरी"
 - ऋषिः - श्यावाश्वः
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -276,6 +274,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऊर्जा- बलेन प्राणेन। देवान्। ओजसा- तेजसा। अवसि- रक्षसि। त्वामपि स्वयमेव रक्षसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **देवान्** **ऊर्जा** अन्नेन हविषा **अवसि** रक्षसि । **त्वाम्** अपि **ओजसा** बलेन अवसि । सिद्धमन्यत् ॥
@@ -331,8 +334,6 @@ Mit Stärkung labst die Götter du, mit Kraft dich selbst, den Soma trink zum Ra
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शूर- समर्थ।अभिभूते- शत्रूणामभिभावुक। नः- अस्मदर्थम्। शविष्ठं शवः- अतिशयबलम्।  ओजिष्ठमोजः- अतिशयतेजः। उग्रम्- उद्गूर्णम्। आ भर- आहर। हरिवः- प्राणाश्वसम्पन्न।  मानुषाणाम्- मनुष्याणाम्। विश्वा- सर्वाणि। द्युम्ना- द्युम्नानि। वृष्ण्या- वर्षकानि। अस्मभ्यम्-  नः। मादयध्यै- आनन्दाय। दाः- यच्छ॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शूर** विक्रान्तेन्द्र **शविष्ठं** बलवत्तमं **शवः** बलं **नः** अस्मभ्यम् **आ** **भर** आहर । हे **अभिभूते** शत्रूणामभिभावुकेन्द्र **उग्रम्** अप्रसह्यम् **ओजिष्ठम्** ओजस्वितमम् **ओजः** दीप्तिमस्मभ्यमा भर । **विश्वा** विश्वानि सर्वाणि **वृष्ण्या** वृष्ण्यानि सेचनसमर्थानि **द्युम्ना** द्युम्नानि द्योतमानानि यानि धनानि **मानुषाणां** मनुष्याणां भोग्यतया कल्पितानि हे **हरिवः** हरिवन्निन्द्र तानि धनानि **मादयध्यै** अस्मान् मादयितुम् **अस्मभ्यं** **दाः** प्रयच्छ ॥
@@ -237,7 +240,6 @@ All things brilliant and bullish that belong to the sons of Manu—give  them to
 <details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is notable for the superlative etymological figures: double śáviṣṭham … śávaḥ “strongest strength” (or, in fact, triple, since śūra ‘hero’ is ultimately related to these words) and triple ójiṣṭham ójaḥ … ugrám “mightiest mighty might.” The triple etym. connection of the first phrase is better conveyed by Geldner’s “Bring uns, du Starker, die stärkste Stärke” than by the published translation Note also that the adjacent words in b ójo abhibhūta “… might, o overpowering one,” though not syntactically connected here, form a bahuvrīhi modifying Indra in the preceding hymn, VI.18.1 abhíbhūti-ojas- ‘of overpowering strength’.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -271,8 +273,6 @@ Die stärkste Stärke bring uns her, o Starker, die mächtigste, gewalt'ge Macht
 Весь блеск (и) мужество людей  
 Нам отдай, о повелитель буланых коней, чтобы мы радовались!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

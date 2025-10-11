@@ -3,7 +3,6 @@ title = "002"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कृशः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्वेतासः- शुभ्राः। शतम्- प्रभूताः। उक्षणः- वृषभाः। दिवि- नभसि। तारः- नक्षत्राणि। न- इव।  रोचन्ते- प्रकाशन्ते। मह्ना- स्वमहिम्ना। दिवम्- नभः। तस्तभुः- नक्षत्राणि आतिष्ठन्ति। न- इव  ते भवन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -179,8 +182,6 @@ Hundert weisse Ochsen glänzen wie Sterne am Himmel, durch ihre Grösse stützen
 Как звезды на небе сверкают.  
 Громадностью (своей) они словно поддержали небо.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

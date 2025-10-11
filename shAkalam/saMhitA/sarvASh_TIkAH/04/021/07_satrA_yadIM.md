@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सत्रा- सत्यमेव। भार्वरस्य- जगद्भर्तुः। वृष्णः- वर्षकस्येन्द्रस्य। शुष्मः- बलम्। स्तुवते-  स्तुवन्तम्। भराय- भरणाय। सिषख्नि- सेवते। औशिजस्य- कामयतः। गुहा- हृदयगुहायाम्।  गोहे- गेहे। धिये- बुद्ध्यै। अयसे- सद्गतये। मदाय- तृप्त्यै। सिषख्नि- सेवते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भार्वरस्य** । भर्वरो जगद्भर्ता प्रजापतिः । तस्य पुत्रो भार्वरः । तस्य **वृष्णः** कामानां वर्षितुरिन्द्रस्य संबन्धी **ईम्** एषः **शुष्मः** बलं **स्तुवते** स्तोत्रं कुर्वन्तं यजमानं **सिषक्ति** सेवते इति **यत्** तत् **सत्रा** सत्यमेव । **ईम्** एतद्बलम् **औशिजस्य** यजमानस्य **भराय** भर्तुं **गुहा** गुहायां गुहारूपे हृदये **प्र** भवतीति **यत्** तत्सत्यम् । यजमानस्य **गोहे** गृहे **धिये** कर्मणे **प्र** भवतीति **यत्** तत्सत्यम् । **अयसे** गमनाय कामानां प्राप्तये **मदाय** हर्षाय तत्र यद्बलं प्रभवति तत्सत्यम् । इन्द्रस्य बलं यजमानं सर्वदा पालयतीत्यर्थः ॥
@@ -249,9 +252,7 @@ Another very opaque vs. The only thing we have to hold onto is structure: the X-
 
 As indicated in the published translation, I think vs. 7 depicts the bursting into flames of the ritual fire, whose difficult kindling was (possibly) treated in 6cd. This bursting into flames is expressed by śúṣmaḥ ‘explosive force’ in 7b. The gen. bhārvarásya vṛ́ṣṇaḥ ‘devouring bull’ refers to Agni, in this interpr.; the only two forms to the (pseudo-)root √bharv ‘devour’ have Agni as their subj. (I.143.5, VI.6.2). In the published
 
-tr. I also tentatively took Agni as the referent of īm, but I now think that the īm in pāda a refers to the praiser in b, while the īm in c refers to the Aṅgirases. (Remember that number is neutralized in īm.) The point is that the śúṣma- of the kindled fire accompanies each of these in order to allow the desired outcomes expressed in pāda b and d to occur -- the singer to receive his reward and the Aṅgirases to cause the cows to come out of the Vala cave. (I am tempted to tr. a version of “may the force be with you.”) So I would modify the tr. to “When … the force … accompanies him [=singer], for the singer to take his reward; when it accompanies them [=Aṅgirases] to the secret place [=Vala cave], … for (the cows) to go forth …” In d I take the three datives (prá) dhiyé (prá) áyase mádāya not as triply parallel, but make the first and last further complements to áyase ‘to go forth’. The two prá’s would in some sense structure these two parallel goal expressions: “to go ←forth to insight&gt;, ←forth to exhilaration&gt;.” Needless to say, it is impossible to be certain about this interpr., but at least it hangs together.
-
-
+tr. I also tentatively took Agni as the referent of īm, but I now think that the īm in pāda a refers to the praiser in b, while the īm in c refers to the Aṅgirases. (Remember that number is neutralized in īm.) The point is that the śúṣma- of the kindled fire accompanies each of these in order to allow the desired outcomes expressed in pāda b and d to occur -- the singer to receive his reward and the Aṅgirases to cause the cows to come out of the Vala cave. (I am tempted to tr. a version of “may the force be with you.”) So I would modify the tr. to “When … the force … accompanies him [=singer], for the singer to take his reward; when it accompanies them [=Aṅgirases] to the secret place [=Vala cave], … for (the cows) to go forth …” In d I take the three datives (prá) dhiyé (prá) áyase mádāya not as triply parallel, but make the first and last further complements to áyase ‘to go forth’. The two prá’s would in some sense structure these two parallel goal expressions: “to go ←forth to insight>, ←forth to exhilaration>.” Needless to say, it is impossible to be certain about this interpr., but at least it hangs together.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -287,8 +288,6 @@ Wenn nun der Drang des Stiers, der mächtig kauet, dem Sänger hilft, um alles z
 Когда он втайне, в укрытии потомка Ушиджа (поддерживает) его,  
 Когда для молитвы, для наслаждения, для опьянения (он) на (строен)...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

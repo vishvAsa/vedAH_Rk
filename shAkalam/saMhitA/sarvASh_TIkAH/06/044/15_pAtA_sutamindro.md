@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। सुतम्- निष्पन्नस्य रसस्य। पाता। अस्तु- भवतु। मन्दसानः- हर्षितः। वज्रेण। वृत्रम्-  आवरणस्य। हन्ता- नाशकः। परावतश्चित्- श्रेष्ठात् स्वस्थानात्। यज्ञम्- दानं देवपूजां  सङ्गतिकरणम्। अच्छ- अभिलक्ष्य। गन्ता। वसुः- शरण्यः। धीनाम्। अविता- रक्षिता।  कारुधायाः- उपासकधारकश्च भवतु॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **सुतम्** अभिषुतं **सोमं** **पाता** **अस्तु** साधु पाता भवतु ॥ साधुकारिणि तृन् । अत एव ‘न लोकाव्यय ' इति षष्ठीप्रतिषेधात् द्वितीया । एवं हन्तेत्यादावपि द्रष्टव्यम् ॥ तेन च सोमेन **मन्दसानः** माद्यन् **वज्रेण** आयुधेन **वृत्रम्** आवरकं शत्रुं **हन्ता** अस्तु भवतु । एतदुभयार्थं **परावतश्चित्** दूरदेशादपि **यज्ञम्** **अच्छ** अस्मदीयं यज्ञमभि **गन्ता** भवतु । दूरदेशस्थोऽपि शीघ्रमस्मद्यज्ञे सोमपानाय आगच्छत्वित्यर्थः। कीदृश इन्द्रः। **वसुः** सर्वेषां निवासयिता **धीनां** ध्यातॄणां स्तोतॄणां कर्मणां वा **अविता** रक्षिता **कारुधायाः** कारूणां कर्तॄणां यजमानानां धारयिता ॥ ॥ १८ ॥
@@ -248,7 +251,6 @@ who goes to the sacrifice, even from far away, who is the good helper of  insigh
 The vs. is characterized by three root-accented agent nouns (pā́tā a, hántā b, gántā c), all pāda-initial, all with acc. obj./goal. Then in d the pattern is switched: a suffix-accented agent noun (avitā́), interior in its pāda (immed. after caesura) with (objective) gen. complement. All of them are presumably predicates of astu in pāda a. I consider this simply an instance of the RVic tendency to shake up established patterns; I doubt that the poet is attempting to draw a distinction between Indra’s habitual roles as drinker, smiter, and goer, in contrast to a situational role as helper, as Tichy claims (Die Nomen agentis auf -tar- im Vedischen, 298-99; cf. 257 and passim). Among other things, “help” is one of the most frequent things we ask Indra to do for us; it is surely one of his standard, habitual roles. It happens that there is no root-accented *ávitar-, though avitár- is extremely common, and so no such form was available to match the first three -tar- stems in this vs. I do not know if the gap is accidental or systemic.
 
 Note that kārúdhāyas-, a rare bv., reappears here from 12 -- again, a possible reason for attaching this tṛca to the preceding one.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -282,8 +284,6 @@ Es trinke Indra den gepressten Soma, erquickt nun schlag' er mit dem Blitz den V
 Пусть даже издалека приходит на жертвоприношение,  
 Добрый покровитель молитв, кормилец поэта!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

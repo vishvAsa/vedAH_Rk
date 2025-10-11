@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवहूतमान्- देवानामाह्वातृतमान्। अश्वान्- प्राणाश्वान्। अग्ने। रथीरिव- महारथ इव। हि- खलु।  युक्ष्व- योजय। होता- देवाह्वाता। पूर्व्यः- पुराणः सन्। नि सदः- निषीद॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **देवहूतमान्** देवानामाह्वातृतमान् **अश्वान्** **युक्ष्व** योजय रथे। **रथीरिव** यथा रथी स्वाश्वानिष्टदेशगमनाय योजयति तद्वत् । तथा कृत्वा **होता** त्वं पूर्व्यः मुख्यः सन् **नि** **षदः** उपविश च ॥
@@ -195,10 +198,6 @@ So schirr denn wie der Wagenlenker deine Rosse an, die die Götter am besten lad
 
 Schirr Agni wie ein Fuhrmann dir die Rosse an zur Götterfahrt, Als erster Priester setze dich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

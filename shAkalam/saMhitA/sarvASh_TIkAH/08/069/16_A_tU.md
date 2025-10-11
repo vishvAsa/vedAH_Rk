@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - प्रियमेध
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुशिप्र- शोभनहनो। दम्पते- गृहाधिपते। हिरण्ययम्- दीप्तम्। रथम्। आ तिष्ठ। अध- अथ।  द्युक्षम्- दीप्तम्। सहस्रपादम्- बहुगतिम्। अरुषम्- दीप्तम्। स्वस्तिगाम्- स्वस्ति गच्छन्तम्।  अनेहसम्- अदोषम्। रथम्। सचेवहि- सङ्गच्छेवहि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुशिप्र** सुहनो हे **दंपते** गृहस्वामिन् । अत्र गृहो रथः। तस्य स्वामिन् । **तु** त्वं तावत् **रथम्** **आ** **तिष्ठ**। हविःस्वीकरणान्तरं पश्चादहमारोहामीति भावः । कीदृशम् । **हिरण्ययं** हिरण्मयम्। **अध** तवारोहणानन्तरमहमप्यारुह्योभौ **सचेवहि** संगच्छेवहि । संगतौ भवेव। पुनः कीदृशम् । **द्युक्षं** दीप्तं रथं **सहस्रपादं** बहुपादम् **अरुषम्** आरोचमानं **स्वस्तिगां** कुशलगमनम् **अनेहसम्** अपापम् ॥
@@ -238,10 +241,6 @@ Besteige doch, du schönlippiger Hausherr, den goldenen Wagen, dann wollen wir b
 
 Besteige, o Hausherr [Indra], der du schönen Helm trägst, den goldenen Wagen, dann wollen wir beide hinstreben zu dem himmlischen, tausendfüssigen, feuerrothen, zum Heile führenden, unvergleichlichen [Agni].
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

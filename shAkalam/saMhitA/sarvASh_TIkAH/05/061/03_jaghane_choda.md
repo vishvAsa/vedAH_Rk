@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "निचृत्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "निचृत्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - निचृत्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषाम्- एतेषामश्वानाम्। जघने। चोदः। प्रेरिका कशा। पुचकृथे- पुत्रोत्पादनाय। जनयः- जायाः।  न- इव। नरः- मरुतः। सक्थानि- अश्वारोहणे निमित्ते ऊरुप्रदेशान्। वि- विविच्य। यमुः-  नियच्छन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषाम्** अश्वानां **जघने** हन्तव्यप्रदेशे **चोदः** प्रेरिका कशा अराग्रकाष्ठविशेषो वा वर्तते ॥ शीघ्रगमनाय ताडयन् वर्तत इत्यर्थः । **सक्थानि** ऊरुप्रदेशान् **नरः** नेतारो मरुतः **वि** विविच्य **यमुः** नियच्छन्ति । आशुधावनेन विवृता भवन्तीत्यर्थः । विवृतौ दृष्टान्तः । **पुत्रकृथे** पुत्रकरणे उत्पादने **जनयः** **न** अपत्योत्पादयित्र्यो योषित इव । ता यथा पुत्रोत्पादनकामाः संगमसमये ऊरू विवृतौ कुर्वन्ति तद्वदित्यर्थः॥
@@ -158,7 +161,6 @@ like wives at the making of sons.
 For this vs. see published introduction.; as pointed out there, the simile in c can either refer to sex or to childbirth.
 
 It is interesting that sakthā́ni is plural. Although there are plural ‘men’ (náraḥ) and therefore twice as many thighs as men, in Classical Sanskrit it is my impression that the dual would ordinarily be used in such a situation, where a number of men each spread their two thighs. RV seems more flexible.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -194,8 +196,6 @@ Im After ist ihr Treibestock, die Männer spreizen ihre Bein' wie Weiber bei der
 Вы расставили ноги,  
 Как женщины при родах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अवस्युरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -250,6 +248,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरिवः- प्राणतुरगोपेत। प्र- प्रकर्षेण। आ- आभिमुख्येन। द्रव- सर। मा वि वेनः- विगतप्रियो मा  भव। पिशङ्गराते- नानारूपदान। अभि- आभिमुख्येन। नः- अस्माभिः। सचस्व- सङ्गतो भव।  इन्द्र। त्वदन्यः- त्वदितरः। वस्यः- श्रेयस्करः। नहि- न। अस्ति- भवति। अमेनान्-  अपत्नीकान्। चित्- अपि। जनिवतः- पत्नीकान्। चकर्थ- अकरोः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **हरिवः** हरिवन्निन्द्र त्वम् **आ** अस्मानभिमुखं **प्र** **द्रव** प्रकर्षेण गच्छ। किंतु **मा** **वि** **वेनः** । वेनतिः कान्तिकर्मा । अस्मासु विगतकामो मा भूः । किंच हे **पिशङ्गराते** बहुरूपधनेन्द्र **नः** अस्मान् **अभि** **सचस्व** अभिसेवस्व । अपि च हे **इन्द्र** **वस्यः** वसीयः श्रेयस्करं **त्वत्** त्वत्तः **अन्यत्** **नहि** **अस्ति** अन्यद्वस्तुजातं नास्ति । **अमेनांश्चित्** । मेनाशब्दः स्त्रीवाची । अपगतस्त्रीकांश्चित् **जनिवतः** जायावतः **चकर्थ** करोषि ॥
@@ -285,7 +288,6 @@ The function of the instr. ṛṭúbhiḥ is unclear. I take it as an instr. of 
 The form ū́dhaḥ is contextually problematic. Formally it is the well-attested nom./acc. ū́dhar, but I find it difficult to construe an acc. in this sentence. As an acc., it should be the obj. of áraṃhaḥ ‘sent speeding’, but the udder of the mountain should not be subject to such an action, whereas it makes perfect sense as a locatival expression. Both Geldner and Witzel Gotō tr. as an acc. obj., but don’t explain what they think is actually happening. I am inclined to take the form as a nonce locative, though I recognize the strong arguments against this: 1) ū́dhar is very well anchored as a nom./acc.; 2) this r/n stem has two reasonably well-attested locatives already, ū́dhan and ū́dhani. Nonetheless, I wonder if ū́dhar could have been taken as belonging with the sporadic -ar locatives like vanar ‘in the wood’, uṣar ‘at dawn’ (though the presence of undoubted neut. acc. vádhar in the next vs. [3b] might make this harder).
 
 It might be worth noting that ū́dhan(i) is confined to pāda end (except one late Xth book ex.), whereas ū́dhar here is medial. Alternatively, and on second thought, if we take ‘udder’ as referring to the contents of an udder, namely milk, it is possible to interpret it as the acc. it appears to be. For a somewhat similar use of ū́dhaḥ as ‘milk’, see IV.1.19. I would therefore suggest an alt. tr. by deleting the parenthetical “(in?)” and adding a comma after “seasons”: “you … sent speeding the wellsprings that had been hard pressed through the seasons, the udder [=milk] of the mountain.” The ppl. práyuta- is variously rendered: Grassmann ‘achtlos, sorglos’, Geldner ‘nachlässig’ (careless, negligent), Witzel Gotō “(alle und alles) verscheuchend” (scaring away). However in all its occurrences it seems to mean ‘spread out, dispersed’. There are four attestations in the RV. Two passages involve cows wandering without a herdsman (III.57.1, X.27.8); in the third (III.55.4) Agni has been dispersed into various hearths and lies spread out at a distance (śáye … práyutaḥ), very much like here (práyutaṃ śáyānam). Since this root √yu means ‘separate, keep apart’, my suggested meaning is closer to the root meaning than the suggestion registered above. It is also possible that it does mean ‘scattered, dispersed’ here, if it is interpreted proleptically: after having been smashed, the various parts of the serpent’s body lie spread across some distance. A similar picture is given in I.32.7 purutrā́vṛtró aśayad vyàstaḥ “Vr̥tra lay there, flung apart in many pieces,” with a form of √śi as here. I would then suggest an alternative tr. “having smashed the serpent (so it was) lying dispersed.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -326,8 +328,6 @@ Lauf vor mit deinen Füchsen, nicht verschmäh es, sei uns gewogen, der du goldn
 Даже холостых ты сделал женатыми!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र ऋणञ्चयश्च
@@ -343,12 +343,12 @@ Lauf vor mit deinen Füchsen, nicht verschmäh es, sei uns gewogen, der du goldn
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (हरिवः) श्रेष्ठ घोड़ों से युक्त (पिशङ्गराते) सुवर्ण आदि के और (इन्द्र) अत्यन्त ऐश्वर्य्य के देनेवाले राजन् ! आप (मा, वि, वेनः) कामना मत करें अर्थात् कामी न हों और (अमेनान्) नहीं विद्यमान हैं, प्रक्षेप करनेवाली स्त्रियाँ जिनकी उनको (चित्) उन्हीं (जनिवतः) जन्मवाले (चकर्थ) करें और (नः) हम लोगों का (अभि, सचस्व) सब ओर से सम्बन्ध करें और शत्रु के विजय के लिये (प्र, आ, द्रव) अच्छे प्रकार दौड़े जिससे (त्वत्) आपसे (वस्यः) अत्यन्त वसनेवाला (अन्यत्) दूसरा (नहि) नहीं (अस्ति) है, वह आप हम लोगों को सुख से सम्बन्ध कीजिये ॥२॥
+पदार्थान्वयभाषाः -  हे (हरिवः) श्रेष्ठ घोड़ों से युक्त (पिशङ्गराते) सुवर्ण आदि के और (इन्द्र) अत्यन्त ऐश्वर्य्य के देनेवाले राजन् ! आप (मा, वि, वेनः) कामना मत करें अर्थात् कामी न हों और (अमेनान्) नहीं विद्यमान हैं, प्रक्षेप करनेवाली स्त्रियाँ जिनकी उनको (चित्) उन्हीं (जनिवतः) जन्मवाले (चकर्थ) करें और (नः) हम लोगों का (अभि, सचस्व) सब ओर से सम्बन्ध करें और शत्रु के विजय के लिये (प्र, आ, द्रव) अच्छे प्रकार दौड़े जिससे (त्वत्) आपसे (वस्यः) अत्यन्त वसनेवाला (अन्यत्) दूसरा (नहि) नहीं (अस्ति) है, वह आप हम लोगों को सुख से सम्बन्ध कीजिये ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो अतिकालपर्य्यन्त जीवने, बल बढ़ाने, राज्य करने और वृद्धि करने के लिये यत्न करता है, वही कृतकृत्य होता है ॥२॥
+भावार्थभाषाः -  जो अतिकालपर्य्यन्त जीवने, बल बढ़ाने, राज्य करने और वृद्धि करने के लिये यत्न करता है, वही कृतकृत्य होता है ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

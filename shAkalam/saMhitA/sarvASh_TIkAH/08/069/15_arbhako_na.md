@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रियमेध
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्भको न कुमारकः- अबालिशो बालः। मात्रे पित्रे- द्यावापृथिव्योरर्थे। नवम्- अभिनवम्। रथम्।  अधि तिष्ठन्। विभुक्रतुम्- बहुकर्माणम्। महिषम्- महान्तम्। मृगम्- मृग्यं मेघम्। सः-  असाविन्द्रः। पक्षत्- अपचत्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमिन्द्रः **अर्भको** **न** अल्पशरीरः **कुमारकः** कुमारक इव **नवं** स्तुत्यं **रथम्** **अधि** **तिष्ठत्** अधितिष्ठति । **सः** इन्द्रः **महिषं** महान्तं **मृगं** मृगवदितस्ततो धावन्तं सर्वैर्मृग्यं वा **विभुक्रतुं** बहुकर्माणं मेघं **पक्षत्** पचति । वृष्टयभिमुखं करोतीत्यर्थः ॥
@@ -235,10 +238,6 @@ Wie ein kleines Knäbchen bestieg er den neuen Wagen. Er kochte das Büffeltier 
 
 Als kleiner, zarter Knabe schon bestieg den neuen Wagen er; Dem Vater und der Mutter briet den kraftbegabten Büffel er.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

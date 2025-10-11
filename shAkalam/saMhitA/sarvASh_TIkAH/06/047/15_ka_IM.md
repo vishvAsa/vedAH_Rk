@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -255,6 +253,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यस्मात् कारणात्। मघवा- इन्द्रः। विश्वहा- सर्वदा। उग्रम्- तीव्रमेवात्मानम्। अवेत्-  ज्ञातवान्। तस्मात्कारणात्। कः। ईम्- एतम्। स्तवत्- स्तोतुं शक्नुयात्। कः। पृणात्- प्रीणयेत्।  कः। यजाते- पूजयेत्। शचीभिः- स्वप्रज्ञाभिः। पादौ- चरणौ। प्रहरन्- प्रक्षिपन्। इव। पूर्वं-  प्रथमभाविनम्। अपरम्- अनन्तरम्। अनन्तरं प्रथभाविनम्। अन्यमन्यम्। कृणोति-  करोति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कः** स्तोता **ईम्** एनमिन्द्रं **स्तवत्** स्तुयात् । स्तोतुं शक्नुयात् । **कः** वा **पृणात्** एनं प्रीणयेत् । **कः** च **यजाते** एनं हविर्भिर्यजेत। **यत्** यस्मात् अयं **मघवा** धनवानिन्द्रः **उग्रमित्** उद्गूर्णमेव **विश्वहा** सर्वदा **अवेत्** आत्मानं वेत्ति जानाति सर्वदा उग्र एव भवति तस्मात् कारणात् न कोऽप्येनं स्तोतुं प्रीणयितुं यष्टुं वा शक्नोतीति भावः । इतोऽपि स्तुत्यादेरविषय इत्याह । यस्मादयमिन्द्रः **शचीभिः** आत्मीयाभिः प्रज्ञाभिः **पूर्वं** प्रथमभाविनं सन्तं स्तोतारम् **अपरं** पश्चाद्भाविनं च **अन्यमन्यं** परस्परव्यतिहारेण **कृणोति** करोति । यः प्रथमभावी मुख्यः स्तोता तं जघन्यं करोति यश्च जघन्यः स्तोता तं मुख्यं करोति । तत्र दृष्टान्तः । **प्रहरन्** **पादाविव** । यथा पादौ प्रहरन् मार्गे प्रक्षिपन् पुरुषः पूर्वं पादमपरं करोत्यपरं च पूर्वं तद्वत् । अतोऽपि कारणात् इन्द्रः स्तुत्यादेरविषय इति भावः । एतदादिकेन पञ्चर्चेन इन्द्रस्यातिस्वातन्त्र्यं प्रतिपाद्यते ॥ ॥ ३२ ॥
@@ -282,8 +285,6 @@ Like one who puts down his two feet one after the other, with his  powers he mak
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner renders d exactly opposite to the published translation: “so macht er den Vorderen zum Hintermann” (fld. by Klein, “āmreḍitas”: “he makes the one at the fore into one who lags behind”). But the simile in c is about walking one step at a time (“putting his two feet down one after the other”), and unless Indra is walking backwards my interpr. must be correct. It’s true that pū́rvam ‘in front’ precedes áparam ‘behind’ in the text, but word order is scarcely a reliable guide in the RV, esp. since in nominal sentences we often get PREDICATE SUBJECT order. (Furthermore, there's a sort of iconic ordering of the two adjectives, with pū́rva- first, which can be independent of the larger sense.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
@@ -317,8 +318,6 @@ Wer preist ihn recht, wer sättigt, wer verehrt ihn, dass auch dem starken stets
 Подобно тому как (при ходьбе) выставляют ноги вперед: то одну, то другую,  
 Переднего он делает задним (своими) силами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

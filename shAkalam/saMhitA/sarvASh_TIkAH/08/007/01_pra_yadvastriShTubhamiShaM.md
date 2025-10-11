@@ -3,7 +3,6 @@ title = "001"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रिष्टुभम्- त्रिष्टुप्छन्दस्कम्। इषम्- काम्यं मन्त्रम्। विप्रः- मेधावी। वः- युष्मभ्यम्। प्र- प्रकर्षेण।  अक्षरत्- ससर्ज। मरुतः- हे वाताः प्राणविशेषा वा। पर्वतेषु- मेघेषु मेघोपलक्षितजडशरीरेषु वा।  वि राजथ- विराजध्वे॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुतः** मितराविणो मितरोचिनो वा एतत्संज्ञा माध्यमका देवगणाः। पादादित्वात्  ‘ अपादादौ ' इति पर्युदासादाष्टमिकनिघाताभावे षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । **वः** युष्मभ्यं **विप्रः** मेधावी स्तोता **त्रिष्टुभं** त्रिषु सवनेषु प्रशस्यां त्रिभिर्देवैः स्तुतां वा यद्वा त्रिष्टुप्छन्दसा संबद्धां माध्यदिनसवनिकीम् **इषं** सोमलक्षणमन्नं **यत्** यदा **प्र** **अक्षरत्** प्रासिञ्चत् अग्नौ प्राक्षिपत् । यद्वा । त्रिष्टुभं त्रिष्टुप्छन्दस्कं स्तोत्रमिषं सोमं चेति योज्यम् । तदानीं यूयं **पर्वतेषु** पर्ववत्सु शिलोच्चयेषु **वि** **राजथ** । तेन सोमेन लब्धबलाः सन्तो विशेषेण दीप्ता भवथ ॥
@@ -172,8 +175,6 @@ you rule [/shine] throughout the mountains.
 <details><summary>Jamison Brereton Notes</summary>
 
 (Indra), a hymn that is also not in Triṣṭubh. Some remove the word here entirely from the poetic sphere, as in Macdonell’s “threefold Soma draught.” Geldner believes that it can’t refer to the Triṣṭubh meter here, but that it must be a different technical term in recitation. I do not think that the fact that these two hymns are not in Triṣṭubh necessarily means that that meter can’t be referred to in this expression; there are, after all, plenty of hymns to both the Maruts and Indra in Triṣṭubh, and the verb governing the phrase is in the imperfect and therefore should refer to another occasion. But following Geldner’s lead, I think it possible that ‘(having?) threefold rhythm’ could refer to the Gāyatrī meter in which this hymn is composed, since Gāyatrī consists of three pādas. Unfortunately this will not work for VIII.69, which is composed in a variety of meters (incl. Gāyatrī, but only vss. 4-6); the verse in which the phrase is found (VIII.69.1) is in Anuṣṭubh. I might emend the published translation to “refreshment in threefold rhythm.” For further on the compound see Scarlatta (641-42), who is somewhat indecisive about both the compound type and the sense.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
@@ -211,8 +212,6 @@ Wenn, Maruts, euch der Sänger nun des Preisgesanges Trunk ergoss, So glänzt ih
 Для вас усладу в виде триштубха,  
 Вы красуетесь в горах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

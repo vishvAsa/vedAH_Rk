@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्र उषाश्च"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षक इन्द्रः। यत्- यदा। सीम्- इदम्। नि शिश्नत्- न्यवधीत्। तदा। बिभ्युषी- भीता।  उषाः। संपिष्टात्। अनसः- शकटात्। अप सरत्- अपससार॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषा** कामानां वर्षिता इन्द्रः **यत्** यदा **सीम्** एतत् उषसः संबन्धि शकटं **नि** **शिश्नथत्** न्यवधीत् तदा **उषाः** उषोदेवता **बिभ्युषी** इन्द्रसकाशात् भीता सती **संपिष्टात्** इन्द्रेण संचूर्णितात् **अनसः** शकटात् **अप** **सरत्** अपासरत् अपजगाम । **अह** इति पूरणः ॥ ॥ २० ॥
@@ -173,8 +176,6 @@ Dawn ran away in fear from her cart, which was completely crushed, when the bull
 <details><summary>Jamison Brereton Notes</summary>
 
 The “hundred forms of help” found at the end of the first tṛca (3c) recurs here at the beginning of this tṛca, following the two more challenging tṛcas in between.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -208,8 +209,6 @@ Von ihrem Wagen stürzte sie voll Angst, von dem zerbrochenen, Als ihn der Held 
 Когда бык ее столкнул.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रउषाश्च
@@ -225,7 +224,7 @@ Von ihrem Wagen stürzte sie voll Angst, von dem zerbrochenen, Als ihn der Held 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (वृषा) बलिष्ठ राजा जैसे (बिभ्युषी) भय देनेवाली (उषाः) प्रातर्वेला (अनसः) गाड़ी के अग्रभाग के सदृश आगे चलनेवाली (सम्पिष्टात्) चूर्णित हुए (अह) ही अन्धकार से (अप, सरत्) आगे चलती है (यत्) जो (सीम्) सब प्रकार (नि, शिश्नथत्) शिथिल करती है, वैसा आचरण करे, वह सूर्य्य के सदृश तेजस्वी होवे ॥१०॥
+पदार्थान्वयभाषाः -  जो (वृषा) बलिष्ठ राजा जैसे (बिभ्युषी) भय देनेवाली (उषाः) प्रातर्वेला (अनसः) गाड़ी के अग्रभाग के सदृश आगे चलनेवाली (सम्पिष्टात्) चूर्णित हुए (अह) ही अन्धकार से (अप, सरत्) आगे चलती है (यत्) जो (सीम्) सब प्रकार (नि, शिश्नथत्) शिथिल करती है, वैसा आचरण करे, वह सूर्य्य के सदृश तेजस्वी होवे ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

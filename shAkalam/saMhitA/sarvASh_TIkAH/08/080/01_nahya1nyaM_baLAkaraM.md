@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - एकद्यूर्नौधसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बट्- सत्यम्। अन्यम्- इतरम्। मर्डितारम्- सुखकरम्। शतक्रतो- अनन्तप्रज्ञ। इन्द्र। न।  अकरम्- अकरवम्। त्वम्। नः- अस्मान्। मृळय- आनन्दय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे शतक्रतो त्वत्तः **अन्यं** **मर्ङितारं** सुखयितारं **बळा** बट् सत्यं **न** **अकरं** न करोमि । तस्माद्धे **इन्द्र** **त्वं** **नः** अस्मान् **मृळय** ॥
@@ -183,10 +186,6 @@ Wahrlich, keinen anderen möchte ich zum Erbarmer gewinnen, du Ratreicher. Sei d
 
 Ich wählte, keinen andern je, o starker, zum Erfreuer mir, Du, Indra, sei uns holdgesinnt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

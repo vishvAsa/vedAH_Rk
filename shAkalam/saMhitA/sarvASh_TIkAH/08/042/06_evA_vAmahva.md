@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ"
 RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नाभाकः काण्वः अर्चनाना वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा मेधाविनो वामाहूतवन्तस्तथाहमप्यश्विनौ प्राणेशौ रसानुभवायाह्वये वृद्धये॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -209,8 +212,6 @@ So habe ich um Gunst gefleht, wie sonst euch rief der Weisen Schar, O treue, zu 
 На питье сомы, о Насатьи.  
 Пусть лопнут все ничтожные другие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इदम्- एषः। मदिरम्- हर्षदः। मधु- रसः। नरः- नेतारः। अद्रिभिः- ग्रावभिर्जडप्रतीकैः।  अधुक्षन्- निष्पादयन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** **वां** युवामुद्दिश्य **नरः** यज्ञस्य नेतारः **अद्रिभिः** ग्रावभिः **मदिरं** मदकरं **मधु** सोमात्मकममृतम् **अधुक्षन्** अपूरयन् । सिद्धमन्यत् ॥
@@ -169,8 +172,6 @@ Here is the exhilarating honey for you two—the men have milked it out  with st
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda a can of course be in the acc. (not nom. as I take it) and form a single sentence with b (so Geldner). There are no implications either way, but I prefer to take fronted forms of ayám as annunciatory (“here is …”) if at all possible. However, given initial imā́(5a) and imā́m (6a), which can’t be so tr., this is not a strong arg.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -203,8 +204,6 @@ Die Männer melkten diesen Meth, der euch berauscht, mit Steinen aus, O Indra-Ag
 Мужи выдоили камнями.  
 О Индра-Агни, помните об этом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

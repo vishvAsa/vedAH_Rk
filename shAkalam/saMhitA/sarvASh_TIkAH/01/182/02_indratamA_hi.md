@@ -3,7 +3,6 @@ title = "002"
 devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रतमा- अतिशयेन इन्द्रवन्तौ ईशनशीलावित्यर्थः। धिष्ण्या- मेधास्थौ। मरुत्तमा- प्राणेशौ।  दस्रा- दर्शनीयौ। दंसिष्ठा- अतिशयकर्माणौ। रथ्या- रथार्हौ। रथीतमा- अतिशयेन रथेश्वरौ।  मध्वः- माधुर्येण। पूर्णम्। आचितम्- सन्नद्धम्। रथम्। वहेथे- नयथः। अश्विना। तेन- अमुना  रथेन। दाश्वांसम्- दायकम्। उप याथः- अभिप्राप्नुथः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवाम् **इन्द्रतमा** **हि** ईश्वरतमौ खलु । एवं प्रतिविशेषणं हिः संबन्ध्यः । तथा **धिष्ण्या** स्तुत्यर्हौ **मरुत्तमा** मरुद्वद्वेगगामिनौ मितरागिणौ मितराविणौ वा **दस्रा** उपक्षपयितारौ   शत्रूणां **दंसिष्ठा** अतिशयकर्माणौ **रथ्या** रथार्हौ रथवन्तौ **रथितमा** । रथिनो नेतारः । तेषां श्रेष्ठौ । ‘रथीरध्वराणाम् ' ( ऋ. सं. ८. ११. २) इति नेतृपरतया व्याख्यातत्वात् । ईदृशौ युवां **मध्वः** मधुसदृशस्य उदकस्यामृतस्य वा **पूर्णं** पूरितम् **आचितं** सर्वतः संनद्धं **रथं** **वहेथे** नयथः । **तेन** उक्तगुणविशिष्टेन रथेन हे **अश्विना** अश्विनौ उक्तगुणविशिष्टौ सन्तौ **उप** **याथः** यज्ञमभिप्राप्नुथः ॥
@@ -238,8 +241,6 @@ you bring your full chariot loaded with honey. With it you drive right up  to th
 The two cmpds índratamā and marúttamā, superlative in form, are generally taken to mean ‘most similar to Indra / the Maruts’ (Grassmann, Geldner, Witzel Gotō). I suppose that is their ultimate purport, but I think the effect is stronger: the Aśvins are said to possess the qualities of those gods in an even higher degree than those gods themselves do.
 
 Idiomatic English would use the comparative: “more Indra than Indra” (or, in a wellknown colloquial expression, at least in my childhood, “more Catholic than the Pope”).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -273,8 +274,6 @@ Ganz gleich dem Indra und den Maruts, gütige, an Wunderthaten stark, die besten
 Вы везете колесницу, доверху наполненную медом.  
 Приезжайте на ней к почитающему (вас,) о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

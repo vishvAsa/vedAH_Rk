@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "गर्भिणी वामदेवस्य माता"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्भिणी वामदेवस्य माता
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ममच्चन- माद्यन्नेव। मघवन्- इन्द्र। व्यंसः- इन्द्रताडनेन विगतस्कन्धः। निविविध्वान्- प्रविध्यन्।  ते- तव। हनू। अप जघान- अताडयत्। अध- अथ। उत्तरः- श्रेष्ठः। बभूवान्- सन्। निविद्धः-  ताडितः सन्। वधेन- वज्रेण। दासस्य- उपक्षपयितुः। शिरः। सम्- सम्यक्। पिणक्-  पिष्टवानसि। इदमावरणभेदनरूपकम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** धनवन्निन्द्र **ममच्चन** प्रमाद्यन्नेव व्यंसो नाम राक्षसः **निविविध्वान्** प्रविध्यन् **ते** **हनू** त्वदीये हनू मुखपार्श्वे **अप** **जघान** अपहतवान् । **अध** अथानन्तरं है इन्द्र निविद्धः राक्षसेन ताडितः त्वम् **उत्तरः** व्यंसाधिकबलः **बभूवान्** भूतः सन् **दासस्य** क्षीणस्य व्यंसस्य **शिरः** **वधेन** वज्रेण **सं** **पिणक्** पिष्टवानसि ॥
@@ -246,8 +249,6 @@ As indicated in the published introduction, the contents of this vs. and the rea
 On ukhachíd- see Scarlatta (131).
 
 Unfortunately I have nothing further to say about the sense of this vs. I have toyed with the possibility that there’s a ritual reference here, to the taking out of the offering fire from the householder’s fire and its removal to the east. But, though there might be rough correspondence -- very rough -- between the first and third parts, the middle part with the blind man and the snake doesn't work at all, as far as I can see.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
@@ -283,8 +284,6 @@ Jetzt schlug, o Mächt'ger, dir die beiden Kiefern, Viansa ab, der Unhold, dich 
 Рассказчик:
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रादिती
@@ -300,12 +299,12 @@ Jetzt schlug, o Mächt'ger, dir die beiden Kiefern, Viansa ab, der Unhold, dich 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (मघवन्) बहुत धन से युक्त पुरुष जो (ते) आपके (दासस्य) देने योग्य के (वधेन) ताड़न से (शिरः) शिर को (सम्, पिणक्) अच्छे पीसता है (व्यंसः) खींच लिये गये हैं बल आदि जिसके ऐसा (निविविध्वान्) अत्यन्त शत्रुओं का नाश करनेवाला (हनू) मुख के आस-पास के भागों को (अप) दूर करने में (जघान) नाश करता है (अधा) इसके (ममत्) प्रसन्न होता हुआ (चन) भी (उत्तरः) आगे के समय में होनेवाला (निविद्धः) अत्यन्त वाणों से छेदा गया (बभूवान्) होता है, उसको आप दण्ड दीजिये ॥९॥
+पदार्थान्वयभाषाः -  हे (मघवन्) बहुत धन से युक्त पुरुष जो (ते) आपके (दासस्य) देने योग्य के (वधेन) ताड़न से (शिरः) शिर को (सम्, पिणक्) अच्छे पीसता है (व्यंसः) खींच लिये गये हैं बल आदि जिसके ऐसा (निविविध्वान्) अत्यन्त शत्रुओं का नाश करनेवाला (हनू) मुख के आस-पास के भागों को (अप) दूर करने में (जघान) नाश करता है (अधा) इसके (ममत्) प्रसन्न होता हुआ (चन) भी (उत्तरः) आगे के समय में होनेवाला (निविद्धः) अत्यन्त वाणों से छेदा गया (बभूवान्) होता है, उसको आप दण्ड दीजिये ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! जो विरुद्ध कर्म से प्रजाओं में चेष्टा करता है, उस सदा दृढ़ बँधे को शस्त्रों से व्यथित कर सब प्रकार से बाँधो ॥९॥
+भावार्थभाषाः -  हे राजन् ! जो विरुद्ध कर्म से प्रजाओं में चेष्टा करता है, उस सदा दृढ़ बँधे को शस्त्रों से व्यथित कर सब प्रकार से बाँधो ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

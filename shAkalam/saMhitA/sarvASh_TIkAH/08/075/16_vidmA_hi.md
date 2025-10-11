@@ -3,7 +3,6 @@ title = "016"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। पुरा- पूर्वम्। पितुः- पालकस्य ते। अवसः- रक्षणमभवत् तथेदानीमपि। विुद्म- जानीमः।  अध- तस्मात्। ते- तव। सुम्नम्- सुखम्। ईमहे- याचामहे॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **पितुः** पालकस्य **ते** तव **अवसः** अवो रक्षणं **पुरा** **यथा** तथेदानीमपीति **विद्म** । **अधः** तत् **ते** तव **सुम्नं** सुखम् **ईमहे** याचामहे । अथवा पितुर्यथेति दृष्टान्तः । पितुः पालनं पुत्रो यथा वेत्ति तथेत्यर्थः ॥ ॥ २६ ॥
@@ -200,10 +203,6 @@ Denn wir haben früher deine Gunst erfahren, o Agni, wie die eines Vaters; darum
 
 Wir kennen, Agni, ja von je wie eines Vaters deine Huld, Drum bitten wir um deine Gunst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

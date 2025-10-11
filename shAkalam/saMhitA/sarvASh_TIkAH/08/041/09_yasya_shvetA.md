@@ -3,7 +3,6 @@ title = "009"
 devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - नाभाकः काण्वः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अधिक्षितः- अधिनिवसतः। यस्य। श्वेता- शुभ्राणि। विचक्षणा- विशेषदर्शनानि। तिस्रः। भूमीः-  भूमिकाः। त्रिरुत्तराणि- आकाशत्रयमपि। पप्रतुः- प्रथयन्ति। तस्य वरुणस्य। सदः- स्थानम्।  ध्रुवम्- दृढम्। सः- असौ वरुणः। सप्तानाम्- सप्तसिन्धूनाम्। इरज्यति- स्वामित्वं वहति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्य** वरुणस्य **अधिक्षितः** अन्तरिक्षेऽधिवसतः **श्वेता** श्वेतानि **विचक्षणा** तेजांसि **तिस्रो** **भूमीः** **त्रिरुत्तराणि** तिसृणामधिस्थितानि भुवनानि **पप्रतुः** प्रथयन्ति । तथा च मन्त्रवर्णः -- ‘ तिस्रो भूमीर्धारयन् त्रीँरुत द्यून् ' ( ऋ. सं. २. २७.८) इति । तस्य **वरुणस्य** **सदः** स्थानं **ध्रुवम्** अचलमिति । किंच **सः** वरुणः **सप्तानां** सिन्धूनाम् **इरज्यति** ईश्वरो भवति । सिद्धमन्यत् ॥
@@ -243,7 +246,6 @@ what does filling the higher/northern realm 3x mean?
 
 varuNa's seat appear to be associated with the Polestar: dhruva, which the 7 he directs are the stars of the Bear. shunaHshepa also says varuNa placed the  R^ikSha (bear) in the sky
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -289,8 +291,6 @@ Er, dessen helles Augenpaar hin über die drei Erden strahlt, Und die drei höch
 Он правит семью (потоками).  
 Пусть лопнут все ничтожные другие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। क्षमि- भूमौ। अधि। इन्द्र। विबाल्यम्- अबालाम्। वितस्थानाम्- विशेषेण  तिष्ठन्तीम्। सिन्धुम्। मायया- स्वप्रज्ञया। परि- परितः। ष्ठाः- स्थितोसि॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **उत** अपि च **विबाल्यं** विगतबाल्यावस्थां संपूर्णजलां **वितस्थानां** वितिष्ठमानां **सिन्धुं** नदीम् **अधि** **क्षमि** क्षमायां **मायया** प्रज्ञया **परि** **ष्ठाः** पर्यस्थाः । सर्वतः स्थापनं कृतवानसि ॥
@@ -166,8 +169,6 @@ did you hem in, Indra, by your magic power.
 vibālī́- is almost universally taken as the name of (another) river, though the name (and indeed the word) shows up nowhere else. By contrast, in the first ed.
 
 of the dictionary (1872) MonWms. takes it as an adj. vibālya- “passed beyond a state of youth, in full vigor; swollen (said of a river),” though in the 2nd ed. (1899) it is simply the fem. river name vibālī́-. Witzel Gotō take it not as a toponym but with the sense ‘mit breiter Öffnung’. An attributive adjective would certainly be preferable to an unlocatable placename. Although Witzel Gotō give no explan. of their interpr., it rests on earlier discussions, whose details can be recovered in EWA (s.v.). EWA considers it the name of a river (produced from the confluence of the Vipās and the Śutudrī), but derived from a word with the same (or similar) sense as Witzel Gotō ascribe to it: ‘dessen Ufer weit auseinanderstehen’, an early MIA word with -bāra- representing pārá- ‘far shore’. See the lit. cited there.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -201,8 +202,6 @@ Den Strom Vibali, der das Land weit überschwemmte, engtest du, O Indra, ein mit
 Ты удержал, о Индра, колдовскою силой.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -218,7 +217,7 @@ Den Strom Vibali, der das Land weit überschwemmte, engtest du, O Indra, ein mit
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) विद्या और ऐश्वर्य्य से युक्त आप (मायया) बुद्धि से (अधि, क्षमि) पृथिवी के बीच (वितस्थानाम्) विशेष करके स्थित नदी (उत) और (विबाल्यम्) बालपन से रहित अर्थात् छोटे नहीं बड़े (सिन्धुम्) नद के (परि) सब ओर से (स्थाः) स्थित होते हैं ॥१२॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) विद्या और ऐश्वर्य्य से युक्त आप (मायया) बुद्धि से (अधि, क्षमि) पृथिवी के बीच (वितस्थानाम्) विशेष करके स्थित नदी (उत) और (विबाल्यम्) बालपन से रहित अर्थात् छोटे नहीं बड़े (सिन्धुम्) नद के (परि) सब ओर से (स्थाः) स्थित होते हैं ॥१२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

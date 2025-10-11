@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वज्रहस्तम्- वज्रपाणिम्। रथेष्ठाम्- रथस्थम्। इन्द्रम्। तम्। वेपी- कर्मवती। वक्वरी- गुणवक्त्री।  गीः। नु- क्षिप्रम्। पृच्छन्ती- जिज्ञासन्ती सरति। तुविग्राभम्- बहुग्राहकम्। तुविकूर्मिं-  बहुकर्माणम्। रभोदाम्- बलदम्। गातुम्- सुखम्। इषे- गच्छति। तुम्रम्- वृत्रग्लापयितारमिन्द्रम्।  अच्छ- अभिलक्ष्य। नक्षते- सरति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वयोपालब्ध इन्द्र ऋषये कामान् प्रायच्छत् ततः स कामपूर्ण ऋषिराह । **वज्रहस्तं** वज्रपाणिं **रथेष्ठां** रथे स्थितं **तम्** **इन्द्रं** पृच्छन्ती अर्चयन्ती । पृच्छतिरर्चतिकर्मा । **वेपी** । वेपो यागादिलक्षणं कर्म । तद्वती **वक्वरी** गुणानां वक्त्री **गीः** ईदृशी स्तुतिः **यस्य** यजमानस्य भवति । कीदृशमिन्द्रं पृच्छन्ती। **तुविग्राभं** तुवीनां बहूनां ग्रहीतारं तुविकूर्मिं बहुकर्माणं **रभोदां** रभसो बलस्य दातारम् । **नु** इति पूरणः । स यजमानः **गातुं** सुखम् **इषे** गच्छति । किंच **तुम्रं** ग्लापयितारं शत्रुम् **अच्छ** अभिमुखं **नक्षते** गच्छति ॥ ॥ १३ ॥
@@ -241,7 +244,7 @@ The quivering, surging (song), asking about him whose hand holds the  mace, who 
 
 This vs. is beset with difficulties, starting with the syntax, on which see Oldenberg
 
-The major problems are that there is no finite verb until iṣe in d and that it is unclear what the limits are of the rel. cl. marked by yásya in b. If we follow Oldenberg’s first option, that the rel. cl. occupies pādas a-c, the rel. prn. (towards the end of b) is positioned far too deeply in the clause. His 3rd option envisions a discontinuous rel. cl. partly embedded in and partly following the main cl., with the rel cl. verb being nákṣate in d -- a syntactic configuration that is simply impossible. His 2nd option, basically adopted by Geldner as well, takes the rel. cl. as limited to vépī vákvarī yásya nū́gī́ḥ. This is more acceptable, though the rel. cl. would be definitely embedded, not only in the main clause but within a long acc. NP (tám … índram [REL CL] tuvigrābhám …). My own solution is similar to this, but limits the rel. cl. to yásya nū́gī́ḥ; this not only better accounts for the position of the particle nū́but also diminishes the effect of the embedding, because brief nominal rel. clauses, roughly equivalent to izafe constructions, seem to be at least marginally acceptable in RVic syntax. See esp. yó vídānaḥ in the previous hymn, VI.21.2. Scarlatta’s (208) tr. appears to follow the same analysis, with the rel. cl. limited to “[das Lied,] das nun ihm gehört …” The root noun cmpd rabhodā́- is glossed by Scarlatta (208) in the first instance as ‘Ungestüm, Gewalt, Kraft gebend, aufnehmend’, leaving it undetermined whether Indra bestows or assumes rábhas-, a question that Scarlatta discusses in some detail without coming to a definite conclusion. Since, as Scarlatta notes, there are several good exx. of rábhas- and related words as objects of medial ā́√dā ‘take, assume’ (e.g., I.145.3) and since the pāda in which the adj. is found seems to depict Indra on a rampage (tuvigrābháṃ tuvikūrmím “powerfully grasping, powerfully ranging”), the medial ‘assume’ value makes the most sense. Although ideally we might want the preverb ā́represented, root noun cmpds with the structure NOUN-PREV-√ seem to be rare to non-existent. (Cmpds of the type tveṣá-saṃ-dṛś- in 9b below aren’t counterexamples, because, as the accent shows, the root noun cmpd saṃdŕ̥ś- has been in turn incorporated into a bahuvrīhi), and in any case the outcome of rabhas-ādā́- would be hard to parse once sandhi rules had applied.
+The major problems are that there is no finite verb until iṣe in d and that it is unclear what the limits are of the rel. cl. marked by yásya in b. If we follow Oldenberg’s first option, that the rel. cl. occupies pādas a-c, the rel. prn. (towards the end of b) is positioned far too deeply in the clause. His 3rd option envisions a discontinuous rel. cl. partly embedded in and partly following the main cl., with the rel cl. verb being nákṣate in d -- a syntactic configuration that is simply impossible. His 2nd option, basically adopted by Geldner as well, takes the rel. cl. as limited to vépī vákvarī yásya nū́gī́ḥ. This is more acceptable, though the rel. cl. would be definitely embedded, not only in the main clause but within a long acc. NP (tám … índram [REL CL] tuvigrābhám …). My own solution is similar to this, but limits the rel. cl. to yásya nū́gī́ḥ; this not only better accounts for the position of the particle nū́but also diminishes the effect of the embedding, because brief nominal rel. clauses, roughly equivalent to izafe constructions, seem to be at least marginally acceptable in RVic syntax. See esp. yó vídānaḥ in the previous hymn, VI.21.2. Scarlatta’s (208) tr. appears to follow the same analysis, with the rel. cl. limited to “[das Lied,] das nun ihm gehört …” The root noun cmpd rabhodā́- is glossed by Scarlatta (208) in the first instance as ‘Ungestüm, Gewalt, Kraft gebend, aufnehmend’, leaving it undetermined whether Indra bestows or assumes rábhas-, a question that Scarlatta discusses in some detail without coming to a definite conclusion. Since, as Scarlatta notes, there are several good exx. of rábhas- and related words as objects of medial ā́√dā ‘take, assume’ (e.g., I.145.3) and since the pāda in which the adj. is found seems to depict Indra on a rampage (tuvigrābháṃ tuvikūrmím “powerfully grasping, powerfully ranging”), the medial ‘assume’ value makes the most sense. Although ideally we might want the preverb ā́represented, root noun cmpds with the structure NOUN-PREV-√ seem to be rare to non-existent. (Cmpds of the type tveṣá-saṃ-dṛś- in 9b below aren’t counterexamples, because, as the accent shows, the root noun cmpd saṃdŕ̥ś- has been in turn incorporated into a bahuvrīhi), and in any case the outcome of rabhas-ādā́- would be hard to parse once sandhi rules had applied.
 
 The verb of the main clause must be iṣe in d, but what it represents is uncertain. Grassmann (Nachtr., 1755) assigns it to √iṣ ‘send’, identifying it as a 1st sg.; Oldenberg tr.
 
@@ -277,8 +280,6 @@ Den Indra ruft das Lied, der steht im Wagen den Blitz im Arme, dem der rege Ruf 
 О мощно захватывающем, мощно действующем, дарующем отвагу,  
 Она ищет доступа (и) достигает сильного.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

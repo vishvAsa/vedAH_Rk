@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिवः- वज्रिन्। यस्य। ते- तव। सख्यम्। स्वादु- आस्वादनीयम्। प्रणीतिः- प्रकर्षनयनम्।  स्वाद्वी- आस्वादनीयम्। यज्ञः। वितन्तसाय्यः- विशेषेण तननीयः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रिवः** वज्रवन्निन्द्र **यस्य** स्तुत्यत्वेन प्रसिद्धस्य **ते** तव **सख्यं** **स्वादु** अतीवानुभवार्हम् । किंच ते **प्रणीतिः** प्रणयनं धनादीनां **स्वाद्वी** स्वादु सुहर्षकम् । तथोभे त्वद्विषयो **यज्ञः** च **वितन्तसाय्यः** विशेषेण तननीयः ॥
@@ -159,10 +162,6 @@ Du, dessen Freundschaft süß, dessen Führung süß ist, du Herr des Preßstein
 
 Dich, dessen Freundschaft lieblich ist, und dessen Leitung, Schleuderer, Und dessen Opfer man beeilt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

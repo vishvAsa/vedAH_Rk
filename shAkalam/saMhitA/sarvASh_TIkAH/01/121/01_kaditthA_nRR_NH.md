@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान् दैर्घतमस औशिजः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुरण्यन्- प्रेरयन्। कत्- कदा। इत्था- इत्थम्। नॄन्- नरान्। पात्रम्- रक्षिता। देवयताम्-  द्योतनशीलकामानाम्। अङ्गिरसाम्- अङ्गनशीलानामुपासकानाम्। गिरः- मन्त्रान्। श्रवत्-  शृणुयात्। यदा। हर्म्यस्य- हर्म्योपलक्षितस्वर्गस्य। विशः- जनान्। देवकामजनानिति भावः। प्र-  प्रकर्षेण।आ- आभिमुख्येन। आनट्-  प्राप्नोति। तदा। यजत्रः- यज्ञपालक इन्द्रः। अध्वरे-  हिंसारहितसर्वभूतहितकर्मणि। उरु- विस्तीर्णतया। क्रंसते- क्रमते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नॄँः** **पात्रं** नॄन् पाता नृणां स्तुतेः नेतॄणां पुरुषाणां रक्षणशीलः इन्द्रः **तुरण्यन्** गोरूपधनं प्रेरयन् **देवयतां** देवं द्योतमानं दानादिगुणयुक्तं वा इन्द्रम् आत्मन इच्छताम् **अङ्गिरसाम्** ऋषीणाम् अस्माकम् **इत्था** इत्थं प्रयुज्यमानाः **गिरः** स्तुतीः **कत्** कदा कस्मिन् काले **श्रवत्** शृणुयात् । **यत्** यदा स इन्द्रः **हर्म्यस्य** हर्म्योपलक्षितेन गृहेण युक्तस्य यजमानस्य संबन्धिनः **विशः** ऋत्विग्लक्षणान् मनुष्यान् **आ** आभिमुख्येन **प्र** **आनट्** प्राप्नोति तदानीम् **अध्वरे** अस्मदीये यज्ञे **यजत्रः** यष्टव्यः सन् **उरु** बहुलं **क्रंसते** क्रमते स्वयमेव उत्सहते इत्यर्थः ॥ कत् । कदा । अन्त्यलोपश्छान्दसः । नॄँः पात्रम् ।' नॄन्पे ' ( पा. सू. ८. ३. १० ) इति संहितायां नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वा ' इति ऋकारः सानुनासिकः । पात्रम् । ‘पा रक्षणे'। ताच्छीलिकः तृन् । व्यत्ययेन सोः अमादेशः । संज्ञापूर्वकस्य विधेरनित्यत्वात् गुणाभावे यण् । देवयताम् । सुप आत्मनः क्यच् । ततो लटः शतृ ।  ‘ शतुरनुमः० ' इति विभक्तेरुदात्तत्वम् । श्रवत् । श्रु श्रवणे '। लेटि अडागमः ।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । तुरण्यन् । ‘तुरण त्वरायाम् । कण्ड्वादिः । आनट् । अश्नोतेर्लङि व्यत्ययेन परस्मैपदम् । श्नौ प्राप्ते व्यत्ययेन श्नम्विकरणः । व्रश्चादिषत्वे जश्त्वम् । आडागमः । हर्म्यस्य । हर्म्यशब्दात् अर्शआदित्वात् अच् । क्रंसते ।  ‘ क्रमु पादविक्षेपे'। ' वृत्तिसर्गतायनेषु क्रमः' (पा. सू. १. ३. ३८) इत्यात्मनेपदम् । लेटि अडागमः ।  ‘ सिब्बहुलं लेटि' इति सिप् । यजत्रः ।  ‘ अमिनक्षि° ' इत्यादिना यजेः अत्रन्प्रत्ययः ॥
@@ -244,7 +247,7 @@ When he has reached the clans of the secure habitation, will the one  worthy of 
 
 Geldner (/Witzel Gotō) take pāda a as a separate clause and consider pā́tram ‘cup, vessel’ a metaphorical designation of Indra (“Ist er wohl das rechte Gefäss für solch gottergebene Männer?”). With Oldenberg I consider this to be an anachronistic application of the much later sense of ‘cup, bowl’ to mean ‘appropriate recipient’. (It is true that Indra is referred to as a ‘tankard’ [I.61.9] and a ‘beaker’ [I.100.12] elsewhere, but in those cases it is his capacious size that is at issue.) Oldenberg and Renou both avoid the Indra = cup interpretation by supplying a verb (different verbs in each case). I see no reason to supply a verb, since pā́tram can be an acc. goal with turaṇyán (see X.61.11 for another acc. of goal with the same stem), a possibility also allowed by Oldenberg
 
-On nṝ́n as gen. pl. see AiG III.211-12.
+On nṝ́n as gen. pl. see AiG III.211-12.
 </details>
 
 <details><summary>Griffith</summary>
@@ -271,8 +274,6 @@ Mag wol der eilende so recht die Männer und das Trinkgefäss der Frommen und di
 Когда доберется он до членов семьи (этого) дома,  
 Пусть широко шагает на (наш) обряд, (он) достойный жертв.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। निकर्तवे- निकर्तुम्। नकीम्- नैव शक्यः। शक्रः-शख्निमान्। परिशख्नवे- परिभवाय। न  शख्नः। विश्वम्- सर्वम्। शृणोति पश्यति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **निकर्तवे** निकर्तुं **नकीं** नैव शक्यः । तथा **शक्रः** शक्तोऽयं **परिशक्तवे”** परिभावाय **न** शक्यत इति । स तु **विश्वं** **शृणोति** **पश्यति** च ॥ ॥ ३१ ॥ स मन्यु मनामदब्धो नि चिकीषते । पुरा निदर्थिकीषते ॥ ६ ॥
@@ -161,10 +164,6 @@ Indra ist nicht hereinzulegen, noch ist Macht über den Mächtigen zu gewinnen. 
 
 Indra ist zu besiegen nicht, der starke zu bezwingen nie; Er hört und sieht das ganze All.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

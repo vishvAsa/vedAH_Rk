@@ -3,7 +3,6 @@ title = "001"
 devataa = "रतिः"
 RShiH = "लोपामुद्रा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - लोपामुद्रा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पत्नी वदति- अहम्। दोषा वस्तोः उषसः- अहर्निशम्। शरदः- संवत्सरान्। जरयन्तीः। तनूनां  श्रियम्- रूपसौन्दर्यम्। जरिमा- जरा। मिनाति- हिनस्ति। अपि- अपि च। नु- क्षिप्रम्। पत्नीः-  जायाः। वृषणः- रेतः सेख्नारः पुरुषाः। न जग्म्युः- न गच्छेयुः किम्। गच्छन्त्येवेति भावः। भवानेव  नागच्छति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अगस्त्य **अहं** लोपामुद्रा **पूर्वीः** **शरदः** पुरातनानसंख्यातान् संवत्सरान् **दोषाः** रात्रीः **वस्तोः** अहानि तथा देहं **जरयन्तीः** **उष** सः उषःकालांश्च ॥ सर्वत्र अत्यन्तकालसंयोगे' द्वितीया ॥ अद्यतनकालपर्यन्तं बहुसंवत्सरं कार्त्स्न्येन त्वच्छुश्रूषया **शश्रमाणा** श्रान्ताभूवम् । इदानीं तु **जरि**  मा जरा **तनूनाम्** अङ्गानां **श्रियं** सौन्दर्यं **मिनाति** हिनस्ति । एवमपि नानुगृह्णासीत्यर्थः । **अप्यू** **नु** । अपिः संभावनायाम् । उ इत्यवधारणे । नु इति वितर्के । इदानीमपि किं संभावनीयम् । लोके हि पत्नीः स्त्रियः **वृषणः** सेक्तारः पुरुषाः **जगम्युः** गच्छेयुः संभोगं कुर्युः । अतो मां किमित्यवमन्यसे । इदानीमपि वा संभावयेत्यर्थः ॥
@@ -238,7 +241,6 @@ Old age diminishes the beauty of bodies. Bullish (men) should now come  to their
 <details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains a predicated perfect participle śaśramāṇā́.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -272,8 +274,6 @@ Viele Jahre habe ich mich spät und früh abgemüht, während die Morgen dem Alt
 Старость уменьшает красоту тела.  
 Разве мужчины никогда не должны входить к (своим) женам?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

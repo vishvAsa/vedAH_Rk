@@ -3,7 +3,6 @@ title = "004"
 devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। स्यः- सः।  वाजी- अश्वः। ग्रीवायाम्- कण्ठे। अपिकक्षे- कक्षप्रदेशे। आसने-  आस्ये। बद्धः। क्षिपणिम्- क्षेपणम्। अनु- अनुसृत्य। तुरण्यति- त्वरयति। दधिक्राः- अश्वदेवः।  क्रतुम्- प्रज्ञाम्। अनु- अनुसृत्य। सन्तवीत्वत्- बली सन्। पथाम्- मार्गाणाम्। अङ्कांसि-  कुटिलानि। आपनीफणत्- सर्वतो भृशं गच्छति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **स्यः** सः **वाजी** वेजनवानश्वरूपो देवः **ग्रीवायां** गरणसाधनायां कण्ठे **बद्धः** **अपिकक्षे** कक्षप्रदेशे **आसनि** आस्ये च बद्धः । बद्धपल्यङ्कस्योक्तेषु स्थानेषु पाशबन्धाः संभवन्ति । एवं बद्धः सन्  **क्षिपणिं** क्षेपणम् **अनु** तुरण्यति त्वरयति गन्तुम्। किंचायं **दधिक्राः** देवः **क्रतुं** कर्म प्रज्ञां वा **अनु** अनुसृत्य **संतवीत्वत्** प्रवृद्धबलवान सन् **पथां** मार्गाणाम् **अङ्कांसि** कुटिलानि अनुसृत्य **आपनीफणत्** सर्वतो भृशं गच्छति ॥ फणतेर्गत्यर्थस्य यङ्लुकि इदं रूपम् ॥ अपि स वाजी वेजनवान्' (निरु. २.२८ ) इत्यादि निरुक्तमनुसंधेयम् ॥
@@ -226,8 +229,6 @@ Dadhikrā, growing stronger and stronger following his will, galloping  and gall
 kṣipaṇí- is yet another hapax. The standard rendering is ‘lash’ (Geldner: Peitschenhieb, Renou: coup-de-fouet), and the published translation simply follows this. Witzel Gotō suggest rather ‘in Beschleunigung’ (acceleration). Acdg. to their n. they take it as an Inhaltsakk., flg. Gaedicke. This is possible, I suppose: ‘rushes a rush’ à ‘rushes a flinging’ (‘flinging’ à ‘acceleration’). But since the similarly formed kṣipaṇú- (IV.58.6) appears to be a physical weapon, a physical object seems likely here.
 
 Moreover, this vs. abruptly confronts us with the harsh constraints imposed on the horse by his rider -- “bound” in three places and whipped to frenzied running. The lash is an important part of this picture. Until now Dadhikrā has been presented as an untrammeled autonomous agent, but now the audience must suddenly reassess who’s the boss, as it were. For the relationship between √kṣip ‘fling, hurl’ and whips, see V.83.3 rathī́va káśayā́śvān abhikṣipán “Like a charioteer lashing out at his horses with a whip.” The two pādas of the 2nd half-vs. are nicely balanced, each ending with an intensive participle preceded by a preposition phrase headed by ánu ‘following’ (in the same metrical position). The two ánu phrases are contrastive, however: in c what is being followed is mental (krátum), in d simply the physical course (pathā́m áṅkāṃsi). Given the horse’s portrayal in the first half of the vs., we must now wonder whose krátu- Dadhikrā is following. For most of this series we would have assumed he follows his own -- he’s been shown as an irresistible force of nature -- but 4ab show him under human control, confined in horse tackle and whipped, so we might instead wonder if it is his rider’s krátu- that he is subject to.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -264,8 +265,6 @@ Dies schnelle Ross beschleunigt seinen raschen Lauf, am Hals gebunden, an den Sc
 Резво скача по извилинам дорог.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दधिक्रावा
@@ -286,7 +285,7 @@ Dies schnelle Ross beschleunigt seinen raschen Lauf, am Hals gebunden, an den Sc
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जैसे सब प्रकार शोभित बन्धन से सन्नद्ध किया घोड़ा शीघ्र चलता है, वैसे ही अग्नि आदि से चलाये गये वाहन से शीघ्र जाओ ॥४॥
+भावार्थभाषाः -  हे मनुष्यो ! जैसे सब प्रकार शोभित बन्धन से सन्नद्ध किया घोड़ा शीघ्र चलता है, वैसे ही अग्नि आदि से चलाये गये वाहन से शीघ्र जाओ ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

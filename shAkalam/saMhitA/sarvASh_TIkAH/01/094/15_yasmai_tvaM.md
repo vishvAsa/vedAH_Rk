@@ -3,7 +3,6 @@ title = "015"
 devataa = "अग्निः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदिते- अखण्डप्रकृते। अदितिशब्देनाग्निस्वरूपनिर्देशः। यस्मै। सर्वताता- सर्वासु कर्मततिषु।  त्वम्। अनागाः- अपापः सन्। सुद्रविणः- शोभनसंपद्वान् सन्। ददाशः- ददासि। यम्। भद्रेण-  अभ्युदयात्मकेन। शवसा- बलेन। चोदयासि- प्रेरयसि। चुद प्रेरणे। स सुखी भवति। वयमपि।  ते- तव। राधसा- संसिद्ध्या। राध संसिद्धौ। स्याम- भवेम॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुद्रविणः** शोभनधन **अदिते** अखण्डनीयाग्ने **सर्वताता** सर्वासु कर्मततिषु यद्वा सर्वेषु यज्ञेषु वर्तमानाय यस्मै यजमानाय **अनागास्त्वम्** अपापत्वं पापराहित्येन कर्मार्हतां **त्वं** **ददाशः** प्रयच्छसि स यजमानः समृद्धो भवति । **यं** च यजमानं **भद्रेण** भजनीयेन कल्याणेन **शवसा** बलेन **चोदयासि** संयोजयसि सोऽपि समृद्धो भवति । वयं च स्तोतारः प्रजावता प्रजाभिः पुत्रपौत्रैर्युक्तेन **ते** **राधसा** त्वया दत्तेन धनेन युक्ताः स्याम भवेम ॥ सुद्रविणः । शोभनानि द्रविणानि धनानि यस्य । ‘ द्रु गतौ । द्रुदक्षिभ्यामिनन् ' ( उ. सू. २. २०८)। द्रविणशब्दस्यान्ते सकारोपजनश्छान्दसः । ददाशः । ‘ दाशृ दाने ' । लेट अडागमः। ‘बहुलं छन्दसि' इति शपः श्लुः । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । सर्वताता। सर्वदेवात्तातिल' इति स्वार्थे तातिल्प्रत्ययः। यास्कपक्षे तु सर्वाः स्तुतयो येषु यागेष्विति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । वर्णव्यापत्त्या आत्वम् । उभयत्रापि  सुपां सुलुक्' इति सप्तम्या डादेशः । चोदयासि । ‘ चुद प्रेरणे' । लेटि आडागमः ॥
@@ -220,8 +223,6 @@ Contra standard tr., I do not take anāgástvam as the obj. of dádāśaḥ, sin
 Instead I take it as belonging to a parallel nominal clause, still in the domain of yásmai.
 
 The final phrase that is the ostensible main clause, té syāma “might we be they,” violates number agreement: pl. té cannot properly pick up sg. yásmai. This is a variant of a common tag and feels tacked on.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Wenn irgend einen du, o reicher, ew'ger, Schuldlosigkeit und Wohlergehn gewähre
 Кого ты побуждаешь благою силой,  
 Даром, приносящим потомство, – мы хотели бы быть ими!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

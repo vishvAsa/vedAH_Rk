@@ -3,7 +3,6 @@ title = "002"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञानाम्- पूजानां दानानां सङ्गतिकरणानाम्। नाभिम्- बन्धकम्। रयीणाम्- दानयोग्यसम्पदाम्।  सदनम्- सुद्मभूतम्। महाम्- महात्मानम्। आहावम्- आहुतिसमर्पितम्। अभि- अभितः। सम्-  सम्यक्। नवन्त- स्तुवन्ति। वैश्वानरम्- सर्वनरहितम्। अध्वराणाम्- ध्वरविरोधिकर्मणाम्।  रथ्यम्- नेतारम्। यज्ञस्य। केतुम्- प्रज्ञापकम्। देवाः। जनयन्त- अजनयन्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञानां** ज्योतिष्टोमादियागानां **नाभिं** नहनं बन्धकं तथा **रयीणां** धनानां **सदनं** स्थानमैकनिलयं **महां** महान्तम् **आहावम्** । आहूयन्तेऽस्मिन्नाहुतय इत्याहावः । तादृशम् । यद्वा । वृष्ट्युदकधारणमाहावं निपानस्थानीयम् । एवंभूतमग्निम् **अभि** अभितः **सं** **नवन्त** स्तोतारः सम्यक् स्तुवन्ति । तथा **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **अध्वराणां** यज्ञानां **रथ्यं** रथिनम् । यथा रथी स्वरथं नयति तद्वन्नेतारं ग्राहयितारं गमयितारं **यज्ञस्य** **केतुं** प्रज्ञापकम् । एवंविधमग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **जनयन्त** जनयन्ति मथनेनोत्पादयन्ति ॥
@@ -226,7 +229,6 @@ Vaiśvānara, charioteer of the ceremonies, beacon of the sacrifice—(him)  the
 On mahā́m as acc. sg. masc. see AiG III.251, EWA s.v. mahā́nt, p. 338.
 
 The paradox of calling fire “a great watering trough” (āhāvá-) simply sharpens the slightly discordant image in 1c of Agni as ‘cup’. Although āhāvá- is clearly derived from ā́√hu, a standard lexeme for the oblations that Agni would be receiving, this particular noun is associated with a well in X.101.5 and is therefore associated with more mundane acts of pouring water (which of course should extinguish fire). Agni is a trough because the gods get their “water” there.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -261,8 +263,6 @@ Der Opfer Nabel, ihn den Sitz der Schätze, begrüssten alle, ihn den grossen Ei
 Вайшванару, колесничего обрядов,  
 Знамя жертвы, породили боги.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अवस्युरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मघवन्- सम्पद्वन्। ते- तव। पूर्वाणि- प्राचीनानि। करणानि- कर्माणि। प्र- प्रकर्षेण। वोचम्-  अवदम्। या- यानि। नूतना- नव्यानि। चकर्थ- अकरोः। तानि प्रवोचम्। शख्नीवः- शख्निमन्।  मनवे- विदुषे। दानुचित्राः- चित्रदानाः। अपः- मूलशख्निधाराः। जयन्। उभे रोदसी-  द्यावापृथिव्यौ। विभराः- धृतवानसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ते** त्वदीयानि **पूर्वाणि** पुरातनानि **करणानि** कर्माणि **प्र** **वोचम्** अहं प्रकर्षेण ब्रवीमि । **नूतना** नूतनानि नवानि कर्माणि **प्र** वोचं प्रब्रवीमि । हे **मघवन्** धनवन्निन्द्र **या** यानि कर्माणि **चकर्थ** कृतवानसि तानि प्र वोचमिति संबन्धः । हे **शक्तीवः** शक्तिमन् । शक्तिर्वज्रं कर्म वा । तद्वन्निन्द्र **यत्** यस्त्वम् **उभे** **रोदसी** द्यावापृथिव्यौ **जयन्** वशीकुर्वन् **अपः** उदकानि **मनवे** मनुष्याय **विभराः** विविच्य बिभर्षि । कीदृशीः । **दानुचित्राः** चित्रदानाः ॥
@@ -268,8 +271,6 @@ Though Grassmann refuses to tr., katpayám seems to contain the pejorative kapre
 For ápa √gṝ ‘taunt’ see comm. ad V.29.4. As Oberlies (Relig. I.401) points out, this gerund depicts a pre-battle boasting/insulting match -- trash talk (needless to say, this last is not Oberlies’s formulation).
 
 What to do with uccaíḥ is unclear. Most take it with the gerund apagū́rya; so Geldner “hoch ausholend,” with his interpr. of the gerund as belonging to a √gṝ ‘hold out’; with the assignment to ápa √gṝ ‘insult’, Schaeffer “nachdem er laut Schmähreden geführt hat”; Oberlies “nachdem er ihn [zuvor] mit lauter Stimme geschmäht hatte”; Witzel Gotō “indem er ihn von oben herab verspottete.” The Schaeffer / Oberlies interpr. of the adverb as ‘loud’ is appealing, but uccā́is always positional in the RV. The Witzel Gotō interpr. recognizes this fact, but insulting from above seems an odd activity. I take it rather with jaghāna. A fatal blow is more likely to come from above than a taunt, and it is notable how often in the hymn it is emphasized that Vṛtra was smashed down: 1d áva … han, 4d ní jaghāna, 5a níṣattam, 7d adhamám, 8d ní … āvṛnak. To depict Indra as correspondingly acting above provides the thematic complement. Note also úd … índraḥ … vádhar yámiṣṭa (“… held up …”) in the next hemistich, 7ab.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -312,8 +313,6 @@ Nun will ich preisen deine alten Thaten, die neuen auch, die, Mächt'ger, du vol
 (То,) о могущественный, что ты разъял две половины вселенной,  
 Покоряя для Ману вoды, сверкающие влагой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

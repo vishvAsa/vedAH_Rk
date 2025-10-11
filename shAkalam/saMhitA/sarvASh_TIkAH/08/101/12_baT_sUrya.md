@@ -3,7 +3,6 @@ title = "012"
 devataa = "सूर्यः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - जमदग्निर्भार्गवः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    बट्- सत्यम्। सूर्य। श्रवसा- श्रुत्या। महान्- महात्मा। असि- भवसि। सत्रा- सत्यमेव। देव।  महान्  असि। मह्ना- महिम्ना। देवानाम्- देवतानाम्। असुर्यः- प्राणदः। पुरोहितः- पुरतो निहितः।  तव ज्योतिः। अदाभ्यम्- अहिंस्यम्। विभु- व्याप्तम्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सूर्य** त्वं **श्रवसा** श्रवणेन **महान्** सर्वाधिकः असि **बट्** सत्यम् । हे **देव** द्योतमान सूर्य त्वं **देवानां** मध्ये **मह्ना** महत्त्वेन **महान्** अधिकः **असि** **सत्रा** सत्यमेव । **असुर्यः** असुराणां हन्ता चासि । किंच त्वं देवानां **पुरोहितः** हितोपदेष्टासि। किंच ते **ज्योतिः** तेजः **विभु** महत् **अदाभ्यं** केनाप्यहिंस्यं च ॥
@@ -225,8 +228,6 @@ Because of his greatness the lordly one was set in front for the gods, as  the e
 <details><summary>Jamison Brereton Notes</summary>
 
 Presumably the sun’s light is ‘undeceivable’ (adābhyàm) because the sun is witness to everything.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Ja, Sonnengott, an Herrlichkeit bist du gross, nach allen Seiten, o Gott, bist d
 Благодаря величию (ты,) асурский, поставлен впереди богов  
 Как выдающийся неистребимый свет.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

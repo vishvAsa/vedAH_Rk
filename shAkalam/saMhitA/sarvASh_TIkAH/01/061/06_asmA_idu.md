@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नोधा गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मै- इन्द्राय। इत्- एव। त्वष्टा- तनूकरणदैवतं शिल्पदैवतम्। तक्षू त्वक्षू तनूकरणे।  स्वपस्तमम्- अतिशयेन शोभनकर्मकरम्। स्वर्यं- ज्योतिर्मयम्। वज्रम्- आयुधम्। रणाय-  वृष्ट्यावरणशख्निभिर्जनिताय युद्धायेत्याधिभौतिके। आत्मावरणशख्निभिर्जनिताय  युद्धायेत्याध्यात्मिके। तक्षत्- ससर्ज। येन। तुजता- हिंसकेन। तुज हिंसायाम्। कियेधाः-  क्रममाणधा इति यास्कः। ईशानः- ईश्वरः। तुजन्- हिंसन्। वृत्रस्य-  आत्मावरणशख्नेर्वृष्ट्यावरणशख्नेर्वा। मर्म- सत्तानिर्देशस्थानम्। विदत्- हननार्थं लेभे॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्वष्टा** विश्वकर्मा **अस्मा** **इदु** अस्मै एवेन्द्राय **वज्रं** वर्जकमायुधं **रणाय** युद्धार्थं **तक्षत्** तीक्ष्णमकरोत् । कीदृशं वज्रम् । स्वपस्तमम् अतिशयेन शोभनकर्माणं **स्वर्यं** सुष्ठु शत्रुषु प्रेर्यं यद्वा स्तुत्यम् । **तुजन्** शत्रून् हिंसन् **ईशानः** ऐश्वर्यवान् **कियेधाः** बलवान् एवंगुणविशिष्ट इन्द्रः **वृत्रस्य** **चित्** आवरकस्यासुरस्य **मर्म** मर्मस्थानं **तुजता** हिंसता **येन** वज्रेण **विदत्** प्राहार्षीदित्यर्थः ॥ स्वपस्तमम् । शोभनमपः कर्म यस्यासौ । अतिशयेन स्वपाः स्वपस्तमः । तमपः पित्त्वादनुदात्तत्वम् । सोर्मनसी अलोमोषसी' इत्युत्तरपदाद्युदात्तत्वम् । स्वर्यम् । ‘स्वर्यं ततक्ष' (ऋ. सं. १. ३२. २ ) इत्यत्रोक्तम् । विदत् । ‘विद्लृ लाभे'। लृदित्वात् च्लेः अङादेशः । ‘बहुलं छन्दस्यमाङयोगेऽपि' इति अडभावः । यद्वृत्तयोगदनिघातः । तुजन् । तुज हिंसायाम् । शपि प्राप्ते व्यत्ययेन शः । अदुपदेशात् लसार्वधातुकानुदात्तत्वे विकरणस्वरः । ईशानः । ‘ईश ऐश्वर्य' । शानचि अदादित्वात् शपो लुक् । अनुदातेत्त्वात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । तुजता । ‘शतुरनुमः! इति विभक्तेरुदात्तत्वम् । कियेधाः । अत्र निरुक्तं - कियेधाः कियद्धा इति वा क्रममाणधा इति वा ' ( निरु. ६. २०) इति । अस्यायमभिप्रायः । कियत् किंपरिमाणमित्यस्य बलस्य तादृशं बलं दधाति धारयतीति कियद्धाः। यः कोऽप्यस्य बलस्येयत्तां न जानातीत्यर्थः । यद्वा। क्रममाणमाक्रममाणं परेषां बलं धारयति निवारयतीति क्रममाणधाः । उभयत्रापि पृषोदरादित्वात् पूर्वपदस्य कियेभावः । दधातेर्विच् ॥
@@ -243,9 +246,9 @@ The position of yéna in this subordinate clause is anomalous, as we expect at m
 
 I’ve tr. the participle tuján as it were a finite verb, because the English otherwise dribbles off into unintelligibility. In fact, because of the rel. cl. in c, it’s better to take d as a new cl. with tuján as predicated participle (“Gaining mastery, he was thrusting …”). On this stem see comm. ad IX.91.4.
 
-The unclear kiyedhā́- is found only here and in vs. 12. See EWA s.v. and Scarlatta’s (250-52) discussions of previous attempts at explanation. I favor the suggestion registered (and dismissed) by Scarlatta that it consists of the weak stem of kíyant-‘how much, how great’ + the root noun dhā́-, with the development *-nt̥-dh- &gt;
+The unclear kiyedhā́- is found only here and in vs. 12. See EWA s.v. and Scarlatta’s (250-52) discussions of previous attempts at explanation. I favor the suggestion registered (and dismissed) by Scarlatta that it consists of the weak stem of kíyant-‘how much, how great’ + the root noun dhā́-, with the development *-nt̥-dh- >
 
-*-adzdh- &gt; *-azdh- &gt; -edh-, despite Hoffmann’s dismissal of the posited
+*-adzdh- > *-azdh- > -edh-, despite Hoffmann’s dismissal of the posited
 phonological development (Aufs. 400)—although I recognize the phonological problems of this solution. Renou’s “lui qui confère (on ne sait) combien” represents this etymology one way or the other.
 </details>
 
@@ -273,8 +276,6 @@ Ihm hat zur Schlacht den Blitz gezimmert Tvaschtar den himmlischen, der schönst
 Нападая нападающей (ваджрой), властный, добивающийся чего угодно.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -290,7 +291,7 @@ Ihm hat zur Schlacht den Blitz gezimmert Tvaschtar den himmlischen, der schönst
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  मनुष्यों को उचित है कि जो (त्वष्टा) प्रकाश करने (ईशानः) समर्थ (कियेधाः) कितनों को धारण करनेवाला शत्रुओं को (तुजन्) मारता हुआ (वृत्रस्य) मेघ के ऊपर अपने किरणों को छोड़ता (विदत्) प्राप्त होते हुए सूर्य के समान (स्वर्यम्) सुख के हेतु (स्वपस्तमम्) अतिशय करके उत्तम कर्मों के उत्पन्न करनेवाले (वज्रम्) किरणसमूह को (तक्षत्) छेदन करते हुए सूर्य के (चित्) समान (अस्मै) इस (रणाय) सङ्ग्राम के वास्ते जिस (मर्म) जीवननिमित्त स्थान को (तुजता) काटते हुए (येन) जिस वज्र से शत्रुओं को जीतता है, (इदु) उसी को सभा आदि का अध्यक्ष करना चाहिये ॥ ६ ॥
+पदार्थान्वयभाषाः -  मनुष्यों को उचित है कि जो (त्वष्टा) प्रकाश करने (ईशानः) समर्थ (कियेधाः) कितनों को धारण करनेवाला शत्रुओं को (तुजन्) मारता हुआ (वृत्रस्य) मेघ के ऊपर अपने किरणों को छोड़ता (विदत्) प्राप्त होते हुए सूर्य के समान (स्वर्यम्) सुख के हेतु (स्वपस्तमम्) अतिशय करके उत्तम कर्मों के उत्पन्न करनेवाले (वज्रम्) किरणसमूह को (तक्षत्) छेदन करते हुए सूर्य के (चित्) समान (अस्मै) इस (रणाय) सङ्ग्राम के वास्ते जिस (मर्म) जीवननिमित्त स्थान को (तुजता) काटते हुए (येन) जिस वज्र से शत्रुओं को जीतता है, (इदु) उसी को सभा आदि का अध्यक्ष करना चाहिये ॥ ६ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

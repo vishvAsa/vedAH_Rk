@@ -3,7 +3,6 @@ title = "010"
 devataa = "बृहस्पतिः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अत्यष्टिः"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अत्यष्टिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -271,6 +269,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+होता- देवाह्वाता। यक्षत्- यजतु। वनिनः- शरण्याः। वार्यं- उत्तमं सोमम्। वन्त- संभजन्तु।  वेनः- कमनीयः। बृहस्पतिः- मेधादेवः। पुरुवारेभिः- बहुवृतैः। उक्षभिः- सेचनैः सोमैः। यजति-  उपास्ते। अध- अनन्तरम्। त्मना- आत्मना। अद्रेः- ग्रावतो जडतो वा। दूरआदिशम्-  सुदूरगमनशीलादेशयुख्नं सार्वभौममिति भावः। श्लोकम्- मन्त्रात्मकं रसम्। जगृभ्म- गृह्णीमः।  अरिन्दानि- जीवोदकानि। इतस्ततो गमनशीलत्त्वादुदकान्यरिन्दानि। ऋ गतौ। सुद्मानि-  सदनानि। पुरू- बहूनि। सुक्रतुः- शोभनक्रतुरग्निः। अधारयत्- दधार। आधिभौतिके तु  वेदिस्थाग्निः हव्यैर्मेघे उदकसुद्मानि करोति। आध्यात्मिके तु सर्वभूतहितक्रतुरग्निरस्मिन्नुपासकशरीरे  मूलशख्निप्रवाहान् करोति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **होता** दैव्योऽग्निर्मनुषो वा देवानामाह्वाता **यक्षत्** याज्यां पठतु ॥ यजेर्लेटि अडागमः ॥ ‘ सिब्बहुलम्' इति सिप् ॥ **वनिनः** वननवन्तः हविः कामयमाना वा देवाः **वार्यं** वरणीयं सोमं **वन्त** संभजन्ताम् ॥ वनतेश्छान्दसे लङि व्यत्ययेन आत्मनेपदम् । ‘ बहुलं छन्दसि ' इति शपो लुक् । छान्दसोऽन्त्यलोपः । तदर्थं **बृहस्पतिः** बृहतो मन्त्रस्य हविषो वा पालकोऽध्वर्युर्दैव्यो बृहस्पतिर्वा स्वयमेव **यजति** यागं करोति । कीदृशः सः । **वेनः** कामयमानः । केन साधनेनेति तदुच्यते । **उक्षभिः** सेचकैः सोमैः **पुरुवारेभिः** बहुभिर्वरणीयैः तथा **उक्षभिः** सेचनसमर्थैरुदकैः तन्निमित्तभूतैर्हूयमानैराहुतिभिरादित्यद्वारा वृष्ट्युत्पनैः। वयं यजमानाः **दूरआदिशं** दूरदेश आदिक् आदेशो यस्य तादृशम् ॥ ‘ हलदन्तात्सप्तम्या:०' (पा. सू. ६.३.९ ) इति अलुक् ॥ **अद्रेः** । जातावेकवचनम् । अभिषवसाधनस्य ग्राव्णः **श्लोकं** वाचं ध्वनिं जगृभ्म गृह्णीमः श्रोत्राभ्याम् । पूजार्थं बहुवचनम् । इदानीं परोक्षकृतः । **सुक्रतुः** शोभनकर्मा अयं यजमानः **अध** अथ यागसंपूर्त्यनन्तरम् **अररिन्दानि** । उदकनामैतत् , ' अररिन्दानि ध्वस्मन्वत् ' (नि. १. १२. २६ ) इति तन्नामसु पाठात् । वृष्टिलक्षणान्युदकानि **त्मना** आत्मना **अधारयत्** धारयति ॥ ररिर्दाता । नास्त्यन्यो ररिरस्य पिपासोपशमनस्य तादृशं पिपासोपशमनं ददतीत्यररिन्दानि । यद्वा । अररिः इतश्चेतश्च गमनम् । औणादिकः अरिप्रत्यय:। ‘ आतोऽनुपसर्गे कः' । पृषोदरादित्वात् अभिमतस्वरूपस्वरसिद्धिः । तद्ददतीत्यररिन्दानि उदकानि । चेष्टाप्रदानीत्यर्थः । ‘ आपोमयः प्राणः' (छा. उ. ६. ५. ४) इति श्रुतेः। यद्वा । ररिर्दानम् । न विद्यते तादृशं दानमितरभूतेषु तत् अररि । तद्ददतीत्यररिन्दानि । अन्यैरदेयं लोकोपकारिभोगं ददतीत्यर्थः । तादृशान्युदकानि यागेनोत्पादितवानित्यर्थः । किंच **सुक्रतुः** शोभनकर्मा अयं **पुरु** पुरूणि बहूनि **सद्मानि** सदनानि सुखनिवासयोग्यानि गृहाणि अधारयत् । यद्वा । बृहस्पतिः सुक्रतुश्च अयमध्वर्युः अररिन्दानि उक्तलक्षणानि अभिषवसाधनान्युदकानि अधारयत् । धारितवान् । तथा सुक्रतुः शोभनप्रज्ञः पुरु सद्मानि सदनानि हविरासादनस्थानान्यधारयत् ॥
@@ -300,7 +303,7 @@ By ourselves we have grasped the signal-call of the pressing-stone  signaling it
 
 The praiṣa quoted at the beginning of this verse, matching the one opening the hymn, situates this verse in the ritual here and now, and such a context gives clues for the solution of some of the difficulties. Because the context is the soma sacrifice (the praügaśastra is part of the morning soma pressing; see also the pressing stone in e), I follow Geldner in taking vanínaḥ as the gen. sg. of ‘wooden’ (rather than as the nom. pl. of a putative vanín- ‘winning’, with Renou). The ‘wooden’ is the wooden cup and by extension its contents: soma. This interpr. in turn makes it unnec. to take vanta as a haplology of 3rd pl. *vananta (see Oldenberg). The bulls of b are likewise interpretable in a ritual context as the soma drinks.
 
-Pāda f contains an incomprehensible hapax araríndāni, which, as so often, may have been stimulated by the phonological context: ádhārayadararindāni. Given the construction of the tag-pāda g it should refer to something compatible with sádmāni ‘seats’. My ‘fittings’ is only a placeholder, loosely implying a connection with √ṛ ‘fit together’ (also in ará- ‘wheel-spoke’, etc.) and inspired by the (presumably entirely accidental) echo of ἀραρίσκω. What -ind- would be under this analysis is utterly unclear.
+Pāda f contains an incomprehensible hapax araríndāni, which, as so often, may have been stimulated by the phonological context: ádhārayadararindāni. Given the construction of the tag-pāda g it should refer to something compatible with sádmāni ‘seats’. My ‘fittings’ is only a placeholder, loosely implying a connection with √ṛ ‘fit together’ (also in ará- ‘wheel-spoke’, etc.) and inspired by the (presumably entirely accidental) echo of ἀραρίσκω. What -ind- would be under this analysis is utterly unclear.
 </details>
 
 <details><summary>Griffith</summary>
@@ -330,8 +333,6 @@ Der Priester bete und die Spender spenden Gut, und mit den Stieren opfert hold B
 (Бог) с прекрасной силой духа основал...  
 Многие места для сиденья, (бог) с прекрасной силой духа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

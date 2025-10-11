@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कथा- केन हेतुना। ऋताय- प्रकृतिनियतिभूतसत्याय। मरुतां शर्धाय- मरुद्गणाय। ब्रूयाः। कथा-  केन हेतुना। बृहते- महात्मने। सूरे- सूर्याय। पृच्छ्यमानः सन् ब्रूयाः। तुराय- क्षिप्रायै। अदितये-  अखण्डप्रकृतये। ब्रवः- किं ब्रूयाः। जातवेदः- जातविद्य। चिकित्वान्- विद्वान् सन्। दिवः-  चिदाकाशात्। साध-अंहसां व्यपोहनं साधय॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **ऋताय** गन्त्रे सत्यभूताय वा **मरुतां** **शर्धाय** बलभूताय गणाय **कथा** केन हेतुना मदीयमागः प्रतिब्रूयाः । तेन **पृच्छ्यमानः** सन् तस्मै **बृहते** महते **सूरे** सूर्याय **कथा** कथं वदेः । तथा **अदितये** देव्यै **तुराय** त्वरितगमनाय वायवे च। अदितयेऽदीनाय तुराय वा । **प्रति** **ब्रवः** । मदीयमागः कथं प्रतिब्रूयाः । यस्मादेवं तस्मात् हे जातवेदः अग्ने **चिकित्वान्** एतत्सर्वं जानानस्त्वं **दिवः** दीप्तान् देवान् **साध** साधय गच्छ । यद्वा । दिवो द्युलोकस्य यज्ञवहनलक्षणं कार्यं साध कुरु॥ सूरे । सर्वविधीनां छन्दसि विकल्पितत्वात् ङेर्यत्वाभावः ।  ‘ अतो गुणे ' इति पररूपत्वम् । पृच्छ्यमानः । ' प्रच्छ ज्ञीप्सायाम् । कर्मणि यक् । ग्रहिज्यादिना संप्रसारणम् । शानचो लसार्वधातुकानुदात्तत्वे यक्स्वरः । साध। ‘राध साध संसिद्धौ ' । अन्तर्भावितण्यर्थस्य लोटि व्यत्ययेन शप् ॥
@@ -221,7 +224,6 @@ The masc. (/neut.) turā́ya cannot modify fem. áditaye (pace Oldenberg SBE). G
 Pāda d poses some syntactic challenges. The first is that sā́dhā, by all accounts a 2nd sg. act. impv. to √sādh, has no expressed obj., though act. forms of this root are fundamentally tr. (but sometimes, esp. in the participle, used in absolute sense “assuring success”; cf. nearby IV.1.9). I supply dhíyam ‘thought’ vel sim. as the object, since forms of dhī́- or other words for thought/prayer are regularly construed with √sādh. The other problem is what to construe gen./abl. diváḥ with. (It cannot be acc. pl. because of the accent.) The standard solution has been to take it with cikitvā́n (e.g., Geldner “der du den Himmel kennst”), but as Renou points out, cikitvā́n is never otherwise construed with a gen. His solution is to supply an obj. for sā́dhā on which diváḥ is dependent: “Mène droit au but (les affaires) du ciel.” My interpr.
 
 requires a slight emendation, from sā́dhā diváḥ to *sā́dhā́diváḥ -- that is, sā́dha ā́ diváḥ, with ā́+ ABL in the meaning “all the way to.” Cf. I.92.17 yaú … ślókam ā́ diváḥ … cakráthuḥ “you two who made your signal-call (reach) all the way to heaven”; sim. III.61.4. See comm. ad locc. An asterisk should be inserted before “all the way.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
@@ -265,8 +267,6 @@ Wie gibst der heil'gen Marutschar du Antwort, wenn du gefragt wirst? wie der hoh
 Иди прямо к цели, о Джатаведас, в небе!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -282,12 +282,12 @@ Wie gibst der heil'gen Marutschar du Antwort, wenn du gefragt wirst? wie der hoh
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (जातवेदः) प्रसिद्ध उत्तम ज्ञानयुक्त (सूरे) सूर्य्य के सदृश वर्त्तमान सेना में (पृच्छ्यमानः) पूँछे गए आप (मरुताम्) पवनों का जैसे वैसे (ऋताय) सत्य के और (बृहते) बढ़ते हुए (शर्धाय) बल के लिये (कथा) किस प्रकार से (ब्रवः) कहो (तुराय) शीघ्रता करते हुए (अदितये) नहीं नाश होनेवाले अन्तरिक्ष के लिये (कथा) किस प्रकार से (प्रति) निश्चित कहो (चिकित्वान्) ज्ञानवान् होकर (दिवः) प्रकाशों को (साध) सिद्ध करो ॥८॥
+पदार्थान्वयभाषाः -  हे (जातवेदः) प्रसिद्ध उत्तम ज्ञानयुक्त (सूरे) सूर्य्य के सदृश वर्त्तमान सेना में (पृच्छ्यमानः) पूँछे गए आप (मरुताम्) पवनों का जैसे वैसे (ऋताय) सत्य के और (बृहते) बढ़ते हुए (शर्धाय) बल के लिये (कथा) किस प्रकार से (ब्रवः) कहो (तुराय) शीघ्रता करते हुए (अदितये) नहीं नाश होनेवाले अन्तरिक्ष के लिये (कथा) किस प्रकार से (प्रति) निश्चित कहो (चिकित्वान्) ज्ञानवान् होकर (दिवः) प्रकाशों को (साध) सिद्ध करो ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो राजा लोग वायु के सदृश अपने बल को बढ़ाते, योधा लोगों के शिक्षक और परीक्षकों का सत्कार करते और प्रश्नोत्तर से सब को जान उनके द्वारा कार्य सिद्ध करते हैं, वे सूर्य्य के सदृश ऐश्वर्य के प्रकाशक होते हैं ॥८॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो राजा लोग वायु के सदृश अपने बल को बढ़ाते, योधा लोगों के शिक्षक और परीक्षकों का सत्कार करते और प्रश्नोत्तर से सब को जान उनके द्वारा कार्य सिद्ध करते हैं, वे सूर्य्य के सदृश ऐश्वर्य के प्रकाशक होते हैं ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

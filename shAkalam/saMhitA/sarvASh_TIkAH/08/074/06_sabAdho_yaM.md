@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जुह्वानासः- आह्वयन्तः। यतस्रुचः- उद्यतपात्राः। सबाधः- बाधिताः। जनाः। इमे- एते। अग्निम्।  हव्येभिः- हव्यैः। ईळते- स्तुवन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इमे** **सबाधः** बाधसहिता अध्वर्य्वादयः **यम्** **अग्निं** **हव्येभिः** हविर्भिः **ईळते** स्तुवन्ति । कीदृशा जनाः। **जुह्वानासः** यागं कुर्वाणाः **यतस्रुचः** तदर्थं धृतस्रुग्दण्डाः । तमागन्मेति समन्वयः ॥
@@ -168,10 +171,6 @@ Dem Agni, den diese Leute eindringlich mit Opfergaben anrufen, indem sie mit hin
 
 Dem Agni, den die Männer hier durch Opfer ehren eifervoll, Dem, Löffel lenkend, Trank sie weihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

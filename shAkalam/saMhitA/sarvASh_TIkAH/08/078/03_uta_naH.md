@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। कर्णशोभना- कर्णैः श्रवणीयानि कर्णशोभनानि। पुरूणि- बहूनि। धृष्णो-  शत्रुधर्षक। नः- अस्मभ्यम्। आ भर। त्वम्। वसो- शरण्य। शृण्विषे- शृणोषि। हि- खलु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **नः** अस्मभ्यं **कर्णशोभना** कर्णाभरणानि **पुरूणि** बहूनि **आ** **भर** । हे **धृष्णो** धर्षकेन्द्र **वसो** वासयितरिन्द्र **त्वं** **हि** खलु **शृण्विषे** श्रूयसे । किमिति । उदारोऽयमिन्द्र इति ॥
@@ -190,10 +193,6 @@ Und bring uns viele Ohrringe, du Mutiger, denn du bist als der Gütige bekannt!
 
 Und viele Ohrgehänge auch, o Kühner, bringe uns herbei; Denn als den guten rühmt man dich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

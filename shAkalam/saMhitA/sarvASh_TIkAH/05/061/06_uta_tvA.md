@@ -3,7 +3,6 @@ title = "006"
 devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्वा- भवन्तम्। शशीयसी- प्रशंसन्ती। स्त्री- नारी। अदेवत्रा- दिव्यव्रतारक्षकात्।  अराधसः- लोभिनः। पुंसः- पुरुषात्। वस्यसी- अदर्शना। वस आच्छादने। भवति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **त्वा** एका **शशीयसी**। शशीयसी इस्येतन्महिष्या नाम। सैव **स्त्री** । यद्वा । उतेत्ययमेवकारार्थे । स्त्रीषु सैव प्रशस्येत्यर्थः । त्वसमसिमनेमेत्यनुच्चानि ' इति वचनात् त्वेति निघातः ॥ सैव **पुंसः** पुरुषात् **वस्यसी** वसीयसी **भवति** । कस्मात्पुंस इत्युच्यते । **अदेवत्रात्** । देवाः अनेन त्रायन्ते स्तुत्यादिना सः देवत्रः । न देवत्रः अदेवत्रः। तस्मात् **अराधसः** । राधो धनम् । दानार्हधनरहितात् । लुब्धकादित्यर्थः ॥
@@ -154,8 +157,7 @@ if he’s estranged from the gods, ungenerous—
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring &gt; constant &gt; reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
-
+The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring > constant > reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -188,8 +190,6 @@ Und manches Weib ist beständiger und besser als der Mann, der gottlos und gaben
 Бывает лучше мужчины,  
 Не поклоняющегося богам, не дающего даров,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

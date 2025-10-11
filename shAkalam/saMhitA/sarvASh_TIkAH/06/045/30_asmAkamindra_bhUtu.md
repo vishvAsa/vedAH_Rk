@@ -3,7 +3,6 @@ title = "030"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। ते- तव। अन्तमः- अन्तिकः। वाहिष्ठः- अतिशयवाहकः। स्तोमः- मन्त्रः। अस्माकम्-  नः। भूतु- भवतु। अस्मान्- नः। राये- दानयोग्यसम्पदे। महे- महत्यै। हिनु- प्रेरय॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **वाहिष्ठः** वोढ़ृतमः **अस्माकं** **स्तोमः** स्तोत्रं **ते** तव **अन्तमः** अन्तिकतमः **भूतु** भवतु । त्वं च **अस्मान्** **महे** महते **राये** धनाय **हिनु** प्रेरय ॥
@@ -175,8 +178,6 @@ Let ours be the praise song that best conveys you nearest, Indra. Impel us towar
 Notice the very un-Ārya phonology of the name of the patron, Bṛbu with two plain b’s. (On Bṛbu as patron see Kuiper, Aryans, p. 6.) It is probably not an accident that this vs. contains only one of two reff. to the Gaṅgā in the RV (the other a voc. gaṅge in X.75.5), since the Gaṅgā is at the limits of the RVic geographical horizon.
 
 The simile is more lit. “(he is) broad like the Gangetic girth.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -210,8 +211,6 @@ Dir sei, o Indra, unser Lob das liebste und willkommenste, Zu grossem Reichthum 
 Нас подгони к великому богатству!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -227,7 +226,7 @@ Dir sei, o Indra, unser Lob das liebste und willkommenste, Zu grossem Reichthum 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) धन के देनेवाले ! (अस्माकम्) हम लोगों का (वाहिष्ठः) अतिशय धारण करनेवाला (अन्तमः) समीप में वर्त्तमान (स्तोमः) प्रशंसास्वरूप व्यवहार (ते) आपका बढ़ानेवाला (भूतु) होवे और जो आपके समीप में वर्त्तमान अतिशय धारण करनेवाला प्रशंसारूप व्यवहार हो वह (अस्मान्) हम लोगों को (महे) बड़े (राये) धन के लिये (हिनु) बढ़ावे ॥३०॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) धन के देनेवाले ! (अस्माकम्) हम लोगों का (वाहिष्ठः) अतिशय धारण करनेवाला (अन्तमः) समीप में वर्त्तमान (स्तोमः) प्रशंसास्वरूप व्यवहार (ते) आपका बढ़ानेवाला (भूतु) होवे और जो आपके समीप में वर्त्तमान अतिशय धारण करनेवाला प्रशंसारूप व्यवहार हो वह (अस्मान्) हम लोगों को (महे) बड़े (राये) धन के लिये (हिनु) बढ़ावे ॥३०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

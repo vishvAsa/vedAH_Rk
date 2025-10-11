@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+या- ये। वाम्- युवयोः। पुरुस्पृहः- बहुभिः स्पृहणीयाः। नियुतः- प्राणवडवाः। सन्ति- भवन्ति।  ताभिः। इन्द्राग्नी। नरा- नेतारौ। दाशुषे- दात्रे। आ गतम्- आगच्छतम्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरा** नेताराविन्द्राग्नी **वां** युवयोः स्वभूताः **पुरुस्पृहः** पुरुभिर्बहुभिः स्पृहणीया: **दाशुषे** हवींषि दत्तवते यजमानार्थमुत्पन्नाः **याः** **नियुतः** अश्वाः **सन्ति** हे **इन्द्राग्नी** **ताभिः** नियुद्भिः **आ** **गतम्** आगच्छतम् ॥
@@ -181,7 +184,6 @@ come here with those, o Indra and Agni.
 <details><summary>Jamison Brereton Notes</summary>
 
 I follow Geldner in construing dāśúṣe with sánti (“which are for the pious”) rather than with puruspṛ́haḥ (Renou “pour l’adorateur les très enviés”) because puruspṛ́h- doesn’t seem to appear with a dat. elsewhere. See the almost identical IV.47.4.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -214,8 +216,6 @@ Mit euren Wagenzügen eilt den vielbegehrten, Männer ihr, Dem Frommen, Indra-Ag
 О два мужа, для почитающего (вас),  
 О Индра-Агни, приезжайте на них!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

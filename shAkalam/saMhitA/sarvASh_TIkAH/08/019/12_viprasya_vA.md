@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सोभरिः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहसो यहो- शख्निज। वसो- शरण्य। विविदुषः- विदुषः। विप्रस्य- मेधाविनः। स्तुवतः।  मक्षुतमस्य- क्षिप्रतमस्य। रातिषु- दानेषु। वचः- मन्त्रम्। अवोदेवम्- देवानामधः। उपरिमर्त्यं-  मर्त्यानामुपरि। कृधि- कुरु॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहसो** **यहो** बलस्य पुत्राग्ने **विप्रस्य** मेधाविनः **स्तुवतः** स्तोतुः **वा** **रातिषु** हविर्दानेषु **मक्षुतमस्य** शीघ्रतमस्य यष्टुर्वा **विविदुषः** ज्ञातवतोऽभिज्ञस्य **वचः** वचनं हे **वसो** वासकाग्ने **अवोदेवं** देवानामवस्तात् **उपरिमर्त्यं** मर्त्यानामुपरिष्टाच्च **कृधि** कुरु । सर्वं नभःप्रदेशं व्यापयेति यावत् ॥
@@ -196,8 +199,6 @@ make his speech, when he has found it, one that brings the gods below  and is ab
 <details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take the hapax avódevam, modifying vácaḥ, as meaning ‘below / inferior to (that of) the gods’. This makes a nice contrast to upárimartyam ‘above (that of) mortals’. However, it otherwise seems an odd sentiment: it is surely a given that anything we mortals produce will be inferior to whatever comes from the gods, but this is a given that we don’t necessarily want to emphasize. In this ritual context the point of our speech is that it should be good enough (better than that of other mortals) to bring the gods to us. Hence something like Grassmann’s “die Götter herunterholend, sie herablockend” seems preferable (see also Kümmel 492). The compound itself is a version of, or manipulation of, the reasonably common expression avó divā́/ diváḥ (I.163.6, V.40.6, VIII.40.8, IX.74.6).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
@@ -233,8 +234,6 @@ Des Priesters oder Sängers Wort, o Sohn der Kraft, der eifervoll mit Spenden is
 Сделай речь нашедшего (сокровенное), о Васу,  
 Ниже богов – выше людей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

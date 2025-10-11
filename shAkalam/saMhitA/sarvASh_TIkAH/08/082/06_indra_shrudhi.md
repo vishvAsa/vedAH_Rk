@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    इन्द्र। मे- मम। हवम्- आह्वानम्। सु- सुष्ठु। श्रुधि- शृणु। अस्मे- अस्माकम्। सुतस्य-  निष्पन्नस्य। गोमतः- चिद्रश्मिसम्पन्नस्य रसस्य। पीतिम्- अनुभूत्या। वि- विशेषेण। तृप्तिम्।  अश्नुहि- अनुभव॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **मे** मदीयं **हवं** त्वद्विषयमाह्वानं **सु** सुष्ठु **श्रुधि** शृणु । तथा **अस्मे** अस्माभिः **सुतस्य** अभिषुतस्य **गोमतः** गव्यक्षीरवतः । क्षीरेण मिश्रितस्येत्यर्थः । तादृशस्य सोमस्य **पीतिं** पानं **वि** **अश्नुहि** विविधं प्राप्नुहि । तत्पानेन विविधां **तृप्तिं** च गच्छ । 'अशू व्याप्तौ' । व्यत्ययेन परस्मैपदम् ॥
@@ -188,10 +191,6 @@ Indra, höre fein auf meine Einladung; von dem bei uns ausgepreßten milchgemisc
 
 O höre, Indra, meinen Ruf, erlange Trunk und Sättigung An diesem milchgemischten Saft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

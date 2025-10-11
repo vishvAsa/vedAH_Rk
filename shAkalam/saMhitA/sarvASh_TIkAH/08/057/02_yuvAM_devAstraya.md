@@ -3,7 +3,6 @@ title = "002"
 devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+युवाम्। देवाः। त्रयः एकादशासः। सत्याः- सत्यस्वरूपाः। सत्यस्य- सत्यशीलस्योपासकस्य।  पुरस्तात्। ददृशे- दृश्यन्ते। अस्माकम्- नः। यज्ञम्- पूजां दानं सङ्गतिकरणम्। सवनम्-  सम्भजनम्। जुषाणाः- सेवमानाः। दीद्यग्नी- दीप्ताग्नी। अश्विना- प्राणेशनशख्निभूतौ देवौ। सोमम्-  रसम्। पातम्- अनुभवतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -249,8 +252,6 @@ Euch beide sahn die dreiunddreissig Götter, die wahren, stehen an der Wahrheit 
 Наслаждаясь нашей жертвой (и) выжиманием,  
 Пейте сому, о Ашвины, ради который сверкает костер!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

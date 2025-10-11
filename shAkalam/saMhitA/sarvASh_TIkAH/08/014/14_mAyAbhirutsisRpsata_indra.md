@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोषूक्त्यश्वसूक्तिनौ काण्वायनौ
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मायाभिः- कापट्यैः। उत्सिसृप्सतः- उत्कृष्टभावं गन्तुमिच्छतः। इन्द्र। द्याम्- स्वर्गम्।  आरुरुक्षतः- आरोढुमिच्छतः। दस्यून्- स्तेनान् वञ्चकान्। अव अधूनुथाः- अधः पातितवान्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 .... हे **इन्द्र** त्वम् **अव** **अधूनुथाः** अवाङ्मुखं प्रेरितवानसि ॥
@@ -159,8 +162,6 @@ Du, Indra, schütteltest herab Dämonen, listig schleichende, Empor zum Himmel s
 (И) хотевших подняться на небо,  
 Ты, о Индра, стряхнул вниз.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

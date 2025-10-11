@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कया- कीदृश्या। त्वम्। नः- अस्मान्। ऊत्या- रक्षया। अभि- आभिमुख्येन। प्र- प्रकर्षेण।  मन्दसे- मादयसि। कया- कीदृश्या। स्तोतृभ्यः। आ भर- आहरसि॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृषन्** कामानां वर्षितरिन्द्र **कया** केन **ऊत्या** । अव रक्षणादिषु गत्यर्थे । ऊतियूति' इत्यादिना निपातितः । केनाभिगमनेन **नः** अस्मान् **अभि** अभितः **प्र** **मन्दसे** प्रकर्षेण मादयसि । अस्मदीयं यज्ञं प्रति सोमपानार्थमागमनेन वा त्वदीयस्तुतिश्रवणार्थमागमनेन वा कदास्मान् प्रमादयसीति । किंच **कया** केनाभिगमनेन **स्तोतृभ्यः** अस्मभ्यं धनम् **आ** **भर** आबिभर्षीतीन्द्रं स्तोता पृच्छति ॥
@@ -198,10 +201,6 @@ Mit welcher Gunst ziehst du her zu uns, du Bulle, mit welcher willst du den Sän
 
 Mit welcher Hülfe willst du uns erfreuen, o du starker Held? Mit welcher? bring den Sängern sie.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

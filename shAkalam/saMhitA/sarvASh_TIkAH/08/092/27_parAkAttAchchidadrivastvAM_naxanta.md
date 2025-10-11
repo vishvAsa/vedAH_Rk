@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पराकात्तात्- दूरात्। नः- अस्माकम्। गिरः- वाचः। अद्रिवः- वज्रिन्। नक्षन्त- व्याप्नुवन्तु।  वयम्। ते- तव सम्पदम्। अरम्- अलम्। गमाम- गच्छाम॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रिवः** वज्रवन्निन्द्र **नः** अस्मदीयाः **गिरः** इतो निर्गताः स्तुतयः **पराकात्तात्** । **चित्** अप्यर्थः । अतिदूरादपि **त्वां** **नक्षन्त** व्याप्नुवन्तु । किमुत समीपात्त्वामश्नुवतामिति । नक्षतेर्व्याप्तिकर्मणो नशतेर्वा' लेटि सिपि रूपम् । एवं सति स्तोतारः **वयं** **ते** त्वदीयं धनम् **अरम्** अलं पर्याप्तं **गमाम** त्वत्तो गच्छाम ॥
@@ -191,10 +194,6 @@ Auch von ferne sollen dich, du Herr des Preßsteins, unsere Lobreden erreichen; 
 
 Auch aus der Fern' o Schleuderer erreich' dich unser Lieder Schall; Wir mögen kommen dir zu pass.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

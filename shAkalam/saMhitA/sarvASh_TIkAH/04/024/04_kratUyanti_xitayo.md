@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्णसातौ- अपामाधारशख्निप्रवाहाणां लब्धये। मिथः- परस्परम्। योगे। आशुषाणासः-  व्याप्नुवन्त्यः। क्षितयः- साधनभूमिकाः। उग्र- इन्द्र। क्रतूयन्ति- क्रतुं प्रज्ञामिच्छन्ति। यत्- यदा।  युध्माः- युद्धशीलाः। विशः- प्रजाः। अभीके- युद्धे। सम्- सम्यक्। अववृत्रन्त- आवारयन्ति।  आदित्- तदा। नेमे- नियन्तारः। इन्द्रयन्ते- ता जेतुमिन्द्रमीशनाधिदैवतं कामयन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उग्र** उद्गूर्णबलेन्द्र **आशुषाणासः** व्याप्नुवन्तः **क्षितयः** मनुष्याः । क्षितय इति मनुष्यनामैतत् । **अर्णसातौ** सस्यादिफलसिद्ध्यर्थमुदकलाभे निमित्ते सति **मिथः** परस्परं **योगे** संबन्धे सति **क्रतूयन्ति** क्रतूनि कर्माणीच्छन्ति । **यत्** यदा **युध्माः** योधयित्र्यः **विशः** प्रजाः **अभीके** युद्धे । अभीक इति संग्रामनामैतत् । **सम्** **अववृत्रन्त** संवर्तन्ते परस्परं संगच्छन्ते **आदित्** तदानीमेव **नेमे**  केचन भाग्यवन्तो योधकाः **इन्द्रयन्ते** युद्धे इन्द्रमिच्छन्ति ।
@@ -238,8 +241,6 @@ When the battling clans have rolled together, just then do those on the  one sid
 The ‘winning of the flood’ (árṇasātau) presumably refers, as Geldner, etc., point out, to the battle to control water resources, esp. dwelling places near water.
 
 Most tr. give a more neutral rendering of ávavṛtranta, but my “have rolled together” is meant to convey the deeply entwined, rough-and-tumble quality of pitched battle (and, perhaps, the actual rolling of chariots onto the battlefield).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -268,10 +269,6 @@ Die Völker sinnen auf Kriegsfahrt, du Gewaltiger, gegenseitig sich aneifernd zu
 Die Völker mühn sich bei dem Werk, o Starker, im Kampfgewühle aufeinander schnaubend; Wenn handgemein der Streiter Scharen wurden, dann wirken diese Indra-gleich im Treffen.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -292,7 +289,7 @@ Die Völker mühn sich bei dem Werk, o Starker, im Kampfgewühle aufeinander sch
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  योगाभ्यास के विना बुद्धि नहीं बढ़ती है और बुद्धि के विना धन और आत्मा की सिद्धि नहीं होती है और विद्या पुरुषार्थ और न्याय के विना प्रजा का पालन-नहीं कर सकते हैं ॥४॥
+भावार्थभाषाः -  योगाभ्यास के विना बुद्धि नहीं बढ़ती है और बुद्धि के विना धन और आत्मा की सिद्धि नहीं होती है और विद्या पुरुषार्थ और न्याय के विना प्रजा का पालन-नहीं कर सकते हैं ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "016"
 devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूषन्- पोषक। आघृणे- दीप्तिमन्। मा- माम्। आ- आभिमुख्येन। उप द्रव- आगच्छ। ते- तव।  अपिकर्णे- कर्णे यथा श्रूयते तथा। शंसिषम्- मन्त्रैः स्तौमि। अघा- पापिनः। अर्यः- अरीन्।  अरातयः- लोभिनः। उप द्रव- बाधस्व॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पूषन् **मा** माम् **आ** **द्रव** रक्षणार्थमभिगच्छ । हे **आघृणे** आगतदीप्ते **अघाः** आहन्त्रीः **अर्यः** अरीरभिगन्त्रीः **अरातयः** शत्रुभूताः प्रजाः **उप** द्रव बाधस्व ॥ उपपूर्वो द्रवतिः बाधायां वर्तते । यथा **प्रजां** पशून्यजमानस्योप दोद्राव' ( तै. सं. १. ५. १. ४ ) इति ॥ अहं च **ते** तव अपिकर्णे कर्णावपिगते समीपदेशे स्थितः सन् नु क्षिप्रं **शंसिषं** प्रशंसामि ॥ ॥ ३ ॥
@@ -188,8 +191,6 @@ Run up to me, Pūṣan. I will announce close to your ear, o glowing one: “Evi
 <details><summary>Jamison Brereton Notes</summary>
 
 The little nominal clause aghā́aryó árātayaḥ with its unremarkable sentiment (“evil are the hostilities of the stranger”) may have been a popular saying, as it’s found in the same form nearby in VI.59.8, an Indra-Agni hymn. It is not clear to me why Pūṣan would care or why the speaker seems to impart it as a secret.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
@@ -222,8 +223,6 @@ Komm aus der Ferne du herbei, o Puschan, eile her zu mir; Vor deinen Ohren will 
 Я хочу сейчас сказать тебе на ухо, о пылкий:  
 Плоха недоброжелательность чужого!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गिर्वणः- गीर्भिः सम्भजनीय। गिरः- मन्त्राः। इमाः- एते। सुतेसुते- प्रतिरसनिष्पादने। वत्सम्-  शाबम्। धेनवः- प्रीणयित्र्यः। गावः। न- इव। नक्षन्ते- व्याप्नुवन्ति॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **गिर्वणः** गीर्भिर्वननीयेन्द्र **सुतेसुते** सोमेऽभिषुते अभिषुते सति **इमाः** अस्मदीयाः **गिरः** स्तुतयः **त्वा** त्वां **नक्षन्ते** व्याप्नुवन्ति । **धेनवः** दोग्ध्र्यः **गावो** **न** गाव इव **वत्सम्** । यथा शीघ्रं वत्सं व्याप्नुवन्ति तद्वत् ॥
@@ -174,8 +177,6 @@ as milk-cows do their calf—
 <details><summary>Jamison Brereton Notes</summary>
 
 Although, as just noted, there’s no unity in the tṛca, there is some continuity between tṛcas. Like the first vs. of the previous tṛca (25), this one has polarized nom. #imā́ḥ … gíraḥ# “these songs” framing the first hemistich, which responds to the acc. gíraḥ in the middle of the tṛca before that (23c). Moreover, the simile “like cows their calf” (28c) reprises “like mothers their calf” in 25c.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -209,8 +210,6 @@ Dir eilen diese Lieder zu, o Liederfreund, bei jedem Mahl, Wie Kühe zu dem Kalb
 Как дойные коровы к теленку,
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -226,12 +225,12 @@ Dir eilen diese Lieder zu, o Liederfreund, bei jedem Mahl, Wie Kühe zu dem Kalb
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (गिर्वणः) वाणियों से प्रशंसा करने योग्य ! (सुतेसुते) उत्पन्न-उत्पन्न हुए इस संसार में (इमाः) ये (गिरः) उत्तम प्रकार शिक्षित वाणियाँ (वत्सम्) बछड़े को (धेनवः) दुग्ध की देनेवाली (गावः) गौवें (न) जैसे वैसे (त्वा) आपको (नक्षन्ते) व्याप्त हों, वे (उ) और हम लोगों को भी प्राप्त हों ॥२८॥
+पदार्थान्वयभाषाः -  हे (गिर्वणः) वाणियों से प्रशंसा करने योग्य ! (सुतेसुते) उत्पन्न-उत्पन्न हुए इस संसार में (इमाः) ये (गिरः) उत्तम प्रकार शिक्षित वाणियाँ (वत्सम्) बछड़े को (धेनवः) दुग्ध की देनेवाली (गावः) गौवें (न) जैसे वैसे (त्वा) आपको (नक्षन्ते) व्याप्त हों, वे (उ) और हम लोगों को भी प्राप्त हों ॥२८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो श्रेष्ठ आचरण करनेवाले हैं, उनको गौ जैसे बछड़े को, वैसे सम्पूर्ण विद्या और वाणियाँ प्राप्त होती हैं ॥२८॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो श्रेष्ठ आचरण करनेवाले हैं, उनको गौ जैसे बछड़े को, वैसे सम्पूर्ण विद्या और वाणियाँ प्राप्त होती हैं ॥२८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

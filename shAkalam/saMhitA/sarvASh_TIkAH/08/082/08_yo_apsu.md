@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। अप्सु- अन्तरिक्षे। चन्द्रमा इव। चमूषु- पात्रेषु। सोमः। ददृशे- दृश्यते। पिबेदस्य  त्वमीशिषे॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **यः** गृहीतः **सोमः** **चमूषु** ग्रहेषु **ददृशे** अन्तर्दृश्यते । तत्र दृष्टान्तः । **चन्द्रमाइव** यथा चन्द्रमाः **अप्सु** अन्तरिक्षे निर्मलतया दृश्यते तद्वत् । यद्वा । अप्सूदकेषु चन्द्रमाः प्रतिबिम्बतया नानाविधो दृश्यते तथाष्टग्रहेष्वनेकरूपः सन् दृश्यते तमेतं सोमं पिबैव यतस्त्वमेवेशिषे खलु ॥
@@ -196,10 +199,6 @@ Der Soma, der in den Camugefäßen wie der Mond im Wasser sichtbar wird, von dem
 
 Den Soma, der in Schalen blinkt, wie in der Wasserflut der Mond, Den trinke, dir gehört er an.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

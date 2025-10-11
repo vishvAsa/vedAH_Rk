@@ -3,7 +3,6 @@ title = "014"
 devataa = "मरुतो लिङ्गोक्तदेवता वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्। इन्द्रम्- ईशनाधिदैवतम्। न- इव। सुक्रतुम्- शोभनसङ्कल्पम्। वरुणम्- ऋताधिदैवतम्।  इव। मायिनम्- प्राज्ञम्। अर्यमणम्- औदार्याधिदैवतम्। न- इव। मन्द्रम्- आनन्दकरम्।  विष्णुम्- व्याप्तमन्तर्यामिनम्। न- इव। सुप्रभोजसम्- भोगदम्। आदिशे- आदेशनाय। स्तुषे-  स्तौमि॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुद्गण **तं** तादृशं **वः** त्वां **स्तुषे** स्तौमि । किमर्थम् । **आदिशे** आदेशनाय धनानामतिसर्जनाय प्रदानाय । कीदृशं त्वाम् । **इन्द्रं** न इन्द्रमिव **सुक्रतुं** सुकर्माणं **वरुणमिव** **मायिनं** मायावन्तं प्रज्ञावन्तम् **अर्यमणं** **न** अर्यमणमिव मन्द्रं स्तुत्यं **विष्णुं** **न** विष्णुमिव **सृप्रभोजसं** प्रसृप्तधनम् । यदा त्वस्या लिङ्गोक्तदेवतास्तदानीं नेवशब्दौ चशब्दार्थे द्रष्टव्यौ ।
@@ -234,8 +237,6 @@ The final infinitival ādíśe can be taken in a number of ways: Geldner (fld. b
 
 In that vs. I take the lexeme as meaning ‘designate (X as Y=epithet)’, and I think something similar is meant here: by giving Pūṣan attributes and identifying him with various gods I've uniquely identified him.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
@@ -268,8 +269,6 @@ Den euren, der wie Indra wirkt, wie Varuna voll Weisheit ist, Wie Arjaman erfreu
 Как Арьяман, отрадного, дающего длительное удовлетворение,  
 Как Вишну, я восхваляю, чтобы привлечь внимание,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

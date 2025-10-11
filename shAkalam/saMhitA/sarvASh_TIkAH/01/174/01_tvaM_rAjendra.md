@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। त्वम्- भवान्। राजा- नृपः सन्। ये च देवाः- अन्यैर्देवैः सह। नॄन्- मनुष्यान्।  रक्ष- पालय। असुर- प्राणद। त्वम्। अस्मान्- नः। पाहि- रक्ष। त्वम्। सत्पतिः- सतां पालकः।  सन्मात्रपालकः। मघवा- सम्पद्वान्। नः- अस्माकम्। तरुत्रः- तारयिता। त्वम्- भवान्। सत्यः।  वसवानः- वसूनि कुर्वाणः। सहोदाः- सहनशीलत्वदायकः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वं** **राजा** अधिपतिः सर्वस्य जगतः । किंच **ये** **देवाः** मरुदादयः सन्ति तेषामपि विशेषेण । अतो हे **असुर** शत्रूणां निरसितः **त्वं** **नॄन्** अस्मान् कर्मनेतॄन् यजमानान् **रक्ष** पालय। विशेषतोऽस्मानपि रक्ष । **त्वं** च **सत्पतिः** सतां सतः कर्मफलस्य वा पाता **मघवा** धनवान् **नः** अस्माकं **तरुत्रः** तारयिता पापात् किंच **त्वं** **सत्यः** अबाध्यः सत्यफलो वा **वसवानः** स्वतेजसा सर्वं छादयन् वसूनि वा कुर्वन् स्तोतृभ्यः **सहोदाः** सहसो बलस्य दाता भवेति शेषः ॥
@@ -264,13 +267,13 @@ You, as lord of settlements, are our surpassing benefactor, you the real  posses
 
 <details><summary>Jamison Brereton Notes</summary>
 
-All the standard tr. (also, e.g., Schlerath, Königtum 143, Hale Asura- 70, Oberlies ReligRV II.177) construe the rel. cl. yé ca devā́(ḥ) loosely (very loosely) with rā́jā (e.g., Geldner “Du, Indra, bist der König über alle Götter,” which entails not only assuming that rā́jā can govern such a clause, but also ignoring the ca). Within the same general interpr. framework Witzel Gotō do try to account for the ca: “… der König über (alle), auch die die Götter sind.” This can all be avoided by interpr. the rel. cl. as part of the familiar syntagm “X and which Y,” but in an inverse version with the conjoined rel. cl. first (rather like the inverse Vāyav Indraś ca construction with the ca constituent first ): yé ca devā́ḥ, … nṝ́n. Renou, fld by Klein (DGRV I.127), does interpret it as an “X and which Y construction,” but supplies a gen. “of mortals” with rā́jā: “… le roi (des hommes) et de (ceux) qui (sont) les dieux.” This is unnec.
+All the standard tr. (also, e.g., Schlerath, Königtum 143, Hale Asura- 70, Oberlies ReligRV II.177) construe the rel. cl. yé ca devā́(ḥ) loosely (very loosely) with rā́jā (e.g., Geldner “Du, Indra, bist der König über alle Götter,” which entails not only assuming that rā́jā can govern such a clause, but also ignoring the ca). Within the same general interpr. framework Witzel Gotō do try to account for the ca: “… der König über (alle), auch die die Götter sind.” This can all be avoided by interpr. the rel. cl. as part of the familiar syntagm “X and which Y,” but in an inverse version with the conjoined rel. cl. first (rather like the inverse Vāyav Indraś ca construction with the ca constituent first ): yé ca devā́ḥ, … nṝ́n. Renou, fld by Klein (DGRV I.127), does interpret it as an “X and which Y construction,” but supplies a gen. “of mortals” with rā́jā: “… le roi (des hommes) et de (ceux) qui (sont) les dieux.” This is unnec.
 
 because rákṣā can govern the conjoined NP. It is accented because it opens the pāda.
 
 Another intricate “X and which Y” construction is found in vs. 3 (by my interpr).
 
-Witzel Gotō unaccountably take rákṣā absolutely and construe nṝ́n with pāhí, which is ungrammatical because pāhí is accented; its object (asmā́n) follows.
+Witzel Gotō unaccountably take rákṣā absolutely and construe nṝ́n with pāhí, which is ungrammatical because pāhí is accented; its object (asmā́n) follows.
 
 Notice the openings of cd, #tváṃ sát(patir) …, #tváṃ sat(yó) …
 </details>
@@ -298,8 +301,6 @@ Ein König du, o Indra, und ihr Götter beschützt die Männer, schirme uns, o E
 Ты господин сущего, щедрый, (ты) наш спаситель.  
 Ты истинный обладатель добра, дающий силу превосходства.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

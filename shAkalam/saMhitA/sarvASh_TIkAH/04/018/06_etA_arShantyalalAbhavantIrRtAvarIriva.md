@@ -3,7 +3,6 @@ title = "006"
 devataa = "वामदेवः"
 RShiH = "अदितिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अदितिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एताः- इमा आपो मूलशख्निधाराः। अललाभवन्तीः- शब्दवत्यः। ऋतावरीरिव-  प्रकृतिनियतिभूतसत्ययुख्ना एव। संक्रोशमानाः- शब्दयन्त्यः। अर्षन्ति- सरन्ति। एताः- इमाः।  वि- विशेषेण। पृच्छ- प्रश्नं कुरु। किम्। इदम्- एतत्। भनन्ति- ता वदन्ति। आपः-  जीवोदकानि। कम्। अद्रिम्- जडोपलक्षितं पर्वतं मेघं वा। परिधिम्- स्वबन्धकम्। रुजन्ति-  भञ्जन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अललाभवन्तीः** अललेत्येवंरूपं शब्दं कुर्वत्यः **ऋतावरीरिव** उदकवत्य एव **एताः** नद्यः **संक्रोशमानाः** इन्द्रमहत्त्वप्रतिपादकोद्भूतेन हर्षेण बहुविधं शब्दायमानाः सत्यः **अर्षन्ति** गच्छन्ति । एवंभूता नद्यः **इदं** **किं** **भनन्ति** श्रोत्रग्राह्यं शब्दायमानं किं वदन्तीममर्थं हे ऋषे त्वम् **एताः** नदीः **वि** **पृच्छ** विशेषेण पृष्टवान् भव । एवं संपृच्छ । विचारिते सति एतच्छब्दायमानमिन्द्रमाहात्म्यस्यैव वचनं भवतीत्यर्थः । किंच **आपः** उदकानि **परिधिम्** आवरकं **कम्** **अद्रिं** कं मेघं **रुजन्ति** भञ्जन्ति । 'अपः कमपि मेघं न भञ्जन्ति किंतु इन्द्रो मम पुत्र एव उदकावरकं मेघं भङ्क्त्वा आपः प्रवर्तयतीत्यर्थः ॥
@@ -227,7 +230,6 @@ As suggested in the published introduction, the (real) waters in the amniotic sa
 
 The simile in b, ṛtā́varīr iva saṃkróśamāṇāḥ “like truthful women together shouting their witness” may have a quasi-legal resonance. The root √kruś is later used for raising a hue and cry on witnessing a crime (vel sim.), such as a Rākṣasa abduction (see my Sacr.Wife 233). Configuring the waters as truthful and articulate witnesses in this pāda leads directly to the suggestion in the next pāda that they should be asked what they are saying.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -235,6 +237,7 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -268,8 +271,6 @@ Es rinnen munter plätschernd diese Fluten, wie heil'ge Frauen miteinander plaud
 Что за скалу-плотину они разбивают.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रादिती
@@ -290,7 +291,7 @@ Es rinnen munter plätschernd diese Fluten, wie heil'ge Frauen miteinander plaud
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे मनुष्यो ! यह नदियाँ मेघों की पुत्रियाँ अर्थात् उनसे उत्पन्न हुई तटों को तोड़ती और अव्यक्त शब्दों को करती हुई प्रातःकालों के सदृश जाती हैं, वैसे ही सेना शत्रुओं के सम्मुख प्राप्त होवें ॥६॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे मनुष्यो ! यह नदियाँ मेघों की पुत्रियाँ अर्थात् उनसे उत्पन्न हुई तटों को तोड़ती और अव्यक्त शब्दों को करती हुई प्रातःकालों के सदृश जाती हैं, वैसे ही सेना शत्रुओं के सम्मुख प्राप्त होवें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

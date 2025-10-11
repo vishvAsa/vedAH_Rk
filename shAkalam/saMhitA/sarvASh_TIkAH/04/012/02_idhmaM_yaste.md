@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ते- तुभ्यम्। शश्रमाणः- श्रमयुख्नः सन्। इध्मम्- समिधम्। जभरत्- आहरति। अग्ने। महः-  स महत्। अनीकम्- तेजःसङ्घम्। आ- आभिमुख्येन। सपर्यन्- परिचरन्। अमित्रान्- शत्रून्।  घ्नन्- नाशयन्। सः। इधानः- त्वामुद्दीपयन्। दोषामुषसम्- रात्रिंदिवम्। रयिम्-  दानयोग्यसम्पदम्। पुष्यन्। सचते- प्राप्नोति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** यः यजमानः **ते** तुभ्यम् **इध्मं** होमसाधनं समिज्जातं **जभरत्** आहरेत् ॥ ' हृञ् हरणे '। लिङर्थे लेट् । तस्य तिपः ‘ इतश्च लोपः' इति इकारलोपः ।  ‘ बहुलं छन्दसि ' इति शपः श्लुः । द्विर्वचनादिकार्यम् । ‘लेटोऽडाटौ ' इत्यडागमः ।  ‘ हृग्रहोर्भः ' इति भत्वम् ॥ **शश्रमाणः** इध्माद्याहरणे श्राम्यन् **महः** महतः तव **आ** **अनीकम्** । आकारश्चार्थे। तेजश्च **सपर्यन्** परिचरन् यो यजमानः **दोषां** **प्रति** रात्रिं लक्षीकृत्य **उषसं** प्रति उषःकालं च लक्षीकृत्य । कालद्वयेऽपीत्यर्थः । **इधानः** इन्धानस्त्वां दीप्तियुक्तं करोति **पुष्यन्** प्रजाभिः पशुभिश्च पुष्टः सन् **सः** यजमानः **अमित्रान्** शत्रून् **घ्नन्** हिंसन् **रयिं** धनं **सचते** सेवते । सर्वदा पश्वादिधनसमृद्धो भवतीत्यर्थः ॥
@@ -263,8 +266,6 @@ he, kindling (you) every evening, every dawn, follows along, thriving in  his we
 The overlapping identities of Agni and his worshiper are indirectly signaled in this vs. Although the sá of c must be correlative with yáḥ in a and refer to the human, some of the phraseology used of him in cd matches that used of Agni elsewhere. The common med. part. idhāná- is almost always intrans./pass. modifying Agni (‘[being] kindled’), but here it must be transitive with the worshiper as subject.
 
 (There are a few other undoubted transitive occurrences: I.143.7, VII.9.6.) The combination of this participle and a form of púṣya- as here, with Agni as subj., is found in V.26.6 samidhānáḥ sahasrajid ágne dhármāṇi puṣyasi. Similarly sacate in d seems to match sácase at the end of the last hymn (IV.11.6), but Agni was the subject of that verb. The point here is that, though the second hemistich must in fact refer to the mortal worshiper, some of the phraseology invites a superimposition of Agni.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -304,8 +305,6 @@ Wer emsig wirkend Brennholz dir herbeibringt, dein Angesicht, o Agni, hoch vereh
 Тот процветает, соединяется с богатством, убивает недругов.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -321,7 +320,7 @@ Wer emsig wirkend Brennholz dir herbeibringt, dein Angesicht, o Agni, hoch vereh
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अग्ने) राजन् ! (यः) जो (शश्रमाणः) अत्यन्त परिश्रम करता हुआ सेना का स्वामी (ते) आपकी (महः) बड़ी (इध्मम्) प्रकाशयुक्त (अनीकम्) विजय को प्राप्त होती हुई सेना की (आ) सब प्रकार (सपर्य्यन्) सेवा करता हुआ (जभरत्) यथावत् हरे पोषे पुष्ट हो अर्थात् शत्रु बल हरे और आप पुष्ट हो (सः) वह (इधानः) प्रकाशमान होता (प्रति, दोषाम्) प्रत्येक रात्रि और (उषासम्) प्रत्येक दिन (पुष्यन्) पुष्टि पाता (अमित्रान्) और धर्म से द्वेष करनेवाले शत्रुओं का (घ्नन्) नाश करता हुआ (रयिम्) राज्यलक्ष्मी को (सचते) प्राप्त होता है ॥२॥
+पदार्थान्वयभाषाः -  हे (अग्ने) राजन् ! (यः) जो (शश्रमाणः) अत्यन्त परिश्रम करता हुआ सेना का स्वामी (ते) आपकी (महः) बड़ी (इध्मम्) प्रकाशयुक्त (अनीकम्) विजय को प्राप्त होती हुई सेना की (आ) सब प्रकार (सपर्य्यन्) सेवा करता हुआ (जभरत्) यथावत् हरे पोषे पुष्ट हो अर्थात् शत्रु बल हरे और आप पुष्ट हो (सः) वह (इधानः) प्रकाशमान होता (प्रति, दोषाम्) प्रत्येक रात्रि और (उषासम्) प्रत्येक दिन (पुष्यन्) पुष्टि पाता (अमित्रान्) और धर्म से द्वेष करनेवाले शत्रुओं का (घ्नन्) नाश करता हुआ (रयिम्) राज्यलक्ष्मी को (सचते) प्राप्त होता है ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

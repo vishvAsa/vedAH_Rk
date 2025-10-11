@@ -3,7 +3,6 @@ title = "017"
 devataa = "युद्धभूमिब्रह्मणस्पत्यदितयः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - पायुर्भारद्वाजः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 bāṇā́ḥ ← bāṇá- (nominal stem)  
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्रा। बाणाः- इषवः। विशिखाः- तीक्ष्णाः। कुमाराः- तरुणा वीराः। इव। सम्पतन्ति। तत्र।  नः- अस्मभ्यम्। ब्रह्मणस्पतिः- मेधामन्त्राधिपतिः। अदितिः- अखण्डप्रकृतिः। विश्वाहा- सर्वदा।  शर्म- मङ्गळम्। यच्छतु- ददातु॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** युद्धे **कुमारा** **विशिखाइव** मुण्डिता इव **बाणाः** **संपतन्ति** **तत्र** **नः** अस्मभ्यं **ब्रह्मणस्पतिः** **शर्म** सुखं **विश्वाहा** सर्वदा **यच्छतु** । **अदितिः** च **शर्म** **यच्छतु** । द्विरुक्तिरादरार्था ॥
@@ -253,8 +256,6 @@ Wo Bolzen fliegen dichtgedrängt, den Knaben gleichend ohne Bart, da möge der G
 (И) Адити пусть дарует защиту,  
 Всегда пусть даруют защиту!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - सत्यश्रवा आत्रेयः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। पूर्वम्। वाय्ये- तन्तुसमाने। सत्यश्रवसि- अतीन्द्रियसत्यश्रवणे। अबोधयः- बोधितवती।  तथा। अद्यापि। नः- अस्मान्। सुजाते- सुष्ठूद्भूते। अश्वसूनृते- व्याप्तप्रियहितवाग्भूते। दिवित्मती-  दिव्या सती। उषः- प्रभाति विद्ये। महे- महत्यै। राये- सम्पदे। नः- अस्मान्। बोधय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्य** अस्मिन् यागदिने हे **उषः** उषोदेवि **दिवित्मती** दीप्तिमती त्वं **नः** अस्मान् **महे** महते **राये** धनप्राप्तये **बोधय** प्रज्ञापय । प्रकाशयेत्यर्थः । सति प्रकाशे क्रतुद्वारा दृव्यस्योपार्जयितुं शक्यत्वात् । **यथा** **चित्** यथैव पूर्वं **नः** अस्मान् **अबोधयः** अतीतेषु दिवसेषु यथा बोधितवती तद्वदद्यापि इत्यर्थः । हे **सुजाते** शोभनप्रादुर्भूते **अश्वसूनृते** । अश्वार्था प्रियसस्यात्मिका स्तुतिवाक् यस्याः सा । हे तादृशि देवि **वाय्ये** वय्यपुत्रे **सत्यश्रवसि** मय्यनुगृहाणेत्यर्थः ॥
@@ -225,7 +228,6 @@ just as you also awakened us at Satyaśravas Vāyya’s
 The phrase mahé … rāyé divítmatī is very reminiscent of IV.31.11 mahó rāyé divítmate, with an adverbial maháḥ but a dat. divítmate modifying rāyé. See comm. ad loc. It seems likely that our fem. divítmatī is a nonce adaptation to the fem.
 
 context. As for divítmant-, I now tentatively accept the analysis of divít- as containing the root noun -i-t- and would alter the tr. to “as one coming from heaven” or “as heaven-sent one.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -263,8 +265,6 @@ Zu grossem Reichthum weck uns heut, o Morgenroth, zu glänzendem; Wie du uns imm
 О благородная, о щедро дающая коней!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विनौ
@@ -280,7 +280,7 @@ Zu grossem Reichthum weck uns heut, o Morgenroth, zu glänzendem; Wie du uns imm
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (उषः) श्रेष्ठ गुणों से प्रातःकालः के सदृश वर्त्तमान (वाय्ये) डोरे के सदृश फैलाने योग्य सन्ततिरूप (सुजाते) उत्तम रीति से उत्पन्न (अश्वसूनृते) बड़ी प्रिय वाणी जिसकी ऐसी हे स्त्रि ! (यथा) जैसे (दिवित्मती) प्रकाश से युक्त प्रातर्वेला (महे) बड़े (राये) धन के लिये प्रबोध देती है, वैसे (अद्य) आज (नः) हम लोगों को (बोधय) जनाइये और (चित्) भी (सत्यश्रवसि) सत्यों के श्रवण, सत्य वा अन्न में (नः) हम लोगों को (अबोधयः) जनाइये ॥१॥
+पदार्थान्वयभाषाः -  हे (उषः) श्रेष्ठ गुणों से प्रातःकालः के सदृश वर्त्तमान (वाय्ये) डोरे के सदृश फैलाने योग्य सन्ततिरूप (सुजाते) उत्तम रीति से उत्पन्न (अश्वसूनृते) बड़ी प्रिय वाणी जिसकी ऐसी हे स्त्रि ! (यथा) जैसे (दिवित्मती) प्रकाश से युक्त प्रातर्वेला (महे) बड़े (राये) धन के लिये प्रबोध देती है, वैसे (अद्य) आज (नः) हम लोगों को (बोधय) जनाइये और (चित्) भी (सत्यश्रवसि) सत्यों के श्रवण, सत्य वा अन्न में (नः) हम लोगों को (अबोधयः) जनाइये ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

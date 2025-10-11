@@ -3,7 +3,6 @@ title = "002"
 devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रुतासु- श्रुतिप्रसिद्धासु। पृषतीषु। सुखेषु- अनायासगतिषु। रथेषु। ये। रुद्राः- रुद्रजाः। मरुतः।  आ- आभिमुख्येन। तस्थुः। उग्राः- उग्राणि। वना- वनानि। नि गच्छन्ति- नितरां सरन्ति। वः-  युष्माकम्। भिया- भीत्या। पृथिवी- भूमिः। पर्वतः- मेघः। चित्- अपि। रेजते- कम्पते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **मरुतः** **रुद्राः** रुद्रपुत्राः **आ** **तस्थुः** आतिष्ठन्ति **पृषतीषु** मरुतां वाहनेषु **श्रुतासु** श्रान्तासु प्रसिद्धासु वा **सुखेषु** । खमाकाशं छिद्रम् । शोभनरथाक्षद्वारेषु **रथेषु** रथान् आ तस्थुः आतिष्ठन्ति । हे **उग्राः** उद्गूर्णबला मरुतो यूयं यदा रथमारूढाः स्थ तदानीं **वना** **चित्** वनान्यपि **नि** **जिहते** न्यग्गच्छन्ति **वः** युष्माकं **भिया** भीत्या । **पृथिवी** **चित्** पृथिव्यपि **रेजते** । **पर्वतश्चित्** पर्वतोऽपि रेजते कम्पते । उत्तरार्ध: प्रत्यक्षकृतः । पूर्वार्धे य एवमकुर्वन् तेषां स्तोममृध्यामिति पूर्वत्रान्वयः ॥
@@ -267,11 +270,10 @@ The person changes between hemistichs from 3rd (ab: yé tasthúḥ) in the rel. 
 
 to 2nd (cd: voc. ugrāḥ … vaḥ) in the main cl.. This is hardly unusual in the RV. The standard tr. register this anacoluthon in various ways, Witzel Gotō most sharply, by supplying a main cl. for ab: “(Sie sind es), die …” and separating the two hemistichs into two sentences. This seems unnec.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
-Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two vss. also hold the verb rejate/rejata steady (2d, 3b, though in slightly different metrical position, both post-caesura, with one pres. and the other injunc.), but in the first instance it’s earth (pṛthivī́) that trembles and in the 2nd (the back of) heaven (diváḥ, initial in its pāda like pṛthivī́). So the standard pair heaven/earth are contrasted and identically positioned, but they are grammatically non-parallel. There is also a repetition of ‘fear’, though again in different forms -- nominal bhiyā́in 2c, pf. bibhāya in 3c, both pāda-final. This kind of patterned and varied repetition may not reach the heights of poetic art, but it is a pleasing demonstration of the way a RVic poet infuses freshness into the clichéś that are his bread-and-butter.
+Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two vss. also hold the verb rejate/rejata steady (2d, 3b, though in slightly different metrical position, both post-caesura, with one pres. and the other injunc.), but in the first instance it’s earth (pṛthivī́) that trembles and in the 2nd (the back of) heaven (diváḥ, initial in its pāda like pṛthivī́). So the standard pair heaven/earth are contrasted and identically positioned, but they are grammatically non-parallel. There is also a repetition of ‘fear’, though again in different forms -- nominal bhiyā́in 2c, pf. bibhāya in 3c, both pāda-final. This kind of patterned and varied repetition may not reach the heights of poetic art, but it is a pleasing demonstration of the way a RVic poet infuses freshness into the clichéś that are his bread-and-butter.
 
 </details>
 </div>
@@ -300,8 +302,6 @@ Wenn sie bestiegen die gepriesnen Hirsche und schnellen Wagen, sie, die lichten 
 Даже лесные деревья клонятся от страха перед вами, о грозные,  
 Даже земля трясется, даже гора.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

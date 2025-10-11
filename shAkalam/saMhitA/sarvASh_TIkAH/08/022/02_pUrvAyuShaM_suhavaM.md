@@ -3,7 +3,6 @@ title = "002"
 devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सोभरिः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वापुषम्- पूर्वपोषकम्। सुहवम्- शोभनाह्वानम्। पुरुस्पृहम्- बहुभिः स्पृहणीयम्। भुज्युम्-  पालकम्। वाजेषु- बलेषु। पूर्व्यं- प्राचीनम्। सचनावन्तम्- सम्भजनवन्तम्। सुमतिभिः-  शोभनमतिभिः। सोभरे। विद्वेषसम्- द्वेषरहितम्। अनेहसम्- अपापं रथमाह्वये॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोभरे** **सुमतिभिः** कल्याणीभिः स्तुतिभिरश्विनो रथं स्तुहि । किंविशिष्टम् । **पूर्वापुषं** पूर्वेषां स्तोतॄणां धनादिदानेन पोषकं **सुहवं** यज्ञेषु शोभनाह्वानं **पुरुस्पृहं** बहुभिः स्पृहणीयं **भुज्युम्** । ‘भुज पालने '। सर्वस्य रक्षकं **वाजेषु** **पूर्व्यं** संग्रामेश्वग्रतो गन्तारं **सचनावन्तं** सर्वैर्भजनवन्तं **विद्वेषसं** शत्रूणां विशेषेण द्वेष्टारम् **अनेहसं** कैश्चिदप्यनुपद्रवं पापरहितं वा रथं स्तुहीत्यन्वयः ॥
@@ -180,8 +183,6 @@ accompanied by favors, free of hatred, and without fault, o Sobhari.1074 VIII.22
 The reading of the first word of this vs. is uncertain. The Saṃhitā text apparently reads pūrvāyúṣam but the Pp. pūrva-āpúṣam, accepted by Sāyaṇa as well as Oldenberg and edited in all the standard editions (MM, Aufr., Holland & van Nooten Rig Veda edition). This seems to be a genuine variant reading. For disc. see Oldenberg ad loc. and Scarlatta 320-22. I generally follow the Oldenberg analysis for the 2nd member; the objection that with a 2nd member āyuṣ- the accent should be *pūrvā́yuṣam or *pūrvāyuṣám seems cogent to me. But I have not adopted Oldenberg’s suggestion that pūrva- stands for *puru- (hence ‘prospering many’, vel sim.), with the ū introduced under the influence of pū́rvyam at the end of the hemistich. This is not impossible, but since puru-spṛ́ham intervenes, it might have helped maintain an original *puru- in the initial word. Scarlatta suggests several further analyses, which seem too fussy to me.
 
 sacanā́vant- is construed with the instr. sumatíbhiḥ: “provided with favors as accompaniment.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -215,8 +216,6 @@ Den lebensreichen, vielbegehrten, den man ruft, der lenksam ist, voran im Streit
 Готовую прийти на помощь со (своими) милостями, о Собхари,  
 Лишенную враждебности, безупречную.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "शुनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 náraḥ ← nár- (nominal stem)  
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाहाः- वाहका बलीवर्दादयः। शुनम्- सुखेन वहन्तु। नरः- कर्षकाः। शुनम्- सुखेन कृषन्तु।  लाङ्गलम्। शुनम्- सुखेन। कृषतु। शुनम्- सुखेन। वरत्राः- प्रग्रहाः। बध्यन्ताम्। शुनम्- सुखेन।  अष्ट्राम्- कृषिसाधनावयवम्। अक्ष्यते चाल्यतेऽनयेति अष्ट्रा। उदिङ्गय- उद्गमय॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाहाः** बलीवर्दाः **शुनम्** । सुखनामैतत् । सुखं यथा भवति तथा वहन्त्विति शेषः । तथा **नरः** नेतारो मनुष्याः कर्षकाः **शुनं** कुर्वन्तु । तथा **लाङ्गलम्** अपि **शुनं** **कृषतु** । **वरत्राः** वरणेन त्रायमाणाः प्रग्रहाः **शुनं** **बध्यन्ताम्** । **अष्ट्रां** प्रतोदं **शुनम्** **उदिङ्गय** प्रेरय । शुनाख्यो वाय्विन्द्रयोरन्यतमः सुखकृद्देवः । तदनुग्रहादेतत्सर्वं भवत्विति तस्य श्रुतिसामान्येन स्तुतिः ॥
@@ -223,8 +226,6 @@ Zum Gedeihn seien die Zugstiere, zum Gedcihn die Männer, zum Gedeihen pflüge d
 На счастье пусть завязываются ремни!  
 На счастье помахивай стрекалом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    नः। अस्मदर्थ। आ भर- आहर। दक्षिणेन सव्येन अभि प्र मृश। इन्द्र। नः- अस्मान्। वसोः-  सम्पदः। मा। निर्भाक्- निर्भाक्षीः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **नः** अस्मभ्यम् **आ** **भर** । आहृत्य **दक्षिणेन** **सव्येन** च हस्तेनोभाभ्यां हस्ताभ्याम् **अभि** **प्र** **मृश** । प्रयच्छेत्यर्थः। **नः** अस्मान् **वसोः** धनात् **मा** **निर्भाक्** मा निर्भाक्षीः ॥
@@ -196,7 +199,7 @@ Indra, don’t deal us out of goods.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The verbs ā́√bhṛ and (abhí) prá √mṛś are also paired in VIII.21.16 drḍ̥ hā cid aryáḥ prá mrśḁ̄ bhy ā́bhara “Seize hold of even the firmly fixed (goods) of the stranger and bring them here.”
+The verbs ā́√bhṛ and (abhí) prá √mṛś are also paired in VIII.21.16 drḍ̥ hā cid aryáḥ prá mrśḁ̄ bhy ā́bhara “Seize hold of even the firmly fixed (goods) of the stranger and bring them here.”
 </details>
 
 <details><summary>Griffith</summary>
@@ -214,10 +217,6 @@ Bring uns mit der Rechten, greif mit der Linken zu! Indra, schließ uns nicht vo
 
 Bring uns Schätze mit der Rechten, greife zu mit deiner Linken, Theile Gut uns mit, o Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

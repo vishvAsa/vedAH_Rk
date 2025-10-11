@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- ईशनाधिदैवत। विष्णो- सर्वान्तर्यामिन्। मरुतः- प्राणविशेषाः। अश्विना- प्राणेशनशख्निभूतौ  देवौ। नः- अस्मान् प्रति। एषाम्- एतेषाम्। सजात्यानाम्- अस्मद्बन्धूनां मध्ये। इत-  आगच्छत॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **विष्णो** **मरुतः** हे **अश्विना** अश्विनौ हे इन्द्रादयो देवाः **सजात्यानाम्** । समानायां जातौ भवाः सजात्या भ्रातृमित्रादयः । तेषाम् **एषां** मध्ये **नः** अस्मान् **अधि** **इत** यूयं स्तुत्यतयाधिगच्छत ॥
@@ -165,10 +168,6 @@ Gedenket dieser Landsmannschaft mit uns, Indra, Vishnu, Marut, Asvin!
 
 Gedenket Indra, Vischnu doch, o Maruts, Ritter, recht daran, Wie nah mit euch verwandt wir sind.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

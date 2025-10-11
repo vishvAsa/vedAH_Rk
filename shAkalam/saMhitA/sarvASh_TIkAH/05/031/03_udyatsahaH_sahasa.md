@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अवस्युरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। सहसः सहः- अतिशयशख्निः। आ- समन्तात्। अजनिष्ट- जाता। तदा। इन्द्रः।  विश्वा- सर्वाणि। इन्द्रियाणि- परमैश्वर्याणि। देदिष्टे- दिदेश। वव्रे अन्तः- आवरणे निरुद्धाः।  सुदुघाः- गाश्चिद्रश्मीनिति भावः। प्राचोदयत्। वि ज्योतिषा- विशेषप्रकाशेन। संववृत्वत्-  संवरणशीलम्।  तमः- अन्धकारम्। अवः- निवारितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा **सहः** सूर्यसंबन्धि तेजः **सहसः** उषःसंबन्धिनस्तेजसः **उत्** **आजनिष्ट** उपरिष्टात् प्रादुर्बभूव तदा **इन्द्रः** **विश्वा** विश्वानि सर्वाणि इन्द्रियाणि धनानि । इन्द्रियमिति धननामैतत । **देदिष्टे** । यजमानेभ्यो दिशति । **वव्रे** निवारके पर्वते **अन्तः** मध्ये बलेन निरुद्धाः **सुदुघाः** सुष्ठु दोग्ध्रीर्गाः **प्राचोदयत्** प्रैरयत् । **ज्योतिषा** तेजसा **संववृत्वत्** संवरणशीलं **तमः** **वि** **अवः** निवारितवान् ॥
@@ -247,7 +250,6 @@ He impelled forth the good milkers (who were) within the cave; he pried  apart t
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Witzel Gotō take sáhaḥ as the only subj. of ájaniṣṭa, while I take sáhaḥ as an appositive qualifying the unexpressed subj. índraḥ. Again the difference is minor, but I favor my interpr. because the birth of Indra and the prodigous feats he performs immediately thereafter are frequent topics in the RV.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -287,8 +289,6 @@ Als seine Kraft sich aus der Kraft erzeugte, liess Indra sehen alle Indrathaten,
 Он гонит вперед хорошо доящихся коров в глубине пещеры.  
 Светом он раскрыл сгустившийся мрак.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रावरुणा- हे इन्द्रावरुणौ। मधुमत्तमस्य- अतिशयेन मधुरस्य। वृष्णः- वर्षकस्य। सोमस्य-  रसस्य। वृषणा- वर्षकौ। वृषेथाम्- वर्षतम्। इदम्- अयम्। वाम्- युवयोरर्थे। अन्धः- रसः।  अस्मे- अस्माभिः। परिषिख्नम्- क्षारितः। अस्मिन्- एतस्मिन्। बर्हिषि- दर्भासने चित्तासने वा।  आसद्य- उपविश्य। मादयेथाम्- हृष्टौ तृप्तौ भवतम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रावरुणा** हे इन्द्रावरुणौ **वृषणा** कामानां वर्षितारौ युवां **मधुमत्तमस्य** अतिशयेन मधुमन्तं रसवन्तं **वृष्णः** वर्षितारं **सोमस्य** सोमम् **आ** **वृषेथाम्** अश्नीतम् । तथा च शतपथब्राह्मणं - यथाभागमावृषायध्वमिति यथाभागमश्नीतेत्येवैतदाह ' ( श. ब्रा. २. ४. ३. २०) इति । **वां** युवयोरथें **इदम्** **अन्धः** सोमरूपमन्नम् **अस्मे** अस्माभिः **परिषिक्तं** पात्रेषु । अतः **आसद्य** उपविश्य **अस्मिन्** **बर्हिषि** यज्ञे **मादयेथां** सोमपानेनेति शेषः ॥ ॥ १२ ॥
@@ -211,8 +214,6 @@ This stalk has been poured all around for you here among us. Having  sat down on
 The 2nd pāda has a rather insistent but elementary phonetic/etymological figure: vṛ́ṣṇaḥ … vṛṣanā́vṛṣethām, and the last word of the vs. mādayethām resonates with the long adj. qualifying soma in the 1st pāda, mádhumattamasya. ## 069 Indra and Viṣṇu Renou’s treatment is in EVP XV.43-46. He claims that the “thème indraique” dominates, though I find the hymn’s phraseology so bland that it’s difficult to assign qualities and deeds to one or the other, and in fact the most salient action in the hymn, the wide-striding of vs. 5, is Viṣṇu’s characteristic deed. See further in the published introduction.
 
 The hymn is (in my view) repetitive and pedestrian, with only a few striking images and phraseological tricks. This strikes me as an indication that the poet was “phoning it in” -- the composition of the hymn does not seem to have commanded his full attention. The question might then arise why the hymn was preserved in the Saṃhitā. This might be partially due to the rarity of Indra-Viṣṇu hymns (only the first three vss. of I.155 and the middle three vss. of VII.99 -- so this is the only hymn entirely dedicated to both) and in fact of Viṣṇu hymns in general. As Viṣṇu, a fairly recessive god in the RV, began to come to prominence in the post-RVic period, the assemblers of the RV collection may have gathered what scraps they could and exercised less critical judgment than usual in order to create a place in the text for this newly important deity. The O’Henry-type ending, sprung by the final vs. (8), might also account for its preservation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
@@ -247,8 +248,6 @@ Den Soma schlürfet, Varuna und Indra, den süssesten, den Stier, ihr Stiere bei
 Опьяняйтесь, усевшись на эту жертвенную-солому!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रावरुणौ
@@ -264,12 +263,12 @@ Den Soma schlürfet, Varuna und Indra, den süssesten, den Stier, ihr Stiere bei
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्रावरुणा) बिजुली और वायु के समान वर्त्तमान (वृषणा) बलवान् राजा प्रजाजनो ! तुम (मधुमत्तमस्य) अतीव मधुरादिगुणयुक्त (वृष्णः) बल करनेवाले (सोमस्य) बड़ी बड़ी ओषधियों के रसों के सेवने से (आ, वृषेथाम्) बलिष्ठ होओ जिन (वाम्) तुम दोनों का (इदम्) यह (परिषिक्तम्) सब ओर से सींचा हुआ (अन्धः) अन्न है वे तुम (अस्मे) हम लोगों में वा हम को (अस्मिन्) इस (बर्हिषि) अवकाश में (आसद्य) बैठ के (मादयेथाम्) आनन्दित करो ॥११॥
+पदार्थान्वयभाषाः -  हे (इन्द्रावरुणा) बिजुली और वायु के समान वर्त्तमान (वृषणा) बलवान् राजा प्रजाजनो ! तुम (मधुमत्तमस्य) अतीव मधुरादिगुणयुक्त (वृष्णः) बल करनेवाले (सोमस्य) बड़ी बड़ी ओषधियों के रसों के सेवने से (आ, वृषेथाम्) बलिष्ठ होओ जिन (वाम्) तुम दोनों का (इदम्) यह (परिषिक्तम्) सब ओर से सींचा हुआ (अन्धः) अन्न है वे तुम (अस्मे) हम लोगों में वा हम को (अस्मिन्) इस (बर्हिषि) अवकाश में (आसद्य) बैठ के (मादयेथाम्) आनन्दित करो ॥११॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो सोमलतादि रसयुक्त अन्न वा पान से आप आनन्दित होकर हमको आनन्दित करते हैं, वे ही सब से सत्कार करने योग्य होते हैं ॥११॥ इस सूक्त में वरुण के समान राजप्रजा के कृत्य का वर्णन होने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह अड़सठवाँ सूक्त और बारहवाँ वर्ग समाप्त हुआ
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो सोमलतादि रसयुक्त अन्न वा पान से आप आनन्दित होकर हमको आनन्दित करते हैं, वे ही सब से सत्कार करने योग्य होते हैं ॥११॥ इस सूक्त में वरुण के समान राजप्रजा के कृत्य का वर्णन होने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह अड़सठवाँ सूक्त और बारहवाँ वर्ग समाप्त हुआ
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

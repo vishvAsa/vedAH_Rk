@@ -3,7 +3,6 @@ title = "019"
 devataa = "देवब्रह्माणि"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पायुर्भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 áraṇaḥ ← áraṇa- (nominal stem)  
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्माकम्। स्वः- स्वकीयः। अरणः- अरममाणः शत्रुः। यश्च। निष्ट्यः- दूरस्थः।  जिघांसति- हन्तुमिच्छति। तम्। सर्वे देवाः। धूर्वन्तु- हिंसन्तु। मम- मे। अन्तरम्- निवारकम्।  वर्म- कवचम्। ब्रह्म- मन्त्रः॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** स्वः ज्ञातिः **अरणः** अरममाणः **यश्च** **निष्ट्यः** तिरोभूतो दूरे स्थितः **नः** अस्मान् **जिघांसति** हन्तुमिच्छति **तं** **देवाः** **सर्वे** देवाः **धूर्वन्तु** हिंसन्तु । **ब्रह्म** मन्त्रः **मम** **अन्तरं** शराणां निवारकं **वर्म** विद्यते ॥ ॥ २२ ॥
@@ -246,8 +249,6 @@ Wer, sei er nahe, sei er fern, sei fremde er, uns schlagen will, den mögen alle
 Все боги пусть порешат его!  
 Заклинание (да будет) моим внутренним щитом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विप्र- मेधाविन्। यम्। अग्ने। मेधसातौ- यज्ञलाभे। त्वम्। धनाय। हिनोषि- प्रेरयसि। सः। तव-  ते। ऊती- रक्षया। गोषु- चिद्रश्मिषु। गन्ता- अभिगन्ता भवति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **विप्र** **त्वं** **यं** मर्यंन  **मेधसातौ** यज्ञस्य संभजने **हिनोषि** प्रेरयसि **धनाय** गवादिधनलाभाय **सः** यजमानः **तव** **ऊती** ऊत्या रक्षणेन **गोषु** **गन्ता** भवति । गोमान् भवतीत्यर्थः ॥ ॥ ११ ॥
@@ -215,10 +218,6 @@ Wen du, beredter Agni, zum Gewinn aneiferst, wenn es sich um die Meisterschaft h
 
 Welchem, Weiser du, beim Wettkampf hilfst, dass er den Preis erringe, Der gelangt durch dich zu Rindern.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

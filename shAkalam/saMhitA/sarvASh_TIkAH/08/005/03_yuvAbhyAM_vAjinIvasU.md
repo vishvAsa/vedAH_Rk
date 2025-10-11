@@ -3,7 +3,6 @@ title = "003"
 devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - ब्रह्मातिथिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजिनीवसू- हव्यसम्पदौ। युवाभ्याम्। स्तोमाः- मन्त्राः। प्रति अदृक्षत- प्रत्यदृश्यन्त। दूतः।  वाचम्- वाक्यम्। यथा- इव। ओहिषे- स्तोत्रं युवयोरर्थं वहामि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वाजिनीवसू** । वाजो हविर्लक्षणमन्नम् । तद्युक्ता यागक्रिया वाजिनी । तस्यां वसु धनं ययोरस्ति तौ तथोक्तौ । यद्वा । अन्नयुक्तं स्तोतृभ्यो देयं वसु धनं ययोरस्ति तादृशौ । हे अश्विनौ **युवाभ्यां** **स्तोमाः** अस्माभिः कृतानि स्तोत्राणि **प्रति** **अदृक्षत** प्रतिदृश्यन्ताम् । दृशेश्छान्दसः कर्मणि लुङ् । लिङ्सिचावात्मनेपदेषु' इति कित्त्वात् ' सृजिदृशोः' इत्यमभावः । षत्वकत्वषत्वानि । अहं च **यथा** येन प्रकारेण **दूतः** प्रेष्यः **वाचं** स्वामिनो वाक्यं याचते तथा युवयोः प्रीतिपूर्विकां वाचम् ओहिषे । पुरुषव्यत्ययः । याचे । ‘उहिरर्दने'। याचन इत्यर्थः । व्यत्ययेनात्मनेपदम् । यद्वा । दूतो यथा स्वामिनोक्तां वाचं विदेशस्थमन्यं प्रापयति एवमहमपि स्तुतिरूपां वाचमोहिषे वहे युवां प्रापयामि ॥ वहेर्व्यत्ययेन मध्यमः। छान्दसं संप्रसारणम् । 'छन्दस्युभयथा' इत्यार्धधातुकत्वात् इडागमः । शबभावो लघूपगुणश्च । 'एङि पररूपम्' इति पररूपत्वम् ॥
@@ -154,7 +157,6 @@ Like a messenger I shall solemnly proclaim my speech.
 The Pp. analyses the sequence yáthohiṣe as yáthā ohiṣe, which would be, to say the least, unusual sandhi (though see tásyéhi in VIII.3.12). Nonetheless, the context favors a connection with the root √ūh ‘solemnly proclaim, etc.’ with pres.
 
 óha- (in my opinion); cf. I.30.4 vácas tád ... ohase “I solemnly proclaim this speech,” with a 1st sg. -se form, as apparently also here. For this passage I assume a form ūhiṣe, built to the presential perf. ūhé. This is also Kümmel’s solution (488-89), though he assigns the form to √vāh ‘anerkennen’, which, acdg. to him, is at least synchronically separate from √oh. Renou and Lubotsky assign the form instead to √vah ‘convey’. For further disc. cf. Oldenberg and Geldner (n. 3c).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -187,8 +189,6 @@ Ihr beide, reich begüterte, vernehmet unsrer Lieder Klang; Wie einen Boten send
 Появились восхваления.  
 Как посланник, я хочу продумать (свою) речь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

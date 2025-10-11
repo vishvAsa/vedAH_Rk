@@ -3,7 +3,6 @@ title = "009"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+या। ते- तव। अष्ट्रा- आरा। गो ओपशा- गावां शमयित्री। पशुसाधनी- पशूनां साधयित्री।  तस्याः। ते- तव। सुम्नम्- सुखम्। ईमहे- याचामहे॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **आघृणे** आगतदीप्ते पूषन् **ते** त्वदीया **या** **अष्ट्रा** आरा **गोओपशा** । उपशेरते इत्योपशाः । गाव ओपशा यस्यास्तादृशी। अतएव **पशुसाधनी** पशूनां साधयित्री भवति **ते** त्वदीयायाः **तस्याः** संबन्धि **सुम्नं** सुखम् **ईमहे** याचामहे ॥
@@ -192,8 +195,6 @@ Welch riemverseh'ner Stachel dir, viehlenkend ist, o strahlender, Auch dessen Be
 Мы просим тебя о его милости.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -204,7 +205,7 @@ Welch riemverseh'ner Stachel dir, viehlenkend ist, o strahlender, Auch dessen Be
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
-मनुष्यों को क्या बढ़ा कर किसकी प्रार्थना करनी चाहिये, इस विषय को कहते हैं ॥
+मनुष्यों को क्या बढ़ा कर किसकी प्रार्थना करनी चाहिये, इस विषय को कहते हैं ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
@@ -214,7 +215,7 @@ Welch riemverseh'ner Stachel dir, viehlenkend ist, o strahlender, Auch dessen Be
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जिस क्रिया से पशु बढ़ें, उस क्रिया को बढ़ाकर सुख को माँगो ॥९॥
+भावार्थभाषाः -  हे मनुष्यो ! जिस क्रिया से पशु बढ़ें, उस क्रिया को बढ़ाकर सुख को माँगो ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

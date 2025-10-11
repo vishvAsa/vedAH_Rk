@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। नः- अस्मदर्थम्। अन्धसः- अन्नस्य। सहस्रं शता- प्रभूतम्। पुरोळाशम्-  पुरोडाशम्। गोनां शता- धेनूनामानन्त्यम्। शूर- समर्थ। आभर- आहर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शूर** **इन्द्र** **पुरोळाशं** पुरो दीयमानमेतत्संज्ञकम् **अन्धसः** अन्नं स्वीकृत्य **गोनां** गवां **सहस्रं** **शता** शतानि **च** **नः** अस्मभ्यम् **आ** **भर** आहर। अथवा नोऽस्मभ्यं पुरतो दीयमानमन्धसोऽन्धो व्यञ्जनं सहस्रं सहस्रसंख्याकं गोसहस्रं चाहरेति योज्यम्
@@ -187,10 +190,6 @@ Koste unseren Reiskuchen zum Somatrank; bring Tausend und Hunderte von Kühen mi
 
 Reiskuchen bring, o Indra, uns und tausend Somatränke her Und hundert Kühe uns, o Held.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

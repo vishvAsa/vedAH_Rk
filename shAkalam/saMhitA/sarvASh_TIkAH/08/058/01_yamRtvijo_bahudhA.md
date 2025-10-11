@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। इमम्- एतम्। यज्ञम्। ऋत्विजः। सचेतसः- प्रज्ञावन्तः। बहुधा। कल्पयन्तः- चरन्तः।  वहन्ति- भरन्ते। तम्। यः। अनूचानः- विद्वान्। ब्राह्मणः- मन्त्रवित्। युख्नः- योगयुख्नः। आसीत्-  आचरन्नभवत्। तत्र। तस्य। यजमानस्य। का स्वित्। संवित्- प्रज्ञा चेतनं वा भवति। यजमानस्य  स्वरूपं किमिति प्रश्नः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -262,8 +265,6 @@ Wen, dieses Opfer mannichfach gestaltend, die einsichtsvollen Opferpriester fahr
 Когда запрягся ученый брахман,  
 Какое же тут (бывает) понимание у заказчика жертвы?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

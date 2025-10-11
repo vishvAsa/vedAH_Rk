@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -235,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुविनृम्ण- बहुवीर्ययुख्न। वृष्णः- वर्षकाद्भवतोऽनुग्रहेण। विश्वा- सर्वाः। धेनवः- गावः। ऊध्नः।  सिस्रते- क्षीरं क्षरन्ति। ईशनशत्तया चिद्रश्मयो ज्ञानमध्यात्मसाधकाय क्षरन्तीत्याध्यात्मिके। ते-  तव। ता- तानि कर्माणि। सत्या- सत्यान्येव। अध- अपि च। वृषमनः- हे वर्षयितुं प्रवृत्त। त्वत्-  त्वत्तः। भियानाः- भीताः। त्वदाज्ञापरिपालिन्य इति भावः। सिन्धवः- आपः। जवसा- वेगेन।  प्र- प्रकर्षेण। चक्रमन्त- सरन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **तुविनृम्ण** अधिकबल इन्द्र **ते** त्वदीयानि **विश्वा** विश्वानि **ता** तानि कर्माणि **तु** क्षिप्रं **सत्या** सत्यानि भवन्ति । हे इन्द्र **वृष्णः** कामानां वर्षितुस्त्वत्तो भयात् **धेनवः** गावः **ऊध्नः** स्वकीयादापीनात् **प्र** **सिस्रते** प्रकर्षेण क्षीरं क्षरन्ति । **अध** अपि च हे वृषमनः कामानां वर्षणपरमनस्केन्द्र **सिन्धवः** नद्यः **त्वत्** त्वत्तः **भियानाः** बिभ्यत्यः सत्यः **जवसा** वेगेन **प्र** **चक्रमन्त** **ह** प्रकर्षेण गच्छन्ति खलु ॥
@@ -258,7 +261,6 @@ then, being afraid of you, o you of bullish mind, the rivers charge forth  at sp
 
 The b pāda contains one of the RV’s beloved gender-bending paradoxes, with the cows coming out “from the udder of a bull” (vṛ́ṣṇa ū́dhnaḥ). Geldner (/Witzel Gotō) interprets this as rainwater coming from the sky (Parjanya or Heaven). I think it more likely that it concerns the Vala myth. Indra’s other signature deed, the slaying of Vṛtra, was treated in the immediately preceding, paired verse (5d), and so we might expect mention of his other most prominent feat. In that case the “bull” would be the Vala cave. On the other hand, this might continue the treatment of the Vṛtra myth in 5d (as Geldner also suggests, n. 6b), in which case the “bull” would be Vṛtra himself or the mountain in which the waters were confined. The more thorough treatment of the waters in the Vṛtra myth in the following vs. 7 might support this latter view.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -266,6 +268,7 @@ These vss. summarizing Indra’s great deeds begin identically: tā́tū́te [ta
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -299,8 +302,6 @@ Dies sind, sehr starker, alles deine Thaten, Milchtränke rannen aus des Stieres
 Стремительно побежали реки.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -321,7 +322,7 @@ Dies sind, sehr starker, alles deine Thaten, Milchtränke rannen aus des Stieres
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जिस राजा की सफल वाणी और धर्मयुक्त कर्म्म वर्तमान है, उससे गौओं से बछड़ों के सदृश प्रजा तृप्त होती है और उससे दुष्ट डरते हैं और यश विस्तृत होता है ॥६॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जिस राजा की सफल वाणी और धर्मयुक्त कर्म्म वर्तमान है, उससे गौओं से बछड़ों के सदृश प्रजा तृप्त होती है और उससे दुष्ट डरते हैं और यश विस्तृत होता है ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

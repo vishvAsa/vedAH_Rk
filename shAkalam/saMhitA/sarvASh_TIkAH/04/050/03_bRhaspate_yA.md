@@ -3,7 +3,6 @@ title = "003"
 devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बृहस्पते। या- यत्। परावत् परमा- श्रेष्ठं स्थानं भवतोस्ति। अतः- तस्मात् स्थानादागताः। ते-  अमी। ऋतस्पृशः- प्रकृतिनियतिभूतसत्यस्पर्शिनः। आ- आभिमुख्येन। निषेदुः- उपाविशन्। २    तुभ्यम्- त्वदर्थम्। खाता अवताः- प्रवणदेश इव। अद्रिदुग्धाः- स्थैर्योपलक्षितग्रावाभिषुताः।  मध्वः- सोमा रसाः। विरप्शम्- मन्त्रान् शब्दयन्तः। श्चोतन्ति- स्रवन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **बृहस्पते** **या** प्रसिद्धा **परमा** उत्कृष्टा **परावत्** अत्यन्तं दूरभूता वसतिः स्वर्गाख्यास्ति । यद्वा लिङ्गव्यत्ययः । परमं स्थानमस्ति । **अतः** अस्माद्देशात् । आ इत्यर्वागर्थे । अधस्तात् **ते** तव संबन्धिनः **ऋतस्पृशः** यज्ञं स्पृशन्तोऽश्वाः **नि** **षेदुः** निषण्णा भवन्ति । **तुभ्यं** **खाता** अवता:। लुप्तोपमैषा । यथा खाताः कूपाः **अभितः** **श्चोतन्ति** तद्वत् **अद्रिदुग्धाः** ग्रावभिरभिषुताः सोमा: **विरप्शं** विशेषेण शब्देन स्तोत्रं यथा भवति तथा **मध्वः** मधुररसं श्चोतन्ति स्रवन्ति ॥
@@ -250,8 +253,6 @@ abundance of honey all about.
 Ths vs. also contains phonetic echoes of Bṛhaspati: ṛtaspṛ́ś(o) (b) and (vi)rapś(ám) (d). Another phonetic pattern worthy of note, though it doesn’t directly reference Bṛhaspati, is the unbroken sequence of short and long a, starting with yā́in pāda a (right after initial bṛ́haspate) and continuing into pāda b, till right before ṛtaspṛ́śo, the echo of the name: ā a a ā a ā a, a a ā a.
 
 As Geldner’s cited parallels make clear, pāda b concerns the Sattra that the Aṅgirases performed.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
@@ -286,8 +287,6 @@ Die sind aus fernster Ferne hergekommen, Brihaspati, die nun das Opfer hegen; Di
 Доимые камнями, избытком сладости со всех сторон.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः
@@ -303,7 +302,7 @@ Die sind aus fernster Ferne hergekommen, Brihaspati, die nun das Opfer hegen; Di
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़े राज्य के पालन करने (ते) आपकी (या) जो (परमा) उत्तम नीति है उससे (ऋतस्पृशः) सत्य का स्पर्श करनेवाले आपके (अद्रिदुग्धाः) मेघ से पूर्ण (खाताः) खोदे गये (मध्वः) मधुर आदि गुणवाले जल से युक्त (अवताः) कूप (तुभ्यम्) आपके लिये (अभितः) सब प्रकार से (श्चोतन्ति) सींचते हैं और (विरप्शम्) महान् संसार को (आ, निषेदुः) सब ओर से स्थित करें (अतः) इससे उनका हम लोग (परावत्) गुणयुक्त सत्कार करें ॥३॥
+पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़े राज्य के पालन करने (ते) आपकी (या) जो (परमा) उत्तम नीति है उससे (ऋतस्पृशः) सत्य का स्पर्श करनेवाले आपके (अद्रिदुग्धाः) मेघ से पूर्ण (खाताः) खोदे गये (मध्वः) मधुर आदि गुणवाले जल से युक्त (अवताः) कूप (तुभ्यम्) आपके लिये (अभितः) सब प्रकार से (श्चोतन्ति) सींचते हैं और (विरप्शम्) महान् संसार को (आ, निषेदुः) सब ओर से स्थित करें (अतः) इससे उनका हम लोग (परावत्) गुणयुक्त सत्कार करें ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

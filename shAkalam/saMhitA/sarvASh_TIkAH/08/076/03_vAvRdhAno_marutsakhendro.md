@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समुद्रिया अपः- मूलशख्निधाराः। सृजन्- विमोचयन्। वावृधानः- वर्धमानः। मरुत्सखा इन्द्रः।  वृत्रम्- तदावरणम्। वि ऐरयत्- विदारितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **वावृधानः** वर्धमानः **मरुत्सखा** मरुत्सहायः **वृत्रं** मेघं **वि** **ऐरयत्** विदारितवान् । किं कुर्वन् । **समुद्रियाः** । समुद्रमन्तरिक्षम् । तत्संबन्धिन्यः **अपः** **सृजन्** ।
@@ -170,10 +173,6 @@ Erstarkt hat Indra mit den Marut als Kameraden den Vritra zerstückt, die nach d
 
 Umschart von Maruts trieb hinweg den Vritra Indra kraftbegabt Und liess des Meeres Wasser frei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

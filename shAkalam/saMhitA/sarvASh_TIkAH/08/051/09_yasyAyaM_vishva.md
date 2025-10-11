@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। शेवधिपाः- निधिबन्धकः।अयम्- एषः। विश्वः- सर्वः। आर्यः- सात्त्विकान्तरायः। दासः-  तामसान्तरायो वा। अरिः- शत्रुर्भवति। तेनेन्द्रेण। रुशमे- अकल्याणे। अर्ये- अरौ। पवीरवि-  चक्रम्। अज्यते- क्षिप्यते। तुभ्येत्- तुभ्यमेव। सः- तत्। रयिः- पिहितं चिद्रश्मिधनं  गच्छति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -252,8 +255,6 @@ Der Reichthum, nach welchem jeder Arier hier und der schatzbehütende Barbar beg
 За пределами чужой (области), у Рушамы Павиру,  
 Только для тебя готовится это богатство.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

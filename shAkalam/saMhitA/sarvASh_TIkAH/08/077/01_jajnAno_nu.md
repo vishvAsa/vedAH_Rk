@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतुः- इन्द्रः। जज्ञानः- जात एव। के। उग्राः- उद्गूर्णाः। के वीरा शृण्विरे- श्रूयन्ते। इति।  मातरम्- जननीमदितिम्। नु- क्षिप्रम्। वि- विशेषेण। पृच्छत्- पप्रच्छ॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमिन्द्रः **जज्ञानो** **नु** जायमान एव **शतक्रतुः** बहुकर्मा **इति** इत्थं **मातरं** स्वजननीं विपृच्छति । किमिति । **क** **उग्राः** उद्गूर्णबला लोके । **के** **ह** **श्रृण्विरे** श्रूयन्ते गुणैः । के विश्रुता इत्यर्थः ॥
@@ -168,7 +171,6 @@ Barely born, he of hundred powers
 Began to question his mother thus:  
 Who are these fierce ones? Indeed, who are notorious?
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -211,8 +213,6 @@ Als er geboren, fragte so die Mutter der vielwirkende: »Wer ist gewaltig, wer b
 Стал так расспрашивать мать:  
 Кто (эти) грозные? Кем слывут?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

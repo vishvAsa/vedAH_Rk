@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। अग्निः। सहस्रिणः। शतिनः- प्रभूतस्य। वाजस्य- अन्नस्य। पतिः- स्वामी  पालकः। रयीणाम्- सम्पदाम्। मूर्धा- शिरोभूतः। कविः- क्रान्तदर्शी॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयमग्निः** **शतिनः** **सहस्रिणः** चोक्तसंख्योपेतस्य **वाजस्य** अन्नस्य **पतिः** स्वामी **मूर्धा** शिरोवदुन्नतः श्रेष्ठः **कविः** मेधावी **रयीणां** धनानामपि पतिरिति शेषः । तदुभयं प्रयच्छत्वित्यर्थः ॥
@@ -170,10 +173,6 @@ Dieser Agni ist Herr über tausendfältigen, hundertfältigen Gewinn; der Weise 
 
 Er, Agni, ist der Labung Herr, die hundertfach und tausendfach, Der Schätze weises Oberhaupt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

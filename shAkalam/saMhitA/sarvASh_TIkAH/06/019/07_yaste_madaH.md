@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    येन। तोकस्य तनयस्य सातौ- धर्मसन्ततिलाभनिमित्ते। जिगीवांसः- जयशीला वयम्। त्वोताः-  त्वद्रक्षिताः। मंसीमहि- स्तुमः। यः। ते- तव। मदः- हर्षः। पृतनाषाट्- शत्रुसेनाभिभविता।  इन्द्र। तम्। शूशुवांसम्- प्रवृद्धम्। नः- अस्मभ्यम्। आ भर- आहर॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पृतनाषाट्** शत्रुसेनानामभिभविता **अमृध्रः** अहिंसितः **यः** **मदः** हर्षः हे **इन्द्र** **ते** त्वया देयः **शूशुवांसं** प्रवृद्धं **तं** मदं **नः** अस्मभ्यम् **आ** **भर** आहर । **त्वोताः** त्वया रक्षिताः **जिगीवांसः** जितवन्तो वयं **तोकस्य** पुत्रस्य **तनयस्य** तत्पुत्रस्य च **सातौ** लाभे निमित्तभूते सति **येन** हर्षेण **मंसीमहि** त्वां स्तुवीमहि तमा भरेति पूर्वेणान्वयः ॥
@@ -239,7 +242,6 @@ progeny and posterity, aided by you.
 
 On the long root vowel in jigīvā́ṃsaḥ, see Oldenberg ZDMG 55.324, where on the basis of the metrical evidence he surmises that, at least in this post-caesura position, the form should be read with short root vowel (*jigi-vaṃs-), the form found in the younger Vedic texts. See also Arnold (Ved. Met. 143), who considers the short-i form required in 3 of the 5 occurrences of the strong stem, and Kümmel (189 n. 225), who considers it proper except in III.15.4. Kümmel cites Anttila (1969, Schwebeabl. 61) as explaining the lengthening in the Saṃhitā text as analogy to ninīvā́ṃs-. However, it is much more likely that it is a morphologically conditioned lengthening, meant to distinguish the -i-vowel proper to the root from the -i-liaison vowel that has become associated with suffixes/endings. Thus jigī-vā́ṃs- with long vowel is kept separate from the type tasth-ivā́ṃs-, as I already argued in my 1988 article on the vocalized laryngeal (224-25), though without factoring in the metrical evidence pointing to this lengthening as late and redactional. (Of course, in tasthivā́ṃs- the -i- would originally have represented the zero-grade of this -ā root, but by synchronic RV it has been reanalyzed as part of the suffix. See disc. in my 1988 art.)
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -249,6 +251,7 @@ This participle picks up śáviṣṭham … śávaḥ in vs. 6.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -282,8 +285,6 @@ Welch Muth dir ist, nicht rastend, Schlacht gewinnend, den bring uns her, o Indr
 Мы надеемся стать победителями, поддержанными тобой.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -304,7 +305,7 @@ Welch Muth dir ist, nicht rastend, Schlacht gewinnend, den bring uns her, o Indr
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे प्रजाजनो ! आप लोग राजा के प्रति यह कहो कि हम लोगों के सन्तान जिस प्रकार उत्तम शिक्षित हों, वैसे नियमों को करिये जिससे विजय और आनन्द बढ़े ॥७॥
+भावार्थभाषाः -  हे प्रजाजनो ! आप लोग राजा के प्रति यह कहो कि हम लोगों के सन्तान जिस प्रकार उत्तम शिक्षित हों, वैसे नियमों को करिये जिससे विजय और आनन्द बढ़े ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

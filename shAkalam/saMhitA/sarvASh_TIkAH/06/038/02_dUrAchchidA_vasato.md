@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दूरात्। चित्- अपि। अस्य- एतस्येन्द्रस्य। कर्णा- कर्णौ। आ वसतः- शृणुतः। घोषात्-  घोषणीयान्मन्त्राद्धेतोः। इन्द्रस्य- इन्द्रार्थम्। ब्रुवाणः- मन्त्रं वदन्। तन्यति- शब्दं करोति। एनम्-  इमम्। इन्द्रम्। इयम्- एतत्। ऋच्यमाना- प्रेर्यमाणम्। देवहूतिः- आह्वानम्। मद्र्यक्-  मदभिमुखम्।  आ ववृत्यात्- आवर्तयतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** इन्द्रस्य **कर्णा** कर्णौ दूराच्चित् दूरदेशादपि **आ** **वसतः** स्तोत्रश्रवणार्थमागच्छतः। **इन्द्रस्य** **घोषात्** घोषणीयात् स्तोत्राद्धेतोः **ब्रुवाणः** स्तुवन् स्तोता **तन्यति** शब्दं करोति । यद्वा । सर्वत्र विस्तारयति । **देवहूतिः** देवस्येन्द्रस्याह्वानरूपा **इयं** स्तुतिश्च **ऋच्यमाना** स्वयं प्रेर्यमाणा सती **एनम्** **इन्द्रम्** मद्र्यक् मदभिमुखम् **आ** **ववृत्यात्** आवर्तयतु । पुनः **इयम्** इति पूरणः ॥
@@ -256,7 +259,6 @@ interpr. of ghóṣāt, the gen. is dependent on that noun, but without that sup
 
 As for the subject of ghóṣāt and tanyati, I think it anticipates the deváhūti- of c. This of course creates a problem of its own, in that bruvāṇáḥ should be fem. if deváhūti- is the referent. But given the poet’s general evasiveness about referents, I think in b we’re dealing with an as-yet-unidentified verbal product, which is then specified as deváhūti- (the same índra-hūti- of 1b) in c.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -266,6 +268,7 @@ As noted in the published introduction, I think vs. 2 functions as complementary
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -297,8 +300,6 @@ Von fern auch dringe zu uns her sein Hören; von Indra's Rauschen hallt der Spre
 Пусть обратит ко мне этого Индру  
 Этот призыв богов, когда он исполняется в стихах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

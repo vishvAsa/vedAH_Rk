@@ -3,7 +3,6 @@ title = "011"
 devataa = "रक्षोहाग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -100,13 +98,11 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 त्वम् । नः॒ । अ॒स्य । वच॑सः । चि॒कि॒द्धि॒ । होतः॑ । य॒वि॒ष्ठ॒ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । दमू॑नाः ॥
 </details>
 
-
 <details><summary>पद-पाठः-तैत्तिरीयः</summary>
 
 म॒हः । रु॒जा॒मि॒ । [31]  ब॒न्धुता॑ । वचो॑भि॒रिति॒ वचः॑-भिः॒ । तत् । मा॒ । पि॒तुः । गोत॑मात् । अन्विति॑ । इ॒या॒य॒ ॥  
 त्वम् । नः॒ । अ॒स्य । वच॑सः । चि॒कि॒द्धि॒ । होतः॑ । य॒वि॒ष्ठ॒ । सु॒क्र॒तो॒ इति॑ सु-क्र॒तो॒ । दमू॑नाः ॥ 
 </details>
-
 
 <details><summary>Hellwig Grammar</summary>
 
@@ -242,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+होतः- देवाह्वातः। यविष्ठ- युवतम। सुक्रतो- सर्वभूतहितरत्युद्भूतसङ्कल्पमय। वचोभिः- मन्त्रैः  सहितेन। बन्धुता- त्वद्बान्धव्येन। महः- महान्ति रक्षांसि। रुजामि- नाशयामि। तत्-  तद्बान्धव्यम्। मा- माम्। गोतमात्- अतिशयेन ज्ञानयुख्नात्। पितुः- जनकात्। अन्वियाय-  प्राप्तम्। अस्य- एतस्य। वचसः- मन्त्रस्य अर्थम्। नः- अस्माकम्। त्वम्। चिकिद्धि-  जानीहि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **होतः** देवानामाह्वातः **यविष्ठ** युवतम **सुक्रतो** शोभनप्रज्ञ हे अग्ने **वचोभिः** त्वदुद्देशेन कृतैः स्तोत्रैः समुपजाता येयं **बन्धुता** बन्धुभावस्तया बन्धुतया **महः** महतो राक्षसान् । **रुजामि** भनज्मि। **तत्** तादृशं स्तोत्रात्मकं वचः **पितुः** उत्पादयितुः **गोतमात्** ऋषेः सकाशात् **मा** मां वामदेवं **अन्वियाय** प्राप्तम् । **दमूनाः** दान्तमना दानमना वा शत्रूणामुपक्षपयिता वा तादृशः **त्वं** **नः** अस्मदीयस्य **अस्य** **वचसः** स्तोत्रात्मकमेतद्वाक्यं **चिकिद्धि** जानीहि ॥ चिकिद्धि । कित ज्ञाने ' । जौहोत्यादिकः । लोटि रूपम् । होतः । पादादित्वात् षाष्ठिकमाद्युदात्तत्वम् । इतरयोस्तु  ‘ नामन्त्रिते समानाधिकरणे° ' इति प्रथमस्य अविद्यमानवद्भावनिषेधात् अपादादित्वेन निघातः ॥
@@ -277,7 +278,7 @@ Oldenberg (SBE), Renou think that the poet’s lineage (bandhútā) is with Agni
 
 The next question is what to do with maháḥ. Oldenberg (SBE) takes it as acc. pl.
 
-object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. &gt; 2.15
+object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
 ... áṅgiraso bhavema, ádriṃ rujema ...
 
 > “Might we become Aṅgirases; might
@@ -323,8 +324,6 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 Как друг дома, о хотар, самый юный, обладающий прекрасной силой духа!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रक्षोहाऽग्निः
@@ -340,7 +339,7 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे राजन् ! जैसे मैं (गोतमात्) अत्यन्त सम्पूर्ण विद्याओं के स्तुति करनेवाले (पितुः) पिता से विद्या को प्राप्त होकर अविद्यादि दोष और शत्रुओं को (रुजामि) प्रभग्न करता हूँ (तत्) (महः) बड़ा कार्य और (वचोभिः) वचनों से (बन्धुता) बन्धुपन (मा) मुझे (अनु, इयाय) प्राप्त हो, वैसे यह बन्धुपन आपको प्राप्त हो और हे (होतः) देनेवाले (यविष्ठ) अत्यन्त युवा (सुक्रतो) उत्तम बुद्धियुक्त पुरुष (दमूनाः) दमनशील जितेन्द्रिय ! (त्वम्) आप (अस्य) इस (वचसः) वचन की उत्तेजना से (नः) हम लोगों को (चिकिद्धि) जनाइये ॥११॥
+पदार्थान्वयभाषाः -  हे राजन् ! जैसे मैं (गोतमात्) अत्यन्त सम्पूर्ण विद्याओं के स्तुति करनेवाले (पितुः) पिता से विद्या को प्राप्त होकर अविद्यादि दोष और शत्रुओं को (रुजामि) प्रभग्न करता हूँ (तत्) (महः) बड़ा कार्य और (वचोभिः) वचनों से (बन्धुता) बन्धुपन (मा) मुझे (अनु, इयाय) प्राप्त हो, वैसे यह बन्धुपन आपको प्राप्त हो और हे (होतः) देनेवाले (यविष्ठ) अत्यन्त युवा (सुक्रतो) उत्तम बुद्धियुक्त पुरुष (दमूनाः) दमनशील जितेन्द्रिय ! (त्वम्) आप (अस्य) इस (वचसः) वचन की उत्तेजना से (नः) हम लोगों को (चिकिद्धि) जनाइये ॥११॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एत- आगच्छत। इन्द्रम्। वस्वः- सम्पदः। ईशानम्- स्वामिनम्। स्वराजम्-  स्वायत्तस्वामित्त्वसहितम्। नु- क्षिप्रम्। स्तवाम। नः- अस्मान्। राधसा- सिद्ध्या। न। मर्धिषत्-  बाधताम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अस्मदीया जनाः **एतो** आगच्छतैव **नु** क्षिप्रम्। किं कर्तुम् । **स्तवाम** **इन्द्रम्** । कीदृशं तम् । **वस्वः** वसुनः धनस्य **ईशानं** स्वामिनं **स्वराजं** स्वयमेव राजमानं स्वर्गे राजमानं वा । **नः** अस्मान् इन्द्रेणानुगृहीतान् **राधसा** धनेनान्यो धनी **न** **मर्धिषत्** न बाधताम् । आढ्यानामस्मत्समानानामप्याढ्यत्वाय स्तवामेत्यर्थः ॥
@@ -203,10 +206,6 @@ Wohlan, jetzt wollen wir Indra preisen, den Selbstherrscher, der über das Gut s
 
 Kommt nun, lasst uns Indra preisen, der selbstherrschend Gut besitzet; Nicht versäum' er uns mit Gaben.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

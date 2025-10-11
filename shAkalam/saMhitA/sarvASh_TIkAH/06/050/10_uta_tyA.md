@@ -3,7 +3,6 @@ title = "010"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्या- तौ। युवम्- युवाम्। नासत्या- सत्यस्वरूपौ। विप्रा- मेधाविनौ। धीभिः।  मे- मम। हवम्- आह्वानम्। जग्म्यातम्- आगच्छतम्। महः- महतः। तमसः- अन्धकारात्।  अत्रिम्- अग्न्युपासकमस्मदाचार्यम्। अमुमुख्नम्- मोचितवन्तौ। न- इव। नरा- नेतारौ। अभीके-  वृत्रजनितयुद्धे। दुरितात्- अघात्। तूर्वतम्- नस्तारयतम्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **विप्रा** प्राज्ञौ **नासत्या** सत्यस्वभावौ सत्यस्य नेतारौ वा हे अश्विनौ **त्या** तौ प्रसिद्धौ **युवं** युवां **धीभिः** परिचरणकैः कर्मभिरुपेतं **मे** मदीयं **हवं** स्तोत्रम् **अङ्ग** क्षिप्रम् **आ** **जग्म्यातम्** आगच्छतम् । आगत्य च **महः** महतः **तमसः** असुरकृतादन्धकारात् **अत्रिं** **न** यथात्रिमृषिम् **अमुमुक्तं** मोचितवन्तौ स्थः हे **नरा** नेतारावश्विनौ तथास्मानपि **अभीके** अभ्यक्ते प्राप्ते संग्रामे **दुरितात्** दुःखात् शत्रुकृतात् **तूर्वतम्** अस्मांस्तारयतम् ॥ ॥९॥
@@ -271,8 +274,6 @@ Whether Geldner, Renou, and/or Klein were influenced by Oldenberg’s arguments 
 
 My own interpr. is identical to Oldenberg’s first pass, with impv. mumuktam and a supplied ‘me’ as obj., parallel to átrim in the simile. As for the second verb, I follow Gotō (1st Kl., 163 n. 258) in taking tū́rvataṃ narā as a parenthetical clause. This allows the abl. phrase at the end of d, duritā́d abhī́ke “from difficulty at close quarters,” to be construed with mumuktam, parallel to the abl. mahás támasaḥ “from great darkness” in the simile. However, if the parenthetical interpr. seems too awkward, it might be possible to take d as a single, separate cl.: “be victorious from difficulty at close quarters,” though tūrv seems not to take an abl. elsewhere.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -306,8 +307,6 @@ Und auch ihr beide kommt auf meinen Ruf her ihr treuen, weisen, ihr vor allen ac
 Спасите (нас) из беды, о два мужа, в тяжелую минуту!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -323,7 +322,7 @@ Und auch ihr beide kommt auf meinen Ruf her ihr treuen, weisen, ihr vor allen ac
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अङ्ग) मित्र ! (नासत्या) सत्य आचरण करनेवाले (विप्रा) मेधावी अध्यापक और उपदेशक (नरा) नायक सब में श्रेष्ठजन (त्या) वे (युवम्) तुम दोनों (धीभिः) उत्तम बुद्धि वा कर्मों से (मे) मेरे (अभीके) समीप में (हवम्) लेने योग्य पदार्थ को (आ, जग्म्यातम्) सब ओर से प्राप्त होओ (उत) और जैसे (महः) महान् (तमसः) अन्धकार से (अत्रिम्) सूर्य को (न) वैसे (दुरितात्) अधर्माचरण से (अमुमुक्तम्) छुड़ाओ और दुर्गुणों को (तूर्वतम्) नष्ट करो ॥१०॥
+पदार्थान्वयभाषाः -  हे (अङ्ग) मित्र ! (नासत्या) सत्य आचरण करनेवाले (विप्रा) मेधावी अध्यापक और उपदेशक (नरा) नायक सब में श्रेष्ठजन (त्या) वे (युवम्) तुम दोनों (धीभिः) उत्तम बुद्धि वा कर्मों से (मे) मेरे (अभीके) समीप में (हवम्) लेने योग्य पदार्थ को (आ, जग्म्यातम्) सब ओर से प्राप्त होओ (उत) और जैसे (महः) महान् (तमसः) अन्धकार से (अत्रिम्) सूर्य को (न) वैसे (दुरितात्) अधर्माचरण से (अमुमुक्तम्) छुड़ाओ और दुर्गुणों को (तूर्वतम्) नष्ट करो ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

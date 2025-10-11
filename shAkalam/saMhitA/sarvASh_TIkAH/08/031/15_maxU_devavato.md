@@ -3,7 +3,6 @@ title = "015"
 devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - मनुर्वैवस्वतः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मक्षु- क्षिप्रम्। देववतः- देवयुख्नः। रथः- सद्रंहणप्रतीकरथः। कासु चित्- केषुचित्। पृत्सु- युद्धेषु।  शूरः- समर्थः। यः। यजमानः- दाता पूजकः। देवानाम्। मनः- चित्तम्। इयक्षति- यष्टुं  पूजितमिच्छति। सः। अयज्वनः- अदातॄन्। अपूजकान्। अभि- अभिभवति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देववतः** । देवा यष्टव्यतया यस्य सन्ति स देववान् । तस्य **रथः** देवैर्दत्त: **मक्षु** शीघ्रं दुर्गमं मार्गमपि प्रविशति । सर्वत्राप्रतिहतगतिरित्यर्थः । तत्र दृष्टान्तः । **वा** इतिशब्दोऽत्र उपमानवाची । यथा **शूरः** योद्धा **कासु** **चित्** **पृत्सु** पृतनासु तद्वत् । **यः** **देवानाम्** । **इत्** अवधारणे । **मनः** एव **इयक्षति** स्तुतिभिः पूजयितुमिच्छति । यद्वा । देवानां मन इयक्षति हविर्भिर्यष्टुमिच्छति । सः **यजमानः** **अयज्वनः** यागमकुर्वतो जनान् **अभि** **भुवत्** स्वसामर्थ्येनाभिभवत्येव ॥ इयक्षति । ‘ यक्ष पूजायाम् '। यज देवपूजादिषु । उभयोरभ्यासस्य संप्रसारणं छान्दसम् । पूर्वस्य  ‘ स्कोः संयोगाद्योः ' इति ककारलोपः ॥
@@ -244,7 +247,6 @@ Quick is the chariot of the one with god on his side, or a champion in  battles 
 surpass non-sacrificers.
 </details>
 
-
 <details><summary>Keith</summary>
 
 Swiftly (goeth) the chariot of the worshipper [3]  
@@ -252,7 +254,6 @@ Like a hero in every contest;
 He who by sacrifice is fain to win the mind of the gods  
 Shall prevail over those who sacrifice not.
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -278,8 +279,6 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 Хочет покорить сердце богов,  
 Одерживает верх над тем, кто не приносит жертв.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

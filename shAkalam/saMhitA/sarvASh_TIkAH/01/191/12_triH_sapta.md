@@ -3,7 +3,6 @@ title = "012"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -31,13 +29,13 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 saptá ← saptá- (nominal stem)  
@@ -266,6 +264,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नेः ताः त्रिः सप्त विष्पुलिङ्गकाः। विषस्य पुष्यम्- विषपुष्टिम्। अक्षन्- अदन्ति॥ १२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रिः** **सप्त** त्रिगुणिताः सप्तसंख्याकाः विष्पुलिङ्गकाः विविधाः विष्पुलिङ्गकाः । सप्तसु जिह्वासु लोहितशुक्लकृष्णभेदेन एकविंशतिर्यासां ताः। यद्वा । त्रिः सप्त एकविंशतिभेदा विष्पुलिङ्गकाः सूक्ष्मचटकिका विषप्रतिपक्षभूताः । **विषस्य** अस्मदावरकस्य पुष्यं पोषम् **अक्षन्** अदन्तु नाशयन्तु । **ताः** च **न** **मरन्ति** न **वयम्** अपि । शिष्टमविशिष्टम् ॥
@@ -323,8 +326,6 @@ Die dreimal sieben Funkensprühenden (?) haben die Essenz des Giftes verschlunge
 Правящий булаными конями, уничтожил его суть.  
 Медовая (трава) медом сделала тебя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

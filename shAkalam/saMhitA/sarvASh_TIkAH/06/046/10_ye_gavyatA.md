@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। गव्यता- चिद्रश्मिकामेन। मनसा- चित्तेन। शत्रुम्- अन्तरायम्। आदभुः- अहिंसिषुः।  धृष्णुया- धर्षणसामर्थ्येन। अभिप्रघ्नन्ति- नाशयन्ति। तेभ्यः। नः- अस्मभ्यम्। मघवन्-  सम्पद्वन्। इन्द्र- परमेश्वर। गिर्वणः- श्रुतिगीत। तनूपाः- देहपालकः। अन्तमः- अन्तिकतमः।  भव॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** जना: **गव्यता** शत्रूणां गा इच्छता **मनसा** युक्ताः सन्त: **शत्रुं** शातयितारं वैरिणम् **आदभुः** अहिंसिषुः । ये च **धृष्णुया** धृष्णवो धृष्टा: सन्तः अस्मानभिलक्ष्य **प्रघ्नन्ति** प्रकर्षेण हिंसन्ति हे **मघवन्** धनवन् **गिर्वण:** गिरां संभक्त: **इन्द्र** **अध** **स्म** अस्मिन् काले तेभ्यः सकाशात् **नः** अस्माकं **तनूपाः** तनूनां शरीराणां रक्षिता सन् **अन्तमः** अन्तिकतमः **भव** ॥ ॥ २८ ॥
@@ -220,7 +223,6 @@ So then, as ever, o bounteous Indra longing for songs, as the protector  of our 
 <details><summary>Jamison Brereton Notes</summary>
 
 dhṛṣṇuyā́reprises 2a.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -254,8 +256,6 @@ Die beutelust'gen Sinns den Feind verwundeten, ihn niederschlagen kühnen Muths;
 Затем, о щедрый Индра, жаждущий хвалебных песен,  
 Стань ближайшим защитником наших тел!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

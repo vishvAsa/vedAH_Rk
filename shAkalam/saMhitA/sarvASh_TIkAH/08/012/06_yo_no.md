@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्मभ्यम्। देवः। परावतः- श्रेष्ठस्थानात्। सखित्वनाय- मैत्र्यै। मामहे- अयच्छत्। स  त्वं। दिवः- नभसः। वृष्टिम्। न- इव। प्रथयन्- प्रख्यापयन्। ववक्षिथ- निर्वहसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **देवः** दानादिगुणयुक्त इन्द्रः **परावतः** परावताद्दूरात् द्युलोकादागत्य **नः** अस्माकं **सखित्वनाय** सखित्वाय **मामहे** धनानि प्रददौ । मंहतेर्दानकर्मण एतद्रूपम् । यद्वा । अस्माभिः पूज्यते । ‘मह पूजायाम् ' । अस्माच्छान्दसः कर्मणि लिट् । उत्तरार्धर्चः प्रत्यक्षकृतः । हे इन्द्र **दिवो** **न** **वृष्टिं** दिवः सकाशाद्वृष्टिमिव **प्रथयन्** अस्मदीयानि धनानि विस्तारयन् यस्त्वं **ववक्षिथ** अस्मान् वोढुमिच्छसि तादृशं त्वां स्तौमीति शेषः ॥
@@ -166,8 +169,6 @@ The god from afar who has become ready for partnership with us— spreading like
 <details><summary>Jamison Brereton Notes</summary>
 
 In c pratháyan is used differently in simile and frame. In the former it is straightforwardly transitive, with vṛṣṭím as object; in the latter it is intransitive or, at least, absolute, as in, e.g., IV.53.2.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -200,8 +201,6 @@ Der uns als Gott von ferne her geführt hat zur Genossenschaft, Wie Himmelsdunst
 Одарял нас из дружеских чувств,  
 Будто дождь с неба распространяя – ты возрос.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

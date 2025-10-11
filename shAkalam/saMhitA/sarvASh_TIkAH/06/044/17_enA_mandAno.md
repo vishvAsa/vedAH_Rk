@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एना- अनेन। मन्दानः- हृष्टः। जामिम्- बन्धुम्। अजामिम्- अबन्धुम्। मघवन्- इन्द्र।  अमित्रान्- शत्रून्। जहि। अभिषेणान्- अभिगतान्। अभ्यादिदेशानान्- आयुधानि आदिशतः।  विसृजतः। इन्द्र। पराचः- पराङ्मुखा यथा भवन्ति तथा। प्र- प्रकर्षेण। मृण- बाधस्व। जहि-  नाशय। च॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मघवन् धनवन् **शूर** शौर्यवन्निन्द्र **एना** एनेन प्रकृतेनानेन सोमेन **मन्दानः** मन्दमानो माद्यन् **जामिं** ज्ञातिम् **अजामिं** तद्विलक्षणमेवमुभयविधान् **अमित्रान्** अस्मत्प्रतिकूलाचरणपरान् **शत्रून्** **जहि** हिंसितान् कुरु । किंच **अभिषेणान्** अस्मान्प्रत्यभिगताः सेना येषां तादृशानस्मदभिमुखम् **आदेदिशानान्** आयुधानि पुनःपुनरादिशतो विसृजतः शत्रूंश्च हे **इन्द्र** **पराचः** **प्र** **मृण** । ते यथा पराङ्मुखा भवन्ति तथा बाधस्व । तदनन्तरं तान् **जहि** **च** ॥॥१५॥
@@ -238,8 +241,6 @@ Those with weapons aimed at us, setting their sights on us—pulverize  and smas
 
 The object phrase in the 1st hemistich provides an ex. of number disharmony (of a different type from that in vs. 13). The main objects of Indra’s smiting are “rivals (and) foes,” the pl. phrase śátrūn … amítrān, but they are further specified as “kin and non-kin,” jāmím ájāmim, in the singular. The same disharmony is found in IV.4.5 jāmím ájāmim … śátrūn, where the śátrūn that closes our pāda a substitutes for amítrān.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -249,6 +250,7 @@ impvs.: 17a jahí and 18d kṛṇuhí, both internal to the pāda and preceded b
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -281,8 +283,6 @@ Durch ihn erquickt, erschlag, o Held, die Hasser, verwandten Feind und unverwand
 Стреляющих (в нас), целящихся –  
 Оттолкни (их) прочь, о Индра, и убей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

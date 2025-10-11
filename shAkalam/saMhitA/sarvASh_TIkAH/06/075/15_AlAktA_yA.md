@@ -3,7 +3,6 @@ title = "015"
 devataa = "इषवः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पायुर्भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ā́lāktā ← ā́lākta- (nominal stem)  
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आलाख्ना- आलेन विषेण अख्ना। रुरुशीर्ष्णी- हन्तृशिरस्का। अर्तेः हिंसाकर्मणो रुरुशब्दोत्पत्तिरिति  सायणः। यस्याः। मुखम्- वदनम्। अयः- अयोमयम्। पर्जन्यरेतसे- वृष्टिमूलायै। इष्वै। देव्यै-  लीलावत्यै। इदम्- एतत्। बृहत्- महत्। नमः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **या** इषुः **आलाक्ता** आलेन विषेण अक्ता **रुरुशीर्ष्णी** हन्तृशिरस्का ॥ अर्तेः हिंसाकर्मणो रुरुशब्दोत्पत्तिः ॥ शृङ्गशीर्ष्णी वा । **अथो** किंच **यस्याः** इषोः **मुखम्** **अयः** अयोमयं भवति । **पर्जन्यरेतसे** । पर्जन्यो रेतो यस्याः सा पर्जन्यरेताः । तस्यै पर्जन्यकार्यभूतायै । शरकाण्डस्य पर्जन्यजन्यत्वात् । **बृहत्** बृहत्यै तस्यै **इष्वै** **देव्यै** **इदं** **नमः** क्रियते इति ॥ ॥ २१ ॥
@@ -237,8 +240,6 @@ Der mit Gift bestrichen ist, am Kopf ein Gemshorn trägt, dessen Mund Eisen ist,
 Божественной стреле из семени Парджаньи  
 Это высокое поклонение!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

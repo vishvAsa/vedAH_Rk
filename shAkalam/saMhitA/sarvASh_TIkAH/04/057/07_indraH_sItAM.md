@@ -3,7 +3,6 @@ title = "007"
 devataa = "सीता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 gr̥hṇātu ← √gr̥hⁱ- (root)  
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- तडिन्मेघवृष्टिस्थबलाधिदेवता। ईशनाधिदेवता। सीताम्- लाङ्गलपद्धतिम्। निगृह्णातु। ताम्।  पूषा- पोषकः सूर्यः। अनु यच्छतु- नियमयतु। उत्तरामुत्तराम्- उत्तरोत्तरम्। समाम्- शाश्वतीः  समाः। सा। पयस्वती- उदकवती। नः- अस्मभ्यम्। दुहाम्- दुह्यात्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रः** देवः **सीतां** सीताधारकाष्ठं **नि** **गृह्णातु** । **तां** सीतां **पूषा** देवः **अनु** यच्छतु नियमयतु । **सा** द्यौः **पयस्वती** उदकवती" **दुहां** दुह्यात् । कदेति तदुच्यते। **उत्तरामुत्तरां** **समाम्** उत्तरमुत्तरं संवत्सरम् ॥
@@ -236,8 +239,6 @@ Es möge Indra in die Furche hineingreifen, die Richtung gebe ihr Puschan; sie m
 Богатая молоком, пусть доится она для нас  
 Каждый следующий год!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

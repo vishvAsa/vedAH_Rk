@@ -3,7 +3,6 @@ title = "024"
 devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agne ← agní- (nominal stem)  
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- सर्वभूतहितक्रतो। मा- माम्। वर्चसा- शोभनगुणैः। सम्- सम्यक्। सृज- योजय। प्रजया।  सम्- संयोजय। आयुषा- जीवनेन। सम्- संयोजय। अस्य- तादृशस्य। मे- मम हृदयं  साधनभूमिकां वा। देवाः- द्योतनशख्नयः। विद्युः- जानीयुः। ऋषिभिः- सूक्ष्मदर्शिभिः। सह।  इन्द्रः- परमेश्वरः। मे- मद्धृदयम्। विद्यात्- जानीयात्॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** वर्चःप्रजायुर्भिः मां संयोजय । **देवाः** सोमपातारः **अस्य** **मे** यजमानस्य **विद्युः** अनुष्ठानं जानीयुः । किंच **इन्द्रः** च ऋषिगणैः सह ममानुष्ठानं **विद्यात्** जानीयात् ॥ विद्युः ।  ‘ विद ज्ञाने'। लिङि झेर्जुस्' ( पा सू. ३. ४. १०८ ) । यासुट् ।  ‘ लिङः सलोपः' इति सकारलोपः ।  ‘ उस्यपदान्तात् ' ( पा. सू. ६. १. ९६ ) इति पररूपत्वम् । यासुट उदात्तत्वेन एकादेश उकारोऽपि उदात्तः । अस्य । इदमोऽन्वादेशे° ' इति अशनुदात्तः । विभक्तिरपि सुप्त्वेन अनुदात्ता । सह ऋषिभिः इत्यत्र ‘ऋत्यकः' (पा. सू. ६. १. १२८) इति प्रकृतिभावः ॥ ॥१२॥ ॥५॥
@@ -230,7 +233,7 @@ The gods should know this (hymn?) of mine; Indra should know it
 along with the seers.  
 As Oldenberg (1888: 225) observes, I.24–30, the Śunaḥśepa hymns, like the preced ing Medhātithi hymns (I 12–23), generally follow the organization of the hymns of  Maṇḍala VIII. He argues that irregularities in the placement of I.25, 27, and 30 can  be explained if these hymns are composites of several hymns.  
 The story of Śunaḥśepa, the putative poet of these hymns, appears in Aitareya  Brāhmaṇa VII 13–18 and Śāṅkhāyana Śrauta Sūtra XV 17–27. According to the  story, King Hariścandra had begged Varuṇa for a son and promised that if Varuṇa  gave him one, he would sacrifice his son to the god. A boy, Rohita, was born to  Hariścandra, but the king managed to delay the sacrifice of his son until Rohita  reached adulthood. When the king could no longer avoid the inevitable sacrifice,  he told Rohita that he was to be sacrificed to Varuṇa. But Rohita refused to be the  sacrificial victim and departed the kingdom. As a result Hariścandra was struck by  dropsy in punishment for not performing the sacrifice.  
-In his travels Rohita eventually came upon a poor brahmin named Ajīgarta, who  sold his son Śunaḥśepa to Rohita to be a substitute sacrificial victim. Rohita returned  with Śunaḥśepa and Varuṇa accepted the substitution of Śunaḥśepa for Rohita. But  when Śunaḥśepa was bound to the stake and was about to be killed, he appealed to  the gods by reciting I.24.1 to Prajāpati, the god Ka (cf. 1a kásya “of which (god)?”  and 1c káḥ “who?”), 24.2 to Agni, 24.3–5 to Savitar, 24.6–15 and I.25 to Varuṇa,  I.26 and 27.1–12 to Agni, 27.13 to the All Gods, I.29 and 30.1–16 to Indra, 30.17–19  to the Aśvins, and 30.20–22 to Dawn. Each time Śunaḥśepa recited a verse, one of  his bonds was loosened and Hariścandra’s belly became smaller. With the last verse  Śunaḥśepa was free of his bonds and Hariścandra was free of disease. Although I.24 refers directly to Śunaḥśepa and to his rescue by Varuṇa, the story  of Śunaḥśepa in the form in which it told in the Aitareya Brāhmaṇa does not fully  correspond to that at the basis of any of the hymns in this collection. Probably  closer to the R̥gvedic version is that alluded to in the Yajurveda. Taittirīya Saṃhitā  
+In his travels Rohita eventually came upon a poor brahmin named Ajīgarta, who  sold his son Śunaḥśepa to Rohita to be a substitute sacrificial victim. Rohita returned  with Śunaḥśepa and Varuṇa accepted the substitution of Śunaḥśepa for Rohita. But  when Śunaḥśepa was bound to the stake and was about to be killed, he appealed to  the gods by reciting I.24.1 to Prajāpati, the god Ka (cf. 1a kásya “of which (god)?”  and 1c káḥ “who?”), 24.2 to Agni, 24.3–5 to Savitar, 24.6–15 and I.25 to Varuṇa,  I.26 and 27.1–12 to Agni, 27.13 to the All Gods, I.29 and 30.1–16 to Indra, 30.17–19  to the Aśvins, and 30.20–22 to Dawn. Each time Śunaḥśepa recited a verse, one of  his bonds was loosened and Hariścandra’s belly became smaller. With the last verse  Śunaḥśepa was free of his bonds and Hariścandra was free of disease. Although I.24 refers directly to Śunaḥśepa and to his rescue by Varuṇa, the story  of Śunaḥśepa in the form in which it told in the Aitareya Brāhmaṇa does not fully  correspond to that at the basis of any of the hymns in this collection. Probably  closer to the R̥gvedic version is that alluded to in the Yajurveda. Taittirīya Saṃhitā  
 V 2.1.3 and Kāṭhaka Saṃhitā XIX 11 say simply that Śunaḥśepa had been seized by  Varuṇa but then rescued himself from Varuṇa’s bonds.
 </details>
 
@@ -265,8 +268,6 @@ Benetze, Agni, mich mit Glanz, mit Alter und mit Kinderschar, Dess sei'n die Gö
 Да подтвердит Индра вместе с риши!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -287,7 +288,7 @@ Benetze, Agni, mich mit Glanz, mit Alter und mit Kinderschar, Dess sei'n die Gö
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जब जीव पिछले शरीर को छोड़कर अगले शरीर को प्राप्त होता है, तब उसके साथ जो स्वाभाविक मानस अग्नि जाता है, वही फिर शरीर आदि पदार्थों को प्रकाशित करता है, जो जीवों के पाप-पुण्य और जन्म का कारण है, उसको वे (ऋषि और विद्वान्) ही परमेश्वर के सिवाय जानते हैं, किन्तु परमेश्वर तो निश्चय के साथ यथायोग्य जीवों के पाप वा पुण्य को जानकर, उनके कर्म के अनुसार शरीर देकर, सुख दुःख का भोग कराता ही है॥२४॥पूर्व सूक्त से कहे हुए अश्वि आदि पदार्थों के अनुषङ्गी जो वायु आदि पदार्थ हैं, उनके वर्णन से पिछले बाईसवें सूक्त के अर्थ के साथ इस तेईसवें सूक्त के अर्थ की सङ्गति जाननी चाहिये॥
+भावार्थभाषाः -  जब जीव पिछले शरीर को छोड़कर अगले शरीर को प्राप्त होता है, तब उसके साथ जो स्वाभाविक मानस अग्नि जाता है, वही फिर शरीर आदि पदार्थों को प्रकाशित करता है, जो जीवों के पाप-पुण्य और जन्म का कारण है, उसको वे (ऋषि और विद्वान्) ही परमेश्वर के सिवाय जानते हैं, किन्तु परमेश्वर तो निश्चय के साथ यथायोग्य जीवों के पाप वा पुण्य को जानकर, उनके कर्म के अनुसार शरीर देकर, सुख दुःख का भोग कराता ही है॥२४॥पूर्व सूक्त से कहे हुए अश्वि आदि पदार्थों के अनुषङ्गी जो वायु आदि पदार्थ हैं, उनके वर्णन से पिछले बाईसवें सूक्त के अर्थ के साथ इस तेईसवें सूक्त के अर्थ की सङ्गति जाननी चाहिये॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

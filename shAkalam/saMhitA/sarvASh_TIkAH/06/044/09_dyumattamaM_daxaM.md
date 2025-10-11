@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "विराट्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्युमत्तमम्- अतिशयेन दीप्तम्। दक्षम्- सामर्थ्यम्। अस्मे- अस्मभ्यम्। धेहि- धारय यच्छ।  जनानाम्। पूर्वीः- प्राचीनान्। अरातीः- रिपून्। सेध- निषेध निवारय। शचीभिः- स्वशख्निभिः। ४    वर्षीयः- वर्षकम्। वयः- अन्नम्। कृणुहि- कुरु। धनस्य- सम्पदः। सातौ- लाभे। अस्मान्- नः।  अविड्ढि- गमय॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **द्युमत्तमं** दीप्तिमत्तमं **दक्षं** बलम् **अस्मे** अस्मासु **धेहि** धारय । **जनानां** स्तोतॄणामस्माकं **पूर्वीः** बह्वीः **अरातीः** शत्रुसेनाः **सेध** निषेध निवारय । अपि चास्माकं **वर्षीयः** वृद्धतरं **वयः** अन्नं **शचीभिः** आत्मीयाभि: प्रज्ञाभिः **कृणुहि** कुरु । तथा **धनस्य** **सातौ** संभजने **अस्मानविड्ढि** गमय । यद्वा । धनस्य संभजनार्थमस्मान् रक्ष ॥
@@ -225,8 +228,6 @@ Make our vitality higher through your abilities. Help us in the winning  of the 
 This tṛca-final vs. reprises and repurposes some of the statements in the opening vs. 7. The skill (dákṣa-) that Soma found in 7a we ask him to bestow on us in 9a. Soma, “having won” (sasavā́n) in 7c, is asked to help us in winning (sātaú … aviḍḍhi) in 9d. Unfortunately nothing in 9 sheds light on the problematic instr. phrase in 7c.
 
 VI.44.10-12: This tṛca foresees various disasters and tribulations and asks Indra for his help in combatting them.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -262,8 +263,6 @@ Verleihe Kraft uns, – die allerstärkste, wehr ab der Menschen – vielfält'g
 (Своими) возможностями сделай выше нашу телесную силу!  
 Помоги нам в захвате богатства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

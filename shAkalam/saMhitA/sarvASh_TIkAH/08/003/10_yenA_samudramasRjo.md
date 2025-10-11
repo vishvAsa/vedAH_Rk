@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मेध्यातिथिः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। समुद्रम्- अर्णवम्। असृजः- ससर्जिथ। महीः- महतीः। अपः। असृजः। इन्द्र। तत्। ते-  तव। शवः- बलम्। वृष्णि- वर्षकम्। यम्। क्षोणीः- भूमिः। अनुचक्रदे- अनुगच्छति। सद्यः-  सहसा। अस्य- एतस्येन्द्रस्य। सः। महिमा। न। संनशे- वृत्रैर्व्याप्तुं शक्यः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **येन** आत्मीयेन बलेन **समुद्रम्** अब्धिं प्रति **महीः** महतीः **अपः** उदकानि **असृजः** व्यसृजः । महान् समुद्रो यावद्भिर्जलैः पूर्यते तावन्ति जलानि पुरा त्वं सृष्टवानित्यर्थः । **ते** त्वदीयं **तत्** **शवः** बलं **वृष्णि[१]** वर्षकम् । अभीष्टफलदमित्यर्थः । **अस्य** इन्द्रस्य **सः** **महिमा** **न** **संनशे** न सम्यगापनीयः । परैरप्रधृष्य इत्यर्थः। नशेः कृत्यार्थे केन्प्रत्ययः । **यं** महिमानं **क्षोणीः** क्षोणी पृथिवी **अनुचक्रदे** अनुगच्छति । क्रदिरत्र गत्यर्थः । यदधीना वर्तत इत्यर्थः ॥ ॥२६॥
@@ -251,8 +254,6 @@ In a single day that greatness of his cannot be fully attained, toward  which th
 For vṛ́ṣṇi and the phrase vṛ́ṣṇi te śávaḥ see disc. ad VIII.96.19.
 
 Thieme (KZ 92: 46) rejects the usual interpr. of kṣonī́ḥ as nom. sg., on the grounds that the nom. sg. is attested as kṣoṇī́in I.180.5 and that kṣoṇī́ḥ is otherwise nom. or acc. pl. However, this requires him to interpr. it as an acc. pl. of Inhalts or result with a passive verb: “dem (d.h.: wenn ihm) Gebrüll (aufrüttelndes Kampfgechrei) hinterhergeschreien worden ist.” The syntactic complications of this interpr. seem to me to outweigh the drawbacks of assuming that the poorly attested stem kṣoṇī́- could generate a nom. sg. in -ī́s, esp. since its suffixal accent matches that of vṛkī́-type nouns.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -290,8 +291,6 @@ Die Manneskraft, mit der du, Indra, in das Meer der Wasser Schwall ergossen hast
 За один день не достигнуть этого его величия,  
 Которому вторит криками войско.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

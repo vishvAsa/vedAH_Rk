@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अपालात्रेयी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 kárat ← √kr̥- (root)  
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    कुवित्- बहु। शकत्- अस्मान् शख्नान् करोतु। कुवित्- बहु। करत्- करोतु। कुवित्- बहु। नः-  अस्मान्। वस्यसः- सम्पद्वतः। करत्- करोतु। कुवित्- बहु। पतिद्विषः- पतिभिर्द्विष्टाः। यतीः-  गच्छन्त्यः। इन्द्रेण। सङ्गमामहै- सङ्गच्छामहै॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सोमं पीतवानिन्द्रोऽस्मानेवं करोत्वित्याह । स इन्द्रः **कुवित्** बहुवारमस्मान् **शकत्** शक्तान् समर्थान् करोतु । किंच **कुवित्** बहु चास्मभ्यं **करत्** करोतु । किंच स एवेन्द्रः **नः** अस्मान् **कुवित्** बहुकृत्वः **वस्यसः** वसीयसोऽतिशयेन वसुमतः करोतु । करोतेः शक्नोतेश्च लेट्यडागमः । इदानीमात्रेय्यहमेवं करिष्यामीति वदति । पूर्वं **कुवित्** बहु **पतिद्विषः** त्वग्दोषात्पतिभिर्भर्तृभिबहुवारं द्विष्टा अत एव **यतीः** पतिभ्यः सकाशादितो गच्छन्त्यो वयं कैश्चिदप्यनूह्यमानाः सत्यः संप्रति **इन्द्रेण** सह **संगमामहै** संगच्छामहै । सर्वत्र पूजार्थे बहुवचनम् । संगमशब्देनेन्द्रोऽपालामचकमतेति ॥
@@ -227,10 +230,6 @@ Gewiß wird er es können, gewiß wird er es tun, gewiß wird er uns glückliche
 
 Ob er's vermag, und ob er's thut? ob er nicht bald uns reicher macht? Ob von dem Gatten ich verschmäht mich Indra werde beigesell'n?
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

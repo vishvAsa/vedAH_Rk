@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदः- जातविद्य। नः- अस्मान्। उरुष्य- रक्ष। दुराध्ये- दुष्टचिन्तकाय। मर्ताय- मर्त्याय।  अघायते- पापिने। मा। परा दाः- परादेहि॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **जातवेदः** जातविद्य जातधन वाग्ने **नः** अस्मान् **उरुष्य** रक्ष। 'उरुष्यती रक्षाकर्मा' (निरु. ५. २३) इति यास्कः । **मा** **परा** **दाः** मा परादेह्यस्मान् । कस्मा इति स उच्यते । **अघायते** अघं पापमिच्छते **दुराध्ये** दुराध्यानाय दुर्विचिन्तकाय हिंसाबुद्धये **मर्ताय** मनुष्याय ॥
@@ -161,10 +164,6 @@ Zeige uns einen Ausweg, gib uns nicht dem übelwollenden Sterblichen, der Böses
 
 Schütze uns, o Wesenkenner, gib nicht hin uns dem Verfolger, Nicht dem bösgesinnten Manne.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

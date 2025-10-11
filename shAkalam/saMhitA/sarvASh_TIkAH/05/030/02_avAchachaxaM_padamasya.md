@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - बभ्रुरात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+निधातुः- स्थापयितुः। अस्य- एतस्येन्द्रस्य। सस्वः- अन्तर्हितम्। उग्रम्- उद्गूर्णम्। पदम्।  इच्छन्- कामयन्। अन्वायम्- अगच्छम्। अन्यान्- इतरान्। अपृच्छम्। उत- अपि च।  बुबुधानाः- जानन्तः। नरः- नेतारः। ते। मे- मह्यम्। अशेम- इन्द्रं प्राप्ता वयमिति। आहुः-  अवदन्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** इन्द्रस्य **पदं** स्थानम् **अवाचचक्षम्** अहमवाद्राक्षम् । कीदृशम् । **सस्वः** अन्तर्हितम् । **उग्रम्** उद्गूर्णम् । किंच **इच्छन्** इन्द्रमन्विच्छन्नहं **निधातुः** स्वं स्थापयितुः अस्य इन्द्रस्य पदम् **अन्वायम्** अन्वगमम् । **अन्यान्** **उत** अन्यान् विदुषोऽपि मार्गे इन्द्रम् **अपृच्छं** पृष्टवानस्मि । पृष्टाः **ते** **मे** मह्यम् **इन्द्रम्** **आहुः** । किमाहुरित्युच्यते । **नरः** यज्ञानां नेतारः **बुबुधानाः** बुभुत्समाना वयम् **अशेम** इन्द्रं प्राप्तवन्तः स्मः । यद्यपीन्द्रो विद्यते तथापि दुर्लभश्चेदनुपगन्तव्यः इति बुभुत्समानः स्वभावमपृच्छत् पृष्टैश्च सुलभः इत्युक्त इन्द्रप्राप्त्यर्थं सूक्तशेषमपश्यदित्यर्थः ॥
@@ -257,8 +260,6 @@ Witzel Gotō take sasvár as ‘in sleep’, against the standard interpr. ‘in
 The position of anyā́n in b should, by my rules, make it definite (“the others”).
 
 Though both Geldner and Witzel Gotō render it as indefinite, there is no reason why it can’t be definite: the poet consults with his priestly/poetic colleagues or with those “who know” (vidváṃs-) Their answer, referring to “we men,” suggests that it is a defined group, quite possibly the priests performing the morning ritual. The action that qualifies them for attaining Indra -- waking up (early) -- is surely not simply reflecting a general sentiment like “the early bird gets the worm,” but refers to Indra’s attendance at the morning pressing; cf., e.g., IV.35.7 prātáḥ sutám apibo haryaśva “Early in the morning you drank the pressed (soma), you of the fallow bays.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -292,8 +293,6 @@ Ich sah den Schritt des Schatzbewahrers heimlich, und folgte seinem mächt'gen S
 Я спросил других, и они сказали мне:  
 Мы мужи, могли бы застать Индру, когда мы пробуждаемся.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येभिः- यैः। ईयसे- गच्छसि। ते- तव। वह्नयः- वोढारः। मेद्यन्तु- तृप्यन्तु। अरिषण्यन्-  अहिंसन्।  वीळयस्व- दृढीभव। धृष्णो- शत्रुधर्षक। आयूय- आगत्य। अभिगूर्य- उद्यम्य। त्वम्।  नेष्ट्रात्- यज्ञनेतुः। सोमम्- रसम्। वनस्पते द्रविणोदः। ऋतुभिः पिब॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेद्रविणोदः येभिर्यैःवाहैः ईयसेप्राप्नोषि तेतव वह्नयोवोढारइतियास्केनोक्तत्वात् तेमेद्यन्तु तृप्यन्तु हेवनस्पतेवनानाम्पते अरिषण्यन् अहिंसन् वीळयस्व दृढीभव हेधृष्णोधर्षकत्वं आयूय आगत्य अभिगूर्य उद्यम्य नेष्ट्रात् नेष्टुर्यागात् ऋतुभिः सहः सञ्ज्ञकैः सहसोमम्पिब ॥ ३ ॥
@@ -237,8 +240,6 @@ Having drawn it to you, bold one, having greeted it: the soma from the  Neṣṭ
 Although the default referent of the voc. vanaspate in a ritual context might be assumed to be the sacrificial post (cf. III.8.1, 3, 6, 11), the contents of ab -- both the draught animals of a and vīḍayasvā in b -- point rather to the chariot. See VI.47.26 cited by both Geldner and Renou Why the chariot is addressed and identified with the wealth-giver is not clear to me, save for the fact that in the later ritual the Ṛtugraha libations take place in the cart shed (see, e.g., Eggeling, SBE 26.319-20).
 
 Note that the havirdhāna carts are the subject of the last tṛca of nearby II.41 (vss. 19- 21).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -273,8 +274,6 @@ Die Schar der Rosse werde feist, mit der du fährst, o säume nicht und stärke 
 О Дравинодас, пей сому из кубка нештара в (свое) время!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - द्रविणोदाः
@@ -295,7 +294,7 @@ Die Schar der Rosse werde feist, mit der du fährst, o säume nicht und stärke 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। किसी को बिना उद्यम के न रहना चाहिये और तुओं के प्रति अनुकूल व्यवहार करके सुख बढ़ाना चाहिये ॥३॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। किसी को बिना उद्यम के न रहना चाहिये और तुओं के प्रति अनुकूल व्यवहार करके सुख बढ़ाना चाहिये ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

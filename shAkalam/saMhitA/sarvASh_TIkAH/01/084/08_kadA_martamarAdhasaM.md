@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कदा। इन्द्रः। अराधसम्- वृद्ध्यै संसिद्ध्यै वा न यतमानम्। मर्तं- मनुष्यम्। क्षुम्पमिव-  छत्राकमिव। पदा- स्वपादेन। स्फुरत्- आक्रमिष्यति। कदा। नः- अस्माकम्। गिरः- मन्त्रान्।  शुश्रवत्- श्रोष्यति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अराधसं** हविर्लक्षणेन राधसा धनेन रहितम् । अयष्टारमित्यर्थः । एवंविधं **मर्तं** मनुष्यम् इन्द्रः **पदा** पादेन **क्षुम्पमिव** अहिच्छत्रकमिव **कदा** **स्फुरत्** स्फुरिष्यति वधिष्यति । यथा अहिच्छत्रं मण्डलाकारेण शयानं कश्चिदनायासेन हन्ति एवमिन्द्रोऽपि कदा अस्मच्छत्रून् हनिष्यतीत्यर्थः । स्फुरतिर्वधकर्मा । “ स्फुरति स्फुलति' (नि. २. १९. १५) इति वधकर्मसु पठितत्वात्। **नः** अस्माकं यष्टॄणां **गिरः** स्तुतिलक्षणा वाचः **इन्द्रः** **कदा** कस्मिन्काले **अङ्ग** क्षिप्रं **शुश्रवत्** श्रोष्यतीति वितर्क्यते । अत्र निरुक्तम् - ‘क्षुम्पमहिच्छत्रकं भवति यत् क्षुभ्यते। कदा मर्तमनाराधयन्तं पादेन क्षुम्पमिवावस्फुरिष्यति । कदा नः श्रोष्यति गिर इन्द्रोऽङ्ग । अङ्गेति क्षिप्रनाम ' (निरु. ५, १७) इति ॥ पदा। पादशब्दस्य ‘पद्दन्' इत्यादिना पदादेशः ।  ‘ ऊडिदम्' इति विभक्तेः उदात्तत्वम् । क्षुम्पमिव । क्षुभ संचलने ' । अस्मात् कर्मणि घञि बहुलवचनात् धातोर्नुमागमः । वर्णव्यापत्त्या भकारस्य पकारः । स्फुरत् । **स्फुर** संचलने'। 'छन्दसि लुङ्ललिटः ' इति लृडर्थे लङ्। बहुलं छन्दस्यमाड्योगेऽपि इति अडभावः। शुश्रवत् । श्रु श्रवणे'। लेटि अडागमः ।  ‘ बहुलं छन्दसि ' इति शपः श्लुः ॥
@@ -191,8 +194,6 @@ When will he kick the ungenerous mortal with his foot like a mushroom? When will
 <details><summary>Jamison Brereton Notes</summary>
 
 The hapax kṣúmpa- is universally rendered by modern tr. as ‘mushroom’, though there is no unanimity in earlier interpretations (cf., e.g., Grassmann: Staude [perennial plant]). There is some etymological support for ‘mushroom’ from modern languages (see EWA s.v.), and ‘mushroom’ works well in the simile, since kicking many varieties of mushroom demolishes them, whereas a perennial plant is generally a sturdier entity. I might go so far as to suggest specifically a puffball, since kicking puffballs releases a satisfying cloud of dust (easily viewed on various YouTube videos), and puffballs do appear to be found in the appropriate geographical area.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -224,8 +225,6 @@ Wer stösst den gabenlosen Mann mit Füssen wie Gestrüpp hinweg? Wer höret uns
 Он пнет ногою, словно гриб?  
 Когда наши песни услышит Индра, в самом деле?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

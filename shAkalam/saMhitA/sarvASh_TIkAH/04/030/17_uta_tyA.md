@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्या- तौ। तुर्वशायदू- देवमनुष्यौ। तुर्वशः क्षिप्रगामी देवः। यदुशब्दो मनुष्यनामसु  पठितः। अस्नातारा- अनभिषिख्नौ अमग्नाविति भावः। शचीपतिः- प्रज्ञापालकः। इन्द्रः- परमेश्वरः।  विद्वान्। अपारयत्- पारं नीतवान्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 उत अपि च **अस्नातारा** अस्नातारौ ययातिशापादनभिषिक्तौ **त्या** त्यौ तौ प्रसिद्धौ **तुर्वशायदू** तुर्वशनामानं यदुनामकं च राजानौ **शचीपतिः** कर्मणां पालकः । यद्वा शचीन्द्रस्य भार्या । तस्याः पतिर्भर्ता **विद्वान्** सकलमपि जानन् **इन्द्रः** **अपारयत्** अभिषेकार्हावकरोत् ।
@@ -158,8 +161,6 @@ the knowing Indra, bring to the far shore.
 Witzel Gotō render asnātā́rā as “ohne dass sie untertauchen,” flg. Tichy (Nom.Ag.
 
 107). It seems to me to be pushing the syntax to render a negated agent noun as the equivalent of negative purpose clause (though in her comment Tichy simply says that it’s “gleichzeitig,” presumably with the time of the main verb), though it is also the case that we don’t know much if anything about swimming in ancient India.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -192,8 +193,6 @@ Und beide, Turvaça, Jadu fuhr Indra unbenetzt hindurch, Er, der's versteht, der
 Которые не умели плавать, повелитель силы  
 Индра умело переправил на другой берег.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

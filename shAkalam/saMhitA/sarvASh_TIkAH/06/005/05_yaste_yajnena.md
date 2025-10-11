@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहसः सूनो- शख्निज। अमृत- हे अमृतस्वरूप। यः। ते- त्वदर्थम्। समिधा- समिद्धेन। यज्ञेन-  दानेन पूजया सङ्गतिकरणेन। यः। उक्थैरर्केभिः- मन्त्रैः। ददाशत्- ददाति। सः। मर्त्येषु-  मनुष्येषु। प्रचेताः- प्रकर्षचेतनः सन्। द्युम्नेन- दीप्तिमत्या। राया- दानयोग्यसम्पदा। श्रवसा-  अतीन्द्रियश्रुत्युपलक्षितदिव्यानुभूत्या। वि भाति- प्रकाशते॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहसः** **सूनो** बलस्य पुत्राग्ने **ते** त्वां **यः** यजमानः **यज्ञेन** यागेन **ददाशत्** परिचरति । **यः** च **समिधा** समिन्धनसाधनेनेध्मेन । यश्च **उक्थैः** शस्त्रैः **अर्केभिः** अर्चनीयैः स्तोत्रैश्च परिचरति हे **अमृत** मरणधर्मरहिताग्ने **सः** यजमानः मर्त्येषु मनुष्येषु **प्रचेताः** प्रकृष्टज्ञानः सन् **राया** धनेन **द्युम्नेन** द्योतमानेन **श्रवसा** श्रवणीयेनान्नेन यशसा वा **वि** **भाति** विशेषेण प्रकाशते ॥
@@ -245,8 +248,6 @@ he, provident among mortals, o immortal one, shines out with wealth,  with brill
 I now would be inclined to take samídhā as an abstract “with kindling,” rather than as the concrete material “with kindling wood” as in the published translation See disc.
 
 ad VI.1.9, 2.5.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -280,8 +281,6 @@ Wer dir mit Brennholz und mit Opfer huldigt, mit Sprüchen und Gesängen, Sohn d
 Тот прозорливый (человек) среди смертных, о бессмертный,  
 Ярко сияет богатством, великолепием, славой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

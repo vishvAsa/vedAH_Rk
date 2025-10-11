@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अनु द्यून्- दिने दिने। प्रस्रवणस्य- द्रवणवतः। विरुद्रस्य- विशेषवेगाधिदैवतस्य। सातौ- लाभे।  युवाम्। अश्विनौ। चित्- एव। नराम्- नृणाम्। नृषु- नेतृषु। प्रशस्तः- प्रशंसनीयः। अगस्त्यः-  चित्तवृतिस्तम्भकारक उपासकः। सहस्रैः- अनन्तैर्भावनैः। कराधुनीव- मन्त्रस्पन्द इव। चितयत्-  बुबोध। रुवन् द्रवतीति रुद्रः। रु शब्दे। द्रु गतौ। महारवेण द्रुतगतिर्भवतीत्यर्थः। द्रवच्छब्दः  क्षिप्रनामसु पठितः। रुद्रो वेगदेवता। अवशस्थवेगवशीकरणशख्निभूतः स्ववशस्थवेगो रुद्रः।  वशीकृतवेगोऽवशीकृतवेगाच्च शख्निसंपन्नो नियतः। उद्वेजितप्राणः उद्रिख्नप्राणो वा रुद्रः।  रुद्राख्यलक्ष्यप्रापकमार्गभूतावश्विनौ। कथं प्राणापानेशनेन प्राणापानसमाधानेन वा वेगः साध्यत इति  चेत् साध्यत एव। वशीकृतवेगः साध्यते। स वेगवान्वेगसमाहितात्मेति यथा॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विनौ** **युवां** । **चिद्धि** **ष्म** इति त्रयः पूरणाः । **अनु** **द्यून** प्रतिदिनं **विरुद्रस्य** विशिष्टोष्णरूपदुःखद्रावणस्य विविधरोरूयमाणद्रवणवतो वा **प्रस्रवणस्य** वृष्ट्युदकसंस्त्यायस्य **सातौ** लाभे निमित्तभूते सति **अगस्त्यः** एतन्नामा महर्षिः **नरां** नेतॄणां कर्मनिर्वाहकानां मनुष्याणां **नृषु** येषु तादृशाः मनुष्याः सन्ति तेषु **प्रशस्तः** प्रशस्यतरोऽयं **सहस्रैः** अपरिमितैः स्तोत्रैः **चितयत्** चेतयति स्तुत्या प्रबोधयति । तत्र दृष्टान्तः । **काराधुनीव** । कारा शब्दः । तस्य धूनयितोत्पादयिता शङ्खादिः स इव । यद्वा । एतदप्यगस्त्यविशेषणम् । कारः शब्दयिता होत्रादिः । तस्य धुनिः कम्पयिता प्रेरकः इव । इवेति संप्रत्यर्थे ।' अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोगः ' ( निरु. ७. ३१ ) इति निरुक्तम् ॥
@@ -248,8 +251,6 @@ Yet another hapax troubles us: kā́rādhunī. Both Geldner and Witzel Gotō ref
 
 But given the other intractable problems in this hymn, it seems one of the lesser issues. The 2nd member -dhuni- is surely dhúni- ‘noisy’ or probably, substantivized ‘noise, tumult’. It also seems reasonably possible to connect kā́rā- to kārú- ‘bard’ and assign it a tenative meaning ‘praise-song’ (so also EWA s.v. kārú-, citing also AiG II.2, etc.). The form in the text (with probable but not certain -ī final, so Pp.) can be an instr. sg. The remaining problem is the accent, which should make the cmpd a bahuvrīhi, a grammatical identity at odds with my tr. “with a tumult of praise-songs.” AiG II.1.221 simply says it has abnormal accent, and with nothing better to offer, I will simply allow Wackernagel the last word on that subject. I take this simile with what precedes (“proclaimed as if with …”) rather than what follows (“is conspicuous by thousands as if by …”). Its position would allow either, despite the pāda break.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -286,8 +287,6 @@ Denn euch hat täglich auch gerühmt, o Ritter, bei jeder Spende glanzbegabten T
 Агастья среди мужей прославлен мужами.  
 Словно боевой гонг (?) (- победами), он отмечен тысячами (гимнов).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

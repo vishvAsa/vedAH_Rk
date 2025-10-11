@@ -3,7 +3,6 @@ title = "003"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पृषध्रः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गर्दभानां शतम्- बहून् रासभान्। ऊर्णावतीनां शतम्- बह्वीर्मेषीः। दासान् शतम्- प्रभूतसेवकान्।  स्रजः- मालाः। अति- अतिशयिताः। देवा ददुः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -161,8 +164,6 @@ Hundert Esel, hundert wollenreiche Schafe, hundert Sklaven, dazu Blumenkränze.
 Сотню шерстистых (овец),  
 Сотню дасов, сверх того - гирлянды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

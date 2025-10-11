@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    सजोषसा- समानप्रीतौ। इन्द्रवायू। अयम्- एषः। सुतः- रसः। तम्। देवेभिः- देवैः। दाशुषः-  दातुः। गृहे- सदने। पिबतम्- अनुभवतम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्रवायू** **अयं** सोमः **सुतः** अभिषुतः । **तं** सोमं **देवेभिः** देवैः **सजोषसा** समानप्रीतौ **दाशुषः** हविर्दातुः **गृहे** यागशालायां **पिबतम्** ॥
@@ -177,8 +180,6 @@ Hier, Indra-Vaju, ist der Saft, den trinkt in des Verehrers Haus, Vereinigt mit 
 Единодушные с богами,  
 Пейте его в доме почитающего (вас)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

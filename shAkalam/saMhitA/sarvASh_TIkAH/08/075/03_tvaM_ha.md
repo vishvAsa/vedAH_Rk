@@ -3,7 +3,6 @@ title = "003"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यविष्ठ्य- युवतम। त्वम्। सहसः सूनो- शख्निज। आहुत- हव्यसमर्पित। यज्ञियः- पूज्यः।  ऋतावा- सत्यवान्। भुवः- अभवः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **यविष्ठ्य** युवतम **सहसः** **सूनो** बलस्य पुत्र **आहुत** सर्वतो हुत आहूत वा **त्वं** **यत्** यदा **ह** खलु **ऋतावा** सत्यवान् **यज्ञियः** यज्ञार्हश्च **भुवः** भवसि तदा वार्याणि श्रत्कुर्विति संबन्धः ॥
@@ -178,10 +181,6 @@ Da ja du, jüngster Sohn der Kraft, mit Schmalz Begossener, der wahrhaftige Opfe
 
 Denn du, o jüngster, sollst uns sein, o Sohn der Kraft, beträufelter, allheilig und verehrungswerth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

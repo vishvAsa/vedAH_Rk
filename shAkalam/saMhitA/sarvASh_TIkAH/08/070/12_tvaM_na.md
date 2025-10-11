@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। शविष्ठ- बलिष्ठ। अस्मयुः- अस्मत्कामः। दावने- दानाय। धानानां - भृष्टयवाः।  न- इव। आसाम्- गाः। हस्ते। गृभाय- गृह्णीष्व॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शविष्ठ** बलवन् **इन्द्र** **त्वं** नः अस्मभ्यं **दावने** प्रदानाय **आसां** गवाम् । कर्मणि षष्ठी । एता गाः **हस्ते** **गृभाय** गृहाण । ग्रहणे दृष्टान्तः । **धानानां** **न** । धाना भृष्टयवाः । अत्रापि कर्मणि षष्ठी । धाना यथा संगृह्णाति तद्वद्गृहाण । कीदृशस्त्वम् । **अस्मयुः** अस्मान् कामयमानः । गृहीत्वा च **अस्मयुः** सन् **द्विः** **सं** **गृभाय** । पुनर्द्विवारं संगृहाण ॥
@@ -232,10 +235,6 @@ Von diesen Kühen nimm, Indra, als wären es Körner, die Hand voll uns zuliebe,
 
 O Indra, nimm in deine Hand wie Gerstenkörner Schätze doch, Sie uns zu geben, o du stärkster, holdgesinnt, zweimal erfasse sie uns hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

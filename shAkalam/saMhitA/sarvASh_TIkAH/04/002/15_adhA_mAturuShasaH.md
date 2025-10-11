@@ -3,7 +3,6 @@ title = "015"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। मातुः- जनन्याः। उषसः- प्रभात्या विद्यायाः सकाशात्। नॄन्- चित्किरणान्। सप्त-  सप्तभूमिकोपासकाः। विप्राः- मेधाविनः। प्रथमाः- मुख्याः। वेधसः- विधायका वयम्। जायेमहि-  जनयामः। दिवस्पुत्राः- दिव्याः। अङ्गिरसः- अङ्गनशीलाः। भवेम। शुचन्तः- शोधयन्तः।  धनिनम्- गोमन्तं चिद्रश्मिबन्धकमिति भावः। अद्रिम्- जडोपलक्षितं पर्वतम्। रुजेम-  भिन्द्याम॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वामदेवोऽन्यैः षड्भिरङ्गिरोभिः सह ब्रूते । **अध** अपि च **मातुरुषसः** सकाशात् **सप्त** सप्तसंख्याकाः **विप्राः** प्राज्ञा वयं स्मः । **प्रथमाः** श्रेष्ठा वयं **वेधसः** अग्नेः परिचारकान् **नॄन्** वेधसो विधातॄन् रश्मीन् वा **जायेमहि** वयं जनयामः । **दिवः** द्योतमानस्यादित्यस्य **पुत्राः** वयं **अङ्गिरसो** **भवेम** भूतिमन्तः स्याम । **शुचन्तः** दीप्यमाना वयं **धनिनम्** उदकवन्तम् **अद्रिं** मेघं **रुजेम** वर्षार्थं भिन्द्याम । यद्वा । धनिनं पणिनामकासुरापहृतगोधनयुक्तमद्रिं पर्वतं रुजेम । अङ्गिरसामादित्यपुत्रत्वमेवमाम्नायते - तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवत् ' इत्युपक्रम्य  ‘ येऽङ्गारा आसंस्तेऽङ्गिरसोऽभवन् ' ( ऐ. ब्रा. ३. ३४ ) इति ॥ जायेमहि ।  ‘ जनी प्रादुर्भावे ' । लिङि ' ज्ञाजनोर्जा ' इति जादेशः । वेधसः । डुधाञ् धारणपोषणयोः' इत्यस्मात् ' विधाञो वेध च' ( उ. सू. ४.६६४ ) इति असिप्रत्ययः । धातोर्वेध इत्यादेशः । दिवस्पुत्रा इत्यत्र संहितायां  ‘ षष्ठ्याः पतिपुत्र ' इति विसर्जनीयस्य सत्वम् । रुजेम । ‘ रुजो भङ्गे ' । अदादिः । लिङि रूपम् ॥ ॥१८॥
@@ -234,7 +237,7 @@ Might we become sons of heaven, Aṅgirases. Might we break the rock  that holds
 
 <details><summary>Jamison Brereton Notes</summary>
 
-For the third time in this hymn a pāda-final acc. pl. might more comfortably be interpreted as a gen. pl. -- here nṝ́n. In the cases of mártān in 3d and 11b we saw that the acc. pl. reading was easily possible and an abbreviated (or re-formed) gen. pl.
+For the third time in this hymn a pāda-final acc. pl. might more comfortably be interpreted as a gen. pl. -- here nṝ́n. In the cases of mártān in 3d and 11b we saw that the acc. pl. reading was easily possible and an abbreviated (or re-formed) gen. pl.
 
 interpr. was unnecessary. Here an acc. pl. interpr. seems more difficult, though perhaps not impossible. If it is a gen. pl. the tr. would be “as the foremost ritual adepts of/among men,” and most interpr. implicitly or explicitly accept this analysis.
 
@@ -272,8 +275,6 @@ Und wir möchten als die sieben Sänger von der Mutter Usas geboren werden als d
 Пусть расколем мы, пылающие, скалу, полную сокровищ!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -294,7 +295,7 @@ Und wir möchten als die sieben Sänger von der Mutter Usas geboren werden als d
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो राजा लोग बुद्धिमान् मन्त्रियों का सत्कार करके रक्षा करते हैं, वे सूर्य्य के सदृश प्रकाशित यशवाले होते हैं और सभी काल में उद्योगियों की रक्षा और दुष्टों का निरन्तर ताड़न करें, जिससे कि सब शुद्ध आचरणवाले होवें ॥१५॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो राजा लोग बुद्धिमान् मन्त्रियों का सत्कार करके रक्षा करते हैं, वे सूर्य्य के सदृश प्रकाशित यशवाले होते हैं और सभी काल में उद्योगियों की रक्षा और दुष्टों का निरन्तर ताड़न करें, जिससे कि सब शुद्ध आचरणवाले होवें ॥१५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

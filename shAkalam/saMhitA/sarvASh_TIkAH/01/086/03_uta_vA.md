@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। यस्य। वाजिनः- गतिमत्यो धियः। विप्रम्- मेधाविनं मरुद्गणम्। अनु अतक्षत-  तनूकुर्वन्ति। तक्षू तनूकरणे। सः। गोमति- चिद्रश्मियुख्नायाम्। व्रजे- गतौ। व्रज गतौ।  अर्चिरादिमार्गे। गन्ता- गमनशीलो भवति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **वा** अपि च **यस्य** यजमानस्य **वाजिनः** हविर्लक्षणान्नोपेता ऋत्विजः **विप्रं** मेधाविनं मरुद्गणम् **अनु** **अतक्षत** हविष्प्रदानादिना तीक्ष्णीकुर्वन्ति **सः** यजमानः **गोमति** बहुभिर्गोंभिर्युक्ते **व्रजे** गोष्ठे **गन्ता** गमनशीलो भवति । अतक्षत।  ‘ तक्षु त्वक्षू तनूकरणे'। छान्दसो लङ् । व्यत्ययेन मध्यमः । गन्ता । गमेस्ताच्छीलिकः तृन् ।
@@ -176,7 +179,6 @@ Or for which prize-seeker you fashioned an inspired poet to follow, he will go t
 As noted in the published introduction, I take the vājín- here to be the patron, for whom the Maruts create a worthy poet.
 
 I take gántā as a periphrastic future. VII.32.10 gámat sá gómati vrajé is entirely parallel, save for having a subjunctive (gámat) in place of the agent noun here, which suggests a future sense for the latter.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -210,8 +212,6 @@ Und welches reichen Opferherrn Lobsänger ihr erkoren habt, Der kommt zu rinderr
 Тот достигает загона, полного коров.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -227,7 +227,7 @@ Und welches reichen Opferherrn Lobsänger ihr erkoren habt, Der kommt zu rinderr
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वाजिनः) उत्तम विज्ञानयुक्त विद्वानो ! तुम (यस्य) जिस क्रियाकुशल विद्वान् (वा) पढ़ानेहारे के समीप से विद्या को प्राप्त हुए (विप्रम्) विद्वान् को (अन्वतक्षत) सूक्ष्म प्रज्ञायुक्त करते हो (सः) वह (गोमति) उत्तम इन्द्रिय विद्या प्रकाशयुक्त (वज्रे) प्राप्त होने के योग्य मार्ग में (उत) भी (गन्ता) प्राप्त होवे ॥ ३ ॥
+पदार्थान्वयभाषाः -  (वाजिनः) उत्तम विज्ञानयुक्त विद्वानो ! तुम (यस्य) जिस क्रियाकुशल विद्वान् (वा) पढ़ानेहारे के समीप से विद्या को प्राप्त हुए (विप्रम्) विद्वान् को (अन्वतक्षत) सूक्ष्म प्रज्ञायुक्त करते हो (सः) वह (गोमति) उत्तम इन्द्रिय विद्या प्रकाशयुक्त (वज्रे) प्राप्त होने के योग्य मार्ग में (उत) भी (गन्ता) प्राप्त होवे ॥ ३ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

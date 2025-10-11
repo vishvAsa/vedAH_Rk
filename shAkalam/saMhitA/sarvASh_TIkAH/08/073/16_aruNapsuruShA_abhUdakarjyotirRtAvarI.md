@@ -3,7 +3,6 @@ title = "016"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः सप्तवध्रिर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अरुणप्सुः- रोचमाना। उषाः। अभूत्- अभवत्। ऋतावरीः- ऋतम्भरा। ज्योतिः- प्रकाशम्।  अकः- अकरोत्॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **उषाः** **अरुणप्सुः** शुभ्रवर्णा **अभूत्** भवति । न केवलं स्वयम् । **ज्योतिः** तेजः **अकः** करोति **अन्ति** सर्वतः **ऋतावरी** ऋतवत्युषाः ॥
@@ -204,8 +207,6 @@ Die Morgenröthe strahlte mit rothem Glanze und machte Licht, die heilige.
 Соблюдая закон, она создала свет.  
 Пусть ваша помощь будет рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

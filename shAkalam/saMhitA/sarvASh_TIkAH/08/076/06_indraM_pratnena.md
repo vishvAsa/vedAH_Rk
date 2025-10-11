@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अस्य- एतस्य। सोमस्य- रसस्य। पीतये- अनुभूतये। मरुत्वन्तम्। इन्द्रम्। प्रत्नेन- सनातनेन।  मन्मना- मननेन। हवामहे- आह्वयामः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मरुत्वन्तम्** **इन्द्रं** **प्रत्नेन** पुराणेन **मन्मना** मननीयेन स्तोत्रेण **हवामहे** **अस्य** **सोमस्य** **पीतये** पानाय ॥ ॥ २७ ॥
@@ -153,10 +156,6 @@ Den marutbegleiteten Indra rufen wir mit einem alten Gedicht zum Trunk dieses So
 
 Den Indra mit der Marutschar, ihn laden wir nach alter Art Zum Trunke dieses Soma's ein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्यावः- द्युलोकाः। भूमीः- क्षितयः। उत- अपि च। स्युः- ये भवन्ति ते सर्वे। शतं शतम्- प्रभूताः।  इन्द्र। ते- त्वां न व्याप्नुवन्ति। वज्रिन्- वज्रपाणे। त्वा- त्वाम्। जातम्- उद्भूतम्। सहस्रं सूर्याः-  अनन्तसूर्या अपि। रोदसी- द्यावापृथिव्यावपि। न। अष्ट- व्याप्नुवन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र**  
@@ -240,7 +243,6 @@ _________
 यद्द्याव इति पूर्ववत्पथ्याबृहती । **अनु** इति तृतीयपादन्तः ॥ हे इन्द्र ते तव यत् यद्यपि द्यावः द्युलोकाः शतं स्युः उत अपिच भूमीः भूमयोपि यद्यपि शतं स्युः, तथापि वज्रिन् रोदसी द्यावापृथिव्यौ त्वां जातमात्रमपि नान्वष्ट नाश्नुवाते नानुव्याप्नुतः तवैश्वर्याधारत्वाय न पर्याप्नुतः । तथा यद्यपि सहस्रं सूर्यास्स्युः, तथापि ते त्वां तेजसा नान्वश्नुते । अश्नोतेः छान्दसे लङि वचनव्यत्ययेनैकवचनम्, शपो लुक्, 'बहुलं छन्दस्यमाङ्योगेपि' इत्यडागमः । यद्यपि शतं द्यावस्स्युः भूमयश्च सूर्याश्च सहस्रं ये रोदसी ये च सूर्याः त इन्द्रं नान्वष्ट । 'नपुंसकमनपुंसकेन' इति नपुंसकस्य शेषः, एकवचनं च ' ॥
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 If a 100 Heavens o indra,  
@@ -250,7 +252,6 @@ even as you were born, nor were world-hemispheres.
 
 shleSha in aShTa- indicating holy numbers 100+8; 1000+8 though in terms of semantics I believe it is the modal verb from root ash
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -294,10 +295,6 @@ Wenn dir, Indra, auch hundert Himmel und hundert Erden wären, nicht tausend Son
 
 Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausend Sonnen nicht dich, Blitzender, nicht das Geschaffne, Welten nicht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

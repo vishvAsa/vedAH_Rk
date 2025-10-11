@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेधातिथिमेध्यातिथी काण्वौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्य- इदानीम्। ववातुः- स्तोतुः। सख्युः- मित्रस्य। सधस्तुतिम्- सह क्रियमाणां स्तुतिम्। आ  गहि- आगच्छ। मघोनाम्- हव्यवताम्। उपस्तुतिः। त्वा- त्वाम्। प्र- प्रकर्षेण। अवतु- गच्छतु।  अध- अथ। ते- तव। सुस्तुतिम्- शोभनस्तवम्। वश्मि- कामये॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **वावातुः** संभक्तुस्त्वां सेवमानस्य **सख्युः** स्तोतुः **सधस्तुतिम्** अन्यैर्ऋत्विग्भिः सह क्रियमाणां स्तुतिम् **अद्य** इदानीं **तु** क्षिप्रम् **आ** **गहि** आगच्छ । **मघोनां** हविष्मतामन्येषामपि यजमानानाम् **उपस्तुतिः** स्तोत्रं **त्वा** त्वां **प्र** **अवतु** प्रगच्छतु प्रतर्पयतु वा। **अध** अधुना **सुष्टुतिं** त्वद्विषयां शोभनां स्तुतिमहमपि **वश्मि** कामये ॥
@@ -228,8 +231,6 @@ Come here today to the joint praise from your favorite and comrade. Let the invi
 <details><summary>Jamison Brereton Notes</summary>
 
 The phraseology of this verse echoes some previous ones: its opening ā́tv àdyá is identical to 10a, and vāvā́tar- ‘favorite’ occurs in the RV only here and in 8b (in the same position).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
@@ -263,8 +264,6 @@ Komm heute zu dem Lobgesang das liebenden Genossen her; Erfreuen möge dich der 
 Похвала щедрых дарителей пусть поддержит тебя!  
 Поэтому я желаю тебе прекрасного восхваления.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - सदापृण आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वे- सर्वे अङ्गिरसः। अस्याः- एतस्याः। माहिनायाः- महत्या उषसो ज्ञानोदयदेवतायाः। व्युषि-  व्युच्छने। यत्- यदा। गोभिः- धेनुभिश्चिद्रश्मिभिः। अङ्गिरसः- अङ्गनशीला ऋषयः। सम्-  सम्यक्। नवन्त- अभिगताः। आसाम्- गवां चिद्रश्मीनाम्। उत्सः- उत्स्रावः। परमे सधस्थे-  उत्तमे सदने भवन्ति। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। पथा- मार्गेण। सरमा- जिज्ञासाधिदेवता  देवशुनी। गाः- धेनूश्चिद्रश्मीन्। विदत्- लेभे॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वे** सर्वे **अङ्गिरसः** **माहिनायाः** मंहनीयायाः **अस्याः** उषसः **व्युषि** व्युच्छने सति गवामावरकेऽन्धकारेऽपवृते सति **यत्** यदा **गोभिः** **सं** **नवन्त** संजग्मिरे तदा **आसां** गवाम् **उत्सः** क्षीराद्युत्स्रावः **परमे** उत्कृष्टे **सधस्थे** सहस्थाने यज्ञे उपयुक्तोऽभवदित्यर्थः। **ऋतस्य** सत्यस्य **पथा** मार्गेण **सरमा** वाक् देवशुनी वा **गाः** निगूढाः **विदत्** अलभत । यद्वा । आसां गवां परमे सधस्थे सहस्थाने व्रजस्य निगूहनप्रदेश उत्स उदकस्य प्रस्रवणो वर्तते । बिलमित्यर्थः । तेन ऋतस्य उदकस्य पथा मार्गेण सरमा गा विदत् ॥
@@ -242,8 +245,6 @@ It is possible that b is a conversion into a subordinate clause of IV.3.11b sám
 The 2nd hemistich brings another syntactic problem: in c the Pp. interprets útsa (before a vowel) as nom. -aḥ, a grammatical ident. that in turn requires that c be an independent clause. The Pp. reading is defended by Oldenberg and fld. by many, incl. Geldner, Hoffmann (Injunk. 165), Witzel Gotō. With Lüders (385 n. 2; fld. by Schmidt p. 177, Janert p.
 
 10) I prefer the loc. útse, parallel to paramé sadhásthe, and defining the place where Saramā found the cows in d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -277,8 +278,6 @@ Als da bei dieser grossen Göttin Leuchten die Angirasen mit den Kühen brüllte
 Их источник (находился) в отдаленнейшем месте.  
 На правильном пути Сарама нашла коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

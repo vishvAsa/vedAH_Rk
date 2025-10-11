@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रा वरुणा- हे इन्द्रावरुणौ। इन्द्र ईशनाधिदेवता। वरुणः ऋताधिदेवता। यः। वाम्- युवयोः।  हृदि- हृदये। क्रतुमान्- प्रज्ञायुख्नः। अस्मदुख्नः- अस्माभिर्भणितः। नमस्वान्- नमस्कारपूर्वः।  इन्द्रावरुणा- इन्द्रावरुणौ। पस्पर्श- स्पृष्टवान्। सः। कः। स्तोमः- मन्त्रः। हविष्मान्- हव्ययुख्नः।  अमृतः- अमरणधर्मा। होता- अग्निः। न- इव। वाम्- युवयोः। सुम्नम्- आनन्दम्। आप॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्रा** हे **वरुणा** हे इन्द्रावरुणौ । परस्परापेक्षया द्विवचनम् । **वां** युवयोः **सुम्नं** सुखं **कः** **स्तोमो** **हविष्मान्** हविर्भिरुपेतः सोमाज्यादिप्रदेयद्रव्योपेतं कतमत् स्तोत्रं सुम्नम्न **आप** । फलकत्वेन प्राप्नुयादित्यर्थः । यद्वा । हविष्मानित्येतदुत्तरत्र योज्यम् । हविष्मान् हविर्युक्तः **अमृतः** अमरणलक्षणः स्वर्गसाधनो **होता** अग्निरिव । स यथा तथा **यः** स्तोमो हे इन्द्रावरुणौ **वां** युवयोः **हृदि** हृदये **क्रतुमान्** प्रज्ञोपेतः **अस्मत्** अस्मत्सकाशात् **उक्तः** उदितः **नमस्वान्** हविष्मान् नमस्कारोपेतो वा **पस्पर्शत्** स्पृशेत् हृदयंगमो भवेत् । स क इति स्तोमप्रशंसा ॥
@@ -256,8 +259,6 @@ O Indra and Varuṇa, which praise song obtains your favor, bringing  oblations 
 I am unhappy with the preterital value (‘has obtained’) universally assigned (incl. Kümmel 115) to āpa in pāda a, because it ill-fits the subj. paspárśat ‘will touch’ in d.
 
 My ‘will obtain’ is a wishful thinking, however, at odds with the grammar. I would emend to ‘obtains’, with a presential value that Kümmel (116) allows for some passages.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -292,8 +293,6 @@ Welch Lob gefällt euch, Varuna und Indra, versehn mit Opfer, wie der Priester A
 Вашего сердца, о Индра-Варуна вместе с поклонением?
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रावरुणौ
@@ -314,7 +313,7 @@ Welch Lob gefällt euch, Varuna und Indra, versehn mit Opfer, wie der Priester A
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे अध्यापक और उपदेशको ! जो दाता जन के सदृश पुरुषार्थी, बुद्धिमान्, नम्र, शान्त, सत्कार करनेवाले और माता-पिता से उत्तम प्रकार शिक्षित होवें, उनको पढ़ा और उपदेश देकर लक्ष्मीयुक्त और श्रेष्ठ करो ॥१॥
+भावार्थभाषाः -  हे अध्यापक और उपदेशको ! जो दाता जन के सदृश पुरुषार्थी, बुद्धिमान्, नम्र, शान्त, सत्कार करनेवाले और माता-पिता से उत्तम प्रकार शिक्षित होवें, उनको पढ़ा और उपदेश देकर लक्ष्मीयुक्त और श्रेष्ठ करो ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

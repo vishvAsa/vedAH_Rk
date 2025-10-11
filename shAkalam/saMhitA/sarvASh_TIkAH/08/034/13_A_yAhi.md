@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पर्वतेभ्यः- गिरिभ्यो मेघेभ्यो वा। समुद्रस्य- अर्णवस्यान्तरिक्षस्य। अधि। विष्टपः-  विष्टपाच्च॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **पर्वतेभ्यः** **आ** **याहि** आगच्छ । **समुद्रस्य** अन्तरिक्षस्य **विष्टपः** विष्टपाच्च **अधि** आयाहीत्यर्थः । सिद्धमन्यत् ॥
@@ -199,8 +202,6 @@ O komme von den Bergen her und von des Meeres weitem Raum; Von jenes Herrschers 
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

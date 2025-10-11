@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। यः। ते- तव। चित्रश्रवस्तमः- अतिशयेनासाधारणातीन्द्रियश्रुतिमान्। वृत्रहन्तमः-  अतिशयेनावरणबाधकः। ओजोदातमः- अतिशयेन बलदायकः। मदः- हर्षः॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** चित्रश्रवस्तमः अतिशयेन नानाविधकीर्तिः **यः** **मदः** सोमः **ते** त्वदर्थमस्माभिरभिषुतः । **यः** सोमः **वृत्रहन्तमः** अतिशयेन पापानां हन्ता । किंच **यः** सोमः **ओजोदातमः** अतिशयेन बलस्य दाता । तेनास्माभिर्दीयमानेन सोमेन त्वं माद्येरिति पूर्वेण संबन्धः ॥
@@ -181,10 +184,6 @@ Der dein ruhmglänzendster, der dein feindetötendster, der dein kraftverleihend
 
 Welch Rausch den höchsten Ruhm verdient und, Indra, bestens Feinde schlägt, Der dir am meisten Kraft verleiht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

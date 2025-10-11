@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- यूयम्। उग्राय- उद्गूर्णाय। निष्टुरे- शत्रून्निस्तरते। अषाळ्हाय- असह्याय। प्रसक्षिणे-  प्रसहनशीलाय। देवत्तम्- देवलब्धम्। ब्रह्म- मन्त्रम्। प्र- प्रकर्षेण। गायत- कीर्तयत॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे उद्गातारः **वः** यूयम् **उग्राय** उद्गूर्णाय **निष्टुरे** शत्रून्निस्तरते **अषाळ्हाय** शत्रूणामभिभवित्रे **प्रसक्षिणे** प्रसहनशीलायेन्द्राय **देवत्तं** देवप्रसादलब्धं **ब्रह्म** स्तोत्रं **प्र** **गायत** ॥
@@ -154,7 +157,6 @@ sing your god-given formulation—
 <details><summary>Jamison Brereton Notes</summary>
 
 The “who lays low” of the published translation might be better “who lays (enemies [vel sim.]) low,” to make clear that a transitive sense is required.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
 <details open><summary><h2>27-28 ...{Loading}...</h2></summary>
@@ -185,8 +187,6 @@ Auf, eurem starken, fällenden, dem unbesiegten Sieger singt Das gottverliehene 
 Неодолимому, (но) одолевающему,  
 Данное богами священное слово!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

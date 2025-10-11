@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। विदे- जानासि तथा। गोपतिम्- चिद्रश्मीनां पालकम्। सत्यस्य। सूनुम्- तनयम्।  सत्पतिम्- सतां पालकम्। इन्द्रम्। गिरा- वाचा। अभि- आभिमुख्येन। प्र- प्रकर्षेण। अर्च-  पूजय॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गोपतिं** गवां स्वामिनम् **इन्द्रम्** **अभि** **प्र** **अर्च** । प्रकर्षेण पूजय स्तुत्या । **यथा** **विदे**  स यथा स्वात्मानं स्तुतप्रकारं जानाति यथा वा यागं प्रति गन्तव्यमिति जानाति तथार्चेति । कीदृशमिन्द्रम् । **सत्यस्य** यज्ञस्य सत्यस्य वा **सूनुं** पुत्रम् । तत्रानुरक्तत्वात् सूनुरित्युपचर्यते । **सत्पतिं** सतां यजमानानां पालकम् ॥
@@ -203,10 +206,6 @@ Besinge mit deiner Lobrede den Herrn der Kühe Indra, den Sohn der Wahrheit, den
 
 Auf, preis' mit Lied den Rinderherrn, den Indra, wie es sich gebührt, Den starken Herrn, der Wahrheit Sohn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    निघोषयन्- नितरां गर्जन्। ओजसा- बलेन। क्रिविम्- विकृत्तम्। शुष्णम्- शोषकम्। यः। अभि  ननक्षे- अभिव्याप्नोति। यदा। इत्- एव। प्रथयन्- आत्मानं पृथुं कुर्वन्। अमूं दिवम्- नभः।  अस्तम्भीत्- स्तम्भितवान्। आदित्- तदैव। पार्थिवः- भौमोग्निः। जनिष्ट- अजायत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -263,8 +266,6 @@ Als er, der kräftig mit Keulenschlägen den Wasserschlauch erlangte, und Çusch
 А когда он укрепил (и) распространил то небо,  
 Вот тогда и земной обитатель родился.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

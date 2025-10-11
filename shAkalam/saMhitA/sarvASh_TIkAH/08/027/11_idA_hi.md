@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मनुर्वैवस्वतः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्ववेदसः- सर्वज्ञाः। वामस्य भख्नये- कल्याणभजनाय। इदा- इदानीम्। वः- युष्माकम्।  उपस्तुतिम्। नमस्युः- नमस्कारकामः। अन्यामिव- साधारणचित्तातीतानुभूतिमिव स्थिताम्। अन्यस्य चित्तमधि संचरेण्यमिति श्रुतौ अन्यशब्दस्य साधारणचित्तातीतानुभूतिरित्यर्थो दृष्टः। उप  आ असृक्षि- उपसृजामि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्ववेदसः** सर्वधना हे देवाः **नमस्युः** अन्नमिच्छन् मनुरहं **वः** युष्मद्विषयाम् **उपस्तुतिम्** **अन्यामिव** अदृष्टपूर्वामिव स्थिताम् । कैश्चिदप्यकृतामित्यर्थः । तादृशीमुपस्तुतिम् **इदा** **हि** ।
@@ -229,10 +232,6 @@ Denn jetzt habe ich an euch ein Preislied, jetzt um Anteil an dem Gut zu erlange
 
 Denn hier hab' ich ergossen euch das Lob, um Schönes zu empfahn, Vor euch mich beugend, o die ihr allwissend seid, wie einen Strom, der nie versiegt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

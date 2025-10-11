@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्म- मननीयम्। पूर्व्यं- पुराणम्। ब्रह्म। अस्तावि- समर्पितम्। इन्द्राय- परमेश्वराय। वोचत-  मन्त्रान् ब्रूत। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। बृहतीः- महतीः। पूर्वीः- पुराणीः। अनूषत-  स्तुतवन्तः। स्तोतुः। मेधाः। असृक्षत- सृष्टाः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -213,8 +216,6 @@ Gesungen ist das alte Lied, dem Indra habt ihr das Gebet gesprochen; erklungen s
 Прозвучало много высоких (песен) обряда.  
 Излились вдохновенные мысли восхвалителя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

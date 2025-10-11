@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - एकद्यूर्नौधसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सीम्- सर्वतः। अवद्यः- दोषः। मा आ भाक्- मा भजतु। उर्वी- विस्तृतासु। काष्ठा- दिक्षु।  धनम्। हितम्- निहितम्। अरत्नयः- अरममाणाः शत्रवः। अपावृख्नाः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मा** अस्मान् **सीं** सर्वतः **अवद्यः** निन्दा **आ** **भाक्** माभजतु । प्राप्नोतु न कुतश्चित् । पापरहितान् कुर्वित्यर्थः। किंच **उर्वी** **काष्ठा** बह्वन्तरालमाज्यन्तः । ‘आज्यन्तोऽपि काष्ठोच्यते क्रान्त्वा स्थिता भवति' (निरु. २. १५) इति यास्कः । तत्र **हितं** निहितं शत्रुसंबन्धि **धनम्** अस्माकं भवत्वित्यर्थः । **अरत्नयः** अरममाणाः शत्रवः **अपावृक्ताः** सन्त्विति शेषः ॥
@@ -186,10 +189,6 @@ Bring sie nicht in Unehre; weit ist die Rennbahn, ausgesetzt der Preis, gespreiz
 
 O theile nicht geringes zu, frei ist die Bahn, gesetzt der Preis, Die Schranken schon hinweggethan.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

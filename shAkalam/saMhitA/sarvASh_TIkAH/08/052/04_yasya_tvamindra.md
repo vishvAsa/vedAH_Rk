@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। त्वम्। इन्द्र- परमेश्वर। स्तोमेषु- मन्त्रेषु। चाकनः- कामयसे। वाजे- यज्ञे। वाजिन्-  गतिशील। शतक्रतो- प्रभूतप्रज्ञ। तम्। त्वा- त्वाम्। वयम्। सुदुघाम्- शोभनदोग्ध्रीं गावम्।  गोदुहः- गोदोग्धारः। इव। श्रवस्यवः- श्रुतिकामाः। जुहूमसि- आह्वयामः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -247,8 +250,6 @@ An wessen Lobliedern du, o Indra, Gefallen findest und an wessen Labung, [dem bi
 Тебя, такого, мы, как доильщики хорошо доящуюся корову,  
 Зовем, жаждя славы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

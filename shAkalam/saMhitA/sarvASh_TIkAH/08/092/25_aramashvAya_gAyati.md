@@ -3,7 +3,6 @@ title = "025"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रुतकक्षः- श्रुतविद्यावर्गः। अश्वाय- तुरगाय प्राणाय। गवे- धेनवे चिद्रश्मये। अरम्- अलम्।  गायति। इन्द्रस्य। धाम्ने- स्थानाय। अरं गायति॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 श्रुतकक्षो नामर्षिः गवाश्वादिन्द्रं स्तौति । अयं **श्रुतकक्षः** एतन्नामक ऋषिः **अश्वाय** इन्द्रेण दीयमानायाश्वायैतदर्थम् **अरम्** अलं **गायति** इन्द्रविषयं स्तोत्रं करोति । तथा **गवे** **अरम्** अलं गायति । **इन्द्रस्य** इन्द्रकर्तृकाय **धाम्ने** गृहाय तदर्थं च **अरं** पर्याप्तं स्तौति । यदश्वादिकमिन्द्रः प्रयच्छति तस्मै गायतीति । यद्वा । इन्द्रस्येति कर्मणि षष्ठी । गवादिलाभार्थमिन्द्रं स्तौति ॥
@@ -155,6 +158,7 @@ Sings for ahorse: indrasya dhāmne = for a house given by Indra; or, Indra's hea
 On kukṣí- as originally ‘cheek’, not ‘belly’, see Jamison 1987; also for the pun on dhā́man- ‘foundation’, hence ‘fundament’, that is, ‘buttocks, bottom’, in vs. 24, but, in vs. 25, ‘foundation, establishment’ in the sense of ‘bestowal’; also the jocular name Śrutakakṣa in 25.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details open><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -181,10 +185,6 @@ Srutakaksa singt genügend für ein Roß, genügend für ein Rind, genügend fü
 
 Dem Rosse passend und dem Rind, stimmt Çrutakakscha Lieder an, Und passend, Starker, deiner Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

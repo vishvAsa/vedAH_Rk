@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। मेध्यातिथिम्- यज्ञार्हातिथिम्। मघवन्- इन्द्र। प्रावः- प्रकर्षेण अरक्षः। यथा। धने निमित्ते  सति। नीपातिथिम्- दीनमतिथिम्। अरक्षः। तथा। एतावतः- एतादृशमेव। गोमतः- ज्ञानयुख्नम्।  सुम्नस्य- आनन्दम्। इन्द्र- परमेश्वर। ते- त्वत्तः। ईमहे- याचामहे॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -209,8 +212,6 @@ So grosse rinderreiche Gunst begehren, Indra, wir von dir, Wie, mächtiger, dem 
 Как (та, которую) о щедрый, ты оказал Медхьятитхи,  
 Как (та, которую) - Нипатитхи (при захвате) богатства,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

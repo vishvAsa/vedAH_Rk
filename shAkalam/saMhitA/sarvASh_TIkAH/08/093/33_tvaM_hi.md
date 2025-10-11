@@ -3,7 +3,6 @@ title = "033"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणनाशक। त्वम्। हि- खलु। एषाम्- एतेषाम्। सोमानाम्- रसानाम्। पाता-  अनुभावुकः। असि- भवसि॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्रस्य पापस्य वा हन्तरिन्द्र । हिशब्दो हेत्वर्थे। यस्मात् **त्वम्** **एषाम्** अस्मदीयानां **सोमानां** **पाता** पानकर्ता **असि** भवसि । एषाम् इति इदमोऽन्वादेशे अशोदेशोऽनुदात्तश्च । अतस्त्वम् अश्वैः सह सोमं पातुमुपयाहि आगच्छ ॥
@@ -190,10 +193,6 @@ Denn du, Vritratöter, bist der Trinker dieser Soma´s; komm mit den Falben zu u
 
 Denn du, o Vritratödter, bist's, der diese Somasäfte trinkt, Mit Füchsen komm zu unserm Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

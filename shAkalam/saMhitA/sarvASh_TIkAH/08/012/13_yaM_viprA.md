@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। उक्थवाहसः- मन्त्रवाहकाः। आयवः- मनुष्याः। विप्राः- मेधाविनः। अभिप्रमन्दुः- आभिमुख्येन  प्रकर्षेण मादयन्ति। घृतम्- पूतनवनीतम्। आसनि- आस्ये। न- इव। ऋतस्य- सत्यस्य। यत्-  सम्बन्धि यत्कर्म तत्। पिप्ये- रसाप्यायनेन वर्धये॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विप्राः** मेधाविनः **उक्थवाहसः** उक्थानां शस्त्राणां वोढारः प्रापयितारः **आयवः** मनुष्याः  **यम्** इन्द्रम् **अभिप्रमन्दुः** अभि प्रकर्षेण मादयन्ति ॥ मदेर्व्यत्ययेन परस्मैपदम् ।  ‘ द्विर्वचनप्रकरणे छन्दसि वा ' ( का. ६. १. ८. १) इति वचनात् द्विर्वचनाभावः ॥ तस्येन्द्रस्य **आसनि** आस्ये ।  ‘ पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः । **घृतं** **न** घृतमिव शुद्धं **पिप्ये** सेचनेन वर्धये । प्यायतेश्छान्दसो लिट् । लिड्यङोश्च' इति पीभावः । किं तत् । हविः। **ऋतस्य** यज्ञस्य संबन्धि **यत्** सोमलक्षणं हविरस्ति तदित्यर्थः ॥
@@ -172,8 +175,6 @@ like ghee, it swells in his mouth—(the speech) that belongs to truth.
 Geldner interprets the verb abhipramandúḥ somewhat bizarrely as ‘go on a pilgrimage to’ (“Zu dem … die … Āyu’s … pilgerten”), presumably influenced by ukthávāhasaḥ ‘whose conveyance is solemn speech’. Kümmel (357) takes the same verb as intransitive, with the yám expressing the source of pleasure (“An dem die Erregten … sich (schon immer) erfreuen”). I see no reason why it is not a straight transitive “bring to exhilaration” like other forms of the act. pf. of √mad.
 
 The question is what is the relationship between ab and c. Properly speaking, the yám should have a referent in the main clause (which is c: note the unaccented verb pipye), but there is no obvious candidate. Geldner simply treats ab as an unresolved relative clause, without comment. I assume that Indra, the presumed referent of yám in pāda a, is covertly present in c: it is his mouth in which the speech/hymn swells - the speech having been homologized to soma already by the √mad form in b. See also 4ab where praise is compared to purified ghee, which may mediate the simile in our c, ghṛtám iva. Geldner, however, seems to take the mouth as belonging to the Āyus (“… ihrem Mund”); this would make sense as the source of the speech offered to Indra. Perhaps the lack of an overt genitive limiting ‘mouth’ allows both interpretations some currency. I might therefore emend the published translation to “it swells in his/their mouth.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -206,8 +207,6 @@ Ihm, den die muntre Sängerschar durch Sprüche recht erheitert hat, Ihm schwill
 Исполнители гимнов Аю,  
 (Для того) в устах, словно жир, сочится (речь), которая истинна.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

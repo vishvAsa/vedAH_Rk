@@ -3,7 +3,6 @@ title = "009"
 devataa = "अश्विनौ (गर्भस्राविण्युपनिषत्)"
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सप्तवध्रिरात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 dáśa ← dáśa- (nominal stem)  
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जीवन्त्याः। जीवः। कुमारः- वत्सः। मातरि- जनन्याम्। अधि। दश मासान् शयानः। अक्षतः-  क्षतिरहितः। निरैतु- निर्गच्छतु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 दशमासानुषित्वासौजननीजठरेसुखं ॥ निर्गच्छतुसुखञ्जीवोजननीचापिजीवतु ॥ १ ॥ ९ ॥महेनोअद्येतिदशर्चंसप्तमंसूक्तं आत्रेयस्यसत्यश्रवसस्यार्षं पाङ्क्तमुषस्यं अनुक्रम्यतेच-महेदशसत्यश्रवाउषस्यन्तुपाङ्क्तमिति । प्रात- रनुवाकेउषस्येक्रतौपाङ्क्तेछन्दसिआश्विनशस्त्रेचेदंसूक्तं सूत्र्यतेहि-महेनोअद्येतिपाङ्क्तमिति ।
@@ -204,8 +207,6 @@ Zehn Monde lag die junge Frucht im Mutterleibe hingestreckt; sie gehe unverletzt
 Выйдет живой (и) невредимый,  
 Живой из живущей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

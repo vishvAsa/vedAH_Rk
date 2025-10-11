@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। सुन्वते- रसनिष्पादकाय। स्तुवते- स्तोत्त्रे। काम्यम्- कमनीयम्। वसु- धनम्। सहस्रेणेव-  प्रभूतम्। मंहते- यच्छति। तम्। श्रुतम्- श्रुतिप्रसिद्धम्। सुराधसम्- सुसंसिद्धम्। शक्रम्-  शख्नमिन्द्रम्। अभिष्टये- सदेषणासम्पत्तये। प्र- प्रकर्षेण। सु- सुष्ठु। अर्च- पूजय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -230,8 +233,6 @@ Den hehren, starken preis' ich nun zur Hülfe mir, der vieles schenkt, Der vielb
 (Того,) кто выжимающему (сому и) восхваляющему щедро дарует  
 Желанное добро, словно тысячей (награждает).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

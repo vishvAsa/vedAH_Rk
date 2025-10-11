@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पुरुहन्मा
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सखायः। यः। अह्रयः- अकुटिलः। सूरिः- विद्वान्। भोजः- भोख्ना। तस्य। क्रतुम्- प्रज्ञाम्।  इच्छतः- कामयमानस्य। शरस्य- तदर्थमावरणहिंसकस्येन्द्रस्य। उपस्तुतिम्- मन्त्रम्। कथा-  कथम्।  राधाम- साधयाम॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सखायः** ऋत्विजोऽध्वर्य्वादयः **क्रतुं** कर्म इन्द्रसंबन्धिनम् **इच्छत** कर्तुम् । हे सखायः **शरस्य** । ‘शॄ हिंसायाम्' । हिंसकस्येन्द्रस्य **कथा** कथं **राधाम** साधयाम । किम् । उपस्तुतिं स्तोत्रम् । **यः** इन्द्रः **भोजः** शत्रूणां भोजयिता **सूरिः** प्रेरकः **अह्रयः** अनवनतः शत्रूणामिति ॥
@@ -185,10 +188,6 @@ Ihr Freunde, suchet einen klugen Gedanken! Wie können wir das Lob des Sara tref
 
 O Freunde, erstrebt Begeisterung: Wie vollenden wir das Lob des Çara, welcher ein freigiebiger, reichlich schenkender Herr ist?
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

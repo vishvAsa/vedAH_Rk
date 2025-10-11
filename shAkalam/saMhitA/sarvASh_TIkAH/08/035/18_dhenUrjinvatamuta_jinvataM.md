@@ -3,7 +3,6 @@ title = "018"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धेनूः- गा रश्मीन्। जिन्वतम्। उत- अपि च। विशः- प्रजाः। जिन्वतम्। ॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **धेनूर्जिन्वतम्** । **उत** अपि च **विशः** वैश्यांश्च **जिन्वतम्** । सिद्धमन्यत् ॥ ॥ १६ ॥
@@ -252,8 +255,6 @@ Die Kühe segnet, segnet die Bewohner auch, Gespenster schlaget, wehret alle Pla
 Единодушные с Ушас и Сурьей,  
 (Пейте) сому у выжимающего (его), о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- अमुम्। शश्वतीषु- नित्यासु। मातृषु- अप्सु मूलशख्निधारासु। वने- सम्भजने आरण्ये वा।  आ- समन्तात्। वीतम्- कान्तम्। अश्रितम्- रागद्वेषादिभिरनाश्रितम्। तदतीतमिति भावः।  चित्रम्- आश्चर्यभूतम्। सन्तम्- साधुम्। गुहा हितम्- हृदयगुहासु निहितम्। सुवेदम्- प्रज्ञामयम्।  कूचित्- क्वापि कस्यापि हृदये। अर्थिनम्- परमार्थं याचमानमुपासते॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शश्वतीषु** बह्वीषु **मातृषु** अप्सु । ताः सस्यादिनिर्मातृकत्वात् मातर इत्युच्यन्ते । **वने** **आ** वृक्षसमूहे च । आकारश्चार्थे । **सन्तं** विद्यमानं **वीतं** कान्तम् **अश्रितं** प्राणिभिर्दाहभयात् असेवितम् । दुरासदमित्यर्थः । **चित्रं** चायनीयं **गुहा** गुहायां **हितं** निहितं **सुवेदं** सुविज्ञानं सुधनं वा **कूचिदर्थिनं** क्वापि हविष्यर्थिनं समिदाज्यपुरोडाशादि हविः स्वीकुर्वन्तम् ॥ क्व इत्यत्र वकारस्य छान्दसे संप्रसारणे परपूर्वत्वे च ' हलः' इति दीर्घत्वम् ॥ एवंभूतं **तम्** अग्निं निषेदिरे इति पूर्वेण संबन्धः ॥
@@ -216,8 +219,6 @@ knows where.
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is structured as a series of paradoxes, one per pāda. The least clear is in pāda a, since there is only one qualifier, the loc. śáśvatīṣu mātṛ́ṣu “in ever new mothers,” which must be construed with vītám ‘enveloped’ in b. The paradox there is that ordinarily one has only one mother and that mother is not self-renewing. The physical reference must be to the pieces of wood (his mothers) in which fire inheres and from which he flashes out one by one. This physical image is developed in b: the fire is within wood -- therefore apparently in a fixed place -- but is unfixed, in that it is in constant motion in and over the sticks of wood. In c the fire inherent in the wood, therefore hidden, is also bright when it catches. Note another instance of the root √cit, citrám (matching the same word in 1d). And finally in d, when the fire catches it’s easy to see and therefore to find, but its movements are unpredictable.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -256,8 +257,6 @@ Der in der Mütter langem Zug den Hölzern, still verborgen lag, Der glänzend i
 (Бога, который) будучи ярким, держится втайне,  
 Легко находимого, (но) неизвестно к какой цели стремящегося.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

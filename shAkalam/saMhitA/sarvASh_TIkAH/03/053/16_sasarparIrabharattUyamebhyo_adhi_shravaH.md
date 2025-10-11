@@ -3,7 +3,6 @@ title = "016"
 devataa = "वाक्"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पाञ्चजन्यासु- ब्राह्मणक्षत्रियवैश्यशूद्रनिषादेषु। कृष्टिषु- मनुष्येषु। तूयम्- क्षिप्रम्। एभ्यः-  एतेभ्यः। ससर्परीः- वाक्। श्रवः- अतीन्द्रियश्रवणम्। अधि अभरत्- आहरत्। सा। पक्ष्या-  पक्षाणामधिपतेः सूर्यस्य दुहिता ज्ञानोदयदेवता। नव्यम्- अभिनवम्। आयुः। दधाना- धारयन्ती।  याम्। मे- मम। पलस्तिजमदग्नयः- दीर्घायुषो ज्वलदग्नयः। ददुः- दत्तवन्तः॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ससर्परीः** सर्वत्र गद्यपद्यात्मकत्वेन सर्पणशीला वाग्देवता **पाञ्चजन्यासु** **कृष्टिषु** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चजनाः । तत्संबन्धिनीषु प्रजासु यत् **श्रवः** अन्नं विद्यते तन्नोऽस्मभ्यम् **अधि** अधिकं यथा भवति तथा **तूयं** क्षिप्रम् **अभरत्** भरतु संपादयतु । **पलस्तिजमदग्नयः** पलस्तयः पलिता दीर्घायुषो जमदग्नयो मुनयः **यां** वाचं सूर्यादाहृत्य **मे** मह्यं **ददुः** अददुः **पक्ष्या** पक्षस्य पक्षादिनिर्वाहकस्य सूर्यस्य दुहिता **सा** वाक् **नव्यं** नवतरम् **आयुः** अन्नं जीवनं वा **दधाना** मम कुर्वाणा भवतु ॥ पाञ्चजन्यासु ।' बहिर्देवपञ्चजनेभ्यश्चेति वक्तव्यम्' इति ञ्यप्रत्ययः । ञित्त्वादाद्युदात्तः । पक्ष्या । पक्षे भवा । दिगादित्वाद्यत् । तित्स्वरितः । नव्यम् । नवशब्दात् वस्वादित्वात् स्वार्थिको यत् । पलस्तिजमदग्नयः पलस्तयो जमदग्नयः । कर्मधारयसमासः । समासस्वरः ॥
@@ -243,8 +246,6 @@ Besides the continuing problem of sasarparī́-, the other difficulty is the hap
 strikes out on its own (though closest to Renou’s first alternative). It involves reading sā́pakṣyā̀against the Pp (but involving no change in the Saṃhitā text), to be divided sā́apakṣyā̀. The latter would be the instr. of a nominal abstract in - i yā- (see AiG II.2.840), a rare but attested type built primarily to -a-stems. Here potentially to apakṣá- ‘wingless’ (cf. AV XI.5.21), hence ‘winglessness’. What might this bizarre confection have to do with the passage? The rather flimsy connection is via the daughter of the Sun (sū́ryasya duhitā́in 15c) and a possible reference to Dawn in 16c: the same phrase návyam ā́yur dádhānā is used of Dawn in VII.80.2). (Like) the former, Sasarparī has stretched the Kuśikas’ fame to the gods; (like) the latter, she has brought fame to all the five peoples. These feats might be expected to require special forms of transport, such as wings, if the agent is not a supernatural traveler like Dawn or the Sun’s Daughter. But Sasarparī is a cow, hence wingless.
 
 I realize how fragile -- and potentially ludicrous -- this suggestion is, however, and it might be better to play it safe with something like ‘on my side’.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
@@ -289,8 +290,6 @@ Die reichlich strömende Kuh führte ihnen preisliches Gut zu bei den Geschlecht
 Она, принявшая (мою) сторону, наделяющая новым сроком жизни,  
 (Та,) которую мне дали Паласти и Джамадагни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

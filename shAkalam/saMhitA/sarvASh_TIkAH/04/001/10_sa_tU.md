@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -266,6 +264,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ। अग्निः। नः- अस्मदर्थम्। देवभख्नम्- देवसम्भजनाख्यम्। रत्नम्। अच्छ-  अभिलक्ष्य। प्रजानन्। नयतु। विश्वे- सर्वे। अमृताः- देवाः। धिया। अकृण्वन्- अकुर्वन्। पिता-  पालयित्री। जनिता- जनयित्री। द्यौः। सत्यम्- अवितथमग्निम्। उक्षन्- असिञ्चत्। उक्ष  सेचने॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रजानन्** सर्वं जानानः **सः** **अग्निः** **देवभक्तं** देवैः देवनशीलैः स्तोतृभिः संभजनीयम् **अस्य** अग्नेः संबन्धि **यत्** उत्तमं **रत्नं** धनमस्ति तद्रत्नम् **अच्छ** आभिमुख्येन **तु** क्षिप्रं **नः** अस्मान् **नयतु** प्रापयतु । **अमृताः** मरणधर्मरहिताः **विश्वे** सर्वे देवाः **धिया** हविर्वहनलक्षणेन कर्मणा हेतुना **यत्** यमग्निम् **अकृण्वन्** हविषां प्रापयितारमकुर्वन् । यस्य चाग्नेः **द्यौः** **पिता** पालयित्री **जनिता** जनयित्री च । 'अग्ने दिवः सूनुरसि प्रचेताः ' ( ऋ. सं. ३. २५. १ ) इति श्रवणात् । यद्वा । द्यौर्देवनशील आदित्यः पिता जनयिता च ।  ‘ आदित्यादग्निः' इत्याम्नानात् । **सत्यं** यथार्थभूतं तमग्निम् **उक्षन्** । घृताद्याहुतिभिरध्वर्य्वादयः सिञ्चन्ति ॥ देवभक्तम् ।  ‘ भज सेवायाम् । कर्मणि क्तः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः । उक्षन् । उक्ष सेचने'। लङि रूपम् ।  ‘ बहुलं छन्दसि ' इत्यडभावः ॥
@@ -295,8 +298,6 @@ More difficult is the configuration of cd. All the standard interpr. (incl.
 Hoffmann), save for Oldenberg (both SBE and Noten), take final ukṣan as the voc. sg. of ukṣán- ‘ox’, referring to Agni. I prefer, with Oldenberg, to take ukṣan as a 3rd pl. injunc.
 
 main-clause verb (√ukṣ ‘sprinkle’), with the subj. the immortals of c. The image is of the gods first creating the treasure and then bringing it to life like a watered plant. In favor of the majority interpr, I must concede, is the common idiom satyám √kṛ ‘make real’, which would in fact complement my interpr. of santi satyā́in 7a, but I find a voc. address to Agni in the middle of 3rd ps. reff. to him (10ab, 11, not to mention vss. 6-9) awkward. Renou refers to “l’étrangeté d’un tel Voc.,” despite explicitly rejecting Oldenberg’s finite verb interpr. And what is the treasure? A slightly different phrase rátnam … dyúbhaktam (rather than devábhaktam as here) returns in vs. 18, where it seems to refer to the light of Dawn in the form of the cows released from the Vala cave; here I think it may be the light of the newly kindled ritual fire -- and of course the lights of Dawn and the fire of the dawn ritual can be superimposed upon and identified with each other. If the light of the new fire is the primary referent in this vs., ukṣan ‘sprinkled’ may refer to sprinkling ghee on the fire, which action would cause it to blaze up. The next vs. (11), which describes the birth of Agni, fits this interpr.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
@@ -335,8 +336,6 @@ Uns führe Agni, der des Weges kundig, zu gottertheiltem Schatze, der ihm eigen 
 Которое, благодаря поэтической мысли, все бессмертные сделали  
 Истинным, (а также) Отец-Небо, родитель, о бык!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

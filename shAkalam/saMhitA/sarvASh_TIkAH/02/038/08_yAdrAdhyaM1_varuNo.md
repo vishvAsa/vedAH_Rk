@@ -3,7 +3,6 @@ title = "008"
 devataa = "सविता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जर्भुराणः- सरन्। वरुणः- वरणीयः सूर्यः। निमिषि- क्षणेन। याद्राध्याम्- यातां गच्छतां  संराध्यम्। अप्यम्- आप्तुं योग्यम्। अनिशितम्- अतीक्ष्णं मृदुम्। योनिम्- सदनम्। यच्छति।  विश्वः- सर्वः। मार्ताण्डः- सूर्य आत्मा। पशुः- जीवः। पश्यतीति पशुर्द्रष्टा जीवः। व्रजम्-  स्वात्मानमेव स्वचिद्रश्मिभिः। आगात्। प्रभाते तु। सविता- आत्मा प्रेरकः। जन्मानि- जीवान्।  स्थशः- स्थाने स्थाने। व्याकः- पृथक्करोति। स्वापे चित्किरणैरात्मन्येव एकीभूयानन्तरं जाग्रति  चित्किरणान् स्वात्मन एव प्रकटयतीति भावः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वरुणः याद्राध्यं यातां गच्छतां राध्यंराधनीयं अप्यंआप्तुंयोग्यं अनिशितं अतीक्ष्णं सुखकर मितियावत् योनिंस्थानन्निमिषि निमेषे सवितुरस्तमयेसति विश्रमार्थम्प्राणिभ्यः प्रयच्छति वरुण स्यरात्रेर्निर्वाहकत्वात् जर्भुराणोभृशङ्गच्छन् विश्वः सर्वोमार्ताण्डोम्रुतात् भिन्नादण्डादुत्पद्यमानः पक्षी आगात् आगच्छति विश्वःपशुरपि व्रजं गोष्ठमागात् सविताप्रेरकः स्थाशः स्थानेस्थानेज न्मानिजातानिभूतानिव्याकः पृथगकार्षीत् ॥ ८ ॥
@@ -254,8 +257,6 @@ The sense of nimíṣi is unclear. My tr. “at (every) blink of the eye” take
 
 ‘stemming from a dead egg’, found otherwise in the RV in the creation hymn X.72.8-9 in the myth of Aditi and the birth of her sons. The last son born (or rather the egg miscarried), mārtāṇḍá-, is the ancestor of mortals; for disc. of the word and the myth see Hoffmann 1976 (=1992: 723). That half of this vs. is devoted to Varuṇa and the next vs. has the great trio of Aditi’s sons, Mitra, Varuṇa, and Aryaman, provides further evidence that the Mārtāṇḍa of the Aditi birth story is meant. Under this interpr., the domestic herd animal (paśú-) is paired with the likewise domesticated human, each in its own pen.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -291,8 +292,6 @@ So gut er kann, sucht auf den Schooss der Wasser der Fisch am Abend, er, der ras
 Савитар распределил существа по месту (их) обитания.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता
@@ -308,7 +307,7 @@ So gut er kann, sucht auf den Schooss der Wasser der Fisch am Abend, er, der ras
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (विश्वः) समस्त (मार्त्ताण्डः) सूर्य्यलोक में उत्पन्न और (निमिषि) निमेषादि काल व्यवहार में (जर्भुराणः) निरन्तर धारण करता हुआ (वरुणः) श्रेष्ठ जीव (व्रजम्) गोण्ड़े को (पशुः) जैसे पशु वैसे (याद्राध्यम्) जानेवालों से अच्छे प्रकार सिद्ध होने योग्य (अप्यम्) जलों में प्रसिद्ध (अनिशितम्) अतीक्ष्ण (योनिम्) कारणरूप अग्नि को (आ,गात्) प्राप्त होवे उस जीव के (स्थशः) बहुत ठहरनेवाले (जन्मानि) जन्मों को (सविता) परमात्मा (व्याकः) विविध प्रकार से करता है ॥८॥
+पदार्थान्वयभाषाः -  जो (विश्वः) समस्त (मार्त्ताण्डः) सूर्य्यलोक में उत्पन्न और (निमिषि) निमेषादि काल व्यवहार में (जर्भुराणः) निरन्तर धारण करता हुआ (वरुणः) श्रेष्ठ जीव (व्रजम्) गोण्ड़े को (पशुः) जैसे पशु वैसे (याद्राध्यम्) जानेवालों से अच्छे प्रकार सिद्ध होने योग्य (अप्यम्) जलों में प्रसिद्ध (अनिशितम्) अतीक्ष्ण (योनिम्) कारणरूप अग्नि को (आ,गात्) प्राप्त होवे उस जीव के (स्थशः) बहुत ठहरनेवाले (जन्मानि) जन्मों को (सविता) परमात्मा (व्याकः) विविध प्रकार से करता है ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

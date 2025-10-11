@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अनेहसम्- अदोषम्। प्रतरणम्- तारकम्। विवक्षणम्- वाहकम्। मध्वः स्वादिष्ठम्- अतिशयेन  मधुरमास्वादनीयम्। ईम्- एतं रसम्। पिब- अनुभव। यथा। मन्दसानः- हृष्टः। नः- अस्मभ्यम्।  क्षुद्रेव- दीनेभ्य इव। धृषत्- शत्रुधर्षकस्त्वम्। त्मना- स्वतः। प्र- प्रकर्षेण। किरासि- वितरसि।  तथा रसमनुभव॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -249,8 +252,6 @@ Den schwellenden, den starken, unvergleichlichen, den süssesten der Tränke tri
 Чтоб, опьяняясь, ты рассыпал нам (дары),  
 Дерзновенно, совсем как (ветром швыряет) пылинки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

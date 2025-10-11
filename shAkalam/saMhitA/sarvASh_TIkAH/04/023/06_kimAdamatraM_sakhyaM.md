@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+किम्। अमत्रम्- शत्रूणामभिभावुकम्। सख्यम्- सौहृदम्। कदा। ते- तव। भ्रात्रम्- सौभ्रातृकम्।  प्र ब्रवाम- प्रकर्षेण वदेम। अस्य- एतस्येन्द्रस्य। सर्गाः- उद्यमाः। श्रिये- भद्राय भवन्ति। सुदृशः-  सुदर्शनस्य। गोः- तेजस्विनः। वपुः- देहः। स्वर्न चित्रतमम्- स्वर्ग इव अतिशयेनाद्भुतम्। आ  इषे- सर्वैरिष्यते॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र वयं यजमानाः ते त्वदीयम् **अमत्रं** शत्रूनभिभावुकं **सख्यं** सखिकर्म **सखिभ्यः** स्तोतृभ्यः **किमात्** किं स्वित् **प्र** **ब्रवाम** प्रकर्षेण वदेम । **ते** त्वदीयं **भ्रात्रं** भ्रातृकर्म च **कदा** **नु** कदा खलु प्र ब्रवाम । **सुदृशः** शोभनदर्शनस्य **अस्य** इन्द्रस्य संबन्धिनः **सर्गाः** उद्योगाः **श्रिये** सर्वेषां स्तोतॄणां श्रेयसे । भवन्तीति शेषः । **स्वर्ण** सूर्यो यथा दर्शनीयतमस्तथा **गोः** गन्तुरिन्द्रस्य **चित्रतमं** दर्शनीयतमं **वपुः** शरीरम् **आ** **इषे** आ समन्तात् सर्वैरिष्यते ॥
@@ -281,8 +284,6 @@ He considers the pf. as resultative, and it is possible that my ‘seeks’ shou
 
 IV.23.7-10: The contrast between the ‘lie’ (pāda-initial drúh- 7a) and ṛtá- (10 pādainitial and 2 pāda-medial exx. in vss. 8-10) certainly underlines and cements the sense ‘truth’ for this word. Note also that ṛṇā́‘debts’, which opens the 2nd hemistich of vs 7, phonologically anticipates the ṛtá’s to come.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -314,8 +315,6 @@ Wie ist dann gross die Freundschaft mit den Freunden? wann werden wir als Bruder
 Для блеска – чудесный облик прекрасного, его порывы.  
 Словно ярко сверкающее солнце, приводит (все) в движение (чудесный облик) быка.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान् दैर्घतमस औशिजः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहना- उषाः। दिवेदिवे- प्रतिदिनं प्रभाते। अधि- अधिकम्। नाम- जप्तव्यं मन्त्रम्। दधाना-  बिभ्रती। गृहंगृहम्- उपासकानां प्रतिसदनम्। अच्छा- अभिलक्ष्य। याति- आगच्छति।  सिषासन्ती- संभख्नुमिच्छन्ती। द्योतना- प्रकाशयुख्ना। शश्वत्- शाश्वताय कालाय। आ-  समन्तात्। अगात्- आगच्छति। वसूनाम्- संपदाम्। अग्रमग्रमित्- मुख्यांशमेव। भजते-  स्वाश्रितेभ्यो विभजते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अह्ना**। उषो नामैतत् । ‘अहना द्योतना' (नि. १.८.११) इति तन्नामसु पाठात् । सा देवी **दिवेदिवे** प्रत्यहम्। 'दिवेदिवे द्यविद्यवि' (नि. १.९.११) इति अहर्नामसु पाठात्। **गृहंगृहं** तत्तद्यज्ञगृहम् **अच्छ** आभिमुख्येन याति गच्छति। कीदृशी। **अधि** अधिकं **नाम** नमनं प्रह्वत्वं प्रतिगृहम् उद्योगं प्रकाशनरूपं दधाना धारयन्ती । यद्वा । अधि दधाना अधिकं धारयन्ती । किंच **सिषासन्ती** संभक्तुमिच्छन्ती **द्योतना** कृत्स्नं जगत् द्योतनशीला **शश्वत्** प्रतिदिनम् **आगात्** आगच्छति । पूर्वं यातीत्युक्तत्वात् पुनः आगादिति वचनमावश्यकत्वद्योतनार्थम् । आगत्य च **वसूनां** धनानां हविर्लक्षणानाम् अग्रमग्रमित् तत्तच्छ्रेष्ठभागं **भजते** सेवते स्वीकरोतीत्यर्थः ॥
@@ -247,7 +250,7 @@ Seeking to win, flashing, over and over she has come hither. She has her  share 
 
 The hapax ahanā́is difficult. Grassmann connects it with (áhar /) áhan- ‘day’. Geldner tr.
 
-‘unverwüstliche’ (indestructible); he does not comment, but judging from the tr. I assume he takes it from a negated derivative of √han ‘smite’. Oldenberg tentatively suggests a connection with √ah ‘say’, though he doesn’t gloss the result (for perhaps obvious reasons). Renou ‘lascive’ with caution, connecting it possibly with āhanás- ‘swollen, lusty’ (usually of soma). Witzel Gotō refuse to tr. but suggest in the n. an adverbial derivation of the particle áha ‘certainly’. My tr. rests on the possibility that it represents *máhanā, with the initial m lost after the final m of the preceding word: gṛháṃ-gṛham ahanā́… This would make for better meter; otherwise there are four consecutive light syllables, spanning the (early) caesura, and Arnold (194) deems × - ⏑ ⏑ an “occasional” (that is, relatively rare) pattern of the trimeter opening. But what would such *mahanā́represent? I suggest that it should be grouped with the trisyllabic form mah·nā́(IV.2.1, X.6.7 [possibly; see comm. ad loc.]); this appears to be a variant of mahinā́, the longer version of the instr. sg. to mahimán-, whose shorter version is the very common disyllabic mahnā́. The medial -a- here would result from matching the second vowel of mahánt-, mahá-, mahás-/máhas-, as well as the combining form mahā-. Or it might actually reflect a different syllabification of the inherited instr. *maǵH-mn-aH as * maǵH-m̥n-aH, with the suffixal m vocalized between two consonants, rather than the preceding laryngeal.
+‘unverwüstliche’ (indestructible); he does not comment, but judging from the tr. I assume he takes it from a negated derivative of √han ‘smite’. Oldenberg tentatively suggests a connection with √ah ‘say’, though he doesn’t gloss the result (for perhaps obvious reasons). Renou ‘lascive’ with caution, connecting it possibly with āhanás- ‘swollen, lusty’ (usually of soma). Witzel Gotō refuse to tr. but suggest in the n. an adverbial derivation of the particle áha ‘certainly’. My tr. rests on the possibility that it represents *máhanā, with the initial m lost after the final m of the preceding word: gṛháṃ-gṛham ahanā́… This would make for better meter; otherwise there are four consecutive light syllables, spanning the (early) caesura, and Arnold (194) deems × - ⏑ ⏑ an “occasional” (that is, relatively rare) pattern of the trimeter opening. But what would such *mahanā́represent? I suggest that it should be grouped with the trisyllabic form mah·nā́(IV.2.1, X.6.7 [possibly; see comm. ad loc.]); this appears to be a variant of mahinā́, the longer version of the instr. sg. to mahimán-, whose shorter version is the very common disyllabic mahnā́. The medial -a- here would result from matching the second vowel of mahánt-, mahá-, mahás-/máhas-, as well as the combining form mahā-. Or it might actually reflect a different syllabification of the inherited instr. *maǵH-mn-aH as * maǵH-m̥n-aH, with the suffixal m vocalized between two consonants, rather than the preceding laryngeal.
 </details>
 
 <details><summary>Griffith</summary>
@@ -273,8 +276,6 @@ Die tageshelle kommt zu jedem Hause und jedem Tage gibt sie ihren Namen; Zu spen
 Стремясь захватить (добычу), она приходит постоянно.  
 Она владеет самым лучшим из (всех).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

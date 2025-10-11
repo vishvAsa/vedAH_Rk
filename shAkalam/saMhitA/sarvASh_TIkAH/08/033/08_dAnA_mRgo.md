@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -258,8 +256,6 @@ Zum Schmause wie ein starkes Wild nimmt hier und dort hin er den Lauf; Dich hind
 Никто тебя не удержит! Приходи к выжатому (соме)!  
 Великий, ты странствуешь со (своею) силой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

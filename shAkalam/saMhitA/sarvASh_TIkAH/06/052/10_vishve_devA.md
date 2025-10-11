@@ -3,7 +3,6 @@ title = "010"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - ऋजिश्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतावृधः- सत्यवर्धकाः। विश्वे देवाः- सर्वे देवाः। ऋतुभिः- काले। हवनश्रुतः- आह्वानश्रोतारः।  युज्यम्- नियुख्नम्। पयः। जुषन्ताम्- सेवन्ताम्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋतावृधः** ऋतस्य यज्ञस्य वर्धकाः **ऋतुभिः** कालविशेषैः **हवनश्रुतः** हवनस्य स्तोत्रस्य श्रोतारः तस्मिंस्तस्मिन् यागकाले स्तूयमाना ईदृशाः **विश्वे** सर्वे **देवाः** **युज्यं** योग्यं **पयः** आमिक्षारूपं **जुषन्तां** सेवन्ताम् । श्रूयते हि - ‘ तप्ते पयसि दध्यानयति सा वैश्वदेव्यामिक्षा' इति ॥ ॥ १५ ॥
@@ -163,8 +166,6 @@ The first hemistich here does assay a little figure: ṛtā- ṛtú- across the 
 
 The use of yújya- in c is not entirely clear to me. I take it to mean that the offering, the milk (páyaḥ), is ritually associated with the calls (hávana-) the gods are hearing. Cf. VI.3.8. Geldner and Renou think that the association is between the substance and the gods.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -197,8 +198,6 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 Пусть наслаждаются молоком, (которое им) положено!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -214,12 +213,12 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (ऋतावृधः) सत्य विद्या के बढ़ानेवालो (हवनश्रुतः) जो अध्ययन को सुनते हैं, वे (विश्वे, देवाः) सब विद्वान् ! आप लोग (ऋतुभिः) वसन्तादिकों के साथ (युज्यम्) समाधान करने योग्य (पयः) दूध, जल वा अन्न को (जुषन्ताम्) सेवें ॥१०॥
+पदार्थान्वयभाषाः -  हे (ऋतावृधः) सत्य विद्या के बढ़ानेवालो (हवनश्रुतः) जो अध्ययन को सुनते हैं, वे (विश्वे, देवाः) सब विद्वान् ! आप लोग (ऋतुभिः) वसन्तादिकों के साथ (युज्यम्) समाधान करने योग्य (पयः) दूध, जल वा अन्न को (जुषन्ताम्) सेवें ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो अध्ययन करने और परीक्षा कराने को चाहें वे मद करने, कुत्सित बुद्धि वा नाश करनेवाले पदार्थों को छोड़ के दुग्ध आदि बुद्धि के बढ़ानेवाले उत्तम पदार्थों को सेवें ॥१०॥
+भावार्थभाषाः -  जो अध्ययन करने और परीक्षा कराने को चाहें वे मद करने, कुत्सित बुद्धि वा नाश करनेवाले पदार्थों को छोड़ के दुग्ध आदि बुद्धि के बढ़ानेवाले उत्तम पदार्थों को सेवें ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

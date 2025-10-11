@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। तीव्रसुतम्- तीक्ष्णतया निष्पन्नम्। मदम्- हर्षम्। मध्यम्- मध्ये। अन्तम्- अन्ते च।  रक्षसे- पालयसि। अयं स सोम इन्द्र ते सुतः पिब॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **यस्य** सोमस्यावयवभूतं **तीव्रसुतम्** । तीक्ष्णं सुतमभिषवो यस्य स तीव्रसुतः प्रातःसवनिकः । तं **मदं** मदकरं सोमरसं **मध्यं** मध्यंदिनसवनगतम् **अन्तं** तृतीयसवनगतं **च** सोमरसं **रक्षसे** रक्षसि **सः** **अयं** **सोमः** त्वदर्थमभिषुतस्तं **पिब** इति ॥
@@ -208,8 +211,6 @@ Whose sharp-pressed exhilaration, whose middle and end, you guard— here is tha
 <details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out, this must be a ref. to the three soma-pressings: the “middle and end” are respectively the Midday Pressing and the Third Pressing; the “sharp-pressed” refers to the freshly pressed soma of the Morning Pressing, which must be especially pungent.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -249,8 +250,6 @@ Er, dessen scharfen Saft du hegst, den letzten und den mittleren, Der Soma ist g
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -271,7 +270,7 @@ Er, dessen scharfen Saft du hegst, den letzten und den mittleren, Der Soma ist g
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे विद्यायुक्त राजन् ! आप वैसी ही ओषधियों को प्रकट करिये जिससे सब का सुख बढ़े ॥२॥
+भावार्थभाषाः -  हे विद्यायुक्त राजन् ! आप वैसी ही ओषधियों को प्रकट करिये जिससे सब का सुख बढ़े ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

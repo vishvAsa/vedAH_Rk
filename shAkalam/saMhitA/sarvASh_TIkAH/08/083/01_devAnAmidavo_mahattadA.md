@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मभ्यम्। ऊतये- रक्षायै। वृष्णाम्- वर्षकाणाम्। देवानाम्। अवः- तृप्तिम्। महत्- महतीम्।  वयम्। आ वृणीमहे- वरणं कुर्मः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **देवानां** स्वतेजसा सर्वतो दीप्यमानानाम् । **इत्** एवार्थे । युष्माकमेव **महत्** व्याप्तं महनीयं वा **अवः** पालनं यद्विद्यते तत् **वृष्णां** कामानां वर्षितॄणां युष्माकं स्वभूतं **तत्** रक्षणं यजमानाः **वयम्** **आ** **वृणीमहे** समन्तात्संभजामहे । किमर्थम् । **अस्मभ्यमूतये** । पूर्वमस्मभ्यमस्मदर्थमिति साधारण्येनोक्त्वा तद्विशिनष्टि ऊतय इति । अस्माकं पालनायेति ॥
@@ -183,10 +186,6 @@ Die große Gunst der Götter, der Bullen, die erbitten wir uns zum Beistand.
 
 Der Götter grosse Förderung, die wünschen wir uns recht herbei, Der kräftigen zum Segen uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

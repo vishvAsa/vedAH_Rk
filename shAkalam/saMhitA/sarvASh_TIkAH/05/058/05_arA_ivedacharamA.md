@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अरा इव- रथशङ्कव इव। अचरमाः- अनिकृष्टाः। अहेव- अहानीव। प्र जायन्ते- प्रकर्षेणाविर्भूताः।  महोभिः- स्वमाहात्म्येन। अकवाः- अनल्पाः। पृश्नेः पुत्राः- अन्तरिक्षजाः। उपमासः- समानाः।  रभिष्ठाः- वेगवन्तः। स्वया- स्वकीयया। मत्या- बुद्ध्या। मरुतः। सम्- सम्यक्। मिमिक्षुः-  सिञ्चन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अराइवेत्** रथशङ्कव इव **अचरमाः** अनिकृष्टाः । सर्वसमाः सहैवोत्पन्नाश्चेत्यर्थः । **अहेव** अहानीव । दिवसा यथा सर्वेऽपि षष्टिघटिकात्मकास्तद्वत्सप्तसंख्योपेतसप्तगणरूपेण समा इत्यर्थः । अनेन दृष्टान्तद्वयेन वैसादृश्याभावः२ प्रतिपादितः । एवमुक्तलक्षणाः **महोभिः** तेजोभिः **प्रप्र** **जायन्ते** प्रकर्षेण प्रादुर्भवन्ति ॥ एकः ‘ प्रसमुपोदः पादपूरणे ' ( पा. सू. ८. १. ६ ) इत्युपसर्गाभ्यासः स च पूरणः ॥ ते च **अकवाः** अनल्पाः । यद्वा महोभिरित्यस्य विशेषणम् । **पृश्नेः** माध्यमिकाया वाचो गोरूपाया अन्तरिक्षस्य वा पुत्रस्थानीयाः **उपमासः** प्रत्येकं समानाः **रभिष्ठाः** प्रकृष्टवेगाः । एवं महानुभावाः **मरुतः** **स्वया** **मत्या** स्वकीययैवानुग्रहबुद्ध्या **सं** **मिमिक्षुः** वृष्ट्या सम्यक् सिञ्चन्ति ॥
@@ -261,8 +264,6 @@ Note the phonetic play on initial a and final ā́: arā́... ácaramā́áheva 
 The syntactic break in the middle of pāda a, after ivéd, and the enjambment across the pāda boundary, with áheva in pāda a the subj. of the verb prá-pra jāyante in b, give the sense of unstoppable motion that the similes also provide.
 
 Flg. Hoffmann (Aufs. II.413 [=MSS 10 (1957) 61-62]), Witzel Gotō and Renou (though Renou rather mutedly) take ákavā(ḥ) as meaning that the Maruts do not become reduced in power, and Geldner’s rather vague ‘vollkommen’ is in the same realm, though obviously without the benefit of Hoffmann’s disc. I prefer to take the adj. as outerdirected -- ‘not stingy, unstinting’ rather than inner-directed ‘not retracting’. The VP sváyā matyā́… sám mimikṣuḥ “They have equipped themselves with their own poetic thought” seems implicitly to contrast with the opening of the previous hymn, V.57.1 iyáṃ vo asmát … matíḥ “This poetic thought from us for you.” This should remind us that the Maruts are both recipients and producers of praise poetry. See the disc. of the opening of this Marut cycle, V.52, where much is made of this dual role. A number of tr. take matí- as the equivalent of ‘will’ or ‘intention’ (van Bradke [Fs. Roth (1893) 119] Will, Geldner, Kümmel [386] Absicht, Witzel Gotō Antrieb), but this stretches the meaning of this word unacceptably. In any case the locution must harmonize with the very similar one in I.165.1 adduced also by Geldner: káyā śubhā́… marútaḥ sám mimikṣuḥ / káyā matī.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
@@ -297,8 +298,6 @@ In stetem Lauf, wie Speichen, wie die Tage, aufs neue stets erstehn mit Glanz di
 Маруты по своей воле захотели вместе помочиться.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -314,7 +313,7 @@ In stetem Lauf, wie Speichen, wie die Tage, aufs neue stets erstehn mit Glanz di
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वानो ! जो (मरुतः) पवन (अराइव) चक्रों के अवयवों के सदृश (अचरमाः) नहीं अन्त्यावयव जिनके वे (अहेव) दिनों के सदृश (अकवाः) नहीं शब्द करते हुए (पृश्नेः) अन्तरिक्ष के (पुत्राः) पुत्र (महोभिः, इत्) बड़ों के ही साथ (प्रप्र, जायन्ते) अत्यन्त उत्पन्न होते और (सम्, मिमिक्षुः) अच्छे प्रकार सिञ्चन करते हैं, वैसे (उपमासः) प्रत्येक के तुल्य (रभिष्ठाः) अत्यन्त आरम्भ करनेवाले आप लोग (स्वया) अपनी (मत्या) बुद्धि से अत्यन्त उत्पन्न होओ ॥५॥
+पदार्थान्वयभाषाः -  हे विद्वानो ! जो (मरुतः) पवन (अराइव) चक्रों के अवयवों के सदृश (अचरमाः) नहीं अन्त्यावयव जिनके वे (अहेव) दिनों के सदृश (अकवाः) नहीं शब्द करते हुए (पृश्नेः) अन्तरिक्ष के (पुत्राः) पुत्र (महोभिः, इत्) बड़ों के ही साथ (प्रप्र, जायन्ते) अत्यन्त उत्पन्न होते और (सम्, मिमिक्षुः) अच्छे प्रकार सिञ्चन करते हैं, वैसे (उपमासः) प्रत्येक के तुल्य (रभिष्ठाः) अत्यन्त आरम्भ करनेवाले आप लोग (स्वया) अपनी (मत्या) बुद्धि से अत्यन्त उत्पन्न होओ ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

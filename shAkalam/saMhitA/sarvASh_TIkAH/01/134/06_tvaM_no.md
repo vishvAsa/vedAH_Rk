@@ -3,7 +3,6 @@ title = "006"
 devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अष्टिः"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अष्टिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -289,6 +287,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वायो- प्राणाधिदैवत। एषाम्- एतेषाम्। नः- अस्माकम्। सुतानां सोमानाम्- निष्पादितरसानाम्।  पीतिम्- अनुभूतिम्। अपूर्व्यः- अपूर्वः। प्रथमः- मुख्यः। त्वम्। अर्हसि। उतो- अपि च।  विहुत्मतीनाम्- आह्वानयुख्नानाम्। ववर्जुषीणाम्- पापावर्जकानाम्। विशाम्- जनानाम्। ते-  भवतः। विश्वा धेनवः- सर्वे धेनूपलक्षितचिद्रश्मयः। आशिरम्- आशिषा युख्नम्। घृतम्-  पूतनवनीतोपलक्षितपूतभावनं प्रकाशमयम्। दुह्रते- दुहन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वायो **त्वम्** **अपूर्व्यः** । न विद्यते पूर्वं यस्मात् तत्पानमपूर्वम् । तदर्हतीत्यपूर्व्यः । तादृशः अत एव **प्रथमः** इतरदेवेभ्यः पूर्वभूतः सन् **सोमानां** **पीतिं** पानम् **अर्हसि** प्राप्नोषि। **सुतानाम्** अभिषवकृतानां सोमानां **पीतिं** पानम् **अर्हसि** । यत्र यत्र अभिषवोऽस्ति तत्र सर्वत्र नियमेन पिबसीत्यर्थः । पूर्वं प्राथम्याभिप्रायेण इदानीं तु सर्वत्र सोमवति यागे अस्य पानमस्तीति ज्ञापयितुं पृथगभिधानम् । न केवलं सोमपानमात्रम् **उतो** अपि तु **विहुत्मतीनां** विशेषेण होमवतीनामाह्वानवतीनां वा ॥ जुहोतेः संपदादिलक्षणो भावे क्विप् । ततो मतुब्ङीपौ ॥ **ववर्जुषीणाम्** अनभिमतपापं वर्जयन्तीनाम् ॥ वर्जयतेर्लिटः क्वसुङीप्संप्रसारणत्वानि ॥ **विशाम्**  ऋत्विग्यजमानरूपाणां प्रजानां संबन्धि हविः स्वीकरोषीति शेषः । यद्वा । तेषां यष्टॄणां **विश्वाः** **इत्** **धेनवः** सर्वा अपि गावः **ते** त्वदर्थम् **आशिरम्** आश्रयणद्रव्यं क्षीरं **दुहे** दुहन्ति स्वयमेव ॥ कर्मकर्तरि  ‘ न दुहस्नुनमाम्° इति यगभावः ।  ‘ लोपस्त आत्मनेपदेषु' इति तलोपः ।  ‘ बहुलं छन्दसि ' इति रुट् ॥ तथा **आशिरं** **घृतम्** उपस्तरणाभिघारणाद्याश्रयणाय योग्यं करणं द्रव्यं **दुह्रते** ॥ ॥ २३ ॥
@@ -321,7 +324,6 @@ all their milk-cows have milked out the milk-mixture for you—have  milked out 
 For abc as a “repair” of pāsi in 5fg, see disc. there.
 
 Most supply barhis as the obj. of the perf. part. vavarjúṣīṇām, and this is quite possibly correct. By contrast I take it in the metaphorical sense “twist s.o. towards oneself,” that is, attract to the sacrifice -- though we might prefer a medial form in that sense. And the mention of barhis at the beginning of the next hymn (I.135.1a) may support that standard view. As Kümmel points out (461 and n. 873), there’s no obvious explanation for the full-grade stem (expect *vavṛjúṣ-).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -359,8 +361,6 @@ Vor allen andern dir zuerst gebührt der Trunk, o Vaju, dieser unsrer Somatränk
 Все до одной коровы доятся для тебя молоком для обряда,  
 Жиром доятся, молоком для обряда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

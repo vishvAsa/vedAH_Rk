@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मनुर्वैवस्वतः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। त्रिंशति त्रयस्परः। देवासः- प्रभूता देवाः। ते। बर्हिः- दर्भासने चित्तासने वा। आ असदन्-  उपविशन्तु। द्विता- द्विधा। विदन्- जानन्तः। असनन्- यच्छन्तु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 मनुराह - 
@@ -204,8 +207,6 @@ Die dreiunddreissig Götter, die sich niedersetzten auf die Streu, Sie fanden un
 Уселись на жертвенную солому.  
 Они, конечно, нашли( там, что надо) и в самом деле они (все) получили.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

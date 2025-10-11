@@ -3,7 +3,6 @@ title = "003"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृधस्नू- हव्यं क्षरन्तौ। घृतस्नू- ज्योतिः क्षरन्तौ। मनसा जविष्ठा- मनोवेगौ। अत्या- प्राणाश्वौ।  रोहिता- रोचमानौ। ऋतस्य- ऋताख्यरथसम्बन्धिनौ। मन्ये- ध्यायामि। अरुषा- रोचमानावश्वौ।  युजानः। युष्मांश्च देवान् विश आ च मर्त्यान्- देवमनुष्याणाम्। अन्तः- मध्ये। ईयसे-  गच्छसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **ऋतस्य** सत्यभूतस्य तव संबन्धिनौ **मनसा** मनसोऽपि **जविष्ठा** वेगवत्तमौ **वृधस्नू** । वर्धयतीति वृधमन्नम् । तत् क्षरन्तौ । **घृतस्नू** । घृतमुदकं तत्स्रवन्तौ **रोहिता** रोहितवर्णौ **अत्या** अश्वौ **मन्ये** स्तौमि । **अरुषा** आरोचमानौ तावश्वौ **युजानः** रथे युञ्जानस्त्वं **युष्मान्** । देवेष्वग्नेरन्तर्भावात् यजनीयरूपेण कीर्तनम् । युष्मान् यष्टव्यान् **देवान्** **विशः** परिचारकान् **मर्तान्** मनुष्यान्
@@ -265,7 +268,7 @@ In the second hemistich the 2nd sg. verb īyase and the 2nd pl. acc. prn. yuṣm
 
 Contra Oldenberg (SBE and Noten) and Geldner, I see no reason to take mártān (or, as Oldenberg wants to read, *mártām) here as gen. pl. It is perfectly interpretable as an acc. pl.
 
-appositive to víśaḥ. However, the same form in 11b is a somewhat harder case; see comm. there, as well as nṝ́n in vs. 15.
+appositive to víśaḥ. However, the same form in 11b is a somewhat harder case; see comm. there, as well as nṝ́n in vs. 15.
 </details>
 
 <details><summary>Griffith</summary>
@@ -296,8 +299,6 @@ Ich seh' im Geist des Heil'gen Flammenrosse, die schnellsten, die von Fett und S
 Запрягая обоих (скакунов), ты движешься между  
 Вами, богами, и (нашими) племенами, смертными,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

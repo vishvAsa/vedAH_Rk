@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान् दैर्घतमस औशिजः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वरुण- ऋताधिदैवत। मित्र- स्नेहाधिदैवत। वाम्- युवयोः। पृक्षयामेषु- अन्ननियमनसाधनेषु। पज्रे- दृढे। गवां शता- प्रभूतचिद्रश्मिभूतम्। सा रातिः- तद्दानम्। स्तुषे- प्रशंसामि। श्रुतरथे-  चिदाकाशश्रुतमन्त्रात्मकरथे। प्रियरथे- प्रेमात्मकरथे। सद्यः- झटिति। पुष्टिम्। दधाना  निरुन्धानासः- धारयन्तः अस्मासु स्थिरां कुर्वन्तः। अग्मन्- आगच्छन्तु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मित्र** हे **वरुण** देव **वां** युवाम् अहं **स्तुषे** स्तुवे । व्यत्ययेन मध्यमः । युवयोः संबन्धिनी **सा** प्रसिद्धा **रातिः** दानं **शता** शतानां शतसंख्यानाम् अपरिमितानां **गवां** संबन्धिनी असंख्यातगोविषया रातिः **पज्रे** कक्षीवति मयि **पृक्षयामेषु** । पृक्ष इत्यकारान्तोऽप्यस्ति । पृक्षाणामन्नानां नियमनं येषु स्तोत्रेषु यज्ञेषु वा तेषु निमित्तभूतेषु भवत्विति शेषः । किंच मित्रादयो देवाः **श्रुतरथे** सर्वत्र प्रसिद्धरथोपेते **प्रियरथे** प्रीयमाणरथयुक्ते सर्वदा रथप्रिये पज्रे च मयि एव **दधानाः** प्रीतिं धारयन्तः **सद्यः** आगमनानन्तरमेव **पुष्टिं** गवादिपोषं निरुन्धानासः अवरुन्धानाः अस्मास्वव स्थापयन्तः । यद्वा । मयि पुष्टिं दधानाः कुर्वाणा: निरुन्धानासः कृतामेव पुष्टिं मयि स्थिरां कुर्वन्तः **अग्मन्** आगच्छन्तु ॥ रातिः ।  ‘ रा दाने'। भावे क्तिन् । मन्त्रे वृष ' इत्यादिना क्तिन उदात्तत्वम् । शता ।  ‘ सुपा सुलुक् ' इति षष्ठ्याः पूर्वसवर्णदीर्घत्वम् । दधानाः । जुहोत्यादित्वात् शपः श्लुः ।  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । अग्मन् । गमेश्छान्दसे लुङि  ‘ मन्त्रे घस' इत्यादिना च्लेर्लुक् ।' गमहन ' इति उपधालोपः ॥
@@ -235,7 +238,6 @@ This gift of yours is to be praised, Mitra and Varuṇa. Having received  hundre
 The transition between the All God portion of the hymn and the dānastuti is eased by verbal repetition: Mitra and Varuṇa, who were the last gods invoked (6ab), are again called on here, though in opposite order and not in a dvandva but in individual vocatives (varuṇa mitra versus 6a mitrāvaruṇā). Independent rātíḥ picks up the 2nd cmpd member in śrótu-rātiḥ (6c) and the PN śrutáratha- (7c) also echoes śrótu-rātiḥ.
 
 The locc. pajré / śrutárathe priyárathe mark these men as givers, which makes some trouble, since Kakṣīvant’s family seems to be called Pajra (quite possibly in the next verse and in I.126.4-5) and Kakṣīvant himself pajriyá- (I.116.7, 117.6, 120.5). Nonetheless, grammar can’t be gainsaid, and they must be patrons here. See Geldner’s n. 7bc for attempts to reconcile the discrepancies.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -269,8 +271,6 @@ Gepriesen wird, o Mitra-Varuna, vor euch diese Gabe; [ich empfing] von den Priks
 У Паджры, Шрутаратхи, Прияратхи,  
 Они тотчас отправились, запирая (коров – свое) процветание.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

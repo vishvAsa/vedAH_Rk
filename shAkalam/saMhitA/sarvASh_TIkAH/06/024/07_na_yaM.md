@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यम्। शरदः मासाः द्यावः- कालावयवाः। न। जरन्ति- जीर्णं कुर्वन्ति। अवकर्शयन्ति- न कार्श्न्यं  गमयन्ति। वृद्धस्य- वर्धतः। अस्य- एतस्येन्द्रस्य। तनूः- देहः। स्तोमेभिः उक्थैश्च- मन्त्रैः।  शस्यमाना- प्रशंस्यमानः। वर्धताम्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शरदः** संवत्सराः **यम्** इन्द्रं **न** **जरन्ति** न जरयन्ति नापक्षीणयन्ति । तथा **मासाः** च नापक्षीणयन्ति । तथा **द्यावः** दिवसाश्च यम् **इन्द्रं** **न** **अवकर्शयन्ति** नाल्पीभावयन्ति **वृद्धस्य** **चित्** प्रवृद्धस्यापि **अस्य** इन्द्रस्य **तनूः** शरीरं **स्तोमेभिः** अस्मदीयैः स्तोत्रैः **उक्थैश्च** शस्त्रैश्च **शस्यमाना** स्तूयमाना सती **वर्धतां** प्रवृद्धा भवतु ॥
@@ -250,8 +253,6 @@ identical to the sūráyaḥ in d. Oldenberg suggests either acc. pl. or abl. sg
 Syn.). I also take it as an abl., but suggest construing it with puráḥ. I now see that this is also problematic, since it is not clear that puráḥ ever takes the abl. Grassmann gives two exx.: but in IV.7.9 the supposed abl. is a gen. and construed elsewhere; in III.53.23 the form in question (áśvān) could be either an abl. sg. or an acc. pl. in sandhi.
 
 Nonetheless I hold to this interpr. Although puráḥ + ABL is not a robust construction, the related purā́is regularly found with the abl. Here I would suggest that we have a sort of pun. The lexeme puráḥ + √dhā ‘set in front, install’ is of course very common, and that phrase is found here, dadhiré puró naḥ. Although, as I just said, to express “ahead of / in front of the stranger” we might expect aryáḥ [abl.] … purā́, there was interference with the VP dadhiré puró naḥ “they have set us in front,” and puráḥ prevailed.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -286,8 +287,6 @@ Den Jahre nicht, noch Monde altern machen, den nicht der Lauf der Tage abzehrt, 
 Прославляемое восхвалениями и гимнами.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -303,12 +302,12 @@ Den Jahre nicht, noch Monde altern machen, den nicht der Lauf der Tage abzehrt, 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वान् जनो ! जिस (अस्य) इस जीव (वृद्धस्य) वृद्ध विद्वान् का (तनूः) शरीर (स्तोमेभिः) स्तुति करने के योग्यों और इन (उक्थैः) कहने के योग्य पदार्थों से (च) भी (शस्यमाना) प्रशंसा करने योग्य (चित्) भी (वर्धताम्) बढ़े और (यम्) जिस (इन्द्रम्) परमात्मा को (शरदः) शरद् आदि ऋतुयें (न) नहीं (जरन्ति) जीर्ण करती हैं और (मासाः) चैत्र आदि महीने (न) नहीं जीर्ण करते हैं तथा (द्यावः) सूर्य आदि (न) नहीं (अवकर्शयन्ति) दुर्बल कर सकते हैं, उस विद्वान् और परमात्मा का आप लोग सेवन करिये ॥७॥
+पदार्थान्वयभाषाः -  हे विद्वान् जनो ! जिस (अस्य) इस जीव (वृद्धस्य) वृद्ध विद्वान् का (तनूः) शरीर (स्तोमेभिः) स्तुति करने के योग्यों और इन (उक्थैः) कहने के योग्य पदार्थों से (च) भी (शस्यमाना) प्रशंसा करने योग्य (चित्) भी (वर्धताम्) बढ़े और (यम्) जिस (इन्द्रम्) परमात्मा को (शरदः) शरद् आदि ऋतुयें (न) नहीं (जरन्ति) जीर्ण करती हैं और (मासाः) चैत्र आदि महीने (न) नहीं जीर्ण करते हैं तथा (द्यावः) सूर्य आदि (न) नहीं (अवकर्शयन्ति) दुर्बल कर सकते हैं, उस विद्वान् और परमात्मा का आप लोग सेवन करिये ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  वही विद्वान् वृद्ध होकर वृद्धि को प्राप्त होता है जो सब को अच्छे, बुद्धिमान्, सुशील तथा धर्म्माचरण करनेवाला करता है और जो निर्विकार और जन्म, मरण, बुढ़ापा आदि दोषों से रहित परमात्मा की उपासना करते हैं, वे प्रशंसा करने योग्य होते हैं ॥७॥
+भावार्थभाषाः -  वही विद्वान् वृद्ध होकर वृद्धि को प्राप्त होता है जो सब को अच्छे, बुद्धिमान्, सुशील तथा धर्म्माचरण करनेवाला करता है और जो निर्विकार और जन्म, मरण, बुढ़ापा आदि दोषों से रहित परमात्मा की उपासना करते हैं, वे प्रशंसा करने योग्य होते हैं ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

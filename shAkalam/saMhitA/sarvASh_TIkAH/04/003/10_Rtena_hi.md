@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुमान्- पुरुषः। वृषभः- वर्षकः। अग्निः। पृष्ठ्येन- धारकेण। पयसा- रसेन। ऋतेन-  प्रकृतिनियतिभूतसत्याख्येन। अख्नः- सिख्नः। वयोधाः- जीवनधारकोऽग्निः। अस्पन्दमानः- ४    परमार्थतो निश्चलः सन्। अचरत्- व्यवहारतश्चरति। वृषा- अपां मूलशख्निधाराणां वर्षकोग्निः।  पृश्निः- अदितेः। शुक्रम्- शुभ्रम्। ऊधः- ऊधःस्थानीयं पयः। दुदुहे- दोग्धि। अखण्डप्रकृतितो  व्यख्नप्रकृतेः सृष्टिरग्नेरौष्ण्येनेवेति श्रुतौ प्रसिद्धिस्तपसोध्यजायतेत्यादिषु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषभः** अभिमतफलवर्षकः **पुमान्** श्रेष्ठः सः **अग्निः** **ऋतेन** सत्यभूतेन **पृष्ठ्येन** धारकेण **पयसा** **अक्तः** सिक्तो भवति । **हि** **ष्म** **चित्** त्रयः पूरणाः। **वयोधाः** अन्नदः सोऽग्निः **अस्पन्दमानः** एकत्रावस्थितः सन् एव **अचरत्** सर्वत्र तेजसा चरति । तथा **वृषा** अपां वर्षकः **पृश्निः** सूर्यः **शुक्रं** पयः **ऊधः** अन्तरिक्षं मेघं वा **दुदुहे** दोग्धि ॥ अक्तः ।  ‘ अञ्जू व्यक्तिम्रक्षणगतिषु'। कर्मणि निष्ठा । दुदुहे। द्विकर्मकोऽयं धातुः । ऊधः ।  ‘ अकथितं च ' इति कर्मसंज्ञा ॥ ॥ २१॥
@@ -250,8 +253,6 @@ This 2nd vs. in the truth-formulation sequence both continues the mystical descr
 Pāda c also inaugurates the paradox that is most clearly expressed in d. Agni is characterized as áspandamāna- in c. As Geldner points out (n. 10c), √spand ‘kick, lunge, jerk’ is only used in Vedic of cows when they are being milked, so Agni is both bull (vṛṣabhá- [a], vṛ́ṣan- [d]) and cow. This paradoxical double identity is sharpened in d, where Agni is identified not only as a bull but as Pṛśni, the cow who is the mother of the Maruts, and he is the subj. of the quintessential “cow” verb √duh ‘milk’ and acts on the quintessential cow body part ū́dhar- ‘udder’. The substance s/he produces from this udder is śukrám, a word that can refer not only to ‘gleaming’ milk, but is also used to refer to semen. A similar gender-bending milking scenario involving Pṛśni and Rudra, the Maruts’ father, is found in II.34.2; see that passage and the comm. thereon. Here Agni may be being identified with Rudra; see the AgniRudra equation in vs. 1 and also the focus on Rudra in the “question” vss. (6d, 7b, 7d). There are a number of passages in the Agni hymns of IV that should be brought into the conversation, though unfortunately what they have to say is obscure: see the “gleaming udder” (śúcy ū́dhaḥ) in IV.1.19 and a neut. entity (quite possibly her udder) belonging to Pṛśni in IV.5.7, 10.
 
 What -- if anything -- this refers to naturalistically is unclear. The tendency among interpr. has been to take it as a reference to rain (see Geldner n. 10d) or to some other celestial phenomenon (Lüders 390), but I find Bloomfield’s suggestion (Rig-Veda Repetitions 213) more appropriate to the passage, that the fire, blazing up, “shoots out his flames from his bright udder; he, a bull, is thereby -- mirabile dictu -- also a pṛ̥çni, the heavenly, yielding cow, par excellence.” Bloomfield also suggests that śukrá- here mean ‘semen’, with a zeugma of duduhe: “As a bull he hath spurted semen, as a Pṛ̥çni cow he hath milked his udder.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
@@ -290,8 +291,6 @@ Denn traun der Stier durch rechte Milch gesalbet auf seinem Rücken, Agni, er de
 Не дергаясь, двигается (этот) наделитель жизненной силой.  
 Бык-Пришни выдаивает свое вымя, (давая) чистое (молоко).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

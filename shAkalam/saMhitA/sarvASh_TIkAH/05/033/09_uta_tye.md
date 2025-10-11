@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - संवरणः प्राजापत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्ये- ते। मारुताश्वस्य- प्राणतुरगोपेतस्य। विदथस्य- यज्ञस्य। रातौ- दाने।  शोणाः- रोचमानाः। क्रत्वामघासः- प्रज्ञासम्पद्वन्तः प्राणतुरगा मां वहन्ति। मे- मह्यम्। सहस्रा-  प्रभूतान्। च्यतवानः- च्यावयन्। ददानः- यच्छन्। अर्यः- आर्यः। वपुषे- देहाय। आनूकम्-  आभरणम्। न- इव। आर्चत्- मण्डयति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **त्ये** तेऽश्वा वक्ष्यमाणाः **मारुताश्वस्य** । मरुत्सदृशवेगाश्ववान्मरुताश्वः । तदपत्यस्य **विदथस्य** एतन्नामकस्य राज्ञः **शोणाः** शोणवर्णाः **क्रत्वामघासः** क्रतुना कर्मणा शीघ्रगमनादिलक्षणेन माहनीया अश्वाः **रातौ** दाने विनियुक्ता मां वहन्तीति शेषः । किंच **सहस्रा** सहस्राणि अपरिमितानि धनानि अर्यः पूज्यस्य **मे**। चतुर्थ्यर्थे षष्ठी । पूज्याय मह्यं **च्यवतानः** च्यावयन् **ददानः** प्रयच्छन् सः **आनूकम्** आभरणं च **वपुषे** स्वशरीरालंकाराय **आर्चत्** प्रयच्छत् । **न** इति चार्थे ।
@@ -239,8 +242,6 @@ by Klein (I.425), takes it as the obj. of ārcat, as ‘last (song)’. See Geld
 
 The standard interpr. (Geldner [/Witzel Gotō], Oldenberg, Klein I.425) take aryáḥ as nom. sg., referring to Cyavatāna of c, and Thieme (Fremdl. 85) also thinks it’s probably nom. sg., but declines to discuss the passage because of the obscurity of ānūkám. But a patron like Cyavatāna should not be chanting or singing; that is the province of the poet-priests he is patronizing. Moreover, aryáḥ echoes gen. sg. aryáḥ in 6d, which announced the dānastuti to come, and I think the form should be interpr. in the same way in the absence of evidence to the contrary. In 9d I think that the gift of the arí- is still in question (as in 6d). The unnamed poet praised (‘sang’ ārcat) his gift for the wonder (vápuṣe) of it -- of its over-the-top munificence.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -274,8 +275,6 @@ Und mich [erfreuten] diese kraftbegabten Braunen des Märutä§va bei des Opferf
 Пропел в заключение, словно для украшения благородного господина.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -291,7 +290,7 @@ Und mich [erfreuten] diese kraftbegabten Braunen des Märutä§va bei des Opferf
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो (क्रत्वामघासः) बुद्धि वा कर्म्म ही है धन जिनका वे (शोणाः) रक्त गुण से विशिष्ट जन और (मारुताश्वस्य) पवनों के सदृश घोड़ों के सम्बन्धी (विदथस्य) प्राप्त होने योग्य (मे) मेरे वा मेरे लिये (रातौ) दान में (सहस्रा) हजारों को (च्यवतानः) प्राप्त होता हुआ जन (उत) भी सुख देने को समर्थ हों (त्ये) वे और जो (ददानः) देता हुआ (वपुषे) सुन्दर शरीर के लिये (मा) मुझ को (आनूकम्) अनुकूलतापूर्वक (आर्चत्) आदरयुक्त करे वह (अर्य्यः) स्वामी भी सब प्रकार से तिरस्कृत (न) नहीं होता है ॥९॥
+पदार्थान्वयभाषाः -  जो (क्रत्वामघासः) बुद्धि वा कर्म्म ही है धन जिनका वे (शोणाः) रक्त गुण से विशिष्ट जन और (मारुताश्वस्य) पवनों के सदृश घोड़ों के सम्बन्धी (विदथस्य) प्राप्त होने योग्य (मे) मेरे वा मेरे लिये (रातौ) दान में (सहस्रा) हजारों को (च्यवतानः) प्राप्त होता हुआ जन (उत) भी सुख देने को समर्थ हों (त्ये) वे और जो (ददानः) देता हुआ (वपुषे) सुन्दर शरीर के लिये (मा) मुझ को (आनूकम्) अनुकूलतापूर्वक (आर्चत्) आदरयुक्त करे वह (अर्य्यः) स्वामी भी सब प्रकार से तिरस्कृत (न) नहीं होता है ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

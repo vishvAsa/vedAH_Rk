@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विभूतिम्- वैभवयुख्नम्। अक्षितावसुम्- अक्षयधनम्। उग्रम्- उद्गूर्णम्। न- च। वीरम्। नमसा-  नमस्कारेण। उप सेदिम- प्रपन्नाः स्मः। वज्रिन्- वज्रपाणे। इन्द्र। उद्री- उदकवान्। अवतः-  कूपः। इव। सिञ्चते- सेक्त्रे। धीतयः- चित्तधारणाधाराः। क्षरन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -247,8 +250,6 @@ Wie starkem Helden nahten wir anbetend dir, dem reichen, dem's nie fehlt an Gut,
 Словно богатый водой колодец - для черпающего (из него), о громовержец,  
 Текут (к тебе) молитвы, о Индра.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

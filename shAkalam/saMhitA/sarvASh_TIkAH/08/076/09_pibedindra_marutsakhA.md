@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिविष्टिषु- दिव्यैषणासु। इन्द्र। मरुत्सखा सन्। सुतम्- निष्पन्नम्। सोमम्- रसम्। पिब-  अनुभव। ओजसा बलेन। वज्रम्। शिशान- तीक्ष्णीकुरु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **मरुत्सखा** त्वं **सुतम्** अभिषुतं **सोमं** **पिब** । किमर्थम् । दिविष्टिषु अस्माकमह्नामभिगमनेषु **दिवः** स्वर्गस्य वैषणेषु निमित्तेषु । पीत्वा च **ओजसा** बलेन सोमपानजनितेन **वज्रं** **शिशानः** तीक्ष्णीकुर्वन् । शत्रूञ्जहीति भावः ॥
@@ -175,10 +178,6 @@ Trink doch, Indra mit den Marut als Kameraden bei den heutigen Opfern den ausgep
 
 Trink, Indra, mit der Marutschar den Somasäft beim Opferfest, Mit Kraft dir schärfend deinen Blitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

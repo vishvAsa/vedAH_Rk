@@ -3,7 +3,6 @@ title = "008"
 devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। इमे- एते। उभे। अहनी- रात्र्यहनी दैवमानुषप्रज्ञे। अप्रयुच्छन्- अप्रमाद्यन्। पुरः- अग्रे।  एति- गच्छति। सः। स्वाधीः- शोभनधारकः। देवः सविता॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **सविता** **देवः** **स्वाधीः** शोभनाध्यानः सुकर्मा वा सन् **इमे** **अहनी** रात्र्यहनी तयोः **पुरः** पुरस्तात् **अप्रयुच्छन्** अप्रमाद्यन् **एति** गच्छति तम् आ वृणीमहे इति संबन्धः ॥
@@ -158,7 +161,6 @@ and with good intentions: god Savitar.
 <details><summary>Jamison Brereton Notes</summary>
 
 With regard to áprayuchan see disc. of áprāyu- ad V.80.3.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -193,8 +195,6 @@ Der diesen beiden geht voran, dem Tag, der Nacht, ohn' Unterlass, Voll Achtsamke
 Этих двух половин дня,  
 Бог Савитар с добрыми намерениями:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

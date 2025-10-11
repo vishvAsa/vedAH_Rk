@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवयन्तः- देवकामाः। अस्मे- इन्द्राय। च्यौत्नानि- दृढानि। ता- तानि। कर्म- कर्माणि। प्र-  प्रकर्षेण। भरन्ते- निर्वहन्ति। नासत्येव- अश्विनाविव। दस्मवर्चाः- दर्शनीयवर्चाः। सुग्म्यः-  सुगम्यः। रथेष्ठाः- रथस्थः। इन्द्रः- ईशनशीलः। जुजोषत्- अस्माकं कर्माणि सेवते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ता** तानि **अषतरा** अर्षतराणि व्याप्ततराणि वा हवींषि **अस्मै** इन्द्राय तदर्थं **कर्म** कुर्मः संपादयामः ॥ कृञ्श्छान्दसे वर्तमानार्थे लुङि ‘मन्त्रे घस ' इति च्लेर्लुक् । छन्दस्युभयथा ' इति अर्धधातुकत्वेन ङित्त्वाभावाद्गुणः ॥ **च्यौत्नानि** च्यावयितॄणि दृढानि स्तोत्राणि कर्माणि स्वकीयानि सामर्थ्यानि वा **देवयन्तः** देवानात्मन इच्छन्तो यजमानाः **प्र** **भरन्ते** प्रकर्षेण संपादयन्ति । तद्वद्वयमपि संपादयाम इत्यर्थः । **दस्मवर्चाः** दर्शनीयतेजाः शत्रूपक्षयणबलो वा **नासत्येव** नासत्याविव अश्विनाविव । तौ हि द्यावापृथिव्यात्मानौ । ताविव **सुग्म्यः** सुगम्यः सुखेन गन्तुं शक्यः रथेष्ठाः रथे वर्तमान एवंभूतः सन् **जुजोषत्** अस्मत्कृतं स्तोत्रादि कर्म सेवताम् ॥
@@ -224,15 +227,13 @@ He will enjoy them—Indra of wondrous luster, coming easily like the  Nāsatyas
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Oldenberg begins his n. on this verse with the cheerful comment “Wohl hoffnungslos,” and it is well to bear this in mind. The difficulties are located in the first pāda, which is seriously deficient in syllables (at best 9, probably 8), has a bad cadence, and contains a hapax á/ā́ṣatarā at which all tr. and comm. throw up their hands. The line is probably corrupt, and my attempts to fix it should be read with skepticism. The meter can be ameliorated by assuming a haplology of acc. pl. kárma adjacent to the identical verb, 1st pl. karma: tā́←kárma&gt; karma (or tā́karma ←kárma&gt;). [I now see that a similar haplology is proposed by Witzel Gotō in the n. to this passage.] (For a less dramatic proposed haplology in Agastya’s oeuvre, see comm. ad I.180.3.) If we detach á/ā́ṣatarā from sandhi with the preceding word (contra Holland & van Nooten Rig Veda edition’s karmā́ṣatarā), the line would have eleven syllables, though it still would have an irreparably bad cadence.
+Oldenberg begins his n. on this verse with the cheerful comment “Wohl hoffnungslos,” and it is well to bear this in mind. The difficulties are located in the first pāda, which is seriously deficient in syllables (at best 9, probably 8), has a bad cadence, and contains a hapax á/ā́ṣatarā at which all tr. and comm. throw up their hands. The line is probably corrupt, and my attempts to fix it should be read with skepticism. The meter can be ameliorated by assuming a haplology of acc. pl. kárma adjacent to the identical verb, 1st pl. karma: tā́←kárma> karma (or tā́karma ←kárma>). [I now see that a similar haplology is proposed by Witzel Gotō in the n. to this passage.] (For a less dramatic proposed haplology in Agastya’s oeuvre, see comm. ad I.180.3.) If we detach á/ā́ṣatarā from sandhi with the preceding word (contra Holland & van Nooten Rig Veda edition’s karmā́ṣatarā), the line would have eleven syllables, though it still would have an irreparably bad cadence.
 
 As for á/ā́ṣatarā, the only (more or less) clear thing about it is that it is a comparative in -tara-, probably agreeing with tā́. Geldner [/Witzel Gotō] refuses to tr. it -- though in their n. Witzel Gotō render the passage tentatively as “Diese (Opfer)werke haben wir für ihn (gerade) zu den gesprenkelteren (bunter) gemacht.” I do not understand what they are doing with áṣatarā, though the rest of the tr. reflects the haplology proposal above. Renou tr. “plus forts,” but without a note his reasons for this are lost; in his introduction to AiG I (p. 59) he comments that the word is “sans doute corrompu.” AiG I.239 tr. ‘annehmbarer’ without further explanation and floats the possibility of “nicht rein ai. Ursprungs,” a suggestion that Kuiper takes as fact (Aryans, 25).
 
 Mayrhofer refuses to speculate. I suggest, very tentatively, that it may be a dissimilated form of *ā́ṣṭa-tara- ‘more obtainable’, built to the ppl. aṣṭa- to √(n)aś + ā́. The initial long vowel in my reconstruction is contra the Pp., but the preverb ā́is necessary to account for the initial accent and it is also the case that the ppl. to √(n)aś does not seem to appear uncompounded in Vedic.
 
 If this gossamer suggestion is correct, then the first two pādas outline a twostep strategy: we have first perfomed the easier ritual requirements in a, but more concentrated attention is needed, and in b those fixated on the gods advance the ritual activities. The second half-verse predicts that Indra will look favorably on these efforts and will come to our ritual.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -266,8 +267,6 @@ Zu Indra lasst uns diese Gaben fördern, die Frommen bringen ihm die Kraftgesän
 Пусть возрадуется (им) Индра, обладающий чудесным блеском,  
 Словно Насатьи, стоящий на колеснице, (бог,) чей выезд приносит счастье!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

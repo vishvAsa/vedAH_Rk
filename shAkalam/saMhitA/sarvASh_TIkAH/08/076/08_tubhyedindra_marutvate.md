@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुभ्य- तुभ्यम्। इत्- एव। इन्द्र। मरुत्वते- प्राणसम्पन्नाय। अद्रिवः- वज्रिन्। सोमासः- रसाः।  सुताः- निष्पन्नाः। उक्थिनः- मन्त्रविदः। हृदा- हृदयेन। हूयन्ते- त्वामाह्वयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रिवः** वज्रवन् **इन्द्र** **मरुत्वते** **तुभ्येत्** तुभ्यमेव **सोमासः** **सुताः** अभिषुताः । ते च **उक्थिनः** शस्त्रवन्तः **हृदा** मनसा भक्त्या **हूयन्ते** त्वदर्थम् ॥
@@ -175,10 +178,6 @@ Dir, Indra, dem Marutbegleiteten, werden die ausgepreßten Somatränke, o Herr d
 
 Dir, Indra, mit der Marutschar sind Somasäft', o Schleuderer, Mit Lust ergossen liederreich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

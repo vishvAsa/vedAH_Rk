@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोषूक्त्यश्वसूक्तिनौ काण्वायनौ
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। हि- खलु। स्तोमवर्धनः- मन्त्रवर्धकः। इन्द्र। उक्थवर्धनः। असि- भवसि। उत- अपि च।  स्तोतॄणाम्। भद्रकृत्- कल्याणकृत्। असि- भवसि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वं** **हि** त्वं खलु **स्तोमवर्धनः** स्तोमेन त्रिवृत्पञ्चदशादिना वर्धनीयः **असि** । तथा **उक्थवर्धनः** उक्थैः शस्त्रैर्वर्धनीयश्च त्वमेवासि । **उत** अपि च **स्तोतॄणाम्** अस्माकं **भद्रकृत्** भद्रस्य कल्याणस्य फलस्य कर्तापि त्वमेवासि ॥
@@ -169,7 +172,7 @@ and the creator of good fortune for your praisers.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The two -várdhana- compounds express something of the same type of role reversal found in the last hymn, where the help given by Indra and received by Indra became conflated. Here we might expect Indra to be strengthened by the praises and recitations, rather than strengthening them. And in fact, contrary to grammar, both Grassmann and Geldner so interpret the compounds (Grassmann ‘am Loblied sich erlabend’, Geldner “Denn dir sind … die Lobgesänge, die Lobgedichte eine Stärkung”). But -ananominals have transitive-causative force and are associated with -áya- verb stems, and in compounds their first member serves as object. See other -várdhanacompounds such as nṛmṇa-várdhana- ‘strengthening manly powers’ (II.36.5), paśuvárdhana- ‘strengthening livestock’ (IX.94.1), as well as numerous other stems such as yajña-sā́dhana- ‘making the sacrifice succeed’ (2x). If we stay true to the grammar, the point is that Indra, by his presence at the sacrifice and his willingness to receive praise, strengthens the products of his praisers, and this in turn creates bhadrá- for them, as pāda c says.
+The two -várdhana- compounds express something of the same type of role reversal found in the last hymn, where the help given by Indra and received by Indra became conflated. Here we might expect Indra to be strengthened by the praises and recitations, rather than strengthening them. And in fact, contrary to grammar, both Grassmann and Geldner so interpret the compounds (Grassmann ‘am Loblied sich erlabend’, Geldner “Denn dir sind … die Lobgesänge, die Lobgedichte eine Stärkung”). But -ananominals have transitive-causative force and are associated with -áya- verb stems, and in compounds their first member serves as object. See other -várdhanacompounds such as nṛmṇa-várdhana- ‘strengthening manly powers’ (II.36.5), paśuvárdhana- ‘strengthening livestock’ (IX.94.1), as well as numerous other stems such as yajña-sā́dhana- ‘making the sacrifice succeed’ (2x). If we stay true to the grammar, the point is that Indra, by his presence at the sacrifice and his willingness to receive praise, strengthens the products of his praisers, and this in turn creates bhadrá- for them, as pāda c says.
 </details>
 
 <details><summary>Griffith</summary>
@@ -194,8 +197,6 @@ Denn, Indra, du erquickst dich gern an Sprüchen und an Lobgesang, Den Sängern 
 О Индра, усиливаешься от гимнов,  
 И ты благодетель восхвалителей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,7 +223,7 @@ Denn, Indra, du erquickst dich gern an Sprüchen und an Lobgesang, Den Sängern 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (इन्द्र) हे योद्धा ! (त्वं, हि) आप ही (स्तोमवर्धनः) कीर्ति के बढ़ानेवाले (असि) हैं (उक्थवर्धनः) शास्त्रीय वाक् के बढ़ानेवाले आप ही हैं (उत) और (स्तोतॄणाम्) आपकी आज्ञानुसार चलनेवाले सदाचारियों के (भद्रकृत्) कल्याणकर्ता आप हैं ॥११॥
+पदार्थान्वयभाषाः -  (इन्द्र) हे योद्धा ! (त्वं, हि) आप ही (स्तोमवर्धनः) कीर्ति के बढ़ानेवाले (असि) हैं (उक्थवर्धनः) शास्त्रीय वाक् के बढ़ानेवाले आप ही हैं (उत) और (स्तोतॄणाम्) आपकी आज्ञानुसार चलनेवाले सदाचारियों के (भद्रकृत्) कल्याणकर्ता आप हैं ॥११॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

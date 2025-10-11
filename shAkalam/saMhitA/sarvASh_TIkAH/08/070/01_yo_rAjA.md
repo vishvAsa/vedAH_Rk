@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। चर्षणीनाम्- प्रजानाम्। राजा- स्वामी। रथेभिः- रथैः। याता- गन्ता। अध्रिगुः-  अधृतगमनः। विश्वासाम्- सर्वासाम्। तरुता- तारकः। पृतनानाम्- सेनानाम्। ज्येष्ठः- मुख्यः।  यः। वृत्रहा- आवरणबाधकः। तम्। गृणे- स्तौमि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** इन्द्रः **चर्षणीनां** मनुष्याणां **राजा** स्वामी रथैः **याता** गन्ता च **अध्रिगुः** अधृतगमनोऽन्यैः **विश्वासां** **पृतनानां** सेनानां **तरुता** तारकः । **यः** च **ज्येष्ठः** गुणैर्ज्यायान् । यश्च **वृत्रहा** वृत्रं हतवान् । तं महाभागमिन्द्रं **गृणे** स्तौमि ॥
@@ -208,10 +211,6 @@ Der der König der Völker ist, der Vornehme, der zu Wagen fährt, der Überwind
 
 Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtensieger preise ich, den besten Vritratödter ihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

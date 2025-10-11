@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असाविन्द्रः। अङ्गिरोभिः- शोभनगतिशीलैः। अङ्गिरस्तमः- शोभनगतिशीलतमः। भूत्-  भवति। वृषभिः- वर्षकैः। वृषा- वर्षकः। सखिभिः- सुहृद्भिः। सखा सन्- सुहृत् सन्। ऋग्मिभिः-  ऋग्वेदीयैः।  ऋग्मी- ऋग्वेदीयः। गातुभिः- सामभिः। ज्येष्ठः- प्रथमः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** इन्द्रः **अङ्गिरोभिः** । अङ्गन्ति गच्छन्तीति अङ्गिरसो गन्तारः । तेभ्योऽपि **अङ्गिरस्तमः** **भूत्** अतिशयेन गन्ता भवति । **वृषभिः** **वृषा** वर्षितृभ्योऽप्यतिशयेन वर्षिता **सखिभिः** समान ख्यानेभ्यो मित्रभूतेभ्योऽपि **सखा** अतिशयेन हितकारी एवंभूतः **सन्** **ऋग्मिभिः** अर्चनीयेभ्योऽपि **ऋग्मी** अर्चनीयो भवति । **गातुभिः** गातव्येभ्यः स्तोतव्येभ्योऽपि **ज्येष्ठः** अतिशयेन स्तोतव्यः एवंगुणविशिष्टः **मरुत्वान्** **इन्द्रः** रक्षणाय **भवतु** ॥ अङ्गिरोभिः । ‘अगि रगि लगि गत्यर्थाः' । अङ्गिरा अप्सराः ( उ. सू. ४. ६७५-६७६ ) इति औणादिकः असुन्प्रत्ययो निपात्यते । इदमादिषु सर्वत्र पञ्चम्यर्थे तृतीया । ऋग्मिभिः । ऋच स्तुतौ ' । संपदादिलक्षणो भावे क्विप् । मत्वर्थीयो मिनिः । पदत्वात् कुत्वं जश्त्वं च । गातुभिः ।' गा स्तुतौ ।' कमिमनिजनि' इत्यादिना कर्मणि तुप्रत्ययः ॥
@@ -248,7 +251,6 @@ a versifier with versifiers, preeminent along the routes. – Accompanied  by th
 In b sán is one of the (fairly few) examples of the nominative of the pres.
 
 part. to √as that is not concessive (“although being ...”). The phrase sákhibhiḥ sákhā sán is, as Geldner points out (n. 4b), structurally identical to I.76.5 kavíbhiḥ kavíḥ sán, where the sán also lacks concessive force.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -282,8 +284,6 @@ Der beste Angiras mit Angirasen, ein Stier mit Stieren, Freund ist er mit Freund
 С гимнотворцами гимнотворцем, с певцами – лучшим, -  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

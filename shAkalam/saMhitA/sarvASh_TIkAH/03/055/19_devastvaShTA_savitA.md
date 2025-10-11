@@ -3,7 +3,6 @@ title = "019"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवः- द्योतनशीलः। त्वष्टा- तनूकर्ता। सविता- प्रेरकः सूर्यः। विश्वरूपः- सर्वरूपः। प्रजाः-  जनान्। पुरुधा- बहुधा। जजान- सृजति। पुपोष- पोषयति च। इमा- एतानि। विश्वा- सर्वाणि।  भुवनानि। अस्य- एतस्यैव। महद्देवानामसुरत्त्वमेकम्॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सविता** अन्तर्यामितया सर्वस्य प्रेरकः **विश्वरूपः** नानाविधरूपः **त्वष्टा** त्वष्टृनामकः **देवः** **प्रजाः** **पुरुधा** बहुधा **जजान** जनयति । ताश्च **पुपोष** पोषयति । **इमा** इमानि **विश्वा** विश्वानि सर्वाणि **भुवनानि** भूतजातानि **च** **अस्य** त्वष्टुः संबन्धीनि ॥ विश्वरूपः ।  ‘ बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् ॥
@@ -252,8 +255,6 @@ It is striking that pāda a is reused in the famous Yama-Yamī dialogue hymn (X.
 Acdg. to the standard interpr. (Geldner [/Witzel Gotō], Renou; cf. Klein DGRV I.218, Kümmel 314), prajā́ḥ is to be construed with pupóṣa, on the basis of X.170.1 prajā́ḥ pupoṣa purudhā́… This is not impossible, but it seems unnecessary, esp. as the latter hymn is quite late. It also implies that purudhā́should also be construed with pupóṣa, but this is impossible because jajāna is unaccented. It is also unlikely that prajā́ḥ and purudhā́should be separated, given purudhā́prajā́vān in the next hymn (III.56.3b).
 
 At best we can take prajā́ḥ purudhā́with both verbs: “thrives with regard to offspring in great quantity and has begotten them [=offspring in great quantity]” or perhaps “thrives with regard to offspring and has begotten them [=offspring] in great quantity.” Such an interpr., with an acc. of respect and a fundamentally intransitive verb, follows that of Kümmel (314). I do not believe that pupóṣa here can have the transitive/causative sense that the other tr. ascribe to it (e.g., Renou “a fait fleurir les créatures”).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -287,8 +288,6 @@ Tvaschtar, der Gott, belebend, vielgestaltig, erzeugt' und nährte reichlich die
 И все эти существа – его (потомство).  
 Велико могущество богов, единственно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

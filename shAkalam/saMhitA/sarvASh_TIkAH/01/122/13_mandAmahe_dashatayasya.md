@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान् दैर्घतमस औशिजः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्दामहे- स्तुमः। मदि स्तुतौ। दशतयस्य- दशविधस्य। धासेः- बलस्य। अन्ना-  संबन्धीन्यन्नानि। द्विः पञ्च। बिभ्रतः- धारयन्तः। यन्ति- अस्मान् प्रति आगच्छन्ति। तरुषः-  तारकान्। नॄन्- नयसमर्थान् देवान्। इष्टाश्वः- प्राणकामः। इष्टरश्मिः- चिद्रश्मिकामः। ऋञ्जते-  प्रसाधयति। ऋञ्जतिः प्रसाधनकर्मेति यास्कः। किम्। एते। ईशानासः- इन्द्रियजयिन  उपासकाः॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मन्दामहे** स्तुमो वयं देवान्॥  ‘मदि स्तुतौ'। इदित्त्वात् नुम् ॥ किमर्थम् । **दशतयस्य** **धासेः** दशेन्द्रियतृप्तिसाधनत्वेन दशावयवस्य अन्नस्य **यत्** यस्मात् **द्विः** **पञ्च** दशविधानि अन्नानि । दश चमसगृहीतत्वादन्नस्य दशविधत्वम् । एवंविधम् अन्नं **बिभ्रतः** धारयन्तो दश चमसाध्वर्यवः **यन्ति** होमाय गच्छन्ति अहवनीयं प्रति । यद्वा ।  ‘ आश्वमेधिकानि दशान्नानि जुहोति  इत्याम्नातानि आज्यमध्वादीनि दशविधान्यन्नानि विश्वेभ्यो देवेभ्यो होतुं धारयन्तो यन्ति यदा तदा मन्दामहे इति । न च इष्टाश्वप्रभृतीन यष्टॄन् विहाय कस्मात् अस्मान्प्रति आगमिष्यन्तीति वाच्यम् । **तरुषः** शत्रूणां तारकान् । तरतेरौणादिक उसिन् । **नॄन्** नेतॄन् कर्मणाम् एवं महानुभावान् वरुणादीन् **इष्टाश्वः** एतन्नामको राजा **किम्** **ऋञ्जते** किं प्रसाधयति । तथा **इष्टरश्मिः** च किमृञ्जते । **एते** इदानीं वर्तमानाः **ईशानासः** पृथिव्या ईश्वरा राजानश्च किं प्रसाधयन्ति । यद्वा । येषां स्तोतॄणामस्माकमेते स्तुता देवा ईशानासः स्वामिनः किल तादृशान् तरुषः शत्रूणां तारकान् नॄन् कर्मनिर्वाहकान् अस्मान इष्टाश्वादयः किं साधयन्ति किमुपद्रवन्ति न प्रभवन्तीत्यर्थः ॥
@@ -244,7 +247,7 @@ On the phrasal repair of 12b dáśatayasya by dáśastayasya dhāséḥ see comm
 
 The “twice five” in pāda b may be the fingers, as I suggest (almost the default identification in a RVic ritual context), or the number of priests, indirectly conveyed by the tenfold soma of 12b and 13a. Geldner (/Witzel Gotō) takes the “twice five” as directly characterizing ánnā: the twice five foods.
 
-Geldner (/Witzel Gotō) and Renou take iṣṭā́śvaḥ and iṣṭáraśmiḥ as PNs of patrons. (Actually Renou omits the first, presumably inadvertently.) I also take them as referring to patrons but with full lexical value: the one who has “desirable horses” and “desirable reins” [latter probably a stand-in for “chariots”] to offer. That “those showing mastery” (īśānā́saḥ) are patrons is strongly suggested by I.141.3, where that participle modifies sūráyaḥ ‘patrons’. The Saṃhitā text táruṣa is analyzed by the Pp. as táruṣaḥ, which could be a gen. with īśānā́saḥ (so Grassmann, Renou, Witzel Gotō) or nom. pl. (so Geldner). Oldenberg suggests that it could also be read as dat. táruṣe, against the Pp., which is how I take it. I then interpr. nṝ́n as referring not to the singers (so Geldner et al.) but to still other patrons with whom they are competing to provide the best recompense to the singers.
+Geldner (/Witzel Gotō) and Renou take iṣṭā́śvaḥ and iṣṭáraśmiḥ as PNs of patrons. (Actually Renou omits the first, presumably inadvertently.) I also take them as referring to patrons but with full lexical value: the one who has “desirable horses” and “desirable reins” [latter probably a stand-in for “chariots”] to offer. That “those showing mastery” (īśānā́saḥ) are patrons is strongly suggested by I.141.3, where that participle modifies sūráyaḥ ‘patrons’. The Saṃhitā text táruṣa is analyzed by the Pp. as táruṣaḥ, which could be a gen. with īśānā́saḥ (so Grassmann, Renou, Witzel Gotō) or nom. pl. (so Geldner). Oldenberg suggests that it could also be read as dat. táruṣe, against the Pp., which is how I take it. I then interpr. nṝ́n as referring not to the singers (so Geldner et al.) but to still other patrons with whom they are competing to provide the best recompense to the singers.
 </details>
 
 <details><summary>Griffith</summary>
@@ -270,8 +273,6 @@ Wir wollen uns an der zehnfachen Speisung gütlich tun, wenn sie kommen und die 
 А что, Ишташва, Иштарашми, эти  
 Повелители силы превосходства бросятся (награждать) мужей?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

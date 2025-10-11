@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशोकः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषाम्। इध्मः। बृहत्- महान्। भूरि- प्रभूतम्। शस्तम्- स्तोत्रम्। स्वरुः- दीप्तिः शब्दो वा। स्वृ  शब्दोपतापयोः। पृथुः- महान्। येषामिन्द्रो युवा सखा॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषाम्** ऋषीणाम् **इध्मः** **बृहन्नित्** महान् खलु **भूरि** बहु च **शस्तं** स्तोत्रं **स्वरुः** च **पृथुः** महान् । सिद्धमन्यत् ॥
@@ -202,8 +205,6 @@ Hoch ist ihr Brennholz, reich ihr Lob und ihre Opfersäule breit, Die lieb dem J
 Обильна хвала, широк жертвенный столб,  
 Кому Индра – юный друг.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -233,6 +231,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नमसा- नमस्कारेण। सपर्यन्- परिचरन्। पुराजाम्- पुराणं। तं त्वाम्। सन्यसे- सम्भजनाय।  अङ्गिरस्वत्- अङ्गनशीलम्। नव्यम्- अभिनवं धनम्। कृणोमि- करोमि। बहुलाः- प्रभूताः।  अदेवीः- अन्धकारभूताः। द्रुहः- द्रोहभावनाः। वि याहि- विगमय। मघवन्- इन्द्र। नः-  अस्मदर्थम्। स्वः- धनम्। सातये- सम्भजनाय। धाः- धारयसि॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **अङ्गिरस्वत्** अङ्गिरस इव **नमसा** स्तोत्रेण **सपर्यन्** पूजयन् विश्वामित्रोऽहं **तं** तादृशमहिमोपेतं **पुराजां** पुरातनं त्वां **सन्यसे** संभजनाय **नव्यं** **कृणोमि** । स्तोतव्यतयाभिनवं करोमि । **अदेवीः** तमोरूपत्वेनाद्योतमानान् **बहुलाः** बहून् **द्रुहः** द्रोग्धॄन् शत्रुभूतान् राक्षसान् **वि** **याहि** विशेषेण मृतिं प्रापय । हे **मघवन्** इन्द्र **नः** अस्मभ्यं **स्वः** स्वं धनं च **सातये** संभजनार्थं **धाः** धेहि ॥ अङ्गिरस्वत् । अङ्गिरस इव । तेन तुल्यम्' इति वतिप्रत्ययः ।' नभोऽङ्गिरोमनुषां वत्युपसंख्यानम्' इति भसंज्ञायां सकारस्य रुत्वाभावः। सपर्यन् । सपरशब्दः कण्ड्वादिः। नव्यम् । ‘णु स्तुतौ' इत्यस्मात् ‘ अचो यत्' इति यत्प्रत्ययः । ‘धातोस्तन्निमित्तस्य' इति वान्तादेशः। यतोऽनावः ' इत्याद्युदात्तत्वम् । कृणोमि । कृवेर्लटि रूपम् । सन्यसे । सनतेर्भावे क्विप् । **यसु** प्रयत्ने'। अस्मात् क्विप् । सनः संभजनस्य यसे यत्नाय । संभजनार्थमित्यर्थः। पुराजाम्। जनेर्विटि आत्वे रूपम्। याहि । यातेर्लोटि रूपम् । स्वः । ‘स्वरादिनिपातमव्ययम्' इत्यव्ययसंज्ञायाम् ‘अव्ययादाप्सुपः' इति सुपो लुक् । सातये । ‘षण संभक्तौ । भावे क्तिन् । ' जनसन' इत्यादिना आत्वम् ।' ऊतियूति°' इत्यादिना निपातनादुदात्तः ॥
@@ -257,7 +260,6 @@ Run over the deceits, manifold and godless, and set us up to win the  sun, bount
 Pāda b, návyaṃ kṛṇomi … purājā́m “I make new (the hymn) born of old,” is about as succinct a summary of the RVic poetic enterprise as we can find in the text: the poets’ focus on ever new expressions based on traditional techniques and themes. In this particular case, Geldner suggests that purājá- refers to the Preislied of the Aṅgirases, about which we heard in vss. 7-8.
 
 On the √dhā + inf. construction, see vs. 13 above.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
@@ -291,8 +293,6 @@ Mit Anbetung ihn nach Angiras-Art verehrend, mach' ich das alterzeugte [Lied] ne
 Преодолей многие безбожные обманы  
 И дай нам, о щедрый, захватить солнце!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

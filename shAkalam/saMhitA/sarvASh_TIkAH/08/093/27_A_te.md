@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतो- बहुप्रज्ञ। ते- तुभ्यम्। विश्वा- सर्वान्। उक्था- मन्त्रान्। आ दधामि- समर्पयामि।  स्तोतृभ्यः। इन्द्रियम्- परमैश्वर्यम्। ददामि। इन्द्र। मृळय- आनन्दय॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शतक्रतो** इन्द्र **ते** तव **इन्द्रियं** वीर्यवन्तं सोमं **विश्वा** **उक्था** सर्वाणि स्तोत्राणि **आ** **दधामि** संपादयामि । हे **इन्द्र** त्वं **स्तोतृभ्यः** **मृळय** सुखय ॥
@@ -161,7 +164,6 @@ Be merciful, Indra, to the praisers.
 <details><summary>Jamison Brereton Notes</summary>
 
 Again I read the verb ā́… dadhāmi with both pādas, with slightly different senses with the two different objects and with te read as gen. with pāda a and dat. with pāda b.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -187,10 +189,6 @@ Ich bringe dir Indrakraft, alle Loblieder, du Ratreicher; sei den Sängern barmh
 
 Dir, Indra, bring ich Indrakraft, dir alle meine Sprüche dar, Kraftreicher, sei den Sängern hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

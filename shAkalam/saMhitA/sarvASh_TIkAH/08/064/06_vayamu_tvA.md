@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रगाथः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुते- रसे निष्पन्ने। वयम्। दिवा नख्नम्। त्वा- त्वाम्। हवामहे- आह्वयामः। अस्माकम्- नः।  कामम्- इच्छाम्। आ पृण- आपूरय॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **वयं** **त्वा** त्वां **दिवा** अहनि **सुते** सोमेऽभिषुते **हवामहे** आह्वयामः । तथा **वयं**  **नक्त** हवामहे । आहूत आगत्य **अस्माकं** **काममा** **पृण** आपूरय ॥ ॥ ४४ ॥
@@ -196,8 +199,6 @@ Wir rufen dich am Tage an und in der Nacht beim Somasaft, Erfülle unsre Wünsch
 Мы зовем ночью.  
 Наше желание исполни!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

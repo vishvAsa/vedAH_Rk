@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे वाताः प्राणविशेषाः। यः। नः- अस्मान्। अति- अतिक्रम्य। मन्यते- अभिमानं  करोति। यः। क्रियमाणम्। ब्रह्म- मन्त्रं मन्त्रात्मकं कर्म वा। निनित्सात्- निन्दितुमिच्छेत्। तस्मै।  तपूंषि- तापकानि। वृजिनानि- दुःखानि। सन्तु- भवन्तु। द्यौः- सूर्यः। तम्। ब्रह्मद्विषम्-  श्रुतिद्वेषिणम्। अभि शोचतु- अभितपतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुतः** **यः** पुरुषः **नः** अस्मान् **अति** **मन्यते** अतीत्य स्वस्याधिक्यं मन्यते अस्मत्तोऽपि स्वयमधिक इति बुध्यते । अस्माभिः **क्रियमाणं** **ब्रह्म** स्तोत्रं **वा** **यः** **निनिस्सात्** निन्दितुमिच्छेत् **तस्मै** पुरुषाय **तपूंषि** तेजांसि **वृजिनानि** बाधकानि **सन्तु** भवन्तु । **ब्रह्मद्विषं** **तं** शत्रुं **द्यौः** आदित्यश्च **अभि** **शोचतु** अभितपतु । अभिदहतु ॥
@@ -283,8 +286,6 @@ Oldenberg, Geldner, and Renou all take vṛjinā́ni as a nominalized adjective 
 
 (‘twisted [ways]’) and as an adj. ‘twisting’ characterizing the flames. In this way the punishment fits the crime. Note that vṛjiná- was used twice in the preceding hymn, VI.51.2, 13.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -317,8 +318,6 @@ Wer uns verachtet, o ihr Marutscharen, wer das Gebet, das wir verrichten, schmä
 Пусть (его) козни станут ему языками пламени!  
 Пусть небо испепелит ненавистника молитвы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

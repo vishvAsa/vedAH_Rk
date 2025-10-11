@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्र उषाश्च"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः दुहितरम्- दिव्याम्। महीयमानाम्- पूज्याम्। उषसं। इन्दो- ईशनाधिदैवत। महान्- महात्मा  सन्। सम्- सम्यक्। पिणक्- पिष्टवानसि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **महान्** त्वं **दिवः** **दुहितरं** द्युलोकस्य पुत्रीं **महीयमानां** पूज्यमानाम् **उषसम्** उषोदेवीं **सं** **पिणक्** **चिद्ध** संपिष्टवानसि खलु ॥
@@ -159,8 +162,6 @@ crushed Dawn completely.
 <details><summary>Jamison Brereton Notes</summary>
 
 The voc. indra was omitted in the published translation, so “o Indra” should be inserted at the end.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
@@ -193,8 +194,6 @@ Des Himmels Tochter, Indra, hast du grosser, die sich gross erschien, Die Morgen
 Мнящую себя великой,  
 Ушас, разбил Индра.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

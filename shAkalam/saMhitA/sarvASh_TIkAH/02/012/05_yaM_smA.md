@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -301,6 +299,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। घोरम्- भयङ्करमिन्द्रम्। कुह- कुत्र। सः। इति। पृच्छन्ति। उत- अपि च। एषः-  अयमिन्द्रः। नास्तीति। एनम्- एतं यम्। आहुः- वदन्ति च। सः। अर्यः- आर्यशीलः। विजइव-  उद्वेजक इव। न यथार्थेनोद्वेजक इति इवशब्देन ज्ञायते। पुष्टीः- दस्यूनां बलानि। मिनाति- हिनस्ति।  अस्मै- एतस्मै। श्रत् धत्त- श्रद्धां वहत। स जनास इन्द्रः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अपश्यन्तोजनाघोरंशत्रूणाङ्घातकंयम्पृच्छन्तिस्मकुहसेति सइन्द्रः कुत्रवर्ततइति सेति सोचिलोपे- चेत्पादपूरणमितिसोर्लोपेगुणः नक्वचिदसौतिष्ठतीतिमन्यमानाजनाएनमिन्द्रमाहुः एषइन्द्रोनास्तीति तथाचमन्त्रे—नेन्द्रोअस्तीतिनेमउत्वआहेति । ईमितिपूरणः उतापिचसइन्द्रोविजइव इवशब्दएवार्थे उद्वेजकएवसन् अर्योरेःसम्बन्धीनिपुष्टीः पोषकाणि गवाश्वादीनिधनानि आमिनाति सर्वतोहिनस्ति मीङ् हिंसायां मीनातेर्निगमेइतिह्रस्वः तस्मात् श्रदस्माइन्द्रायधत्तसइन्द्रोस्तीतिविश्वासमत्रकुरुत यद्यप्यसौविशेषतोस्माभिर्नदृश्यते तथापिअस्तीतिविश्वासङ्कुरुत एवन्निर्धारणमहिमोपेतः सइन्द्रोना- हमिति ॥ ५ ॥
@@ -323,8 +326,6 @@ he diminishes the riches of the stranger like the stakes. Put trust in him!  –
 <details><summary>Jamison Brereton Notes</summary>
 
 Although in answer to the question in pāda a kúha sá “where is he,” we might expect naíṣó asti to mean “he is not (here),” I prefer the existential “he does not exist” of the published translation for two reasons. In main clauses the pres. copula asti is almost always existential, and doubts about Indra’s existence are expressed elsewhere in the RV.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -365,8 +366,6 @@ Der hehre Gott, von dem sie zweifelnd fragen: »wo ist er?«, spottend sagen »I
 Кто уменьшает богатства чужого человека, как (неудачные) ходы (в игре),  
 Верьте в него – тот, о люди, Индра!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समया भवाति- समीपस्था भवत्युषाः। यत्- यदेतत्। कियति - कियति काले प्रवृत्तं परिसमाप्तं  वा। आ इति प्रश्नार्थः। अस्या आनन्त्यमनेन प्रश्नेन ज्ञायते। याः- या उषसो विद्याः। पूर्वाः-  पूर्वमेव। व्यूषुः- व्युष्टाः। याश्च- या विद्याश्च। नूनम्- निश्चयेन। व्युच्छान्- व्युष्टा भवेयुः। वावशानाः- ताः सर्वाः कामयमानाः। अनु कृपते- एषा विद्या अनुकल्पते। प्रदीध्याना-  देदीप्यमाना। एषा उषा विद्या। अन्याभिः- इतराभिर्विद्याभिः। जोषमेति- सङ्गच्छते॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 समया इत्यव्ययं समीपवचनम् । उषाः **समया** **भवाति** समीपस्था भवतीति **यत्** एतत् तत् **कियति** काले प्रवृत्तं परिसमाप्तं वा इति आकारः प्रश्नार्थः। एतदुक्तं भवति । उषा येन कालेन संयुक्ता स कालः कियान् तस्य कालस्य किं परिमाणमिति । अनेन उषसोऽनन्तत्वमुक्तम् । तदेव स्पष्टीकरोति । पुरा **याः** उषसः **व्यूषुः** व्युष्टाः संजाताः। **नूनम्** अवश्यमितः परं **याश्च** उषसः **व्युच्छान्** व्युच्छन्ति व्युष्टा भविष्यन्ति । तत्र **पूर्वाः** व्युष्टा अतीता उषसः **वावशाना** कामयमाना इदानीं वर्तमाना उषाः **अनु** **कृपते** अनुकल्पते समर्था भवति । अतीता उषसो यथा प्रकाशमकुर्वन् तद्वदेषापि प्रकाशं करोतीत्यर्थः । तथा **प्रदीध्याना** प्रकर्षेण दीप्यमाना उषाः **अन्याभिः** आगामिनीभिः उषोभिः **जोषं** सह **एति** संगच्छते। आगामिन्योऽपि एतदीयं प्रकाशम् अनुकुर्वन्ति इत्यर्थः॥ कियति । किं परिमाणमस्य । किमिदंभ्यां वो घः' (पा. सू. ५. २. ४० ) इति घत्वविधानसामर्थ्यात् किंशब्दादपि परिमाणार्थे वतुप् वकारस्य घत्वम्। इदंकिमोरीश्की' (पा. सू. ६. ३.९०) इति किमः कीआदेशः । घस्य इयादेशे • यस्य° ' इति लोपः । प्रत्ययाद्युदात्तत्वम् । छान्दसः सांहितिको दीर्घः । भवाति ।लेटि आडागमः । व्यूषुः । विपूर्वो वसतिर्व्युच्छने वर्तते । लिटि उसि कित्त्वे यजादित्वात् संप्रसारणं द्विर्वचनादि । व्युच्छान् ।' उछी विवासे । विवासो वर्जनम् । लेटि आडागमः । संयोगान्तस्य
@@ -255,13 +258,10 @@ A different interpr. of the word arises from examining all the occurrences in co
 
 Every passage crucially contains the preverb/particle ví (save for VII.66.15, where víśvam takes its place):
 
-
 > ví vṛtrásya samáyā pāṣyā̀rujaḥ
 ví síndhavaḥ samáyā sasrur ádrim
 
-
 > kíyāty ā́yát samáyā bhávāti yā́vyūṣúr yā́ś ca nūnáṃ vyuchā́n
-
 
 > I.163.3ási sùmena samáyā vípṛktaḥ
 > I.166.9ákṣo vaś cakrā́samáyā ví vāvṛte
@@ -270,8 +270,6 @@ ví síndhavaḥ samáyā sasrur ádrim
 > IX.85.5 vy àvyáyaṃ samáyā vā́ram arṣasi
 
 Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that frequently work formulaically with each other, samáyā seems to partake more in the semantics of sám than of samá- ‘same’ and to mean ‘altogether’, ‘all at once’, or ‘together with’. I take it in the last meaning here: the question being asked is when the current Dawn will be (re)joined with her sister Dawns, both preceding and following her.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
@@ -310,8 +308,6 @@ Wie lange währt's, dass sie mit denen eins wird, die früher strahlten und noch
 С готовностью она равняется на прежние (зори),  
 Размышляя, идет радостно с другими.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

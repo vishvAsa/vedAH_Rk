@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। देवान्। ऋघायतः- बाधमानान्। विश्वान्- सर्वान्। एकः- अनितरः। इत्- एव। अयुध्यः-  युद्धमकरोः। इन्द्र- परमेश्वर। वनून्- हिंसकान्। अहन्- अवधीः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वम्** **एक** **इत्** असहाय एव **यत्र** यस्मिन् संग्रामे **देवान्** इन्द्रादीन् **ऋघायतः** बाधमानान् **विश्वान्** सर्वान् राक्षसादीन् **अयुध्यः** युद्धमकरोः । तथा **वनृन्** हिंसकान् **अहन्** अवधीः ॥ ॥ १९ ॥
@@ -179,8 +182,6 @@ Why this should be like coming by foot (padéva) is not entirely clear: the jour
 When sácā occurs with a loc., it generally lacks lexical value and simply signals a locative absolute -- as in the common expression suté sácā “when (the soma) is pressed.” I think that is the intention here, in the phrase sū́rye sácā: it is a temporal expression, “when the sun (rises)”; cf. I.135.3 and comm. ad loc. I have here included a lexical tr. “in company with” because I think sácā, with lexical value, needs to be supplied or understood in the next vs., 6c, for which see disc. below.
 
 However, I would now be inclined simply to tr. here “I have taken my share at sun(rise).”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -216,8 +217,6 @@ Als die ergrimmten Götter du bekämpftest, alle du allein, Und Indra du die Str
 Ты поборол совсем один,  
 (И) разбил, о Индра, преследователей...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

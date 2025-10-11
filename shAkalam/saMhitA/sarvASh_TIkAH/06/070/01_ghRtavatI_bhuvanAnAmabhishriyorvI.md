@@ -3,7 +3,6 @@ title = "001"
 devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+घृतवती- दीप्तिमत्यौ। भुवनानाम्- जगताम्। अभिश्रिया- आश्रयभूते। उर्वी- विस्तीर्णे। पृथ्वी-  पृथुले। मधुदुघे- मधुरदोग्ध्र्यौ। सुपेशसा- सुरूपिण्यौ। अजरे- जरारहिते। भूरिरेतसा-  प्रभूतोदके। द्यावापृथिवी- द्यावापृथिव्यौ। वरुणस्य- ऋताधिदैवतस्य। धर्मणा- धर्मेण। विष्कभिते-  पृथक् धारिते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **द्यावापृथिवी** द्यावापृथिव्यौ **घृतवती** दीप्तिमत्यौ उदकवत्यौ वा । ‘वनं घृतम्' इत्युदकनामसु पाठात् । भवत इति शेषः । **भुवनानां** भूतानाम् **अभिश्रिया** अभिश्रयणीये भवत इति  सर्वत्रानुसंधेयम् । **उर्वी** विस्तीर्णे **पृथ्वी** बहुकार्यरूपेण प्रथिते च **मधुदुघे** मधुन उदकस्य **दोग्र्यौती** **सुपेशसा** सुरूपे **वरुणस्य** सर्वस्य नियामकस्य **धर्मणा** धारणेन **विष्कभिते** पृथग्धारिते **अजरे** नित्ये **भूरिरेतसा** बहुरेतस्के बहुकायें वा भवतः। अत्र साक्षात् द्यावापृथिव्योः स्तुतिः प्रसङ्गात् वरुणस्येति द्रष्टव्यम् ॥
@@ -198,8 +201,6 @@ Heaven and Earth were propped apart according to the foundation of  Varuṇa, th
 <details><summary>Jamison Brereton Notes</summary>
 
 pṛthvī́here (and in the same phrase in 4c) is of course a blindingly obvious pun: though used as an adj. here (‘broad’) it is of course (almost) identical to the standard word for ‘earth’, found in the dual dvandva dyā́vā-pṛthivī́in the next pāda (also 4a, 5a). By an accident of grammar, the nom./acc. dual fem. (in pṛthvī́, here modifying the dual dvandva) and the nom. singular. fem. pṛthivī́‘earth’ have the same ending -ī́. This grammatical pun is only actualized fully in the final vs. of the hymn, where we get the conjoined singular NP dyaúś ca pṛthivī́ca.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -235,8 +236,6 @@ Die reich an Fett ihr alle Wesen schön erfüllt, ihr weiten, schönen Welten, H
 Небо-и-Земля по закону Варуны  
 Укреплены порознь, нестареющие, обильные семенем.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

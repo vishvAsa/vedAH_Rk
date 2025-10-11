@@ -3,7 +3,6 @@ title = "005"
 devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदि- यदा। अतः- द्युलोकाच्चिदाकाशात्। विः- पक्षी मुमुक्षामोक्षप्रतीकः। वेविजानः- कम्पयिता  सन्। भरत्- अमृतमाहरति। तदा। मनोजवाः- मनोवेगः पक्षी। अरुणा- रोचमानेन। पथा-  मार्गेण। असर्जि- संसृष्टो भवति। मधुना- मधुरेण। सोम्येन- रसेन। तूयम्- क्षिप्रम्। ययौ-  आगच्छति। उत- अपि च। अत्र। श्येनः। श्रवः- श्रुतिम्। विविदे- लेभे॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यदि** यदा विः पक्षी श्येनः अतः अमुष्मात् द्युलोकात् **वेविजानः** सोमपालकान् भीषयन् भरत् अहरत् । सोममाहृतवान् । तदा उरुणा विस्तीर्णेन पथा अन्तरिक्षमार्गेण **मनोजवाः** मनोवत् वेगयुक्तः सन् असर्जि संसृष्टः आसीत् । सोम्येन सोममयेन मधुना अन्नेन सह **तूयं** क्षिप्रं ययौ जगाम । उत अपि च अत्र अस्मिन् लोके श्येनः सुपर्णः श्रवः सोमाहरणनिमित्तं यशः विविदे लेभे ॥
@@ -246,8 +249,6 @@ My interpr. depends on reading (as sometimes elsewhere) yádi (‘if’) as yád
 
 *ī (‘when it’), despite the short i before a single consonant. It is possible that yád *ī
 was changed redactionally, to match yádi in IV.27.3. A heavy syllable in fourth place in an opening of four is standard (see Arnold 182, 188), and in particular the sequence of four shorts in #(bhárad) yádi | vír á(to) seems quite unusual, while a long vowel before the caesura and preceding a break of two shorts is metrically more favorable -- though given the many metrical departures in this hymn (see, e.g., the next vs.), this is not a strong argument.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
@@ -281,8 +282,6 @@ Als ihn von dort der rasche Vogel brachte, da flog gedankenschnell auf weitem Pf
 Быстро прилетела она с медом – сомой,  
 И орел при этом нашел славу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - सदापृण आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्य- इदानीम्। नु- क्षिप्रम्। एत- गच्छत। सुध्यः- शोभनध्यानाः। भवाम। दुच्छुनाः- द्विषः।  प्र- प्रकर्षेण। वरीयः- अत्यर्थम्। मिनवाम- हिंसाम। सनुतः- सम्भजमानानि। द्वेषांसि-  द्वेषभावनानि। आरे- दूरे। दधाम। यजमानम्- पूजकं दातारं सङ्गतिकारकम्। अच्छ- अभिलक्ष्य।  प्राञ्चः। अयाम- गच्छाम॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमङ्गिरसां वादः । **अद्य** अस्मिन् यागदिने **नु** क्षिप्रम् **एतो** एत गच्छत । **सुध्यः** शोभनकर्माणः **भवाम** । **दुच्छुनाः** द्विषः **प्र** **मिनवाम** प्रकर्षेण हिंसाम **वरीयः** अत्यन्तमित्यर्थः । तदेवोच्यते । **सनुतः** संभक्तॄन् **द्वेषांसि** यजमानस्य द्वेष्टॄन् **आरे** दूरे **दधाम** स्थापयाम । यद्वा । सनुतरित्यन्तर्हितनाम । पूर्वं प्रकाशवैरिणां वध उक्त इदानीं प्रच्छन्नानामिति विवेकः । तदर्थं **यजमानं** प्राञ्चः सदापृणमवत्सारं च **अच्छ** अभिमुखम् **अयाम** गच्छाम ॥ ॥ २६ ॥
@@ -233,8 +236,6 @@ sacrificer.
 <details><summary>Jamison Brereton Notes</summary>
 
 As suggested already by Geldner (n. 5b) and, independently, Thieme (ZDMG 95 [1941] 82-83 [=KlSch. 7-8]) and accepted by all subsequent tr., a better reading is obtained by segmenting duchúnām inavāma, against Pp. duchúnā minavāma. This requires no emendation to the Saṃhitā text.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -268,8 +269,6 @@ Kommt heute her, wir wollen sein voll Andacht, wir wollen weithin jagen die Unho
 Мы придем расположенными к жертвователю.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -290,7 +289,7 @@ Kommt heute her, wir wollen sein voll Andacht, wir wollen weithin jagen die Unho
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है । जो मनुष्य विज्ञान को बढ़ाते, दुष्टों का निवारण करते और द्वेष आदि दोषों से रहित हुए सनातन सत्य को धारण करते हैं, वे अत्यन्त प्रशंसा के योग्य होते हैं ॥५॥
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है । जो मनुष्य विज्ञान को बढ़ाते, दुष्टों का निवारण करते और द्वेष आदि दोषों से रहित हुए सनातन सत्य को धारण करते हैं, वे अत्यन्त प्रशंसा के योग्य होते हैं ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

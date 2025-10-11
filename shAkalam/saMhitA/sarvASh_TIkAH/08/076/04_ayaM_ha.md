@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। मरुत्वता- मरुत्सहायेन। इन्द्रेण। सोमपीतये- रसानुभूतये। स्वः- सर्वम्। जितम्।  अयमिन्द्रो रक्षतु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयं** **ह'** खल्विन्द्रः **येन** **वै** येन खलु **मरुत्वता** मरुद्भिर्युक्तेन **इन्द्रेण** **इदं** **स्वः** स्वर्गाख्यं स्थानमिदं स्वः सर्वं कर्म वा यद्वेदं सर्वं जगत् **जितम्** । किमर्थम् । **सोमपीतये** सोमपानाय ॥
@@ -182,10 +185,6 @@ Dieser Indra, der Marutbegleitete, der ja diese Sonne erobert hat, komme zum Som
 
 Ja, Indra mit der Marutschar, er ist's, durch den dies Himmelslicht Errungen ward zum Somatrunk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

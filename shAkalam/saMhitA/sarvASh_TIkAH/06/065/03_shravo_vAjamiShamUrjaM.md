@@ -3,7 +3,6 @@ title = "003"
 devataa = "उषाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रवः- श्रुतिम्। वाजम्- सद्गतिम्। इषम्- सदेषणाम्। ऊर्जं- प्राणम्। वहन्तीः- वहन्त्यः।  मघोनीः- सम्पद्वत्यः। वीरवत्- वीर्यं यथा भवति तथा। पत्यमानाः- पतन्त्यः। उषसः-  ज्ञानोदयदेवताः। अद्य- इदानीम्। विधते- परिचरते। दाशुषे- दात्रे। मर्त्याय- मनुष्याय। नि-  नितराम्। अवः- रक्षणम्। रत्नम्- हितरमणीयभावनम्। धात- धत्त॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उषसः** **दाशुषे** हविषां दात्रे **मर्त्याय** **श्रवः** कीर्तिं **वाजं** बलम् **इषम्** अन्नम् **ऊर्जं** रसं च **वहन्तीः** वहन्त्यो यूयं **मघोनीः** धनवत्यः **पत्यमानाः** गच्छन्त्यः **अद्य** **विधते** परिचरते मह्यं **वीरवत्** पुत्रपौत्रादिसहितम् **अवः** अन्नम् । ‘ सिनम् अवः ' इत्यन्ननामसु पाठात् । **रत्नं** धनं च । श्वात्रं रत्नम् ' इति धननामसु पाठात् । **नि** **धात** नितरां धत्त ॥
@@ -244,8 +247,6 @@ As noted in the published introduction, gárbham √dhā ‘place the embryo’ 
 
 is used a number of times of the Maruts (5.41.13, 55.3, 59.3, 87.3), including once in a birth context: V.55.3 sākáṃ jātā́ḥ subhvàḥ “born all at once, good in essence.” As with mahȧḥ in pāda c I interpr. the singular here as referring to the collectivity of the Maruts.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -278,8 +279,6 @@ O Morgenröthen, Gut und Labung fahrend und Speis' und Trank dem sterblichen Ver
 Даруйте помощь поклоняющемуся (вам) – сокровище (прямо) сейчас!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - उषाः
@@ -300,7 +299,7 @@ O Morgenröthen, Gut und Labung fahrend und Speis' und Trank dem sterblichen Ver
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जो उषा के समान वर्त्तमान, सत्यशास्त्र श्रवणादियुक्त, बलिष्ठ, विचक्षण (चित्र-विचित्र बुद्धियुक्त) धन और ऐश्वर्य्य की बढ़ानेवाली, रक्षा में तत्पर, विदुषी स्त्रियाँ हों, उनके बीच से अपनी-अपनी प्रिया भार्या को सब ग्रहण करें ॥३॥
+भावार्थभाषाः -  हे मनुष्यो ! जो उषा के समान वर्त्तमान, सत्यशास्त्र श्रवणादियुक्त, बलिष्ठ, विचक्षण (चित्र-विचित्र बुद्धियुक्त) धन और ऐश्वर्य्य की बढ़ानेवाली, रक्षा में तत्पर, विदुषी स्त्रियाँ हों, उनके बीच से अपनी-अपनी प्रिया भार्या को सब ग्रहण करें ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

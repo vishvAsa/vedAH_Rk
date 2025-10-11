@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ग्रावा- स्थैर्यप्रतीकः पाषाणः। वृषा- वर्षकः। मदः- त्वद्धर्षः। वृषा। वृषा। अयम्- एषः। सोमः-  रसः। सुतः- निष्पन्नः। वृषन्- वर्षक। इन्द्र- परमेश्वर। वृषभिः- स्ववर्षकशख्निभिः। वृत्रहन्तम-  अतिशयेन वृत्रनाशक॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ग्रावा** अभिषवसाधनः पाषाणः **वृषा** वर्षकः सोमरसस्य फलस्य वा। **मदः** सोमपानेन जनितः **वृषा** वर्षकः । **अयं** **सुतः** अभिषुतः **सोमः** **वृषा** । तं सोमं **वृषभिः** सह पिब ॥
@@ -201,10 +204,6 @@ Bullengleich ist der Preßstein, bullengleich der Rausch, bullengleich dieser au
 
 Der Stein ist Stier, und Stier der Trank, Gepresst ist Soma hier, der Stier, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

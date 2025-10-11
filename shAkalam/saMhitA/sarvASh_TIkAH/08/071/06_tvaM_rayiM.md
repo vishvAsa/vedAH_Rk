@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    त्वम्। पुरुवीरम्- प्रभूतवीर्यसम्पन्नम्। रयिम्- धनम्। दाशुषे- दात्रे। मर्ताय- मर्त्याय नयसि।  नः- अस्मान्। वस्यः- सम्पदः। अच्छ- अभिलक्ष्य।  प्र- प्रकर्षेण। नय॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **त्वं** **दाशुषे** हविर्दत्तवते मर्त्याय यजमानाय **रयिं** धनं **पुरुवीरं** बहुभिर्वीरैर्युक्तं प्रयच्छसि । अतः **नः** अस्मानपि **वस्यः** वसीयो धनम् **अच्छ** अभिप्राप्तुं **प्र** **णय** प्रापय ॥
@@ -197,10 +200,6 @@ Du gibst dem opferspendenden Sterblichen einen Schatz von vielen Söhnen, Agni. 
 
 Gib du, Agni, heldenreichen Schatz dem sterblichen Verehrer, Führe uns zu schönerm Gute.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

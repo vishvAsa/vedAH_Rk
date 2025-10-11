@@ -3,7 +3,6 @@ title = "016"
 devataa = "आदित्या उषाश्च"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - त्रित आप्त्यः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 tádannāya ← tádanna- (nominal stem)  
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    तदन्नाय- जाग्रद्भुख्नान्नाध्यासयुख्नाय। तदपसे- जाग्रत्कर्मवासनाध्यस्ताय। तं भागं उपसेदुषे-  जाग्रदनुभवांशयुख्नाय। त्रिताय। द्विताय- दैवमानुषयुख्नाय। उषः। दुष्ष्वप्न्यम्। वह- दूरे  प्रापय॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तदन्नाय** । यदेव जागरावस्थायां भोज्यत्वेन प्रसिद्धं मधुपयसादि स्वप्नेऽपि तदेवान्नं यस्य सः । तादृशाय । प्रत्यक्षभोजनवत् स्वप्नेऽपि भोक्त्र इत्यर्थः। तथा **तदपसे** । यदेवापः कर्म निन्दितं जाग्रदवस्थायां क्रियते तदेव कर्म स्वप्ने यस्य स तत्कर्मा । तादृशाय देवाय **तं** **भागं** दुःस्वप्नस्यांशम् **उपसेदुषे** प्राप्नुवते **त्रिताय** **द्विताय** **च** हे **उषः** देवि **दुष्वप्न्यम्** अन्नकर्मविषयं **वह** अन्यत्र प्रापय । स्वप्ने दृष्टं मधुभोजनादिकं जाग्रदवस्थानुभूतवत् सुखकरं भवत्वित्यर्थः ॥
@@ -290,8 +293,6 @@ Der diese Speis' und dieses Werk gewohnt ist, diesen Antheil hat, dem Trita und 
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

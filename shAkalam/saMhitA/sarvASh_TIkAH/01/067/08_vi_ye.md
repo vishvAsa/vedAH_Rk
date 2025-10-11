@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,12 +140,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ईम्- एनम्। गुहा भवन्तम्- हृद्गुहायामवस्थितम्। चिकेत- वेद। कित ज्ञाने। ऋतस्य-  प्रकृतिनियतेः। धाराम्- प्रवाहम्। यः। आ ससाद- उपास्ते। ये। ऋता- प्रकृतिनियतीः। सपन्तः-  स्पृशन्तः। वि- विशेषेण। चृतन्ति- कर्म ग्रथ्नन्ति। चृती हिंसाग्रन्थनयोः। आदित्-  ऋतस्पर्शानन्तरम्। अस्मै- ऋतस्पर्शसमूहाय। प्र- प्रकर्षेण। वसूनि- अध्यात्मसंपदः। ववाच-  उपदिशति॥७॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** पुमान् **ईम्** एनं **गुहा** **भवन्तं** गुहायां सन्तमग्निं **चिकेत** जानाति । **यः** च **ऋतस्य** सत्यस्य यज्ञस्य वा **धारां** धारयितारमेनमग्निम् **आ** **ससाद** आसीदति उपास्ते इत्यर्थः । **ये** च **ऋता** ऋतानि सत्यानि यज्ञान् वा **सपन्तः** समवयन्तः स्पृशन्तो वा पुरुषा एतमग्निं **वि** **चृतन्ति** अग्निमुद्दिश्य स्तुतीर्ग्रथ्नन्ति कुर्वन्तीत्यर्थः । **आदित्** स्तुत्यनन्तरमेव **अस्मै** सर्वस्मै स्तोतृजनाय **वसूनि** धनानि **प्र** **ववाच** प्रकथयति ॥ चिकेत । ‘ कित ज्ञाने '। लिटि णलि लित्स्वरः । चृतन्ति । ‘चृती हिंसाग्रन्थनयोः' । तौदादिकः । लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते । ववाच । लिटि ‘ब्रुवो वचिः । ‘ लिट्यभ्यासस्योभयेषाम् ' ( पा. सू. ६. १. १७ ) इति अभ्यासस्य संप्रसारणम् । ‘ संप्रसारणाच ' इति परपूर्वत्वस्य ' वा छन्दसि ' ( पा. सू. ६. १. १०६ ) इति विकल्पनात् यणादेशः ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -160,8 +161,6 @@ for him, because of this, he [=Agni] has proclaimed good things.
 The verb ví … cṛntánti lacks an overt object, and several different ones have been proposed: Geldner (in n.) suggests it’s “the stream of truth” from 7d; Renou supplies “(l’énigme)”; and Witzel Gotō read ṛtā́with this verb as well as the participle sápantaḥ (“welche … die Ṛtas aufknoten, (sie) pflegend”). Since the other two occurrences of this root (impv. ví … cṛta I.25.21, ppl. vícṛtta-) are both construed with pā́śa- ‘fetter’, that seems the likely object here as well. More speculatively, on the basis of VII.59.8 druháḥ pā́śān ‘fetters of deceit’, I have supplied that whole phrase here, since ‘deceit’ contrasts nicely with the emphasis on ṛtá- ‘truth’.
 
 The pf. prá vavāca is one of the very few pf. forms to √vac with full reduplication (against uvā́ca, etc.). On the basis of its agreement with Aves. vauuac-, Kümmel (p. 441) considers this the older type of reduplication, with the newer type spreading from Samprasāraṇa roots.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -193,10 +192,6 @@ jeden der ihn entbindet, die Wahrheit pflegend,
 
 Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfers setzte, Und die ihn lösen – der Bräuche wartend, für die hat Güter – er stets verkündet.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

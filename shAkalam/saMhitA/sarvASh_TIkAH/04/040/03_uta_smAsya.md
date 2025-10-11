@@ -3,7 +3,6 @@ title = "003"
 devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। अस्य- एतस्य। द्रवतः- सरतः। तुरण्यतः- वेगवतः। प्रगर्धिनः-  अभिकाङ्क्षतोऽश्वस्य गतिम्। वेः- पक्षिणः। पर्णं- पक्षम्। न- इव। अनु वाति- जनोऽनुगच्छति।  ध्रजतः- सरतः। श्येनस्येव। अङ्कसम्- पादाधारम्। परि- परितः। तरित्रतः- तारकस्य। २    दधिक्राव्णः- अश्वदेवस्य। ऊर्जा- शत्तया सह। सर्वो गच्छतीति शेषः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **स्म** अपि च खलु **द्रवतः** गच्छतः **तुरण्यतः** त्वरमाणस्य **प्रगर्धिनः** प्रकर्षेणाभिकाङ्क्षतः **अस्य** **दधिक्राव्णः** देवस्य गतिं **वेः** गन्तुः पक्षिणः**पर्णं** **न** गमनं पत्रं वा अनुसृत्य यथा वान्त्यन्ये पक्षिणस्तद्वत् **अनु** **वाति** सर्वो वेगवान् जनः । सर्वेषामपि शीघ्रगामीत्यर्थः । किंच **ध्रजतः** गच्छतः **तरित्रतः** तारयतोऽन्यान् ॥ अन्तर्भावितण्यर्थोऽयम् ॥ **श्येनस्येव** **अङ्कसं** पादाधारम् उरःप्रदेशं वा **परि** परितः **ऊर्जा** बलेन निमित्तेनान्नार्थं वा **सह** एकीभूय । संघेन गच्छन्तीति शेषः ॥
@@ -273,8 +276,6 @@ As both Geldner and Oldenberg point out, the parṇám ‘wing, feather(s)’ in
 
 I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curving racetrack rather than, with some, as a curvy part of a horse. Since áṅkāṃsi in the next vs. clearly refers to the racetrack, it’s unlikely that a related word would have an entirely different referent in such close proximity.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -300,7 +301,6 @@ Of the impetuous eagle, (after him) Dadhikravan,
 As in his might he crosseth the winding ways.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Und hinter ihm, dem Laufenden, Vorauseilenden weht der Wind hinterdrein wie hinter dem Flügel eines beutegierigen Vogels, wenn Dadhikravan wie ein Adler sausend mit seiner Kraft den Rank abgewinnt.
@@ -319,8 +319,6 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 Благодаря (своей) силе превосходит кривую (противника).
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दधिक्रावा
@@ -336,7 +334,7 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  जो जन (अङ्कसम्) लक्षण का (ध्रजतः) वेग से जाते हुए (प्रगर्धिनः) अत्यन्त लोभी (श्येनस्येव) वाज पक्षी के सदृश (ऊर्जा) पराक्रम से (तरित्रतः) मार्ग के पार उतारने और (दधिक्राव्णः) धारण करनेवाले की धारणा करनेवाले वायु (अस्य, उत) और इस (द्रवतः) दौड़ते तथा (तुरण्यतः) शीघ्र चलते हुए की (पर्णम्) प्रजापालना के (न) सदृश और (वेः) पक्षी के सदृश राजा की प्रजापालना के (स्म) ही (परि) सब प्रकार (अनु, वाति) पीछे चलता है उसके (सह) साथ मन्त्री जन सम्मति करें ॥३॥
+पदार्थान्वयभाषाः -  जो जन (अङ्कसम्) लक्षण का (ध्रजतः) वेग से जाते हुए (प्रगर्धिनः) अत्यन्त लोभी (श्येनस्येव) वाज पक्षी के सदृश (ऊर्जा) पराक्रम से (तरित्रतः) मार्ग के पार उतारने और (दधिक्राव्णः) धारण करनेवाले की धारणा करनेवाले वायु (अस्य, उत) और इस (द्रवतः) दौड़ते तथा (तुरण्यतः) शीघ्र चलते हुए की (पर्णम्) प्रजापालना के (न) सदृश और (वेः) पक्षी के सदृश राजा की प्रजापालना के (स्म) ही (परि) सब प्रकार (अनु, वाति) पीछे चलता है उसके (सह) साथ मन्त्री जन सम्मति करें ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

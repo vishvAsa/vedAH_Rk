@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्य- आर्यशील। परि- परितः। आ- आभिमुख्येन। आ याहि- आगच्छ। सोमस्य पीतये-  रसानुभूतये। स्वाहा॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अर्य** ईश्वर त्वम् **आ** **परि** सर्वतः **आ** **याहि** आगच्छ । **पीतये** तव पानार्थं **सोमस्य** सोमं **स्वाहा** स्वाहा करोमि । सिद्धमन्यत् ॥ ॥ १२ ॥
@@ -212,8 +215,6 @@ Komm vom hohen Herrn weg - Svaha! - zum Trunk des Soma! - Über jenen Himmel her
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

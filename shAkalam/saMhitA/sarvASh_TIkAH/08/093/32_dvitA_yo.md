@@ -3,7 +3,6 @@ title = "032"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतुः- बहुप्रज्ञः। इन्द्रः। वृत्रहन्तमः- अतिशयेनावरणबाधकः। द्विता- द्विधा  अभ्युदयनिःश्रेयसात्मकः। विदे- ज्ञायते॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृत्रहन्तमः** अतिशयेन वृत्रस्य हन्ता **शतक्रतुः** नानाविधकर्मा **यः** **इन्द्रः** **द्विता** द्विधा **विदे** वृत्रवधादावुग्रकर्मा जगद्रक्षणकाले शान्तकर्मेति द्विप्रकारेण सर्वैर्ज्ञायते । **विद** ज्ञाने'। कर्मणि विहितस्य तप्रत्ययस्य लोपस्त आत्मनेपदेषु' इति तलोपः । स त्वं **हरिभिः** सह **सुतं** सोममुपयाहि ॥
@@ -193,10 +196,6 @@ Der doppelt, als der Erzfeindetöter und als der ratreiche Indra, bekannt ist, k
 
 Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen komm zu unserm Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

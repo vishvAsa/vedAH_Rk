@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - विश्वमना वैयश्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- अमी यूयम्। नः- अस्माकम्। नावम्- नौकाम्। उरुष्यत- रक्षत। दिवा नख्नम्- अहोरात्रम्।  सुदानवः- शोभनदानाः। अरिष्यन्तः- अहिंसन्तः। पायुभिः- रक्षाभिः। नि- नितराम्। सचेमहि-  समवेता भवेम॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुदानवः शोभनदाना मरुतः **अरिष्यन्तः** केनाप्यहिंसिताः **ते** तादृशा यूयं **नः** अस्मदीयां **नावं** यज्ञियां नावं **दिवा** **नक्तं**  च **उरुष्यत** पालयत । ततो वयं **पायुभिः** युष्मदीयैः पालनैः **नि** **सचेमहि** नितरां समवेता भवेम ॥
@@ -179,8 +182,6 @@ You (all) of good drops—give room to our roar by day and by night. Not sufferi
 The lexeme ní √sac is found only here in the RV and indeed, judging from MonWms, in all of Sanskrit. I consider the ní here intrusive, having crept in from passsages like VII.38.3 víśvebhiḥ pātu pāyúbhir ní sūrī́n. The lexeme ní √pā is fairly well attested, and so I think ní has, as it were, hitched a ride on pāyúbhiḥ, which is ordinarily found with a form of the cognate verb as in the just cited passage.
 
 The insistent ní’s of 11c may also have played a part.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -213,8 +214,6 @@ Beschützet unser Loblied ihr, an Gaben reich bei Tag und Nacht, Mit Hütern sei
 Днем и ночью, о вы с прекрасными дарами!  
 Не терпя вреда, мы хотим быть тесно связаны с хранителями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

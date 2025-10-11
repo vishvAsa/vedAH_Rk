@@ -3,7 +3,6 @@ title = "007"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 áṁsyāḥ ← áṁsya- (nominal stem)  
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। अंस्याः- स्कन्धगाः। ये। अङ्ग्याः- अन्याङ्गेषु च स्थिताः। सूचीकाः- सूचीसदृशाः। ये।  प्रकङ्कताः। वः- युष्मासु। किं चन- ये केचन। इह- अत्र। अदृष्टाः- अदर्शनं गताः। सर्वे। साकम्-  मिलित्वा। नि जस्यत- नितरां मुञ्चत॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **अंस्याः** अंसार्हाः अंसगाः अंसे भवा अंसाभ्यां खादन्तो वा । तथा **ये** **अङ्ग्याः** अङ्गगा अङ्गेन शरीरेण हन्तारो वा लूतिकादयः । **सूचीकाः** सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः । ये च **प्रकङ्कताः** प्रकृष्टविषाः प्रकृष्टगामिनो वा महोरगाः **अदृष्टाः** अदृश्यमानाः **किं** **चन** यत्किंचित्सर्पजातमस्ति । **इह** अस्मिन् समीपे **वः** युष्माकं किमस्ति । अतो यूयं **सर्वे** **साकं** सह नितरां **जस्यत** मुञ्चत अस्मान् ॥ ‘जसु मोक्षणे' । दैवादिकः ॥
@@ -240,8 +243,6 @@ Welch stechendes Gewürm an den Schultern, an den Gliedern ist, welch Ungeziefer
 О невидимые, нет здесь ничего для вас!  
 Исчезните все сразу!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

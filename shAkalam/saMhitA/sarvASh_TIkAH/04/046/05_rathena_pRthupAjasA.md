@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पृथुपाजसा- प्रभूतबलेन। रथेन। दाश्वांसम्- दातारम्। उप गच्छतम्। इन्द्रवायू। इह- अत्र।  आगतम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्रवायू** **पृथुराजसा** प्रभूतबलेन **रथेन** **दाश्वांसं** दातारं यजमानम् **उप** **गच्छतम्** । तदर्थम् **इह** अस्मिन् यज्ञे **आ** **गतम्** आगच्छतम् ॥
@@ -187,8 +190,6 @@ O kommt auf dem weitschimmernden Gefährt zu dem Verehrer her, O Indra-Vaju, kom
 Приезжайте к почитающему (вас)!  
 О Индра-Ваю, сюда приезжайте!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

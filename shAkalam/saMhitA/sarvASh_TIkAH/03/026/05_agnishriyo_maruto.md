@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुतः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्निश्रियः- अग्निसम्पदः। मरुतः- वायवः प्राणाः। विश्वकृष्टयः- सर्वकर्माणः। तेभ्यः। त्वेषम्-  दीप्तम्। उग्रम्- उद्गूर्णम्। अवः- रक्षणम्। वयम्। ईमहे- याचामहे। ते- अमी। स्वानिनः-  शब्दवन्तः। रुद्रियाः- रुद्रजाः। वर्षनिर्णिजः- वर्षारूपाः। सिंहाः। न- इव। हेषक्रतवः- गर्जन्तः।  सुदानवः- शोभनदाना भवन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अग्निश्रियः** वैद्युतम् अग्निं श्रयन्तः  
@@ -238,14 +241,12 @@ _________
 who are like lions, of roaring might, the very generous [gods]
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 स्वानिन् → स्वामिन् 
 
 A single nasal consonant change in the taittirIya-shruti wrt to the RV in a R^ik of the agni-mAruta incantation. The only occurrence svAmin in TB. Is it just a minor pATha-bheda or something more serious that points to an alignment with the later religion.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -289,8 +290,6 @@ Wie Feuer glänzt die menschenholde Marutschar, wir wünschen ihre schnelle, sta
 Эти гремящие сыновья Рудры, одетые в дождь, –  
 (Те,) что подобны львам, чья сила духа в реве, очень щедрые (боги).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

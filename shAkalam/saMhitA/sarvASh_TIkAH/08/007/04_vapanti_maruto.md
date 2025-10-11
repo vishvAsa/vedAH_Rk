@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वायुभिः- साधारणवातैः साधारणप्राणैः। यत्- यदा। यामम्- मार्गे। यान्ति- गच्छन्ति तदा।  मरुतः- विशेषवाता विशेषप्राणा वा। मिहम्- अपां वृष्टिं मूलशख्निधाराणां वा वृष्टिम्। वपन्ति-  विक्षिपन्ति। पर्वतान्- मेघान् जडप्रतीकान्। प्र- प्रकर्षेण। वेपयन्ति- कम्पयन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मरुतः** एतत्संज्ञा देवाः **मिहं** वृष्टिं **वपन्ति** विकिरन्ति विक्षिपन्ति । तथा **पर्वतान्** गिरीन् **प्र** **वेपयन्ति** प्रकम्पयन्ति । अयमर्थः कदेति चेत् । **यत्** यदा **वायुभिः** सार्धं **यामं** रथं गमनं वा **यान्ति** प्राप्नुवन्ति तदानीमित्यर्थः ॥
@@ -159,8 +162,6 @@ when they drive their course with the winds,
 <details><summary>Jamison Brereton Notes</summary>
 
 vápanti is also echoed by vepayanti in the next pāda, and the whole verse is marked by alliteration: v’s, p’s, and r’s in vápanti … prá vepayanti párvatān; m’s in marúto míham (both sets in ab), and y’s in c: yád yā́maṃ yā́nti vāyúbhiḥ.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
@@ -198,8 +199,6 @@ Die Maruts säen Regen aus, und regen das Gebirge auf, Wenn sie mit Winden eilen
 Они сотрясают горы,  
 Когда отправляются в поход на ветрах,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

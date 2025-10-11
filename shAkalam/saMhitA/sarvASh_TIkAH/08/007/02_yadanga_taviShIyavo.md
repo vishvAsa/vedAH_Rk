@@ -3,7 +3,6 @@ title = "002"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तविषीयवः- हे शख्निमन्तः। शुभ्राः- शुक्लाः। यत्- यदा। यामम्- मार्गम्। अचिध्वम्- सङ्गतं  कुरुथ। तदा। पर्वताः- गिरयो मेघा वा। नि अहासत- नितरां स्वस्थानात् प्रचलन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **तविषीयवः** । तविषीति बलनाम। तां कामयमानाः । यद्वा । बलयुक्ताः । हे **शुभ्राः** शोभमानाः **अङ्ग** हे मरुतः **यामम्** । याति गच्छ्तीति यामो रथः । तं **यत्** यदा **अचिध्वं** समचिनुध्वं अश्वादिभिः साधनैः संचितं संश्लिष्ट कुरुथ गमनार्थं तदानीं **पर्वताः** गिरयोऽपि **नि** **अहासत** नितरां गच्छन्ति युष्मद्रथवेगाद्भीताः सन्तः स्वस्थानात् प्रचलन्ति । ओहाङ् गतौ ' । छान्दसो लुङ् ॥
@@ -153,8 +156,6 @@ the mountains have bent down.
 <details><summary>Jamison Brereton Notes</summary>
 
 ácidhvam in b (see also the identical pāda in 14b) should be read with distracted final syllable (ácidhu vam) in order to make up an 8-syllable pāda, but it also should ideally have a heavy root syllable in order to avoid four consecutive light syllables in the cadence. (Even though I do not believe that the cadences of dimeter verse are as regulated as those in trimeter, iambic cadences do prevail, and four shorts would be quite unusual.) Werba (183, flg. Seebold) suggests that the form represents *ácid-dhu vam to √cit, which seems very plausible (also for the identical distracted form in I.87.2; in V.55.7 it does not require distraction and is therefore not diagnostic). Grassmann assigns ácidhvam to √ci, which is nearly identical in meaning to √cit; Lubotsky, curiously, puts it with √ci ‘pile’. The same type of cluster reduction is found in the Marut hymn VIII.20.18 in vavṛdhu vam, which likewise requires distraction and a heavy root syllable and represents *vavṛd-dhu vam from √vṛt ‘turn’.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
@@ -192,8 +193,6 @@ Als ihr o starke, glänzende, nun eure Reise unternahmt, Da neigten sich die Ber
 Вы задумали поход, о прекрасные,  
 (То) горы склонились (перед вами).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

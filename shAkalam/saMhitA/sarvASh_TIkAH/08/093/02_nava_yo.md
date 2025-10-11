@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बाह्वोजसा- भुजबलेन। यः। नव नवतिं पुरः- प्रभूतबन्धनानि। बिभेद- अभिनत्। अहिम्-  सर्पमिवाप्रज्ञाख्यबिलस्थं दुःसंस्कारम्। वृत्रहा- आवरणबाधकः सन्। अवधीत्- अनाशयत्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** इन्द्रः **नव** **नवतिं** नवनवतिसंख्याका एकोनशतसंख्याकाः शम्बरस्य **पुरः** पुरीः **बाह्वोजसा** स्वबाहुबलेनैव **बिभेद** दिवोदासाय भिनत्ति स्म । तथा च मन्त्रः - ‘ दिवोदासाय नवतिं च नवेन्द्रः पुरो व्यैरच्छम्बरस्य' ( ऋ. सं. २. १९. ६) इति । सः **वृत्रहा** वृत्रासुरस्य हन्ता स इन्द्रः **अहिं** **च** केनाप्यहन्तव्यं मेघमपामावरकं वृत्रं वा **अवधीत्** । स इन्द्रोऽस्माकं धनं ददात्वित्युत्तरेण संबन्धः ॥
@@ -191,10 +194,6 @@ Der die neunundneunzig Burgen gebrochen hat mit Armes Stärke, und der Vritratö
 
 Er, der mit seiner Armeskraft die neunundneunzig Burgen brach, Als Vritrafeind die Schlang' erschlug,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

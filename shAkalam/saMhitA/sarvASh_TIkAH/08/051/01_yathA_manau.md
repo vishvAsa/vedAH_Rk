@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। सांवरणौ- सम्यग्वरणशीलिनि। मनौ- विदुषि। नीपातिथौ- विनीतातिथौ याचमाने ।  मेध्यातिथौ- यज्ञार्हातिथौ। पुष्टिगौ- पोषकगतियुख्ने। श्रुष्टिगौ- क्षिप्रगामिनि। सचा- सह। इन्द्र-  परमेश्वर। सुतम्- निष्पन्नम्। सोमम्- रसम्। अपिबः- अन्वभवः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -204,8 +207,6 @@ Wie du, o Indra, bei dem Manu, dem Nachkommen des Samvarana, den gepressten Soma
 У Нипатитхи, о щедрый, у Медхьятитхи,  
 У Пуштигу вместе с Шруштигу…
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

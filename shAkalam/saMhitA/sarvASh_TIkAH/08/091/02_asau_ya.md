@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - अपालात्रेयी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 asaú ← asaú (pronoun)  
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः- यस्त्वम्। वीरकः- महावीरः। विचाकशत्- पश्यन्। गृहंगृहम्- प्रतिगृहम्। एषि- गच्छसि।  असौ- स त्वम्। इमम्- एतम्। धानावन्तम्- धान्योपेतम्। करम्भिणम्- सख्नुमन्तम्।  अपूपवन्तम्। उक्थिनम्- मन्त्रसंस्कृतम्। जम्भसुतम्- दन्तनिष्पन्नं सोमम्। पिब॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सा शक्रमब्रवीत् । हे इन्द्र **वीरकः** वीरः समर्थस्त्वं **यः** **असौ** त्वं **विचाकशत्** । ‘काशृ दीप्तौ' । यङ्लुकि शतरि रूपम् । धातोर्ह्रस्वश्छान्दसः । अत्यर्थं दीप्यमानः सन् **गृहंगृहं** यजमानगृहं प्रति सोमपानाय त्वम् **एषि** गच्छसि । अतस्त्वमत्रापि **जम्भसुतं** मम दन्तैरभिषुतम् **इमं** सोमं **पिब** । कीदृशम् । **धानावन्तम्** । धाना भृष्टयवाः । तद्वन्तं **करम्भिणं** सक्तुमन्तम् **अपूपवन्तं** पुरोडाशादिसहितम् **उक्थिनं** स्तोत्रादियुक्तमेतादृशं सोममत्रैव पिबेति । सा सोमेन सह धानादीनावेदयत् स्तोत्रं चाकार्षीदित्यर्थः ॥
@@ -220,10 +223,6 @@ Du Männlein, das da Haus für Haus beobachtend geht, trink diesen mit den Zähn
 
 Du, der du gehst ein Männchen noch, indem du Haus für Haus beschaust, Den durchs Gebiss gepressten trink sammt Gerstenkörnern und dem Brei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

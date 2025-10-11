@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्येन्द्रस्य। विश्वे- सर्वे। सोमाः- रसाः। सत्रा- सत्यमेव। अभवन्- बभूवुः। सत्रा-  सत्यमेव। मदासः- हर्षाः। बृहतः- महान्तः। मदिष्ठाः- अतिशयेन तृप्तिकरा भवन्ति। सत्रा-  सत्यमेव। वसूनां वसुपतिः- सम्पत्पालकः। अभवः- बभूविथ। दत्रे- दानाय। इन्द्र- परमेश्वर।  विश्वाः- सर्वाः। कृष्टीः- प्रजाः। अधिथाः- धारयसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वे** सर्वे **सोमाः** **अस्य** इन्द्रस्य **सत्रा**। सत्रेति सत्यनामैतत् । सत्यमेव प्रभूताः **अभवन्** । किंच **मदासः** मदा मदकराः सोमाः **बृहतः** महतोऽस्येन्द्रस्य **मदिष्ठाः** मादयितृतमाः **सत्रा** सत्यमेवाभवन् । हे **इन्द्र** त्वं **वसुपतिः** धनपतिः । न केवलं धनपतिः किंतु **वसूनां** सर्वेषां पश्वादीनां धनानां पतिः **सत्रा** सत्यमेव **अभवः** भवसि । हे इन्द्र त्वं **दत्रे** धने निमित्तभूते सति **विश्वाः** सर्वाः **कृष्टीः** स्तोत्रीः प्रजाः **अधिथाः** धारयसि ॥
@@ -250,7 +253,6 @@ separate peoples in (the path of) your giving, Indra.
 In pāda a the word víśve was omitted in the published translation, which should be emended to “Entirely his were all the soma-drinks.” The three initial satrā́(a, b, c) are echoed by dátre beginning d. Although there is some dissension on the root etym. of dátra- (cf., e.g., Oldenberg, who cites Neisser derivation from dáyate ‘apportion’ -- an analysis apparently followed by both Geldner and Witzel Gotō, judging from their tr. ‘Anteil’), the correct analysis was already sketched by Grassmann s.v.: it is a -tra- deriv. built to the weak stem of the redupl. pres. to √dā ‘give’ (dad-), hence *dáttra, with simplification of the geminate before r, as often. See AiG II.2.703 and the important (if lapidary) correction in the Nachtr. to AiG I: Nachtr. p.
 
 3, to I.5 ll. 30-31.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -285,8 +287,6 @@ Ihm waren alle Somatränke eigen, die kräftigsten, berauschenden dem grossen, D
 Ты наделил имуществом все народы, о Индра.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -302,12 +302,12 @@ Ihm waren alle Somatränke eigen, die kräftigsten, berauschenden dem grossen, D
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) अत्यन्त ऐश्वर्य्य के देनेवाले ! जो आप (वसूनाम्) धनाढ्य पुरुषों के बीच (वसुपतिः) धन के स्वामी (सत्रा) सत्य (अभवः) होवें (दत्रे) देने योग्य सुवर्ण आदि धन के होने पर (विश्वाः) सम्पूर्ण (कृष्टीः) मनुष्यादि प्रजाओं को (अधिथाः) धारण करो तो (अस्य) इस राज्य के मध्य में (सत्रा) सत्य (विश्वे) सब (सोमाः) शान्तिगुणसम्पन्न सभ्यजन (सत्रा) सत्य सब (मदासः) आनन्द और (बृहतः) बड़े (मदिष्ठाः) अतीव आनन्द देनेवाले (अभवन्) होवें ॥६॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) अत्यन्त ऐश्वर्य्य के देनेवाले ! जो आप (वसूनाम्) धनाढ्य पुरुषों के बीच (वसुपतिः) धन के स्वामी (सत्रा) सत्य (अभवः) होवें (दत्रे) देने योग्य सुवर्ण आदि धन के होने पर (विश्वाः) सम्पूर्ण (कृष्टीः) मनुष्यादि प्रजाओं को (अधिथाः) धारण करो तो (अस्य) इस राज्य के मध्य में (सत्रा) सत्य (विश्वे) सब (सोमाः) शान्तिगुणसम्पन्न सभ्यजन (सत्रा) सत्य सब (मदासः) आनन्द और (बृहतः) बड़े (मदिष्ठाः) अतीव आनन्द देनेवाले (अभवन्) होवें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो राजा जैसे अपने निमित्त प्रिय की इच्छा करे, वैसे ही प्रजाओं के लिये सुख देवे, उसी के उत्तम सभासद् और अत्यन्त ऐश्वर्य बढ़े ॥६॥
+भावार्थभाषाः -  जो राजा जैसे अपने निमित्त प्रिय की इच्छा करे, वैसे ही प्रजाओं के लिये सुख देवे, उसी के उत्तम सभासद् और अत्यन्त ऐश्वर्य बढ़े ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

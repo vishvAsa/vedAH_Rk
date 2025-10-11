@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - नृमेधपुरुमेधौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शवसस्पते- बलाधिदैवत। इन्द्र। त्वम्। यशाः- यशस्वी। ऋजीषी- आर्जवसम्पन्नः। असि-  भवसि। त्वम्। अप्रतीनि- अन्यैरप्रतिगतानि। अनुत्ता- नोत्तुं प्रेरितुमशक्यानि। वृत्राणि-  आवरणानि। एकः- असहायः सन्। चर्षणीधृता- प्रजाधारणशत्तया। हंसि- नाशयसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शवसस्पते** बलस्य पालयितर्हे **इन्द्र** **ऋजीषी** । ऋजीषोऽपार्जितोऽभिषुतः सोमः । तद्वान् **त्वं** **यशाः** यशस्वी **असिः** । कथमस्य यशस्वित्वं तदाह । **अप्रतीनि** बलिभिरप्यप्रतिगतानि अत एव अनुत्तानि अन्यैर्नोत्तुमशक्यानि **वृत्राणि** रक्षांसि **त्वम्** **एक** **इत्** असहाय एव **चर्षणीधृता** असुरादिहननद्वारेण मनुष्याणां धारकेण वज्रेण **हंसि** संप्रहरसि । अत एवास्य यशस्वित्वम् ॥
@@ -235,10 +238,6 @@ Du, Indra, bist angesehen, der Trinker des Trestertrankes, o Herr der Kraft. Du 
 
 Du bist, o Indra, reich an Glanz, du vorwärtsdringend, Herr der Kraft; Die unbesiegten Feinde tödtest du allein, die mächt'gen durch den Menschenhort.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

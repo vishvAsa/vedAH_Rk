@@ -3,7 +3,6 @@ title = "007"
 devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - नाभाकः काण्वः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -239,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। आसु- अप्सु मूलशख्निधारासु। अत्कः- रूपं धारयति। यस्य। आशये- शरणे। एषाम्-  एतानि। विश्वानि- सर्वाणि जातानि। यः। धामानि- अध्यात्मसाधनभूमिकाः। परि मृशति-  स्पृशति। तस्य। वरुणस्य- ऋताधिदैवतस्य। पुरः- पुरतः। गये- गीयमाने मन्त्रे। व्रतम्- तस्यैव  नियतिम्। चरन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** वरुणः **आसु** दिक्षु **अकः** व्याप्तः सन् **आशये** जागृतो वर्तते  
@@ -258,7 +261,6 @@ and their domains. In varuNa’s household, all the gods in front [of him] follo
 The kANva-s and atri-s to a degree show several tendencies that are otherwise common in the Iranic world. The expression of supremacy of varuNa in this sUkta gives a picture of the milieu in which the Zoroastrian counter-religious strain of the Iranic religion arose.  
 A bit of unmAda & you could run away with such
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -310,8 +312,6 @@ Die Götter folgen dem Gesetz dort vor dem Sitz des Varuna, Der wie ein Mantel d
 Все боги (следуют его) завету.  
 Пусть лопнут все ничтожные другие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

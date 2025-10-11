@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। कण्वे- मन्त्रविदि। मघवन्- इन्द्र। त्रसदस्यवि- स्तेनबाधके। यथा। पक्थे- पख्नव्ये।  दशव्रजे- प्रभूतरश्मिसमूहे। यथा। गोशर्ये- दीप्तप्रहरणे वीरे। ऋजिश्वनि- आर्जवसम्पन्ने। इन्द्र।  गोमत्- धेनुयुख्नं चिद्रश्मियुख्नम्। हिरण्यवत्- ज्योतिष्मद्धनम्। असनोः- सम्भख्नवांस्तथा मयि  कुरु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -207,8 +210,6 @@ Wie, mächtiger, dem Kanva, Trasadasju du, dem Paktha und Daçavradscha, Wie, In
 Как Гошарье, Риджишвану ты добыл,  
 О Индра, богатство из коров, богатство из золота.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

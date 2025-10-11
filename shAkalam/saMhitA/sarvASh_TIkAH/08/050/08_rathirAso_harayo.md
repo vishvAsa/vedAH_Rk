@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    येभिः- यैः। मनुषः- विवेकिनः। मन ज्ञाने। दस्युम्- स्तेनम्। नि- निरन्तरम्। निघोषयः-  नितरामाक्रोशयसि। येभिः- यैः। स्वः- स्वर्गम्। परीयसे- परितो गच्छसि। ते। रथिरासः-  सद्रंहणाः। हरयः- प्राणाश्वाः। अस्रिधः- अहिंसकाः। वातस्य- वायोः। ओजः- बलम्। पिप्रति-  पूरयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -239,8 +242,6 @@ Die holden Rosse, welche deinen Wagen ziehn, sind schneller als des Windes. Wehn
 С помощью которых ты с грохотом разбил дасью перед лицом Мануса,  
 На которых ты догоняешь солнце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "022"
 devataa = "इन्द्रः (अभिशापः)"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 cit ← cit (invariable)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+परशुम्- कुठारमिव स्थितं मन्त्रं प्राप्य। वि तपति- अस्मद्विरोधी विशेषेण तापयुख्नो भवति।  शिम्बलम्- शल्मलीकुसुमवत्। वृश्चति- विच्छिद्यते। इन्द्र- परमेश्वर। येषन्ती- स्रवन्ती। प्रयस्ता-  प्रहता।  उखा चित्- स्थालीव। फेनम्- मुखात् फेनम्। अस्यति- उद्गिरति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **परशुं** **चित्** यथा कुठारं प्राप्य वृक्षः **वि** **तपति** विशिष्टतापयुक्तो भवति । एवं मदीयो द्वेष्टा वितपतु । **शिम्बलं** **चित्** शल्मलीकुसुमं यथा अनायासेन वृन्तात् विच्छिद्यते । एवं मद्द्वेष्टा **वि** **वृश्चति** विच्छिन्नावयवः भवतु । **प्रयस्ता** प्रहता **येषन्ती** स्रवन्ती **उखा** **चित्** स्थालीव स द्वेष्टा मदीयमन्त्रसामर्थ्येन प्रहतः सन् **फेनमस्यति** फेनं मुखाद्गिरतु ॥
@@ -211,8 +214,6 @@ o Indra.
 With Oldenberg, I reject the interpr. of cid in abc as a simile particle (contra Sāyaṇa and Geldner); in all three cases the cid can be interpreted in its usual ‘even, even though, just’ sense. However, I differ from Oldenberg on the purport of the vs. He thinks it describes concrete events, possibly as a “Beschreibung von Zauberhandlungen,” while I think it contains two figurative descriptions of the impotence of the enemy -- in this I am closer to Geldner’s notion of similes than to Oldenberg I also find myself in the odd position of being in general agreement with Griffith’s interpr. (based on Ludwig’s).
 
 Each hemistich describes an action involving great effort and drama that produces trivial and insubstantial results. In ab an ax is thoroughly heated, but this formidable weapon only cuts off the blossom of a silk cotton tree. (That silk cotton tree flowers are a vivid red might remind the audience of the real blood that might have been shed by a blazing hot ax.) In cd a pot, also heated, is boiling (yéṣantī), indeed has boiled over (práyastā), but all it produces is foam.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
 <details open><summary><h2>21-24 ...{Loading}...</h2></summary>
@@ -247,8 +248,6 @@ Ein jedes Blatt [palāçám vermuthe ich statt paraçúm] brennt er hinweg, und 
 Словно клокочущий котел,  
 Переварившись, он выбрасывает пену.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

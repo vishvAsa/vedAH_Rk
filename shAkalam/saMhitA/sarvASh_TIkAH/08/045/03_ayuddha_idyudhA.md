@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशोकः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयुद्धः- स्वतो युद्धरहितः सन्। युधा- युद्धोद्वेगेन। वृतम्- आवृतम्। शूरः- समर्थः। सत्वभिः-  स्वकीयैर्बलैः। आजति- नमयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 तेष्वन्तर्भूतः कश्चित् **अयुद्ध** **इत्** प्रागयोद्धैव सन् **युधा** **वृतं** योद्धृभिर्भटैरावृतं शत्रंं **सत्वभिः** आत्मीयैर्बलैः **शूरः** सन् **आजति** नमयति ॥
@@ -201,8 +204,6 @@ Ja, unverwehrt verjagt durch Kampf der Held den Feind durch tapfere, Die lieb de
 Герой со (своими) воинами вражеское войско,  
 Кому Индра – юный друг.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रियमेध
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऊतये- रक्षायै। सुम्नाय- सुखाय। शविष्ठ- बलिष्ठ। सत्पते- सतां पालक। तुविकूर्मिं- बहुकर्माणम्।  ऋतीषहम्- शत्र्वभिभावुकम्। त्वा- त्वाम्। रथम्। यथा- इव। आ वर्तयामसि- आवर्तयामः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वा** त्वाम् आ **वर्तयामसि** आवर्तयामः । किमर्थम् । **ऊतये** अस्माकं रक्षणाय **सुम्नाय** सुखाय च । किमिव । **रथं** यथा । रथं यथोतये सुखाय चावर्तयन्ति तद्वत् । कीदृशं त्वाम् । **तुविकूर्मिं** बहुकर्माणम् **ऋतीषहं** हिंसकानामभिभवितारम् । हे **इन्द्र** **शविष्ठ** अतिशयेन बलवन् हे **सत्पते** सतां पालक त्वामिति समन्वयः ॥
@@ -189,10 +192,6 @@ Wie einen Wagen fahren wir dich her zum Beistand, zur Gunst, den Tatenreichen, d
 
 Wie einen Wagen rollen wir zur Hülfe dich zum Schutz herbei, Der viel du wirkst und Angriff wehrst, o Indra, stärkster Heeresfürst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

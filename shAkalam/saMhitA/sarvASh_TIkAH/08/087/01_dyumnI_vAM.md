@@ -3,7 +3,6 @@ title = "001"
 devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्विना। वाम्- युवयोः। स्तोमः- मन्त्रः। द्युम्नी- दीप्तः। क्रिविः- कूपः। सेकः- सेचकः। न-  इव। आ गतम्- आगच्छतम्। सुतस्य- निष्पन्नस्य। मध्वः- मधुरस्य रसस्य। सः। दिवि-  द्योतमाने यज्ञे। प्रियः। तस्य रसम्। नरा- नेतारौ। इरिणे- तटाके। गौराविव- कृष्णमृगाविव।  पातम्- अनुभवतम्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** अश्विनौ अयमनुपक्षीणस्तोत्रो द्युम्नीक एतन्नामक ऋषिः **वां** युवयोः **स्तोमः** स्तोता भवति । युष्मत्स्तुतौ कृतायां स्तोत्राणि नाल्पीभवन्ति  किंतु पुनर्वर्धन्त इत्यर्थः। तत्र दृष्टान्तः । **क्रिविर्न** । क्रिविरिति कूपनाम । कूपो यथा **सेके** उदकसेचने वृष्टौ भवन्त्यां नाल्पोदको' भवति तद्वत् । यद्वा । वां युवयोः स्तोमो युष्मद्विषया स्तुतिर्द्युम्न्यन्नवती खलु । स्तोत्रे कृते तस्मा अन्नादिकं प्रयच्छत इत्यर्थः । तस्माद्युवामस्मदीयं यज्ञं प्रति **आ** **गतम्** । स्तोत्राणि श्रोतुमागच्छतम् । हे **नरा** नरौ नेतारावश्विनौ **सः** अयं स्तोता दिवि द्योतमाने अस्मिन् यज्ञे **सुतस्य** अभिषुतस्य **मध्वः** मदकरस्य सोमस्य **प्रियः** स्तोत्रकारित्वेन प्रियतमो भवति । ततस्तेन सुतं सोमं **पातं** युवां शीघ्रमागत्य पिबतम् । तत्र दृष्टान्तः । **गौराविव** यथा तृषितौ गौरावेतन्नामको मृगौ **इरिणे** तटाकादिषूदकपानार्थं शीघ्रमागच्छतस्तद्वत् ॥
@@ -258,7 +261,6 @@ On the difficult word krívi-, see comm. ad I.30.1. Though krívi- is found in a
 
 This verse modulates rather cleverly from praise for the Aśvins (stómaḥ, pāda a) to pressed soma for them (mádhvaḥ sutásya, pāda c), pivoting on séke ‘at its outpouring’, which is literally applicable to the soma but, as is well known, metaphorically applicable to the praise.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -291,8 +293,6 @@ Wirksam, o Ritter, ist eur Lob, kommt wie ein Schlauch zum Giessen her; Den süs
 Испейте выжатой сладости, о два мужа, – она приятна на небе –  
 Как два буйвола из водостока!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

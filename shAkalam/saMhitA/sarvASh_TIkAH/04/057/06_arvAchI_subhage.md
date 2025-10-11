@@ -3,7 +3,6 @@ title = "006"
 devataa = "सीता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 arvā́cī ← arvā́ñc- (nominal stem)  
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुभगे- सौभाग्यवति। सीते- लाङ्गलपद्धत्यधिदेवते। विष्णोः परमात्मनः स्वरूपशक्त्याः श्रियो  भूम्याख्यविष्णुरूपद्वारा अभिव्यक्तिरेव सीता। उर्वीं त्वाहुर्मनुष्याः श्रियं त्वा मनसो  विदुरित्यथर्वशिरसि। अर्वाची- अर्वागञ्चना। भव। त्वा- त्वाम्। वन्दामहे- नमामः। यथा। नः-  अस्माकम्। सुभगाससि- सौभाग्यदा भवसि। यथा। नः- अस्माकम्। सुफलाससि- शोभनफलदा  भवसि तथा वन्दामहे॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुभगे** **सीते** त्वम् **अर्वाची** अर्वागञ्चना **भव** । **त्वा** त्वां **वन्दामहे** स्तुवीमहि । **यथा** **नः** **सुभगाससि** शोभनधना भवसि । **यथा** **नः** **सुफलाससि** तथा वन्दामहे ॥
@@ -236,8 +239,6 @@ reiche Furche, sei du uns nahe, wir verehren dich, damit du uns segensreich, dam
 Чтоб была для вас приносящей счастье,  
 Чтоб была ты для нас очень плодородной!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

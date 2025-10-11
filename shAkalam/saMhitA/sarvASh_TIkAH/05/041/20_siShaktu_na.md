@@ -3,7 +3,6 @@ title = "020"
 devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "एकपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "एकपदा विराट्"
 - ऋषिः - भौमोत्रिः
 - छन्दः - एकपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -76,6 +74,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऊर्जव्यस्य पुष्टेः- प्राणबलपुष्ट्यर्थम्। नः- अस्मान्। सिषख्नु- सेवताम्॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऊर्जव्यस्य** एतन्नामकस्य राज्ञः **पुष्टेः** पोषकस्य संबन्धिनः **नः** अस्मान् **सिषक्तु** सेवताम् । सामर्थ्याद्देवसंघ इति गम्यते । अथवोर्वशी मरुद्गणो वा गृह्यते प्रकृतत्वादिति ॥ ॥ १६ ॥
@@ -133,8 +136,6 @@ Die Mutter des Wohlstandes des Urjavya soll uns zur Seite stehen.
 
 Да поможет нам (мать) процветания Урджавьи!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

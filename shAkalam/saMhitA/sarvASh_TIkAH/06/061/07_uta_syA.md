@@ -3,7 +3,6 @@ title = "007"
 devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सरस्वती। घोरा- शत्रुभयङ्करी। हिरण्यवर्तनिः- सुवर्णरथा। वृत्रघ्नी- आवरणनाशिनी। नः-  अस्माकम्। सुष्टुतिम्- शोभनमन्त्रम्। वष्टि- कामयते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **स्या** सा प्रसिद्धा **सरस्वती** **घोरा** शत्रूणां भयकारिणी **हिरण्यवर्तनिः** । वर्ततेऽनेनेति वर्तनी रथः । हिरण्यमयो वर्तनिर्यस्याः सा तथोक्ता । वृत्रघ्नी वृत्राणां शत्रूणां हन्त्री । एवंभूता सा सरस्वती **नः** अस्मदीयां सुष्टुतिं शोभनां स्तुतिं **वष्टि** कामयताम् ।
@@ -161,8 +164,6 @@ obstacle-smashing, wants our good praise—
 <details><summary>Jamison Brereton Notes</summary>
 
 The vs.-initial utá seems to introduce the tṛca, as does the identically placed utá in vs. 10.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -195,8 +196,6 @@ Sie, die auf goldnen Pfaden kommt, die mächtige Sarasvati, Die Feinde schlägt,
 Грозная, с золотым путем,  
 Убийца врагов, хочет от нас прекрасной хвалы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

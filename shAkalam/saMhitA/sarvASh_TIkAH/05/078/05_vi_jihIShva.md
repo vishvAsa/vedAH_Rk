@@ -3,7 +3,6 @@ title = "005"
 devataa = "अश्विनौ (गर्भस्राविण्युपनिषत्)"
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सप्तवध्रिरात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 jihīṣva ← √hā- 1 (root)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूष्यन्त्याः- प्रसवोन्मुखायाः। योनिः- भगः। इव। वनस्पते- वृक्षेत्याधिभौतिके।  भौमभोगेत्याध्यात्मिके। वि जिहीष्व- विवृतो भव। अश्विना- हे अश्विनौ। मे- मम। हवम्- २    आह्वानम्। श्रुतम्- शृणुतम्। सप्तवध्रिम्- सप्तभूमिकासु शुष्कं तस्मात् दुःखितम्। च। मुञ्चतम्-  मोचयतम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वनस्पते** वनस्पतिविकाररूपे पेटिके **वि** **जिहीष्व** विगच्छ । विवृता भव । **सूष्यन्त्याइव** प्रसवोन्मुख्याः स्त्रियाः **योनिः** इव भगो यथा विव्रियते तथा त्वमपि विवृता भव । तदर्थं हे **अश्विना** अश्विनौ **मे** **हवम्** आह्वानं **श्रुतं** शृणुतम् । श्रुत्वा च **सप्तवध्रिं** **च** मामृषिं **मुञ्चतं** मोचयतम् ॥
@@ -216,8 +219,6 @@ Thu auseinander dich, o Block, gleichwie der Schooss der kreissenden; O Ritter, 
 Услышьте, о Ашвины, мой зов  
 И освободите Саптавадхри!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

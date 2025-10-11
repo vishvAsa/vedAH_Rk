@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (१.१००.१०)॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 व्याख्यातेयं रोहिच्छ्यावेति वर्गे । इन्द्रः सर्वेष्टहःस्वस्माकं पक्षपातेन वक्ता भवतु । वयं चाकुटलगतयः सन्त इन्द्रेण दत्तमन्नं लभामहे । यदस्माभिः प्रार्थितमस्मदीयं तन्मित्रादयः पूजितं कुर्वन्तु ॥ ११ ॥
@@ -254,8 +257,6 @@ Zu aller Zeit sei Indra unser Fürsprecher, und ungefährdet mögen wir Beute er
 Пусть нам щедро это даруют Митра, Варуна,  
 Адити, Синдху, Земля и Небо!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

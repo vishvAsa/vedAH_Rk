@@ -3,7 +3,6 @@ title = "023"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध्वरे- यज्ञे। इन्द्रम्। वृधासः- वर्धकाः। इष्टाः- सदेषणायुख्नाः। होत्राः- शोभनवाग्युख्नाः।  ओजसा- बलेन। अवभृथम्- भरणशीलं कर्म। अच्छ- अभिलक्ष्य। असृक्षत- उपासनार्थं  कल्पयन्ति॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अपां जग्मिरिति सामर्थ्यादवभृथदिन एव ---- र - वि- जः कुर्वन्तीत्युक्तम् । तत्प्रसङ्गादाह । **अध्वरे** अस्मदीये यज्ञे **वृधासः** हविर्भिरिन्द्रं वर्धयन्तः **इष्टाः** इष्टवन्तो यागं कृतवन्तः सप्तसंख्याकाः **होत्राः** होत्रकाः **अवभृथम्** अन्त्यदिवसम् **अच्छ** प्रति **ओजसा** स्वतेजसा सहिताः **इन्द्रम्** **असृक्षत** विसृजन्ति । यावदवभृथं सप्तहोत्रका यजन्तीति ॥
@@ -169,10 +172,6 @@ Die dargebrachten Opferspenden haben sich ergossen, den Indra während des Opfer
 
 Es strömten Opfergüsse hin, den Indra stärkend bei dem Fest, Ins Läuterungsgefäss mit Macht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

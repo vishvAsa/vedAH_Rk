@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ईशानः- ईश्वरः। अप्रतिष्कुतः- अप्रतिशब्दितः। कु शब्दे। इन्द्रः। अङ्ग- क्षिप्रम्। एक इत्- एक  एव। दाशुषे- दानशीलाय। मर्ताय- मनुष्याय। वसु- संपदम्। विदयते- ददाति। दय  दानादिषु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** इन्द्रः **एकः** **इत्** एक एव **दाशुषे** हविर्दत्तवते **मर्ताय** मनुष्याय यजमानाय **वसु** धनं **विदयते** विशेषेण ददाति । **अङ्ग** इति क्षिप्रनाम । **अप्रतिष्कुतः** परैरप्रतिशब्दितः प्रतिकूलशब्दरहित इत्यर्थः । एवंभूतः सः **इन्द्रः** क्षिप्रम् **ईशानः** सर्वस्य जगतः स्वामी भवति । विदयते । ‘दय दानगतिरक्षणहिंसादानेषु' । शपः पित्त्वात् अनुदात्तत्वम्। तिङश्च लसार्वधातुकस्वरेण धातुस्वरः एव शिष्यते । यद्वृत्तयोगादनिघातः । अप्रतिष्कुतः । ‘कु शब्दे'। प्रतिकूलं कूयते शब्द्यते इति प्रतिष्कुतः । पारस्करादेराकृतिगणत्वात् सुट् । सुषामादित्वात् षत्वम् । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
@@ -174,8 +177,6 @@ the unrepulsable master – (that’s) Indra indeed!
 <details><summary>Jamison Brereton Notes</summary>
 
 I take índro aṅgá as the main clause corresponding to the rel. cl. introduced by yáḥ.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -207,8 +208,6 @@ Der einzig reiches Gut ertheilt dem Sterblichen, der ihn verehrt, Der Herr, dem 
 Добро смертному, почитающему (его),  
 Властвуя беспрепятственно, (тот), в самом деле, Индра.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

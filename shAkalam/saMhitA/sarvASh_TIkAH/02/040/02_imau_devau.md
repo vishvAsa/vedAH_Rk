@@ -3,7 +3,6 @@ title = "002"
 devataa = "सोमापूषणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,11 +197,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमौ- एतौ। देवौ- द्योतनशीलौ। जायमानौ- उद्भूतौ। जुषन्त- द्योतनशख्नयः सेवन्ते। इमौ-  एतौ। अजुष्टा- असेव्यानि। तमांसि। गूहत- नाशयतः। आभ्यां सोमापूषभ्याम्। इन्द्रः-  ईशनाधिदेवता। पक्वम्- परिपक्वं क्षीरोपलक्षितं ज्ञानम्। अमासु- तरुणीषु। उस्रियासु- गोषु।  चिद्रश्मिष्विति भावः। जनत्- जनयति। तत्स्थितं ज्ञानं प्रकटयतीति भावः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इमौ सोमापूषणौ देवौ द्योतमानौ जायमानौ उत्पन्नमात्रावेव जुषन्त सर्वेदेवाः अजुषन्त सेवितवन्तइतियावत् किञ्च इमौ सोमापूषणौ अजुष्टा आसेव्यानितमांसि गूहतान्नाशयतः किञ्च आभ्यामेताभ्यां सोमापूषभ्यांसहइन्द्रः आमासुतरुणीषुउस्रियासुगोष्वन्तर्मध्येऊधःप्रदेशेपक्वं परि क्वम्पयोजनत् जनयति ॥ २ ॥
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -255,7 +257,6 @@ Through these two, Soma and Pusan,
 The Indra made the cooked (milk) among the raw cows.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 At birth of these two Gods all Gods are joyful: they have caused darkness, which we hate, to vanish.  
@@ -279,8 +280,6 @@ Sie seien hold uns, die gebornen Götter, sie mögen bergen das verhasste Dunkel
 Вместе с обоими, с Сомой (и) Пушаном, Индра  
 Породил вареное (молоко) в сырых коровах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

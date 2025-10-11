@@ -3,7 +3,6 @@ title = "009"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 apaptat ← √pat- 1 (root)  
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+असौ- सः। सूर्यः। आदित्यः- अखण्डप्रकृतिजः। पर्वतेभ्यः- गिरिभ्यः। विश्वदृष्टः- सर्वैदृ᐀्ष्टः।  अदृष्टहा- अदृष्टविषबाधकः। पुरु- प्रभूतान्। विश्वानि- सर्वान् विषान्। जूर्वन्- हिंसन्। उदपप्तत्-  उदेति। विषयरत्याख्यविषबाधक आत्मसूर्यः जडशरीर एव उदेतीति भावः पर्वतस्य  जडप्रतीकत्वात्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **असौ** पुरस्तात् दृश्यमानः **सूर्यः** सर्वस्य प्रेरकः आदित्यः **उदपप्तत्** ऊर्ध्वं गच्छति ॥ पततेर्लुङि पुमागमे रूपम् ॥ किं कुर्वन् । **विश्वानि** बहूनि विषाणि **पुरु** प्रभूतं **जूर्वन्** हिंसन् । कीदृशोऽसौ । **पर्वतेभ्यः** पर्ववद्भ्यः प्राणिभ्यः तेषामुपकाराय **आदित्यः** विपोदकादीनामदनशीलः **विश्वदृष्टः** विश्वं दृष्टं येन तादृशः **अदृष्टहा** अदृष्टानां विषविशेषाणां हन्ता । एवंमहानुभावः सूर्यः ऊर्ध्वमारोहति । अतो विषशङ्का न कार्या ॥
@@ -221,8 +224,6 @@ Emporgeflogen ist dort der Sonnengott, vielfach alles versengend, der Aditja vom
 Адитья с гор,  
 Видимый для всех, убивающий невидимых.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

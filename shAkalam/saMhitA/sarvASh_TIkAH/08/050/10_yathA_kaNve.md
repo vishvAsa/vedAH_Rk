@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -224,8 +227,6 @@ Wie, mächtiger, dem Kanva du beim Opfermahl, dem Hausfreund Dīrghanītha du, W
 Как Гошарье ты хотел добыть (подарок), о хозяин давильных камней,  
 (Так) мне (подари) загон с коровами, украшение которого - буланые кони!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

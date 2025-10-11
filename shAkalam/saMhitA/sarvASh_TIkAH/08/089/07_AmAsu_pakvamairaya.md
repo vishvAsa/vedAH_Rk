@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - नृमेधपुरुमेधौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आमासु- अपक्वासु भावनासु। पक्वम्। ऐरयः- प्रेरितवान्। सूर्यं-  सवितारमात्मसूर्यमित्याध्यात्मिके। दिवि- नभसि चित्ताकाश इत्याध्यात्मिके। आ रोहयः-  आरोपितवान्। घर्मं- यज्ञम्। सामन्- साम्ना। न- इव। गिर्वणसे- गीर्भिः सम्भजनीयायेन्द्राय।  जुष्टम्- प्रीतिकरम्। बृहत्- साम। सुवृख्निभिः- शोभनवाग्भिः। तपत- उद्दीपयत॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **आमासु** अपक्वासु गोषु **पक्वं** पयः **ऐरयः** प्रैरयश्च । तथा मन्त्रः - ‘ आमासु चिद्दधिषे पक्वमन्तः' (ऋ. सं. १. ६२. ९) इति । किंच **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** च ।  
@@ -235,7 +238,6 @@ ________________________________________
 गीर्भिर्वननीय इति 'गतिकारकयोरपि ' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वं च । स चास्मभ्यं ब्रह्मवर्चसं ददात्विति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 _________
@@ -273,7 +275,6 @@ Like the glowing pot heat ye the Saman
 With good prayers, delightful to the lover of song.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Du brachtest die gekochte Milch in die rohen Kühe, die Sonne ließest du am Himmel aufsteigen. Wie den Milchtrank machet nach der Melodie mit Preisreden das erwünschte hohe Lied für den Lobbegehrenden erglühen!
@@ -291,8 +292,6 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 Как котелок с молоком, раскаляйте в мелодии с помощью гимнов  
 Высокий (напев), приятный для любящего хвалебные песни!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

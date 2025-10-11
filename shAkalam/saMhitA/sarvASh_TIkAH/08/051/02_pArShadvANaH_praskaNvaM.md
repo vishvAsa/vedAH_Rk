@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पार्षद्वाणः- परुषवाक्। जिव्रिम्- जरावृद्धम्। उद्धितम्- ऊर्ध्वदेशे स्थापितम्। शयानम्।  प्रस्कण्वम्- मन्त्रविदम्। समसादयत्-  हिंसितुमभ्यगच्छत्।  तदा। ऋषिः- सूक्ष्मदर्शी। त्वोतः-  त्वद्रक्षितः सन्। दस्यवे- स्तेनाय। वृकः- विकर्तनः सन्। गवां सहस्राणि- प्रभूतरश्मीन्।  असिषासत्- सम्भख्नवान्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -214,8 +217,6 @@ Der Nachkomme des Prischadvāna bewirthete den Praskanva, welcher altersschwach 
 Риши хотел добыть тысячи коров,  
 Тобою был поддержен Дасьяве Врика.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

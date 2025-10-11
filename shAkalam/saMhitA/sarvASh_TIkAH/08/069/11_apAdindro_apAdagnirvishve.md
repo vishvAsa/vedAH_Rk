@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः;वरुणः"
 RShiH = "प्रियमेध"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - प्रियमेध
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। अपात्- अपिबत्। अग्निः। अपात्। विश्वे- सर्वे। देवाः। अमत्सत- अतुष्यन्। वरुणः-  ऋताधिदेवता। इह- अत्र। क्षयत्- निवसतु। तम्। आपः- मूलशख्निधाराः। वत्सम्।  संशिश्वरीरिव- सङ्गच्छन्त्यो धेनव इव। अभ्यनूषत- अस्तुवन्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रः** **अपात्** अपिबत् सोमम् । **अग्निः** अप्यपिबत् । **विश्वे** **देवाः** अपि **अमत्सत** तृप्ता अभवन् सोमपानेन । **वरुण** **इत्** वरुणोऽपि **इह** अस्मिन् यागगृहे **क्षयत्** निवसतु सोमपानार्थम् । निवसन्तं **तम्** **आपः** अपि **अभ्यनूषत** । उदकान्यापनशीला स्तुतयो वाभ्यष्टुवन् । किमिव । **वत्सं** स्वीयं संशिश्वरीः संशिश्वर्यः संगच्छमाना गावः **इव** । ता यथा धावन्त्यो हम्भारवं कुर्वन्ति तद्वत् ॥
@@ -259,10 +262,6 @@ Indra hat getrunken, Agni hat getrunken, alle Götter haben sich berauscht. Varu
 
 Getrunken hat Indra, getrunken Agni, alle Götter haben sich berauscht; Varuna, er weile hier, ihm rauschten jetzt die Gesänge zu, so wie dem Kalbe die Kühe, die es gemeinsam nähren.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

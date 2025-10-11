@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शुभ्राः- शुक्लाः। अयासः- अभिगन्तारः। यव्या- मिश्रणशीलया। साधारण्येव- समानयेव  भावनया। सहृदया इति भावः। मरुतः- प्राणविशेषाः। परा मिमिक्षुः- रोदसीं सिञ्चन्ति। घोराः-  भयङ्करा अपि। रोदसी- रोदसीम्। न अप नुदन्ति- अपनोदनं न कुर्वन्ति। देवाः- मरुतः।  सख्याय- तस्या मैत्र्यै। वृधम्- वृद्धिम्। जुषन्त- सेवन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शुभ्राः** शोभनालंकाराः **अयासः** अभिगन्तारः **मरुतः** **यव्या** मिश्रणशीलया विद्युता **परा** **मिमिक्षुः** । प्रकर्षेण सिञ्चन्त्युदकसंस्त्यायम् । **साधारण्येव** । यथा लोके साधारण्या स्त्रिया संगता युवानो रेतो मुञ्चन्ति तद्वत् । एवं कुर्वन्तः **घोराः** अतिवृष्टिप्रदानेन भयंकरास्ते **रोदसी** द्यावापृथिव्यौ **न** **अप** **नुदन्त** । अपनोदनं वर्षणरूपं तिरस्कारं न कुर्वन्ति । द्यावापृथिवीवचनो रोदसीशब्दः
@@ -236,8 +239,6 @@ instr. sādhāraṇyā́‘common’ refers both to the fact that Rodasī is hel
 
 In the next pāda both Rodasī and the two world halves are then the objects of a (quasi-)infinitival vṛ́dham (again, my interpr. differs from others’). Cf. the similar expression in I.85.1c ródasī hí marútaś cakriré vr̥dhé “the Maruts made the two world halves grow strong,” with a clear dative infinitive in periphrastic causative usage. The only other ex. of acc. vṛ́dham in III.16.2 also has infinitival value and even has the Maruts as subj.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
@@ -270,8 +271,6 @@ Das fernste auch besprengten sie, die lichten behenden Maruts wie mit gleichem S
 Они, грозные, не оттолкнули Родаси.  
 Богам понравилось усиление (их толпы) – для дружбы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

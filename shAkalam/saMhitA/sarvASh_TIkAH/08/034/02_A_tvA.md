@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नीपातिथिः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वा- भवन्तम्। ग्रावा- अभिषवपाषाणः रसोपलब्धिस्थानप्रतीकः। सोमी- रसयुख्नः। इह- अत्र।  घोषेण- रवेण। वदन्। आ यच्छतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वा** त्वाम् **इह** यज्ञे **ग्रावा** सोमाभिषवपाषाणः **सोमी** सोमवान् **वदन्** शब्दं कुर्वन् **घोषेण** ध्वनिना सह **आ** **यच्छतु** । सिद्धमन्यत् ॥
@@ -217,8 +220,6 @@ Dich lenke her der Somastein, der spricht mit mächtigem Getön, Von jenes Herrs
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

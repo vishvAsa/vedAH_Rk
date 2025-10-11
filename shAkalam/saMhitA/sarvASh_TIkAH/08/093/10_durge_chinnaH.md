@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गिर्वणः- गीर्भिः सम्भजनीय। इन्द्र। मघवन्- सम्पद्वन्। दुर्गे- दुर्गमने पथि। नः। सुगम्- सुखेन  गन्तव्यान्। कृधि- कुरु। त्वम्। च। वशः- अस्मान् कामयेथाः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **गिर्वणः** गीर्भिर्वननीय **इन्द्र** **गृणानः** स्तोतृभिः स्तूयमानस्त्वं **नः** अस्माकं **दुर्गे** **चित्** दुर्गमेऽपि मार्गे **सुगं** सुगमं पन्थानं **कृधि** तथा कुरु । हे **मघवन्** धनवन्निन्द्र **त्वम्** । चशब्दश्चेदर्थे । यदि **वशः** सोमपानार्थं तत्प्रदातॄनस्मान् कामयेथाः तदा पन्थानं शोभनगमनं कुरुष्व । वष्टेर्लेट्यडागमः । चशब्दयोगादनिघातः ॥ ॥ २२ ॥
@@ -200,10 +203,6 @@ Auch auf unwegsamer Strecke schaff uns gepriesen guten Weg, du lobbegehrender In
 
 Im Unwegsamen schaff uns Bahn, liedholder Indra, hochgelobt, Sobald du mächtiger es willst,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

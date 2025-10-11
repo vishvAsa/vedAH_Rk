@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एकया प्रतिधा- एकेन प्रतिधानेन। त्रिंशतम्- प्रभूतानि। काणुका- काम्यानि। सोमस्य- रसस्य।  सरांसि। इन्द्रः। अपिबत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **एकया** एकेन **प्रतिधा** प्रतिधानेन **साकम्** एकधैव **त्रिंशतम्** अपि । उक्थपात्राणीत्यर्थः । कीदृशानि । **सरांसि** **सोमस्य** पूर्णानि सोमरसेन पूर्णानि **काणुका** कान्तानि क्रान्तानि वा सोमेन कृतानि वा सोमपूर्णानि **अपिबत्** पीतवान् माध्यंदिनसवने । याज्ञिकप्रसिद्ध्यैवम् । नैरुक्तप्रसिद्ध्या तु कालाभिमानीन्द्रः । त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत् पूर्वपक्षस्य च सन्ति । तानेकरूपमनुभवतीति । एतत्सर्वम् ‘एकेन प्रतिधानेनापिबत्' (निरु. ५. ११) इत्यादिनिरुक्ते तद्व्याख्याने च स्पष्टमुक्तम् । तदत्र द्रष्टव्यम् ॥
@@ -162,8 +165,6 @@ tr. ‘hogshead’ is an attempt to replicate the possible derivation of a word 
 
 So, something like “(the vessels) of soma provided by the Kāṇvas.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -195,8 +196,6 @@ In einem Zuge trank er dann wol dreissig Seen auf einmal, Die Somaschalen Indra 
 Выпил сразу триста  
 Озер сомы:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

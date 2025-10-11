@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नेमो भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 dhāvata ← √dhāv- 1 (root)  
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यः। प्र धावत- प्रधावति। पृथक् नेह- पृथक् न तिष्ठति। वः- युष्मान्। न। अवावरीत्-  वारयति। अनिवारयन् भीतः पलायतीति भावः। तस्य। वृत्रस्य। मर्मणि। इन्द्रः। वज्रम्। सीम्-  सर्वतः। नि- नितराम्। अपीपतत्- अपातयत्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** शत्रुः **नूनम्** इदानीं **प्र** **धावत** प्रधावति **पृथक्** **इह** पृथङ्न तिष्ठति च **वः** युष्मान् **न** अवीवरीतु न विवारयति च तस्य **वृत्रस्य** शत्रोः **मर्मणि** मर्मस्थाने **इन्द्रः** **वज्रं** कुलिशं **नि** **अपीपतत्** नितरामपातयत् ॥
@@ -252,8 +255,6 @@ Strömt nun hervor [ihr Wasser] hier und dort; er ist nicht mehr da, der euch so
 В уязвимое место Вритры  
 Индра запустил дубиной.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

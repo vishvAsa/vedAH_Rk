@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सद्योजुवः- सद्योगन्तारः। ते- तव। वाजाः- गतयः। अस्मभ्यम्। विश्वश्चन्द्राः- सर्वाह्लादकाः।  वशैः- कामैः। च। मक्षु- क्षिप्रम्। जरन्ते- स्तुवन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **ते** तव **वाजाः** **अस्मभ्यं** **सद्योजुवः** शीघ्रं गन्तारो भवन्तु । कीदृशास्ते । **विश्वचन्द्राः** सर्वहिरण्योपेता बहूनामाह्लादका वा । अस्मदीयाश्च जनाः **वशैः** कामैरनेकैर्युक्ताः **मक्षु** शीघ्रं **जरन्ते** स्तुवन्ति ॥ ॥ ३८ ॥
@@ -183,10 +186,6 @@ Deine allschimmernden Belohnungen beeilen sich alsbald für uns, und werden von 
 
 Deine reichgeschmückten Gaben kommen zu uns her in Eile, Durch Gebete nahen schnell sie.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "मरुतो लिङ्गोक्तदेवता वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "पुरउष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पुरउष्णिक्"
 - ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
 - छन्दः - पुरउष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्विता- अभ्युदयं निःश्रेयसम्। भरद्वाजाय- दत्तहविष्काय। धुक्षत। विश्वदोहसम्- सर्वेभ्यो दोग्ध्रीम्।  विश्वभोजसम्- सर्वेभ्यो भोगदायिनीम्। धेनुम्- गां पृथिवीमदितिं प्रकृतिम्। धुक्षत॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुतः **भरद्वाजाय** अस्मद्भ्रात्रे **द्विता** द्वितयम् अव **धुक्षत** । किं तत् द्वितयम् । **धेनुं** **च** गां च **इषं** **च** अन्नं च । कीदृशीं धेनुम् । **विश्वदोहसं** विश्वस्य व्याप्तस्य बहुलस्य दोग्ध्रीम् । कीदृशमन्नम् । **विश्वभोजसं** सर्वेषां भोगपर्याप्तम् ॥
@@ -173,7 +176,6 @@ With Geldner I take dhukṣata, identical save for the accent to dhúkṣata in 
 Renou opts for this latter analysis -- the cow milking herself. Although I am always quick to see paradox in the RV, in this case I think the poet is playing with morphology instead, while bringing the final vs. of this 3-vs. sequence back to the 2nd pl. impvs. of vs. 11.
 
 Note the direct object in balanced coordination, NOUN ca ADJ / NOUN ca ADJ, with both ca-s properly positioned (unlike 10cd above) and with each bahuvrīhi epithet having the shape viśvá-CoCasam.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
@@ -206,8 +208,6 @@ Dem Bharadvadscha ströme sie zwiefach zu: die Kuh, die alles Gute strömen läs
 И дойную корову, исполняющую все (желания),  
 И жертвенную усладу, всех насыщающую.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

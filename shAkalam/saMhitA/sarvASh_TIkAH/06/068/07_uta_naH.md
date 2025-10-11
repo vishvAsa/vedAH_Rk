@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। इन्द्रावरुणा- हे इन्द्रावरुणौ। नः- अस्मभ्यम्। सुत्रात्रः- शोभनरक्षकः। देवगोपाः-  देवगुप्तः। रयिः। येषाम्। शुष्मः- बलम्। पृतनासु- युद्धेषु। साह्वान्- अभिभवति। सद्यः- क्षणेन। ३    द्युम्ना- शत्रुतेजांसि। ततुरिः- शत्रुहिंसकं सत्। तिरते- तिरस्कुर्यात्। तेभ्यः सूरिभ्यः- विद्वद्भ्यः।  स्यात्- भवेत्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **इन्द्रावरुणा** हे इन्द्रावरुणौ **सूरिभ्यः** स्तोतृभ्यः **नः** अस्मभ्यं **सुत्रात्रः** सुरक्षः **देवगोपाः** । देवा गोपा गोप्तारो यस्य स तथाविधः । **रयिः** धनं **स्यात्** भूयात् । किंच **येषाम्** अस्माकं **शुष्मः** बलं **पृतनासु** युद्धेषु **साह्वान्** शत्रूणामभिभविता **ततुरिः** हिंसकश्च सन् **द्युम्ना** यशांसि **सद्यः** एव **प्र** **तिरते** सम्यक् तिरस्कुर्यात् ॥
@@ -229,7 +232,7 @@ _________
 
 And, o Indra and Varuṇa, for our patrons may there be wealth offering  good protection, with gods as its herdsmen—  
 
-(our patrons) whose impetuous force, victorious in battles, surpassingly  extends their éclat all at once.
+(our patrons) whose impetuous force, victorious in battles, surpassingly  extends their éclat all at once.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -260,8 +263,6 @@ Uns und den Fürsten, Varuna und Indra, sei gottbeschirmter, wohlbeschützter Re
 (Тем,) чей пыл, побеждающий в боях,  
 Сразу же распространяет сверкающие деяния, (он,) покоряющий.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

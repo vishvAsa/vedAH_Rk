@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूर्य। श्रुतामघम्- देयत्वेन प्रसिद्धधनम्। वृषभम्- वर्षकम्। नर्यापसम्- नरहितकर्माणम्।  अस्तारम्- उदारम्। अभि- आभिमुख्येन। उत् एषि- उद्गतोसि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सुकक्ष इन्द्रगुणानाह । हे **सूर्य** । द्वादशसु भानुष्विन्द्रोऽपि सूर्यात्मना पठितः । तस्मात्सूर्यात्मक सुवीर्य हे इन्द्र **श्रुतमघं** सर्वदा देयत्वेन विख्यातधनमत एव **वृषभं** याचमानानां धनस्य वर्षितारं **नर्यापसम्** । नरहितं नर्यम् । नरहितकर्माणम् **अस्तारं** दानशौण्डमौदार्यवन्तमेतादृशानुभावमभितः **उत्** **एषि** । **इत्** अवधारणे । त्वमेव तस्य यज्ञे सूर्यात्मना उद्गतोऽसि। **घ** इति प्रसिद्धौ ॥
@@ -178,10 +181,6 @@ Surya, du gehst für den Bullen auf, dessen Gaben berühmt, dessen Werke mannhaf
 
 Zum schatzberühmten Helden gehst du auf, der Manneswerke wirkt, O Sonne, zu dem Schleuderer.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

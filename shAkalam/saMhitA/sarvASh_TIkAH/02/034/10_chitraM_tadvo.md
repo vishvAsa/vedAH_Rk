@@ -3,7 +3,6 @@ title = "010"
 devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -241,6 +239,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। चित्रम्- असाधारणः। याम- मार्गः। चेकिते- ज्ञायते। आपयः- प्रापयितारः  सन्तः। पृश्न्या ऊधः- अदितिमखण्डप्रकृतिं गोरूपिणीम्। दुहुः- दुहन्ति। नवमानस्य-  स्तावकस्य। निदे- निन्दकाय। रुद्रियाः- भयङ्कराः। अदाभ्याः- अहिंस्याः। त्रितम्-  तरन्तमुपासकम्। जुरताम्- हिंसताम्। जराय- हिंसायै भवत॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेमरुतः वोयुष्माकं तत् चित्रं चायनीयंयामप्रापणं चेकिते सर्वैर्ज्ञायते इदानीम्परोक्षवदाह अपि- शब्दःप्रसिद्धौ यद्यदाखलुपृश्न्याः माध्यमिकायावाचःसम्बन्धिनं ऊधः उद्धतम्मेघं आपयः प्रापयितारो- मरुतः दुहुःदुहन्ति दुहेश्छान्दसोलिट् छन्दसिचेतिवक्त्व्यमितिद्विर्वचनाभावः यद्वा यदाचनवमानस्य स्तुवतः त्रितस्यनिदे निन्दकायशत्रवेहिंसाङ्कृतवन्तइतिशेषः णिदिकुत्सायां क्विप् चेतिक्विप् तदानीं हेअ दाभ्याः अहिंस्याः रुद्रियाः रुद्रस्यपुत्रामरुतः त्रितमृषिञ्जुरतांहिंसतांशत्रूणां जरायजरणायविनाश- नायअभूतेतिशेषः ॥ १० ॥
@@ -271,8 +274,6 @@ undeceivable sons of Rudra.
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. strenuously develops the “golden” theme that appeared in 9d -- a color more descriptive of the fiery than the watery. An even stronger indication of the transition to Agni proper is the gerund niṣádyā ‘having sat down’: the lexeme ní √sad is closely associated with Agni’s installation on the ritual ground (see, e.g., the next hymn, II.36.4).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -306,8 +307,6 @@ Es zeigt sich Marut's, dieser euer lichter Zug, wenn ihr der Priçni Euter melkt
 Или когда вы, о Рудры, не терпящие обмана, (помогли) Трите  
 (Взять на себя) хулу певца, старость старящих.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

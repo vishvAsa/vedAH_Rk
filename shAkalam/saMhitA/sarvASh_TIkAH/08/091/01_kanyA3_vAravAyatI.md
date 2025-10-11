@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - अपालात्रेयी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 avāyatī́ ← √i- 1 (root)  
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाः- उदकम्। अवायती- आगच्छन्ती। स्रुतौ- मार्गे। सोमम्। अविदत्- लेभे। अस्तम्- गृहम्।  भरन्ती- आहरन्ती। इन्द्राय- परमैश्वर्यसम्पन्नाय देवाय। शक्राय- शख्निमते देवाय। त्वा- त्वां  सोमम्। सुनवै- अभिषवं करिष्य इति। अब्रवीत्- अवदत्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाः** उदकं प्रति **अवायती** स्नानार्थमभ्यवगच्छन्ती **कन्या** अपाला नाम स्त्री **स्रुता** स्रुतौ मार्गे **सोममपि** **अविदत्** अलभत ।  ‘ विद्लृ लाभे' । लतारूपं तं सोमम् **अस्तं** गृहं प्रति **भरन्ती** आहरन्ती सा सोमम् **अब्रवीत्** । हे सोम **त्वा** त्वाम् **इन्द्राय** **सुनवै** मम दन्तैरेवाभिषुणवै । पुनर्हे सोम **त्वा** त्वां **शक्राय** समर्थायेन्द्राय **सुनवै** इदानीमेवाभिषवं करवै । सोमभक्षणकाले दन्तध्वनिं ग्रावध्वनिमिति मत्वेन्द्रस्तामगमत् । एषोऽर्थः शाट्यायनब्राह्मणे स्पष्टमभिहितः ‘ सा तीर्थमभ्यवयन्ती सोमांशुमविन्दत्तं समखादत्तस्यै ह  ग्रावाण इव दन्ता ऊदुः। स इन्द्र आद्रवत् ग्रावाणो वै वदन्तीति । सा तमभिव्याजहार कन्या वारवायती सोममपि स्रुताविददित्यस्यै त इदं ग्रावाण इव दन्ता वदन्तीति विदित्वेन्द्रः पराङावर्तत । तमब्रवीदसौ य एषि वीरक इत्यादिना' इति ॥
@@ -237,10 +240,6 @@ Ein Mädchen, das hinab zum Wasser ging, hat am Wege Soma gefunden. Während sie
 
 Ein Mädchen, das zum Flusse ging, fand auf dem Wege Somakraut, Sie trug es heim und sprach das Wort: dem Indra will ich pressen dich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - श्यावाश्व आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। स्वने- शब्दे। वृद्धः। महि- महान्। पर्वतः- मेघः। बिभाय- भयं प्राप्नोति। दिवः-  नभसः। सानु- उत्कृष्टप्रदेशः। चित्- अपि। रेजते- कम्पते। यत्- यदा। ऋष्टिमन्तः-  आयुधयुख्नाः। मरुतः। क्रीळथ- विहरथ। तदा। आप इव- उदकानीव। सध्र्यञ्चः- सहाञ्चनाः।  धवध्वे- धावथ॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुतः **वः** युष्माकं **स्वने** भयंकरशब्दे सति **पर्वतश्चित्** पर्वतोऽपि **महि** महान् **वृद्धः** सन्नपि **बिभाय** बिभेति । **दिवश्चित्** अन्तरिक्षस्यापि **सानु** समुच्छ्रितः प्रदेशः **रेजत** कम्पते । **यत्** यदा **क्रीळथ** हे **मरुतः** यूयम् **ऋष्टिमन्तः** आयुधवन्तः सन्तस्तदा **आपइव** उदकानीव **सध्र्यञ्चः** सहाञ्चनाः **धवध्वे** धावध्वे गच्छथ ॥
@@ -240,7 +243,7 @@ When you are at play, o Maruts, equipped with spears, you run toward a  single g
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
-Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two vss. also hold the verb rejate/rejata steady (2d, 3b, though in slightly different metrical position, both post-caesura, with one pres. and the other injunc.), but in the first instance it’s earth (pṛthivī́) that trembles and in the 2nd (the back of) heaven (diváḥ, initial in its pāda like pṛthivī́). So the standard pair heaven/earth are contrasted and identically positioned, but they are grammatically non-parallel. There is also a repetition of ‘fear’, though again in different forms -- nominal bhiyā́in 2c, pf. bibhāya in 3c, both pāda-final. This kind of patterned and varied repetition may not reach the heights of poetic art, but it is a pleasing demonstration of the way a RVic poet infuses freshness into the clichéś that are his bread-and-butter.
+Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two vss. also hold the verb rejate/rejata steady (2d, 3b, though in slightly different metrical position, both post-caesura, with one pres. and the other injunc.), but in the first instance it’s earth (pṛthivī́) that trembles and in the 2nd (the back of) heaven (diváḥ, initial in its pāda like pṛthivī́). So the standard pair heaven/earth are contrasted and identically positioned, but they are grammatically non-parallel. There is also a repetition of ‘fear’, though again in different forms -- nominal bhiyā́in 2c, pf. bibhāya in 3c, both pāda-final. This kind of patterned and varied repetition may not reach the heights of poetic art, but it is a pleasing demonstration of the way a RVic poet infuses freshness into the clichéś that are his bread-and-butter.
 
 </details>
 </div>
@@ -270,8 +273,6 @@ Es fürchten sich die mächtig hohen Berge, des Himmels Gipfel bebt bei eurem To
 Вы сбегаетесь к одной цели, словно воды.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतो वाग्निश्च
@@ -287,12 +288,12 @@ Es fürchten sich die mächtig hohen Berge, des Himmels Gipfel bebt bei eurem To
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (ऋष्टिमन्तः) अच्छे विज्ञानवाले (मरुतः) मनुष्यो ! (यत्) जहाँ तुम (क्रीळथ) क्रीड़ा करते हो (आपइव) जलों के सदृश (सध्र्यञ्चः) एक साथ गमन करते हुए (धवध्वे) कंपाओ और (वः) आप लोगों के (स्वने) शब्द में (पर्वतः) मेघ के (चित्) सदृश (महि) बड़ा (वृद्धः) वृद्ध (बिभाय) डरता है (दिवः) प्रकाश से (चित्) भी जैसे वैसे (सानु) शिखर के तुल्य (रेजत) कम्पित होता है, वहाँ अन्वेषण करो ॥३॥
+पदार्थान्वयभाषाः -  हे (ऋष्टिमन्तः) अच्छे विज्ञानवाले (मरुतः) मनुष्यो ! (यत्) जहाँ तुम (क्रीळथ) क्रीड़ा करते हो (आपइव) जलों के सदृश (सध्र्यञ्चः) एक साथ गमन करते हुए (धवध्वे) कंपाओ और (वः) आप लोगों के (स्वने) शब्द में (पर्वतः) मेघ के (चित्) सदृश (महि) बड़ा (वृद्धः) वृद्ध (बिभाय) डरता है (दिवः) प्रकाश से (चित्) भी जैसे वैसे (सानु) शिखर के तुल्य (रेजत) कम्पित होता है, वहाँ अन्वेषण करो ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो मनुष्य विद्या के व्यवहार की सिद्धि के लिये क्रीड़ा करते हैं तथा मित्र होकर कार्य की सिद्धि करते हैं, वे सब प्रकार आनन्दित होते हैं ॥३॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जो मनुष्य विद्या के व्यवहार की सिद्धि के लिये क्रीड़ा करते हैं तथा मित्र होकर कार्य की सिद्धि करते हैं, वे सब प्रकार आनन्दित होते हैं ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रतिरथ आत्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चत्वारः- ऋत्विजश्चत्वारः। ईम्- एतं सूर्यम्। बिभ्रति- धारयन्ति। क्षेमयन्तः- क्षेममिच्छन्तः।  दश- दशसु दिक्षु। गर्भं- ज्योतिर्गर्भं सूर्यम्। चरसे- सञ्चाराय। धापयन्ते- स्थापयन्ति। अस्य-  एतस्य सूर्यस्य। परमाः- श्रेष्ठाः। गावः- रश्मयः। त्रिधातवः- त्रिविधाः। दिवः- नभसः। अन्तान्-  दिगन्तपर्यन्तम्। सद्यः- क्षणेन। परि चरन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चत्वारः** ऋत्विजः **ईम्** एनमादित्यं **क्षेमयन्तः** क्षेममात्मन इच्छन्तः **बिभ्रति** धारयन्ति हविर्भि: स्तुतिभिश्च । किंच **दश** दिशः **गर्भं** गर्भवन्मध्ये उत्पन्नमेनं **चरसे** चरणाय उदयास्तमय व्यवहाराय **धापयन्ते** गमयन्ति । **त्रिधातवः** त्रिप्रकाराः शीतोष्णवर्षभेदेन त्रिविधाः **अस्य** आदित्यस्य **परमाः** उत्कृष्टाः **गावः** रश्मयः **दिवः** अन्तरिक्षस्य **अन्तान्** **परि** परितः **सद्यः** उदयानन्तरमेव **चरन्ति** गच्छन्ति ॥
@@ -252,7 +255,6 @@ Still, Agni seems a better, though not perfect, candidate.
 
 Pāda d, with diváḥ … ántān# “the ends of heaven,” echoes 3d rájasaḥ … ántau# “the two ends of the airy realm,” and both contrast with the “endless” (anantā́saḥ) paths of 2cd. The dual in 3d points to a straight trajectory from one end to the other, reinforced by the verb ví cakrame ‘he strode’ (though it’s not in the same clause with the ends): the sun’s journey across the sky from one horizon to the other. The plural in 4d is more diffuse, as is the verb caranti pári “they wander/circle around.” The phrase divó ánta- [pl.] “the ends of heaven” is quite common, but I am not sure what the plural conveys -- that there are numerous divisions of heaven, each with its own boundaries? that heaven is effectively end-less (like the anantá- paths of 2) because there are always more ends? In any case the sun’s purposeful trip from one place to another in vs. 3 seems contrasted with the more comprehensive travels of the subject of caranti in 4d. Is that subject the threefold cows of 4c? If so, many of the possible triads suggested above are eliminated. Save for the ‘threefold’ (and, I guess, the cows), Agni’s plumes of smoke would make the most sense in d. But I confess bafflement.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -285,8 +287,6 @@ Vier tragen ihn im Arm, ihm Rast gewährend, zehn säugen auf das Kind, bis dass
 Трояки высшие его коровы,  
 За один день обходят они границы неба.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

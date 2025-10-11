@@ -3,7 +3,6 @@ title = "018"
 devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "पुरउष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पुरउष्णिक्"
 - ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
 - छन्दः - पुरउष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अच्छिद्रस्य- अविच्छिन्नस्य। दधन्वतः- धारकस्य। सुपूर्णस्य। दृतेः- मेघस्य। इव। ते- तव।  सख्यम्- मैत्री। अवृकम्- बाधारहिता। अस्तु- भवतु॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पूषन् **ते** तव **सख्यं** सखित्वम् **अवृकं** बाधकरहितं सर्वदा ऐकरूप्येण वर्तमानमस्माकम् **अस्तु** सर्वदा भवतु । **दृतेरिव** । यथा दृतेस्त्वदीयं सख्यमविच्छिन्नं तद्वत् । कीदृशो दृतिः । **अच्छिद्रस्य** छिद्ररहितस्य संश्लिष्टस्य **दधन्वतः** दधिमतः **सुपूर्णस्य** दध्ना सुष्ठु पूरितस्य । पुनर्दधन्वत इति दध्नोऽधिकत्वद्योतनार्थः । ईदृशो दृतिः सर्वदा पूष्णो रथे वर्तते । स इव वयमपि तव सखायो भवेमेत्यृषिराशास्ते ॥
@@ -168,8 +171,6 @@ an unsplit one that holds curds, a well-filled one that holds curds.”
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take the comparison to be between the partnership and the leather bag (e.g., Geldner “Deine … Freundschaft soll sein wie der … Schlauch”), but the partnership is in the nom. (sakhyám) and the bag is in the gen. (dṛ́teḥ), as is Pūṣan (te). Given the deep uncertainty of this part of the hymn, grammar is all we have to hold onto, and grammar tells us that it is Pūṣan who is compared to the bag. For the partnership with Pūṣan, see I.138.4fg.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
@@ -203,8 +204,6 @@ Deine Genossenschaft sei uns heilsam wie die eines Schlauches, der unverletzt un
 Переполненный кислым молоком!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -220,7 +219,7 @@ Deine Genossenschaft sei uns heilsam wie die eines Schlauches, der unverletzt un
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वन् ! (अच्छिद्रस्य) अखण्डित और (दधन्वतः) दृढ़ता से धारण करनेवालों को धारण करनेवाले (ते) तुम्हारी (अवृकम्) चोरी से रहित (सख्यम्) मित्रता (अस्तु) हो ॥१८॥
+पदार्थान्वयभाषाः -  हे विद्वन् ! (अच्छिद्रस्य) अखण्डित और (दधन्वतः) दृढ़ता से धारण करनेवालों को धारण करनेवाले (ते) तुम्हारी (अवृकम्) चोरी से रहित (सख्यम्) मित्रता (अस्तु) हो ॥१८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

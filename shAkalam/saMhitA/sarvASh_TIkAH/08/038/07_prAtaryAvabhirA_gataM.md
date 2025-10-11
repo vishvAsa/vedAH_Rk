@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जेन्यावसू- जेतव्यधनौ। इन्द्राग्नी । प्रातर्यावभिः- प्रभाते गामिभिः। देवेभिः- देवैः। सोमपीतये-  रसानुभवाय। आ गतम्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **जेन्यावसू** जेतव्यशत्रुधनौ **इन्द्राग्नी** **प्रातर्यावभिः** देवैः सह **सोमपीतये** सोमस्य पानाय **आ** **गतम्** आगच्छतम् ॥
@@ -170,8 +173,6 @@ Mit Göttern, die am Morgen gehn, kommt her, o reichbegüterte, Den Soma, Indra-
 Богами, о вы двое, у кого есть унаследованное добро,  
 О Индра-Агни, для питья сомы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

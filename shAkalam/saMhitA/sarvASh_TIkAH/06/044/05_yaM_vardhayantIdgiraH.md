@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। तुरस्य- त्वरमाणायाः। राधसः- संसिद्धेः। पतिम्- पालकम्। गिरः- वाचः। वर्धयन्ति।  अस्य- तस्य। तम्- तत्। शुष्मम्- बलम्। देवी- देव्यौ। रोदसी- द्यावापृथिव्यौ। सपर्यतः-  परिचरतः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गिरः** स्तुतय इन्द्रसंबन्धिनं **यम्** **इत्** यमेव शुष्मं बलं **वर्धयन्ति** । कीदृशम् । **पतिम्** ईश्वरम् । कस्य । **तुरस्य** हिंसकस्य शत्रोः **राधसः** धनस्य । शत्रुधनानामपहर्तारमित्यर्थः । **अस्य** इन्द्रस्य **तमित्** तमेव **शुष्मं** शोषकं बलं **देवी** देवनशीले **रोदसी** द्यावापृथिव्यौ **नु** क्षिप्रं **सपर्यतः** परिचरतः ॥ ॥ १६ ॥
@@ -207,8 +210,6 @@ He whom songs make strong, the lord of overpowering generosity— his tempestuou
 <details><summary>Jamison Brereton Notes</summary>
 
 The íd in pāda a seems displaced: we would expect yám íd …, though that order would produce a choppy meter. The íd in c is better positioned, though we actually might expect it to be limiting asya, not the tám anticipating śúṣmam. The published translation does not render either íd; if I were to do so, the result would be “(It’s) just (him) whom the songs make strong … just his tempestuous force that the worldhalves respect.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -243,8 +244,6 @@ Den recht die Lieder kräftigen, den Herrn des reichlichen Geschenks; Die Welten
 Почитают Небо-и-Земля, две богини.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -260,7 +259,7 @@ Den recht die Lieder kräftigen, den Herrn des reichlichen Geschenks; Die Welten
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (यम्) जिस (तुरस्य) दुःख के नाश करनेवाले (राधसः) धन के (पतिम्) स्वामी, ऐश्वर्य्य से युक्त को (इत्) ही (गिरः) उत्तम प्रकार शिक्षित वाणियाँ (वर्धयन्ति) बढ़ाती हैं और (अस्य) इसके (देवी) सुन्दर प्रकाशमान (रोदसी) अन्तरिक्ष और पृथिवी (शुष्मम्) बल का (नु) शीघ्र (सपर्यतः) सेवन करते हैं (तम्, इत्) उसी की आप लोग वृद्धि करके सेवा करो ॥५॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (यम्) जिस (तुरस्य) दुःख के नाश करनेवाले (राधसः) धन के (पतिम्) स्वामी, ऐश्वर्य्य से युक्त को (इत्) ही (गिरः) उत्तम प्रकार शिक्षित वाणियाँ (वर्धयन्ति) बढ़ाती हैं और (अस्य) इसके (देवी) सुन्दर प्रकाशमान (रोदसी) अन्तरिक्ष और पृथिवी (शुष्मम्) बल का (नु) शीघ्र (सपर्यतः) सेवन करते हैं (तम्, इत्) उसी की आप लोग वृद्धि करके सेवा करो ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -251,6 +249,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित्- तदानीमेव। नेमे- नियन्तरीति वैदिककोशः। इन्द्रियम्- वासनेशनशख्निम्। यजन्ते-  समर्पयन्ति। आदित्- अनन्तरमेव। पुरोळाशम्- पुरोडाशम्। पख्निः- पचन्। रिरिच्यात्- इन्द्राय  दद्यात्। आदित्- अनन्तरमेव। सोमः- रसः। असुष्वीन्- तददातृभ्यः। वि पपृच्यात्- पृथक्कुर्यात्।  आदित्- अनन्तरमेव। वृषभम्- वर्षकमिन्द्रम्। यजध्यै- यष्टुम्। जुजोष- यजमानः सेवते॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आदित्** तदानीमेव युद्धकाले **नेमे** अन्ये योधाः **इन्द्रियं** बलवन्तमिन्द्रं **यजन्ते** **ह** पूजयन्ति खलु । कश्चित् **आदित्** अनन्तरमेव **पुरोळाशं** पिष्टरूपं हविः पक्तिः पचन् **रिरिच्यात्** इन्द्राय दद्यात् । **आदित्** अनन्तरमेव **सोमः** अभिषुतसोमो यजमानः **असुष्वीन्** अनभिषुतसोमान् यजमानान् **वि** **पपृच्यात्** धनैः पृथक्कुर्यात् । **आदित्** अनन्तरमेव कश्चित् **वृषभं** कामानां वर्षितारमिन्द्रं **यजध्यै** यष्टुं **जुजोष** सेवते ॥ ॥ ११ ॥
@@ -284,7 +287,6 @@ As Oldenberg notes, there are 3 forms of √ric in this hymn, all pf.: pf. part.
 
 ririkvāṃsaḥ (3b), pf. opt. riricyāt here, and a plupf. (probably) arirecīt (9c). They are all somewhat marked in form and have different contextual meanings. Oldenberg remarks “der Dichter liebte dies Verb.” Certainly he seems to be making a point with it.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -312,10 +314,6 @@ Dann opfern die anderen dem indrischen Namen, dann soll die Kochspeise den Reisk
 Dann müssen Indra's Macht die andern ehren, dann muss der Brüh' der Opferkuchen folgen, Dann mangelt Soma, denen die nicht keltern, ja dann beliebt's, den Helden zu verehren.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -331,7 +329,7 @@ Dann müssen Indra's Macht die andern ehren, dann muss der Brüh' der Opferkuche
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जिनके (पुरोळाशम्) उत्तम प्रकार संस्कारयुक्त अन्न को (पक्तिः) पाक (रिरिच्यात्) बढ़ावें वे (नेमे) अन्य जन (आत्) अनन्तर (इत्) ही (इन्द्रियम्) धन को (यजन्ते) प्राप्त होते हैं और जिसके (आत्) अनन्तर (इत्) ही (सोमः) ऐश्वर्य (असुष्वीन्) जो प्राणों को प्राप्त होते हैं उनको (वि, पपृच्यात्) संयुक्त हो वह (आत्) अनन्तर (इत्) ही (यजध्यै) मिलने के लिये (वृषभम्) बलिष्ठ का (जुजोष) सेवन करता है (आत्) अनन्तर (इत्, ह) ही वे सब राज्य और बल को प्राप्त होने के योग्य होवें ॥५॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जिनके (पुरोळाशम्) उत्तम प्रकार संस्कारयुक्त अन्न को (पक्तिः) पाक (रिरिच्यात्) बढ़ावें वे (नेमे) अन्य जन (आत्) अनन्तर (इत्) ही (इन्द्रियम्) धन को (यजन्ते) प्राप्त होते हैं और जिसके (आत्) अनन्तर (इत्) ही (सोमः) ऐश्वर्य (असुष्वीन्) जो प्राणों को प्राप्त होते हैं उनको (वि, पपृच्यात्) संयुक्त हो वह (आत्) अनन्तर (इत्) ही (यजध्यै) मिलने के लिये (वृषभम्) बलिष्ठ का (जुजोष) सेवन करता है (आत्) अनन्तर (इत्, ह) ही वे सब राज्य और बल को प्राप्त होने के योग्य होवें ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

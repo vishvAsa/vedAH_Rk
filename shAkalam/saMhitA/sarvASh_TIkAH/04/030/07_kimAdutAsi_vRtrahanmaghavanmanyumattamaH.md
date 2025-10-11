@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणबाधक। मघवन्- इन्द्र। मन्युमत्तमः- अतिशयेन मननशीलः। असि- भवसि।  अत्र। दानुम्- खण्डभावनम्। दो अवखण्डने। आतिरः- अवधीः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्राणामावरकाणां तमसां हन्तः **मघवन्** धनवन् इन्द्र त्वम् **आत्** अनन्तरमेव **उत** अपि च । **किम्** इति प्रश्ने । **मन्युमत्तमः** **असि** अत्यन्तं क्रोधवान् भवसि । **अत्र** अस्मिन्नन्तरिक्षे **अह** एव **दानुं** दनोः पुत्रं वृत्रम् **आतिरः** आ समन्तादहिंसीः ॥॥३॥
@@ -174,7 +177,6 @@ The repetition of ā́tiraḥ here was already noted ad vs. 3. Note the similari
 I supply “lying there” with Dānu, because in two of the four singular passages containing dā́nu- what the Dānu does is ‘lie’: I.32.9 dā́nuḥ śaye; II.12.11 dā́nuṃ śáyānam. So, although ‘overcame’ is probably part of the semantics of ā́tiraḥ, the lit.
 
 sense ‘pass over’ fits having the prostrate enemy as the object.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -212,8 +214,6 @@ Wie warst auch da, du Vritraheld, o starker, ganz von Zorn entbrannt, Als du den
 Вот в ту пору ты поборол Дану.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -234,7 +234,7 @@ Wie warst auch da, du Vritraheld, o starker, ganz von Zorn entbrannt, Als du den
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो राजा दुष्टों के ऊपर अति क्रोध करने और श्रेष्ठों में अत्यन्त शान्ति रखनेवाला होता है, वही राज्य बढ़ा सकता है ॥७॥
+भावार्थभाषाः -  जो राजा दुष्टों के ऊपर अति क्रोध करने और श्रेष्ठों में अत्यन्त शान्ति रखनेवाला होता है, वही राज्य बढ़ा सकता है ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

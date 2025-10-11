@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ततुरिः- वृत्रहिंसकः। वीरः। नर्यः- नरहितकामः। विचेताः- विशेषचेतनः। गृणतः- स्तुवतः।  हवम्- आह्वानस्य। श्रोता। उर्व्यूतिः- विस्तृतरक्षकः। वसुः- शरण्यः। नराम्- नृभिः। शंसः-  प्रशंसनीयः। कारुधायाः- स्तोतृधारकः। वाजी- गतिमान्। विदथे- यज्ञे। स्तुतः। वाजम्-  सम्पदम्। दाति- ददाति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजी** अन्नवान् इन्द्रः **विदथे** यज्ञेऽस्माभिः **स्तुतः** **सन्** **वाजम्** अन्नं **दाति** अस्मभ्यं ददाति । कीदृश इन्द्रः । **ततुरिः** शत्रूणां हिंसकः **वीरः** विक्रान्तः **नर्यः** नरहितः **विचेताः** विविक्तज्ञान: **हवम्** अस्मदीयं स्तोत्रं **श्रोता** **गृणतः** स्तुवतः स्तोतृजनस्य **उर्व्यूतिः** विस्तृतरक्षः **वसुः** वासयिता **नरां** नृणां स्तोतृजनानां **शंसः** शंसनीयः **कारुधायाः** कारूणां स्तोतॄणां धारयिता। एवंभूत इन्द्रो वाजं ददातीति संबन्धः ॥
@@ -231,8 +234,6 @@ the good one, the Laud of Men, who gives succor to bards, praised as  the prizew
 Geldner supplies the verb ‘drive’ in c (“Mit diesen (treib) alle Angriffe auseinander”), but I see no reason why it can’t be in the orbit of d. In vs. 1 the two pādas cd share a single verb (avīḥ c), as do the first two pādas of this vs. (vyathayā).
 
 With this pattern established, it seems reasonable to take áva tārīḥ in d as also governing the accusatives of c. Under this interpr., I take víṣūcīḥ as proleptic, rather like 3d kṛṇuhī́párācaḥ “put them far away.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -266,8 +267,6 @@ Der Siegesheld, der tapfre und der weise, vernimmt den Ruf des Sängers weitbesc
 Великолепный, хвала мужей, кормилец певца,  
 Прославленный как добытчик награды, он дает награду на жертвенной раздаче.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

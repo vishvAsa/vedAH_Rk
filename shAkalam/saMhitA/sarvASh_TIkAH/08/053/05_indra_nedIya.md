@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मितमेधाभिः- अस्मदभिमुखमेधायुख्नाभिः। ऊतिभिः- रक्षाभिः। नेदीय- अन्तिकतम। इन्द्र।  एदिहि- आगच्छ। शन्तमाभिः- शान्तिकरिणीभिः। अभिष्टिभिः- सदेषणाभिः। स्वापिभिः- सुखेन  प्राप्याभिः।  शन्तम- अतिशयेन शान्तिकर। स्वापे- सुखेन प्राप्य। आ - आगच्छ॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -232,8 +235,6 @@ Recht nah, o Indra, komme her, mit Schutz, der fest auf Säulen ruht, Heilvollst
 О самый благодатный, с самыми благодатными подкреплениями,  
 О (ты,) очень дружелюбный, с очень дружелюбными!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

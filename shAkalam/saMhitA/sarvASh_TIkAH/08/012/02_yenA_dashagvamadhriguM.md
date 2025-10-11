@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। दशग्वम्- प्रभूतगतिशीलम्। अध्रिगम्- अनिवारितगतिम्। वेपयन्तम्- पापवर्जकम्। स्वर्णरम्-  स्वर्गनरम्। आविथ- अपालयः। येन। समुद्रम्- अर्णवम्। आविथ। तम्। ईमहे- अभिगच्छामः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **येन** सोमपानजनितेन मदेन **दशग्वम्** । ये दशभिर्मासैः सत्त्रासनं परिसमाप्य निरगमन् ते दशग्वा अङ्गिरसः। तेषामन्यतमम् **अधिगुम्** अधृतगमनमनिवारितगतिमेतत्संज्ञं चर्षिं **वेपयन्तं** तमांसि वर्जयन्तं **स्वर्णरं** सर्वस्य नेतारं सूर्यं च **आविथ** वृत्रादेर्दस्योरपनयनेन ररक्षिथ । **येन** च मदेन **समुद्रम्** उदधिमन्तरिक्षं वा आविथ ररक्षिथ। **तं** त्वदीयं मदं तद्वन्तं त्वां वा **ईमहे** थाचामहे । मदे हि सति हृष्टः सन्निन्द्रो बहु धनं प्रयच्छति । अतस्तत्कारणस्य मदस्य याञ्चोपपन्ना ॥
@@ -163,8 +166,6 @@ with which you helped the sea—for that we beg.
 Unlike Geldner I take svàrṇara- here as an epithet of Adhrigu, rather than a PN (sim. VIII.3.12), though not on strong grounds, and VIII.6.39, where I do take it as a PN, undercuts this position.
 
 Either Adhrigu or, if he is a personage, Svarṇara receives the qualifier vepáyant- ‘setting atremble’, without an object. Given how little we know about Adhrigu (or Svarṇara), it is not clear what such an object might be, though it might refer to poetic inspiration.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -197,8 +198,6 @@ Durch den du Schutz dem Zehner gabst, dem eilenden, dem Glanzesherrn, Dem Allerr
 Приводящему в трепет Сварнаре,  
 Благодаря которому ты помог морю – мы просим о нем.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

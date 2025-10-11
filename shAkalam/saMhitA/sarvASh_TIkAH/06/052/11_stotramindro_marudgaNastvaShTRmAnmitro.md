@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - ऋजिश्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- ईशनाधिदेवता। मरुद्गणः- प्राणगणः। त्वष्टृमान्- तनूकरणदेवता। मित्रः- स्नेहाधिदेवता।  अर्यमा- औदार्याधिदेवता। एते देवाः। स्तोत्रम्- स्तुतिम्। इमा- एतानि। नः- अस्मदीयानि।   हव्या- हव्यानि। जुषन्त- सेवन्ताम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मरुद्गणः** मरुतो गणभूताः परिजनभूता यस्य तादृशः **इन्द्रः** **त्वष्टृमान्** त्वष्टृसहितः **मित्रो** **अर्यमा** च **नः** अस्माकं **स्तोत्रम्** **इमा** **हव्या** इमानि हवींषि च **जुषन्त** सेवन्ताम् ॥
@@ -166,7 +169,6 @@ enjoy the praise song and these oblations of ours.
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is essentially parallel to vs. 10: various gods are to enjoy both verbal and material offerings, with the verb stem juṣá- ‘enjoy’ held constant. Vs. 10 has an impv. juṣántām, but our vs. an injunc. juṣanta. The latter may be a substitute for the impv. in a metrical situation that favors a light final syl.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
@@ -199,8 +201,6 @@ Dies Lob und Opfer nehme an mit Tvaschtar Mitra, Arjaman und Indra mit der Marut
 Митра, сопровождаемый Тваштаром, (и) Арьяман  
 Наслаждаются восхвалением (и) этими нашими возлияниями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतो- अनन्तप्रज्ञ। इन्द्र। यत्- यदा। नः- अस्मान्। मृळयासि- आनन्दयसि। तदा। नः-  अस्मभ्यम्। भद्रंभद्रम्- कल्याणम्। इषम्- सदेषणाम्। ऊर्जं- प्राणं बलम्। नः- अस्मभ्यम्। आ  भर- आहर॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शतक्रतो** शतविधकर्मन् शतप्रज्ञ वा **इन्द्र** **भद्रंभद्रं** कल्याणतममथ सुखोत्पादकं वा धनं **नः** अस्मभ्यम् **आ** **भर** आसंपादय देहि । तथा **इषम्** अन्नम् **ऊर्जम्** अन्नरसं यद्वा बलवदन्नं  च देहि । **नः** अस्मान् **यत्** यदि **मृळयासि** सुखयसि तर्हि तद्धनादिकं देहीति । ‘मृड सुखने'। ण्यन्तस्य लेट्याडागमः ॥
@@ -199,10 +202,6 @@ Bring uns alles Gute, Speisegenuß, Stärkung, o Ratreicher, wenn du, Indra, uns
 
 O führe Heil auf Heil uns zu, vielwirkender und Speis' und Trank, O sei du, Indra, gnädig uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - शंयुर्बार्हस्पत्यः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। नाहुषीषु कृष्टिषु- मनुष्येषु। नृम्णम्- पौरुषम्। ओजः। यदस्ति। पञ्चक्षितीनाम्। द्युम्नम्-  ज्योतिः। यदस्ति। तानि। विश्वा- सर्वाणि। पौंस्या- पौरुषाणि। सत्रा- महान्ति। आ भर-  आहर॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **नाहुषीषु** । नहुष इति मनुष्यनाम । तत्संबन्धिनीषु **कृष्टिषु** प्रजासु । आकारः समुच्चये। **यत्** च **ओजः** बलं **नृम्णं** धनं **च** विद्यते । **यद्वा** यच्च **पञ्च** पञ्चानां **क्षितीनाम्** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्च क्षितयः । तेषां स्वभूतं **द्युम्नं** द्योतमानमन्नं तत् सर्वमस्मभ्यम् **आ** **भर** आहर प्रयच्छ । तथा **सत्रा** महान्ति **विश्वानि** सर्वाणि पौंस्यानि बलानि चास्मभ्यमाहर।
@@ -234,8 +237,6 @@ The might and manliness that are in the Nahuṣa territories, Indra, or the bril
 The main cl. begins in the middle (or rather towards the end) of pāda c, with ā́bhara. Since this phrase is only 3 syllables, the audience would not mistake the syntactic break for a pāda break despite the extra length of the c-pāda in Bṛhatī.
 
 satrā́reappears once again (cf. 2d, 3a).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -268,8 +269,6 @@ Was unter Nachbarvölkern ist an Mannheit, Indra, und an Macht, Welch Gut bei de
 Или блеск, что у пяти народов, принеси  
 Целиком – все мужские силы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

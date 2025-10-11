@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्रप्सः- वेगवान्। कृष्णः- अन्धकारमयो वृत्र आवरणप्रतीकः। दशभिः सहस्रैः- प्रभूताभिः  स्वसेनाभिः। इयानः- गच्छन्। अंशुमतीम्- रसयुख्नां मूलशख्निधाराम्। अव अतिष्टत्-  आक्रमते। तम्। शच्या- शत्तया। धमन्तम्- शब्दयन्तम्। इन्द्रः। आवत्- प्राप्नोत्। नृमनाः-  नृणां हितकामः। स्नेहितीः- हिंसाकरीस्तस्य सेनाः। अप अधत्त- हतवान्। अपधानं हननमिति  सायणः॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अत्रेतिहासम् आचक्षते-
@@ -276,8 +279,6 @@ The manly minded one repelled the “blizzards” (of attacking warriors?).
 
 The ca in c is one of the rare examples of subordinating ca in the RV, as shown by the accent induced on the verb vavártat; see Klein DGRV I.240-41. Its position, about which Klein does not comment, is peculiar, but it can probably be accounted for metrically. In this particular Atijagatī line (13 syl.), there is a natural break after the first two words (5 syllables), máṃhiṣṭho gīrbhír, and the rest of the line behaves as if it were a dimeter (8-syl.) line, ā́ca yajñíyo vavártat, with initial preverb followed by the enclitic conjunction.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -309,10 +310,6 @@ Drapsa stieg in die Amsumati hinab, Krishna ist im Anzug mit zehntausend Krieger
 
 Es fiel der Tropfen in die Somaströmung, der dunkle, eilend mit zehntausend andern; Der kräftig gor, genossen hat ihn Indra, der männlich kühne trieb hinweg die Feinde.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

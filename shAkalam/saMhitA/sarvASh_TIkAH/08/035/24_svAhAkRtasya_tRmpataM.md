@@ -3,7 +3,6 @@ title = "024"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवौ। स्वाहाकृतस्य- स्वाहाकृतम्। सुतस्य- निष्पन्नम्। अन्धसः- रसम्। तृम्पतम्-  तृप्यतम्॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **देवौ** युवां **सुतस्य** अभिषुतस्य **स्वाहाकृतस्य** हुतस्य **अन्धसः** सोमस्य **तृम्पतं** तृप्यतम् । सिद्धमन्यत् ॥ ॥ १७ ॥
@@ -245,8 +248,6 @@ Erquickt euch am geweihten Trank, o Götter, am gepressten Kraut, Fahrt her o Ri
 Жаждя помощи, я к вам взываю!  
 Наделите сокровищами (вашего) почитателя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

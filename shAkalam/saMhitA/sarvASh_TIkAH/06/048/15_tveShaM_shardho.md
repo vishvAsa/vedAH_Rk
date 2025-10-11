@@ -3,7 +3,6 @@ title = "015"
 devataa = "मरुतो लिङ्गोक्तदेवता वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "अतिजगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अतिजगती"
 - ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
 - छन्दः - अतिजगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -273,6 +271,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वेषम्- दीप्तम्। मारुतं शर्धः- मरुद्गणम्। तुविष्वणि- बहुस्वनम्। अनर्वाणम्- शत्रुभिरनागतम्।  पूषणम्- पोषकम्। चर्षणिभ्यः- प्रजाभ्यः। यथा। शता सहस्रा- प्रभूतम्। सम्- सम्यक्। करत्- ५    करोति। तथा। प्रार्थये। गूळ्हा- गूढाः। वसु- सम्पदः। आविः- प्रकटनम्। करत्- करोतु।  सुवेदा- सुज्ञाताः करोतु॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 नेति संप्रत्यर्थे । **न** संप्रति इदानीं **त्वेषं** दीप्तं **तुविष्वणि** बहुस्वनम् **अनर्वाणम्** अप्रत्यृतं शत्रुभिरनभिगतं **पूषणं** पोषकं **मारुतं** मरुत्संघरूपमीदृशं **शर्धः** बलं स्तौमीति शेषः । स च मरुद्गणः **यथा** येन प्रकारेण **शता** शतसंख्याकानि धनानि **सं** सहैव **चर्षणिभ्यः** मनुष्येभ्योऽस्मभ्यं **कारिषत्** कुर्यात् । आकारः समुच्चये । यथा वा **सहस्रा** सहस्रसंख्याकानि धनानि च **सं** सहैव कारिषत् कुर्यात् तथा स्तौमीति पूर्वत्रान्वयः । अपि च स मरुद्गणः **गूळ्हा** गूढानि संवृतानि **वसु** वसूनि धनानि **आविः** **करत्** अस्मभ्यमाविष्करोतु । तथा **वसु** वसूनि धनानि **सुवेदा** सुलभानि च **नः** अस्माकं **करत्** करोतु । यदा तु लिङ्गादियं पौष्णी तदा मारुतं शर्ध इव त्वेषं पूषणं पोषकमेतत्संज्ञं देवं स्तौमीति योजनीयम् ॥
@@ -299,8 +302,6 @@ This vs. not only continues the identification of Pūṣan with other gods -- he
 The three adjectives, tveṣám, tuviṣváṇi, and anarvā́nam, must qualify both the śárdhaḥ ‘troop’ of the Maruts, a neut. acc. s-stem, in the simile, and pūṣáṇam, a masc. acc. -n-stem, in the frame. They seem to split the difference with regard to gender: tveṣám is of course ambiguous as to gender, but tuviṣváṇi is neut. and anarvā́nam masc. The latter is adjacent to masc. pūṣáṇam and separated by the pāda boundary from the neut. phrase, so it is not surprising that it would adopt a masc.
 
 form. Moreover, a proper neut. acc. to this stem would be *anarvá, which almost fatally obscures the 2nd member of the bahuvrīhi. The same substitution of masc. acc. anarvā́nam for expected neut. *anarvá- is found with the very same neut. acc. referent śárdho mā́rutam in I.37.1; cf. comm. there. The expected neut. NA presumably underlies the them. adj. anarvá-; see comm. ad I.185.3. Geldner’s and Renou’s strategy of taking anarvā́ṇam as only modifying Puṣan (e.g., Geldner “den unerreichten Pūṣan, der …”) is thus both unnecessary and probably wrong, given its application (not in a simile) to the Marut troop in I.37.1.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
@@ -336,8 +337,6 @@ Den Puschan, der unnahbar wie die Marutschar, die ungestüme, dass er Schatz Dem
 Пусть он сделает блага легко находимыми для нас!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतो लिङ्गोक्ता वा
@@ -353,12 +352,12 @@ Den Puschan, der unnahbar wie die Marutschar, die ungestüme, dass er Schatz Dem
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वानो ! (यथा) जैसे (सुवेदा) सुशोभित विज्ञान जिसका वह (नः) हम लोगों के लिये (त्वेषम्) दीप्तिमत् (तुविष्वणि) बहुत शब्दोंवाले (मारुतम्) मनुष्य सम्बन्धी (शर्धः) बल के (न) समान (अनर्वाणम्) अविद्यमान हैं अश्व जिसमें उस पदार्थ को (पूषणम्) पुष्टि करनेवाला (करत्) करे वा जैसे (चर्षणिभ्यः) मनुष्यों के लिये (शता) सैकड़ों वा (सहस्रा) सहस्रों (गूळ्हा) गुप्त (वसू) धनों को (आ, सम्, कारिषत्) सब ओर अच्छे प्रकार सिद्ध करे और गुप्त (वसू) विज्ञान वा धनों को (सम्, आविष्करत्) प्रकट करे, वैसे इनको आप करें ॥१५॥
+पदार्थान्वयभाषाः -  हे विद्वानो ! (यथा) जैसे (सुवेदा) सुशोभित विज्ञान जिसका वह (नः) हम लोगों के लिये (त्वेषम्) दीप्तिमत् (तुविष्वणि) बहुत शब्दोंवाले (मारुतम्) मनुष्य सम्बन्धी (शर्धः) बल के (न) समान (अनर्वाणम्) अविद्यमान हैं अश्व जिसमें उस पदार्थ को (पूषणम्) पुष्टि करनेवाला (करत्) करे वा जैसे (चर्षणिभ्यः) मनुष्यों के लिये (शता) सैकड़ों वा (सहस्रा) सहस्रों (गूळ्हा) गुप्त (वसू) धनों को (आ, सम्, कारिषत्) सब ओर अच्छे प्रकार सिद्ध करे और गुप्त (वसू) विज्ञान वा धनों को (सम्, आविष्करत्) प्रकट करे, वैसे इनको आप करें ॥१५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जैसे विद्वान् जन विज्ञानदान से गुप्त विद्याओं को तुम्हारे लिये प्रकट करते हैं और आपके शारीरिक और आत्मिक बल को बढ़ाते हैं, वैसे इनको तुम बढ़ाओ ॥१५॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जैसे विद्वान् जन विज्ञानदान से गुप्त विद्याओं को तुम्हारे लिये प्रकट करते हैं और आपके शारीरिक और आत्मिक बल को बढ़ाते हैं, वैसे इनको तुम बढ़ाओ ॥१५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

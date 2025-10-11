@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असाविन्द्रः। सूनुभिर्न- स्वपुत्रसमैः। रुद्रेभिः- मरुद्भिः प्राणविशेषैः। ऋभ्वा- महात्मा।  नृषाह्ये- नृणां सहनाख्यकर्मणि। अमित्रान्- द्वेषिणः। सासह्वान्- सहते। अभिभवति वा। षह  मर्षणे। षह अभिभवे। सनीळेभिः- समाननिलयैर्मरुद्भिः। श्रवस्यानि- चिदाकाशस्थमन्त्रानुभूतीः।  तूर्वन्- त्वरयन्। रक्षायै भवत्विति शेषः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सूनुभिर्न** पुत्रैरिव **रुद्रेभिः** रुद्रपुत्रैर्मरुद्भिर्युक्तः **ऋभ्वा** महान् एवंभूतः **सः** इन्द्रः **नृषाह्ये** नृभिः पुरुषैः सोढव्ये संग्रामे **अमित्रान्** शत्रून् **ससह्रान्** अभिभूतवान् । अपि च **सनीळेभिः** समाननिलयैर्मरुद्भिः सह **श्रवस्यानि** । श्रव इत्यन्ननाम । तद्धेतुभूतान्युदकानि **तूर्वन्** मेघात् प्रच्यावयन **मरुत्वान्** **इन्द्रः** अस्माकं रक्षणाय भवतु ॥ नृषाह्ये । ‘ षह मर्षणे ' । ‘ शकिसहोश्च । (पा. सू. ३. १. ९९ ) इति कर्मणि यत् । अन्येषामपि दृश्यते' इति संहितायां धात्वकारस्य दीर्घत्वम् ।' यतोऽनावः' इत्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । ससह्वान् ।' षह अभिभवे । लिटः क्वसुः । अभ्यासदीर्घत्वं छान्दसम् । अमित्रान् । मित्राणि एषु न सन्तीति अमित्राः । ‘ नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । सनीळेभिः । समानं नीळं येषां ते सनीळाः । समानस्य च्छन्दसि' इति सभावः ॥ ॥ ८ ॥
@@ -217,8 +220,6 @@ He, the skillful one, along with the Rudras [=Maruts] as if with his own  sons h
 <details><summary>Jamison Brereton Notes</summary>
 
 The participial phrase śravasyā̀ni tū́rvan has a close parallel in VIII.74.10c yásya śrávāṃsi tū́rvatha. I translate the latter as “whose claims to fame you bring to triumph.” Given the similarities I would change the tr. here to “along with the nestmates bringing to triumph (deeds) worthy of fame.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -252,8 +253,6 @@ Der kräftig mit den Rudra's wie mit Söhnen im Männerkampfe jeden Feind bewäl
 С родными (Марутами) превосходящий (все) славные деяния -  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

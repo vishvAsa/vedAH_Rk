@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमधानाः- रसधारकाणि। कुक्षयः- इन्द्रहृदयानि। ह्रदा इव भवन्ति। पुरूणि- बहून्। सवनानि-  रसान्। ईम्- एषः। सम्- सम्यक्। विव्याच- व्याप्नोति। इन्द्रः- परमेश्वरः। प्रथमा- मुख्यानि।  अन्ना- हव्यानि। व्याश- विशेषेण बभक्ष। वृत्रम्- आवरणम्। जघन्वान्- बिभेद। सोमम्- रसम्।  अवृणीत- अवृणोत्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रस्य कुक्षय उदराणि सोमधानाः । सोमो निधीयते येष्विति सोमधानाः । तत्र दृष्ताण्तः । ह्रदा इव । यथा ह्रदा जलाधारा भवन्ति तद्वत् । ईं सोऽयमिन्द्रः पुरूणि सवना त्रीणि सवनानि सं विव्याच । सम्यक् व्याप्नोति । इन्द्रः प्रथमा प्रथमान्यन्ना भक्षणीयानि सोमादीन्यनानि यद्यस्माद्व्याश विशेषेण जघास ततो वृत्रं जघन्वान्वृत्रस्य हन्तेन्द्रः सोमं माध्यन्दिन सवने देवेभ्योऽव्णीत । समभजत । कुक्षयः । कुष निश्क्र्षे । प्लुशिकुषिशुषिभ्यः क्सिः । उ. ३-१५५ । कुष्यत इति कुक्षिः । प्रत्ययस्वरः । सोमधानाः । दधातेरधिकरणे ल्युट् । लित्स्वरः । विव्याच । व्यचेर्लिटि रूपम् । अन्नाः । अद भक्षणे । अद्यत इत्यन्नम् । आश । अश भोजन इत्यस्य लिटि णलि रूपम् । अत आदेरित्यभ्यासस्य दीर्घः । यद्योगादनिघातः । लित्स्वरः । वैत्रम् । न लोकाव्ययेति षष्ठीप्रतिषेधः । जघन्वान् । हन्तेः क्वसाविडभावे रूपम् । प्रत्ययस्वरः । अवृणीत । वृङ् सम्भक्तावित्यस्य लङि रूपं ॥ ८ ॥
@@ -257,8 +260,6 @@ When Indra devoured the first foods, having smashed Vr̥tra he chose  the soma.
 On kukṣí- as ‘cheek’, not ‘belly’, see Jamison 1987 (Ged. Cowgill).
 
 As Geldner also comments, the chronological sequence of pāda d seems reversed, assuming (as I generally do) that the perfect participle regularly expresses anteriority: Indra drank the soma before smashing Vṛtra. The primary VP here, avṛṇīta sómam is found in the great Indra hymn I.32.3, but with a different opening (vṛṣāyámāṇaḥ).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -292,8 +293,6 @@ Sein Bauch voll Soma gleicht dem Meeresbecken, und in sich fasst er viel Gebräu
 Когда Индра поглотил первые кушанья,  
 Убив Вритру, он выбрал себе сому.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

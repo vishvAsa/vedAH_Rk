@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - संवरणः प्राजापत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्ये- ते। पौरुकुत्सस्य- कर्मशीलस्य। कुत्सा एते हर्यश्वाय शूषमिति श्रुतावेवमेव  दृश्यते । सूरेः- विदुषः। हिरणिनः- प्रकाशवतः। त्रसदस्योः- स्तेनभीषकस्य। गैरिक्षितस्य- गिरौ  पर्वते क्षितं निवसनं यस्य तस्य। गिरिः स्थैर्यं श्रुतौ। आतिष्ठेममश्मानमश्मेव त्वं स्थिरा भवेति श्रुतिः।  स्थिरस्येति भावः। अस्य- एतस्य। दश- प्रभूताः। श्येतासः- शुभ्राश्वाः प्राणाः। मा- माम्।  वहन्तु। नु- शीघ्रम्। क्रतुभिः- प्रज्ञाभिः। सश्चे- सङ्गतो भवामि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 त्रसदस्युश्च विदथो ध्वन्यश्चेति त्रयो नृपाः । अश्वान्धनानि गाश्चादुर्ऋषये तद्वदत्यृषिः ॥ **उत** अपि च **त्ये** ते **मा** । चतुर्थ्यर्थे द्वितीया । मह्यमित्यर्थः । **रराणाः** ॥ रातेर्दानार्थस्य कर्मणि लिटः कानचि रूपम् ॥ दत्ता इत्यर्थः । **पौरुकुत्स्यस्य** पुरुकुत्सापत्यस्य **सूरेः** प्रेरकस्य **हिरणिनः** हिरण्यवतः **अस्य** **त्रसदस्योः** एतन्नामकस्य राजर्षेः **गैरिक्षितस्य** गिरिक्षितगोत्रोत्पन्नस्य **श्येतासः** शुभ्रवर्णाः **दश** अश्वाः **मा** मां **वहन्तु** प्रापयन्तु । अहं च **क्रतुभिः** कर्मभी रथनियोजनादिभिर्यज्ञादिभिर्वा **नु** क्षिप्रं **सश्चे** गच्छेयम् ॥
@@ -224,8 +227,6 @@ let his ten white ones convey me. I am attended by the intentions of  Gairikṣi
 It is unclear whether the horses in ab and those in c are the same or different.
 
 In the published translation they are treated as the same; the standard tr. take them as separate groups. The two occurrences of mā (a, c) may support the standard view, in which case vahantu needs to be supplied in the first hemistich (so Geldner, etc.). I take saśce in pass. sense: “I am followed/accompanied.” Geldner (/Witzel Gotō, also Klein I.425) take it to mean “be in agreement with,” but I do not know of other occurrences of √sac with this meaning. (Geldner’s overelaborate set of explanatory glosses in n. 8d and n. 2 to that n. may attest to his discomfort with it.) The ‘intentions” by which I am attended are G’s intentions to give; see the expansion on krátu- in 9b. I think the point is not that the poet thinks it’s a good idea for G. to give horses to him (that is, agrees with G), but that G’s intentions to give are the poet’s escorts, as it were. (One is reminded of the curious beings known as rātiṣā́c- ‘Giftescort’.) Indeed these “intentions” may be the actual horses given; see 9b where the “bounties” produced by such intention are also actualized as horses.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Und diese mir vom Fürsten Trasadasju, dem Nachkommen des Purukutsa, geschenkten
 Я согласен с намерениями потомка Гирикшита.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -277,12 +276,12 @@ Und diese mir vom Fürsten Trasadasju, dem Nachkommen des Purukutsa, geschenkten
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पौरुकुत्स्यस्य) बहुत वज्र आदि शस्त्र और अस्त्रों को जाननेवाले के सन्तान (त्रसदस्योः) जिससे डाकू चोर आदि डरते हैं ऐसे (हिरणिनः) सुवर्ण धन आदि से युक्त (अस्य) इस (गैरिक्षितस्य) पर्वत में रहनेवाले (सूरेः) बुद्धिमान् जन की (क्रतुभिः) बुद्धि और कर्म्मों के साथ (रराणाः) रमते वा देते हुए (मा) मुझ को (वहन्तु) प्राप्त हों (उत) और भी (त्ये) वे (दश) दश संख्या परिमित (श्येतासः) श्वेत वर्णवाले घोड़े के सदृश (मा) मुझ को प्राप्त हों, उनका मैं (नु) शीघ्र (सश्चे) सम्बन्ध करता हूँ ॥८॥
+पदार्थान्वयभाषाः -  (पौरुकुत्स्यस्य) बहुत वज्र आदि शस्त्र और अस्त्रों को जाननेवाले के सन्तान (त्रसदस्योः) जिससे डाकू चोर आदि डरते हैं ऐसे (हिरणिनः) सुवर्ण धन आदि से युक्त (अस्य) इस (गैरिक्षितस्य) पर्वत में रहनेवाले (सूरेः) बुद्धिमान् जन की (क्रतुभिः) बुद्धि और कर्म्मों के साथ (रराणाः) रमते वा देते हुए (मा) मुझ को (वहन्तु) प्राप्त हों (उत) और भी (त्ये) वे (दश) दश संख्या परिमित (श्येतासः) श्वेत वर्णवाले घोड़े के सदृश (मा) मुझ को प्राप्त हों, उनका मैं (नु) शीघ्र (सश्चे) सम्बन्ध करता हूँ ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो सत्य धारण करनेवाले और सत्पुरुष जिनके मित्र ऐसे जन बुद्धि को बढ़ाते हुए दुष्टों का निवारण करते हैं, उनके साथ मैं मेल करता हूँ ॥८॥
+भावार्थभाषाः -  जो सत्य धारण करनेवाले और सत्पुरुष जिनके मित्र ऐसे जन बुद्धि को बढ़ाते हुए दुष्टों का निवारण करते हैं, उनके साथ मैं मेल करता हूँ ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

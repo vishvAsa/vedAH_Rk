@@ -3,7 +3,6 @@ title = "009"
 devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शशकर्णः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्य- इदानीम्। नासत्या- सत्यस्वरूपौ। वाम्- युवाम्। उक्थैः- मन्त्रैः। आचुच्युवीमहि-  आगमयेम। अश्विना। एवेत्- एवमेव। काण्वस्य- मन्त्रविदः। वाणीभिः- वाग्भिः। बोधतम्-  बुद्ध्येथाम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे नासत्यौ **अद्य** इदानीम् **उक्थैः** शस्त्रैः **यत्** यथा येन प्रकारेण **वां** युवाम् **आचुच्युवीमहि** आगमयेम हे अश्विनौ **यद्वा** यथा **वाणीभिः** उक्थव्यतिरिक्ताभिरपि वाग्भिः स्तुतिभिः युवामागमयेम **एवेत्** एवमेव तथैव **काण्वस्य** मम तदुक्थादिकं **बोधतम्** अवगच्छतम् ॥
@@ -200,8 +203,6 @@ of Kaṇva.
 <details><summary>Jamison Brereton Notes</summary>
 
 The last pāda of the verse (d) is identical with the last pāda of vs. 3 (c), but the point is very different. In vs. 3 the poet asks the Aśvins to pay attention only to him despite the activities of other poets; here it’s “we” who are moving the Aśvins, but the poet still asks for their exclusive attention. Given the constant interchange between 1st singular and plural in ritual situations, I find it difficult to think that the poet is trying to distance himself from his priestly comrades and get the Aśvins all to himself. But I don’t have a good explanation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -239,8 +240,6 @@ Sei's, dass wir heut durch Sprüche euch herbeiziehn, o wahrhaftige, O Ritter, s
 Или если бы голосами, о Ашвины,  
 Прежде всего заметьте потомка Канвы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

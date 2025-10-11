@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बृहन्तम्। ऋष्वम्- महान्तम्। अजरम्- जरारहितम्। युवानम्- तरुणम्। अषाळ्हेन- असह्येन।  शवसा- बलेन। शूशुवांसम्- वर्धमानम्। सद्यः- क्षणेन। चित्- एव। यः। असामि- अनल्पम्।  ववृधे। तम्। इन्द्रमेव। धिषणा- चित्तधारणा। सातये- दैवीसम्पल्लब्धये। धात्- चित्ते  अधारयत्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धिषणा** अस्मदीया स्तुतिः **सातये** दानाय **इन्द्रमेव** **धात्** धारयति । कीदृशम् । **बृहन्तं** महान्तम् **ऋष्वं** गन्तारम् **अजरं** जरारहितं **युवानं** नित्यतरुणम् **अषाळ्हेन** शत्रुभिरनभिभूतेन **शवसा** बलेन **शूशुवांसं** प्रवृद्धम् । श्वयतेरिदं रूपम् । **यः** इन्द्रः **सद्यश्चित्** सद्य एव जातमात्रः सन् **असामि** अनल्पमधिकं यथा भवति तथा **ववृधे** वर्धते ॥
@@ -233,8 +236,6 @@ swollen with invincible strength, who in just a single day grew strong  and not 
 <details><summary>Jamison Brereton Notes</summary>
 
 śávasā śūśuvā́ṃsam “swollen with strength” is an etymological figure, though śávas- has lost its tight connection to √śū ‘swell’. Both words are reused in this hymn: 6a śáviṣṭham … śávaḥ “strongest strength”; 7b, 8b śūśuvā́ṃsam.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -269,8 +270,6 @@ Den Indra trieb die Schale an zum Geben, den hohen grossen Jüngling, der nicht 
 (Того,) кто сразу же возрастает безмерно.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -291,7 +290,7 @@ Den Indra trieb die Schale an zum Geben, den hohen grossen Jüngling, der nicht 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जैसे बड़े मित्र को प्राप्त होकर मनुष्य वृद्धि को प्राप्त होते हैं, वैसे ही बिजुली की विद्या को प्राप्त होकर अतुल वृद्धि को प्राप्त होते हैं ॥२॥
+भावार्थभाषाः -  जैसे बड़े मित्र को प्राप्त होकर मनुष्य वृद्धि को प्राप्त होते हैं, वैसे ही बिजुली की विद्या को प्राप्त होकर अतुल वृद्धि को प्राप्त होते हैं ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

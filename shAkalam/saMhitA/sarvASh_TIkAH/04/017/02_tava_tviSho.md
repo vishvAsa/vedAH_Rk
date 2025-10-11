@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तव- भवतः। त्विषः- दीप्तेः। जनिमन्- प्रकटने। द्यौः। एजत्- कम्पते। स्वस्य- त्वदीयात्।  मन्योः- क्रोधाद्वीर्यादिति भावः। भूमिः- पृथिवी। भियसा- भयेन। रेजत्- कम्पते। सुभ्वः-  दृढभूमिकाः। पर्वतासः- गिरयो मेघा वा। ऋघायन्त- अबाध्यन्त। आर्दन्- अहिंसन्। आपः-  अपः। धन्वानि- मरुप्रदेशान् प्रति। सरयन्ते- गमयन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्विषः** दीप्यमानस्य **तव** त्वदीये **जनिमन्** जन्मनि सति **द्यौः** अन्तरिक्षं **स्वस्य** त्वदीयात् **मन्योः** कोपात् । पञ्चम्यर्थे षष्ठी । **भियसा** जातभयेन **रेजत** अरेजत् । अकम्पत । **भूमिः** च **रेजत्** कम्पमाना बभूव । **सुभ्वः** महान्तः **पर्वतासः** । पर्वता मेघाः । **ऋघायन्त** सस्यादीनां वृष्टिप्रदानार्थं नियामकेन त्वया अबाध्यन्त । तथा मेघाः **आर्दन्** प्राणिनां पिपासारूपां पीडामहिंसन् । तथा मेघाः **धन्वानि** उदकरहितान् देशान् **आपः** अपः **सरयन्ते** गमयन्ति ॥
@@ -238,7 +241,6 @@ With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus par
 
 Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -246,6 +248,7 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -280,8 +283,6 @@ Vor deiner Kraft bei der Geburt erbebten aus Furcht vor deinem Zorne Erd' und Hi
 Зашатались крепкие горы,  
 Расступились пустыни, текут воды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

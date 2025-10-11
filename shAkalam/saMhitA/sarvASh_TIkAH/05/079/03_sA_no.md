@@ -3,7 +3,6 @@ title = "003"
 devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - सत्यश्रवा आत्रेयः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आभरद्वसुः- सम्पत्सम्पादयित्रि। दिवो दुहितः- दिव्ये। अद्य- इदानीम्। नः- अस्मदर्थम्। व्युच्छ-  तमो विवासय॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दुहितर्दिवः** उषः **आभरद्वसुः** आहृतधना **सा** प्रसिद्धा त्वं **नः** अस्माकम् **अद्य** अस्मिन् दिने **व्युच्छ** तमो विवासय । हे 'सहीयसि **यो** या । उकारोऽनर्थकः । या त्वं पूर्वं **व्यौच्छः** साद्यापीति ॥
@@ -248,8 +251,6 @@ yó beginning pāda c represents yā́+ u (note Pp. yó íti), but the apparent 
 
 form causes a momentary stir.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -259,6 +260,7 @@ attributes the hymn to Satyaśravas Ātreya, but as Geldner points out [n. 1d] h
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -297,8 +299,6 @@ So leuchte, Himmelstochter, uns und bring auch heute Güter her, Wie du erstrahl
 О благородная, о щедро дающая коней!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - उषाः
@@ -314,7 +314,7 @@ So leuchte, Himmelstochter, uns und bring auch heute Güter her, Wie du erstrahl
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (सत्यश्रवसि) सत्य व्यवहार से प्राप्त अन्न आदि ऐश्वर्य्यवाली (सुजाते) अच्छी विद्या से प्रकट हुई (वाय्ये) प्राप्त होने योग्य (अश्वसूनृते) बड़े ज्ञान से युक्त (सहीयसि) अतिशय सहनशील और (दिवः) कामना करते हुए की (दुहितः) कन्या के सदृश विदुषी स्त्री (यो) जो तू (आभरद्वसुः) सब प्रकार से धनों को धारण करनेवाली हुई (नः) हम लोगों को (वि) विशेष करके (औच्छः) निवास करानेवाली है (सा) वह आप (अद्य) आज उत्तम सुख में (वि) विशेष करके (उच्छ) निवास कराओ ॥३॥
+पदार्थान्वयभाषाः -  हे (सत्यश्रवसि) सत्य व्यवहार से प्राप्त अन्न आदि ऐश्वर्य्यवाली (सुजाते) अच्छी विद्या से प्रकट हुई (वाय्ये) प्राप्त होने योग्य (अश्वसूनृते) बड़े ज्ञान से युक्त (सहीयसि) अतिशय सहनशील और (दिवः) कामना करते हुए की (दुहितः) कन्या के सदृश विदुषी स्त्री (यो) जो तू (आभरद्वसुः) सब प्रकार से धनों को धारण करनेवाली हुई (नः) हम लोगों को (वि) विशेष करके (औच्छः) निवास करानेवाली है (सा) वह आप (अद्य) आज उत्तम सुख में (वि) विशेष करके (उच्छ) निवास कराओ ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

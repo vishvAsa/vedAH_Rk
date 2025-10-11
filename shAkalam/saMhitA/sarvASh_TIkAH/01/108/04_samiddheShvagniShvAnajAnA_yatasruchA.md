@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्स आङ्गिरसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समिद्धेषु- सम्यक् दीप्तेषु। अग्निषु- वेदिस्थपावकेषु सर्वभूतहितक्रतुषु वा। आनजाना- अञ्जन्तौ।  यतस्रुचा- उद्यतस्रुक्पात्रसंपन्नेन। यम उपरमे। संपादितरसोपलब्धिकोशभूतेन। स्रुक्  रसोपलब्धिस्थानप्रतीकभूता। बर्हिः- दर्भासनं चित्तासनं वा। उ- अपि। तिस्तिराणा- आस्तीर्णं  कृतवन्तौ। तीव्रैः- वीर्योपेतैः। परिषिख्नेभिः- आसिख्नैः। सोमैः- रसैः। इन्द्राग्नी। सौमनसाय-  शोभनमतये। अर्वाक्- अस्मदभिमुखम्। यातम्- आगच्छतम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अग्निषु** गार्हपत्यादिषु अन्वाधानादिना **समिद्धेषु** सम्यगिद्धेषु दीप्तेषु सत्सु **आनजाना** हवींष्याज्येनाञ्जन्तौ यतस्रुचा तदनन्तरं यागार्थं गृहीतस्रुचौ **बर्हिरु** वेद्यां बर्हिरपि **तिस्तिराणा** आस्तीर्णं कृतवन्तौ अध्वर्युप्रतिप्रस्थातारौ एवंभूतावभूताम् । तथा सति हे इन्द्राग्नी **तीव्रैः** क्षिप्रं मदकरैः **परिषिक्तेभिः** परितः सर्वेषु ग्रहचमसादिष्वासिक्तैः **सोमैः** हेतुभूतैः **अर्वाक्** अस्मदभिमुखम् ॥ **यातम्** आगच्छतम् । किमर्थम् । **सौमनसाय** सौमनस्याय अस्माकमनुग्रहायेत्यर्थः ॥ आनजाना ।  ‘ अञ्जू व्यक्तिम्रक्षणगतिषु । लिटः कानच् । **अनिदिताम्'** इति नलोपः। द्विर्भावे ‘अत आदेः' इति अभ्यासस्य दीर्घः। तस्मान्नुड्द्विहलः' इति अद्विहलोऽपि व्यत्ययेन नुट् । तिस्तिराणा। स्तॄञ् आच्छादने । पूर्ववत् कानच् ।  ‘ ऋत इद्धातोः' इति इत्वम् । द्विर्वचने शर्पूर्वाः खयः' । सुपां सुलुक् ' इति सर्वत्र विभक्तेः आकारः । चित्त्वादन्तोदात्तत्वम् ॥
@@ -233,8 +236,6 @@ Another reason not to take this instr. with ‘being anointed’ is that soma is
 
 This argument leads indirectly to an issue that all comm. (Geldner, Oldenberg, Renou, Witzel Gotō, Kümmel [p. 577]) raise: the actions of the first 3 pādas should be performed for the two gods, not by them. Much energy is expended in these comments in trying to make the gods into recipients, with the unexpressed agents being priests (e.g., Oldenberg’s quotation of Benfey’s tr. of pāda b “für welche der Opferlöffel und das Barhis ausgebreitet ist” [my italics]). This energy seems to me misplaced and the grammatical interpretation over-fussy. One of Agni’s standard roles is that of priest, and the actions ascribed to him (and Indra) here fall squarely within this role. Since Indra is identified with Agni, he is just along for the ride, as it were -- just as Agni was in the preceding vs. as Vṛtra-smasher. Though it may seem a bit strange to have the gods already present on the ritual ground, performing the preliminaries to the sacrifice in abc, but, in pāda d, driving to the sacrifice, this merely switches the viewpoint to Indra’s perspective: he always drives to the sacrifice; Agni is always already there. Since the two gods are identified here, we see the characteristic actions of each separately, but ascribed simultaneously to both.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -267,8 +268,6 @@ Euch schmückend beide bei entflammten Feuern, euch werfend auf die Streu, aus L
 С разлитыми вокруг острыми (соками) сомы, сюда,  
 О Индра и Агни, придите, чтобы (проявить) доброжелательность!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

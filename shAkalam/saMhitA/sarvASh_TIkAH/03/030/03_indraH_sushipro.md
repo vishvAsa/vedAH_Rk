@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- परमेश्वरः। सुशिप्रः- शोभननासिकः शोभनप्राण इति भावः। मघवा- सम्पद्वान्। तरुत्रः-  तारकः। महाव्रातः- महासमूहः। तुविकूर्मिः- बहुकर्मा। ऋघावान्- शत्रुबाधकः। उग्रः- उद्गूर्णः। बाधितः- शत्रुभिर्हिंसितः सन्। मर्त्येषु। यत्- यानि। वीर्याणि। वृषभ- वर्षक। धाः- धारयसि।  त्या- तानि। क्व- इदानीं कुत्र सन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषभ** कामानां वर्षक हे इन्द्र यस्त्वम् **इन्द्रः** परमैश्वर्यसंपन्नः **सुशिप्रः** । शिप्रशब्देन शिरस्त्राणमभिधीयते । शोभनशिरस्त्राणोपेतः । यद्वा शोभनहनुमान् । ‘शिप्रे हनू नासिके वा ' ( निरु. ६. १७) इति यास्कः । **मघवा** धनवान् **तरुत्रः** । तरन्त्यनेन शत्रून्देवा इति तरुत्रः इन्द्रः । **महाव्रातः** मरुद्भिर्महान् व्रातः समूहो यस्येति स तथोक्तः ।"तुविकूर्मिः संग्रामे नानाविधकर्मणां कर्ता **ऋघावान्** शत्रुविषयहिंसावान् अत एव **उग्रः** शत्रूणां भयंकरः स तादृशस्त्वं **बाधितः** असुरैः संग्रामे बाधितः सन् **मर्त्येषु** मारयितृषु असुरेषु **यत्** यानि वीर्याणि **धाः** व्यधा इदानीं **ते** तव **त्या** तानि **वीर्याणि** **क्व** क्वासते वद ॥ सुशिप्रः । ‘सृप्लृ गतौ ' । औणादिको रन्प्रत्ययः । बाहुलकात् सृ इत्यस्य शि इत्यादेशः । बहुव्रीहौ आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् । तरुत्रः । तरतेः  अशित्रादिभ्य इत्रोत्रौ' इत्युत्रप्रत्ययः । व्यत्ययेनाद्युदात्तत्वम् । महाव्रातः । 'आन्महतः' इत्याकारादेशो महतस्तकारस्य । तुविकूर्मिः । करोतेरौणादिको मिप्रत्ययः । गुणे कृते करोतेरकारस्योत्वं छान्दसम् । ‘हलि च' इति दीर्घः। ऋघावान् । ऋन् ( नॄन्) हन्तीत्यृघाः । अन्येभ्योऽपि दृश्यन्ते' इति विच् । दृशिग्रहणान्नलोपो हकारस्य घत्वम् । तदस्यास्तीति मतुबर्थे छन्दसीवनिपौ' इति वनिप् । व्यत्ययेनाद्युदात्तः । क्व । किंशब्दस्य सप्तम्यर्थे ‘किमोऽत्' इत्यत्प्रत्ययः । तस्मिन् ‘ क्वाति' इति क्वादेशः । तित्स्वरः ॥
@@ -245,7 +248,6 @@ that which you, powerful one, established among mortals, even when  hard-pressed
 <details><summary>Jamison Brereton Notes</summary>
 
 The 2nd member of tuvikūrmí-, an epithet of Indra, is generally now derived from the seṭ root √cari , a derivation already found in AiG I.24, 141, 152 -- hence my ‘powerfully ranging’. See EWA s.v. tuvikūrmí-. The older deriv. from √kṛ (e.g., Grassmann, Wh Rts; explicitly rejected by AiG II.2.776) is nonetheless still reflected in the standard tr.: Geldner “der Tatenreiche,” Renou (with hesitation) “aux actes (?) puissants,” Witzel Gotō “der mächtig Wirkende” -- even though AiG I (1896) predates all of them by a good margin, well over a century in the case of Witzel Gotō! There is number incongruence between the neut. sg. yád of the rel. clause and neut. pl. tyā́… vīryā̀ṇi. The yád is, as it were, an anticipatory collective: “what(ever) you did … where are those deeds?”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -279,8 +281,6 @@ Der schönbehelmte mächt'ge Sieger wirket mit grosser Schar viel Thaten Indra, 
 Что учинил ты, грозный, среди смертных, будучи загнанным,  
 Где (были) эти твои мужественные подвиги (тогда), о бык?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

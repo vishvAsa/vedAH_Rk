@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रियमेध
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। शवसान- बलिष्ठ। सख्यम्- समानख्यातिम्। मर्त्यः- मरणधर्मा। ते- तव। न। आनंश-  व्याप्नोति। ते- तव। शवांसि- बलानि। नकिः- न। नशत्- व्याप्नोत्येव॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शवसान** बलवन्निन्द्र **यस्य** **ते** तव **सख्यं** **मर्त्यः** मरणधर्मा मनुष्यः **न** **आनंश** न व्याप्नोति **ते** **शवांसि** बलान्यपि **नकिः** नैव **नशत्** व्याप्नोति ॥
@@ -183,10 +186,6 @@ Du Gewaltiger, dessen Freundschaft kein Sterblicher erreicht hat, keiner erreich
 
 O starker, dess Genossenschaft kein Sterblicher gewonnen hat, Dess Kräfte keiner je erreicht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

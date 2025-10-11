@@ -3,7 +3,6 @@ title = "020"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सप्त संसदः- सप्त लोकाः। यस्मिन्। विश्वाः- सर्वाः। श्रियः। रणन्ति- रमन्ते। तमिन्द्रम्। सुते-  रसे निष्पन्ने। हवामहे- आह्वयामः॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्मिन्** इन्द्रे **विश्वाः** सर्वाः **श्रियः** कान्तयः **अधि** अधिकं भवन्ति । अतिशयेन तेजस्वीत्यर्थः । किंच **सप्त** सप्तसंख्याकाः **संसदः** । सम्यक् यज्ञेषु कर्मकरणार्थं सीदन्तीति संसदः होत्रकाः । यस्मिन् **रणन्ति** सोमप्रदानार्थं रमन्ते । यद्वा । यं शब्दयन्ति स्तुवन्ति । तं पूर्वोक्तलक्षणम् **इन्द्रं** **सुते** सोमेऽभिषुते सति **हवामहे** वयं सोमपानायाह्वयामः ॥ ॥ १८ ॥
@@ -178,10 +181,6 @@ Bei dem alle Herrlichkeiten sind, über den die sieben Opferversammlungen sich f
 
 In welchem alle Wonne ruht, die sieb'n Gemeinden sich erfreun, Den Indra rufen wir beim Saft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    हरिवः- वज्रिन्। ते- तव। ब्रह्म- मन्त्रं धारयन्। अहम्। हि- खलु। सदा- सततम्। ऊतिभिः-  रक्षाभिः। आजिम्- युद्धम्। यामि- गच्छामि। तम् त्वामेव। अमे- बले। अश्वयुः- तुरगकामः  प्राणकामः। गव्युः- धेनुकामश्चिद्रश्मिकामः। मथीनाम्- मथनकारिणाम्। अग्रे। सम्- सङ्गतो  भवामि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -287,8 +290,6 @@ Durch deine Hülfen, Herr der Füchse, geh' ich stets, Gut wünschend in Gebet u
 Только с тобою, таким, я заключаю договор в начале молитв,  
 Жаждя коней, жаждя коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

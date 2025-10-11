@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। एतग्वा- एतवर्णौ। एतशा- प्राणाश्वौ। इन्द्रः। हरी- आकर्षणशख्निसम्पन्नौ। युयोजते-  योजयति तादृश। दीर्घायो- नित्य। अदेवः- तमःप्रायः। मर्त्यः- मनुष्यः। सीम्- सर्वतः। एव।  इषम्- स्वकामनाम्। न । आपत्- प्राप्नोति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दीर्घायो** नित्येन्द्र सः **अदेवः** इन्द्राख्यदेवरहितः **मर्त्यः** मरणधर्मा मनुष्यः **सीं** सर्वम् **इषम्** अन्नं **न** **आपत्** न प्राप्नोति । **यः** मर्त्योऽस्येन्द्रस्य **एतग्वा** **चित्** । एतवर्णावेवाश्वौ भवतोऽभिमतदेशगमनाय । **एतशा** एतशावश्वौ **युयोजते** योजयति रथे यज्ञं गन्तुम् । यश्च **इन्द्रः** **हरी** **युयोजते** तं न यः स्तौति । स न प्राप्नोतीति समन्वयः ॥
@@ -241,10 +244,6 @@ Nicht soll der gottlose Sterbliche Speisegenuß erlangen, o Langlebiger! Welcher
 
 Kein Sterblicher, der gottlos ist, hat Gut erlangt, Unsterblicher; Nur der erlangt's, der dir die schnellen Rosse schirrt, das Füchsepaar, o Indra, schirrt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

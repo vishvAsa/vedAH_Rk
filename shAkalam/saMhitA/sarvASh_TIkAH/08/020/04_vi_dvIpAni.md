@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सोभरिः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्वीपानि। वि- विशेषेण। पापतन्- पतन्ति। तिष्ठत्- स्थावरम्। दुच्छुना- दुःखेन भवति। उभे रोदसी-  द्यावापृथिव्यौ। युजन्त- कम्पनेन युख्ने भवतः। यत्- यदा। स्वभानवः- स्वप्रकाशाः सन्तः। एजथ-  कम्पन्ते। तदा। शुभ्रखादयः- शुक्लायुधाः। धन्वानि- उदकानि। प्र ऐरत- प्रेरयन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **द्वीपानि** द्वयोः पार्श्वयोरापो येषु तान्युदमध्यस्थलानि । **द्व्यन्तरुपसर्गेभ्योऽप** ईत्' (पा. सू. ६. ३. ९७ ) इतीत्वम् । 'ऋक्पूः इत्यादिनाकारः समासान्तः । तानि च **वि** **पापतन्** अत्यर्थं मरुद्वेगेन विपतन्ति । **तिष्ठत्** स्थावरं चान्यद्वृक्षजातं **दुच्छुना** दुःखेन युज्यते । **उभे** **रोदसी** द्यावापृथिव्यावपि **युजन्त** । ते मरुतः स्वागमनजनितेन कम्पनेन योजयन्ति । परोऽर्धर्चः परोक्षकृतः । **धन्वानि** गमनशीलान्युदकानि च **प्र** **ऐरत** प्रगच्छन्ति । हे **शुभ्रखादयः** शोभनायुधाः शोभनहविष्का वा हे **स्वभानवः** स्वायत्तदीप्तयः यूयं **यत्** यदा **एजथ** कम्पयथ । तदैतत्पूर्वोक्तं सर्वं निष्पद्यत इत्यर्थः ॥
@@ -231,8 +234,6 @@ ones with beautiful bangles.
 The vs. describes the effects of the monsoon. The first hemistich contains three injunctives (pā́patan, tíṣṭhat, and yujanta) and the last pāda a present (éjatha), but pāda c contains the apparently augmented airata. Given this collection of verbs, it is difficult to produce a consistent temporal interpretation. The injunctives can harmonize either with the preterital airata or with the presential éjatha, but those two are incompatible. A way out of this dilemma was shown by Hoffmann (Injunc, 210), who suggests that the “cacophonous hiatus” dhánvāni *īrata was avoided by substituting the augmented form for the injunctive. (It would be good to have other exx. of such a hiatus-avoiding technique, however.) The whole verse can then be interpr. as presential or “general.” This temporal value continues in vs. 5, also describing the effects of the storm, with two present-tense verbs.
 
 The second clause in pāda a, tíṣṭhad duchúnā, has been interpreted in two opposing senses. Geldner supplies the ví of the first VP and tr. “das Unheil breitet sich aus.” But without the ví the verb would mean ‘stand (still)’ or ‘stop’ (so Renou “stoppe le misère”). I favor this latter interpretation. Since the monsoon brings desired rain, which makes the plants grow and produces food and attendant well-being, it stops misery in its tracks, as it were. This stoppage contrasts with the movement of the features of the natural world in pādas a and c.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -266,8 +267,6 @@ Die Wolkeninseln stoben und das Unheil floh, und Erd' und Himmel eintet ihr, O R
 Засушливые земли приходят в движение, о (боги) с красивыми кольцами.  
 Когда вы движетесь, о обладатели собственного блеска.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

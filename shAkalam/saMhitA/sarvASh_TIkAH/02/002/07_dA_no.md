@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -264,6 +262,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। बृहतः- महतः। सहस्रिणः- प्रभूतान्। नः- अस्मभ्यम्। दाः- देहि। न वाजम्-  अन्नभण्डारद्वारमिव। दुरः-श्रुतिभण्डारद्वारम्। श्रुत्यै- श्रुतिग्रहणाय। अपा वृधि- अपावृणु। प्राची-  प्राचीने। द्यावापृथिवी- द्यावापृथिव्यौ। ब्रह्मणा- मेधया। कृधि- कुरु। उषसः- विद्याः। स्वर्ण  शुक्रम्- दीप्तं स्वर्गम्। वि दिद्युतुः- विशेषेण द्योतयन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **नः** अस्मभ्यं **बृहतः** महतः प्रभूतान् गवाश्वादिधनविशेषान् **दाः** देहि । तथा **सहस्रिणः** सहस्रसंख्योपेतान् पुत्रभृत्यादीन् **दाः** देहि॥ ददातेश्छान्दसे लुङि रूपम्। वाक्यभेदादनिघातः॥ **श्रुत्यै** कीर्त्यै **वाजम्** अन्नं **दुरो** **न** तस्य द्वाराण्यपि । नशब्दश्चार्थे। **अपा** **वृधि** अपवृणु । प्रेरयेत्यर्थः । यद्वा द्वाराणीव । तत्प्राप्त्युपायान् विशदयति । तदर्थं **द्यावापृथिवी** **ब्रह्मणा** परिवृढेन कर्मणा **प्राची** प्रकृष्टाञ्चने अस्मदनुकूले **कृधि** कुरु । **स्वर्ण** आदित्य इव । स यथा जगत्प्रकाशयति तद्वत् । **शुक्रं** दीप्तं त्वाम् **उषसः** उषःकालाः **वि** **दिद्युतुः** विद्योतयन्ति । उषःकाले ह्यग्नयः प्रज्वाल्यन्ते ॥
@@ -292,8 +295,6 @@ If śrútyā in the Saṃhitā text represents dat. śrútyai (so Pp.) and belon
 Kümmel (251) takes ví didyutaḥ as intrans., not trans.-caus. (in his terms, “inattingent” not “faktitiv”), interpreting uṣásaḥ as temporal. I am doubtful.
 
 The simile in d svàr ṇá “like the sun” is perfectly ambiguous. It can be nominative, compared to Agni, the subject of ví didyutaḥ, as an entity that makes the dawns shine. (Given the temporal proximity of dawn and sunrise, this causal connection is perfectly in order.) Or Agni can make the dawns shine forth like the sun, with the simile in the acc. In 8b and 10d the same simile is in the nominative, but I do not think this is a sufficient reason to impose the same analysis here.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -332,8 +333,6 @@ Uns gieb, o Agni, vieles, tausendfaches Gut, wie Thüren schliesse Schätze uns 
 Молитвой склони в нашу сторону небо и землю!  
 Так сверкай же ярко при (всех) звездах, словно ясное солнце!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

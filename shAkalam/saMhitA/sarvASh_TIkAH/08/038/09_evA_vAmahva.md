@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। मेधिरः- मेधाविनः। अहुवन्त- आह्वयन्ति। एव- तथा। वाम्- युवाम्। अह्वे- आह्वये॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** **वां** युवां **यथा** **मेधिराः** प्राज्ञाः **अहुवन्त** आहूतवन्तः एवमहम् **ऊतये** रक्षणाय सोमस्य पीतये च **अह्वे** ह्वयामि ॥
@@ -182,8 +185,6 @@ So hab ich euch um Gunst gefleht, wie sonst die Weisen euch gefleht, Den Soma, I
 Как (некогда вас) призывали мудрые,  
 О Индра-Агни, для питья сомы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

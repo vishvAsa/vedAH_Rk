@@ -3,7 +3,6 @@ title = "030"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्तम- अतिशयेनावरणबाधक। त्वाम्। इत्- एव। सुतावन्तः- रसनिष्पादकाः। हवामहे-  आह्वयामः॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्तम** अतिशयेन वृत्रस्यापामावरकस्य हन्तरिन्द्र **सुतवन्तः** अभिषुतसोमवन्तो वयम् । इदवधारणे' । **त्वामित्** त्वामेव **हवामहे** । अस्मद्यज्ञमागत्य सोमपानायाह्वयामः । हे **इन्द्र** **नः** अस्मान् यदि सुखयसि तर्ह्याह्वयाम इति ॥ ॥ २६ ॥
@@ -174,10 +177,6 @@ Nur dich, du Erzfeindetöter, rufen wir bei ausgepreßtem Soma, wenn du, Indra, 
 
 Ja dich, o Feind vertilgender, dich rufen Soma bringend wir, O sei du, Indra, gnädig uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

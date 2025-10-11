@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - नृमेधः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूर्यम्। श्रायन्तइव- रश्मयो यथा श्रयन्ति तथा। इन्द्रस्य। विश्वानि- सर्वाणि तेजांसि। भक्षत-  भजत। जाते। जायमाने- जनिष्यमाने च। ओजसा- बलेन। वसूनि- सम्पदः। भागं न - पित्र्यं  भागमिव। प्रति दीधिम- अनुध्यायेम॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अस्मदीया जनाः **श्रायन्तइव** **सूर्यं** यथा समाश्रिता रश्मयः सूर्यं भजन्ते तथा **इन्द्रस्य** **विश्वेत्** विश्वान्येव धनानि **भक्षत** भजत । स च यानि **वसूनि** धनानि **जाते** उत्पन्ने **जनमाने** जनिष्यमाणे च **ओजसा** बलेन करोति **भागं** **न** पित्र्यं भागमिव तानि धनानि **प्रति** **दीधिम** प्रतिधारयामेति । यद्वा । श्रयन्तइव सूर्यं यथा समाश्रिता रश्मयः सूर्यमुपतिष्ठन्ते तथेन्द्रस्य विश्वा विश्वानि विभक्तुमिच्छन्तः समाश्रिता मरुत इन्द्रमुपतिष्ठन्त इति शेषः । उपस्थाय च मरुतो वसूनि उदकलक्षणानि धनानि जाते जातीय जनमाने जनिष्यमाणाय च मनुष्याय च ओजसा बलेन भक्षत विभजन्ते । तत्र चास्माकं यो भागस्तं भागम् । नेति संप्रत्यर्थे । प्रतीत्येषोऽन्वित्येतस्य स्थाने । अनु दीधिम वयमनुध्यायाम । तथा च यास्कः - ‘ समाश्रिताः सूर्यमुपतिष्ठन्ते । अपि वोपमार्थे स्यात्सूर्यमिवेन्द्रमुपतिष्ठन्त इति । सर्वाणीन्द्रस्य धनानि विभक्ष्यमाणाः । स यथा धनानि विभजति जाते च जनिष्यमाणे च वयं भागमनुध्यायाम ' (निरु. ६, ८) इति ॥
@@ -222,7 +225,7 @@ When he [=the Sun?] who has been born before is being born (again) with  strengt
 
 The simile in the first pāda of this verse is quite problematic: not only is the image intended quite unclear, but the verbal stem śrāya- in participial śrāyanta(ḥ) (so Pp., Grassmann rather śrāyante) is a near hapax (only here in the RV, other instances in MS I.8.2, TĀr. IV.2.5 = ĀpŚS XV.3.7). Most tr. take it as transitive ‘cooking’ (so Geldner, e.g.); Oldenberg argues that sū́ryam should be the object: “like those cooking the sun, as it were,” while Geldner takes bhakṣata as the governing verb (“As [people] cooking use [nutzen] the sun, they enjoy [geniessen] all [the goods] of Indra” - ‘nutzen’ and ‘geniessen’ must be his alternative tr. of abhakṣata depending on the object).
 
-However, Narten (“Vedic śrīṇāti, gr. κρείων, κρέων,” KZ 100 [1987]: 270-96 = Kl Sch 340-66, cited after latter) points out (p. 342 n. 3) that the stem is elsewhere intrans. with the meaning ‘gar werden’ and tr. the hemistich “wie gar werdende (= sich erhitzende) Leute (Anteil) an der Sonne (haben), so haben sie Anteil an allen (Gütern) des Indra,” flg. a suggestion of Hoffmann’s. The TĀ=ĀpŚS passage explicitly connects “getting done/cooked” with the sun: sūryasya harasā śrāya “become cooked by the glow/heat of the sun.” The Narten-Hoffmann interpretation is followed here, though I am still somewhat puzzled both about the content of the simile and about its relevance to the frame. For the first, getting cooked does not usually require the mediation of the sun but rather of fire, so literally “having a share in the sun” at best ought to mean the “share” of the sun that is actually fire. This is not terribly satisfactory, so, with Narten we must therefore interpret “getting cooked” metaphorically (but not too metaphorically), as indicating heated or excited people whose state is likened to heating by the sun. But even with this interpretation of the simile, there seem far less tortuous ways to indicate that people share in Indra’s goods than to compare this to heated-up people sharing in the sun. However, the transitive interpretations do not improve the sense: Oldenberg’s cooking the sun would require quite a lot of metaphor to rescue it, and the same problem with Narten’s interpretation - that cooking doesn’t require the sun - affects Geldner’s transitive version.
+However, Narten (“Vedic śrīṇāti, gr. κρείων, κρέων,” KZ 100 [1987]: 270-96 = Kl Sch 340-66, cited after latter) points out (p. 342 n. 3) that the stem is elsewhere intrans. with the meaning ‘gar werden’ and tr. the hemistich “wie gar werdende (= sich erhitzende) Leute (Anteil) an der Sonne (haben), so haben sie Anteil an allen (Gütern) des Indra,” flg. a suggestion of Hoffmann’s. The TĀ=ĀpŚS passage explicitly connects “getting done/cooked” with the sun: sūryasya harasā śrāya “become cooked by the glow/heat of the sun.” The Narten-Hoffmann interpretation is followed here, though I am still somewhat puzzled both about the content of the simile and about its relevance to the frame. For the first, getting cooked does not usually require the mediation of the sun but rather of fire, so literally “having a share in the sun” at best ought to mean the “share” of the sun that is actually fire. This is not terribly satisfactory, so, with Narten we must therefore interpret “getting cooked” metaphorically (but not too metaphorically), as indicating heated or excited people whose state is likened to heating by the sun. But even with this interpretation of the simile, there seem far less tortuous ways to indicate that people share in Indra’s goods than to compare this to heated-up people sharing in the sun. However, the transitive interpretations do not improve the sense: Oldenberg’s cooking the sun would require quite a lot of metaphor to rescue it, and the same problem with Narten’s interpretation - that cooking doesn’t require the sun - affects Geldner’s transitive version.
 
 The only reason I can see for the sun to make this distinctly odd appearance in the simile of pāda a is to prepare us for its implicit appearance in the second hemistich. With Geldner I assume that the subject of the loc. absol. in c is the sun, which is born every day, and whose “birth” at dawn sets the early morning ritual in motion, the rite at which the dakṣiṇās are distributed. Geldner suggests that jāté jánamāne is metri causa for an āmreḍita jāté-jāte, but this seems unlikely. This is the only occurrence of the middle participle to jána- and indeed one of the only middle forms of this rare 1st class pres. stem (most of the others are -anta 3rd plurals that are re-marked actives; see Jamison "Voice Fluctuation in the Rig Veda: Medial 3rd plural -anta in Active Paradigms", IIJ 21 [1979] 146-69). I would hesitate to suppose that a Rigvedic poet would create a new participial stem simply to avoid a metrical problem. Instead I think he is making a temporal point: the sun has been born previous (jāté) and when he is being born again, that is, at the moment the ritual commences, we think about the goods that will come to us in the ritual.
 
@@ -252,8 +255,6 @@ Sich wendend wie zur Sonne hin empfangen Indra's Güter sie; Wenn der geborne ne
 (Каждый раз,) когда он благодаря силе родился и рождается,  
 Мы представляем себе блага как (нашу) долю.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

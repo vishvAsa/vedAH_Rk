@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -184,6 +182,11 @@ _________
 You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [on behalf] of the people who are Manu’s descendants, who perform proper rituals and pour the offering of ghee. 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। त्वम्। वसून्- उपासकानां रक्षावरणभूतान्। वस आच्छादने। रुद्रान्-  उपासकोपयोगिवेगाधिदेवान्। उत- अपि  च। आदित्यान्- अखण्डप्रकृतिजान्। यज- पूजय।  मनुजातम्- ज्ञानजम्। अवबोधरसजातम्। मन ज्ञाने। मनु अवबोधने। घृतप्रुषम्- घृतप्रवाहकम्।  घृतसेख्नारम्। घृतपूरकम्। घृतं ज्योतिः। स्वध्वरम्- ध्वररहितं सर्वभूतहितकरम्। जनम्- दैव्यं  जनम्। यज- पूजय। सङ्गतं कुरु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **त्वम्** **इह** कर्मणि वस्वादीन् **यज** । **उत** अपि च **जनम्** अन्यमपि देवतारूपं प्राणिनं यज । कीदृशम् । **स्वध्वरं** शोभनयागयुक्तं **मनुजातं** मनुना प्रजापतिनोत्पादितं **घृतप्रुषम्** उदकस्य सेक्तारम् ॥ 
@@ -254,8 +257,6 @@ Die Vasu's schaff, o Agni, du, die Rudra's und Aditja's her, Die Schar, die Manu
 (Уважь) род, происходящий от Ману,  
 Делающий обряд успешным, кропящий жиром!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

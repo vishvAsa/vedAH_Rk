@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मात्- एतस्माद्यज्ञस्थानात्। चित्रतमः- आश्चर्यतमः। नः- अस्माकं रसम्। अपात्-  अनुभवतु। महीम्- महतीम्। द्युमती- ज्योतिष्मतीम्। इन्द्रहूतीम्- इन्द्रस्तुतिम्। भर्षत्- इन्द्रो  धारयतु। दैव्यस्य- दिव्याम्। पन्यस्य- स्तुत्याम्। धीतीम्- धियम्। यामन्- सन्मार्गे। सुदानुः-  शोभनदायकः। रातिम्- हव्यम्। वनते- सम्भजते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चित्रतमः** चायनीयतम आश्चर्यतमो वा स इन्द्रः **नः** अस्मदीयात् **इतः** अस्मात् ग्रहचमसादेः **अपात्** सोमं पिबतु । यद्वा । इतोऽस्मात् शत्रोर्नोऽस्मान् अपात् पातु रक्षतु । **उदु** इत्येतौ पूरणौ । तथा **महीं** महतीं **द्युमतीं** दीप्तिमतीम् **इन्द्रहूतिम्** इन्द्रस्य स्तुतिं **भर्षत्** स इन्द्रो बिभर्तु धारयतु । **दैव्यस्य** देवसंबन्धिनो **जनस्य** **यामन्** यामनि यज्ञे क्रियमाणां **पन्यसीं** स्तुत्यतमां **धीतिं** परिचरणरूपां क्रियां **रातिं** दातव्यं हविश्च **सुदानुः** शोभनदान इन्द्रः **वनते** संभजतु ॥
@@ -243,7 +246,6 @@ The unclear reference just noted is found in the first word of the hymn, 3rd sg.
 The subject of cd is also left unspecified; again I assume Agni: if he is embarking upward in ab, then the journey (yā́man) in c is most likely his, though Geldner supplies Indra. The only nominative attribute, sudā́nuḥ, is no help, as it is used of Agni and Indra about equally. What I take from the uncertainties of reference in this vs. is that the poet wants to keep us guessing.
 
 The pāda-final splv. citrátamaḥ produces a bad Triṣṭubh cadence. There is no obvious way to fix it, and the other 5 instances of this stem are found elsewhere in the line, where they work metrically.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -280,8 +282,6 @@ Er trank hieraus, nun nehme auf der schönste den glänzenden, den grossen Indra
 Роду хочет щедрый на (своем) пути.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -292,7 +292,7 @@ Er trank hieraus, nun nehme auf der schönste den glänzenden, den grossen Indra
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
-अब पाँच ऋचावाले अड़तीसवें सूक्त का प्रारम्भ है, उसके प्रथम मन्त्र में मनुष्यों को कैसे विद्वान् की सेवा करनी चाहिये, इस विषय को कहते हैं ॥
+अब पाँच ऋचावाले अड़तीसवें सूक्त का प्रारम्भ है, उसके प्रथम मन्त्र में मनुष्यों को कैसे विद्वान् की सेवा करनी चाहिये, इस विषय को कहते हैं ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>

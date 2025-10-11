@@ -3,7 +3,6 @@ title = "007"
 devataa = "वामदेवः"
 RShiH = "अदितिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अदितिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदितिर्वदति। अस्मै- एतस्मा इन्द्राय। निविदः- आपः। किम्। भनन्त- वदन्ति। आपः।  इन्द्रस्य। अवद्यम्- सत्त्वपुरुषवियोगरूपमादित्यं खेदम्। दिधिषन्त- धारयन्ति। मम- मे। पुत्रः-  सुतः। महता- बृहता। वधेन- हननसाधनेन वज्रेण। वृत्रम्- आवरणम्। जघन्वान्- हतवान्।  एतान्- इमाः। सिन्धून्- अपः वृत्रबद्धा मूलशख्निधाराः। वि सृजत्- विससर्ज॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यदेन्द्रो वृत्रासुरं हतवान् तदा शाश्वतीं ब्रह्महत्यां प्राप्तवानिति वामदेवस्याभिप्रायमुन्नीय अदितिः आह । **निविदः** । मरुत्वतीयशस्त्रे प्रयुज्यमानानि ‘ मरुत्स्तोत्रो मरुद्गणः' इत्यादीनीन्द्रस्तुतिप्रतिपादकानि कानिचित् पदानि निविच्छब्देनोच्यन्ते । ता निविदः **अस्मै** इमं वृत्रवधनिमित्तं ब्रह्महत्यारूपं पापं प्राप्नुवन्तमिन्द्रं **किमु** **ष्वित्** **भनन्त** भनन्ति । किं वदन्तीति चेत् । तर्हि इन्द्रं पापरहितं मत्वा निविदः स्तुवन्ति । कथमिन्द्रस्य पापरहितत्वम् । उच्यते । **आपः** फेनरूपेणास्य **इन्द्रस्य** **अवद्यं** ब्रह्महत्यादिरूपं पापं **दिधिषन्ते** धारयन्ति । **मम** **पुत्रः** मदीयः पुत्र इन्द्रः **महता** प्रभूतेन **वधेन** । वध इति वज्रनामैतत् । वज्रेण **वृत्रं** जघन्वान् हतवान् । ततः **एतान्** सिन्धून् उदकानि **वि** **असृजत्** विशेषेण स्वैरत्वेन सर्तुं सृष्टवान्। इन्द्रेणोत्सृष्टा आपस्तस्य पापं जगृहुरित्यर्थः ॥
@@ -271,8 +274,6 @@ The complex is then to be rendered ‘having a good husband in the house’ vel 
 
 Alternatively Geldner (n. 7d) suggests that it might be a metathesis of *su-daṃpatnīḥ (given without accent), which seems quite unlikely. Although I think the form plays off dámpati-, I am still inclined towards the ‘wondrous’ interpr., because of the deeds that have just been ascribed to Indra.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -280,6 +281,7 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -313,8 +315,6 @@ Reden sie ihm einladende Worte nach, oder beabsichtigen die Gewässer Indra´s S
 Мой сын выпустил течь эти реки.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रादिती
@@ -330,7 +330,7 @@ Reden sie ihm einladende Worte nach, oder beabsichtigen die Gewässer Indra´s S
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (मम) मुझ पुत्र के (इन्द्रस्य) सूर्यसम्बन्ध की (निविदः) अत्यन्त ज्ञान जिनसे वे वाणी (अस्मै) इस मेघ के लिये (किम्) क्या (उ) और (स्वित्) क्यों (भनन्त) शब्द करती हैं (आपः) जल (अवद्यम्) निन्द्य (दिधिषन्ते) शब्द करते हैं, मेरा (पुत्रः) सन्तान (महता) बड़े (वधेन) वध से (एतान्) इनको और (वृत्रम्) मेघ का (जघन्वान्) नाश किया हुआ सूर्य्य (सिन्धून्) नदियों को (वि, असृजत्) उत्पन्न करता है ॥७॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (मम) मुझ पुत्र के (इन्द्रस्य) सूर्यसम्बन्ध की (निविदः) अत्यन्त ज्ञान जिनसे वे वाणी (अस्मै) इस मेघ के लिये (किम्) क्या (उ) और (स्वित्) क्यों (भनन्त) शब्द करती हैं (आपः) जल (अवद्यम्) निन्द्य (दिधिषन्ते) शब्द करते हैं, मेरा (पुत्रः) सन्तान (महता) बड़े (वधेन) वध से (एतान्) इनको और (वृत्रम्) मेघ का (जघन्वान्) नाश किया हुआ सूर्य्य (सिन्धून्) नदियों को (वि, असृजत्) उत्पन्न करता है ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

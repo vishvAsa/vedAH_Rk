@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ययोः। पुरा- पूर्वम्। कृतम्- रचितम्। इदम्- एतत्। विश्वम्- सर्वं कर्म। पप्ने- स्तूयते। ता- तौ।  हुवे- आह्वये। ईदृशे- अस्मिन् कर्मणि। इन्द्राग्नी। न। मर्धतः- हिंस्तः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ता** तौ तादृशाविन्द्राग्नी **हुवे** आह्वये । **ययोः** इन्द्राग्न्योः **पुरा** पूर्वस्मिन् काले **कृतं** **विश्वं** सर्वम् **इदं** पूर्वासु ऋक्षु कीर्तितं वीर्यं **पप्ने** पन्यते ऋषिभिः स्तूयते । ताविन्द्राग्नी हुवे इत्यन्वयः । तौ च **इन्द्राग्नी** **न** **मर्धतः** स्तोतॄन्न हिंस्तः । अतोऽस्मानप्याहूतौ रक्षतामिति भावः । मर्धतिर्हिंसाकर्मा ।
@@ -186,7 +189,6 @@ Indra and Agni do not neglect (us).
 I do not have a view on how (or whether) to fix the meter of pāda a; see Oldenberg
 
 It is thinkable, but by no means necessary, that instead of reading quadrisyllabic índrā-agnī (as in vss. 5, 7, 14), we could read trisyllabic índrāgnī (as in 8, 9, 15) with a haplologized enclitic naḥ: índrāgnī ná *no mardhataḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -219,8 +221,6 @@ Die ruf' ich, deren ganze Welt, die sie geschaffen, herrlich ist, Nie werden Ind
 Это, сделанное (ими) раньше, вызывает (наше) восхищение.  
 Индра-Агни не оставляют в беде.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

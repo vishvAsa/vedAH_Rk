@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- यूयम्। वाजयन्तः- बलं कुर्वन्तः। विशोविशः- सर्वप्रजानाम्। अतिथिम्। पुरुप्रियम्-  बहुप्रियम्। दुर्यं- गृहपतिम्। अग्निम्। परिचरत। शूषस्य- आनन्दस्य। मन्मभिः- मननैः। वचः  स्तुषे- स्तौमि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अन्य ऋत्विजो यजमानाश्च **वः** यूयं **वाजयन्तः** अन्नमिच्छन्तः **विशोविशः** सर्वस्याः प्रजायाः **अतिथिं** पूज्यं **पुरुप्रियं** बहुप्रियम् **अग्निं** स्तुत्या परिचरतेति शेषः । अहं च **वः** युष्मदर्थं **दुर्यं** गुहा हितं **वचः** **स्तुषे** **शूषस्य** सुखस्य लाभाय । कैः साधनैः । **मन्मभिः** मननीयैः स्तोत्रैः ॥
@@ -215,10 +218,6 @@ Euren vielgeliebten Gast einer jeden Niederlassung wollen wir, nach dem ersten P
 
 Erlabt den vielgeliebten Gast, der jedem eurer Häuser naht; Den Hausfreund Agni lob' ich euch mit Lied, mit kräftigem Gebet,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

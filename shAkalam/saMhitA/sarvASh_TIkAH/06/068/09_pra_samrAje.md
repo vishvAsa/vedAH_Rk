@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -239,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सम्राजे- अधिपतये। बृहते- महते। देवाय- द्योतनशीलाय। वरुणाय- ऋताधिदैवताय। सप्रथः-  सर्वतः पृथु। प्रियम्- प्रेममयम्। मन्म- मननम्। नु- क्षिप्रम्। प्र- प्रकर्षेण। अर्च- समर्पय।  अयम्- एषः। उर्वी- विस्तृते द्यावापृथिव्यौ। महिना- स्वमाहात्म्येन। महिव्रतः- महाव्रतः।  क्रत्वा- प्रज्ञया। अजरः- जरारहितः। न- च। शोचिषा- स्वभासा। विभाति- उद्दीपयति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतः **सम्राजे** आज्ञया राज्ञां शासकाय **बृहते** परिवृढाय **देवाय** द्योतमानाय **वरुणाय** **प्रियं** मनोहरं **सप्रथः** सर्वतः पृथु। तथा च यास्कः - ‘ सप्रथाः सर्वतः पृथुः ' ( निरु. ६. ७ ) इति । **मन्म** स्तोत्रं **नु** अद्य **प्र** **अर्च** प्रोच्चारय । **अयं** **यः** योऽयं वरुणः **महिना** महिम्ना युक्तः **महिव्रतः** महाकर्मा **क्रत्वा** प्रज्ञया च युक्तः **अजरो** **न** जरारहितश्च **उर्वी** विस्तीर्णे द्यावापृथिव्यौ **शोचिषा** दीप्त्या **विभाति** विभासयति ॥
@@ -261,8 +264,6 @@ Here is the one of great commandments who radiates through the two  wide (worlds
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner also (n. 8c) claims (fld. by Renou) that this vs. is entirely Varuṇa’s. This is more plausible: he is mentioned by name in b, and máhivrataḥ ‘having great commandments’in c makes it likely that the clause in cd has Varuṇa as subject — though note that máhivrata- is used of Varuṇa only here, with two occurrences each of Agni and Soma, and moreover dhṛtavratā is addressed to both gods in the next vs. (10b). Nonetheless, samrā́j- in pāda a is used frequently of Indra as well as of Varuṇa, so the 1st hemistich may (and probably does) contain a exhortation to the poet to chant both to Indra (as sovereign king) and Varuṇa. The published translation could make this clearer if ‘and’ replaced the comma: “to the lofty sovereign king (and) to the god Varuṇa”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
@@ -297,8 +298,6 @@ Auf, singe nun ein Lied dem hohen Opferherrn, ein liebes, grosses ihm, dem Gotte
 Ярко освещает силой духа, как нестареющий (Агни своим) пламенем.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रावरुणौ
@@ -314,7 +313,7 @@ Auf, singe nun ein Lied dem hohen Opferherrn, ein liebes, grosses ihm, dem Gotte
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वन् ! (यः) जो (अयम्) यह (सप्रथः) सत्कीर्ति से विख्यात और (महिव्रतः) बड़े-बड़े धर्मयुक्त कर्म जिसके विद्यमान वह (क्रत्वा) प्रज्ञा वा कर्म से (महिना) और महिमा वा (शोचिषा) अपने प्रकाश से (अजरः) वृद्धावस्थारूपी रोग से रहित सूर्य जीवात्मा वा परमात्मा के (न) समान (उर्वी) सूर्यमण्डल और पृथिवी को (विभाति) प्रकाशित करता है उस (वरुणाय) सब से उत्तम (देवाय) अभय देनेवाले (बृहते) बड़े (सम्राजे) अच्छे सूर्य के समान विद्या और नम्रता से प्रकाशमान के लिये (प्रियम्) प्रीति करनेवाले (मन्म) विज्ञान को आप (नु) शीघ्र (प्र, अर्च) सत्कार देवें ॥९॥
+पदार्थान्वयभाषाः -  हे विद्वन् ! (यः) जो (अयम्) यह (सप्रथः) सत्कीर्ति से विख्यात और (महिव्रतः) बड़े-बड़े धर्मयुक्त कर्म जिसके विद्यमान वह (क्रत्वा) प्रज्ञा वा कर्म से (महिना) और महिमा वा (शोचिषा) अपने प्रकाश से (अजरः) वृद्धावस्थारूपी रोग से रहित सूर्य जीवात्मा वा परमात्मा के (न) समान (उर्वी) सूर्यमण्डल और पृथिवी को (विभाति) प्रकाशित करता है उस (वरुणाय) सब से उत्तम (देवाय) अभय देनेवाले (बृहते) बड़े (सम्राजे) अच्छे सूर्य के समान विद्या और नम्रता से प्रकाशमान के लिये (प्रियम्) प्रीति करनेवाले (मन्म) विज्ञान को आप (नु) शीघ्र (प्र, अर्च) सत्कार देवें ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

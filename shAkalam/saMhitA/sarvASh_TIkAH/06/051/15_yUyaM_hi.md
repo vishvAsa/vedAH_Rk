@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रज्येष्ठाः- इन्द्रमुख्याः। अभिद्यवः- अभितो द्योतकाः। यूयम्। हि- खलु। सुदानवः-  शोभनदायकाः। स्थ- भवथ। गोपाः- हे गोप्तारः। अमा- सहैव। नः- अस्मभ्यम्। अध्वन्-  मार्गे। सुगम्- सुखम्। आ- समन्तात्। कर्त- कुरुत॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुदानवः** शोभनदाना देवाः **यूयं** हि **ष्ठ** यूयं खलु प्रभवथ । सन्नद्धाः स्थ । **इन्द्रज्येष्ठाः** । इन्द्रो ज्येष्ठो मुख्यो येषां ते । **अभिद्यवः** अभिगतदीप्यस्ते यूयम् **अध्वन्** अध्वनि मार्गे **नः** अस्माकम् **अमा** सहैव **गोपाः** गोपायितारो रक्षितारः सन्तः **सुगं** सुखम् । आकारः समुच्चये । सुखं च **कर्त** कुरुत ॥
@@ -199,8 +202,6 @@ Because you of good drops, with Indra preeminent, are heaven-bound, make good pa
 <details><summary>Jamison Brereton Notes</summary>
 
 In the second hemistich ádhvan ‘on the road’ and amā́‘at home’ are contrastive, as Renou points out. The brief tag gopā́amā́must be a separate clause: both Geldner and Renou supply an imperatival “be,” as do I. Again clausal division supports the metrical division suggested ad vs. 13.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -233,8 +234,6 @@ Ihr, o gabenreiche [Maruts] seid ja himmelstrebend und habt Indra an der Spitze;
 С Индрой во главе обращены к небу.  
 Создайте нам хороший путь в странствии. (Будьте) хранителями (по пути) домой!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

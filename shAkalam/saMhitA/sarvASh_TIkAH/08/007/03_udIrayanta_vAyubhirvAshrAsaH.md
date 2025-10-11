@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पुनर्वत्सः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वायुभिः- मरुद्भिः प्राणविशेषैः। वाश्रासः पृश्निमातरः- गावश्चिद्रश्मयः। उदीरयन्त- शब्दं  तदुपलक्षितमन्त्रानुद्गमयन्ति। पिप्युषीम्- वर्धयित्रीम्। इषम्- सदेषणाम्। धुक्षन्त- दुहन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाश्रासः** वाशनशीलाः शब्दकारिणः **पृश्निमातरः** । पृश्निर्माध्यमिका वाक् । सा माता जननी येषां ते तथोक्ताः । ऋतश्छन्दसि' (पा. सू. ५. ४. १५८) इति कपः प्रतिषेधः । ईदृशा मरुतः **वायुभिः** । वान्ति गच्छन्तीति वायवः पृषत्यः। पृषतीभिर्वाहनभूताभिः स्वावयवभूतैर्वायुभिरेव वा **उदीरयन्त** उद्गमयन्ति मेघादिकम् । तथा **पिप्युषीं** वर्धयित्रीम् **इषम्** अन्नं च स्तोतृभ्यः **धुक्षन्त** दुहन्ति ॥
@@ -154,7 +157,6 @@ They have milked out swelling refreshment.
 I take úd īrayanta here as a reflexive transitive. It thus contrast with intransitive úd … īrate in 7b.
 
 See also comm. on vs. 10.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
@@ -192,8 +194,6 @@ Die Priçnisöhne brachen auf, laut tosend mit der Winde Schar Und melkten fette
 Ревущие сыновья Пришни.  
 Они доят набухшую жертвенную усладу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

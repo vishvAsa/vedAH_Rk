@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। त्यत्- तत्कर्म कृतवान्। जायमानः- आविर्भूत एव। इन्द्र। सप्तभ्यः-  सप्तभूमिकारक्षान्तरायेभ्यः। अशत्रुभ्यः- शत्रुभिरप्रतिगतेभ्यो रक्षोभ्यः। शत्रुः। अभवः- बभूविथ।  द्यावापृथिवी- द्यावापृथिव्यौ। गूळ्हे- गूढे। अन्वविन्दः- अलभथाः। विभुमद्भ्यः- वैभवयुख्नेभ्यः।  भुवनेभ्यः- लोकेभ्यः। रणम्- रमणम्। धाः- धारयसि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वं** खलु **त्यत्** तत् कर्म कृतवानसि। किं तत् उच्यते । **जायमानः** त्वं प्रादुर्भवन्नेव । **अशत्रुभ्यः** स्तुरहितेभ्यः **सप्तभ्यः** कृष्णवृत्रनमुचिशम्बरादिसप्तभ्यो बलवद्भ्यः शत्रुभ्यः तदर्थं **शत्रुः** **अभवः** । यद्वा । सप्तभ्यः । ससैवाङ्गिरसः । सप्तभ्योङ्गिरोभ्यो गवानयनार्थं प्रादुर्भवन्नेवाशत्रुभ्यो बलवद्भ्यः पणिभ्यः शत्रुरभवः । किंच हे इन्द्र त्वं **गूळ्हे** तमसा गूढे संवृते **द्यावापृथिवी** द्यावापृथिव्यौ सूर्यात्मना ते प्रकाश्यानुक्रमेण **अविन्दः** अलभथाः । तथा **विभुमद्भ्यः** महत्त्वयुक्तेभ्यः **भुवनेभ्यः** लोकेभ्यः **रणं** रमणं **धाः** धारयसि । विदधासीत्यर्थः ॥
@@ -236,8 +239,6 @@ The identity of the “seven” is unclear; ordinarily that number refers to riv
 
 Geldner takes vibhu-mánt- (only here) as ‘die in dir einen Gebieter hatten’; this might be plausible, because Indra is characterized as vibhū́in 11 and so creatures associated with him might possess him as vibhú-. But the problem is that vibhú-/ū́- is only adjectival, as far as I can tell, and does not have the ‘lord, master’ meaning presupposed here. Though possessive -vant-/-mant- stems should be built to nouns, Debrunner (AiG II.2.877-78) allows for pleonastic+++(=redundant)+++ use of the suffix with adjectives in this and a number of other cases.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -262,10 +263,6 @@ Als du geboren wurdest, wardst du der Sieben, die keinen Bemeisterer fanden, Mei
 
 Geboren kaum, erstandest du, o Indra, als Feind den sieben, die sich feindlos dünkten; Du fandest Erd' und Himmel, die verborgnen, verschafftest Lust den machtbegabten Welten.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

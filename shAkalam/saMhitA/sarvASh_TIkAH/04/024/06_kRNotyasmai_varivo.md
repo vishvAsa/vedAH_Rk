@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। इत्था- इत्थम्। उशते- कामयते। इन्द्राय- परमेश्वराय। सोमम्- रसम्। सुनोति-  निष्पादयति। अस्मै- तस्मै। वरिवः- सम्पदः। कृणोति- इन्द्रः करोति। सध्रीचीनेन- सङ्गतेन।  मनसा- चित्तेन। अविवेनम्- कामयमानम्। तमित्- अमुमेव यजमानम्। सखायम्- स्वमित्रम्।  समत्सु- युद्धेषु। कृणुते- इन्द्रः करोति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** यजमानः **सोमम्** **उशते** कामयमानाय **इत्था** अमुत्र स्वर्गलोके स्थिताय **इन्द्राय** सुनोति अभिषवं करोति इन्द्रोऽपि **अस्मै** यजमानाय **वरिवः** धनं **कृणोति** करोति । **सध्रीचीनेन** संगतेन **मनसा** प्रवणेन चित्तेन **अविवेनम्** । वेनतिः कान्तिकर्मा । विवेनो विगतेच्छः । तदन्योऽविवेनः । आत्मानं कामयमानं **तमित्** तमेव सुन्वन्तं यजमानं **सखायं** मित्रं **समत्सु** संग्रामेष्विन्द्रः **कृणुते** करोति ॥
@@ -254,7 +257,6 @@ Quite apart from the actual form is its referent. Oldenberg, who accepts the áv
 
 This nominative is resumed by the appropriate correlative prn. tám in the acc. in d.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -280,10 +282,6 @@ Dem schafft er einen Ausweg, der dem darnach verlangenden Indra den Soma preßt 
 Nur dem verschaffet Indra rechten Fortgang, der Soma ihm, dem heischenden bereitet, Mit aufmerksamem Geiste unablässig, den macht er zum Genossen sich in Schlachten.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -304,7 +302,7 @@ Nur dem verschaffet Indra rechten Fortgang, der Soma ihm, dem heischenden bereit
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! जो मनुष्य अपने राज्य के भक्त, धर्म्म का सेवन और ऐश्वर्य्य की कामना करने तथा अधर्म्म को छोड़नेवाले, सङ्ग्राम में परस्पर अपने जनों में मैत्री करते हुए विद्वान् जन होवें, वे ही आपको राजशासन में संस्थापन करने योग्य हैं ॥६॥
+भावार्थभाषाः -  हे राजन् ! जो मनुष्य अपने राज्य के भक्त, धर्म्म का सेवन और ऐश्वर्य्य की कामना करने तथा अधर्म्म को छोड़नेवाले, सङ्ग्राम में परस्पर अपने जनों में मैत्री करते हुए विद्वान् जन होवें, वे ही आपको राजशासन में संस्थापन करने योग्य हैं ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महाहस्ती- महाभुजः सन्। इन्द्र। त्वम्। नः- अस्मभ्यम्। क्षुमन्तम्- शब्दवन्तम्। चित्रम्।  ग्राभम्- ग्राहकम्। दक्षिणेन- सामर्थ्येन। सम्- सम्यक्। गृभाय- गृह्णीष्व॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **महाहस्ती** महाहस्तवान् त्वं **तु** तदानीमेव **नः** अस्मभ्यं दातुं **क्षुमन्तं** शब्दवन्तम् । स्तुत्यमित्यर्थः । **चित्रं** चायनीयं **ग्राभं** ग्राहकं ग्रहणार्हं वा धनं **दक्षिणेन** हस्तेन  **आ** **सं** **गृभाय** आभिमुख्येन संगृहाण ॥
@@ -201,10 +204,6 @@ Tu doch, Indra, für uns einen viehreichen, wunderbaren Griff mit der Rechten, d
 
 Greif, o Indra, mit der Rechten gross an Händen du den lichten Glanzbegabten Griff für uns doch.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

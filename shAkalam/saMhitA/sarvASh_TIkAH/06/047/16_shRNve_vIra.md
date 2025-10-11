@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्रमुग्रम्- उद्गूर्णम्। दमयन्- बाधयन्। अन्यमन्यम्- पूर्वमपरं पादप्रक्षेपणवत्। अतिनेनीयमानः-  नयन्। एधमानद्विट्- अनधिकारिवर्धनद्विट्। उभयस्य- ऐहिकामुष्मिकस्य। राजा- स्वामी। इन्द्रः।  मनुष्यान् विशः- प्रजाः। चोष्कूयते- रक्षणार्थं पुनःपुनराह्वयति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयमिन्द्रः **वीरः** वीर्यवानिति **शृण्वे** श्रूयते । किं कुर्वन् । **उग्रमुग्रम्** उद्गूर्णमुद्गूर्णं बलिनं शत्रुं प्रति **दमायन्** । दमः दमनम् । बाधनमिच्छन् । **अन्यमन्यं** प्रथमं नेतव्यमन्यं पश्चान्नेतव्यं चान्यं पूर्वमपरं परस्परव्यतिहारेण स्तोतॄन् **अतिनेनीयमानः** अत्यन्तं पुनःपुनर्नयन् । अपि च **एधमानद्विट्** एधमानानां वर्धमानानामसुन्वतां द्वेष्टा **उभयस्य** दिव्यस्य पार्थिवस्य च धनस्य **राजा** ईश्वरोऽयम् इन्द्रः **विशः** निवेशयितॄन् स्वस्य परिचारकान् **मनुष्यान्** **चोष्कूयते** रक्षणार्थं पुनःपुनराह्वयति ॥
@@ -207,7 +210,6 @@ the other.
 <details><summary>Jamison Brereton Notes</summary>
 
 In d víśaḥ … manuṣyā̀n do not match in gender. Oldenberg suggests that the latter might be gen. pl., and Geldner’s tr. as such: “die Stämme der Menschen.” I see no reason not to take it as the acc. pl. it appears to be, as a parallel obj. to víśaḥ, not a modifier.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
@@ -242,8 +244,6 @@ Man hört, der Held bezwinget jeden Starken und immer andre führt er an die Spi
 Индра сгребает племена людей.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -264,7 +264,7 @@ Man hört, der Held bezwinget jeden Starken und immer andre führt er an die Spi
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जो मनुष्य दुष्टों-दुष्टों को ताड़न करता, श्रेष्ठों-श्रेष्ठों का सत्कार करता, अन्य की वृद्धि देख कर द्वेष करनेवालों को दण्ड देता और प्रसन्नों का सत्कार करता हुआ सम्पूर्ण वादी और प्रतिवादी के वचनों को यथावत् सुन के सत्य न्याय को करता है, वही राजा होने के योग्य है ॥१६॥
+भावार्थभाषाः -  हे मनुष्यो ! जो मनुष्य दुष्टों-दुष्टों को ताड़न करता, श्रेष्ठों-श्रेष्ठों का सत्कार करता, अन्य की वृद्धि देख कर द्वेष करनेवालों को दण्ड देता और प्रसन्नों का सत्कार करता हुआ सम्पूर्ण वादी और प्रतिवादी के वचनों को यथावत् सुन के सत्य न्याय को करता है, वही राजा होने के योग्य है ॥१६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

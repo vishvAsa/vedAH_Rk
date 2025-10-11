@@ -3,7 +3,6 @@ title = "002"
 devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धुनेतयः- कम्पनगतयः। सुप्रकेतम्- सुप्राज्ञं त्वाम्। मदन्तः- तोषयन्तः। बृहस्पते- मेधाधिदैवत।  ये। नः- अस्मदीयाः। अभि ततस्रे- त्वामाभिमुख्येन स्तुवन्ति। अस्य- एषाम्। पृषन्तम्-  रससिञ्चकम्। सुप्रम्- सर्पणशीलम्। अदब्धम्- अहिंस्यम्। ऊर्वं- विस्तृतम्। योनिम्-  देवयजनसदनम्। रक्षतात्- पालय॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **बृहस्पते** **धुनेतयः** । धुना शत्रूणां कम्पयित्रीतिर्गतिर्येषां ते । तादृशाः **सुप्रकेतं** शोभनप्रज्ञं त्वां **मदन्तः** मादयन्तः **नः** अस्मत्संबन्धिनः **ये** ऋत्विजः **अभि** **ततस्रे** आत्मानमुपक्षिपन्ति स्तुवन्ति वा **अस्य** एषां **योनिं** कारणं यज्ञं यजमानं वा मां रक्षतात् रक्ष । योनिर्विशेष्यते । **पृषन्तं** फलानि सिञ्चन्तं **सृप्रं** सर्पणस्वभावम् अदब्धम् अहिंसितम् **ऊर्वम्** उरुम् ॥
@@ -228,7 +231,6 @@ The acc. supraketám in pāda a is taken by some (e.g., Oldenberg, Macdonell, Sc
 The acc. phrase in c refers to the Vala cave and is the obj. of abhí … tatasré in b. The head-noun ūrvá- ‘container, enclosure’ refers to the cave itself, but the three adj. pṛ́ṣantaṃ sṛprám ádabdham “dappled, glossy, uncheatable” are better applicable to its contents, the cows. Note the mirror-image phonetic figure beginning c: pṛ́ṣ(antaṃ) sṛp(rám), which contains partial anagrams of Bṛhaspati.
 
 The “future impv.” rákṣatāt in d is somewhat surprising, in that it does not follow a previous impv., as is usual. I take it to imply that Bṛhaspati should do his guarding after the Aṅgirases have breached the cave and released the cows. For another unexpected future impv. see nearby suvatāt in IV.54.3
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
@@ -268,8 +270,6 @@ Die brausend gehn, den herrlichen berauschend, Brihaspati, die gänzlich uns ent
 О Брихаспати, защити его местопребывание!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः
@@ -285,12 +285,12 @@ Die brausend gehn, den herrlichen berauschend, Brihaspati, die gänzlich uns ent
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ी वाणी के पालन करनेवाले (ये) जो (मदन्तः) आनन्द देते हुए (धुनेतयः) धर्मात्मा जनों के कम्पानेवालों को कम्पानेवाले (सुप्रकेतम्) उत्तम तीक्ष्ण बुद्धिवाले (पृषन्तम्) विद्यादि उत्तम गुणों को सींचते हुए (सृप्रम्) उत्तम गुणों को प्राप्त (अदब्धम्) नहीं हिंसित (ऊर्वम्) हिंसा करनेवाले जन का (ततस्रे) नाश करते हैं और (नः) हम लोगों को (अभि) चारों ओर से नाश करते हैं, उनका निवारण करके आप उनका निवारण करो। हे (बृहस्पते) बड़ी वस्तुओं के पालन करनेवाले ! जिनके रोकने से (अस्य) इस विद्याव्यवहार के (योनिम्) कारण की आप (रक्षतात्) रक्षा करें ॥२॥
+पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ी वाणी के पालन करनेवाले (ये) जो (मदन्तः) आनन्द देते हुए (धुनेतयः) धर्मात्मा जनों के कम्पानेवालों को कम्पानेवाले (सुप्रकेतम्) उत्तम तीक्ष्ण बुद्धिवाले (पृषन्तम्) विद्यादि उत्तम गुणों को सींचते हुए (सृप्रम्) उत्तम गुणों को प्राप्त (अदब्धम्) नहीं हिंसित (ऊर्वम्) हिंसा करनेवाले जन का (ततस्रे) नाश करते हैं और (नः) हम लोगों को (अभि) चारों ओर से नाश करते हैं, उनका निवारण करके आप उनका निवारण करो। हे (बृहस्पते) बड़ी वस्तुओं के पालन करनेवाले ! जिनके रोकने से (अस्य) इस विद्याव्यवहार के (योनिम्) कारण की आप (रक्षतात्) रक्षा करें ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जो लोग डाकू और चोरादिकों का निवारण कर धार्मिक विद्वानों को सुख दे कर अङ्ग और उपाङ्गों के सहित विद्या के व्यवहार को बढ़ावें, उनका आप लोग सत्कार करें ॥२॥
+भावार्थभाषाः -  हे मनुष्यो ! जो लोग डाकू और चोरादिकों का निवारण कर धार्मिक विद्वानों को सुख दे कर अङ्ग और उपाङ्गों के सहित विद्या के व्यवहार को बढ़ावें, उनका आप लोग सत्कार करें ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

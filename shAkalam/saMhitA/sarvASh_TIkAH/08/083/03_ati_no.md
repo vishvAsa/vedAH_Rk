@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतस्य रथ्यः- ऋतनेतारः। यूयम्। नौभिः- प्लवैः। अपः- उदकानि। न- इव। विष्पिता-  विततानि। पुरु- बहूनि कर्माणि। नः- अस्मान्। पर्षथ- पारयत॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋतस्य** सत्यस्य यज्ञस्य वा हे **रथ्यः** नेतारो देवाः। यद्वा । ऋतस्येति संबन्धि--- त्वात्कर्ताक्षिप्यते । यज्ञस्य साधका हे रथ्यो रथवन्तो देवाः **विष्पिता** विष्पितानि विप्राप्तानि विततानि **पुरु** । सुपो लुक् । पुरूणि बहूनि शत्रुबलानि कर्माणि वा **नः** अस्मान् **अति** **पर्षथ** पारं समाप्तिं रक्षणैर्गमयत । तत्र दृष्टान्तः। **नौभिरपो** **न** । यथा नाविकोऽप उदकानि नौभिर्जनास्तीरं प्रति प्रापयति तद्वत् ॥
@@ -181,10 +184,6 @@ Führet uns über die vielen Gefahren hinweg wie mit Schiffen über die Gewässe
 
 Durch viel Gefahren führet uns gleich wie auf Schiffen durch das Meer, Des Rechtes Wagenlenker ihr.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

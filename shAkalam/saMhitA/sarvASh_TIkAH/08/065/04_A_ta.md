@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रगाथः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। ते- तव। महिमानम्- माहात्म्यम्। हरयः- प्राणाश्वाः। देव। ते- तव। महः- तेजः।  बिभ्रतः- धारयन्तः। रथे। आ वहन्तु- त्वां प्रापयन्तु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** तव **महिमानं** माहात्म्यं **रथे** **बिभ्रतः** धारयन्तः **हरयः** अश्वाः **आ** **वहन्तु** । तथा हे **देव** **ते** **महः** तेजः रथे बिभ्रतोऽश्वा आ वहन्तु। अत्र महिम्नो महसश्च पृथगावहनासंभवात्ताभ्यां विशिष्टं वहन्त्वित्यर्थः । अथवा महिमानं बिभ्रतस्ते त्वां रथे वहन्तु महो बिभ्रतश्च त्वां वहन्विति योज्यम् ॥
@@ -170,7 +173,6 @@ Your greatness, Indra, your grandeur, god—let your fallow bays, bearing it, ca
 <details><summary>Jamison Brereton Notes</summary>
 
 Since váśat is a subjunctive, strictly speaking it should be tr. “as he will wish.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -203,8 +205,6 @@ Die Füchse mögen, Indra, Gott, herfahren deine Gröss' und Macht, In deinem Wa
 Твое, о бог, могущество,  
 Пусть привезут (их нам) буланые кони!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

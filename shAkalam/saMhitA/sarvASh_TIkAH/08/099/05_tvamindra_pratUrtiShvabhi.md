@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - नृमेधः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तरुष्यतः- बाधकानाम्। तूर्य- बाधक। इन्द्र। त्वम्। प्रतूर्तिषु- युद्धेषु। विश्वाः- सर्वान्। स्पृधः-  स्पर्धमानान्। अभि असि- अभिभवसि। त्वम्। अशस्तिहा- अकीर्तिहा। जनिता- जनयिता।  विश्वतूः- सर्वप्रेरकः। असि- भवसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वं** **प्रतूर्तिषु** संग्रामेषु **विश्वाः** सर्वाः **स्पृधः** युद्धकारिणीः शत्रुसेनाः **अभि** **असि** अभिभवसि । किंच हे **तूर्य** शत्रूणां बाधकेन्द्र **त्वम्** **अशस्तिहा** दैव्यानामशस्तीनां हन्ता **असि** । **जनिता** असुरेभ्योऽशस्तीनां जनयिता चासि । **विश्वतूः** सर्वस्य शत्रुवर्गस्य हिंसिता चासि । **तरुष्यतः** बाधकांश्च बाधमानोऽसि ॥
@@ -205,8 +208,6 @@ Overcome those who seek to overcome.
 <details><summary>Jamison Brereton Notes</summary>
 
 The lexeme abhí √bhū ‘dominate’, in play in the previous two hymns (VIII.97.9c, 10a, 98.2a, 5ab), is matched by synonymous abhí √as here. See also
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -240,8 +241,6 @@ In Schlachten überwindest du, o Indra, aller Feinde Schar, Den Bösen schlagend
 Уничтожая проклятия, ты порождаешь (проклятия), все побеждая.  
 Победи ты тех, кто хочет победить!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

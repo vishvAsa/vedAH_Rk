@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती त्रिष्टुब्वा"
 - ऋषिः - स्वस्त्यात्रेयः
 - छन्दः - जगती त्रिष्टुब्वा
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    अश्विना- प्राणेशनशख्निभूतावश्विनौ। नः- अस्मभ्यम्। स्वस्ति- क्षेमं कुरुताम्। भगः-  सौभाग्याधिदेवता। स्वस्ति। अदितिः- अखण्डप्रकृतिः। स्वस्ति। अनर्वणः- अप्रतिगतः। पूषा-  पोषकः सूर्यः। असुरः- प्राणदः। स्वस्ति। दधातु- यच्छतु। सुचेतुना- शोभनप्रज्ञे। द्यावापृथिवी-  द्यावापृथिव्यौ। नः- अस्मभ्यम्। स्वस्ति यच्छतम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्मभ्यम् **अश्विना** अश्विनौ **स्वस्ति** अविनाशं क्षेमं **मिमीतां** कुरुताम् । **भगः** च **स्वस्ति** क्षेमं मिमीताम् । तथा **देव्यदितिः** च स्वस्ति मिमीताम् । **अनर्वणः** अप्रत्यृतः **पूषा** **असुरः** शत्रूणां निरसिता प्राणानां बलानां दाता वा नः **स्वस्ति** दधातु । **नः** अस्मभ्यं **द्यावापृथिवी** द्यावापृथिव्यावपि **सुचेतुना** शोभनेन प्रज्ञानेन विशिष्टे **स्वस्ति** मिमीताम् ॥
@@ -240,8 +243,6 @@ Well-being let lord Pūṣan establish for us; well-being let Heaven and  Earth,
 anarváṇaḥ receives far more attention than I think it deserves. See esp. Oldenberg
 
 However, now see the abundant references to my own comments on the various anarvá(n)(a)- stems in the lexical commentary index.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details open><summary><h2>11-15 ...{Loading}...</h2></summary>
@@ -277,8 +278,6 @@ Uns mögen Bhaga und die Ritter Heil verleihn, der Schrankenlose, Heil die Gött
 Благо Пушан-Асура пусть положит нам!  
 Благо – Земля и Небо доброжелательные!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

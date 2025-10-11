@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -247,6 +245,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    ये। अन्तरिक्षे- द्यावापृथिव्योरन्तराळ इत्याधिभौतिके। अन्नमनसोरन्तराळे प्राण इत्याध्यात्मिके।  ये। दिवि- नभसि चित्ताकाशे वा। स्थ- भवथ। ये। अग्निजिह्वाः- अग्निद्वारा हव्यग्रहणशीलाः।  उत वा- अथवा। यजत्राः- पूज्याः। ते। विश्वे देवाः- सर्वे देवाः। इमम्- एतत्। मे- मम। हवम्-  आह्वानम्। शृणुत। अस्मिन्- एतस्मिन्। बर्हिषि- दर्भासने चित्तासने वा। आसद्य- उपविश्य।  मादयध्वम्- अस्मांस्तर्पयथ॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्वे** **देवाः** **मे** मदीयम् **इमं** **हवम्** आह्वानं **शृणुत**। **ये** यूयम् **अन्तरिक्षे** **स्थ** अन्तरिक्षलोके वर्तमाना भवथ । **ये** च **उप** तत्समीपस्थे भूलोके भवथ। ये च **द्यवि** द्युलोके स्थ । **ये** च **अग्निजिह्वाः** । अग्निर्जिह्वास्थानीयो येषाम् । यद्वा । अग्नेर्जिह्वा । तया पोष्यमाणत्वात अग्निजिह्वा इत्युच्यन्ते । **उत** **वा** अपि वा ये **यजत्राः** यजनीयाः ते सर्वे यूयम् आस्तीर्णे **अस्मिन्** **बर्हिषि** **आसद्य** उपविश्य **मादयध्वं** सोमेनात्मानं तर्पयथ ॥
@@ -281,8 +284,6 @@ exhilaration.
 
 The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we take the utá vā seriously. Klein’s tr. (DGRV II.168-69) can stand for the standard tr.: “which ones have Agni as their tongue or are worthy of worship.” Klein considers this an example of “opposed but nonantonymous terms” giving a “subcategorization of heavenly ones.” But when so rendered there seems to be no distinction between the two groups: the general run of gods who are worthy of the sacrifice also receive those oblations through Agni -- there’s no reason for a vā. I am therefore inclined to pay attention to the -tra instrument suffix on yájatrāḥ: ‘the instruments or means of sacrifice’. Such an interpr. divides the set into those who require Agni as intermediary and those who directly effect the sacrifice. Exactly who the latter might be, I’m not certain -- perhaps only Soma. If I am correct, yájatra- is used differently from yajñíya- in the next vs. But see vs. 17 where yájatra- does not seem to have the instrument sense.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -314,8 +315,6 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 Веселитесь, сев на эту жертвенную солому!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -331,12 +330,12 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (विश्वे, देवाः) सब विद्वानो ! (ये) जो (अन्तरिक्षे) भीतर अविनाशी आकाश में (ये) जो (द्यवि) प्रकाश में (ये) जो (अग्निजिह्वाः) सत्य से प्रकाशमान जिह्वा जिन की (उत, वा) अथवा (यजत्राः) सङ्ग करने योग्य हों उन सब के साथ (मे) मेरे (इमम्) इस (हवम्) सुने पढ़े और जाने हुए विषय को (उप, शृणुत) समीप में सुनो और समीप में (स्थ) स्थिर होओ तथा (अस्मिन्) इस (बर्हिषि) उत्तम आसन वा स्थान में (आसद्य) बैठ के हम लोगों को (मादयध्वम्) आनन्दित करो ॥१३॥
+पदार्थान्वयभाषाः -  हे (विश्वे, देवाः) सब विद्वानो ! (ये) जो (अन्तरिक्षे) भीतर अविनाशी आकाश में (ये) जो (द्यवि) प्रकाश में (ये) जो (अग्निजिह्वाः) सत्य से प्रकाशमान जिह्वा जिन की (उत, वा) अथवा (यजत्राः) सङ्ग करने योग्य हों उन सब के साथ (मे) मेरे (इमम्) इस (हवम्) सुने पढ़े और जाने हुए विषय को (उप, शृणुत) समीप में सुनो और समीप में (स्थ) स्थिर होओ तथा (अस्मिन्) इस (बर्हिषि) उत्तम आसन वा स्थान में (आसद्य) बैठ के हम लोगों को (मादयध्वम्) आनन्दित करो ॥१३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यों को सदैव जो विमानस्थ, अन्तरिक्ष में, वा जो बिजुली की विद्या में कुशल हैं और जो पढ़ाने वा परीक्षा करने में निपुण, धर्मिष्ठ, आप्त विद्वान् हों उनके निकट जाकर और उनको अपने समीप बुलाकर सत्कार कर इनसे सुनना चाहिये और सुना हुआ सुनाना चाहिये, जिससे सुनने में वा विज्ञान में श्रम न हो ॥१३॥
+भावार्थभाषाः -  मनुष्यों को सदैव जो विमानस्थ, अन्तरिक्ष में, वा जो बिजुली की विद्या में कुशल हैं और जो पढ़ाने वा परीक्षा करने में निपुण, धर्मिष्ठ, आप्त विद्वान् हों उनके निकट जाकर और उनको अपने समीप बुलाकर सत्कार कर इनसे सुनना चाहिये और सुना हुआ सुनाना चाहिये, जिससे सुनने में वा विज्ञान में श्रम न हो ॥१३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "003"
 devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अत्यष्टिः"
 - ऋषिः - परुच्छेपो दैवोदासिः
 - छन्दः - अत्यष्टिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -290,6 +288,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतिनीभिः- प्रभूतैः। सहस्रिणीभिः- इतोपि प्रभूतैः। नियुद्भिः- अश्वोपलक्षितप्राणैः। नः-  अस्माकम्। अध्वरम्- हिंसारहितमुपासनं कर्म वा। हव्यानि वीतये- रसानुभवाय। उप- समीपम्।  याहि- आगच्छ। तवः- भवतः। अयम्- एषः। भागः- सोमः। ऋत्वियः- उचितकाले दत्तः।  सरश्मिः- चिद्रश्मियुख्नः। सूर्ये- आत्मसूर्ये। सचा- सङ्गतः। वायो- प्राणदेव। शुक्राः- दीप्ताः  सोमाः। अध्वर्युभिः- ध्वररहितैः। भरमाणाः- धृताः। अयंसत- नियमनिष्ठा अभवन्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वायो** त्वं **नः** **अध्वरम्** अस्मत्संबन्धिनं यज्ञं **शतिनीभिः** **नियुद्भिः** **सहस्रिणीभिः** च ताभिस्त्वदीयैरश्वैः नः अस्मद्यज्ञम् **उप** **आ** **याहि** उपागच्छ । किमर्थम् । **वीतये** त्वदभिमतकामाय तत्पूर्तये । आगत्य च **हव्यानि** **वीतये** सोमादिहविर्भक्षणाय । अध्वरं हव्यानि च उपलक्ष्य तेषामेव भक्षणाय शतसहस्रैरश्वैः अतिशीघ्रमागच्छेत्यर्थः । किंच **अयं** **तव** **भागः** भजनीयः सोमः **ऋत्वियः** प्राप्तकालः प्रदानावसरं प्राप्तः । ऋतुशब्देन प्रदानकालो लक्ष्यते ॥  ‘ छन्दसि घस्' (पा.सू. ५. १. १०६), 'सिति च ' (पा. सू. १. ४. १६) इति पदसंज्ञया भसंज्ञाया बाधात् ओर्गुणाभावे यण् ॥ किंच सोमः **सूर्ये** उदिते सति तस्य रश्मिभिः **सचा** सह **सरश्मिः** भवति समानदीप्तिर्भवति । यद्वा । तैः सहितो भवति । यतः सूर्ये उदिते सति रश्मिः भवति अतः प्राप्तकालः इत्यर्थः। किंच सोमाः **अध्वर्युभिः** चमसाध्वर्युभिः । तेषां दशत्वाद्बहुवचनम् । तैः **भरमाणाः** भ्रियमाणाः **अयंसत** नियता अभवन् । किंच हे **वायो** ते सोमाः **शुक्राः** **अयंसत** अत्यन्तदीप्ताः उद्यताः । अतः तेषां भक्षणाय अयाहीत्यर्थः ॥
@@ -316,7 +319,6 @@ Being carried, they have been guided by the Adhvaryus—o Vāyu, the  gleaming (
 As indicated in the published introduction, this hymn is divided into tṛcas and each tṛca was probably originally a single hymn. This then is the final verse of 1-3, and it exhibits very heavy ring-composition: 3b … úpa yāhi vītáye reprises 1a úpa no yāhi vītáye almost exactly, and 3ab … niyúdbhiḥ śatínibhiḥ … sahasrínibhiḥ … echoes 1bc sahásreṇa niyútā … śatínībhiḥ. Note also 3d távāyám bhāgáḥ …, which is identical to the beginning of 2d.
 
 As discussed ad I.134.3, the expression here, sáraśmiḥ sū́rye sácā “accompanying the reins [=rays] when the sun (rises)” seems to me a fuller version of the temporal expression raśmíṣu (/raśmíbhiḥ) “at/with the reins=rays.” See also I.137.2e sākáṃ sū́ryasya raśmíbhiḥ “simultaneous with the reins=rays of the sun.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -354,8 +356,6 @@ Mit hundertfachen Rossescharen komme her zum Opferfest, mit tausendfachen zu dem
 Приносимые адхварью (соки сомы) поданы,  
 О Ваю, прозрачные поданы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

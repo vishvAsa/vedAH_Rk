@@ -3,7 +3,6 @@ title = "008"
 devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विचक्षण- विशेषेण प्रकाशयितः। सूर्य। शोचिष्केशम्- दीप्तकेशम्। त्वा- भवन्तम्। सप्त हरितः-  सप्ताकर्षणशख्निसंपन्ना वर्णाः। रथे- लक्ष्यप्रापकगतिप्रतीकवाहने। वहन्ति- प्रापयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सूर्य** **देव** द्योतमान **विचक्षण** सर्वस्य प्रकाशयितः **सप्त** सप्तसंख्याकाः **हरितः** अश्वाः रसहरणशीला रश्मयो वा **त्वा** त्वां **वहन्ति** प्रापयन्ति। कीदृशम् । **रथे** अवस्थितमिति शेषः । तथा **शोचिष्केशम्** । शोचींषि तेजांस्येव यस्मिन् केशा इव दृश्यन्ते स तथोक्तः तम् । हरितः इति आदित्याश्वानां संज्ञा,  ‘ हरित आदित्यस्य ' (नि. १. १५. ३) इति निघण्टावुक्तत्वात् ॥ शोचिष्केशम् ।  ‘ शुच दीप्तौ ।' अर्चिशुचिहुसृपि ' इत्यादिना इसिप्रत्ययान्तः अन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते । नित्यं समासेऽनुत्तरपदस्थस्य ' इति विसर्जनीयस्य षत्वम् ॥
@@ -138,7 +141,6 @@ _________
 
 हे देव सूर्य त्वां सप्त सर्पणशीलाः हरितः रसभरणा रश्मयः रथे रंहसो रमन्तेऽस्मिन्नाप इति वा रथे मण्डले वहन्ति शोचिष्केशं दीप्तरश्मिं केशस्थानीया रश्मयः केशाः । हे विचक्षण प्रकाशक । चष्टिर्दर्शनकर्मा । विविधं चष्टे पश्यतीति विचचक्षणः । 'अनुदात्तेतश्च हलादेः' इति युच् । स त्वमस्मभ्यं चक्षुर्देहीति ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -162,13 +164,10 @@ Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-g
 
 The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘flamehaired’ is otherwise only of Agni.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
-
 
 </details>
 </div>
@@ -201,8 +200,6 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 Пламенновласого, на колеснице,  
 О Сурья, бог, видящий издалека.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्मभ्यम्। दाता। सः। नः- अस्माकम्। महान्- महात्मा। पिता- पालकः।  ईशानकृत्- स्वामी। अयामन्- अमार्गस्य। उग्रः- उद्गूर्णः। मघवा- सम्पद्वान्। पुरूवसुः-  प्रभूतधनः। गोः- गाम्। अश्वस्य- अश्वम्। नः- अस्मभ्यम्। प्र दातु- प्रयच्छतु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -278,8 +281,6 @@ Der uns Gaben zutheilt, der ist unser Vater, der grosse, gewaltige, der als mäc
 (Даже когда он) не в походе, грозный, щедрый, богатый добром,  
 Пусть дарит нам корову (и) коня!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

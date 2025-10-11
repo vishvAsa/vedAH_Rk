@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अपालात्रेयी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 asaú ← asaú (pronoun)  
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+असौ- सा। नः- अस्माकम्। उर्वरा- भूमिका। या अस्ति। ताम्। आत्- अनन्तरम्। मम- मे।  इमाम्- इदम्। तन्वाम्- तनुजातं गुह्यम्। अथ- अनन्तरम्। ततस्य- विस्तारभावनायुख्नस्य।  यच्छिरःशीर्षोपलक्षितमेधास्थाकाशमस्ति तत्। सर्वा- सर्वाणि। ता- तानि। रोमशा-  रोमोपलक्षितरुहाणि। शीर्षभूमिकाविषये प्रतिभाः। गुह्यविषये प्रजाः। कृधि- कुरु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 उक्तमेवार्थमनया विवृणोति । **नः** अस्माकं पितुः **या** **असौ** **उर्वरा** यदिदमूषरं क्षेत्रमस्ति ॥ **आत्** अनन्तरं **मम** **इमां** **तन्वम्** इदं त्वग्दोषदुष्टं गुह्यस्थानम् । **अथो** अथापि च **ततस्य** तातस्य **यच्छिरः** रोमवर्जितमस्ति एतानि **सर्वा** सर्वाणि तानीमानि त्रीणि स्थानानि **रोमशा** रोमशानि **कृधि** कुरु ॥
@@ -267,10 +270,6 @@ Dort unser Saatfeld und diesen meinen Leib und das Haupt meines Väterchens, all
 
 Hier dieses unser Ackerland, dazu auch meinen eignen Leib, Und dann den Kopf des Väterchens lass Haare treiben alle drei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

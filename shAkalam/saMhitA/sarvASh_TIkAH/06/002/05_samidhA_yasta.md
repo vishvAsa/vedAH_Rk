@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    समिधा। यः। ते- तुभ्यम्। आहुतिम्। निशितिम्- तीक्ष्णाम्। मर्त्यः- मनुष्यः। नशत्- यच्छति।  सः। अग्ने। वयावन्तम्- बहुशाखावन्तम्। शतायुषम्- अधिकायुषम्। क्षयम्- गृहम्। पुष्यति-  पोषयति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने**, **समिधा** समिन्धनहेतुभूतेनेध्मेन सह **ते** त्वदीयां **निशितिं** निशितां तनूकृतां मन्त्रसंस्कृताम्  **आहुतिं** **यः** **मर्त्यः** मनुष्यः **नशत्** व्याप्नुयात् । नशतिर्व्याप्तिकर्मा । **सः** मनुष्यो यजमानः **वयावन्तम्** । वयाः शाखाः पुत्रपौत्रादिलक्षणाः । तद्युक्तं **शतायुषं** बहुविधान्नं चिरकालजीवनं वा **क्षयं** गृहं **पुष्यति** पोषयति वर्धयति । तत्र चिरकालमवतिष्ठत इत्यर्थः ॥ ॥ १ ॥
@@ -197,8 +200,6 @@ hundred(-year) lifespans, o Agni.
 The two adjectives vayā́vantam and śatā́yuṣam are best taken as proleptic, with Geldner and Renou
 
 For extensive disc. of this vss., see comm. ad VI.2.4-5 above.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -234,8 +235,6 @@ Der Mann, der durch Entzünden dir des Opfers Guss und Glut verschafft, Der ernt
 Он добивается процветания (своего) дома, о Агни,  
 Так что тот ветвится и живет сто лет.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

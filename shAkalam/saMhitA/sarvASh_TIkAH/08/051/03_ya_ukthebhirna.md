@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - श्रुष्टिगुः काण्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। चिकित्- जानन्। उक्थेभिः- मन्त्रैः। न- सम्प्रति। विन्धते- परिचरति। यः। ऋषिचोदनः-  ऋषिचोदकः। तमिन्द्रम्। अरिष्यन्तम्- अहिंसकम्। न- च। अच्छ- अभिलक्ष्य। नव्यस्या-  अभिनवया। मत्या। भोजसे- स्वपालनाय। वद- स्तुहि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -246,8 +249,6 @@ Den, welcher an Sprüchen keinen Mangel hat, den weisen, welcher den Dichter beg
 Этого Индру пригласи самой новой молитвой,  
 Как не причиняющего вреда, для вкушения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

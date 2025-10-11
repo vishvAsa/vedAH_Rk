@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -233,6 +231,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- सेख्ना भर्ता। पत्नीः- स्वदारान्। अभ्येति- अभिगच्छति। इव। यः। भूषन्न- मण्डयन्निव।  रोरुवत्- शब्दयन्। बभ्रूषु- भृतेषु हव्येषु। अधि नम्नते- नम्रो भवति। सः- अग्निः।  ओजायमानः-  ओजोमयः। तन्वश्च- स्वदेहभूतहव्यानि। शुम्भते- शोभयति। दुर्गृभिः- दुर्ग्राह्यः। भीमः- भयङ्करो  मृगः। न शृङ्गा- स्वशृङ्गाणीव स्वज्वालाः। दविधाव- चालयति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** अग्निः **बभ्रूषु** बभ्रुवर्णास्वोषधीषु भरणकुशलासु वा जगताम् **अधि** अधिकं **नम्नते** नमति काष्ठानि प्रविशति । नमतेर्लेटि अडागमः । व्यत्ययेन श्ना । यद्वा । लटि छान्दसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः॥ **भूषन्न** भूतान्येव स्वतेजसा भूषयन्निव। किंचायं प्रविशन् **वृषेव** सेक्ता वृषभ इव **पत्नीः** तमेव पालयित्रीः समर्धयित्रीः ओषधीः **रोरुवत्** । रौतेर्यङ्लुगन्तात् शतरि ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ अत्यर्थं शब्दयन् **अभ्येति** अभितो गच्छति । प्रथमम् ओषधीः प्रविश्य पश्चात् प्रबुद्धः सन् ता एव दहतीत्यर्थः । किंचैवं कृत्वा **ओजायमानः** । ओज इति बलनाम । स्वयं बलमिवाचरन् ॥ ‘कर्तुः क्यङ् सलोपश्च' इति क्यङ्सलोपौ ॥ धूमादिभिर्विना केवलं तेजोरूप एव सन् **तन्वश्च** **शुम्भते** स्वशरीरभूता ज्वाला अपि दीपयति पोषयतीत्यर्थः । किंच प्रवृद्धज्वालः **दुर्गृभिः** केनचिदपि ग्रहीतुमशक्यः सन् **भीमो** **न** भयंकरो मृग इव स यथा दुर्ग्रहः सन् शृङ्गं चालयति तद्वदयमपि शृङ्गाणि' शृङ्गवदुन्नता ज्वालाः **दविधाव** अत्यर्थं चालयति ॥ धुनोतेर्यङ्लुगन्तात् लिटि रूपम् । अस्य च दाधर्त्यादौ इति शब्देन संग्रहो द्रष्टव्यः ॥
@@ -260,8 +263,6 @@ The ‘bending’ of pāda a of course describes the flickering motion of the fl
 Because of the theme mentioned ad vss. 6-8, of the bodily transformation of the plants by burning, I take tanvàs in c as referring to the bodies of the plants, not, with most tr., that of Agni.
 
 I don’t entirely understand the position of ca in c. Klein (DGRV I.222-23, 259-60) suggests that it has been bumped by the participle opening the clause and pāda. It is certainly the case that ca could not immediately follow that first word without metrical distress: five-syllable ojāyámānaḥ entirely fills the opening, and since the caesura cannot precede an enclitic, placing ca after the participle would result in an opening of 6.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
@@ -302,8 +303,6 @@ Der sich geschäftig über braune Hölzer neigt, er eilet brüllend wie ein Bull
 Играя силой, он украшает (свои) тела.  
 Словно страшный (бык), трясет рогами (этот бог, кого) трудно схватить.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

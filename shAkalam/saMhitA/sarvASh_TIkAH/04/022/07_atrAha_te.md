@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -254,6 +252,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    हरिवः- प्राणाश्वयुख्न। इन्द्र- परमेश्वर। अत्र। ते- तव। ताः। बद्बधानाः- वृत्रेणावरणेन बद्धाः।  स्वसारः- स्वतःसरणशीलाः। देवीः- द्योतनशीला आपो मूलशख्निधाराः। अवोभिः- रक्षाशख्निभिः  स्थितं त्वाम्। स्तवन्त- स्तोत्रं कुर्वन्ति। स्यनयध्यै- तासां प्रवाहाय। दीर्घाम्। प्रसितिम्-  नियतिम्। प्र- प्रकर्षेण। सीम्- सर्वतः। मुचः- अमोचयः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **यत्** यदा **बद्बधानाः** वृत्रेण बध्यमानाः **सीमनु** एता: नदीरुद्दिश्य **दीर्घाम्** अत्यधिकां **प्रसितिं** बन्धनम् **अनु** स्यन्दयध्यै यथाकामं स्यन्दितुं **प्र** **मुचः** प्रकर्षेणामोचयः । हे **हरिवः** हरिवन् इन्द्र **अत्राह** अत्रैव मोचनवेलायां **ता** **उ** ताः प्रसिद्धा एव **देवीः** देव्यो द्योतमानाः **स्वसारः** नद्यः । अत्र स्वसृशब्दो नदीवाची । **अवोभिः** त्वत्कृतै रक्षणैः **ते** त्वां **स्तवन्त** स्तावयन्ति । नदीपूरणादिभिः कर्मभिः जना इन्द्रं स्तुवन्तीत्यर्थः ॥
@@ -279,8 +282,6 @@ them flow along their long trajectory.
 Most tr. take stavanta as passive, and this seems the correct interpr. The sisters are likely the rivers or waters released after the killing of Vṛtra. The question is why they would be praised as well as Indra. Geldner’s suggestion (n. 7ab) is that it is essentially a spill-over effect (not that he uses that term), that Indra’s praiseworthy deed that brought the waters release also brought them praise by association.
 
 I don’t understand the double ánu (pādas c and d), though my surmise is that the first one simply anticipates the second, which is in a semi-fixed expression dīrghā́m ánu prásitim (cf. X.40.10). Grassmann takes it as part of a preverb complex with √muc: ánu prá √muc ‘nacheinander loslassen’, and its position might support that assumption. But surely one of points in the Vṛtra myth is that the rivers burst out dramatically all at once. Geldner, by contrast, compares the identical sequence yát sīm ánu in I.37.9, I.141.9, but those two passages seem unconnected with ours, with the ánu construed with preceding sīm “following them.” (One can also compare IV.38.3 yáṃ sīm ánu, but this has yet a different sense.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -315,8 +316,6 @@ Da stimmten zu mit Lust dir diese Schwestern, die göttlichen, o Indra, Herr der
 После долгого заточения, чтобы они текли.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -332,12 +331,12 @@ Da stimmten zu mit Lust dir diese Schwestern, die göttlichen, o Indra, Herr der
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (हरिवः) श्रेष्ठ पुरुषों से और (इन्द्र) अत्यन्त ऐश्वर्य्य से युक्त (अत्र) इस राज्य में (अह) ग्रहण करने में (यत्) जो (ते) आपकी (बद्बधानाः) प्रबन्ध करनेवाली (स्वसारः) अङ्गुलियों के समान वर्त्तमान बहिनपने का आचरण करती और पढ़ी हुई स्त्रियाँ (स्यन्दयध्यै) बहाने को (दीर्घाम्) लम्बीभूत (प्रसितिम्) बन्धावट की (अनु, स्तवन्त) अनुकूल स्तुति करती हैं (ताः, उ) उन्हीं (देवीः) प्रकाशित पढ़ी हुई स्त्रियों को (अवोभिः) रक्षण आदि व्यवहारों से (सीम्) सब प्रकार दुःखरूप बन्धन से आप (अनु, प्र, मुचः) अच्छे प्रकार छुड़ाइये ॥७॥
+पदार्थान्वयभाषाः -  हे (हरिवः) श्रेष्ठ पुरुषों से और (इन्द्र) अत्यन्त ऐश्वर्य्य से युक्त (अत्र) इस राज्य में (अह) ग्रहण करने में (यत्) जो (ते) आपकी (बद्बधानाः) प्रबन्ध करनेवाली (स्वसारः) अङ्गुलियों के समान वर्त्तमान बहिनपने का आचरण करती और पढ़ी हुई स्त्रियाँ (स्यन्दयध्यै) बहाने को (दीर्घाम्) लम्बीभूत (प्रसितिम्) बन्धावट की (अनु, स्तवन्त) अनुकूल स्तुति करती हैं (ताः, उ) उन्हीं (देवीः) प्रकाशित पढ़ी हुई स्त्रियों को (अवोभिः) रक्षण आदि व्यवहारों से (सीम्) सब प्रकार दुःखरूप बन्धन से आप (अनु, प्र, मुचः) अच्छे प्रकार छुड़ाइये ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजा आदि मनुष्यो ! जैसे आप लोग ब्रह्मचर्य से विद्याओं को पढ़कर राजनीति से राज्य का पालन करते हैं, वैसे ही आप लोगों की स्त्रियाँ स्त्रियों का न्याय करें। ऐसा करने पर दृढ़ राज्यधर्म्म का प्रबन्ध होता है, ऐसा जानना चाहिये ॥७॥
+भावार्थभाषाः -  हे राजा आदि मनुष्यो ! जैसे आप लोग ब्रह्मचर्य से विद्याओं को पढ़कर राजनीति से राज्य का पालन करते हैं, वैसे ही आप लोगों की स्त्रियाँ स्त्रियों का न्याय करें। ऐसा करने पर दृढ़ राज्यधर्म्म का प्रबन्ध होता है, ऐसा जानना चाहिये ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

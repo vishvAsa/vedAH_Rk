@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - तिरश्चीराङ्गिरसो द्युतानो वा मारुतः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रस्य- आवरणप्रतीकरक्षसः। श्वसथात्- श्वासात्। ईषमाणाः- सर्वतः सरन्तः। विश्वे देवाः। ये।  सखायः- त्वत्सुहृदः। त एव। त्वा- त्वाम्। अजहुः- तत्यजुः। इन्द्र। मरुद्भिः- ३    प्राणविशेषैर्वातैर्वा। ते- तव। सख्यम्- मैत्री। अस्तु- भवतु। अथ- ततः। इमाः- एताः। विश्वाः-  सर्वाः। पृतनाः- वृत्रसेनाः। जयासि- जयसि॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र तव **ये** **विश्वे** **देवाः** प्राक् **सखायः** संग्रामे सखित्वं कुर्यामेति' मित्राण्यभवन ते सर्वे देवाः **वृत्रस्य** वृत्रासुरस्य **श्वसथात्** । श्वसेरौणादिकोऽथप्रत्ययः । सर्वानागच्छतो दृष्ट्वा तेषां भीत्युत्पादनाय वृत्रासुरः श्वासमकार्षीत् । श्वासाद्भीताः सन्तः अत एव **ईषमाणाः** सर्वतः पलायमानाः
@@ -254,8 +257,6 @@ Let your partnership be with the Maruts, Indra. Then you will win all  these bat
 
 I have chosen to read the impv. bhávā in b with the two small clauses in c as well, though it is certainly possible to interpret those with Geldner as straight indicative nominal clauses: “you (are) there with help …; you (are) friendship …”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -280,10 +281,6 @@ Vor dem Schnauben des Vritra weichend verließen dich alle Götter, deine Kamera
 
 Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verlassen, Du mögest mit den Maruts dich verbünden, dann wirst du diese Feinde all' besiegen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

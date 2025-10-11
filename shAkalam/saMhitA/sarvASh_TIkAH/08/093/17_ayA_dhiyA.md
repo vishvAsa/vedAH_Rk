@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनया। गव्यया- चिद्रश्मिकामया धिया। च। पुरुणामन्- बहुनामयुख्न। पुरुष्टुत- बहुभिः  स्तुत। सोमेसोमे। आभवः- अभूः॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पुरुनामन्** बहुविधशक्रवृत्रहादिनामोपेत । यद्वा । बहुस्तुतिमन् । नामयन्ति स्तुत्यं देवं वशं नयन्तीति नाम स्तोत्रम् । अत एव **पुरुष्टुत** बहुभिरभिष्टुतेन्द्र **सोमेसोमे** अस्मदीयेषु सोमेषु त्वं यदा **आभवः** तेषां पानार्थं समन्तादभवः तदा वयम् **अया** अनया । कीदृश्या । **गव्यया** गा आत्मन इच्छन्त्या **धिया** अनया बुद्ध्या युक्ता भवेम । सोमं पीतवति त्वयि वयं गवादियुक्ता भवेमेत्यर्थः ॥
@@ -181,10 +184,6 @@ Durch diese Dichtung und in dem Wunsch nach Rindern geschah es, du Vielarmiger, 
 
 Durch diese Bitte voll Begier, vielnam'ger, vielgepriesener, So oft beim Soma du erschienst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

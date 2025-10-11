@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। सा- मतिः। ते- त्वदीया। शंतमा- अतिशयेन शङ्करी। चनिष्ठा- अतिशयेन भोगवती।  प्रिया। भवतु। तया। सुष्टुतः- सुष्ठु स्तुतः। वर्धस्व॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **सा** अस्माभिः क्रियमाणा स्तुतिः **शंतमा** अत्यन्तं सुखकरा **चनिष्ठा** अतिशयेनान्नवती **ते** तव **प्रिया** **भवतु** । **तया** स्तुत्या **सुष्टुतः** सुष्ठु स्तुतः सन् **वर्धस्व** प्रवृद्धो भव ॥
@@ -184,10 +187,6 @@ Dies soll dir, Agni, am meisten zusagen und gefallen und lieb sein. Damit schön
 
 Dies, Agni, sei das liebste dir, willkommen recht und angenehm, An ihm erfreu dich, hochgelobt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

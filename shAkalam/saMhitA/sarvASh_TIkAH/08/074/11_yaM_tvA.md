@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोपवन आत्रेयः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यम्। त्वा- त्वाम्। गोपवनः- चिद्रश्मिसम्भख्ना ऋषिः। अग्ने- पावक सत्क्रतो। अङ्गिरः-  अङ्गनशील। गिरा- स्तुत्या। चनिष्ठत्- अन्नदातारमकरोत्। स त्वम्। पावक- शोधक। हवम्-  आह्वानम्। शृधि- शृणु॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **यं** **त्वा** त्वां **गोपवनः** ऋषिः **गिरा** स्तुत्या **चनिष्ठत्** अतिशयेनान्नप्रदातारमकरोत् **सः** तादृशाग्ने **अङ्गिरः** सर्वत्र गन्तरङ्गिरसां मध्य एक वा **पावक** शोधक **हवं** गोपवनस्य **श्रुधि** शृणु ॥
@@ -191,10 +194,6 @@ Du, dem Gopavana mit seiner Lobrede gefallen möchte, o Agni, Angiraside, du Lau
 
 Du, den Gopavana durch Lied, erfreut hat, Agni, Angiras, Du flammender vernimm den Ruf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रगाथः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। गृणीषे- प्रशंसामि। स्तुषे- स्तौमि। महान्- महात्मा। उग्रः- उद्गूर्णः। ईशानकृत्-  वशित्वकृत्। एहि- आगच्छ। नः- अस्माकम्। सुतम्- रसम्। पिब- अनुभव॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **गृणीषे** उच्यसे । इदं देहीदं कुर्विति । तथा **स्तुषे** **उ** स्तूयसे च । उ इति चार्थे । कीदृशस्त्वम्। **महान्** गुणैः प्रवृद्धः **उग्रः** उद्गूर्णबलः **ईशानकृत्** ऐश्वर्यकर्ता । तादृशस्त्वम् **एहि** आगच्छ । आगत्य च **नः** **सुतं** सोमं **पिब** ॥
@@ -186,8 +189,6 @@ I take them as infinitives rather than 1st sgs, primarily because they are accen
 However, it is possible that a finite verb would bear the accent after the accented initial voc. índra, and that the second form would be accented contrastively, so 1st sg.
 
 is certainly not excluded. Since the “you” of the published translation (/ “dich” of Geldner’s tr.) is not overtly expressed, either interpretation fits the text. ## 066 Indra
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -220,8 +221,6 @@ Dich, Indra, lob' und preise ich, dich, den Gebieter stark und gross, Komm her u
 Как великий, грозный, власть имеющий.  
 Иди, пей нашего выжатого (сому)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

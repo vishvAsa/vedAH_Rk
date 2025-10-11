@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -267,6 +265,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। अयम्- एषः। जयन्। उत- अपि च। घ्नन्- शत्रून् हिंसन्। शृण्वे- श्रूयते। उत-  अपि च। युधा- युद्धेन। गाः- धेनूश्चिद्रश्मीन्। प्र- प्रकर्षेण। कृणुते- लभते। यदा। सत्यम्-  अवितथम्। मन्युम्- क्रोधं वीर्यं वा। इन्द्रः। कृणुते- वृत्राणि प्रति करोति तदा। विश्वम्- सर्वः।  दृळ्हम्- दृढो जडोपलक्षितो गिरिरपि। अस्मात्- एतस्मात्। भयते- भयं प्राप्नोति। एजते- कम्पते  च॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अध** अपि च **अयम्** इन्द्रः **जयन्** शत्रून् विजयन् **शृण्वे** श्रूयते । सर्वत्र प्रख्यातो भवति । **उत** अपि च **घ्नन्** शत्रून् हिंसन् सर्वत्र श्रूयते । **उत** अपि च **अयम्'** इन्द्रः **युधा** युद्धेन **गाः** पशून् **प्र** **कृणुते** शत्रुसकाशात् आहरति । किंच **इन्द्रः** **यदा** **मन्युं** कोपं **सत्यम्** एव **कृणुते** द्विषदर्थं करोति तदानीं **दृळ्हं** दृढं स्थिर स्थावररूपम् **एजत्** कम्पमानं जङ्गमरूपं च **विश्वं** समस्तं जगत् **अस्मात्** इन्द्रात् **भयते** बिभेति ॥ ॥ २२ ॥
@@ -291,8 +294,6 @@ When Indra makes his fury real, everything, both what stays firm and  what flinc
 The sense of ádha here is somewhat unclear and its position anomalous, as it is generally, though not invariably, clause-initial. Klein (DGRM II.97) notes its medial position but considers it to have the usual sense he assigns to ádha, namely ‘therefore’. This passage is reminiscent of VII.34.2 śṛṇvánty ā́po ádha kṣárantīḥ, where ádha likewise appears mid-clause and before a pres. participle (as well as after a form of √śru, though act., not pass. as here). My sense is that ádha in both passages introduces a participial addition that clarifies or modifies the sense of the main verb, hence a sort of mini-clause.
 
 In pāda b the lexeme prá kṛṇute with its middle voice in my opinion encodes a complex thought: in battle Indra brings the (enemies’) cows forward in such a way as to make them his own, that is, to capture them. Med. kṛṇuté recurs in the next pāda, where its object is Indra’s own battle-fury (manyúm).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -326,8 +327,6 @@ Er wird gerühmt als der, der siegt und tödtet, er ist's, der sich durch Kampf 
 Когда Индра предается (своему) неистовству,  
 Все твердое (и) подвижное страшится его.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

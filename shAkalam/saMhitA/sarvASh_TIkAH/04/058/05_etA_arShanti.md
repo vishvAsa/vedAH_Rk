@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हृद्यात् समुद्रात्- हृदयार्णवात्। एताः- आपो मूलशख्निधाराः। शतव्रजाः- अनन्तप्रणाल्यः।  अर्षन्ति- सरन्ति। रिपुणा- शत्रुणा पणिना लोभभावनया। नावचक्षे- न दृष्टा न बद्धा इति भावः।  घृतस्य- परस्य ज्योतिषः। धाराः। अभि चाकशीमि- अभित आभिमुख्येन वा पश्यामि। आसाम्-  मूलशख्निधाराणां मध्ये। हिरण्ययो वेतसः- अध्यात्मज्योतिर्विराजते। तत् पश्यामि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एताः** आपो घृतधारा वा **अर्षन्ति** अधः पतन्ति। **शतव्रजाः** अपरिमितगतयः सत्यः **हृद्यात्** हृदयङ्गमात् **समुद्रात्** अन्तरिक्षात् रिपुणा जलमोकप्रतिबन्धकारिणा शत्रुणा वृत्रेण **नावचक्षे** न अवदर्शनाय यथादृष्टं भवति तथा अर्षन्ति । ताः **घृतस्य** **धारा** **अभि** **चाकशीमि** अभिपश्यामि । कुत्रेति तदुच्यते **हिरण्ययः** हिरण्मयः **वेतसः** अप्संभवोऽग्निर्वैद्युतः **आसाम्** अपां **मध्ये** वर्तत इति शेषः । अत्र घृतस्य धारा अभि चाकशीमीत्यनेन चरमपादेन होमाधारोऽग्निर्वैद्युतोऽग्निरादित्यो वोक्तः ॥ ॥१०॥
@@ -228,8 +231,6 @@ but I keep gazing upon the streams of ghee. A golden reed is in  their midst.
 <details><summary>Jamison Brereton Notes</summary>
 
 “My” ability to see the ghee streams indirectly attests to my good character, since the cheat cannot see them.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
@@ -263,8 +264,6 @@ Es triefen diese aus dem lieben Luftmeer in hundert Scharen, nicht dem Feinde si
 Я внимательно рассматриваю потоки жира.  
 Посреди них золотой прут.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

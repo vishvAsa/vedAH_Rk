@@ -3,7 +3,6 @@ title = "023"
 devataa = "इन्द्रः (अभिशापः)"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मिन् मन्त्रे मूढजनानां कर्म ऋषिर्निन्दति। जनासः- जनाः। लोधम्- लुब्धम्। पशु- कविम्।  पश्यतीति पशुः। मन्यमानाः- चिन्तयन्तः। नयन्ति- आदर्शत्त्वेन नयन्ति। तैः। सायकस्य-  ऋताधिदैवतस्य वरुणस्य दण्डदस्य प्रहरणं यमस्य वा। न। चिकिते- ज्ञायते। वाजिनाः-  वाग्युख्नाः। श्रुतिप्रमाणयुख्ना इति भावः। वाजिनम्- अवाग्मिनं श्रुतिज्ञानरहितं मूढम्। न।  हासयन्ति- हासास्पदं कुर्वन्ति। तेषु कारुण्यमेव कुर्वन्ति। अश्वात्- तुरगात्। पुरः- पुरतः। गर्दभम्- रासभम्। न नयन्ति। तुरगे सति वहने गर्दभस्यावश्यकं न भवति। औदार्यदानशीले साधौ  सति दुष्टस्य लोभिन आवश्यकमादर्शाय न भवति॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पुरा खलु तपसः क्षयो मा प्रापदिति शापान्निवृत्तं मौनिनं विश्वामित्रं वसिष्ठपुरुषा बद्ध्वा आनीतवन्तः । तान् प्रति विश्वामित्रो ब्रूते । हे **जनासः** जनाः **सायकस्य** अवसानकारिणो विश्वामित्रस्य मन्त्रगणसामर्थ्यं **न** **चिकिते** भवद्भिर्न ज्ञायते । अत एव **लोधं** लुब्धं तपसः क्षयो मा भूदिति लोभेन तूष्णीं स्थितमृषिं **पशु** **मन्यमानाः** । पशु इति निपातः पशुशब्दसमानार्थः । पशुवन्मन्यमानाः एते **नयन्ति** बद्ध्वा स्वकीयं देशं प्रापयन्ति । एवं स्वसामर्थ्यं प्रदर्श्य विसदृशो वसिष्ठो मया सह स्पर्धितुं नार्हतीति धिक्करोति । **नावाजिनम्** इति । अवाजिनम् । वाचामिनो वाजिनः सर्वज्ञः । तद्विलक्षणं मूर्खजनं **वाजिना** वागीशाः न **हासयन्ति** हास्यास्पदं न कुर्वन्ति । तेन सह न स्पर्धन्त इत्यर्थः । तथा **गर्दभं** रासभम् **अश्वात्** **पुरः** पुरस्तात् **न** **नयन्ति** । एवमेव विसदृशो वसिष्ठो न मया स्पर्धितुमीष्ट इत्यर्थः ॥
@@ -250,8 +253,6 @@ because the following vs. muddies the waters even further.
 
 Given the interpretational difficulties, the grammatical identity of áśvān is a minor problem. In the published translation I take it as acc. pl. áśvān, but the Pp. interprets it as abl. áśvāt, with the final -n in sandhi before the nasal of nayanti. Either is possible (“lead before the horses” / “lead before the horse”), and given the uncertainty of meaning, there is no obvious way to choose. The abl. is supposed to be construed with puráḥ, but in fact ABL. + puráḥ is not a robust construction.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
 <details open><summary><h2>21-24 ...{Loading}...</h2></summary>
 
@@ -285,8 +286,6 @@ Nicht nimmt man wahr des fliegenden Geschosses, o Leute, nicht reiset man [ná y
 Клячу не пускают состязаться со скакуном.  
 Осла не ведут впереди коней.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

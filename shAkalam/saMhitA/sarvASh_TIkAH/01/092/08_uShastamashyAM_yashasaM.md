@@ -3,7 +3,6 @@ title = "008"
 devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुदंससा- शोभनकर्मनिष्पादयित्र्या। श्रवसा- श्रुत्या। या। विभासि- शोभसे। सा त्वम्। सुभगे-  सौभाग्यवति। उषः- ज्ञानोदयदेवते। बृहन्तम्- महान्तम्। सुवीरम्- शोभनवीर्यम्। दासप्रवर्गं-  सुदासयुख्नम्। श्रुतौ दासा द्विविधाः। विषयभोगदासाः अधार्मिकभावनानि। दिवोदासाः  धार्मिकभावनानि। अश्वबुध्यम्- प्राणबोधकम्। रयिम्- अनुभवम्। यशसम्। अश्याम्- भुञ्जे॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उषः** उषोदेवते **तं** **रयिं** धनम् **अश्यां** प्राप्नुयाम् । कीदृशम् । **यशसं** यशसा कीर्त्या युक्तम् । सर्वैः प्रशस्यमित्यर्थः । **सुवीरं** शोभनैर्वीरैः पुत्रादिभिर्युक्तं **दासप्रवर्गम्** । प्रकृष्टो वर्गः संघः प्रवर्गः । दासानां कर्मकराणां प्रवर्गों यस्मिन् तम् । अनेकैर्भृत्यैरुपेतमित्यर्थः । अश्वबुध्यम् । अश्वा बुध्या बोद्धव्या येन धनेन तादृशम् । हे **सुभगे** शोभनधने उषः **सुदंससा** शोभनेन कर्मणा युक्तेन **श्रवसा** श्रवणीयेन स्तोत्रेण प्रीता त्वं **वाजप्रसूता** अस्मभ्यं दत्तान्ना सती **बृहन्तं** प्रौढं **या** यं रयिं **विभासि** विशेषेण प्रकाशयसि तमश्यामिति पूर्वेण संबन्धः ॥ अश्याम् । **अशू** व्याप्तौ' । व्यत्यनेन परस्मैपदम् । बहुलं छन्दसि' इति विकरणस्य लुक् । यशसम् । अर्शआदित्वात् मत्वर्थीयोऽच् । व्यत्ययेन प्रत्ययात् पूर्वस्योदात्तत्वम् । दासप्रवर्गम् । दासयत्युपक्षपयति शत्रूनिति दासो भृत्यः  । दसु उपक्षये । अस्मात् ण्यन्तात् पचाद्यच् । चित्त्वादन्तोदात्तत्वम् । तदेव बहुव्रीहिस्वरेण शिष्यते । सुदंससा ।  ‘ सोर्मनसी अलोमोषसी ' इति बहुव्रीहावुत्तरपदाद्युदात्तत्वम् । या ।  ‘ सुपां सुलुक् ' इति अमः डादेशः ॥
@@ -238,7 +241,6 @@ forth, motivated by (desire for) the prize, to lofty (wealth).
 
 The final bṛhántam of d obviously refers back to the rayím so carefully detailed in ab, but is separated from that phrase by a considerable amount of material. Rather than making it a long-delayed part of that NP I have taken it as a pseudo-goal with vibhā́si, with vā́ja-prasūtā giving grounds for that goal.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -246,6 +248,7 @@ Contra Grassmann, áśva-budhya- cannot mean ‘durch Rosse bemerkenswerth’ wi
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -283,8 +286,6 @@ Lass, Morgenröthe, mich das Gut erlangen, das reich erglänzt an Helden, Rossen
 О (ты,) что ярко сияешь удивительной славой,  
 Побужденная к наградам, счастливая, – высокого (богатства)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

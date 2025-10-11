@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षत्राय। त्वम्। अवसि- रक्षसि। त्वम्। न केनापि। आविथ- रक्षितो भवति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शचीपते** **इन्द्र** **त्वं** **क्षत्राय** जगतो बलाय भवसि । **अवसि** आश्रितान् रक्षसि । **त्वं** **न** **आविथ** केनापि न रक्ष्यसे । सिद्धमन्यत् ॥
@@ -252,8 +255,6 @@ Dem einen hilfst zur Herrschaft du, dem andern nicht, o Herr der Kraft, mit alle
 О безупречный,  
 Испей сомы, о громовержец!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

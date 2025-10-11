@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मेधातिथिमेध्यातिथी काण्वौ
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणबाधक। शूर- समर्थ। अनाशवः- मन्दं मन्दम्। अनुग्रासः- विधेयाः। अमन्महि-  स्तुमः। महता- महत्या। राधसा- संसिद्ध्या। सकृत्- एकवारम्। ते- तुभ्यम्। स्तोमम्- मन्त्रम्।  अनु मुदीमहि- अनुमोदेमहि। अनुब्रवामेत्यर्थः॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्रस्यासुरस्य हन्तरिन्द्र **अनाशवः** अशीघ्रा अत्वरमाणाः **अनुग्रासः** अनुग्रा अनुद्गूर्णाः **च** सन्तो वयं भक्तिश्रद्धापुरःसरं शनैस्त्वाम् **अमन्महीत्** स्तुम एव । हे **शूर** वीर्यवन्निन्द्र **ते** त्वदर्थं **सकृत्** एकवारमपि **महता** प्रभूतेन **राधसा** धनेन हविर्लक्षणेन सह **सु** शोभनं **स्तोमं** स्तोत्रम् **अनु** **मुदीमहि** अनुमोदेमहि । अनुब्रवामेत्यर्थः ॥
@@ -209,8 +212,6 @@ But in an instant, through your great generosity, o champion, we could  (again) 
 <details><summary>Jamison Brereton Notes</summary>
 
 Although the primary sense of d, “take delight in your praise,” is surely that the poets will enjoy praising Indra, in the context of these two verses it presumably also implies that they will take delight because their praise will put them (back?) into Indra’s good graces and thereby improve their own view of themselves and their chances of making good.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
@@ -244,8 +245,6 @@ Wol sind wir eiferlos und schwach, o Vritratödter, dir erschienen sonst, Doch p
 Благодаря твоему великому дару, о герой,  
 Мы хотим еще раз прекрасно насладиться восхвалением.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

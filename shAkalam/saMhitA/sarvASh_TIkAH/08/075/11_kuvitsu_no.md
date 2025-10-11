@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। गविष्टये- चिद्रश्म्येषणायै। अग्ने। रयिम्- दैवीं सम्पदम्। कुवित्- बह्वीम्। सु-  सुष्ठु। संवेषिषः- सम्प्रापय। उरुकृत्- बहुकृत्। नः- अस्मान्। उरु- प्रभूतान्। कृधि- कुरु॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वं **नः** अस्माकं **गविष्टये** गवामेषणाय **कुवित्** बहु **रयिं** धनं **संवेषिषः** संप्रापय । **उरुकृत्** त्वं **नः** अस्मान्” **उरु** **कृधि** कुरु ॥
@@ -203,10 +206,6 @@ Gewiß wirst du, Agni, unserem Wunsch nach Kühen baß Reichtum gewähren. Du Ba
 
 Wirst du nicht unsrer Güterlust bescheeren, Agni, reiches Gut? Raumschaffer, schaffe du uns Raum.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

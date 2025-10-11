@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कृष्णः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रिवन्धुरेण। त्रिवृता- त्रिकोणेन। रथेन। अश्विना। आ यातम्- आगच्छतम्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** अश्विनौ **त्रिवन्धुरेण** त्रिफलकासंघटितेन **त्रिवृता** त्रिकोणेन । यद्वा । त्रिवृता। त्रीणि कवचादिभिरावरणानि यस्य स तथोक्तः । तेन **रथेन** अस्मद्यज्ञं प्रति **आ** **यातं** युवामागच्छतं च । शिष्टं गतम् ॥
@@ -181,8 +184,6 @@ Kommt, Ritter, auf dem Wagen her, der dreigetheilt drei Sitze hat, Zum Trunk des
 На трехместной трехчастной колеснице,  
 Чтобы пить сладкого сому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

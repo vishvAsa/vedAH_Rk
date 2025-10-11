@@ -3,7 +3,6 @@ title = "003"
 devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -241,6 +239,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एष रसः। पीतः- अनुभूतः। मे- मम। वाचम्। उदियर्ति- उद्गमयति। अयम्। उशतीम्-  कामयन्तीम्। मनीषाम्। अजीगः- प्राप्नोत्। अयम्। याभ्यः। आरे- दूरे। कच्चन। भुवनम्। न  भवति। ताः। षळुर्वीः- षड्भूमिकाः। धीरः। अमिमीत- निर्मितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयं** सोमः **पीतः** सन् **मे** मम **वाचम्** **उदयर्ति** उद्गमयति । **अयम्** एव सोमः **उशतीं** कान्तां **मनीषां** बुद्धिम् उत् **अजीगः** उद्गारयति । प्रकाशयति ॥ ‘गॄ निगरणे' इत्यस्माण्ण्यन्ताल्लुङि चङि रूपम् ॥ अपि च **अयं** **धीरः** धीमान् सोमः **षळुर्वीः** ‘षण्मोर्वीरंहसस्पान्तु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्च ' इति प्रतिपादिता द्युपृथिव्याद्याः षट् **अमिमीत** निर्मितवान् । **याभ्यः** उर्वीभ्यः **आरे** दूरे विप्रकृष्टे देशे **कच्चन** किंचन **भुवनं** भूतजातं **न** भवति अपि तु आस्वेव सर्वं भूतजातं वर्तते तादृशीरुर्वीर्निर्मितवान् ॥
@@ -268,8 +271,6 @@ This wise one measured out the six broad (realms), from which no world  is at a 
 <details><summary>Jamison Brereton Notes</summary>
 
 It is not clear what noun to supply with fem. pl. urvī́ḥ, though something like ‘worlds (so Geldner), realms’ makes sense. The same ṣáḍ urvī́ḥ is found in X.14.16 in unclear context, and as a voc. in X.128.5 dévīḥ ṣaḍ urvīḥ 'you six broad goddesses’, again with uncertain referent. Elsewhere urvī́ḥ applies to waters or rivers, but liquid doesn’t seem appropriate here. Perhaps in our vs. it’s evoking a pl. of pṛthivī́ ‘earth’, with a pun on a different word for ‘broad’, urú-, urvī́-. Note that pṛthivī́- occurs in the next vs., dependent on varimán- ‘expanse’, which is derivationally related to urú-.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
@@ -304,8 +305,6 @@ Getrunken reget dieser mir das Wort auf, und hat geweckt das sehnsuchtsvolle Lie
 Без которых нет никакой вселенной.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सोमः
@@ -321,12 +320,12 @@ Getrunken reget dieser mir das Wort auf, und hat geweckt das sehnsuchtsvolle Lie
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे (अयम्) यह (पीतः) पान किया गया सोमलता का रस (मे) मेरी (वाचम्) वाणी को (उशतीम्) कामना करती हुई (मनीषाम्) बुद्धि को (उत्, इयर्त्ति) बढ़ाता है जिससे (अयम्) यह जन कामना को (अजीगः) प्राप्त होता है जिससे (अयम्) यह (षट्) छः प्रकार की (उर्वीः) भूमियों को (धीरः) ध्यान करनेवाला बुद्धिमान् जन (न) जैसे (अमिमीत) निर्म्माण करता है और (याभ्यः) जिन से (आरे) दूर वा समीप में (कत्) कभी (चन) भी (भुवनम्) संसार को रचता है, यह वैद्यकशास्त्र की रीति से बनाने योग्य है ॥३॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे (अयम्) यह (पीतः) पान किया गया सोमलता का रस (मे) मेरी (वाचम्) वाणी को (उशतीम्) कामना करती हुई (मनीषाम्) बुद्धि को (उत्, इयर्त्ति) बढ़ाता है जिससे (अयम्) यह जन कामना को (अजीगः) प्राप्त होता है जिससे (अयम्) यह (षट्) छः प्रकार की (उर्वीः) भूमियों को (धीरः) ध्यान करनेवाला बुद्धिमान् जन (न) जैसे (अमिमीत) निर्म्माण करता है और (याभ्यः) जिन से (आरे) दूर वा समीप में (कत्) कभी (चन) भी (भुवनम्) संसार को रचता है, यह वैद्यकशास्त्र की रीति से बनाने योग्य है ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जिस पिये हुए से वाणी, बुद्धि, शरीर बढ़े और जिससे शास्त्र उत्तम प्रकार ग्रहण किये जायें, इसका ही सेवन करना चाहिये, न कि बुद्धि आदिकों के नाश करनेवाले का ॥३॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जिस पिये हुए से वाणी, बुद्धि, शरीर बढ़े और जिससे शास्त्र उत्तम प्रकार ग्रहण किये जायें, इसका ही सेवन करना चाहिये, न कि बुद्धि आदिकों के नाश करनेवाले का ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

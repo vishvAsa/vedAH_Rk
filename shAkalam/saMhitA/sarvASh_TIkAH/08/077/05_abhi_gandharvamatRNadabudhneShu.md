@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुरुसुतिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। ब्रह्मभ्यः- मन्त्रविद्भ्यः। वृधे- वर्धनाय। अबुध्नेषु रजःसु- अमूलेषु लोकेषु। अन्तरिक्षे।  गन्धर्वं- गामुदकं धारकं मेघम्। अभि अस्तृणत्- हिंसितवान्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **गन्धर्वम्** । गामुदकं धारयतीति गन्धर्वो मेघः । तम् **अभि** **आ** **अतृणत्** सर्वतो हिंसितवान् । कुत्र । **अबुध्नेषु** पदनिधानयोग्यस्थानरहितेषु **रजःसु** लोकेषु । अन्तरिक्षप्रदेशेष्वित्यर्थः । किमर्थम् । **ब्रह्मभ्य** **इत्** ब्राह्मणेभ्य एव **वृधे** वर्धनाय ॥ ॥ २९ ॥
@@ -177,8 +180,6 @@ I take the phrase giríbhya ā́as expressing the freeing of the odanám from th
 
 “all the way to,” though in that sense the ablative usually follows (see Grassmann s.v. ā́), hence “He pierced the boar all the way to/through the mountains.” As noted ad vs. 5, bundá- is reminiscent of (a)budhná- in the immediately preceding mysterious Gandharva verse.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -210,8 +211,6 @@ Im bodenlosen Raum der Luft durchbohrte den Gandharven er, Den Betern Indra zum 
 В бездонных пространствах,  
 Индра – для укрепления брахманов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

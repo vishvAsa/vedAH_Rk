@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। सुशिप्र- शोभनहनुयुख्न। ते- तव। अप्रतिष्कुतम्- अप्रतिस्तम्भनीयम्। शुष्मम्-  बलम्। देवी- देव्यौ। उभे। रोदसी- द्यावापृथिव्यौ। सपर्यतः- परिचरतः॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुशिप्र** सुहनो शोभनशिरस्त्राणेन्द्र **अध** अपि च **देवी** देव्यौ स्वतेजसा दीप्यमाने **उभे** **रोदसी** द्यावापृथिव्यौ **अप्रतिष्कुतम्** । स्कु इति सौत्रो धातुः स्तम्भने वर्तते । शत्रुभिरप्रतिरोधनीयं **ते** त्वदीयं **शुष्मं** परबलशोषकं बलं **सपर्यतः** पूजयतः । त्वदधीने एव भवतः ॥
@@ -166,10 +169,6 @@ Darum ehren die beiden Göttinnen Rodasi deinen unaufhaltsamen Ungestüm, du Sch
 
 Und deine ungehemmte Macht verehren beide Göttinnen, Die Welten, helmgeschmückter du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -261,6 +259,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ रथो लक्ष्यप्रापकगतिप्रतीकः। प्रथमं द्वितीयमुतो तृतीयम्। अरम्- पर्याप्तः। मनुषः-  मनुष्यार्थे। सः- असौ। होता- देवाह्वाता। अन्ये- ऋत्विजः। अन्यस्याः- पृथिव्याः। गर्भं-  गर्भभूतमग्निम्। जनन्त- अजनयन्। सः। जेन्यः- जेता। वृषा- वर्षकः। अन्येभिः- देवैः। सचते-  सङ्गच्छति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सयज्ञः सोमोवाअस्माइन्द्रायप्रथमम्प्रातःसवनेअरम्पर्याप्तोभूत् सचद्वितीयं माध्यन्दिनेसवनेपर्याप्तो- भूत् उतोअपिचसतृतीयं तृतीयेसवनेपर्याप्तोभूत् सर्वत्रकालाध्वनोरितिद्वितीया सयज्ञः सोमोवामनु- षोमनुष्यस्यहोताशुभानांवोढाभवति किञ्च अन्येऋत्विजः अन्यस्याः पृथिव्याः वेदात्मिकायावाचो- वागर्भंसन्तं सोमंयज्ञं वाजनन्त अजनयन्त उप्रसिद्भ्यर्थः वृषाअभिमतफलवर्षकः जेन्योजयसमर्थः सयज्ञः सोमोवाअन्येभिः अन्यैरिन्द्रादिभिःदेवैःसचते सङ्गच्छते सचसमवाये अनुदात्तेत् ॥ २ ॥
@@ -282,7 +285,7 @@ For the first: alluding to the three daily sacrifices; with other (ceremonies): 
 <details><summary>Jamison Brereton</summary>
 
 He is fit for him [=Indra] for the first time, for the second, for the third— he the Hotar of Manu [=Agni].  
-Some [=priests] give birth (to him [=Agni]), the infant of another [=aráṇi fem., the fire-kindling stick], and he keeps company with the others— he the noble bull.
+Some [=priests] give birth (to him [=Agni]), the infant of another [=aráṇi fem., the fire-kindling stick], and he keeps company with the others— he the noble bull.
 </details>
 
 <details><summary>Griffith</summary>
@@ -308,8 +311,6 @@ Zum ersten, zweiten und zum dritten male ist schon bereit des Menschen Priester,
 Зародыша одной породили также и другие.  
 Он присоединяется к другим, (этот) благородный бык.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

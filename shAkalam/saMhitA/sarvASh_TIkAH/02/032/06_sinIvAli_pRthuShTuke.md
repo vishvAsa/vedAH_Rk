@@ -3,7 +3,6 @@ title = "006"
 devataa = "सिनीवाली"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 pŕ̥thuṣṭuke ← pr̥thuṣṭuka- (nominal stem)  
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सिनीवालि- शुक्लमिश्रिते सोमसम्बन्धिनि रसाधिदैवते। सिनी शुक्ला। वल मिश्रणे॥ पृथुष्टुके-  पृथुसंहते। या। देवानाम्। स्वसा- भगिनी। असि- भवसि। आहुतम्- समर्पितम्। हव्यम्।  जुषस्व- सेवस्व। देवि- द्योतनशीले। नः- अस्मभ्यम्। दिदिड्ढि- उपचिनु। दिह उपचये॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 दृष्टचन्द्रामावास्यासिनीवाली हेसिनीवालि पृथुष्टुके पृथुजघनेपृथुसंहतकेशेवा यात्वन्देवानां- स्वसासि स्वयंसञ्चारिणीभगिनीवाभवसि सात्वंआहुतं आभिमुख्येनार्ग्राप्रक्षिप्तंहव्यं अस्मदीयं हविर्जुषस्वसेवस्व किञ्च हेदेवि सिनीवालि नोस्माकम्प्रजाम्पुत्रादिकान्दिदिड्वि उपचिनु अतिसर्ज यवा देहीत्यर्थः दिहउपचये लोटिछान्दसःशपःश्लुः दिशातिसर्जनेइत्यस्माद्वा ॥ ६ ॥
@@ -221,8 +224,6 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 Наслаждайся возлитой жертвой,  
 Направь нас, о богиня, к потомству!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

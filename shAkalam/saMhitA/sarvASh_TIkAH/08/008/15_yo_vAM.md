@@ -3,7 +3,6 @@ title = "015"
 devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सध्वंसः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वत्सः- युवयोर्वात्सल्यपात्रभूतः। ऋषिः- सूक्ष्मदर्शी। नासत्यौ- हे अश्विनौ। वाम्- युवाम्।  गीर्भिः- वाग्भिः। अवीवृधत्- अवर्धयत्। तस्मै। सजस्रनिर्णिजम्- अनन्तरूपिणीम्। इषम्-  सदेषणाम्। घतश्चुतम्- ज्योतिःस्राविणीम्। धत्तम्- यच्छतम्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नासत्यौ** **यः** वत्साख्यः **ऋषिः** **वां** युवां **गीर्भिः** स्तुतिभिः **अवीवृधत्** अवर्धयत् **तस्मै** ऋषये **सहस्रनिर्णिजं** बहुविधरूपं **घृतश्रुतं** घृतं क्षरन्तीम् **इषम्** अन्नं **धत्तं** प्रयच्छतम् ॥ ॥ २७ ॥
@@ -189,7 +192,6 @@ with ghee.
 <details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich reprises 8cd, but in this vs. the poet asks for something in response to his strengthening hymns.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
@@ -223,8 +225,6 @@ Dem Dichter Vatsa, treue ihr, der euch mit Liedern hat erfreut, Gebt tausendfach
 Наделите его тысячецветным  
 Подкреплением, сочащимся жиром!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

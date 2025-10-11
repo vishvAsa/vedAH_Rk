@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - आयुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। बृहतीः- महतीः। रायः- सम्पदः। सम्- सम्यक्। अधूनुत- अकम्पयत्। क्षोणी-  द्यावापृथिव्यौ। सम्- समसर्जत्। सूर्यं ससर्ज। शुक्रासः- शुक्लाः। शुचयः- शुद्धाः। गवाशिरः-  चिद्रश्मिमिश्राः। सोमाः- रसाः। इन्द्रम्- परमेश्वरम्। सम्- सम्यक्। अमन्दिषुः-  अतोषयन्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -257,8 +260,6 @@ Indra hat grosse Reichthümer hervorgeschüttelt, er die beiden Welten, und er d
 Вместе прозрачные чистые (и) вместе смешанные с молоком  
 Соки сомы Индру опьянили.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

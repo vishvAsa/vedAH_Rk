@@ -3,7 +3,6 @@ title = "003"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आघृणे- दीप्तिमन्। पूषन्- पोषक सूर्य। अदित्सनतम्- दातुमनिच्छन्तम्। चित्- अपि। दानाय।  चोदय- प्रेरय। पणेः- लोभिनः। मनः- चित्तम्। वि- विशेषेण। म्रद- मृदूकुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **आघृणे** अगतदीप्ते **पूषन्** **अदित्सन्तं** **चित्** दातुमनिच्छन्तमपि पुरुषं **दानाय** अस्मद्दानार्थं **चोदय** प्रेरय । **पणेश्चित्** वणिजोऽपि वार्धुषिकस्य लुब्धस्यापि **मनः** हृदयं **वि** **म्रद** दानार्थ मृदूकुरु ॥
@@ -174,7 +177,6 @@ Soften up the mind even of the niggard.
 For some reason Geldner always refuses to tr. the standing epithet of Pūṣan, ā́ghṛṇi-, though he fearlessly takes on far more challenging lexical items. The word must belong to the inherited root √ghṛ ‘be hot, burn’, etc., found only in nominal forms in Skt.; see EWA s.vv. ghṛṇá-, gharmá-. Why Pūṣan is glowing, fiery, I don’t know; perhaps it would be best to adopt Renou’s ‘ardent’.
 
 ví mrada is the only verbal form to this root in the RV, and such forms are quite rare in Vedic (ví mradate MS, mradaya- TS). (For detailed disc. see Gotō 247- 48.) The root is otherwise found in the RV only in the cmpd. ū́rṇa-mradas- ‘soft as wool, lit. having the softness of wool’ in the funeral hymn X.18.10. I wonder if mrad belongs to the technical terminology of fabric construction and therefore would fit in with Pūṣan’s connection to homely, practical activities, as in the words for ‘awl’ (or whatever ā́rā- is) and the like in this hymn. However, the TS, MS passages don’t support this speculation.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -208,8 +210,6 @@ Den Kargen auch, o glühender, o Puschan treib zum Geben an, Erweiche auch des G
 Смягчи мысль даже у скупца!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -230,7 +230,7 @@ Den Kargen auch, o glühender, o Puschan treib zum Geben an, Erweiche auch des G
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे अध्यापक, उपदेशक वा राजन् ! विद्यादि शुभगुणों की प्रवृत्ति के लिये न देनेवालों को भी दान करने के लिये प्रेरणा देओ और जुआ खेलनेवाले पाखण्डियों को मारो अर्थात् ताड़ना देओ ॥३॥
+भावार्थभाषाः -  हे अध्यापक, उपदेशक वा राजन् ! विद्यादि शुभगुणों की प्रवृत्ति के लिये न देनेवालों को भी दान करने के लिये प्रेरणा देओ और जुआ खेलनेवाले पाखण्डियों को मारो अर्थात् ताड़ना देओ ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

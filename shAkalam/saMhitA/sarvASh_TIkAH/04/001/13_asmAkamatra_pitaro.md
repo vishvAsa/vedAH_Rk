@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अत्र- अस्मिन् देवयजने स्थाने। अस्माकम्- नः। पितरः। मनुष्याः- नराः। ऋतम्- सत्यम्।  आशुषाणाः- अनुभवन्तः। अभि प्र सेदुः- अभिप्रपन्नाः। अश्मव्रजाः- जडोपलक्षिताश्मपिहिताः। ५    सुदुघाः- ज्ञानदोहनशीलाः। वव्रे अन्तः- आवरणे बद्धाः। उस्राः- गावश्चिद्रश्मयः। उषसः-  दैवप्रज्ञाः। हुवानाः- आह्वयमानाः। आजन्- निरगमयन्॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्र** लोके पूर्वे **मनुष्याः** **अस्माकं** **पितरः** अङ्गिरस: **ऋतं** यज्ञम् **आशुषाणाः** अश्नुवानाः सन्तः **अभि** **प्र** **सेदुः** अग्निमभिलक्ष्य प्रजग्मुः । तेऽङ्गिरसोऽग्निपरिचर्याबलात् **अश्मव्रजाः** पर्वतैः परिवृताः **वव्रे** । वृणोत्याच्छादयतीति वव्रं पर्वतबिलान्तर्वर्ति तमः । तस्मिन् **अन्तः** मध्ये स्थिताः **सुदुघाः** सुष्ठु दोग्ध्रीः **उस्राः** पणिभिरपहृता गाः **उत्** **आजन्** तस्माद्बिलान्निरगमयन् । किं कुर्वन्तः । तमसो विध्वंसिनीः **उषसः** देवीः प्रकाशार्थं **हुवानाः** आह्वयन्तः ॥ वव्रे । वृणोतेरौणादिकः कः ।  ‘ कृञादीनां द्वे भवतः' इति द्विर्वचनम् ॥
@@ -258,8 +261,6 @@ The curious phrase ṛtám āśuṣānā́ḥ “panting over the truth” occur
 The med. part. huvāná- is ordinarily passive in value; pace Grassmann, only VII.30.3 is clearly trans. I therefore take huvānā́ḥ here as fem. acc. pl. modifying uṣásaḥ in passive sense. The standard interpr. is masc. nom. pl. in trans. value, ‘calling to’.
 
 This would of course make just as much sense; my choice is based on the usage of the preponderance of occurrences of the stem.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
@@ -298,8 +299,6 @@ Dort sassen unsre Väter, hold den Menschen, ihm zugewandt, den heiligen entflam
 Призывая утренние зори, они выгнали коров,  
 Имевших загон в скале, хорошо доящихся в пещере.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

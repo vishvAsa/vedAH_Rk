@@ -3,7 +3,6 @@ title = "002"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत घ- अपि च। सः- असौ। रथीतमः- महारथः। सत्पतिः- सत्तापालकः। इन्द्रः। सख्या-  मित्रेण पूष्णा। युजा- सङ्गतः। वृत्राणि- आवरणानि। जिघ्नते- हन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **घ** अपि च **सः** यः शत्रूणां हन्तृत्वेन प्रसिद्धस्तादृशः रथीतमः अतिशयेन रथी महारथः **सत्पतिः** सतां पालयिता एवंगुणः **इन्द्रः** **सख्या** मित्रभूतेन पूष्णा **युजा** सहायभूतेन युक्तः सन् **वृत्राणि** शत्रून् **जिघ्नते** हन्ति । इन्द्रस्यापि अयमेव साहाय्यकारीत्यर्थः ॥
@@ -167,8 +170,6 @@ Indra, keeps smashing obstacles.
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is essentially identical to VI.57.3 in the next hymn, but there Indra’s two fallow bay horses are Indra’s companions when he smashes obstacles.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/056/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -201,8 +202,6 @@ Mit diesem Freund verbündet schlägt der starke Indra jeden Feind, Er, der am b
 Истинный господин Индра (с ним) как с другом-союзником  
 Разбивает все препятствия.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "017"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - ऋषिः - श्यावाश्वः
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षत्रम्- क्षत्रियान्। जिन्वतम्- प्रीणयतम्। नॄन्- नेतॄन्। जिन्वतम्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **क्षत्रं** क्षत्रियं **जिन्वतम्** । **उत** अपि च **नॄन्** योद्धॄन् **जिन्वतम्** । सिद्धमन्यत् ॥
@@ -253,8 +256,6 @@ Die Herrschaft segnet und die Mannen segnet auch, Gespenster schlaget, wehret al
 Единодушные с Ушас и Сурьей,  
 (Пейте) сому у выжимающего (его), о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

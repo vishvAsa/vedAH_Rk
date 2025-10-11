@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दीदिवः- दीप्त। अग्ने। समिधानस्य- सम्यगुद्दीपितस्य। ते- तव। शुक्रासः- शुभ्राः। बृहन्तः-  महान्तः। अर्चयः। उदीरते- उद्गच्छन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दीदिवः** दीप्त **अग्ने** **समिधानस्य** समिध्यमानस्य **ते** तव **बृहन्तः** महान्तः **शुक्रासः** ज्वलन्तः **अर्चयः** दीप्तयः **उत्** **ईरते** ॥
@@ -170,8 +173,6 @@ Wenn du entflammt bist, richten sich, o glanzbegabter, hell und hoch, O Agni, de
 Когда ты зажжен, о сверкающий  
 Агни, взмывают ввысь, чистые.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

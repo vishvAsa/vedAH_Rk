@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    विश्वा- सर्वाणि। द्वेषांसि- द्वेषभावनानि। जहि- नाशय। च। अव- रक्ष। च। कृधि- कुरु। विश्वे-  सर्वे देवाः। वसु- सम्पदम्। सन्वन्तु- यच्छन्तु। यत्र। सोमस्य- रसेन। तृम्पसि- तृप्यसि। तेषु।  शीष्टेषु- शिष्टेषु। ये। अंशवः- रसाः। ते। मदिरासः- तोषका भवन्तु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -274,8 +277,6 @@ Die Feinde alle schlage und verjage sie ihr Gut werd' allen uns zu Theil, Auch b
 И у шиштов есть для тебя опьяняющие стебли,  
 От которых ты насыщаешься сомой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

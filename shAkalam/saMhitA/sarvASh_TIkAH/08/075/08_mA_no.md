@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रस्नातीरिवोस्राः- क्षरन्तीर्गाव इव। कृशम्- अल्पं वत्सम्। अघ्न्याः- गावः। न- इव। नः-  अस्मान्। देवानाम्। विशः- प्रजाः। मा। हासुः- अग्निस्त्यजतु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवानां** सर्वेषां **विशः** प्रजाभूतान् परिचारकान् **नः** अस्मान् **मा** हासीत् अग्निर्मा परित्यजतु । **प्रस्नातीः** **उस्राः** **इव** पयः क्षरन्तीर्गाव इव । ता यथा न मुञ्चन्ति । उभयमपि न परित्यजत्वित्यर्थः । किमिव । **कृशम्** अल्पं स्ववत्सम् **अघ्न्याः** गावो यथा **न** **हासुः** न परित्यजन्ति तद्वत् ॥
@@ -186,10 +189,6 @@ Nicht sollten uns die Clane der Götter im Stich lassen wie die badenden Kühe i
 
 Nicht weich' von uns der Götter Schar, wie Rinder die ins Wasser gehn, Wie Kühe von dem magern Kalb.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

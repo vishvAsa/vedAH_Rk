@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "शक्वरी"
 - ऋषिः - श्यावाश्वः
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -277,6 +275,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्वानाम्- तुरगाणाम्। प्राणानाम्। गवाम्- धेनूनां रश्मीनाम्। जनिता॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वम् **अश्वानां** **जनिता** जनकः **असि** । **गवां** च **जनिता** असि । सिद्धमन्यत् ॥
@@ -322,8 +325,6 @@ Der Rosse Zeuger und der Rinder Zeuger du, den Soma trink zum Rausch, o vielfach
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

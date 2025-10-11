@@ -3,7 +3,6 @@ title = "014"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ त्वम्। मित्रमहः- महामित्र। अग्ने। नः- अस्मदर्थम्। शुक्रेण- शुभ्रेण। शोचिषा-  प्रकाशेन। देवैः। बर्हिषि- दर्भासने। आ सत्सु- आसीद॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मित्रमहः** मित्राणां पूजनीय **अग्ने** **सः** **त्वं** **शुक्रेण** ज्वलता **शोचिषा** तेजसा **देवैः** सह **बर्हिषि** यज्ञे **आ** **सत्सि** आसीद ॥
@@ -201,8 +204,6 @@ O freundereicher Agni du, mit heller Flamme setze dich Mit Göttern hin auf unsr
 О Агни с прозрачным пламенем,  
 Сядь вместе с богами на жертвенную солому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवा- देवौ। पूर्व्येण- सनातनेन। क्रतुना- सङ्कल्पेन कर्मणा प्रज्ञया वा। युख्ना- युख्नौ। यजत्रा-  पूज्यौ। युवम्- युवाम्। रथेन। तविषम्- बलं धारयन्तौ। शचीभिः- प्रज्ञाभिः। इदम्- एतत्।  तृतीयं सवनम्। नासत्या- सत्यस्वरूपौ। आ गच्छतम्। पिबाथः- सोमं पिबथः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -232,8 +235,6 @@ Ihr Götter kommt mit eurer alten Einsicht, o hehre, kraftgeschirrt an euren Wag
 Приезжайте, о Насатьи, с (вашими) милостями!  
 Пейте это третье выжимание (сомы)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

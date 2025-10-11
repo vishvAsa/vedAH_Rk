@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निसूर्यौ"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - पृषध्रः काण्वः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चिकितुः- विदुषः। अग्निः। अचेति- ज्ञायते। हव्यवाट्- हव्यवाहकः। सः- असौ। सुमद्रथः- स्वयं  गन्ता। सुमत् स्वयमिति यास्कः। अग्निः। शुक्रेण-  शुभ्रेण। शोचिषा- तेजसा। सूरः- विद्वान्।  बृहत्- महत्तया। अरोचत- प्रकाशते। दिवि- नभसि। सूर्यः। अरोचत॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -239,8 +242,6 @@ Der glänzende Agni hat sich gezeigt, der Opferfahrende, er sammt seinem Wagen; 
 Светлым пламенем солнца.  
 Солнце на небе засверкало.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

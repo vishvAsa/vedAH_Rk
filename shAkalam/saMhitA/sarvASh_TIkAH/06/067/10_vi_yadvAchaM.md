@@ -3,7 +3,6 @@ title = "010"
 devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। कीस्तासः- मेधाविनः। वाचम्- मन्त्रम्। भरन्ते- धारयन्ति। तदा। केचित्। मनानाः-  अर्थावबोधकाः। मन अवबोधने। निविदः- विदुषः। शंसन्ति- अर्थं शंसन्ति। आत्- तथा सति। ४    सत्यानि- सत्यान्। उक्था- मन्त्रान्। ब्रवाम- वदाम। महित्वा- स्वमाहात्म्येन। देवेभिः-  इतरैर्देवैः।  नकिः- न। यतथः- गच्छथः।१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा **कीस्तासः** मेधाविन उद्गातारः। उशिजः कीस्तासः' इति मेधाविनामसु पाठात् । **वाचं** स्तुतिं **वि** **भरन्ते** पृथक् उच्चारयन्ति तदा **के** **चित्** बह्वृचाः **मनानाः** अग्न्यादीन् स्तुवन्तः **निविदः** **शंसन्ति** । **आत्** तथा सति **वां** युवाभ्यां **सत्यानि** उक्थानि स्तोत्राणि वयं **ब्रवाम** । **महित्वा** महत्त्वेन **देवेभिः** अन्यैर्देवैः सह **नकिः** **यतथः** न गच्छथः ॥
@@ -255,8 +258,6 @@ Pāda d is syntactically problematic. The last two words (yatatho mahitvā́) ar
 
 rather than in its usual meaning ‘no one’, since the verb yatathaḥ is 2nd du. and cannot take ‘no one’ as subject. In order to avoid this problem, I create problems of my own. I take nákiḥ as a radically truncated sentence “No one …” This is based on the observation that one of the most common contexts in which nákis appears is as subj. of minat (etc.) ‘violate(s)’ (cf., e.g., I.69.7, IV.30.23, VI.30.2, etc.). I therefore suggest that nákiḥ here is an implicit response to the description of the behavior of bad rivals in 9b priyā́dhā́ma yuvádhitā minánti “they violate the dear ordinances ordained by you”. Here in our ritual “no one” performs such violation. With nákis out of the way, the rest of the pāda can be harmonized with the use of yatatho mahitvā́in 3d. There M+V ‘set in place’ various peoples (jánān). Here I would resupply jánān and take devébhiḥ as an instr. of accompaniment: M+V set in place the peoples along with the gods. I would prefer not to have to impose such a radical analysis on this pāda, but I find other analyses even more unsatisfactory.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -290,8 +291,6 @@ Wenn nun die Sänger ihre Stimm' erheben und andachtsvoll im Chor nach Vorschrif
 Вы не сопоставимы с богами по величию!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मित्रावरुणौ
@@ -307,12 +306,12 @@ Wenn nun die Sänger ihre Stimm' erheben und andachtsvoll im Chor nach Vorschrif
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे अध्यापक और उपदेशको ! यदि तुम दोनों (महित्वा) महिमा से (देवेभिः) विद्वानों के साथ विद्यावृद्धि के लिये (नकिः) न (यतथः) यत्न करते हो तो (वाम्) तुम दोनों के प्रति हम लोग (सत्यानि) उत्तम पदार्थों में भी उत्तम (उक्था) कहने वा सुनने के योग्य विषयों को (आत्, ब्रवाम) पीछे कहें (यत्) जो (कीस्तासः) मेधावीजन (वाचम्) वाणी को (वि, भरन्ते) विशेषता से धारण करते हैं और (के, चित्) कोई (मनानाः) विचार करते हुए (निविदः) उत्तम वाणियों की (शंसन्ति) प्रशंसा करते हैं, उनको सर्वदा तुम पढ़ाओ ॥१०॥
+पदार्थान्वयभाषाः -  हे अध्यापक और उपदेशको ! यदि तुम दोनों (महित्वा) महिमा से (देवेभिः) विद्वानों के साथ विद्यावृद्धि के लिये (नकिः) न (यतथः) यत्न करते हो तो (वाम्) तुम दोनों के प्रति हम लोग (सत्यानि) उत्तम पदार्थों में भी उत्तम (उक्था) कहने वा सुनने के योग्य विषयों को (आत्, ब्रवाम) पीछे कहें (यत्) जो (कीस्तासः) मेधावीजन (वाचम्) वाणी को (वि, भरन्ते) विशेषता से धारण करते हैं और (के, चित्) कोई (मनानाः) विचार करते हुए (निविदः) उत्तम वाणियों की (शंसन्ति) प्रशंसा करते हैं, उनको सर्वदा तुम पढ़ाओ ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  राजा और राजजनों और प्रजास्थ विद्वानों के द्वारा कौन विद्वान् अच्छी शिक्षा देने योग्य हैं, जो निष्कपटता से अपनी शक्ति के अनुकूल पढ़ाने से विद्या प्रचार न करें। और जो प्रीति के साथ विद्याओें को पाकर सर्वत्र प्रचार करते हैं, वे ही सदा सत्कार करने योग्य हैं ॥१०॥
+भावार्थभाषाः -  राजा और राजजनों और प्रजास्थ विद्वानों के द्वारा कौन विद्वान् अच्छी शिक्षा देने योग्य हैं, जो निष्कपटता से अपनी शक्ति के अनुकूल पढ़ाने से विद्या प्रचार न करें। और जो प्रीति के साथ विद्याओें को पाकर सर्वत्र प्रचार करते हैं, वे ही सदा सत्कार करने योग्य हैं ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

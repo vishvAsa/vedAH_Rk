@@ -3,7 +3,6 @@ title = "004"
 devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    अयम्- एषः। सः- असौ। पृथिव्याः- भूम्याः। वरिमाणम्- उरुत्वम्। दिवः- नभसः। वर्ष्माणम्-  वर्षकत्वम्। अकृणोत्- अकरोत्। तिसृषु। प्रवत्सु- प्रकृष्टासु। अयम्। सोमः। पीयूषम्। दाधार-  अधारयत्। उरु- विस्तृतम्। अन्तरिक्षमधारयत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** खलु **अयं** **सोमः** **यः** **पृथिव्याः** **वरिमाणम्** उरुरवं विस्तृतत्वम् **अकृणोत्** अकरोत् । तथायं सोमः **दिवः** द्युलोकस्य **वर्ष्माणं** संहतत्वं दृढत्वमकृणोदकरोत् । **अयं** सोमः **सः** हि भवति । अपि च **अयं** सोमः **तिसृषु** ओषधीष्वप्सु गोषु च **प्रवत्सु** प्रकृष्टास्वेतासु **पीयूषं** रसं **दाधार** धारयति । तथा **उरु** विस्तीर्णम् **अन्तरिक्षं** च धारयति । तथा च मन्त्रान्तरं- त्वमिमा ओषधीः सोम विश्वास्त्वमपो अजनयस्त्वं गाः । त्वमा ततन्थोर्वन्तरिक्षम् ' ( ऋ. सं. १. ९१. २२ ) इति ॥
@@ -254,8 +257,6 @@ I also now realize that the preterital tr. of dādhāra in d, matching that of G
 
 Putting this all together, I would alter the tr. of cd to “this one (upholds) his ‘beestings’ in the three “slopes” (=worlds); Soma upholds the broad midspace,” with absolutely no certainty about the rendering of c.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -288,8 +289,6 @@ Er ist es, der der Erde Breite ausmass, und der des Himmels hohe Wölbung baute;
 Он (создал) сливки в трех потоках.  
 Сома установил широкое воздушное пространство.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

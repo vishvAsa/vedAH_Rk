@@ -3,7 +3,6 @@ title = "005"
 devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः- यो यजमानः। विश्वा चर्षणीः- सर्वाणि दर्शनानि। अभि भुवः- अभितो भवति उपास्ते वा।  अस्य- एतस्य यजमानस्य उपासकस्य वा। आ श्रोषन्तु- आह्वानं समन्तात् शृण्वन्तु। सूरम्-  ज्योतिषां दर्शनानां जिज्ञासुं प्रति। चित्- एव। इषः- तस्य जिज्ञासा एव। सस्रुषीः- मन्त्रान्  चिदाकाशस्थान् श्रावयन्तु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** यजमानस्य स्तुतिं मरुतः **आ** आभिमुख्येन **श्रोषन्तु** शृण्वन्तु । **यः** मरुद्गणः **विश्वाः** **चर्षणीः** सर्वान् शत्रुभूतान्मनुष्यान् **अभि** **भुवः** अभिभवति । तादृग्गणाकारा मरुतः शृण्वन्त्वित्यर्थः। **सूरं** **चित्** स्तुतेः प्रेरयितारं यजमानमपि **इषः** मरुद्भिः प्रत्तान्यन्नानि **सस्रुषीः** प्राप्तानि भवन्तु ॥ श्रोषन्तु । श्रु श्रवणे '। लोटि • सिब्बहुलं लेटि' इति बहुलवचनात् सिप् । भुवः । भवतेर्लेटि तिपः  ‘ तिङां तिङो भवन्ति' इति सिप् । ‘लेटोऽडाटौ ' इति अडागमः ।  ‘ बहुलं छन्दसि ' इति शपो लुक् ।' भूसुवोस्तिङि' इति गुणप्रतिषेधः । सूरम् । **षू** प्रेरणे'। “ सुसूधागृधिभ्यः क्रन्' इति क्रन्प्रत्ययः । सस्रुषीः ।  ‘ स्रु गतौ ' । अस्मात् लिटः क्वसुः ।  ‘ उगितश्च ' इति ङीप् । भसंज्ञायां  ‘ वसोः संप्रसारणम् ' इति संप्रसारणम् । शासिवसिघसीनां च ' इति षत्वम् । जसि  ‘ वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् ॥ ॥ ११ ॥
@@ -176,8 +179,6 @@ His are the refreshing drinks that have run even to the sun.
 <details><summary>Jamison Brereton Notes</summary>
 
 The condensed expression of the earlier part of the hymn continues here, and there is no consensus on how to construe pāda c, which has no overtly signaled connection with the rest of the verse. For example, Geldner takes it as a simile, marked by cid, with its comparandum in pāda b (roughly, “who dominates the peoples like the flowing nourishments the sun”). But even if cid could mark similes (and I don’t think it can), the simile doesn’t make sense. I will not rehash here the various possibilities floated by other interpretations. My own generally follows Renou’s in supplying asyá from 1a as the oblique predicate of a possessive nominal sentence: “(his) are …” It would also be possible to take the perfect participle sasrúṣīḥ as the predicate: so Witzel Gotō “Sogar zur Sonne sind (seine) Nahrungen gelaufen (erreicht),” but the exact value of such a predicated perfect participle eludes me.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -211,8 +212,6 @@ Ihm muss gehorchen alle Welt, der über alle Menschen ragt, Sein Opfer dringt zu
 (Пусть будут послушны) жертвенные услады, восходящие до самого солнца.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -233,7 +232,7 @@ Ihm muss gehorchen alle Welt, der über alle Menschen ragt, Sein Opfer dringt zu
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो मनुष्य अच्छी शिक्षा से युक्त, अच्छे प्रकार परीक्षित, शुभलक्षणयुक्त, सम्पूर्ण विद्याओं का वेत्ता, दृढ़ाङ्ग, अतिबली, पढ़ानेहारा, श्रेष्ठ सहाय से सहित, पुरुषार्थी धार्मिक विद्वान् है, वही धर्म, अर्थ, काम और मोक्ष को प्राप्त होके प्रजा के दुःख का निवारण कर पराविद्या को सुनके प्राप्त होता है, इससे विरुद्ध मनुष्य नहीं ॥ ५ ॥
+भावार्थभाषाः -  जो मनुष्य अच्छी शिक्षा से युक्त, अच्छे प्रकार परीक्षित, शुभलक्षणयुक्त, सम्पूर्ण विद्याओं का वेत्ता, दृढ़ाङ्ग, अतिबली, पढ़ानेहारा, श्रेष्ठ सहाय से सहित, पुरुषार्थी धार्मिक विद्वान् है, वही धर्म, अर्थ, काम और मोक्ष को प्राप्त होके प्रजा के दुःख का निवारण कर पराविद्या को सुनके प्राप्त होता है, इससे विरुद्ध मनुष्य नहीं ॥ ५ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

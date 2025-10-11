@@ -3,7 +3,6 @@ title = "020"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विरूप आङ्गिरसः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदब्धस्य- अहिंस्यस्य। स्वधावतः- आत्मवतः। दूतस्य। रेभतः- मन्त्रवतः। अग्नेः। सदा।  सख्यम्- मैत्रीम्। वृणीमहे- वृणीमः॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **अदब्धस्य** केनाप्यहिंसितस्य **स्वधावतः** बलवतः **दूतस्य** देवानां **रेभतः** देवान् स्तुवतस्तव **सख्यं** **सदा** वयं **वृणीमहे** ॥ ॥ ३९ ॥
@@ -161,8 +164,6 @@ Des Agni Freundschaft wünschen wir, der truglos ist, voll eigner Kraft, Des Bot
 Которого нельзя обмануть, самовластного,  
 Вестника, громко звучащего.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

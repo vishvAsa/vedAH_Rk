@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - स्वस्त्यात्रेयः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)
 _________
 **Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्रावरुणा- हे मित्रावरुणौ। रेवति- सम्पद्वन्। पथ्ये- सन्मार्गे। इन्द्रश्चाग्निश्च- हे इन्द्राग्नी।  अदिते- अखण्डप्रकृते। नः- अस्मभ्यम्। स्वस्ति। कृधि- कुरु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मित्रावरुणा** अहोरात्राभिमानिदेवौ **स्वस्ति** कुरुतम् । हे **पथ्ये**। पन्थाः अन्तरिक्षमार्गः । तत्र हिता मार्गाभिमानिनी देवी । हे तादृशि **रेवति** धनवति देवि **स्वस्ति** कृधि । **इन्द्रश्चाग्निश्च** प्रत्येकं **नः** अस्मभ्यं **स्वस्ति** कृधि । हे **अदिते** देवि **नः** **स्वस्ति** **कृधि** कुरु ॥
@@ -260,8 +263,6 @@ Schafft Heil uns, Mitra, Varuna und Heil, o reicher Himmelsraum, Und Indra uns u
 Благо (пусть принесут нам) Индра и Агни!  
 Благо, Адити, нам создай!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

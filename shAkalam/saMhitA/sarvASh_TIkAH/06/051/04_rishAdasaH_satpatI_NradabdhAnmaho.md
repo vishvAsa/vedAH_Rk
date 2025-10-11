@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रिशादसः- शत्रुबाधकान्। सत्पतीन्- सत्तापालकान्। अदब्धान्- अहिंस्यान्। महः- महतः।  राज्ञः- राजमानान्। सुवसनस्य- सुनिवासस्य। दातॄन्- दायकान्। यूनः- तरुणान्। सुक्षत्रान्-  शोभनक्षत्रियान्। दिवः क्षयतः- स्वर्गेश्वरान्। नॄन्- नेतॄन्। आदित्यान्- अखण्डप्रकृतिजान्।  अदितिम्- अखण्डप्रकृतिम्। दुवोयु- परिचरणकामाम्। यामि- प्रपद्ये॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रिशादसः** रिशतां हिंसकानामसितॄन् क्षेप्तॄन् यद्वा रिशानां हिंसकानामत्तॄन् भक्षयितॄन् **सत्पतीन्** सतां पालयितॄन् **अदब्धान्** अहिंसितान् **महः** महतः **राज्ञः** राजमानानीश्वरान् वा **सुवसनस्य** शोभननिवासस्य **दातॄन्** **यूनः** नित्यतरुणान् **सुक्षत्रान्** शोभनधनान् शोभनबलान् वा **क्षयतः** सर्वत्र निवसतः। यद्वा । क्षयतिरैश्वर्यकर्मा । ईशानान् **दिवः** द्युलोकस्य **नॄन्** नेतॄन् **आदित्यान्** अदितेः पुत्रान् । ईदृशान् सर्वान् देवान् **दुवोयु** । लुप्तविभक्तिकमेतत् । दुवोयुं दुवोऽस्मदीयं परिचरणं कामयमानाम् **अदितिं** देवमातरं च **यामि** प्राप्नोमि । यद्वा । यामि याचामि ॥
@@ -232,9 +235,9 @@ the youths of good rule ruling over Heaven, the superior men—the
 
 <details><summary>Jamison Brereton Notes</summary>
 
-I follow Geldner (as well as Thieme Fremdling, Oberlies I.344, etc.) in rendering suvasaná- as ‘good dwelling’, against some potentially good arguments to the contrary. The stem is attested only once elsewhere, IX.97.50 in the phrase vástrā suvasanā́ni, where it clearly refers to good garments (√vas ‘wear, clothe’), and the base of our cmpd, vásana- (a hapax), likewise only means clothing. Citing these words, as well as vastra-dā́- ‘giving garments’ (V.42.8; like our phrase suvasanásya dātṝ́n), Renou holds firm to “donateurs de bonne vêture” (so also Grassmann). But sátpatīn ‘lords of settlements’ in the preceding pāda supports a ‘dwelling’ interpr., and it would be easy to form such a deriv. to the well-attested root √vas ‘dwell’. (Note that the derivatives that would support the ‘clothing’ sense are found in that sense only once apiece, so do not seem well established enough to block such a formation.) Geldner construes diváḥ with nṝ́n and take kṣáyataḥ absolutely: “die mächtigen Herrn des Himmels.” As in vs. 2, Renou seems to have changed his mind (a phenomenon I know well; witness this comm.) between the comm. fascicle (EVP IV) and the tr.
+I follow Geldner (as well as Thieme Fremdling, Oberlies I.344, etc.) in rendering suvasaná- as ‘good dwelling’, against some potentially good arguments to the contrary. The stem is attested only once elsewhere, IX.97.50 in the phrase vástrā suvasanā́ni, where it clearly refers to good garments (√vas ‘wear, clothe’), and the base of our cmpd, vásana- (a hapax), likewise only means clothing. Citing these words, as well as vastra-dā́- ‘giving garments’ (V.42.8; like our phrase suvasanásya dātṝ́n), Renou holds firm to “donateurs de bonne vêture” (so also Grassmann). But sátpatīn ‘lords of settlements’ in the preceding pāda supports a ‘dwelling’ interpr., and it would be easy to form such a deriv. to the well-attested root √vas ‘dwell’. (Note that the derivatives that would support the ‘clothing’ sense are found in that sense only once apiece, so do not seem well established enough to block such a formation.) Geldner construes diváḥ with nṝ́n and take kṣáyataḥ absolutely: “die mächtigen Herrn des Himmels.” As in vs. 2, Renou seems to have changed his mind (a phenomenon I know well; witness this comm.) between the comm. fascicle (EVP IV) and the tr.
 
-fascicle (EVP V): in the former he comments of kṣáyataḥ “emploi absolu,” but in the latter tr. “seigneurs résidants du ciel,” with diváḥ dependent on the participle. He evidently assigns the participle to ‘dwell’, though the participle of the root pres. to that root is only kṣiyánt-, while kṣáyant- belongs to kṣáya- ‘rule over’. (Curiously he correctly interpr. the finite kṣáyatha in 7c as “vous régnez.”) Geldner (etc.) must base their interpr. on the existence of the phrase divó náraḥ / nṝ́n, but though this collocation is attested elsewhere (e.g., V.54.10, VI.2.3, VI.2.11=14.6), it is not a particularly common expression, and √kṣi ‘rule over’ regularly takes a genitive, incl. in 7c víśvasya hí kṣáyatha “for you rule over all,” a phrase Renou in fact cites in his comm. _________
+fascicle (EVP V): in the former he comments of kṣáyataḥ “emploi absolu,” but in the latter tr. “seigneurs résidants du ciel,” with diváḥ dependent on the participle. He evidently assigns the participle to ‘dwell’, though the participle of the root pres. to that root is only kṣiyánt-, while kṣáyant- belongs to kṣáya- ‘rule over’. (Curiously he correctly interpr. the finite kṣáyatha in 7c as “vous régnez.”) Geldner (etc.) must base their interpr. on the existence of the phrase divó náraḥ / nṝ́n, but though this collocation is attested elsewhere (e.g., V.54.10, VI.2.3, VI.2.11=14.6), it is not a particularly common expression, and √kṣi ‘rule over’ regularly takes a genitive, incl. in 7c víśvasya hí kṣáyatha “for you rule over all,” a phrase Renou in fact cites in his comm. _________
 **05**  
 This vs. consists primarily of a string of vocatives, plus a couple of 2nd pl.
 
@@ -265,8 +268,6 @@ Die unbethörten Herrscher, Feindvertilger, die grossen Fürsten, Geber schöner
 Адитьев я молю (и) Адити, полный почтения.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -282,7 +283,7 @@ Die unbethörten Herrscher, Feindvertilger, die grossen Fürsten, Geber schöner
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे मैं (रिशादसः) हिंसक वा नाश करनेवाले वा (सत्पतीन्) सत्य के पालनेवाले वा (अदब्धान्) विनाश को न प्राप्त हुए उनको वा न हिंसनेवाले वा (सुवसनस्य) सुन्दर वास के (दातॄन्) देनेवाले वा (सुक्षत्रान्) उत्तम धन और राज्यों को वा (अदितिम्) अखण्डित नीति को (क्षयतः) स्थिर होते हुए (दिवः) कामना करने योग्य और काम करने वा (नॄन्) मनुष्यों वा (आदित्यान्) किया है अड़तालीस वर्ष ब्रह्मचर्य्य जिन्होंने उन वा (यूनः) जवान मनुष्यों वा (दुवोयु) सेवन की कामना करनेवालों को तथा (महः) महान् (राज्ञः) राजाओं को मैं (यामि) प्राप्त होता हूँ, वैसे ऐसों को तुम भी प्राप्त होओ ॥४॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे मैं (रिशादसः) हिंसक वा नाश करनेवाले वा (सत्पतीन्) सत्य के पालनेवाले वा (अदब्धान्) विनाश को न प्राप्त हुए उनको वा न हिंसनेवाले वा (सुवसनस्य) सुन्दर वास के (दातॄन्) देनेवाले वा (सुक्षत्रान्) उत्तम धन और राज्यों को वा (अदितिम्) अखण्डित नीति को (क्षयतः) स्थिर होते हुए (दिवः) कामना करने योग्य और काम करने वा (नॄन्) मनुष्यों वा (आदित्यान्) किया है अड़तालीस वर्ष ब्रह्मचर्य्य जिन्होंने उन वा (यूनः) जवान मनुष्यों वा (दुवोयु) सेवन की कामना करनेवालों को तथा (महः) महान् (राज्ञः) राजाओं को मैं (यामि) प्राप्त होता हूँ, वैसे ऐसों को तुम भी प्राप्त होओ ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

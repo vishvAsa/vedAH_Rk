@@ -3,7 +3,6 @@ title = "003"
 devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -241,6 +239,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाम्- युवयोः। कृतम्- रचितं कर्म। तत्। पनाय्यम्- स्तुत्यम्। दिवः- नभसः। पृथिव्याः- भूम्या  अधि। रजसः- उदकस्य। वृषभः- वर्षकः। गविष्टौ- चिद्रश्म्येषणे। सहस्रम्- अनन्ताः। शंसाः-  स्तुतिपूर्वकरसाः। ये समर्पिताः। तान्। सर्वान्- सकलान्। पिबध्यै- अनुभवितुम्। उप यात-  आगच्छतम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -287,8 +290,6 @@ Zu rühmen ist, o Ritter, dies eur Kunstwerk: der Stier der Luft, des Himmels un
 А также тысячи хвалебных речей, которые (произносятся) при поисках коров -  
 Приезжайте ко всем ним, чтобы пить!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

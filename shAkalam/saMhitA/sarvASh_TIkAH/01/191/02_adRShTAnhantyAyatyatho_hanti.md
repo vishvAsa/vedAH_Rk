@@ -3,7 +3,6 @@ title = "002"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 adŕ̥ṣṭān ← adŕ̥ṣṭa- (nominal stem)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आयती- ओषधिरन्तिके सती। अदृष्टान्- अदृश्यमानान्। हन्ति- रसेन नाशयति। अथो- अपि  च। परायती- दूरे सती। वातेन हन्ति। अथो। अवघ्नती- अवहन्यमाना सती। हन्ति। अथो।  पिंषति- पिष्यमाणा। पिनष्टि- चूर्णीकरोति। ओषधिः सात्त्विकभौमभोगश्चित्तसमाधानदो  दैवप्रतीकोऽत्यन्तरत्याख्यविषनिवारकः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अनेन विषघ्न्योषधिः स्तूयते । **आयती** विषदष्टस्य सकाशमागच्छन्ती विषनिर्हरणसाधनौषधिः **अदृष्टान्** अदृश्यमानान्विषधरान् **हन्ति** हिनस्ति । **अथो** अपि च **परायती** परागच्छन्ती संमार्जनसमये अर्वाक्प्रवृत्ता **हन्ति** नाशयति जलचरविषधरान् । अथो अपि च अवघ्नती । कर्मणि
@@ -224,8 +227,6 @@ Die herankommende tödtet das unbemerkte Gewürm und[461] ebenso die fortgehende
 И также низвергаясь убивает,  
 И также давит давя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

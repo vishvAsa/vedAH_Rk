@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - मेध्यः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -180,6 +178,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। आयुम्- मनुष्यम्। कुत्सम्- कर्मशीलम्। अतिथिग्वम्- अतिथिपूजकम्। दिवेदिवे-  प्रतिदिनम्। वावृधानः- वर्धमानः। अर्दयः- तपसा अतापयः। तम्। त्वा- त्वाम्। वयम्। हर्यश्वम्-  प्राणाश्वसम्पन्नम्। शतक्रतुम्- अनन्तप्रज्ञम्। वाजयन्तः- बलकामाः। हवामहे- आह्वयामः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -217,8 +220,6 @@ Der Aju, Kutsa und den Atithigva du bedrängt hast, wachsend Tag für Tag, Der h
 Тебя, такого, повелителя буланых коней, стоумного,  
 Мы зовем, жаждя награды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

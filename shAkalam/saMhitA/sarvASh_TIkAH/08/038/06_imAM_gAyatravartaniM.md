@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमाम्- एतत्। गायत्रवर्तनिम्- गायत्रसाममार्गगम्। सुष्टुतिम्- शोभनं स्तोत्रम्। मम- मे।  जुषेथाम्- सेवेथाम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** नरौ युवां **मम** **गायत्रवर्तनिं** गायत्रमार्गाम् **इमां** **सुष्टुतिं** शोभनां स्तुतिं **जुषेथां** सेवेथाम् । **आ** **गतं** च ॥ ॥ २० ॥
@@ -191,8 +194,6 @@ Nehmt dies mein Lob in Gnaden an, das sich in Liedes Mass bewegt, O Männer, Ind
 Прекрасной хвалой моей наслаждайтесь!  
 О Индра-Агни, приезжайте, о два мужа!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

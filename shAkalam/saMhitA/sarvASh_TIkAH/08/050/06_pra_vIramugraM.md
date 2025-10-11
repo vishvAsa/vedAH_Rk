@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - पुष्टिगुः काण्वः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वीरम्- वीर्यसम्पन्नम्। उग्रम्- उद्गूर्णम्। विविचिम्- विवेकिनम्। धनस्पृतम्- धनदम्। महः-  महत्याः। राधसः- संसिद्ध्याः। विभूतिम्। भजे। उद्री- उदकवान्। अवतः- कूपः। इव। वज्रिन्-  वज्रपाणे। वसुत्वना- वसुदानेन। सदा- सततम्। दाशुषे- दातारम्। पीपेथ- आप्याययसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -241,8 +244,6 @@ Den Helden preist, der viel umfasst und Beute macht, der über grossen Schatz ve
 Словно богатый водой колодец, о громовержец, от полноты добра  
 Ты всегда набухаешь для почитающего (тебя).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "015"
 devataa = "आदित्या उषाश्च"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - त्रित आप्त्यः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 gha ← gha (invariable)  
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दुहितर्दिवः- हे उषः। निष्कं कृणवते- सुवर्णकाराय। स्रजं कृणवते- मालाकाराय। यद्दुष्ष्वप्न्यमस्ति  तत्। त्रिते। आप्त्ये- आप्तहितकारिणीति वैदिककोशे। वर्तमानम्। सर्वम् । परि दुद्मः-  परित्यजामः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दिवः** **दुहितः** उषः **निष्कं** वा **घ** आभरणविशेषं वा **कृणवते** कुर्वते स्वर्णकाराय यत् **दुष्वप्न्यं** दृष्टम् । स्वर्णकारेण निर्माणसमये दृष्टमित्यर्थः । घेति पूरणः । वाशब्दश्चार्थे । **वा** अथवा **स्रजं** माल्यं कृणवते । कुर्वाण इत्यर्थः । तस्मिन्नपि मालाकारे मालानिर्माणसमये यद्दुष्वप्न्यं दृष्टं तदुभयविषयं दुःस्वप्नम् **आप्त्ये** अपां पुत्रे **त्रिते** वर्तमानं **परि** **दद्मसि** उपरि दद्मः । वयं त्रिताः परित्यजामेत्यर्थः । अथवा । त्रिते मयि यत् दुष्वप्न्यं दृष्टं तत् स्वर्णकाराय मालाकाराय वा परि दद्मसि । अस्मत्तोऽपि निष्कृष्य तयोरुपरि स्थापयामः ॥ ॥ ९ ॥
@@ -303,8 +306,6 @@ Legt er sich einen Halsschmuck an und Blumenkranz, o Himmelskind, zu Trita Aptia
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

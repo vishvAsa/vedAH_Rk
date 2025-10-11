@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदु- अथ। अजातशत्रुः- अशत्रुः। अस्तृतः- अहिंस्यः। निवरः- आवरणनिवारकः। भुवत्-  अभवत्। वृत्रहा- आवरणबाधकः। मे- मदर्थम्। पौंस्यम्- वीर्यम्। आदिष्ट- आदिदेश॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आदु** इत्यवधारणे । देवानां भीत्या सर्वतो गमनानन्तरमेव **मे** स्तोतृस्तुत्यलक्षणेन संबन्धेन मम संबन्ध्ययमिन्द्रः **निवरः** वृत्रासुरस्य निवारयिता हन्ता **भुवत्** अभवत् । ततः **वृत्रहा** वृत्रस्य हन्तेन्द्रः **पौंस्यम्** । पुंसः कर्म पौंस्यम् । यद्वा । स्त्रीपुंसाभ्याम् (पा. सू. ४. १. ८७ ) इति भवार्थे स्रञ्   । नकारस्य यकारो वर्णव्यत्ययेन । पुंसीन्द्रे भवम् । यद्वा । बलनामैतत् । स्वबलम् ॥ **अदिष्ट** तस्य राज्ये दिशति निदधाति । तद्राज्यं स्ववशमकरोदित्यर्थः । ततः प्रभृतीन्द्रः **अजातशत्रुः** अनुत्पन्नशत्रुः **अस्तृतः** संग्रामे परैरहिंसितश्चाभवत् ॥ ॥ २३ ॥
@@ -174,8 +177,6 @@ he for whom no rival has been born, he who cannot be laid low.
 <details><summary>Jamison Brereton Notes</summary>
 
 Judging from Geldner’s tr. of the first pāda, “Davor sei mir Bewahrung,” he takes ā́t as an ablative pronoun referring to ámaḥ in 14c (his “Panik,” my “onslaught”), but as far as I can tell, ā́t is elsewhere only adverbial, as opposed to the fuller pronominal form asmā́t. I also question his modal, indeed imperatival interpretation of bhuvat in this preterital context; thematic forms belonging originally to the root aorist stem (á)bhū- can be either subjunctive or a secondarily thematicized injunctive. See Hoffmann 1967 passim, esp. 214-15.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -201,10 +202,6 @@ Davor sei mir Bewahrung! Der Vritratöter hat seine Manneskraft erwiesen, er dem
 
 Auch da war er Beschützer mir, und Kraft erwies der Vritrafeind, Unwiderstehlich, unbesiegt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

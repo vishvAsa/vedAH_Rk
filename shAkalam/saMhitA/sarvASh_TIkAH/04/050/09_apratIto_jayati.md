@@ -3,7 +3,6 @@ title = "009"
 devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। राजा। अवस्यवे- रक्षाकामाय। ब्रह्मणे- बृहस्पतये। वरिवः- हव्यानि। कृणोति- करोति।  सः। अप्रतीतः- अप्रतिगतः। प्रतिजन्यानि- शात्रवाणि। सजन्या- मैत्राणि। धनानि। सम्-  सम्यक्। जयति। तम्। देवाः- देवताः। अवन्ति- रक्षन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 स एव **अप्रतीतः** अन्यैरप्रतिगतः सन् यानि धनानि **प्रतिजन्यानि** प्रतिस्पर्धिजनसंबन्धीनि **उत** अपि च **सजन्या** जनसंबन्धीनि **धनानि** **सं** **जयति**। **यः** **राजा** **अवस्यवे** अवसीयसे धनरहिताय रक्षणमिच्छते **ब्रह्मणे** ब्राह्मणाय वा प्रीणनमिच्छते बृहस्पतये वा **वरिवः** धनं **कृणोति** करोति ददाति । स उक्तप्रकारेण महान् भवति । **तम्** एव **देवाः** **अवन्ति** रक्षन्ति ॥
@@ -242,7 +245,6 @@ The king who makes wide space for the Formulator seeking aid, him do  the gods a
 <details><summary>Jamison Brereton Notes</summary>
 
 The shift from divine to human just noted above in vss. 7-8 comes full circle in this vs. The human Formulator is, it seems, in need of aid from the king (avasyáve … brahmáṇe), but if the king provides this aid he himself receives aid from the gods (tám avanti devā́ḥ).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -281,8 +283,6 @@ Unbesiegt gewinnt er alle Schätze der Gegner und den Verwandten; den König, we
 Царю, который создает широкий выход  
 Для брахмана, ищущего помощь, помогают боги.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

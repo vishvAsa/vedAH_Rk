@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। विश्वेभिः- सर्वाभिः। अग्निभिः- त्वत्प्रणालीभिः। इधानः- उद्दीपितः। सः- असौ। त्वम्।  अर्वन्- प्राणभूत। नः- अस्मान्। निदायाः- निन्दाया अपगमय। रायः- दानयोग्यधनानि। वेषि-  कामयसे। दुच्छुनाः- दुःखकारिणीः। वि यासि- विविधं गमयसि। सुवीराः- शोभनवीर्यसम्पन्नाः।  शतहिमाः- शतायुषः। मदेम- तुष्येम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अर्वन्** गन्तः **अग्ने** **सः** तादृशः **त्वं** **निदायाः** निन्दित्र्याः प्रजाया निन्दाया एव वा पाहीति शेषः । कथंभूतः सन् । **विश्वेभिः** सर्वैः **अग्निभिः** त्वच्छाखाभूतैः **इधानः'** इध्यमानः सन् । **रायः** धनानि चास्मान् **वेषि** गमय प्रापय । यद्वा । हविर्लक्षणानि धनानि वेषि कामयसे । **दुच्छुनाः** दुःखकारिणीः शत्रुसेनाः **वि** **यासि** च विविधं गमयसि च । वयं च **सुवीराः** शोभनपुत्रपौत्राः सन्तः **शतहिमाः** शतं संवत्सरान् **मदेम** मोदेम ॥ ॥ १४ ॥
@@ -242,7 +245,6 @@ You pursue riches; you drive across misfortunes. – Having good heroes  might w
 <details><summary>Jamison Brereton Notes</summary>
 
 In the first pāda as transmitted (metrically faulty), there is a hapax nídāyā(ḥ) supposed built to a fem. nídā- ‘scorn’. There is no verb to govern this word, so “protect” vel sim. must be supplied. Geldner adduces nearby VI.14.5 nidáḥ … uruṣyáti, while Grassmann suggests II.34.15 nidó muñcátha. I am now somewhat more sympathetic to these makeshifts than I was when I produced the published translation, but the fact remains that protection from scorn would be rather intrusive in the passage, in a hymn that focuses almost exclusively on Agni’s travel and speed. In the published translation I suggest a different analysis of the sequence, which I still favor: arvann íd *ā́yāḥ, resegmenting the Pp. analysis and taking āyā(ḥ) to ā́√yā ‘drive here’. This requires an alteration of the Saṃhitā text by accenting ā́yāḥ. The posited verb form could be an impf., injunc., or subj. to the root pres. to this root, or an indic. or injunc. to the s-aorist. Since no other such forms occur unambiguously in the RV, it could have been reanalyzed and lost accent. For a possibly similar form see yā́(ḥ) in V.33.2 and comm. ad loc. Although the particle íd would be slightly oddly positioned after a voc., it is fairly regular in pre-verbal position when the verb is final in its pāda (e.g., in this maṇḍala
-
 
 > 19.13
 śátroḥ-śatror úttara ít syāma, 42.3 dhr̥ṣát tám-tam íd éṣate, 45.7 yó grṇ̥ atā́m íd ā́sitha).
@@ -276,8 +278,6 @@ Befreie uns, o Renner, von Verleumdung, o Agni du, entflammt durch alle Feuer; B
 Пусть мы ликуем, живя сто зим, имея прекрасных мужей!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -293,12 +293,12 @@ Befreie uns, o Renner, von Verleumdung, o Agni du, entflammt durch alle Feuer; B
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अर्वन्) घोड़े की सदृश शीघ्र चलाते हुए (अग्ने) अग्नि के सदृश प्रतापी जिस कारण से (त्वम्) आप (विश्वेभिः) सम्पूर्ण (अग्निभिः) बिजुली आदिकों से (इधानः) निरन्तर प्रकाशमान (नः) हम लोगों की (निदायाः) निन्दा करते हुए प्रजाजन के (रायः) धनों को (वेषि) व्याप्त होते हो और (दुच्छुनाः) दुष्ट श्वा के सदृश वर्त्तमान सेनाओं को (वि, यासि) विशेष प्राप्त होते हो (सः) वह आप और हम लोग (शतहिमाः) सौ हिम वर्ष जिनके वे (सुवीराः) सुन्दर वीर जन (मदेम) हर्षित होवें ॥६॥
+पदार्थान्वयभाषाः -  हे (अर्वन्) घोड़े की सदृश शीघ्र चलाते हुए (अग्ने) अग्नि के सदृश प्रतापी जिस कारण से (त्वम्) आप (विश्वेभिः) सम्पूर्ण (अग्निभिः) बिजुली आदिकों से (इधानः) निरन्तर प्रकाशमान (नः) हम लोगों की (निदायाः) निन्दा करते हुए प्रजाजन के (रायः) धनों को (वेषि) व्याप्त होते हो और (दुच्छुनाः) दुष्ट श्वा के सदृश वर्त्तमान सेनाओं को (वि, यासि) विशेष प्राप्त होते हो (सः) वह आप और हम लोग (शतहिमाः) सौ हिम वर्ष जिनके वे (सुवीराः) सुन्दर वीर जन (मदेम) हर्षित होवें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यों को चाहिये कि सम्पूर्ण अग्नि आदि पदार्थों से कार्य्यों को सिद्ध करके जो न्याय की आज्ञा से विरुद्ध प्रजाजन हैं, उनको ताड़न करके शान्त सम्पादित करें, क्योंकि इस प्रकार न्याय के आचरण से सम्पूर्ण जन सौ वर्ष युक्त होते हैं ॥६॥ इस सूक्त में विद्वान्, राजा और प्रजा के गुणवर्णन करने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह बारहवाँ सूक्त और चौदहवाँ वर्ग समाप्त हुआ ॥
+भावार्थभाषाः -  मनुष्यों को चाहिये कि सम्पूर्ण अग्नि आदि पदार्थों से कार्य्यों को सिद्ध करके जो न्याय की आज्ञा से विरुद्ध प्रजाजन हैं, उनको ताड़न करके शान्त सम्पादित करें, क्योंकि इस प्रकार न्याय के आचरण से सम्पूर्ण जन सौ वर्ष युक्त होते हैं ॥६॥ इस सूक्त में विद्वान्, राजा और प्रजा के गुणवर्णन करने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह बारहवाँ सूक्त और चौदहवाँ वर्ग समाप्त हुआ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

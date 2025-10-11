@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सर्गेषु- प्रेरणेषु। प्रस्तुभानः- प्रोत्साहितः। वाजी- अश्वः। न- इव। अग्ने- पावक। ऋतेन-  प्रकृतिनियतिभूतसत्येन सहिताः। अमृताः- अमरणशीलाः। अमृख्नाः- अबाधिताः। देवीः- देव्यः।  मधुमद्भिः- मधुरैः। अर्णोभिः- जीवोदकैः। आपः- नद्यः। सदमित्- सदैव। स्रवितवे- स्रवणाय।  प्र दधन्युः- प्रगच्छन्ति। अर्णवनद्यापःपदानि श्रुतौ पर्यायाण्याध्यात्मिके  मूलशख्निधाराद्योतकानि॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **अमृताः** अमरणहेतवः **अमृक्ताः** रक्षःप्रभृतिभिरबाधिताः **मधुमद्भिः** माधुर्योपेतैः **अर्णोभिः** उदकैर्युक्ताः **देवीः** देव्यो नद्यः **ऋतेन** सत्येन यज्ञेन वा हेतुना **आपः** आप्तव्याः सत्यः **सदमित्** सदैव **स्रवितवे** स्रवणाय **प्र** **दधन्युः** प्रगच्छन्ति । तत्र दृष्टान्तः । **वाजी** **न** । यथा **सर्गेषु** प्रेरणेषु **प्रस्तुभानः** प्रोत्साह्यमानः अश्वः प्रगच्छति तद्वत् ॥ आपः।  ‘ आप्लृ व्याप्तौ ।  ‘ आप्नोतेः क्विप् ह्रस्वश्च ' इति कर्मणि क्विप् । 'अप्तृन्' इत्यादिना जसि दीर्घः । प्रस्तुभानः । स्तोभतिरर्चतिकर्मा ॥
@@ -229,8 +232,6 @@ The athem. mid. part. -stubhāná- is isolated, beside the act. them. 1st cl. pr
 stóbhati, and it is therefore impossible to determine its exact value -- including whether it is passive (so, e.g., Oldenberg [SBE], Geldner, Renou) or not. Gotō (1st cl., 332 and n.
 
 808) argues against such a value, on the basis of the intrans. sense of the root, and I have followed him in the non-passive assessment. My tr. “beat a tattoo” reflects my sense that √stubh is associated esp. with rhythm. As for sárga-, lit. ‘surge, gush’, it can refer to the instant when the surge is released, hence here the start of a race.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
@@ -269,8 +270,6 @@ Durch Recht auch strömten unversehrt, unsterblich die Wasser vor mit honigsüss
 Словно конь, добывающий награду, поощряемый криками на скачках,  
 Помчались вперед, чтобы течь вечно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

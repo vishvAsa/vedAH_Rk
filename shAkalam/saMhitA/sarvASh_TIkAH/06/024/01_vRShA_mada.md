@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमेषु- रसेषु निमित्तेषु। इन्द्रे- ईशनाधिदैवते सङ्गतः। उक्था- शस्त्रैः। सचा- सहितः। श्लोकः।  वृषा- वर्षकः। मदः- हर्षकरो भवति। सुतपाः- रसानुभवकरः। ऋजीषी- वृत्राणामपार्जकः।  उक्थैः- मन्त्रैः। अर्चत्र्यः- अर्चनीयः। नृभ्यः- मनुष्येभ्यः।  मघवा- सम्पद्वान्। द्युक्षः-  द्युलोकनिवासी। गिराम्- वाचाम्। अक्षितोतिः- अक्षीणरक्षकः। राजा- स्वामीन्द्रो भवति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमेषु** सोमवत्सु यागेषु **इन्द्रे** सोमपानजनितः मदः वृषा यजमानस्य कामानां वर्षको भवति । यद्वा । सर्वजनाह्लादकस्य वर्षणस्य कर्ता भवति । **उक्था** उक्थेन शस्त्रेण **सचा** सह **श्लोकः** स्तोत्ररूपः शब्दः वृषा भवति । सुतपाः अभिषुतस्य सोमस्य पाता **ऋजीषी** ऋजीषं गतरसमपि सोमं न परित्यजन् **मघवा** धनवान् स चेन्द्रः **नृभ्यः** स्तुतीनां नेतृभ्यः **उक्थैः** स्तोत्रैः **अर्चत्र्यः** अर्चनीयो भवति । **द्युक्षः** द्युलोकनिवासः **गिरां** स्तुतीनां **राजा** ईश्वर इन्द्रः **अक्षितोतिः** अक्षीणरक्षश्च भवति ॥
@@ -233,8 +236,6 @@ He is worthy to be chanted by men with solemn words as the bounteous  one, the h
 That avīḥ of c is also the verb of d is suggested by passages like I.110.9 vā́jebhir no vā́jasātau aviḍḍhi, VIII.46.11 dhíyo vā́jebhir āvitha with √av and an instr.
 
 of vā́ja- ‘prize’.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -268,8 +269,6 @@ Stark ist bei Indra Rauschtrank, Lob und Sprüche, bei Somaspenden stark der gie
 Его надо воспевать для мужей как щедрого в гимнах,  
 Небесного царя хвалебных песен, чья помощь не иссякает.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। शर्वा- वज्रपाणिः। शश्वतः- बहून्। महि- महत्। एनः- पापम्। दधानान्- धारयतः।  अमन्यमानान्- अविदुषः। जघान- हिंसितवान्। यः। शर्धते- बलिने पापिने। शृध्याम्- शख्निम्।  नानुददाति- नानुप्रयच्छति। यः। दस्योः- स्तेनभावनायास्तेनस्य वा। हन्ता- बाधकः। स जनास  इन्द्रः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यः महिमहत् एनः पापन्दधानान् शश्वतोबहून् अमन्यमानान् आत्मानमजानतः इन्द्रमपूजयतो- वाजनान् शर्वा श्रृणातिशत्रूननेनेतिशरुर्वज्रः तेनायुधेनजघान हन्तेर्लिटिरूपं यश्चशर्धतेउत्साहङ्कुरुते अनात्मज्ञायजनायश्रृध्यां उत्साहनीयङ्कर्मनानुददाति नप्रयच्छति अनुपूर्वात् हृदाञ् दाने जौहोत्या- दिकः अभ्यस्तानामादिरितितिङि चोदात्तवतीतिगतेर्निघातः यश्चदस्योरुपक्षपयितुःशत्रोर्हन्ताघा- तकः सइन्द्रइत्यादिपूर्ववत् ॥ १० ॥
@@ -255,8 +258,6 @@ smasher of the Dasyu – he, o peoples, is Indra.
 <details><summary>Jamison Brereton Notes</summary>
 
 The hapax śṛdhyā́m is generally taken as the acc. sg. of a stem śṛdhyā́-, and this is perfectly plausible both morphologically and contextually. However, it might rather be taken as the loc. sg. of a devī́-type -ī-stem śṛdhī́- “does not yield to the vaunter in his vaunting.” This makes somewhat more sense.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
@@ -296,8 +297,6 @@ Der alle, die da grossen Frevel üben, eh sie's vermuthen, mit dem Pfeile tödte
 Кто убийца дасью – тот, о люди, Индра!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -318,7 +317,7 @@ Der alle, die da grossen Frevel üben, eh sie's vermuthen, mit dem Pfeile tödte
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो परमेश्वर दुष्टाचारियों को न ताड़ना दे, धार्मिकों का सत्कार न करे और डाकुओं को न मारे तो न्यायव्यवस्था नष्ट हो जाय ॥१०॥
+भावार्थभाषाः -  जो परमेश्वर दुष्टाचारियों को न ताड़ना दे, धार्मिकों का सत्कार न करे और डाकुओं को न मारे तो न्यायव्यवस्था नष्ट हो जाय ॥१०॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

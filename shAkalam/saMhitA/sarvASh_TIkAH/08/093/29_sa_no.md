@@ -3,7 +3,6 @@ title = "029"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदिन्द्र मृळयासि नः। शतक्रतो। स त्वम्। नः- अस्मभ्यम्। विश्वानि- सर्वाणि। सुवितानि-  सुखानि। आ भर- आहर॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शतक्रतो** इन्द्र **सः** पूर्वोक्तलक्षणस्त्वं **विश्वानि** सर्वाणि **सुवितानि** । सुष्ठ्वीयते प्राप्यते येष्विति सुवितानि मङ्गलानि । सुपूर्वादेतेः क्ते प्रत्यये उवङादेशः । सर्वानभ्युदयान् **नः** अस्मभ्यमाहर । हे **इन्द्र** यदि **नः** अस्मान् सुखयसि तर्हि धनादिसहितानभ्युदयान् देहीति ॥
@@ -192,10 +195,6 @@ Bring uns alle Wohlfahrt, o Ratreicher, wenn du, Indra, uns barmherzig sein will
 
 So bringe, thatenreicher du, uns alles Wohlergehn herbei, O sei du, Indra, gnädig uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

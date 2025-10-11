@@ -3,7 +3,6 @@ title = "007"
 devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -246,6 +244,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अत्र- अस्मिन् स्थाने। ते- भवतः। गोः पदे- ज्ञानमार्गे। आ- आभिमुख्येन। इषः- काम्यानि  ज्ञानसाधनानि। जिगीषमाणम्- जेतुमिच्छत्। उत्तमम्- श्रेष्ठम्। रूपम्। अपश्यम्। यदा। ते-  तव। मर्त्यः- उपासकः। भोगम्- त्वद्भोगं प्रति। अनु आनट्- त्वां गमयति। तदा। आत्-  भोगप्रापणानन्तरम्। ओषधीः- त्वद्भोगम्। ग्रसिष्ठः- ग्रसितृतमः सन्। अजीगः- अनुभवसि॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवं गमनानन्तरं हे अश्व **ते** तव **उत्तमम्** उक्तरूपेणोत्कृष्टतमं **रूपम्** **अत्र** अस्मिन् यागदेशे **अपश्यं** पश्यामि । कीदृशम् । **गोः** भूम्याः **पदे** स्थाने देवस्थाने देवयजनप्रदेशे आजिधावनस्थाने वा **इषः** । कर्मणि षष्ठी ॥ इषम् इष्यमाणम् अन्नम् अन्नानि वा **आ** सर्वतः **जिगीषमाणं** गन्तुमिच्छन्तम् । हे अश्व **ते** तव **यदा** मर्तः मनुष्यः **भोगं** भोक्तव्यमन्नम् **अनु** **आनट्** ॥ नशतिर्गतिकर्मा ॥ अनुक्रमेण समीपं गमयति । **आदित्** अनन्तरं तदानीमेव तदनुग्रहात् विलम्बमकृत्वा **ग्रसिष्ठः** महातृष्णयेव ग्रसितृतमो भक्षयितृतमः सन् **ओषधीः** अन्नानि **अजीगः** गिरसि भक्षयसि । महानुभावोऽपि त्वं लौकिकाश्ववत् तुच्छेन पुरुषेण दीयमानं स्वल्पं भक्ष्यम् अनुग्रहात् स्वीकरोषीत्यर्थः ॥
@@ -275,8 +278,6 @@ When the mortal attained the benefit from you, just after that the  foremost dev
 There are multiple conflicting interpretations of the personnel and import of this verse; I will not add another.
 
 Pāda d raises several questions: 1) is óṣadhīḥ to be construed with grásiṣṭḥaḥ (so, e.g., Geldner, Doniger, and me) or with ajīgaḥ, 2) who is the referent of grásiṣṭhaḥ, and 3) what person is ajīgaḥ. I take the plants with the splv. (For acc. rection with - iṣṭha- forms, cf., e.g., VI.37.5 vṛtráṃ hániṣṭhaḥ.) Within the RVic domain of discourse, the greatest devourer of plants is likely fire/Agni, the answer, therefore, to 2). With that identification in place, I take ajīgaḥ as 3rd sg. For an opposite interpr. on all 3 counts, cf. Krick’s “… dann wahrlich hast du, der Gefrässigste, die Pflanzen erweckt (verschlungen?).” The subject is the horse=sun, addressed in the 2nd ps. She takes the verb as suggesting a 2ndary pun on √gṝ ‘swallow’, and considers the larger sense to be that the rising sun (in spring) awakes the plant world to new life, and is at the same time their “Fresser.” This builds a lot of superstructure into the vs. In my opinion, the pāda simply expresses the conceit that the kindling of the ritual fire causes the sun to rise; assuming, with Krick et al, that “you” is the horse=sun, it can be the object of ajīgaḥ, with Agni as the subj.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
@@ -310,8 +311,6 @@ Hier sah ich deine herrlichste Gestalt am Orte der Kuh begierig nach den Tränke
 Как только смертный достиг наслаждения тобой,  
 Тот, кто больше всех пожирает растения, пробудил (их).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

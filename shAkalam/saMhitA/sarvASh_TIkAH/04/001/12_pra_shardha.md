@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वामदेवो गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषभस्य नीळे- वर्षकनीडे। ऋतस्य योनौ- प्रकृतिनियतिसदने। विपन्या- मन्त्रेण। शर्धः- तेजः।  प्रथमम्। प्र- प्रकर्षेण। आर्त- अगच्छत्। सः। स्पार्हः- स्पृहणीयः। युवा- तरुणः। वपुष्यः-  वपुष्मान्। विभावा- विशेषप्रकाशयुख्नः। वृष्णे- वर्षकायाग्नये। सप्त प्रियासः- सप्त उपासकाः।  अजनयन्त- मन्त्रं ससृजुः॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **विपन्या** स्तुत्या युक्तम् **ऋतस्य** उदकस्य **योना** योनौ स्थाने **वृषभस्य** वर्षणसमर्थस्य मेघस्य **नीळे** कुलायभूतेऽन्तरिक्षे वैद्युताग्निरूपेण वर्तमानं त्वां **शर्धः** तेजः **प्रथमं** **प्र** **आर्त** प्रकर्षेण गच्छति । यश्चाग्निः **स्पार्हः** सर्वैः स्पृहणीयः **युवा** नित्यतरुणः **वपुष्यः** कमनीयः **विभावा** दीप्तिमान् तस्मै **वृष्णे** अभिमतफलवर्षकाय अग्नये **प्रियासः** प्रियाः **सप्त** होत्रकाः **अजनयन्त** स्तोत्रम् अकुर्वन् ॥ आर्त ।  ‘ऋ  गतौ'। लङि व्यत्ययेनात्मनेपदम् । निघातः । विपन्या ।  ‘ एन च ' इत्यस्य इन्प्रत्ययः ।  ‘ कृदिकारादक्तिनः' इति ङीष् । प्रत्ययस्वरेणान्तोदात्तः ।  ‘ उदात्तयणो हल्पूर्वात् ' इति विभक्तेरुदात्तत्वम् । विपन्यँ  ऋतस्य इत्यत्र संहितायाम् “ इकोऽसवर्णे शाकल्यस्य ह्रस्वश्च ' ( पा. सू. ६.१.१२७ ) इत्यनिकोऽपि ह्रस्वोऽनुनासिकश्च ॥
@@ -239,8 +242,6 @@ I take this nominal clause (/subclause) as annunciatory of the gapped object of 
 
 Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Geldner “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and Witzel Gotō. The form is an injunctive, contra the Pp.; so already Grassmann; see Oldenberg (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -248,6 +249,7 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -285,8 +287,6 @@ Zuerst erhob sich wunderbar der starke im heil'gen Schoosse in des Stieres Lager
 Желанная, юная, прекрасная, сверкающая.  
 Семеро любимых родились для быка.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

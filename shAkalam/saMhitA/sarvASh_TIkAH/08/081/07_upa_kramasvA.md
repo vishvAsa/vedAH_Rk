@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कुसीदी काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धृष्णो- शत्रुधर्षणशील। अदाशूष्टरस्य- लोभिनः। वेदः- धनम्। जनानां कृते। उप क्रमस्व-  व्याप्नुहि। धृषता- शत्रुधर्षणशीलेन। आ भर- आहर॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वम् **उप** **क्रमस्व** धनं प्रत्युपगच्छ । प्रवृत्तो भव वा दातुम् । हे **धृष्णो** धर्षक शत्रूणां **धृषता** धृष्टेन चेतसा युक्तः सन् **आ** **भर** आहर च । कस्य धनमाहरेति उच्यते । **जनानां** मध्ये **अदाशूष्टरस्य** अत्यन्तमदातृतमस्य **वेदः** धनम् ॥
@@ -167,10 +170,6 @@ Geh ans Werk, bring uns kühnen Sinnes, du Kühner, die Habe des, der unter den 
 
 Schreite hin und bringe kecklich, kühner, her den Schatz des Mannes, Welcher weniger dir huldigt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्वावतः- अन्तिकात्। परावतश्च- दूरतश्च। नः- अस्मान्। आ गहि- आगच्छ। वृत्रहन्-  आवरणनाशक। नः- अस्माकम्। इमाः- एतान्। गिरः- मन्त्रान्। जुषस्व- सेवस्व॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** इन्द्र **अर्वावतः** अर्वाचीनात् समीपाद्देशात् **परावतः** अतिदूराद्देशात् वा **नः** अस्मानभिलक्ष्य **आ** **गहि** आगच्छ । आगत्य च **नः** अस्मदीयाः **इमाः** स्तुतिलक्षणाः **गिरः** वाचः **जुषस्व** सेवस्व ॥ परावतः ।' उपसर्गाच्छन्दसि धात्वर्थे ' इति वतिः । प्रत्ययस्वरः ॥
@@ -170,7 +173,6 @@ Enjoy these songs of ours.
 <details><summary>Jamison Brereton Notes</summary>
 
 This is the only vs. in the hymn without a form of índra- (7 of the 8 of those forms being vocatives, the lone exception índram in 7b). Here voc. vṛtrahan is substituted.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -201,8 +203,6 @@ Komm aus der Nähe her zu uns und aus der Ferne, Vritrafeind; Nimm diese unsre L
 И издалека, о убийца Вритры!  
 Наслаждайся этими нашими хвалебными песнями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

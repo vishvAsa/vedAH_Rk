@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रातारम्- रक्षितारम्। अवितारम्- तर्पकम्। हवेहवे- प्रत्याह्वाने। सुहवम्- सुखेनाह्वातुं शक्यम्।  शूरम्- समर्थम्। शक्रम्- शख्निसम्पन्नम्। पुरुहूतम्- बहुभिः साहाय्यायाहूतम्। इन्द्रम्-  परमेश्वरम्। ह्वयामि- आह्वये। मघवा- सम्पद्वान्। इन्द्रः। नः- अस्मभ्यम्। स्वस्ति- मङ्गळम्।  धतु- धारयतु यच्छतु वा॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रातारं** शत्रुभ्यः पालयितारम् **इन्द्रम्** आह्वयामि । तथा **अवितारं** कामैस्तर्पयितारम् **इन्द्रम्** आह्वयामि । **हवेहवे** सर्वेष्वाहवनेषु **सुहवं** सुखेनाह्वातुं शक्यं **शूरं** शौर्यवन्तं **शक्रं** सर्वकार्येषु शक्तं **पुरुहूतं** पुरुभिर्बहुभिः पालनार्थमाहूतमेवंविधम् **इन्द्रं** **ह्वयामि** आह्वयामि । एवमाहूतः **मघवा** धनवान् सः **इन्द्रः** **स्वस्ति** अविनाशं **नः** अस्मभ्यं **धातु** ददातु । यद्वा । अस्माकं विदधातु ॥
@@ -242,7 +245,6 @@ I call on Indra, the able one, called on by many. Let bounteous Indra  establish
 <details><summary>Jamison Brereton Notes</summary>
 
 √hvā is the signature word here.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
@@ -276,8 +278,6 @@ Den Retter Indra und den Helfer Indra, der jeden Ruf erhört, den Helden Indra, 
 Я зову могучего много раз призванного Индру.  
 Счастье пусть даст нам щедрый Индра!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। अहेः- सर्पवदप्रज्ञास्थदुःसंस्काराख्यरक्षसः। त्विषः- बलात्। विश्वे- सर्वे। देवासः-  दीप्तसंस्काराः। वि अक्रमुः- विविधं गच्छन्ति। तदा। मृगस्य अमः- मृग्यस्य दुःसंस्कारस्य बलम्।  तान्- अमून् दीप्तसत्संस्कारानपि। अविदत्- अविन्दत्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अध** अपि च **अहेः** अहन्तव्यस्य वृत्रासुरस्य **त्विषः** तेजोरूपादुच्छ्वासाद्भीताः यद्वा तस्य प्रभावेन परिगमिताः **विश्वे** सर्वे **देवासः** देवाः **यत्** यदा **वि** **अक्रमुः** विविधं पादविहरणमकुर्वन् । स्वस्थानं परित्यज्यान्यं देशमगच्छन्नित्यर्थः । तदानीं **मृगस्य** । एवं तान् भीषयितुं वृत्रो मृगरूपोऽभवत् । तद्रूपस्य संबन्धि **अमः** सर्वतो गमनशीलं बलं तज्जातं भयं वा **तान्** सर्वान् देवान् **विदत्** अविन्दत् । प्राप्नोदित्यर्थः । तस्यासुरस्येन्द्रो निवारको हन्ताभवदित्युत्तरेण संबन्धः ॥
@@ -178,8 +181,6 @@ Then as all the gods strode away from the turbulent power of the serpent, the on
 <details><summary>Jamison Brereton Notes</summary>
 
 The positioning ... yád ... ádha … is unusual, though Klein (II: 111) simply takes it as a variant of more common ádha yád …
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -205,10 +206,6 @@ Als da vor des Drachen Funkeln alle Götter davonliefen, da hatte sie die Panik 
 
 Als vor des Drachens Ungestüm die Götter alle flüchteten, Und sie des Thieres Wuth ergriff,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

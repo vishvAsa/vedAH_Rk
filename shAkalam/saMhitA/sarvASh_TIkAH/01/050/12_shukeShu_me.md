@@ -3,7 +3,6 @@ title = "012"
 devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 harimā́ṇam ← harimán- (nominal stem)  
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्रमह- महास्नेहसंपन्न। सूर्य। अद्य- इदानीम्। उद्यन्- उदयन्। उत्तरां दिवम्-  उत्कृष्टतरमाकाशम्। आरोहन्- उद्गच्छन्। मम। हृद्रोगम्। हरिमाणम्- विषबाधया शरीरे स्थितं  हरिद्वर्णं च। नाशय। मे- मम। हरिमाणम्- हरिद्वर्णम्। शुकेषु। रोपणकासु- शारिकासु। नि  दध्मसि- स्थापयामः। अथो- अपि च। हारिद्रवेषु- हरितालद्रुमेषु। दध्मसि। तेष्वेव स वर्णः  साधुर्भवति॥११-१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मे** मदीयं **हरिमाणं** शरीरगतं हरिद्वर्णस्य भावं **शुकेषु** तादृशं वर्णं कामयमानेषु पक्षिषु तथा **रोपणाकासु** शारिकासु पक्षिविशेषेषु **दध्मसि** स्थापयामः । **अथो** अपि च **हारिद्रवेषु** हरितालद्रुमेषु तादृग्वर्णवत्सु **मे** मदीयं **हरिमाणं** **नि** **दध्मसि** निदधीमहि । स च हरिमा तत्रैव सुखेनास्ताम् अस्मान् मा बाधिष्टेत्यर्थः ॥ दध्मसि । 'इदन्तो मसि' इति मस इकारागमः ॥
@@ -201,8 +204,6 @@ Auf die Papageien und die Drosseln legen wir meine Gelbsucht, auf die gelbfüssi
 А также (птицам) харидрава мою  
 Желтуху мы оставляем!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

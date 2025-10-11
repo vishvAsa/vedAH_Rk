@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्रुतकक्षः सुकक्षो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एव- एवम्। हि- खलु। असि- भवसि। वीरयुः- वीरकामः। एव- एवम्। शूरः- समर्थः। उत-  अपि च। स्थिरः- दृढः। एव- एवम्। ते- तव। मनः- चित्तम्। राध्यम्- आराध्यम्॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं वीरयुः वीरान् युद्धकर्मणि समर्थान् शत्रून् हन्तुं कामयमानएवासि भवसि खलु । हि प्रसिद्धौ । अतएव त्वं शूरः सामर्थ्यवानेवभवसि । उतापिच स्थिरः सङ्ग्रामे धैर्यवान् भवसि एकत्रस्थित्वैव शत्रून् सम्प्रहरसीत्यर्थः । एवंसति ते तव मनोराध्यं स्तुतिभिराराधनीयमेव यतोनेन मनसा त्वं शत्रुवधं सङ्ग्रामे धैर्यादिकञ्च करोषीति तवमनएव सर्वैः स्तुत्यमित्यर्थः ॥ २८ ॥
@@ -181,7 +184,6 @@ just as surely is your thought to be realized—
 <details><summary>Jamison Brereton Notes</summary>
 
 Klein (318) takes utá as linking śū́raḥ and sthiráḥ “Certainly (thou art) heroic and firm,” but this assumes that śū́ra- can be adjectival, which, pace Grassmann, I don’t. Instead, despite its position, I take the utá as conjoining vīrayúḥ and śū́raḥ … sthiráḥ, a variant on the complementary pairing of vīrá- ‘hero’ and śū́ra- ‘champion’.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/28-29.md">
 <details open><summary><h2>28-29 ...{Loading}...</h2></summary>
@@ -207,10 +209,6 @@ Denn sicherlich wünschest du Männer, sicherlich bist du selbst tapfer und stan
 
 Denn wahrlich du bist mannesstark und wahrlich du ein tapfrer Held, Dein Sinn fürwahr gewinnenswerth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

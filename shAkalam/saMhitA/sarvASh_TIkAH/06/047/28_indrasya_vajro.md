@@ -3,7 +3,6 @@ title = "028"
 devataa = "रथः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - गर्गः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रथ- लक्ष्यप्रापकरंहणप्रतीक। रथी ऋतस्य नो भवेति श्रुतेः ऋतं रथः। इन्द्रस्य- ईशनाधिदैवतस्य।  वज्रः- आयुधमसि। मरुतामनीकम्- मरुद्गणोसि। मित्रस्य- स्नेहाधिदैवतस्य। गर्भः-  आधारभूतोसि। वरुणस्य- ऋताधिदैवतस्य। नाभिः- बन्धकोसि। नः- अस्माकम्। हव्यदातिम्- १३    हव्यदानम्। सोमम्- रसम्। जुषाणः- सेवमानः। देव- द्योतक। हव्या- हव्यानि। प्रति गृभाय-  प्रतिगृह्णीष्व॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यो रथः **इन्द्रस्य** **वज्रः** उक्तप्रकारेण वज्रैकदेशः **मरुताम्** एतत्संज्ञानां देवगणानाम् **अनीकम्** अग्रभूतं तद्वच्छीघ्रगामी **मित्रस्य** अहरभिमानिनो देवस्य **गर्भः** गर्भवदन्तर्वर्तमानः ॥ अहनि हि रथः संचरति । **वरुणस्य** रात्र्यभिमानिदेवस्य **नाभिः** नाभिस्थानीयः । नाभिर्यथा देहमध्ये नैश्चल्येनावतिष्ठते तद्वत् रात्रौ क्वचिदवस्थितः । हे **देव** द्योतमान **रथ** य उक्तगुणः **सः**  तादृशस्त्वम् **इमां** **नः** अस्मदीयां **हव्यदातिं** हविर्दानवतीं यागक्रियां **जुषाणः** सेवमानः सन्  **हव्या** हव्यान्यस्मदीयानि हवींषि **प्रति** **गृभाय** प्रतिगृहाण ॥
@@ -250,8 +253,6 @@ taking pleasure in this oblation-giving of ours, god Chariot, accept our  oblati
 <details><summary>Jamison Brereton Notes</summary>
 
 Why the chariot is all the things it’s implicitly identified with in ab is not entirely clear: it is the mace of Indra presumably because it performs similar assaults, and the face of the Maruts presumably because its front is as glittery and fast-moving as they are. But the Mitra and Varuṇa identifications elude me.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
@@ -285,8 +286,6 @@ Des Indra Blitz du, der Maruts Glanzerscheinung, des Mitra Spross, des Varuna Ve
 Радуясь этому нашему жертвоприношению,  
 О божественная колесница, прими жертвенные дары!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
