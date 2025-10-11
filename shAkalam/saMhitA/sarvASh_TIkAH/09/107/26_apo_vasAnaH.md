@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अपः- मूलशख्निधाराः। वसानः- बिभ्रत्। सोतृभिः- निष्पादकैरुपासकैः। हियानः- प्रेरितः। इन्दुः-  क्लेदनशीलो रसः। न निर्णिजम्- स्वं रूपमिव स्थितम्। कोशम्- प्रतीकं प्रति। परि- परितः अर्षति-  सरति। गाः- चिद्रश्मीन्। कृण्वानः- कारयन्। ज्योतिः- अध्यात्मज्योतिः। जनयन्- प्रकटयन्।  मन्दनाः- तृप्तीः। अवीवशत्- कामयते॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अपः** वसतीवरीः **वसानः** आच्छादयन् **सोतृभिः** अभिषुण्वद्भिः **हियानः** प्रेर्यमाणः **इन्दुः** सोमः **कोशं** कलशं **परि** **अर्षति** प्रति गच्छति । किंच **ज्योतिः** दीप्तिं **जनयन्** उत्पादन **गाः** गव्यानि क्षीरादीनि **निर्णिजम्** आत्मनो रूपं **कृण्वानः** कुर्वन् मिश्रयन् सोऽयं सोमः । नः संप्रत्यर्थे । इदानीं **मन्दनाः** स्तुतीः **अवीवशत्** कामयते । ‘वश कान्तौ । लुङि चङि रूपम् ॥ ॥१६॥
@@ -225,7 +228,6 @@ Begetting the light, he has made the delighting cows bellow, making the  cows as
 apó vásānaḥ returns from 4b, 18c, along with the verb árṣa-, ubiquitous in this hymn.
 
 gā́ḥ ‘cows’ needs to be read with both c and d. In the former it is the referent of the hapax mandánāḥ (whose sense is, however, easy to divine) and the obj. of the caus. redupl. aor. ‘causes to bellow’; in the latter it is the obj. of kṛṇvānáḥ and the target of the simile: “making the cows as if into his garment” (a simile that of course depends on a metaphor: cows = milk). I consider the ná to be displaced - we might expect *nirṇíjaṃ ná. This pāda, in this order, is also found in IX.14.5; for variants on the phrase without simile particle see IX.86.26, 95.1, all adduced by Geldner (n. 26d).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details open><summary><h2>25-26 ...{Loading}...</h2></summary>
@@ -259,8 +261,6 @@ In Flut gekleidet strömt er zu dem Fass hindurch von Pressern Indu ausgesandt, 
 Порождая свет, он вызвал мычание радостных  
 Коров, как бы создавая себе праздничный наряд.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

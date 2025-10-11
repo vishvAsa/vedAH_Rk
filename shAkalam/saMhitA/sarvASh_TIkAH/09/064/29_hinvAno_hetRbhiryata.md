@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वनुषः- गृहमाश्रिताः। यथा। सीदन्ति- गृहे सीदन्ति। तथा। हेतृभिः- प्रेरकैः। हिन्वानः- प्रेरितः  सन्। यतः- संयतः सन्। वाजम्- संपदम्। वाजी- प्राणाश्वः सन्। आ- मर्यादया। अक्रमीत्-  आक्रामति॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजी** बलवान् सोमः **हेतृभिः** प्रेरकैः स्तोतृभिः **हिन्वानः** स्तोत्रैः प्रेर्यमाणः **यतः** संयतः सन् **वाजं** यागाख्यं युद्धम् **आ** **अक्रमीत्** आक्रामति । तत्र दृष्टान्तः । **यथा** **वनुषः** हन्तारो भटाः **सीदन्तः** युद्धं प्रविशन्तः आक्रामन्ति तद्वदित्यर्थः ॥
@@ -167,8 +170,6 @@ This raises the question: what is soma being compared to? and the related but mo
 
 That vanúṣaḥ is nom. pl. is also the judgment of Geldner and Renou, though with vastly different semantics. Geldner “wie die wetteifernden Reiter(?)” (I have no idea where he gets the “riders,” and his question mark shows his uncertainty about it; nonetheless it was taken up by Ober [II.245] as evidence for horseback riding in the RV!); Renou “(s’asseyant au séjour du Ṛta) comme les dévots qui s’(y) asseoient.” Renou seems closer to the mark, though still pretty far from it. Because of the repetition noted above (ad 22-24) of the trope “sit on the womb of truth” (4x in this hymn), it seems likely that sī́dant- here would evoke this recurrent expression, which is certainly appropriate to the soma (drinks) that are the subject of the simile. It is more difficult to identify who or what vanúṣaḥ refers to. This stem, and the associated denom. verb, can have both positive and negative values, expressing various types of eagerness and craving: “striving, eager, zealous, etc.” on the one hand (hence Renou’s dévots), “over-zealous, covetous, rapacious, etc.” on the other. Before identifying its usage in this particular passage, I’d like to introduce a third term into the simile. In similes involving sitting, the comparandum is often a bird - e.g., śyenáḥ in nearby IX.61.21 =
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -193,10 +194,6 @@ Von den Treibern getrieben, gelenkt ist der Preisrenner nach dem Siegerpreis gel
 
 Gespornt von Treibern und gelenkt hat nun der Renner Preis erlangt Wie Krieger sitzend nach dem Streit.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

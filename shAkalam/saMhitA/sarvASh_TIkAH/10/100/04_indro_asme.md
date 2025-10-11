@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यथायथा। देवाः। मित्रधितानि- मित्रनिहिताः सम्पदः। संदधुः- सम्यक् धृतवन्तः। तथा तथा।  अस्मे- अस्माकम्। इन्द्रः- परमेश्वरः। सुमनाः- शोभनचित्तः। विश्वहा- सर्वेष्वहःसु। अस्तु-  भवतु। राजा- रञ्जकः। सोमः- रसाधिदेवता। नः- अस्माकम्। सुवितस्य- मन्त्रम्। अध्येतु- धिया  स्वीकरोतु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रः** देवः **अस्मे** अस्माकं **सुमनाः** सुमनस्कः अनुग्रहचेताः **अस्तु** भवतु । **विश्वहा** सर्वेष्वप्यहःसु । **राजा** **सोमः** च **नः** अस्माकं **सुवितस्य** सुवितं स्तोत्रम् **अध्येतु** अधिगच्छतु । **यथायथा** येन येन प्रकारेण अस्माकं **मित्रधितानि** मित्रनिहितानि धनानि **संदधुः** तथाधिगच्छतु सोमः । तथेन्द्रोऽपि सुमना अस्त्विति समन्वयः ॥
@@ -250,10 +253,6 @@ Indra soll uns jederzeit wohlgesinnt sein, König Soma soll auf unser Wohlergehe
 
 Uns möge Indra holdgesinnt sein immerdar, und unsres Glückes nehm sich König Soma an; So recht wie man den Bund der engen Freundschaft schliesst; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे रसाः। मृष्टाः- शोधिताः। अमर्त्याः- अमृताः। ससृवांसः- सरणशीलाः। पथो रजः-  उत्तमलोकमार्गान्। इयक्षन्तः- गन्तुमिच्छन्तः। न शश्रमुः- न श्राम्यन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एते** सोमाः **मृष्टाः** दशापवित्रेण शोधिताः **अमर्त्याः** अमरणधर्माणः **ससृवांसः** हविर्धानात् सरन्तः **पथः** मार्गान् **रजः** लोकांश्च **इयक्षन्तः** गन्तुमिच्छन्तः **न** **शश्रमुः** न श्राम्यन्ति ॥
@@ -148,8 +151,6 @@ These immortal ones, once groomed, have not flagged in their flowing, as they se
 <details><summary>Jamison Brereton Notes</summary>
 
 With Geldner/Renou I take ná as neg. with pf. śaśramuḥ. In contrast, Kümmel (524, 551) takes it as the simile particle: “... sind wie [Rennpferde], die gelaufen sind, ermüdet ...” He cites (551 n. 1141) Delbrück (Altind. Syn. 376) for this interpr., but Delbrück in fact takes the ná as neg.: “… sind nicht müde geworden, obgleich sie gelaufen sind.” I assume that Kümmel so interpr. because of the position of ná after the participle, but in a Gāyatrī pāda the position before the verb is also the position after the NP -- there’s not a lot of space. I think it unlikely that the poets would ever say that the ever-running soma could get tired. Moreover, √śram almost always appears with neg.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -185,8 +186,6 @@ Gereinigt, die Unsterblichen, ob eilend auch, ermüden nicht, Durch Pfade dringe
 Не устают, хоть и мчались,  
 Стремясь найти пути в пространстве.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

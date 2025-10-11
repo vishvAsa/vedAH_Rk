@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। पवमान- पुनान। ये। धामनी- स्थानभूते द्यावापृथिव्यौ। प्रतीची-  त्वदभिमुखगमनशीले। तस्थतुः- तिष्ठतः। ताभ्याम्। विश्वस्य- विश्वहिताय। राजसि-  प्रकाशसे॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** दशापवित्रेण पूयमान पुनान वा हे **सोम** **ये** **धामनी** पूर्वपक्षापरपक्षयोर्लतारूपस्य सोमस्य तवैकैकपर्णवृद्धिहासाभ्यां तव स्वभूतौ पूर्वादिपक्षौ । यद्वा ये धामनी नामनी अंशुसोमात्मके अपि **प्रतीची** त्वदभिमुखं गच्छन्तौ गच्छती वा पक्षौ नामनी वा **तस्थतुः** उपजग्मतुः **ताभ्यां** त्वं **विश्वस्य** सर्वस्य लोकस्य **राजसि** स्वामी भवसि । पूर्वादिपक्षाभ्यां सर्वलोकस्योपनायकत्वात्तस्य स्वामी भवसि । पृथिव्यामंशुनाम्ना मनुष्याणां सर्वेषामभीप्सितदानेन तस्य लोकस्य द्युलोके देवेभ्यः स्वसुधामयकलादानेन तेषां प्रीणयिता भवसि । देवाः खलु सोमस्यैकैकवृद्धिहासाभ्यां कलाः पिबन्ति ॥
@@ -164,8 +167,6 @@ Answering the first question is made difficult by the fact that this is the only
 
 This interpr. gives pratīcī́in c more content than the fairly empty renderings of Geldner (“die sich (uns) darbieten”) and Renou (“qui se tiennent face (à nous)”): Heaven and Earth as the two cosmic halves face each other.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -192,10 +193,6 @@ Mit diesen beiden herrschest du über das All, mit den beiden Formen, o Pavamana
 
 Du flammender beherrschst das All durch beide Weltenstätten, die, O Soma, sich einander schaun.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

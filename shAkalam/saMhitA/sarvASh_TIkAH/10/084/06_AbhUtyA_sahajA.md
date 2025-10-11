@@ -3,7 +3,6 @@ title = "006"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आभूत्या- संहारशत्तया। सहजाः- सह जातस्त्वम्। वज्र- वज्रपाणे। सायक- सायकपाणे।  उत्तरम्- श्रेष्ठम्। सहः- बलम्। बिभर्षि- धारयसि। अभिभूते मन्यो- संहाररुद्र। नः- अस्मभ्यम्।  क्रत्वा सह- भवत्सङ्कल्पानुकूलेभ्यः। मेद्येधि- स्निग्धो भव। पुरुहूत- बहुभिर्हूत। महाधनस्य-  महाधनम्। संसृजि- सृज॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वज्र** वज्रवत्सारभूत हे **सायक** शत्रूणामन्तकर **अभिभूते** शत्रूणामभिभावुक मन्यो **आभूत्या** । आभूतिरभिभवः । तेन **सहजाः** सहैवोत्पन्नस्त्वं **उत्तरम्** उत्कृष्टतरं **सहः** बलं **बिभर्षि** धारयसि । हे **मन्यो** **क्रत्वा** कर्मणा **सह** **नः** अस्माकं **मेद्येधि** स्निग्धो भव । कुत्रेति तदुच्यते । **महाधनस्य** । संग्रामनामैतत् । संग्रामस्य **संसृजि** सर्गे । हे **पुरुहूत** बहुभिराहूतेति मन्युसंबोधनम्॥
@@ -254,10 +257,6 @@ Mit dem Erfolg zugleich geboren, du Indrakeule, Geschoß, besitzest du, Überleg
 
 Entsandter Blitz! mit Tüchtigkeit geboren schon besitzest, übermächt'ger, du die höchste Kraft; Mit deiner Kraft, o Manju, sei Genosse uns, o vielgerufner, im Zusammenstoss der Schlacht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

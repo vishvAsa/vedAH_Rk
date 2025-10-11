@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "वृषगणो वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वृषगणो वासिष्ठ
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषगणाः- वर्षन्त्यः। हंसासः- मुमुक्षाभावनाः। हंसः पक्षी मुमुक्षाप्रतीकः। अमात्- स्वबलेन।  तृपलम्- द्रुततरम्। मन्युम्- मननगतम्। अस्तम्- स्वसदनभूतं रसम्। अच्छ- अभिलक्ष्य। प्र-  प्रकर्षेण। अयासुः- अगच्छन्। आङ्गूष्यम्- सर्वैरभिगन्तव्यम्। दुर्मर्षं- दुःसहम्। पवमानम्- शोधकं  सोमं रसं प्रति। सखायः- सुहृदः। साकम्- सङ्गत्य। वाणम्- वीणाम्। प्र वदन्ति- वादयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हंसासः शत्रुभिर्हन्यमानाः हंसाइव चरन्तोवावृषगणाः एतन्नामकाऋषयः अमात् शत्रूणां बलात् त्रासिताःसन्तः तृपलं त्ऋपलशब्दःक्षिप्रचारी तदुक्तंयास्केन—तृपलप्रभर्मा- क्षिप्रप्रहारीति । क्षिप्रप्रहारिणम्मन्युं शत्रूनभिहन्यमानं सोमं अच्छ अभिलक्ष्य अस्तं यज्ञगृहं प्रायासुः प्रयासिषुः प्रगच्छन्ति । ततः सखायः स्तुत्यस्तोतृत्वलक्षणेन सम्बन्धेन सखिभूताः स्तोतारः आङ्गूष्यं सर्वैरभिगन्तव्यं यद्वा घोषशब्दस्य पृषोदरादित्वादाङ्गूषइत्यादेशः आङ् अनुनासिकश्छान्दसः स्तोत्रार्हं दुर्मर्षं शत्रुभिर्दुर्धरं दुःसहं एवंविधंसोमं पवमानमुद्दिश्य वाणं वाद्यविशेषं साकं सहैवप्रवदन्ति प्रवादयन्ति तदुपलक्षितं गानङ्कुर्वन्तीत्यर्थः ॥ ८ ॥
@@ -235,8 +238,6 @@ Geldner and Renou take c with ab, with pávamānam another goal (beside Tṛpala
 
 But the only other occurrence of that stem modifies sā́man- ‘melody’ (I.62.2) and to bleach it to ‘preislichen’ (for which there are already numerous other synonyms) seems unfortunate. I would suggest that the prominent initial position of āṅguṣyàm in c, far from its head noun at the end of d, results from this intention to re-cast the harsh image of ab and do so as soon as possible.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -269,8 +270,6 @@ Die Schwäne nahten seinem raschen Andrang, sie eilten heim erschreckt in grosse
 Друзья к достойному хвалы Павамане.  
 (Все) вместе они исполняют незабываемую музыку.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

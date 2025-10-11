@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मधुच्छन्दाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। परिस्रुतम्- क्षरन्तम्। सोमम्- रसम्। सूर्यस्य दुहिता- उषा ज्ञानोदयदेवता। वारेण-  उत्तमेन। शश्वता- नित्येन। तना- रूपेण। पुनाति- पवित्रीकरोति। विद्यया धार्मिकरसः पवित्रो  भवतीति भावः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव **परिस्रुतं** क्षरन्तं **सोमं** सोमरसं **सूर्यस्य** **दुहिता** श्रद्धा देवी **वारेण** वालेन **शश्वता** शाश्वतेन **तना** विस्तृतेन **पुनाति** । तथा च वाजसनेयिन आमनन्ति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति ॥
@@ -155,7 +158,7 @@ with the fleece-filter in unfailing measure.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-As indicated in the published introduction, the standard clichéś of the soma maṇḍala gave way here to more novel material. The involvement of the Daughter of the Sun as purifier of soma is puzzling. Geldner suggests (n. 6b) that the Daughter of the Sun, also found in this maṇḍala at IX.72.3, 113.3, is the “Dicht- oder Gesangeskunst,” on what seem to me slender grounds (mostly III.53.15, which is not at all clear). Oberlies’s notion (Relig. RV I.241, 282; II.60) that this locution indicates that Soma comes from heaven to earth at dawn is more plausible
+As indicated in the published introduction, the standard clichéś of the soma maṇḍala gave way here to more novel material. The involvement of the Daughter of the Sun as purifier of soma is puzzling. Geldner suggests (n. 6b) that the Daughter of the Sun, also found in this maṇḍala at IX.72.3, 113.3, is the “Dicht- oder Gesangeskunst,” on what seem to me slender grounds (mostly III.53.15, which is not at all clear). Oberlies’s notion (Relig. RV I.241, 282; II.60) that this locution indicates that Soma comes from heaven to earth at dawn is more plausible
 
 -- though it should be kept in mind that Sūryā, the daughter of the Sun, is not the same as
 Uṣas, Dawn. I would rather suggest that the presence of this figure in this vs., which immediately precedes two vss. metaphorically concerning ‘maidens’ (yóṣanaḥ) and ‘unwed girls’ (agrúvaḥ), is meant to showcase the mythological marriageable maiden par excellence: Sūryā exists essentially only to get married. Her appearance in this vs. serves as a positive model for the maidens that follow. However, this interpr. does not fit well with my interpr. of the other passages in which she appears in this maṇḍala; see esp. disc. ad IX.72.3.
@@ -185,8 +188,6 @@ Der Sonne Tochter reinigt dir den Soma, der in stetem Lauf Hin durch des Widders
 Твоего сому, растекающегося  
 Непрерывной чередой по ситу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

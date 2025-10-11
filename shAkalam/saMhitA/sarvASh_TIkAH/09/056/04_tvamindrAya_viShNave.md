@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। इन्द्राय- परमेश्वराय। विष्णवे- सर्वव्यापकाय परमात्मने। स्वादुः- मधुरः सन्। इन्दो-  क्लेदनशील। परि- परितः। स्रव- क्षर। स्तोतॄन् नॄन्- मन्त्रविद उपासकान्। अंहसः- पापात्।  पाहि- रक्ष॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **स्वादुः** प्रियरसस्त्वम् **इन्द्राय** इन्द्रार्थं **विष्णवे** विष्ण्वर्थं च **परि** **स्रव** परिक्षर । **नॄन्** कर्मणां नेतॄन स्तोतॄन् त्वद्विषयाणां स्तुतीनां कर्तॄन् **अंहसः** दुरितात् **पाहि** रक्ष च ॥ ॥ १३ ॥
@@ -186,10 +189,6 @@ Laufe du ab, süß für Indra, für Vishnu, o Saft! Schütze die Herren, die Sä
 
 Dem Indra, Vischnu ströme du, o Indu, rings voll Süssigkeit; Die Männer, Sänger schütz' vor Noth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

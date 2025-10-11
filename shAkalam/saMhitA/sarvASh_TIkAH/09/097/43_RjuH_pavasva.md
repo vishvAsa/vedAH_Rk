@@ -3,7 +3,6 @@ title = "043"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋजुः- आर्जवसंपन्नः सन्। वृजिनस्य हन्ता- दुःखनाशकः सन्। अमीवाम्- रोगाणाम्। अप  बाधमानः- नाशकः सन्। मृधश्च- हिंसानाशकः सन्। पवस्व- क्षर। पयः- जीवोदकम्। गोनाम्-  चिद्रश्मीनाम्। पयसा- सारेण ज्ञानेन। अभिश्रीणन्- संयोजयन्। अभि- आभिमुख्येन। पवस्व।  त्वम्। इन्द्रस्य- परमेश्वरसंबन्धी भवसि। तव- भवतः। वयम्। सखायः- सुहृदः स्मः॥४३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेसोम ऋजुः ऋजुगमनःसन् पवस्व क्षर । किङ्कुर्वन् वृजिनस्य उपद्रवस्य हन्ता अमी वां रोगरूपं राक्षसं अपबाधमानः तथा अस्मदीयान् मृधोहिंसकान् शत्रूंश्च बाधमानः सन् पवस्व ततः पयआत्मीयंरसं गोनां गवाम्पयसाक्षीरेण अभिश्रीणन् अभिसंयोजयन् पात्राण्य- भिगच्छसि । अपिच त्वं इन्द्रस्य सखासि हेसोम तव वयं सखायः स्तुत्यस्तोतृत्वयष्टृयष्ट-व्यत्वलक्षणेन सखिभूताः स्मः ॥ ४३ ॥
@@ -243,8 +246,6 @@ perfecting your milk with the milk of cows. You are (the comrade) of  Indra; we 
 The first hemistich introduces a note of aggression, but this quickly dissipates. The oppositional pair ‘straight’ (ṛjú-) and ‘crooked’ (vṛjiná-) recurs from vs. 18, where, unlike here, it was a morally neutral description of the paths across the sheep’s fleece filter.
 
 I do not understand the doubling of abhí in pāda c, esp. since abhí seems to add little to this idiom.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
@@ -278,8 +279,6 @@ Gerechter riesle, Ungerechte tödtend, den Plagegeist verjagend und die Schmähe
 Украшая (свое) молоко молоком коров!  
 Ты – (друг) Индры, мы – твои друзья.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

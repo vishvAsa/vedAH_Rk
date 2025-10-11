@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतं बृहत्- महत्सत्यभूतः। पवमानः- पुनानो रसः। ऊर्मिणा- स्वधारया। राजा- रञ्जकः। देवः-  द्योतनशीलः। समुद्रम्- हृत्समुद्रम्। तरत्- अतिक्रम्य च गच्छति। अर्षन्- सरन्। मित्रस्य-  स्नेहाधिदैवतस्य। वरुणस्य- ऋताधिदैवतस्य। धर्मणा- धर्मेण। प्र हिन्वानः- प्रेरितो भवति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** पूयमानः **देवः** द्योतमानः **बृहत्** अत्यन्तम् **ऋतं** सत्यभूतो **राजा** सोमः **समुद्रम्** अन्तरिक्षं कलशं वा **ऊर्मिणा** धारया **तरत्** तरति ।**हिन्वानः** प्रेर्यमाणः **ऋतं** **बृहत्** अत्यन्तं सत्यभूतः स सोमः **मित्रस्य** **वरुणस्य** मित्रावरुणयोः **धर्मणा** धारणार्थं **प्र** **अर्षत्** प्रगच्छति ॥ ॥१४॥
@@ -225,7 +228,6 @@ propelled—the lofty truth,
 On Soma identified as “truth” (ṛtám), see IX.97.23, IX.108.8, and Lüders 581-82. Although ṛtáṃ bṛhát could be an acc. goal here, the parallels, esp. the identical pāda in the next hymn, IX.108.8, support a nom. identification. In IX.97.23-24 Soma is also identified as a king (rā́jā 24b) as here and as ‘possessing dhárman’ (dharmā́23c), reminiscent of dhármaṇā here.
 
 The Pp. analyses árṣan opening c as injunc. árṣat, while the published translation assumes a nom. sg. pres. part. árṣan. Either is of course possible, but the parallelism with vs. initial tárat may support the finite verb interpr., as Oldenberg points out. So an alt. tr. would be: “he rushes …” See Hoffmann (117) on this vs.; he is surely right that the two injunctives should receive the same interpr., rather than Renou’s indic. pres. tárat, modal árṣat, and Hoffmann’s “general” pres. interpr. seems apt here for both.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
@@ -259,8 +261,6 @@ Das Meer durchschreite rieselnd mit der Welle er, er, König, Gott und hehres Re
 Пусть течет он по установлению Митры (и) Варуны,  
 Посылаемый вперед, высокий закон.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

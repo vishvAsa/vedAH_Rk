@@ -3,7 +3,6 @@ title = "007"
 devataa = "आत्मस्तुतिः"
 RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - लब ऐन्द्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मम। रोदसी- द्यावापृथिव्यौ। उभे। अन्यं पक्षम्। चन- अपि। प्रति समाने न भवतः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उभे** **रोदसी** द्यावापृथिव्यौ **मे** मदीयम् **अन्यं** **पक्षं** **चन** पक्षमपि **प्रति** समाने न भवतः॥
@@ -195,8 +198,6 @@ Auch Erd' und Himmel beide sind nicht meiner einen Hälfte gleich; Hat mich der 
 Ничто против одного моего крыла –  
 Не напился ли я сомы?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 āḥ ← √as- 1 (root)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यत्- यदा। सूर्या- सावित्री विद्याधिदेवता। पतिम्- स्वभर्तारं नवोढम्। अयात्- अगमत्। चित्तिः-  चित्तमेव। उपबर्हणम्। आः- आसीत्। चक्षुः- दृष्टिः। अभ्यञ्जनम्- व्यञ्जकमासीत्। द्यौर्भूमिः-  द्यावापृथिव्यौ। कोशः। आसीत्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चित्तिः** देवता **उपबर्हणम्** **आः** आसीत् । **चक्षुः** **अभ्यञ्जनम्** **आः** आसीत् । तथा हि। वृत्रस्य कनीनिका परापतत्त्रिककुन्नाम पर्वते । तेन त्रैककुदेनाञ्जनसजातीयेन चक्षुषी अञ्जते । तच्चक्षुरेवाञ्जनमासीदिति । **द्यौः** च **भूमिः** च **कोशः** आसीत् । कोशस्थानीये अभूताम् । **यत्** यदा **सूर्या** **पतिं** स्वकीयं नवभर्तारं सोमम् **अयात्** अगच्छत् तदैवमुपकरणान्यासन् ॥
@@ -223,8 +226,6 @@ Weisheit war ihr Polster, Sehkraft ihr Geschmeide, Himmel und Erde ihr Wagenkast
 Ларь был небом и землей,  
 Когда ехала Сурья к супругу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

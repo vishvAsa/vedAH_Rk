@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। मदासः- तर्पकाः। मदिरासः- हर्षकराः। आशवः- क्षिप्रकारिणः। रथ्यासो यथा- रथा  इव। पृथक्- असङ्गताः। प्र- प्रकर्षेण। असृक्षत- सृज्यन्ते। पयसा- क्षीरेण। धेनुः- गौः। न  वत्सम्- वत्समिव। वज्रिणम्- वज्रपाणिनम्। इन्द्रम्- परमेश्वरम्। मधुमन्तः- मधुराः। ऊर्मयः-  धाराभूताः। इन्दवः- क्लेदनशीला रसाः। अभि- अभिसरन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्र** **असृक्षत** प्रसृज्यन्ते **ते** तव **मदिरासः** मदकराः **आशवः** व्याप्ताः **मदासः** मदा रसाः । क इव । **रथ्यासः** रथ्या अश्वाः ते **यथा** तथा **पृथक्** प्रसृज्यन्ते । ते **मधुमन्तः** माधुर्योपेताः **ऊर्मयः** प्रवृद्धरसाः **इन्दवः** सोमाः **धेनुः** **पयसा** **वत्सम्** इव स्वरसेन **वज्रिणमिन्द्रम्** **अभि** गच्छन्ति ॥
@@ -247,8 +250,6 @@ waves (go) to Indra, possessor of the mace.
 <details><summary>Jamison Brereton Notes</summary>
 
 It seems a little odd to say that chariot horses go “each separately,” since one would think that the horses would be attached to the same chariot and efficient movement would require them to pull together. But almost the same phrase occurs in X.91.7 … rathyò yáthā pṛ́thak, though there referring to charioteers, and so the words must belong together. Perhaps it refers to separate chariots, each with its own set of horses—or that each horse in a chariot team has its own place in harness and each individually contributes to the speed of the whole?
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -277,10 +278,6 @@ Deine berauschenden raschen Rauschtränke haben sich einzeln in Lauf gesetzt wie
 Ergossen haben deine raschen Säfte sich, die lustigen wie Wagenrosse weit und breit, Des Indutrankes honigsüsse Wellen hin zum Blitzer Indra, wie zum Kalb mit Milch die Kuh.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -296,7 +293,7 @@ Ergossen haben deine raschen Säfte sich, die lustigen wie Wagenrosse weit und b
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा उपदेश करते हैं कि हे उपासक ! तुम्हारे शरीररूपी रथ के लिये ज्ञान के विचित्र भाव घोड़ों के समान जिस प्रकार घोड़े रथ को गतिशील बनाते हैं, इसी प्रकार विज्ञानी पुरुष की चित्तवृत्तियें उसके शरीर को गतिशील बनाती हैं ॥२॥
+भावार्थभाषाः -  परमात्मा उपदेश करते हैं कि हे उपासक ! तुम्हारे शरीररूपी रथ के लिये ज्ञान के विचित्र भाव घोड़ों के समान जिस प्रकार घोड़े रथ को गतिशील बनाते हैं, इसी प्रकार विज्ञानी पुरुष की चित्तवृत्तियें उसके शरीर को गतिशील बनाती हैं ॥२॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

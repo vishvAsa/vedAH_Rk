@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ऊर्ध्वबृहती"
 - ऋषिः - त्र्यरुणत्रसदस्यू
 - छन्दः - ऊर्ध्वबृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गभस्त्योः- रसोद्दीपकयोः प्राणापानेशनशत्तयोः। बभसति दीपयन्त्याभ्यां रसमिति गभस्ती  प्राणापानेशनशख्नी। आधिभौतिके तु बाहुभ्याम्। बभसति दीपयन्ति निर्मथ्नन्त्याभ्यामग्निमिति  गभस्ती बाहू। शर्याभिः- रात्र्युपलक्षितमनुष्यप्रज्ञाभिरंगुळीभिर्वा। भरमाणो न- उदकं संभरन् यथा  अभितृणत्ति तथा। अक्षितम्- अक्षीणम्। जनपानम्- जनानां पानभूतम्। कं चित्- कञ्चन।  उत्सम्- उत्सरणशीलमुदकम्। न- यथा अभितृणत्ति तथा। श्रवसा- स्वश्रुत्या। अभि- अभितः।  अभि- आभिमुख्येन। ततर्दिथ- भाजनं प्रतीकं तृण्णवानसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **श्रवसा** अन्नेन हेतुना **अभ्यभि** **ततर्दिथ** **हि** पवित्रमभितृण्णवानसि छिन्नवानसि । तत्र दृष्टान्तद्वयम्' । **उत्सं** **न** यथा कश्चित् **जनपानम्** । अस्मिन् जना उदकं पिबन्ति । तम् **अक्षितम्** अक्षीणं **कं** **चित्** कंचन उत्समुत्सरणशीलं वाप्यादिकमभितृणत्ति । अथवा कश्चित् **गभस्त्योः** बाह्वोः **शर्याभिः** अङ्गुलीभिः **भरमाणः** उदकं संभरन् कंचिदभितृणत्ति तद्वत् ॥
@@ -219,8 +222,6 @@ And this is only the first hemistich; the final pāda poses its own difficulties
 
 Both Geldner and Renou take the whole pāda as the simile, comparing Soma to an archer. Both have to supply a considerable amount of material, including an object for bháramāṇaḥ and a verb and another object to construe with śáryābhiḥ; cf., e.g., Renou’s “tel (un guerrier) tenant (l’arc) en ses deux mains (perce la cible) avec les flèches.” His “perce” and, more clearly, Geldner’s supplied “das Ziel durchbohrt” pick up abhí tatárditha in pāda a, but ‘drill through to’ is an odd action to perform on a target, and as I just said, a lot has to be supplied. (Kümmel’s interpr. [216] supplies less but also connects less with the rest of the vs.: “wie einer, der mit Pfeilen etwas (=den Bogen) in seinen Händen trägt.”) My interpr. of the pāda depends on a double reading of bháramāṇaḥ, as both passive (in the frame) and self-beneficial transitive (in the simile). I also read gábhastyoḥ in both simile and frame. Some material has to be supplied, but less than in the Geldner/Renou interpr., and it also has the merit of connecting the arrows and the hands: Oldenberg points to X.61.3 śáryābhiḥ … gábhastau “with arrows in his hand” as a potential clue to our passage. To deal with the frame first: this participle is found in passive usage, also with soma as subj., in I.135.3, 6 adhvaryúbhir bháramāṇā ayaṃsata … śukrā́ḥ “the gleaming (soma drinks), being carried, have been guided by the Adhvaryus” (or “being carried by the Adhvaryus, have been guided …”). The agents there are the priests, and here I would take the gábhastyoḥ in the frame as referring to the priest’s hands that bring the soma forward. In the simile I take med. bháramāṇaḥ as self-beneficial and supply ‘booty’ (or some other desirable material benefit) as the object. Such a usage is found in IX.79.2, containing one of the few medial forms of √bhṛ in IX: vayáṃ dhánāni viśvádhā bharemahi “May we always bear away the stakes.” Here the material borne away was clearly won by the arrows in the winner’s hands. I have recast the simile as passive in English, but more literally the tr. would read “while being carried in the (priest's) hands, as (someone) with arrows in his hands carries away (booty).” If I am correct, this is an implicit example of my “case disharmony in similes,” though neither the passive subject nor the transitive direct object is actually expressed.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -252,8 +253,6 @@ Denn fort und fort hast ruhmvoll du eröffnet uns jedweden Mensch-getrunknen, un
 Будто какой неиссякающий источник, из которого пьют люди,  
 Словно (воин,) несущий в руках (лук) со стрелами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

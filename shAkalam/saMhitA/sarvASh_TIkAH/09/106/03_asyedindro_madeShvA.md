@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - अग्निष्चाक्षुषः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य सोमस्य। इत्- एव। मदेषु- हर्षेषु। इन्द्रः- परमेश्वरः। ग्राभम्- ग्रहणीयं धनुः।  सानसिम्- संभजनीयम्। गृभ्णीत- गृह्णाति। वृषणम्- वर्षकम्। वज्रं च। अप्सुजित्-  जीवोदकजित् सन्। सं भरत्- धारयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आ** अनन्तरम् **इन्द्रः** **अस्येत्** अस्य सोमस्यैव **मदेषु** संजातेषु **सानसिं** सर्वैः संभजनीयं **ग्राभं** ग्राहं ग्रहीतव्यं धनुः **गृभ्णीत** गृह्णाति । ‘ हृग्रहोर्भः° ' इति भत्वम् । किंच **अप्सुजित्** उदकार्थं वृत्रस्य जेता । यद्वा आप इत्यन्तरिक्षनाम । अन्तरिक्षेऽहिनामकस्य जेता। इन्द्रः **वृषणं** वर्षितारं **वज्रं** **च** **सं** **भरत्** संबिभर्तु । बिभर्तेर्लेट्यडागमः ॥
@@ -214,7 +217,6 @@ bharat conjoined by ca (see Klein, DGRV I.233). The published translation takes 
 
 124), as general presents describing a regularly recurring situation: Indra’s behavior when(ever) he is under the influence of soma. Hence “he grabs … and he carries …” On the phrase sám apsujít, which constitutes an independent 4-syl. pāda in all 3 occurrences (here, VIII.13.2, VIII.36.1-6), see comm. ad VIII.13.2 and Scarlatta’s views cited there.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -248,8 +250,6 @@ Es thue nun von ihm berauscht, Indra den segensreichen Griff, Und trage, siegrei
 Пусть возьмет взятку, обеспечивающую захват,  
 И пусть держит мужественную ваджру, (этот) победитель вод.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

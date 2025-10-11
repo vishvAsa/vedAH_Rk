@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विप्रम्- मेधाविनम्। त्वा- भवन्तम्। हिन्वतीः- गच्छन्त्यः। सप्त जामयः- सप्त मूलशख्निधारा  बन्धुभूता आपः। विवस्वतः- परिचरणयुख्नस्योपासकस्य। आजा- आत्मावरणजनितयुद्धे। धीभिः-  चित्तधारणाभिः। सं अस्वरन्- सम्यक् द्योतयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **हिन्वतीः** । लिङ्गव्यत्ययः । हिन्वन्तः स्तुतीः प्रेरयन्तः **सप्त** सप्तसंख्याकाः **जामयः** एकस्मिन् यज्ञे कर्मकरणेन परस्परं बन्धुभूता होतृप्रभृतयः सप्त होत्रकाः **विवस्वतः** देवानां हविष्प्रदानेन परिचरणवतो यजमानस्य **आजा** आजौ । अजन्ति गच्छन्ति ऋत्विजोऽत्रेत्याजिर्यज्ञः । तस्मिन् **विप्रं** मेधाविनं पवमानं **त्वा** त्वामेव **धीभिः** धीतिभिः स्तुतिभिः **सम्** **अस्वरन्** अशब्दयन् अस्तुवन् । यद्वा । हिन्वतीर्गच्छन्त्यः सप्त जामयो गङ्गाद्याः सप्त नद्यो धीभिः । वर्णलोपश्छान्दसः । धीतिभिः अङ्गुलीभिर्विप्रं त्वां समस्वरन् प्रेरयन्ति । वसतीवरीभिरेकधनाभिश्च परिशोधनार्थं प्रेरयन्तीति ॥
@@ -179,8 +182,6 @@ But 1) do fingers “cry out”? and more important, 2) why then “seven”? It
 
 In IX the figure Vivasvant seems to be the prototype sacrificer (see Oldenberg ad IX.99.2), perhaps in his role as father of Manu. For further on Vivasvant see published introduction. to I.139 as well as comm. to IX.99.2, X.14.5.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -205,10 +206,6 @@ Es haben die sieben Schwestern dich mit Kunst anspornend im Chore besungen, dich
 
 Die sieben Schwestern rauschten dir entsandt mit den Gebeten zu, Dir Weisem auf Vivasvats Bahn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

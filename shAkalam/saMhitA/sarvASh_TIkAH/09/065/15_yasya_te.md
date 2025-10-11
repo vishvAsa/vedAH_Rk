@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। ते- तव। मद्यम्- हर्षकरम्। तीव्रम्- वीर्यवत्तरम्। रसम्। अद्रिभिः- स्थैर्यप्रतीकैः।  दुहन्ति- उपासका  निष्पादयन्ति। सः- तादृशस्त्वम्। अभिमातिहा- अहङ्कारघ्नः सन्। पवस्व-  क्षर॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **यस्य** **ते** तव **मद्यं** मदकरं **तीव्रं** क्षिप्रं मदकारिणं **रसम्** **अद्रिभिः** ग्रावभिरध्वर्वातेदयः **दुहन्ति** अभिषुण्वन्ति **सः** तादृशस्त्वं **अभिमातिहा** । अभितो मातिरभिमानं येषां ते शत्रवः । पापरूपाणां शत्रूणां हन्ता सन् **पवस्व** सर्वतो गच्छ। येऽभिषुण्वन्ति ते पापरहिताः सुकृतिनो भवन्तीत्यर्थः ॥ ॥ ३ ॥
@@ -168,7 +171,6 @@ You, whose exhilarating, sharp sap they milk out with stones— purify yourself 
 <details><summary>Jamison Brereton Notes</summary>
 
 A rare sign of hostility (abhimāti-hán- ‘smasher of hostility’) in these anodyne Gāyatrī assemblages.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -194,10 +196,6 @@ Läutere du dich als Feindevernichter, dessen berauschenden scharfen Saft sie mi
 
 Du, dessen starkes Rauschgebräu sie mit den Steinen melken aus, Die Feinde schlagend flammenhell.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

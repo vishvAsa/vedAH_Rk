@@ -3,7 +3,6 @@ title = "041"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 dadat ← √dā- 1 (root)  
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तमेव भावं पुनर्दर्शयति। सोमः- अभ्युदयात्मको रसाधिदेवता। गन्धर्वाय-  निःश्रेयसात्मकायात्मसूर्याय। ददत्- ददौ। गन्धर्वः- सः। अग्नये- विश्वहितक्रतवे। ददत्- ददौ।  अथो- अपि च। अग्निः- स तु। रयिम्- दानयोग्यधनम्। च। पुत्रांश्च- सुतांश्च। इमाम्- एतां  जायाञ्च। मह्यम्- मे। अदात्- ददौ॥४१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमः** **गन्धर्वाय** प्रथमं **ददत्** प्रादात् । **गन्धर्वः** **अग्नये** प्रादात् । **अथो** अपि च **अग्निः** **इमां** कन्यां **रयिं** धनं **पुत्रांश्च** **मह्यम्** अदात् ॥
@@ -239,8 +242,6 @@ Soma gab sie dem Gandharva, Gandharva gab sie dem Agni. Agni hat jetzt Reichtum 
 Богатство и сыновей дал  
 Агни мне, а также эту.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

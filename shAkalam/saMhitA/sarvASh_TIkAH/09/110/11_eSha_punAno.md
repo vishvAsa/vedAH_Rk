@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "विराट्"
 - ऋषिः - त्र्यरुणत्रसदस्यू
 - छन्दः - विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -173,6 +171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    वाजसनिः- संपत्संभख्ना। वरिवोवित्- संपल्लम्भकः। वयोधाः- हव्यधारकः। पुनानः- पवमानः।  मधुमान्- मधुरः। ऋतावा- प्रकृतिनियतिभूतसत्ययुख्नः। स्वादुरूर्मिः- माधुर्यतरङ्गमयः। इन्दुः-  हृदयस्पर्शी रसः। इन्द्राय- परमेश्वराय। पवते- क्षरति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानः** पूयमानः **मधुमान्** माधुर्योपेतः **ऋतवा** ऋतवान् यज्ञवान् **इन्दुः** क्षरणशीलः **स्वादुः** स्वादुकरः **ऊर्मिः** **एषः** रसधारासंघः **इन्द्राय** इन्द्रार्थं **पवते** क्षरति । कीदृशः । **वाजसनिः** अन्नस्य दाता **वरिवोवित्** धनस्य लम्भकः **वयोधाः** आयुषो दाता ॥
@@ -200,8 +203,6 @@ the one who gains the prize, finds wide space, and confers vitality.
 <details><summary>Jamison Brereton Notes</summary>
 
 Note the alliteration in c: vājasánir varivovíd vayodhā́ḥ. The first word vājasániḥ forms a ring with vā́jasā́taye in vs. 1a.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -235,8 +236,6 @@ Sich klärend rieselt hell der honigreiche dem Indra zu die süsse heil'ge Welle
 Захватывающий награду, находящий широкий простор, дающий силу жизни.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -252,7 +251,7 @@ Sich klärend rieselt hell der honigreiche dem Indra zu die süsse heil'ge Welle
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र का आशय यह है कि जो पुरुष उक्त गुणोंवाले परमात्मा की ओर क्रियाशक्ति तथा ज्ञानशक्ति से बढ़ते हैं, उनको परमपिता परमात्मा अवश्य प्राप्त होते और उन पर सब ओर से आनन्द की वृष्टि करते हैं ॥११॥
+भावार्थभाषाः -  इस मन्त्र का आशय यह है कि जो पुरुष उक्त गुणोंवाले परमात्मा की ओर क्रियाशक्ति तथा ज्ञानशक्ति से बढ़ते हैं, उनको परमपिता परमात्मा अवश्य प्राप्त होते और उन पर सब ओर से आनन्द की वृष्टि करते हैं ॥११॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

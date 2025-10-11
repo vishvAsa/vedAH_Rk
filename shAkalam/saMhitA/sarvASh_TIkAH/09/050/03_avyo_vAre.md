@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - उचथ्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अव्यो वारे- सरणशीलरसस्य स्वस्थान एव रक्षाकरे उपलब्धिस्थाने । रसव्यञ्जके। वरणीये प्रतीके  । प्रियम्- प्रेमभाजनम्। हरिम्- आकर्षकम्। मधुश्चुतम्- मधुरम्। पवमानम्- पूयमानं रसम्।  अद्रिभिः- ग्रावभिर्जडप्रतीकैः। परि- परितः। हिन्वन्ति- प्रेरयन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रियं** देवानां प्रीतिकरं **हरिं** हरितवर्णम् **अद्रिभिः** ग्रावभिरभिषुतं **मधुश्चुतं** मधुनो रसस्य च्यावयितारं **पवमानं** सोमम् **अव्यः** अवेः **वारे** वाले **परि** **हिन्वन्ति** ऋत्विजः परिप्रेरयन्ति ।
@@ -163,10 +166,6 @@ Auf dem Schafhaar treiben sie mit Steinen den lieben Falben herum, den von Süß
 
 Durch Steine spornen sie das Ross, ringsum das liebe Widderhaar, Den flammenden, der trieft von Meth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

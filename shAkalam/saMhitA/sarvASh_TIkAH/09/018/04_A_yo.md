@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। विश्वानि- सर्वाः। वार्या- उत्तमाः। वसूनि- संपदः। हस्तयोः- बाह्वोः। आ- मर्यादया। दधे-  धारयसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **विश्वानि** **वार्या** वरणीयानि **वसूनि** धनानि स्तोतुः **हस्तयोः** **आ** **दधे** करोति । प्रयच्छतीत्यर्थः । **मदेषु** **सर्वधा** **असि** इति । अथवा स शुष्मी इत्युत्तरत्र संबन्धः ॥
@@ -174,6 +177,7 @@ He who holds all desirable good things in his two hands—
 Note the two occurrences of víśva- (3a, 4a), which contrast with the sarva- in the refrain.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -205,8 +209,6 @@ In seine Hände sind gelegt, Die schönen Schätze allzumal; Bei den Gelagen sch
 Держит в (своих) руках, –  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

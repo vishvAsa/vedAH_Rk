@@ -3,7 +3,6 @@ title = "006"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -251,12 +249,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषोऽहम्। ते- भवदीयः। अस्मि- भवामि। सहुरे- सहनशील। विश्वधायः- सर्वधारक।  प्रतीचीनः- प्रतिगन्ता सन्। मा अर्वाङ्- ममाभिमुखम्। उप आ इहि- उपागच्छ। मन्यो- रुद्र।  वज्रिन्- वज्रपाणे। माम्। अभि आ ववृत्स्व- अभ्यावर्तस्व। दस्यून्- चोरान् चोरभावनानि।  हनाव- आवां नाशयाव। उत- अपि च। आपेः- बन्धुम्। बोधि- बुध्यस्व॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहुरे** शत्रूणां सहनशील **विश्वधायः** विश्वस्य धर्तमन्यो **अयं** जनोऽहं **ते** तव **अस्मि** कर्मकृत् । यत एवमतः **प्रतीचीनः** प्रतिगन्ता **अर्वाङ्** अस्मदभिमुखं **मा** मां **उप** **इहि** उपागच्छ। हे **मन्यो** **वज्रिन्** **माम्** **अभि** **आ** **ववृत्स्व** अभ्यावर्तस्व । किमर्थमभ्यागमनमिति चेदुच्यते । **हनाव** आवां **दस्यून्** शत्रून्। **उत** अपि च **आपेः** बन्धुं **बोधि** बुध्यस्व ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -280,10 +281,6 @@ Ich hier bin dein, komme zurück zu mir her, du Überlegener, Allstärkender! Ma
 
 Ich bin ja dein, so wende dich zu mir hin, komm mir entgegen siegreich, alles schenkend; O Manju, komme mit dem Blitze zu mir, gedenk des Freundes, lass den Feind uns schlagen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

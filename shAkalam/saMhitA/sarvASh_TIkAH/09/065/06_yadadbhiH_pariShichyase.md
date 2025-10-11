@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। अद्भिः- जीवोदकधाराभिः। परिषिच्यते- परितः सिच्यते। गभस्त्योः- रसोद्दीपकयोः  प्राणापानेशनशत्तयोः। बभसति दीपयन्त्याभ्यां रसमिति गभस्ती प्राणापानेशनशख्नी।  आधिभौतिके  तु बाहुभ्याम्। बभसति दीपयन्ति निर्मथ्नन्त्याभ्यामग्निमिति गभस्ती बाहू। मृज्यमानः- शोधितः।  द्रुणा- भाजनेन प्रतीकेन। सधस्थम्- सहचरमुपासकम्। अश्नुषे- व्याप्नोषि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **गभस्त्योः** । बाहुनामैतत् । बभसति दीपयन्ति निर्मथ्नन्यात्भ्यामग्निमिति गभस्ती बाहू । तयोः **मृज्यमानः** ताभ्यां शोध्यमानः सन् **अद्भिः** । सोमसेचनार्थं चतुर्विधा आपः । ताभिर्वसतीवरीभिरेकधनाभिश्च **यत्** यदा **परिषिच्यसे** परितः सिच्यमानो भवसि तदानीं **द्रुणा** दुममयेन पात्रेण गृह्यमाणः सन् **सधस्थम्** । सह तिष्ठन्त्यत्रेति सधस्थं स्थानं ग्रहचमसादिकम् । **अश्नुषे** प्राप्नोषि ॥
@@ -139,7 +142,6 @@ you attain to your seat by means of the wooden (vessel).
 <details><summary>Jamison Brereton Notes</summary>
 
 On druṇā́see comm. ad IX.1.2.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -165,10 +167,6 @@ Wenn du mit Wasser begossen wirst, zwischen den Händen gereinigt, so nimmst du 
 
 Wenn du durch Flut ergossen wirst, gereinigt von den Armen du, Erreichst du auf dem Holz den Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

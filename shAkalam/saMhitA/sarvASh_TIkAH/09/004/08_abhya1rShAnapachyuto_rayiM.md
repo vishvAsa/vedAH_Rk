@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अनपच्युतः- अनाहतः। समत्सु- समरेषु। सासहिः- अभिभविता सन्। रयिम्। अभ्यर्ष॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **समत्सु** संग्रामेषु अनपच्युतः शत्रुभिरनाहतः **सासहिः** शत्रूणामभिभविता त्वं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । सिद्धमन्यत् ॥
@@ -194,8 +197,6 @@ O ström uns, unbezwinglichen, in Schlachten siegreich Schätze zu Und mach' uns
 Богатство, одерживая верх в сражениях,  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

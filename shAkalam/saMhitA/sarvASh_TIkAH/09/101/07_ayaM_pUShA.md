@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "नहुषो मानवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नहुषो मानवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। सोमः- रसः। पूषा- पोषकः। रयिः- संपद्भूतः। भगः- सौभाग्याधिदेवता च।  पुनानः- पवमानः। भूमनः- भूतजातस्य। विश्वस्य- सर्वस्य। पतिः- पालकः। उभे रोदसी-  द्यावापृथिव्यौ। व्यख्यत्- प्रकाशयति। अर्षति- गच्छति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पूषा** पोषकः सर्वेषां **भगः** भजनीयः **रयिः** धनहेतुः **अयं** **सोमः** **पुनानः** पवित्रेण पूयमानः सन् **अर्षति** कलशमभिगच्छति । तथा **विश्वस्य** सर्वस्य **भूमनः** भूतजातस्य **पतिः** पालयिता सोमः **उभे** **रोदसी** द्यावापृथिव्यौ **व्यख्यत्** स्वतेजसा प्रकाशयति । अनेन लोकद्वयवर्तित्वं सूचितम् ॥
@@ -198,8 +201,6 @@ As lord of all creation, he has surveyed both world-halves.
 <details><summary>Jamison Brereton Notes</summary>
 
 bhū́man- generally means ‘earth’ (as opposed to heaven) or ‘world’. Here it seems a little outside its usual patch, as a metrical driven variant of the common phrase víśvasya bhúvanasya “of all creation”; see esp. IX.86.5 pátir víśvasya bhúvanasya rājasi matching our pátir víśvasya bhū́manaḥ, but also occurrences in I.164.21, II.27.4, 40.1, III.46.2, V.85.3, IX.86.28, 36, 97.56, X.45.6, 168.2, all but one straddling a late caesura, where the two light init. syllables of bhuvanasya fit well; bhúvanasya of course fits the cadence of no Vedic meter.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -234,8 +235,6 @@ Als Nährer, Spender, reicher Schatz strömt Soma hell entflammt dahin, Als Herr
 Стал вглядываться в обе половины вселенной.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -251,7 +250,7 @@ Als Nährer, Spender, reicher Schatz strömt Soma hell entflammt dahin, Als Herr
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में द्युलोक और पृथिवीलोक का प्रकाशक परमात्मा को कथन किया है। इससे स्पष्ट सिद्ध है कि सोम शब्द के अर्थ यहाँ सृष्टिकर्ता परमात्मा के हैं, किसी जड़ वस्तु के नहीं॥७॥
+भावार्थभाषाः -  इस मन्त्र में द्युलोक और पृथिवीलोक का प्रकाशक परमात्मा को कथन किया है। इससे स्पष्ट सिद्ध है कि सोम शब्द के अर्थ यहाँ सृष्टिकर्ता परमात्मा के हैं, किसी जड़ वस्तु के नहीं॥७॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

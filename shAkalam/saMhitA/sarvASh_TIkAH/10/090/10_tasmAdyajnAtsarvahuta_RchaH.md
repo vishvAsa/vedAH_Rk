@@ -3,7 +3,6 @@ title = "१० तस्माद्यज्ञात्सर्वहुत 
 devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नारायणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ajāyanta ← √janⁱ- (root)  
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तस्मात्। अश्वाः- तुरगाः। अजायन्त- जाताः। ये के च। उभयादतः- उभयपंख्निदन्तयुख्ना मृगा  जाताः। तस्मात्। गावः- धेनवः। ह। जज्ञिरे- जाताः। तस्मात्। अजावयः। जाताः-  उत्पन्नाः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सर्वहुतः** **तस्मात्** पूर्वोक्तात् यज्ञात् **ऋचः** **सामानि** च जज्ञिरे उत्पन्नाः। **तस्मात्** यज्ञात् **छन्दांसि** गायत्र्यादीनि **जज्ञिरे**। **तस्मात्** यज्ञात् **यजुः** अपि अजायत ॥
@@ -208,7 +211,6 @@ _________
 
 10 अथ तत् तस्मात् तादृशाद् यज्ञाद् ऋचस्सामानि जज्ञिरे छन्दांसि च सर्वाण्य् ऋगादिमया वेदा जज्ञिरे । यजुश्च तस्मादजायत । जातावेकवचनम् ॥
 </details>
-
 
 <details><summary>उवटः</summary>
 
@@ -281,8 +283,6 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 Быки родились из нее,  
 Из нее родились козы и овцы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

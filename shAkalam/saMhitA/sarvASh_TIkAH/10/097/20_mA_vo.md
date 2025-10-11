@@ -3,7 +3,6 @@ title = "020"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 khanitā́ ← khanitár- (nominal stem)  
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+खनिता- भूमेः खननकर्ता। वः- युष्मान्।  मा रिषत्-  मा नाशयतु। मा हिंस्यात्। यस्मै। वः-  युष्मान्। अहम्। खनामि। सोऽयमरोगो भवतु। अस्माकम्। द्विपच्चतुष्पत्- पशवः पुरुषाः। सर्वं-  सर्वे। अनातुरम्- अरोगाः। अस्तु- भवन्तु॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ओषधयः वः युष्मान् मा **रिषत्** मा हिंस्यात् । कः । **खनिता** भूमेः खननकर्ता । **यस्मै** रुग्णाय **चाहं** **खनामि** **वः** युष्मान् । किंच **अस्माकं** संबन्धि **द्विपत्** पुत्रभृत्यादिकं **चतुष्पत्** गोमहिष्यादिकं च यदस्ति तत् **सर्वम्** **अनातुरम्** अरोगम् अस्तु ।
@@ -227,8 +230,6 @@ Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei
 Двуногие (и) четвероногие наши  
 Да будут все здоровы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

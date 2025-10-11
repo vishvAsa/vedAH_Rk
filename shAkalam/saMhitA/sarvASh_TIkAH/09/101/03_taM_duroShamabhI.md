@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अन्धीगुः श्यावाश्विः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अन्धीगुः श्यावाश्विः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्। दुरोषम्- दुर्दहम्। सोमम्- रसम्। नरः- उपासकाः। विश्वाच्या धिया- सर्वहितया बुद्ध्या।  अद्रिभिः- ग्रावभिः स्थैर्यप्रतीकैः। यज्ञम्- उपासनं दानं सङ्गतिकरणं वा प्रति। हिन्वन्ति-  प्रेरयन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नरः** कर्मनेतार ऋत्विजः **दुरोषम्** । रोषतेर्हिंसार्थस्य रेफलोपे दीर्घाभाव ओषतेर्दाहार्थस्य वा खलि रूपमिति संदेहादनवग्रहः । **तं** दुर्दहं दुर्वधं वा **यज्ञं** यष्टव्यं तं **सोमं** **विश्वाच्या** सर्वान् कामानञ्चित्र्या **धिया** बुद्ध्या **अद्रिभिः** ग्रावभिः **अभि** **हिन्वन्ति** अभिप्रेरयन्ति । अभिषुण्वन्तीति यावत् ॥
@@ -163,6 +166,7 @@ There is no particular unity visible in this tṛca, and vs. 1 in particular sta
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -194,8 +198,6 @@ Ihn spornt, den unverletzlichen, achtsamen Sinns der Männer Schar Zum Opfer Som
 Мужи (поторапливают) всесторонней поэтической мыслью,  
 Жертву поторапливают давильными камнями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

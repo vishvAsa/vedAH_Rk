@@ -3,7 +3,6 @@ title = "023"
 devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पायुः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 bhaṅgurā́vataḥ ← bhaṅgurā́vant- (nominal stem)  
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+७    अग्ने- पावक। तिग्मेन- तीक्ष्णेन। शोचिषा- प्रकाशेन। तपुरग्राभिः- तपनशीलाग्रैः। ऋष्टिभिः-  आयुधैः। विषेण। भङ्गुरावतः- भञ्जकानि। रक्षः- रक्षांसि। दह- भस्मीकुरु॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वं **भङ्गुरावतः** भञ्जनकर्मयुक्तान् **रक्षसः** राक्षसान् **विषेण** व्याप्तेन **तिग्मेन** तीक्ष्णेन **शोचिषा** तेजसा **प्रति** **दह** भस्मीकुरु । तथा **तपुरग्राभिः** तपनशीलाग्राभिः **ऋष्टिभिः** । ऋष्टय आयुधविशेषाः । ताभिरपि प्रति दह ॥
@@ -199,8 +202,6 @@ Vertilge die verderblichen, durch Gift und Brand die Geisterschar, Mit flammensp
 Копьями с раскаленными концами!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्नी रक्षोहा
@@ -216,7 +217,7 @@ Vertilge die verderblichen, durch Gift und Brand die Geisterschar, Mit flammensp
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  राष्ट्र में तोड़-फोड़ मचानेवाले दुष्टजनों को तीक्ष्ण जलते हुए शस्त्रों तथा तापक मुखवाले शक्तिशस्त्रों से दग्ध करे, नष्ट-भ्रष्ट करे ॥२३॥
+भावार्थभाषाः -  राष्ट्र में तोड़-फोड़ मचानेवाले दुष्टजनों को तीक्ष्ण जलते हुए शस्त्रों तथा तापक मुखवाले शक्तिशस्त्रों से दग्ध करे, नष्ट-भ्रष्ट करे ॥२३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

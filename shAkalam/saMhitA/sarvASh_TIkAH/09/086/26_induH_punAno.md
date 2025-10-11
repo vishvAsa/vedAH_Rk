@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -251,6 +249,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१०    इन्दुः- हृदयस्पर्शी रसः। पुनानः- पवमानसोमः। मृधः- रिपून्। अति गाहते- अतिक्रम्य गच्छति।  यज्यवे- उपासकाय। विश्वानि- सर्वान्। सुपथानि- शोभनमार्गान्। कृण्वन्- कुर्वन्। हर्यतः-  कान्तः। कविः- क्रान्तदर्शी। गाः- चिद्रश्मीनाम्। निर्णिजम्- रूपम्। कृण्वान्- कुर्वाणः। अत्यो  न- तुरग इव। क्रीळन्- विहरन्। वाजम्- हव्यम्। परि अर्षति- अभिसरति॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्दुः** दीप्तः सोमः **पुनानः** पूयमानः **अति** **गाहते** अतिक्रम्य गच्छति **मृधः** शत्रून् । किं कुर्वन् । **विश्वानि** गन्तव्यानि सुवर्मा  नि वैदिकानि लौकिकानि च **सुपथानि** **कृण्वन्** कुर्वन् । कस्मै । **यज्यवे** यागकर्त्रे । यजमानाय शत्रून् परिहरन् मार्गान् सुपथान् कुर्वन् कलशं प्रविशतीत्यर्थः । किंच **निर्णिजम्** आत्मीयं रूपं **गाः** **कृण्वानः** । रसमयान् कुर्वाण इत्यर्थः । **हर्यतः** कान्तः । ‘ हर्य गतिकान्त्योः' । औणादिकोऽतच् । **कविः** क्रान्तप्रज्ञः एवंभूतः सोमः **अत्यो** **न** अश्व इव **क्रीळन्** **वारं** दशापवित्रं **परि** **अर्षति** परिगच्छति ॥
@@ -280,8 +283,6 @@ steed, rushes around the fleece.
 
 The two pres. participles to √kṛ, act. kṛṇván (b) and med. kṛṇvānáḥ (c), provide almost a textbook example of the functional distribution of voices: in b Soma makes X (into) Y for someone else (dat. yájyave), while in c he makes X (into) his own Y.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -309,10 +310,6 @@ Der Saft setzt sich, während er geläutert wird, über die Verächter hinweg, d
 Geklärt taucht Indu über alle Feind' empor, die Pfade alle bahnt er schön dem Opferer, Der holde Seher nimmt die Milch als Schmuckgewand, und eilet hin zur Wolle, springend wie ein Ross.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -323,7 +320,7 @@ Geklärt taucht Indu über alle Feind' empor, die Pfade alle bahnt er schön dem
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यज्यवे) यज्ञ करनेवाले यजमानों के लिये परमात्मा (विश्वानि सुपथानि) सब रास्तों को (कृण्वन्) सुगम करता हुआ (मृधः) उनके विघ्नों को (अतिगाहते) मर्द्दन करता है और (पुनानः) उनको पवित्र करता हुआ और (हर्य्यतः) वह कान्तिमय परमात्मा (कविः) सर्वज्ञ (अत्यो न) विद्युत् के समान (क्रीळन्) कीड़ा करता हुआ (वारं) वरणीय पुरुष को (पर्य्यर्षति) प्राप्त होता है॥२६॥
+पदार्थान्वयभाषाः -  (यज्यवे) यज्ञ करनेवाले यजमानों के लिये परमात्मा (विश्वानि सुपथानि) सब रास्तों को (कृण्वन्) सुगम करता हुआ (मृधः) उनके विघ्नों को (अतिगाहते) मर्द्दन करता है और (पुनानः) उनको पवित्र करता हुआ और (हर्य्यतः) वह कान्तिमय परमात्मा (कविः) सर्वज्ञ (अत्यो न) विद्युत् के समान (क्रीळन्) कीड़ा करता हुआ (वारं) वरणीय पुरुष को (पर्य्यर्षति) प्राप्त होता है॥२६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

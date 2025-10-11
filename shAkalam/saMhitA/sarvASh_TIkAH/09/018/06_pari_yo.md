@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यः। परि- परितः। उभे रोदसी- द्यावापृथिव्यौ। सद्यः- सहसा। वाजेभिः- बलैः। अर्षति-  गच्छति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **उभे** **रोदसी** द्यावापृथिव्यौ **सद्यः** तदानीमेव **वाजेभिः** अन्नैः **परि** **अर्षति** परिगच्छति । सोमाहुत्या द्यावापृथिव्यावन्नवत्यौ करोतीत्यर्थः ॥
@@ -197,8 +200,6 @@ Und der durch beide Welten rinnt an einem Tag mit Labungen; Bei den Gelagen sche
 Половины вселенной со (своими) наградами, –  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

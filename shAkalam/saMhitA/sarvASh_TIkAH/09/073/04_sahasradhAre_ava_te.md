@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पवित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रधारे- अनन्तधारे। दिवः- चिदाकाशस्य। नाके- आनन्दे स्थिताः। ते- रसाः। अव-  अधस्तात्। आभौममिति भावः। समस्वरन्- शब्दयन्ति। मधुजिह्वाः- ते मधुरवाचः। असश्चतः-  विरख्नाः। भूर्णयः- क्षिप्रकारिणः। अस्य- एतस्य सोमस्य रसस्य। स्पशः- सारभूताः प्रणालीभूता  रश्मयः। न नि मिषन्ति- निमेषं न कुर्वन्ति। पाशिनः- चित्तदेशबन्धका रसाः। पदेपदे- स्थाने  स्थाने। सेतवः- अस्मत्तारकाः। सन्ति- भवन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रधारे** । बहूदकधारा यस्माद्द्रवन्ति तत्तथोक्तमन्तरिक्षम् । तस्मिन् वर्तमानाः **ते** सोमरश्मयः **अव** अवस्तात स्थिताः **समस्वरन्** । पृथिवीं वृष्ट्या संयोजयन्तीत्यर्थः । किंच **दिवः** द्युलोकस्य **नाके** समुच्छ्रिते देशे वर्तमानाः **मधुजिह्वाः** मध्वग्राः । सोमतेजसाग्रेभ्यो हि मधूत्पन्नं भवति । अतो मधुजिह्वाः । **असश्चत:** संगतवर्जिताः पृथक्पृथग्दिव्यवस्थिताः **अस्य** सोमस्य स्वभूताः **स्पशः** सारभूता रश्मयः **भूर्णयः** क्षिप्रगामिनः सन्तः **न** **नि** **मिषन्ति** निमेषं न कुर्वन्ति । किंतु पापिनः सुकृतिनश्च ज्ञातुं सर्वदा जाग्रतीत्यर्थः। अथवा । राजभृत्या यथा दुष्टान् विचारयितुं सर्वदा जागरणं कुर्वन्ति तद्वदेते रश्मयः **पदेपदे** स्थाने स्थाने **सेतवः** संबद्धाः सन्तः **पाशिनः** पापकृतां बाधकाः **सन्ति** भवन्ति ॥
@@ -272,8 +275,6 @@ His fervent spies do not blink: at every step there are snares that bind.
 
 The first hemistich seems clearly (at least to me) to contrast the ritual soma streams on earth (a) with those in heaven (b), though curiously it does not seem to have caught Lüders’s attention. That pl. asaścátaḥ elsewhere (IX.57.1, 62.28) explicitly modifies dhā́rāḥ ‘streams’ makes that identification in b quite likely. See also
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -281,6 +282,7 @@ See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vs
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -312,8 +314,6 @@ In tausendström'ger Seihe rauschten sie zusammt, am Dom des Himmels lieblich mu
 Его ревностные соглядатаи не смыкают глаз.  
 На каждом шагу находятся вязатели с петлями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

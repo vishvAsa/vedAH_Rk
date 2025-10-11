@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रो मरुतो वा"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अप्रतिरथ ऐन्द्रः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ita ← √i- 1 (root)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नरः- हे नेतारः। प्रेत- प्रगच्छत। जयत। इन्द्रः- ईशनाधिदेवता। वः- युष्माकम्। शर्म- क्षेमम्।  यच्छतु- ददातु। अनाधृष्याः- अनभिभाव्याः। यथा। असथ- भविष्यथ। तथा। वः- युष्माकम्।  बाहवः। उग्राः- वीर्यसम्पन्नाः। सन्तु- भवन्तु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरः** नेतारः संग्रामस्य निर्वोढारो योद्धारः **प्रेत** प्रकर्षेण गच्छत! गत्वा च **जयत** तान्प्रतिभटान् । तिङः परत्वात् ' तिङ्ङतिङः' इति निघाताभावः। **वः** युष्माकम् **इन्द्रः** **शर्म** सुखं **यच्छतु** प्रयच्छतु । **वः** **बाहवः** **उग्रा:** उद्गूर्णबलाः **सन्तु** भवन्तु । **अनाधृष्याः** अन्यैरनभिभाव्याः **यथा** यूयम् **असथ** भविष्यथ तथोग्राः सन्तु वो बाहवः ॥ ॥ २३ ॥
@@ -215,10 +218,6 @@ Zieht fort, sieget, ihr Mannen; Indra soll euch Schutz gewähren. Stark sollen e
 
 Ihr Männer, eilet vor und siegt, es mög' euch Indra Schutz verleihn; Es seien eure Arme stark, damit ihr bleibet unversehrt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसुर्भारद्वाजः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। यशसा- हविर्युख्नया। दध्ना- ध्यानभावनया। उन्नीताः- उद्धृताः। गवाम्- विद्यानाम्।  दानाय। शूरम्- समर्थमिन्द्रम्। सुताः- निष्पन्नाः। अमन्दिषुः- आनन्दयन्ति तदा। पवमानस्य-  पुनानस्य। सोमस्य- रसस्य। ऊर्मयः- तरङ्गाः। सुपेशसः- सुरूपिणः। इन्द्रस्य-  ईशनाधिदैवतस्य। जठरम्- हृदयम्। प्र- प्रकर्षेण। यन्ति- सरन्ति। सीदन् वनस्य जठरे पुनानः,  भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः स्तन्नबाधित इत्यादिषु मन्त्रेषु जठरशब्दस्य मध्यभाग  इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानस्य** पूयमानस्य **ऊर्मयः** रसप्रवाहाः **इन्द्रस्य** **जठरं** **प्र** **यन्ति** प्रगच्छन्ति । **सुपेशसः** सुरूपा ऊर्मय इति संबन्धः । **यत्** यदा **ईम्** एते **सुताः** अभिषुताः सोमाः **गवां** **यशसा** बलभूतेन **दध्ना** सह **उन्नीताः** सन्तः **दानाय** यजमानविषयाभिमतदानाय **शूरं** विक्रान्तमिन्द्रम् **उदमन्दिषुः** उन्मादयन्ति तदा जठरं यन्ति ॥
@@ -242,8 +245,6 @@ when, ladled up with the curds, with the glorious (product) of the cows,  the pr
 The simile in b is also found in X.43.2 rā́jeva dasma (with voc.), as Geldner (n.
 
 1b) points out. The simile is likely to be self-contained, not a necessary part of the rest of the clause, contra Ober (II.214-15), who sees it as expressing a peculiar trope, “der ‘brüllende’ König.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -278,8 +279,6 @@ Die glänzendschönen Wellen des hell flammenden, des Soma, dringen in den Bauch
 Выжатые (соки) вдохновили героя на дарение.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -300,7 +299,7 @@ Die glänzendschönen Wellen des hell flammenden, des Soma, dringen in den Bauch
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा के सदुपदेश ज्ञानयोगी को पवित्र करते हैं और उसके उत्साह को प्रतिदिन बढ़ाते हैं ॥१॥
+भावार्थभाषाः -  परमात्मा के सदुपदेश ज्ञानयोगी को पवित्र करते हैं और उसके उत्साह को प्रतिदिन बढ़ाते हैं ॥१॥
 </details>
 
 <details><summary>आर्यमुनि (सं) - विषयः</summary>

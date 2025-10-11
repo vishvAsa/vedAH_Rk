@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वत्सम्- शाबम्। संशिश्वरीरिव- बद्धपयस्का धेनव इव। यः। इन्द्रस्य- ईशनाधिदैवतस्य।  हृदंसनिः- हृदयसंभख्ना। तम्। इत्- एव। नः- अस्माकम्। गिरः- मन्त्राः। वर्धन्तु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **इन्द्रस्य** **हृदंसनिः** हृदयस्य संभक्ता भवति **तमित्** तमेव सोमं **नः** अस्माकं **गिरः** स्तुतिरूपा वाचः **सं** **वर्धन्तु** सम्यग्वर्धयन्तु । तत्र दृष्टान्तः । **वत्सं** बालं **शिश्वरीरिव** । यथा शिश्वर्यो बद्धपयस्का मातरो वत्सं वर्धयन्ति तद्वदित्यर्थः ॥
@@ -169,7 +172,6 @@ Only him let our hymns strengthen, as (cows) who share their young do a calf— 
 <details><summary>Jamison Brereton Notes</summary>
 
 The hapax tatpuruṣa hṛdaṃsáni- ‘gaining the heart’ is curious, in having an apparent acc. in -am to the neut. root noun hṛ́d-, as if to a masc. or fem. stem or to a thematic *hṛda- (see, e.g., AiG II.1.208).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -203,8 +205,6 @@ Ihm bringe Stärkung unser Lied, wie Mutterkühe ihrem Kalb, Ihm, der des Indra 
 (Того,) кто захватывает сердце Индры.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -215,7 +215,7 @@ Ihm bringe Stärkung unser Lied, wie Mutterkühe ihrem Kalb, Ihm, der des Indra 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यः) जो राष्ट्र (इन्द्रस्य हृदंसनिः) अपने स्वामी का भक्त है (तम्) उसको (इत्) निश्चय (नः गिरः) उपदेशप्रयुक्त मेरी वाणियें(वर्धन्तु)बढ़ायें(वत्सम् संशिश्वरीः इव) जिस प्रकार दुग्ध से परिपूर्ण गौ अपने बच्चे को बढ़ाती है, उसी प्रकार ॥१४॥
+पदार्थान्वयभाषाः -  (यः) जो राष्ट्र (इन्द्रस्य हृदंसनिः) अपने स्वामी का भक्त है (तम्) उसको (इत्) निश्चय (नः गिरः) उपदेशप्रयुक्त मेरी वाणियें(वर्धन्तु)बढ़ायें(वत्सम् संशिश्वरीः इव) जिस प्रकार दुग्ध से परिपूर्ण गौ अपने बच्चे को बढ़ाती है, उसी प्रकार ॥१४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

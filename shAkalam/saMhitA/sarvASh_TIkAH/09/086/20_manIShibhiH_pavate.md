@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्व्यः- पुराणः। कविः- क्रान्तदर्शी। मनीषिभिः- मेधाविभिः। पवते- क्षरति। नृभिः-  नेतृभिरुपासकैः। यतः- नियतः। कोशान्- प्रतीकं प्रति। परि अचिक्रदत्- अशब्दयत्। इन्द्रस्य-  ईशनाधिदैवतस्य। वायोः- प्राणाधिदैवतस्य। सख्याय- सख्यम्। कर्तवे- कर्तुम्। त्रितस्य-  लोकत्रयविस्तृतस्येन्द्रस्य। नाम- मन्त्रम्। जनयन्- प्रकटयन्। मधु- माधुर्यम्। क्षरत्-  पवते॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं सोमः **मनीषिभिः** मेधाविभिरध्वर्य्वादिभिः **पवते** पूयते । यद्वा । अयं मनीषिभिर्मनीषिणीभिर्धाराभिः पवते क्षरति । कीदृशोऽयम् । **पूर्व्यः** पुराणः **कविः** मेधावी **नृभिः** नेतृभिरध्वर्य्वादिभिः **यतः** नियमितः सन् **कोशान्** कलशान प्राप्तुं **परि** **अचिक्रदत्** परिक्रन्दते शब्दं करोति । **त्रितस्य** त्रिषु स्थानेषु विस्तृतस्येन्द्रस्य संबन्धि **नाम** नामकमुदकं **जनयन्** उत्पादयन् **मधु** मधुरं रसं **क्षरत्** क्षरति । किमर्थम् । **इन्द्रस्य** **वायोः** च **सख्याय** **कर्तवे** सख्यं कर्तुम् ॥ ॥१५॥
@@ -248,8 +251,6 @@ Geldner interpr. pavate as a passive, with manīṣíbhiḥ as agent (“Von den
 
 Trita is the ur-Soma presser. See disc. ad IX.37.4. Here, as Geldner (n. 20c) suggests, Soma re-creates him for the current pressing, to ensure that Indra and Vāyu will get their soma.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -274,10 +275,6 @@ Von den Verständigen wird der allererste Seher geläutert; von den Männern gez
 
 Der alte Seher rieselt durch der Priester Werk, gelenkt von Männern schrie er um die Kufen jetzt, Des Trita Wesen zeugend ström' er süssen Trank dem Indra, Vaju zu erweisen Freundesdienst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

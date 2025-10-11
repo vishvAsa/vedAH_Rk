@@ -3,7 +3,6 @@ title = "003"
 devataa = "केशिनः"
 RShiH = "विप्रजूतिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विप्रजूतिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 maúneyena ← maúneya- (nominal stem)  
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मौनयेन- चित्तवृत्तिनिरोधाख्यतूष्णींभावेन। उन्मदिताः- तृप्ताः। मद तृप्तियोगे। वयम्। वातान्-  प्राणान्। आ तस्थिम- उपास्महे। मर्तासः- हे मर्त्याः। यूयम्। अस्माकम्- नः। शरीरा- रूपाणि।  इत्- एव। अभि पश्यथ। न तु अस्माकं गम्भीरं स्वरूपम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मौनेयेन** मुनिभावेन लौकिकसर्वव्यवहारविसर्जनेन **उन्मदिताः** उन्मत्ता उन्मत्तवदाचरन्तः । यद्वा। उत्कृष्टं मदं हर्षं प्राप्ताः । **वयं** **वातान्** वायूनस्माभिरुपास्यमानान् **आ** **तस्थिम** आस्थितवन्तः । हे **मर्तासः** मनुष्याः **अस्माकं** **शरीरेत्** शरीराण्येव **यूयं** केवलम् **अभि** **पश्यथ** । नास्मान् । यतो वयं नीरूपेण वायुना सायुज्यं प्राप्ताः ॥
@@ -209,8 +212,6 @@ Wir, die wir durch heiliges Büsserleben erregt sind, sind in die Winde eingedru
 Только тела наши вы,  
 Смертные, видите перед собою.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

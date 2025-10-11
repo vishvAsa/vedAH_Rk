@@ -3,7 +3,6 @@ title = "002"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्यो- रुद्र। अग्निरिव- पावक इव। त्विषितः- दीप्तः। सहस्व- शत्रूनभिभव। सहुरे- सहनशील।  नः- अस्माकम्। सेनानीः- सेनापतिः सन्। हूतः- साहाय्यार्थमाहूतः सन्। एधि- वर्धस्व। शत्रून्-  आवरणानि। हत्वाय- हत्वा। वेदः- संपदं ज्ञानं वा। वि भजस्व- प्रयच्छ। ओजः- बलम्।  मिमानः- कुर्वन्। मृधः- शत्रुभूतवृत्राणि। वि- विशेषेण। नुदस्व- नाशय॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मन्यो** **अग्निरिव** **त्विषितः** ज्वलितः **सहस्व** अभिभव शत्रून् । हे **सहुरे** सहनशील **सेनानीः** **एधि** भव **नः** अस्माकं संग्रामे **हूतः** सन् । किंच **हत्वाय** हत्वा **शत्रून्वि** **भजस्व** प्रयच्छास्माकं **वेदः** धनं शत्रुसंबन्धि। किंच **औजो** **मिमानः** अस्माकं बलं कुर्वन् **मृधः** शत्रून् **वि** **नुदस्व** घातयेत्यर्थः ॥
@@ -266,10 +269,6 @@ Wie Feuer funkelnd siege, o Manyu; sei aufgerufen unser Heerführer, du Überleg
 
 Wie Feuer bist du glühend, starker Manju; gerufen sei, siegreicher, wie ein Feldherr; Die Feinde schlage und ihr Gut vertheile, und Kraft erweisend stosse fort die Hasser.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

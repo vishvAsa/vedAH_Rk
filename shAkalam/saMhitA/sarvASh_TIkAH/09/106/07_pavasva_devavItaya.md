@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "मनुराप्सवः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - मनुराप्सवः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। सोम- रस। देववीतये- दिव्यानुभूतये। धाराभिः। ओजसा- तेजसा। मधुमान्-  मधुरः सन्। नः- अस्माकम्। कलशम्- भाजनं प्रतीकम्। आ- आभिमुख्येन। पवस्व- क्षर।  सदः- आसीद॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **देववीतये** देवानां भक्षणाय **ओजसा** बलेन **धाराभिः** आत्मीयाभिः **पवस्व** क्षर । हे **सोम** **मधुमान्** मदकररसवांस्त्वं **नः** अस्मदीयं कलशं द्रोणाभिधानम् ॥ **आ** **सदः** । सदेर्लुङि रूपम् । आसीद ॥
@@ -173,8 +176,6 @@ Purify yourself in streams, o drop, to pursue the gods with strength. Honeyed, s
 <details><summary>Jamison Brereton Notes</summary>
 
 On imperatival sadaḥ, see comm. ad IX.2.2.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -208,8 +209,6 @@ O Indu, riesle hell mit Kraft in Strömen hin zum Göttermahl, In unsern Becher,
 Садись, о сома, полный меда, в наш кувшин!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -225,7 +224,7 @@ O Indu, riesle hell mit Kraft in Strömen hin zum Göttermahl, In unsern Becher,
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  ब्रह्मानन्द जो सब आनन्दों से बढ़कर आनन्द है, जिसको उपनिषत्कारों ने “रसो वै सः रसं ह्येवायं लब्ध्वा आनन्दी भवति” इत्यादि वाक्यों में वर्णन किया है, वह आनन्दरूप परमात्मा अपने भक्तों को अवश्यमेव अपने ब्रह्मानन्द से आनन्दित करता है ॥७॥
+भावार्थभाषाः -  ब्रह्मानन्द जो सब आनन्दों से बढ़कर आनन्द है, जिसको उपनिषत्कारों ने “रसो वै सः रसं ह्येवायं लब्ध्वा आनन्दी भवति” इत्यादि वाक्यों में वर्णन किया है, वह आनन्दरूप परमात्मा अपने भक्तों को अवश्यमेव अपने ब्रह्मानन्द से आनन्दित करता है ॥७॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

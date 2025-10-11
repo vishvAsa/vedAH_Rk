@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। वाजी- अश्वः प्राणः। रोचना- रोचकः। पवमानः- पूयमानः। दिवः- चिदाकाशात्।  रक्षोहा- दुष्टघ्नः सन्। वारम्- श्रेष्ठम्। अव्ययम्- सरणशीलरसस्य स्वस्थान एव  रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसतत्त्वस्य सुलभतया अवगमसाधनभूतम्।  प्रतीकम्। वि धावति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **वाजी** वेजनवानश्वस्थानीयः **दिवः** स्वर्गस्य **रोचना** रोचकः **पवमानः** पूयमानः **वि** **धावति** । कीदृशः । **रक्षोहा** रक्षोहन्ता **अव्ययं** **वारं** दशापवित्रमतीत्य च धावति ॥
@@ -187,10 +190,6 @@ Der Preisrenner durchläuft, sich läuternd, die Lichter des Himmels, die Schafw
 
 Der Renner eilt, der flammende, hin durch des Himmels Aetherraum, Feindtödtend durch das wollne Sieb.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

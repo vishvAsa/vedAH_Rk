@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषणम्- वर्षकम्। अप्तुरम्- जीवोदकप्रेरकम्। सोमम्- रसम्। धीभिः- चित्तधारणाभिः। ऋतस्य-  प्रकृतिनियतिभूतसत्यस्य। धारया। मती- मत्या। विप्राः- मेधाविनः। समस्वरन्- प्रेरयन्ति॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विप्राः** मेधाविन ऋत्विजः **वृषणं** कामानां वर्षकम् **अप्तुरम्** अपां प्रेरकं **सोमं** **धीभिः** अङ्गुलीभिः **मती** मत्या स्तुत्या च **ऋतस्य** उदकस्य **धारया** **समस्वरन्** प्रेरयन्ति ॥
@@ -183,10 +186,6 @@ Dem Bullen , der unter Gebeten das Wasser überwindet, dem Soma, der in ordnungs
 
 Mit Andacht und Gebet besang der Sänger Schar den thät'gen Stier, Den Soma in des Opfers Strom.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

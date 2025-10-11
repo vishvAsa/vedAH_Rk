@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। आर्जीकेषु- शोभनगतिमत्सु। ऋज गतौ। कृत्वसु- कर्मविशेषेषु। ये। पत्स्यानाम्-  जीवोदकानाम्। मध्ये। ये वा। पञ्चसु जनेषु- निषादपञ्चमेषु जनसमूहेषु निष्पन्नाः॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** वा सोमाः **आर्जीकेषु** । ऋजीकानामदूरभवा आर्जीका देशाः । तेषु तथा **कृत्वसु** । कृत्वान इति देशाभिधानम् । तेषु कर्मवत्सु देशेषु च किंच **पस्त्यानां** सरस्वत्यादीनां नदीनां **मध्ये** समीपे च **ये** सोमा अभिषूयन्ते । **ऋषयो** वै सरस्वत्यां सत्रमासत' (ऐ. ब्रा. २.१९) इत्यादिषु नदीतीरे यज्ञकरणस्य श्रवणात् । किंच **जनेषु** **पञ्चसु** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्च जनाः । तेषु च **ये** **वा** सोमा अभिषुताः ते सोमा अस्माकमभिमतं प्रयच्छन्त्वित्युत्तरेण संबन्धः ॥
@@ -165,7 +168,6 @@ or those among the five peoples,
 
 Geldner and Renou (see also Mayr. PN s.vv.) take ārjīkéṣu and kṛ́tvasu as referring to peoples. On ārjīká- see comm. ad VIII.7.29 and Thieme, Unters. p. 40 n. 2. As for kṛ́tvan-, since in its other two occurrences in the RV (VIII.24.25, X.144.3) it is adjectival, in the meaning ‘active, enterprising’, I see no reason why it should be a proper noun only here. I was tempted to tr. it “ritually active,” but this came uncomfortably close to “sexually active.” As for pastyā̀- as ‘dwelling place’, rather than ‘river’ (Geldner, Renou, etc.), see comm. ad I.40.7 and IX.97.18.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -190,10 +192,6 @@ Die bei den Arjika´s, bei den Kritvan´s, die innerhalb des Flußgebiets oder b
 
 Die in Behältern voller Kraft, die mitten in dem Heimatsitz Und bei den fünf Geschlechtern sind,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

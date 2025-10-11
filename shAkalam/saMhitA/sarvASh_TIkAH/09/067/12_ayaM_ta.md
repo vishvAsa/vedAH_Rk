@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अत्रिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आघृणे- दीप्यमान। सुतः- निष्पन्नः सन्। अयम्- एषः। ते- तव रसः। शुचि घृतं न-  शुद्धघृतधारावत्। पवते- क्षरति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **आघृणे** । 'घृ क्षरणदीप्त्योः । सर्वतो दीप्यमान पवमान पूषन् वा **ते** त्वदर्थं **सुतः** अभिषुतः **अयं** सोमः **पवते** त्वदभिमुखमागच्छति । यद्वा । त्वदर्थं पात्रेषु पवित्रेण पूतो भवति क्षरति वा । तत्र दृष्टान्तः। **घृतं** **न** **शुचि** । शुद्धं घृतं यथा त्वां प्राप्नोति तद्वत् । ततस्त्वमभिलषितान्यस्माकं देहीति ॥
@@ -180,7 +183,6 @@ This pressed soma here purifies himself, gleaming like ghee, for you,  glowing o
 ā́ghṛṇi- is an epithet exclusive to Pūṣan. On the word, see comm. ad VI.53.3.
 
 That Pūṣan is addressed in the 2nd ps. here, while the refrain remains in the 3rd ps., might be taken as evidence for Ober’s identification of Soma as the subject of the refrain - since soma is in the 3rd ps. in this vs. However, refrains tend to operate in syntactic independence from their vss., and, as I argued above, once the refrain is set, it is unlikely to change referents.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -217,8 +219,6 @@ Der ist, glutreicher, dir gepresst, er rieselt gleichsam helles Fett, Er schenke
 Очищается, словно прозрачное топленое масло.  
 Пусть наделит он нас девицами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

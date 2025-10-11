@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कवीनाम्- क्रान्तदर्शिनाम्। वाचः- मन्त्रस्य। जन्तुः- जनयिता सन्। सोम- रस। धारया। पवस्व-  क्षर। देवेषु- द्योतनशीलेषु। रत्नधाः- संपद्धारकः। असि- भवसि॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **कवीनां** क्रान्तप्रज्ञानां स्तोतॄणां **वाचो** **जन्तुः** स्तुतेर्जनयिता । यद्वा । मेधाविनां मध्ये त्वमेव वाचं जनयसि । अत्यन्तं वाग्मी त्वं **धारया** **पवस्व** द्रोणकलशं ग्रहांश्च प्राप्नुहि । तत इन्द्रादिदेवेषु **रत्नधाः** रमणशीलस्य सोमस्य निधाता **असि** भवसि । अथवा । देवेषु स्तोत्रकारिषु कर्म कुर्वाणेषु वास्मासु रत्नस्य कनकादेर्दाता भवसि । ।
@@ -164,8 +167,6 @@ As child of the speech of the poets, o Soma, purify yourself in a stream. You ar
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma is obviously “child of the speech of the poets” (vācó jantúḥ kavīnā́m) because ritual speech sets in motion the preparation of soma.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -198,8 +199,6 @@ Entstammt dem Lied der Sänger du, o Soma, riesle hell im Strom, Den Göttern th
 Очищайся, о сома, потоком!  
 Среди богов ты – дающий сокровища.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

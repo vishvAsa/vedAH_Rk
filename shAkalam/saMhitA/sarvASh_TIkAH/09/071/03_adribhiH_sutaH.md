@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - ऋषभो वैश्वामित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अद्रिभिः- स्थैर्यप्रतीकैर्ग्रावभिः पर्वतैर्वा। सुतः- निष्पन्नः। गभस्त्योः- रसोद्दीपकयोः  प्राणापानेशनशत्तयोः। बभसति दीपयन्त्याभ्यां रसमिति गभस्ती प्राणापानेशनशख्नी।  आधिभौतिके  तु बाहुभ्याम्। बभसति दीपयन्ति निर्मथ्नन्त्याभ्यामग्निमिति गभस्ती बाहू। पवते- क्षरति। वृषायते-  वृषभ इव राजते। नभसा- चिदाकाशेन। मती- मत्या च। वेपते- व्याप्नोति। सः- असौ रसः।  मोदते- तुष्यति। नसते- संश्लिष्टो भवति। साधते- साधयति। गिरा- मन्त्रेण। अप्सु-  मूलोदकधारासु। नेनिख्ने- शोधितो भवति। परीमणि- पोषके यज्ञे। यजते- पूजितो भवति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्रिभिः** ग्रावभिः **गभस्त्योः** बाह्वोः बाहुभ्यां च **सुतः** अभिषुतः स सोमः **पवते** पात्राणि प्रति गच्छति । यः सोमः **वृषायते** वृषवदाचरति । किंच यः **मती** स्तुत्याभिष्टुतः सन् **नभसा** अन्तरिक्षेण **वेपते** सर्वत्र गच्छति **सः** सोमः **मोदते** हृष्टो भवति । तथा **नसते** ग्रहादिषु संश्लिष्टो भवति । किंच **गिरा** स्तुत्या स्तुतः सन् **साधते** स्तोतॄणां धनान्नादिकं साधयति । अपि च **अप्सु** वसतीवर्याख्यासु **नेनिक्ते** शुद्धो भवति । तथा **परीमणि** देवै रक्ष्यमाणे यज्ञे देवानां हविष्प्रदानेन पोषके वा यज्ञे **यजते** पूजितो भवति ॥
@@ -241,7 +244,7 @@ The repeated sám in 8d can then be interpr. as a type of poetic repair.
 
 The verb nenikté ‘washes’ is of course etym. related to nirṇíj-, the word for garment that figures so heavily in these hymns (incl. in the immed. preceding vs., 2d), but their developed meanings are too divergent to allow the connection to be represented in Engl.
 
-párīman- is a hapax, but, as is generally agreed (see EWA s.v., Renou’s n.), it most likely belongs to √pṝ̥‘fill’. It may have been formed on the model of better attested várīman- ‘broadness’, which ends the next vs. and occupies the same metrical slot. Both these words function in much the same way as tánā ‘in its full measure/extent’, which ends vs. 2.
+párīman- is a hapax, but, as is generally agreed (see EWA s.v., Renou’s n.), it most likely belongs to √pṝ̥‘fill’. It may have been formed on the model of better attested várīman- ‘broadness’, which ends the next vs. and occupies the same metrical slot. Both these words function in much the same way as tánā ‘in its full measure/extent’, which ends vs. 2.
 </details>
 
 <details><summary>Griffith</summary>
@@ -267,8 +270,6 @@ Gepresst von Steinen rieselt aus den Armen er, mit Regen strömt er, ist begeist
 Он ликует, ласкает, достигает цели благодаря песне.  
 Он дочиста полощется в водах, приносит себя в жертву полностью.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

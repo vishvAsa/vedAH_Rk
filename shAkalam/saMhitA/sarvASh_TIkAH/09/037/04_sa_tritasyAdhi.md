@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    सः- तादृशः। पवमानः- पुनानः सोमः। त्रितस्य- तीर्णतमस्य तिरस्कृताज्ञानस्य। सानवि अधि-  हृदयस्य उत्कृष्टे देशे। जामिभिः सह- सूर्यबन्धुभिश्चिद्रश्मिभिः सह। सूर्यं- आत्मसूर्यम्।  अरोचयत्- प्रकाशितवान्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **त्रितस्य** महर्षेः **अधि** **सानवि** समुच्छ्रिते यज्ञे । अधीति सप्तम्यर्थानुवादी। **पवमानः** पूयमानः **जामिभिः** प्रवृद्धैर्बन्धुभूतैर्वा स्वतेजोभिः **सह** सहितः सन् 'सूर्यम् **अरोचयत्** प्रकाशितवान् ॥
@@ -173,10 +176,6 @@ Auf dem erhöhten Platze des Trita ließ Pavamana die Sonne leuchten im Verein m
 
 Hoch auf des Trita Bergeshöh entzündete der flammende Die Sonne sammt der Schwesterschar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

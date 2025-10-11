@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - अग्निष्चाक्षुषः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। भराय- निर्वाहाय। सानसिः- भजनीयः। इन्द्राय- ईशनाधिदैवताय। सुतः-  निष्पन्नः। पवते- क्षरति। जैत्रस्य- जेतारमिन्द्रम्। यथा विदे- यथा विदुषो जानन्ति तथा। चेतति-  जानाति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भराय** संग्रामाय तदर्थं **सानसिः** भजनीयः **सुतः** अभिषुतः **अयं** **सोमः** **इन्द्राय** इन्द्रार्थं **पवते** ग्रहादिषु क्षरति । ततः **सोमः** **जैत्रस्य** ॥ ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा । ‘ चतुर्थ्यर्थे बहुलम् ' इति षष्ठी ॥ जयशीलमिन्द्रं **चेतति** जानाति । **यथा** इन्द्रः **विदे** लोकैर्ज्ञायते तथा जानाति ॥
@@ -174,8 +177,6 @@ Soma takes note of the victorious one, as is (well) known.
 <details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take jaítrasya as a noun ‘victory’, but with Grassmann I supply Indra as the referent for this vṛddhi adj. This would provide a thematic reciprocity between vss. 1 and 2: in 1 the soma drops are born because of Indra’s attentive hearing (in my interpr.), while here Soma repays Indra’s attention with his own.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -210,8 +211,6 @@ Dem Indra rieselt zum Genuss der segensreiche Trank herbei, Und Soma hat des Sie
 Очищается для добычи, для Индры.  
 Сома разбирается в победе, как она происходит.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

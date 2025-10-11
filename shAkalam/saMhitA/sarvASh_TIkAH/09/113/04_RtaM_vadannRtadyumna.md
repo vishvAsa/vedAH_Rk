@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 r̥tadyumna ← r̥tadyumna- (nominal stem)  
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धात्रा- ब्रह्मणा महत्तत्त्वाधिदैवतेन। परिष्कृतः- मण्डितः सन्। सोम- रस। ऋतम्- धर्मम्। वदन्-  ब्रुवन्। ऋतद्युम्न- धर्मप्रकाश। सत्यकर्मन्- अवितथकर्मन्। सत्यम्- परमार्थसत्यम्। वदन्-  ब्रुवन्। श्रद्धाम्। वदन्। राजन्- रञ्जक। सोम- रस। परि स्रव॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **ऋतद्युम्न** ऋतेन द्योतमान सत्ययशस्क वा **सत्यकर्मन्** यथार्थकर्मन् हे **सोम** अभिषूयमाण **राजन्** सर्वेषां यज्ञनिष्पादकत्वेन स्वामिन् हे सोम **ऋतं** यज्ञं **वदन्** **सत्यं** वदन् उच्चारयन् **श्रद्धां** यजमानानामात्मनोपेक्षितां **वदन्** **धात्रा** कर्मणां धारकेण देवानां पोषकेण वा यजमानेन **परिष्कृतः** अलंकृतस्त्वम् **इन्द्राय** **परि** **स्रव** । ‘संपर्युपेभ्यः' इति भूषणार्थे करोतेः सुट् ॥
@@ -272,8 +275,6 @@ Recht sprechend, du des Rechtes Freund, und Wahrheit du, der Wahrheit übt, Und 
 О сома, приготовленный исполнителем (обряда), –  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

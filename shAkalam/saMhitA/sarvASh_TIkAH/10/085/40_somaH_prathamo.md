@@ -3,7 +3,6 @@ title = "040"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 prathamáḥ ← prathamá- (nominal stem)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१२    देवताप्रसादत्त्वेन जाया वर्ण्यते। सोमः- रसाधिदेवता अभ्युदयात्मकः। प्रथमः। विविदे- वधूं  लब्धवान्। गन्धर्वः- सूर्यः आत्माधिदेवता निःश्रेयसात्मकः। गां रश्मिं दधातीति गन्धर्वः। उत्तरः-  अनन्तरम्। विविदे- लब्धवान्। तृतीयः। ते- तव। पतिः- भर्ता। अग्निः- सर्वभूतहितक्रत्वात्मकः  पावकः। ते- तव। मनुष्यजाः- मनुष्यः पतिः। तुरीयः- चतुर्थ एव। अभ्युदयेन निःश्रेयसं  निःश्रेयसेन सर्वभूतहितक्रतुत्त्वं प्राप्य सम्पन्ना मां मनुष्यं पतिमागच्छेति भावः॥४०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 जातां कन्यां **सोमः** प्रथमभावी सन् **विविदे** लब्धवान् । **गन्धर्वः** **उत्तरः** सन् **विविदे** लब्धवान् । **अग्निः** **तृतीयः** **पतिः** **ते** तव । पश्चात् **मनुष्यजाः** पतिः **तुरीयः** चतुर्थः ॥ ॥२७॥
@@ -223,8 +226,6 @@ Soma erhielt dich zuerst; der Gandharve erhielt dich als der zweite, dein dritte
 Третий твой муж – Агни,  
 Четвертый твой – рожденный от человека.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

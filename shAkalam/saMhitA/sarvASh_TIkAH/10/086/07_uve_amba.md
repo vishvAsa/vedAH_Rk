@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - वृषाकपिः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 amba ← amba (nominal stem)  
@@ -235,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सुलाभिके- शोभनलाभे। अम्ब। यथा वदसि तथा। भविष्यति- भवेत्। मे- मम। भसत्। सक्थि।  शिरः। वीव- पक्षीव। हृष्यति- मोदते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवमिन्द्राण्या शप्तो वृषाकपिर्ब्रवीति । **उवे** इति संबोधनार्थो निपातः । हे **अम्ब** मातः **सुलाभिके** शोभनलाभे त्वया **यथैव** येन प्रकारेणैवोक्तं तथैव तत् **अङ्ग** क्षिप्रं **भविष्यति** भवतु । किमनेन त्वदनुप्रीतिकारिणा ग्रहेण मम प्रयोजनम् । किंच **मे** मम पितुः त्वदीयो **भसत्** भग उपयुज्यताम्। किंच मम पितुस्त्वदीयं **सक्थि** चोपयुज्यताम् । किंच **मे** मम पितरमिन्द्रं त्वदीयं **शिरः** च प्रियालापेन **वीव** यथा कोकिलादिः पक्षी तद्वत् **हृष्यति** हर्षयतु । मम पिता **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
@@ -275,10 +278,6 @@ O weh, Mütterchen, du leicht zu kriegendes Weibchen, wie es wohl sicher kommen 
 
 Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hinterer, o Mutter, meine Hüfte und mein Kopf ist gleichsam in Aufregung. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

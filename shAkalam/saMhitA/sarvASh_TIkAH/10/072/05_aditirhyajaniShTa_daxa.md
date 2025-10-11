@@ -3,7 +3,6 @@ title = "005"
 devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 áditiḥ ← áditi- (nominal stem)  
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दक्ष- शख्ने। या। तव- ते। दुहिता- पुत्री। अदितिः- अखण्डप्रकृतिः। हि- खलु। अजनिष्ट-  जाता। ताम्। भद्राः- मङ्गळाः। अमृतबन्धवः- अमृतसम्बन्धिन्यः। देवाः- द्योतनशख्नयः।  अन्वजायन्त- अनुसृत्य जाताः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दक्ष** **तव** **या** **दुहिता** अभूत् सा **अदितिः** **अजनिष्ट** **हि** पुत्रानादित्यान् । तदेवाह। **तां** **देवा** **अन्वजायन्त** **भद्राः** स्तुत्या भजनीयाः **अमृतबन्धवः** अमरणबन्धनाः ॥ ॥ १ ॥
@@ -226,8 +229,6 @@ Denn sie, die deine Tochter ist, o Dakscha, Aditi entsprang, Ihr nach entsprang 
 Вслед за ней родились боги,  
 Счастливые, бессмертию сродни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

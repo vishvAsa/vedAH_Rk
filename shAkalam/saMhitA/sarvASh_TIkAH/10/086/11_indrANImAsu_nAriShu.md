@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 āsú ← ayám (pronoun)  
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आसु- एतासु। नारीषु- स्त्रीषु। इन्द्राणीम्- इन्द्रपत्नीम्। सुभगाम्- सौभाग्यवतीम्। अहम्।  अश्रवम्- अशृणवम्। अस्याः- एतस्याः। पतिः- भर्ता। अपरं चन- अपरं भूतजातमिव। जरसा-  वार्धक्येन। न  मरते- न म्रियते॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथेन्द्राणीमिन्द्रः स्तौति । **आसु** सौभाग्यवत्तया प्रसिद्धासु **नारिषु** स्त्रीषु स्त्रीणां मध्ये **इन्द्राणीं** **सुभगां** सौभाग्यवतीम् **अहम्** इन्द्रः **अश्रवम्** अश्रौषम्। किंच **अस्याः** इन्द्राण्याः **पतिः** पालकः **विश्वस्मात्** **उत्तरः** उत्कृष्टतरः **इन्द्रः** **अपरं** **चन** अन्यद्भूतजातमिव **जरसा** वयोहान्या **नहि** **मरते** न खलु म्रियते । यद्वा । इदं वृषाकपेर्वाक्यम् । तस्मिन् पक्षे त्वहमिति शब्दो वृषाकपिपरतया योज्यः । अन्यत्समानम् ॥
@@ -209,7 +212,6 @@ _________
 
 Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -240,10 +242,6 @@ Unter diesen Herrinnen, so hörte ich, ist Indrani die Glückliche, denn nicht w
 
 Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn nie, auch in ferner Zukunft, stirbt ihr Gatte an Altersschwäche. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

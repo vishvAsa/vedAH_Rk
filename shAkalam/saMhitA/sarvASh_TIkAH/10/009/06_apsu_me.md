@@ -3,7 +3,6 @@ title = "006"
 devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसदेवता। मे- माम्। अब्रवीत्- उवाच। अप्सु- जले इत्याधिभौतिकम्।  जीवाधारशख्निप्रवाहे इत्याध्यात्मिकम्। अन्तः। विश्वानि भेषजा- सर्वाणि भैषज्यानि निहितानीति।  विश्वशंभुवम्- सर्वभूतहितक्रतुम्। अग्निं च। विश्वभेषजीः- सर्वेषां भिषजः। आपश्च- अपश्च।  सोमः। अब्रवीत्- उपदिष्टवान्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -192,8 +195,6 @@ Im Wasser, sagte Soma mir, ist alle Arzenei vereint Und Agni, der das All erquic
 Все целебные средства  
 И Агни всеблагой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

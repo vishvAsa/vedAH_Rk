@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "विराट्"
 - ऋषिः - त्र्यरुणत्रसदस्यू
 - छन्दः - विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। स्वायुधः- शोभनायुधः सन्। शत्रून्- रिपून्। सासह्वान्- अभिभवन्। पृतन्यून्-  युद्धकामान्। सहमानः- सहिष्णुः। दुर्गहाणि। रक्षांसि। अप सेधन्- बाधमानः। सः- तादृशः सन्।  पवस्व- क्षर॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **सः** तादृशस्त्वं **पवस्व** । किं कुर्वन् । **पृतन्यून्** ॥ ‘कव्यध्वरपृतनस्यर्चि लोपः। इति क्यचि परतोऽकारलोपः ॥ संग्रामकामान् शत्रून् **सहमानः** अभिभवन् तथा **दुर्गहाणि** कैश्चिदपि दुर्गमाणि **रक्षांसि** **अप** **सेधन्** अपगमयन् हिंसन् । किंच **स्वायुधः** शोभनायुधः सन् **शत्रून्** **सासह्वान्** अभिभवन्नभितपन् पवस्व ॥ ॥ २३ ॥
@@ -183,7 +186,6 @@ having good weapons, having vanquished your rivals, Soma.
 <details><summary>Jamison Brereton Notes</summary>
 
 The c pāda also shows alliteration: s u vāyudháḥ sāsahvā́n soma śátrun.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -216,8 +218,6 @@ So riesle hell, der Feinde Schar besiegend, Gespenster tilgend und Gefahren sche
 Прогоняющий ракшасов, у(страняющий) дурные пути,  
 Хорошо вооруженный, о сома, (всегда) побеждающий врагов!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

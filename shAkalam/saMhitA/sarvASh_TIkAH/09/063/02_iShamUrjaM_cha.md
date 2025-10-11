@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मत्सरिन्तमः- अतिशयेन हर्षकरः। इन्द्राय- ईशनाधिदैवताय। इषम्- सत्कामनाम्। ऊर्जं-  शख्निम्। च। पिन्वसे- क्षरसि। चमूषु- भाजनेषु प्रतीकेषु। आ- आभिमुख्येन। नि षीदसि-  उपविशसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मत्सरिन्तमः** अतिशयेन मदयितृतमस्त्वम् **इन्द्राय** इन्द्रार्थम् **इषम्** अन्नम् **ऊर्जं** रसं **च** **पिन्वसे** क्षरसि । अपि च **चमूषु** चमसेषु **आ** **नि** **षीदसि** तिष्ठसि ॥
@@ -178,10 +181,6 @@ Labsal und Stärkung gibst du in Fülle, für Indra der Berauschendste. Du setze
 
 Du lässest schwellen Kraft und Saft dem Indra, o berauschendster, In Schalen lässt du nieder dich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

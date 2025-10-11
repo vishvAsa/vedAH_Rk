@@ -3,7 +3,6 @@ title = "003"
 devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - मुद्गलो भार्म्यश्वः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- ईशनाधिदैवत। वज्रम्- भवदायुधम्। जिघांसतः- हन्तुमिच्छतः। अभिदासतः-  अभिद्रुह्यतः। अन्तर्यच्छ- अन्तः प्रवेशय। मघवन्- सम्पद्वन्। दासस्य वा- उपक्षीणस्य वा।  आर्यस्य वा- महतो वा। वधम्- हिंसाम्। सनुतः- अन्तर्हिताम्। यवय- अस्मत्तः पृथक्कुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **जिघांसतः** हन्तुमिच्छतः **अभिदासतः** अभिद्रुह्यतः शत्रोः **वज्रम्** अन्तर्यच्छ अन्तर्गमय । तदेवाह । हे **मघवन्** धनवन्निन्द्र **दासस्य** **वा** उपक्षीणस्याल्पस्य **आर्यस्य** अभिगन्तव्यस्य महतो **वा** शत्रोः **वधम्** । वज्रनामैतत् । हननसाधनं वज्रं **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितं गूढं प्रयुज्यमानं **यवय** पृथक्कुरु ॥
@@ -209,10 +212,6 @@ Halte, Indra, die Keule des Bedrohenden auf, der zu Fall bringen will! Halte abs
 
 Lenke, o Indra, deinen Blitz mitten unter die mordlustigen, die uns befeinden, halte fern, o mächtiger, sowol des Barbaren als des Ariers Mordwaffe.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

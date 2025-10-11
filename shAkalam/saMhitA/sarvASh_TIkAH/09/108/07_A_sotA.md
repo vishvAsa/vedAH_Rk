@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "ऋजिश्वा"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - ऋजिश्वा
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्वं न- तुरगमिव स्थितम्। स्तोमम्- मन्त्रमयम्। अप्तुरम्- मूलशख्निधाराणां प्रेरकम्। रजस्तुरम्-  तेजः प्रेरकम्। वनक्रक्षम्- आश्रितजनाकर्षकम्। उदप्रुतम्- जीवोदके प्लवमानम्। आ- समन्तात्।  सोत- निष्पादयत। परि- परितः। सिञ्चत॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **आ** **सोत** सोममभिषुणुत ॥ ‘ षुञ् अभिषवे' । लोटि छान्दसो विकरणस्य लुक् । ‘ तप्तनप्तनथनाश्च ' इति तस्य तबादेशः ॥ किंच **परि** **षिञ्चत** परितस्तं वसतीवर्यादिभिः सिञ्चत । कीदृशम् । **अश्वं** **न** अश्वमिव वेगिनं **स्तोमं** स्तोतव्यम् **अप्तुरम्** अन्तरिक्षस्थितानामुदकानां प्रेरकं **रजस्तुरं** तेजसां च प्रेरकम् । **वनक्रक्षम्** उदकानां कर्षकम् । यद्वा । काष्ठेषु पात्रेषु विप्रकीर्णम् । **उदप्रुतम्** उदके गच्छन्तं प्लवमानं सोममभिषुणुताभिषिञ्चत च ॥
@@ -169,8 +172,6 @@ that is howling in the wood and swimming in the waters,
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two sleight-of-hand manoeuvres. The first involves the simile and frame with pári ṣiñcata ‘sprinkle around’. This verb ordinarily takes an acc. of the liquid sprinkled; see for ex. the immed. preceding hymn with the same lexeme: IX.107.1 pári … ṣiñcata sutám “sprinkle around the pressed (drink).” But the acc. in the simile, áśvaṃ ná is the target of the sprinkling, not the liquid. So although the cases agree (implicitly: there is no expressed acc. in the frame), they have different syntactic functions (the opposite of my “case disharmony”). So Geldner explicitly (n. 7a). For horses as obj. with √sic, see IV.43.6 síndhur ha vāṃ rasáyā siñcad áśvān “The Sindhu River sprinkles your [=Aśvins’] horses with the Rasā.” The 2nd sleight of hand follows immediately. Both the verb and the string of acc. that follow demand the obj. *sómam, but instead we find the near rhyme form stómam ‘praise’. Rather than emend this to the easier reading (as Oldenberg seems inclined to do, along with numerous others; see his comm.), it is better to accept the implicit equation of the two ritual elements: the offered liquid and the offered words. This is not the only place in the RV where this trope is found.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -203,8 +204,6 @@ Presst aus, ergiesst den emsigen, den Soma, der gleich einem Ross die Luft durch
 Как коня, (эту) хвалу, (его,) пересекающего воды, пересекающего пространство,  
 Шумящего в деревянных (сосудах), плавающего в воде,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

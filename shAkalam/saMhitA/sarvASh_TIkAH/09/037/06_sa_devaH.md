@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मंहना- महात्मा। सः। देवः- द्योतनशीलः। कविना- क्रान्तदर्शिना। इषितः- प्रेरितः। इन्द्राय-  परमेश्वराय। इन्दुः- हृदयक्लेदनशीलः सन्। द्रोणानि- कलशान् प्रतीकान्। अभि- आभिमुख्येन।  धावति- प्रवहति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **देवः** **इन्दुः** क्लिद्यमानः **कविना** क्रान्तप्रज्ञेनाध्वर्युणा **इषितः** प्रेरितः सन् **द्रोणानि** द्रोणकलशान् **अभि** **धावति** अभिगच्छति । किमर्थम् । **इन्द्राय** इन्द्रार्थम् । **मंहना** महान् स इति समन्वयः ॥ ॥ २७ ॥
@@ -178,10 +181,6 @@ Der Gott läuft, vom Dichter getrieben, nach den Holzgefäßen, der Saft bereitw
 
 Er strömt, vom Sänger ausgesandt, der Gott, zu den Gefässen hin, Zu Indra Indu voll Begier.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

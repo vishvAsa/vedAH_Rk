@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    गिरा- वाचा। जातः- प्रादुर्भूतः। स्तुतः- वन्दितः। इन्दुः- क्लेदनशीलो रसः। इन्द्राय-  ईशनाधिदैवताय। योना- ऋतसदने। इह- अत्र। विः- पक्षी। वसताविव- नीडे इव। धीयते-  निधीयते॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जातः** प्रादुर्भूतः **गिरा** स्तुत्या **स्तुतः** च **इन्दुः** सोमः **इह** अस्मिन् यज्ञे **योना** योनौ स्वस्थाने **इन्द्राय** इन्द्रार्थं **वसताविव** **विः** यथा स्ववासे पक्षी तथा **धीयते** निधीयते ॥ ॥२६॥
@@ -179,7 +182,6 @@ The pass. dhīyate in b might weakly support taking hitáḥ in 10a to √dhā a
 
 Pāda c is the third instantiation (always in the c pāda) of the image comparing soma installed in the wooden cups to a bird on a yóni-: 4c śyenó ná yónim ā́sadat, 8c sī́dan yónā váneṣv ā́, our 15c vír yónā vasatā́v iva - and cf. in the preceding hymn IX.61.21c sī́dañ chyenó ná yónim ā́. Judging from the position of ivain our vs., both the bird and the yónihave become so much part of the identity of soma that only the ‘nest’ (vasatí-) is considered part of the simile proper - though we must keep in mind the multiple disturbances in the position of simile particles in Maṇḍala IX as disc. passim above.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -204,10 +206,6 @@ Auf dem Berg entsprossen, hier gepriesen, wird der Saft für Indra hingesetzt an
 
 Durch Lied gezeugt, gepriesen hier, wird Indu Indra'n dargereicht, Ein Vogel in des Nestes Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

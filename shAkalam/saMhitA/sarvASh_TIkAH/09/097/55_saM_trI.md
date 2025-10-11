@@ -3,7 +3,6 @@ title = "055"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्सः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२०    विततानि- विस्तृतानि। त्री पवित्रा- त्रीणि पात्राणि प्रतीकभूतानि वा  भूर्भुवःसुवरुपलक्षितान्नप्राणमानांसि। सम्- सम्यक्। एषि- गच्छसि। पूयमानः- पुनानः। एकम्-  एकं सुवरुपलक्षितचित्तमेव तृतीयं प्रधानतया। अनुधावसि। इन्दो- क्लेदनशील रस। भगः-  सौभाग्यदेवता। असि- भवसि। दात्रस्य - दातुः। दाता। असि। मघवद्भ्यः- हव्यवद्भ्यः। मघवा-  संपद्वान्। असि॥५५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेसोम विततानि विस्तृतानि त्री त्रीणि पवित्रा अग्निवायुसूर्यात्मकानि पवित्राणि समेषि सम्यक् प्राप्नोषि । किञ्च पूयमानस्त्वं एकमविवालकृतम्पवित्रं अनुधावसि अनुगच्छ- सि । किञ्चत्वं भगोभजनीयोसि तथा दात्रस्यदेयस्यधनस्य दातासि । कथमस्यधनदत्वमिति चेत्तदुच्यते । हेइन्दो सोम मघवद्भ्योन्येभ्योपित्वं मघवासि अतिशयेन धनवान् भवसि ॥ ५५ ॥
@@ -245,8 +248,6 @@ You are Bhaga, you are the giver of the gift; you are bounteous to the  bounteou
 We meet the three filters also in IX.73.8, where their identity is not clear.
 
 Needless to say, Lüders (703-4) has a cosmic explanation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
@@ -284,8 +285,6 @@ Du gehst zu dreien ausgespannten Seihen, durchströmst hellleuchtend eine nach d
 Ты – счастливая доля, ты – даритель дара,  
 Ты – щедрый для щедрых, о сок (сомы).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

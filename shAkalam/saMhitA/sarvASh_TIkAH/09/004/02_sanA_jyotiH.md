@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम । ज्योतिः- दीप्तिम्। सन। स्वः- स्वर्गम्। विश्वा सौभगा- सर्वाणि सौभाग्यानि। सन॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **ज्योतिः** तेजः **सन** अस्मभ्यं प्रयच्छ । अपि च **स्वः** स्वर्गं **सन** अस्मभ्यं देहि । **विश्वा** विश्वानि **सौभगा** सौभाग्यानि **च** सन । सिद्धमन्यत् ॥
@@ -203,8 +206,6 @@ Gewinne Glanz, gewinne Licht, o Soma, alles hohe Glück Und mach' uns reicher nu
 И все, что приносит счастье, о сома.  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

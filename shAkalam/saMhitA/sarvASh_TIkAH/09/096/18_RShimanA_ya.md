@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋषिमनाः- दर्शनयुख्नचित्तः। यः। ऋषिकृत्- दर्शनकारकः। स्वर्षाः- शोभनगतिः। सहस्रणीथः-  अनन्तनीतिसंपन्नः। कवीनाम्- क्रान्तदर्शिनाम्। पदवीः- पदगः। तृतीयं धाम- सुवः। सिषासन्-  संभख्नुमिच्छन्। महिषः- महात्मा। सोमः- रसः। स्तुप्- स्तूयमानः। विराजम्- सूर्यम्। अनु।  राजति- प्रकाशते। आध्यात्मिके आत्मानमनु राजते॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋषिमना:** सर्वदर्शनशीलमनस्कः अत एव **ऋषिकृत्** सर्वस्य दर्शनकर्ता प्रकाशनस्य कर्ता **स्वर्षाः** सर्वस्य सूर्यस्य वा संभक्ता **सहस्रणीथः** । नीथा स्तुतिः । बहुविधस्तुतिकः **कवीनां** क्रान्तप्रज्ञानां मध्ये **पदवीः** स्खलतां पदानां साधुत्वेन संयोजयिता **यः** सोमो विद्यते सः **महिषः** महान् पूज्यो वा **सोमः** **तृतीयं** **धाम** द्युलोकं **सिषासन्** संभक्तुमिच्छन् **स्तुप्** स्तूयमानः सन् **विराजं** विशेषेण राजन्तं दीप्यमानमिन्द्रम् **अनु** **राजति** प्रकाशयति ॥
@@ -235,8 +238,6 @@ What the referent of the “third domain” (tṛtī́yaṃ dhā́ma) is is uncl
 As generally noted by tr. (Geldner, Renou, also Scarlatta [72]), pāda d involves a play on the names of the Anuṣṭubh and Virāj meters. The published translation fails to register the pun on virā́jam, well captured by Scarlatta “Soma herrscht nach Art eines Grosskönigs.” I would now substitute a fuller (if more awk.) tr.: “Soma, as rhythm [/ the Anuṣṭubh meter], rules as wide-ruling one [/regulates the Virāj (meter) according to rule].” This tr.
 
 assumes that virā́jam represents not only the acc. sg. of the rt. noun cmpd. virā́j-, but also the nom. sg. pres. part. *virā́jan to the them. pres. rā́jati. This seems preferable to trying to construe it as an acc. sg. in the sense ‘wide-ruling’, and the interchange of final nasals would be fairly trivial for a pun. Scarlatta. (72 n. 97) notes that the lexeme ánu √rāj is used in II.43.1 also of regulating meters, there Gāyatrī and Triṣṭubh. The preverb ánu also has to be read with ṣṭúp, as a cmpd decomposed and flanking rājati (ánu rājati ṣṭúp), for the meter name. The technical references to meters here may be the culmination of the kaví- / ṛ́ṣi- theme of 17-18.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
@@ -270,8 +271,6 @@ Der Dichtergeist, der Dichter schafft und Glanz gibt, der Sänger Führer, tause
 Буйвол, стремящийся овладеть третьей формой,  
 Сома сверкает вслед за владыкой, прославляя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

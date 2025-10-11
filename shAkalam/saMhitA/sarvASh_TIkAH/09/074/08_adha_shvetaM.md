@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कक्षीवान्
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। गोभिरख्नम्- चिद्रश्मिभिः संपृख्नम्। कार्ष्मन् कलशम्- काष्ठभाजनं प्रतीकम्। वाजी-  शोभनगतिः सोमो रसः। ससवान्- स्वमेव संभख्नुमिच्छन्। अक्रमीत्- क्रान्तवान्। गोनां कक्षीवते-  विद्याकक्षायुख्नायोपासकाय। शतहिमाय- दीर्घायुषे। मनसा देवयन्तः- ध्यानेन दीप्तिकामाः। आ-  आभिमुख्येन। हिन्विरे- प्रेरितवन्तः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अध** अथानन्तरं **श्वेतं** संप्रति सोमसंसर्गात् श्वेतवर्णं **गोभिः** उदकैः **अक्तं** संपृक्तं द्रोणकलशं **ससवान्** संभजन सोमः **आ** **अक्रमीत्** आक्रमते । **कार्ष्मन्**। कार्ष्मशब्दः काष्ठावचनः । आजिं धावन्तो योद्धारो यां गन्तुमिच्छन्ति तस्यां काष्ठायां **वाजी** कश्चिदश्वो युद्धं भजमान आक्रमीत् आक्रमते । सोमः काष्ठायां द्रोणकलशे पततीत्यर्थः । ततस्तस्मै सोमाय **देवयन्तः** देवानिच्छन्त ऋत्विजः **मनसा** **आ** **हिन्विरे** स्तुतीराभिमुख्येन प्रेरयन्ति । तत्र **शतहिमाय** बहुगमनाय **कक्षीवते** स्तोत्रकारिण एतन्नामकायर्षये सोमः **गोनां** गाः पशून् प्रेरयति । ' गोः पादान्ते ' (पा. . ७. १. ५७ ) इति नुडागमः । ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानसंज्ञा । चतुर्थ्यर्थे षष्ठी ॥
@@ -242,8 +245,6 @@ of c, which does less violence to the order of elements but is still, to my mind
 
 It is easy to understand the attempts of others to link d with something else in the vs., because it consists only of a dative phrase (kakṣī́vate śatáhimāya) and a gen. pl. (gónām). However, as I just remarked, this pāda seems to be an abbreviated dānastuti, with the dāna specified and no stuti given, but the poet and would-be recipient emphatically named. In such circumstances condensed phraseology is not surprising. Geldner appositely cites as parallel I.126.2 śatáṃ kakṣī́vān ásurasya gónām “A hundred cows of the lord (have I,) Kakṣīvant, (taken).” In our passage the “hundred” is cleverly tucked into the adj. śatáhima-, which otherwise presumably expresses Kakṣīvant’s proleptic wish for a 100-year lifespan; it seems unlikely that he is already that old.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -276,8 +277,6 @@ Jetzt ist der Renner, nachdem er das gewünschte erlangt hat, zum Ziele der Renn
 Преданные богам (люди) поторопились его мыслью.  
 Какшиванту, которому сто зим, (пусть завоюет он сто) коров!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पवित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सम्यक् सम्यञ्चः- सङ्गताः। महिषाः- महात्मान उपासकाः। अहेषत- प्रेरयन्ति। सिन्धोरूर्मौ-  जीवोदके। अधि। वेनाः- कामयन्तः। अवीविपन्- चालयन्ति। अर्कं- मन्त्रम्। मधोर्धाराभिः-  रसैः। जनयन्तः- प्रकटयन्तः। इन्द्रस्य- परमेश्वरस्य। प्रियां तन्वम्- प्रियं धाम। इत्- एव।  अवीवृधन्- वर्धितवन्तः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **महिषाः** पूज्या महान्तो वर्त्विजः **सम्यञ्चः** परस्परं संगताः सन्तः **सम्यक्** **अहेषत** सोमं सम्यक् प्रेरयन्ति अभिषुण्वन्तीति यावत् ।' हि गतौ वृद्धौ च ' । लुङि सिचि रूपम् । ततः **वेनाः** । ‘ वेनतेः कान्तिकर्मणः ' (निरु. १०, ३८ ) इति यास्कः । स्वर्गादिफलं कामयमाना ऋत्विजः **सिन्धोः** स्यन्दमानस्योदकस्य **ऊर्मौ** **अधि** संघे वसतीवर्यादिषु जलेषु सोमम् **अवीविपन्** कम्पयन्ति । तत्र प्रेरयन्तीत्यर्थः । वपतेर्ण्यन्तस्य लुङि चङि ' णौ चङ्युपधाया ह्रस्वः' इति ह्रस्वः । किंच **अर्कम्** अर्चनीयं स्तोत्रं **जनयन्तः** कुर्वन्तस्ते **प्रियां** प्रियतमाम् **इन्द्रस्य** **तन्वं** धाम च **मधोः** मदकरस्य सोमस्य **धाराभिः** अवीवृधन् वर्धितवन्तः । वर्धतेर्लुङि चङि रूपम् ॥
@@ -248,14 +251,13 @@ As Geldner (n. 2c) appositely points out, arká- can refer to the roar of the ru
 
 Perhaps it’s simply there to convert a putative Triṣṭubh cadence to a Jagatī.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -289,8 +291,6 @@ Gemeinsam eilten jetzt die Büffel hin zum Ziel und tanzten liebreich auf des St
 Они усилили милое тело Индры.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -306,7 +306,7 @@ Gemeinsam eilten jetzt die Büffel hin zum Ziel und tanzten liebreich auf des St
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (महिषाः) महान् पुरुष (सम्यञ्चः) संगतिवाले (सम्यक्) भली-भाँति (सिन्धोः ऊर्मौ अधि) इस संसाररूपी समुद्र में (वेनाः) अभ्युदय की अभिलाषा करनेवाले (अहेषत) बृद्धि को प्राप्त होते हैं और (अवीविपन्) दुष्टों को कम्पायमान करते हैं। (मधोः धाराभिः) ऐश्वर्य की धाराओं से (जनयन्तः) प्रकट होते हुए तथा (अर्कमित्) अर्चनीय परमात्मा को प्राप्त होते हुए (प्रियाम् इन्द्रस्य तन्वम्) ईश्वर के प्रिय ऐश्वर्य को (अवीवृधन्) बढ़ाते हैं॥२॥
+पदार्थान्वयभाषाः -  (महिषाः) महान् पुरुष (सम्यञ्चः) संगतिवाले (सम्यक्) भली-भाँति (सिन्धोः ऊर्मौ अधि) इस संसाररूपी समुद्र में (वेनाः) अभ्युदय की अभिलाषा करनेवाले (अहेषत) बृद्धि को प्राप्त होते हैं और (अवीविपन्) दुष्टों को कम्पायमान करते हैं। (मधोः धाराभिः) ऐश्वर्य की धाराओं से (जनयन्तः) प्रकट होते हुए तथा (अर्कमित्) अर्चनीय परमात्मा को प्राप्त होते हुए (प्रियाम् इन्द्रस्य तन्वम्) ईश्वर के प्रिय ऐश्वर्य को (अवीवृधन्) बढ़ाते हैं॥२॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

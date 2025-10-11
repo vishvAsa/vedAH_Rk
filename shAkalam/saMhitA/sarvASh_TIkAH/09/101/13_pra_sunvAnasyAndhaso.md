@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रजापतिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुन्वानस्य- निष्पन्नस्य। अन्धसः- रसस्य। तत् वचः- तं मन्त्रम्। मर्तः- मारकोऽन्तरायः। न प्र  वृत- न आवृणोतु। अराधसम्- संसिद्धिविरोधिनम्। श्वानम्। आध्यात्मिके तु श्वा श्रुतौ ४    जिज्ञासान्वेषणवेदनप्रतीकः। अराधः श्वा तु हठपूर्वान्वेषणवेदनप्रतीकः। निर्णयरहितचंचलत्त्वं  सानन्तसंशयमन्येषामिदं मा भूयादिति चिन्तनमस्य लक्षणम्। बलात्कारपूर्वान्वेषणेन  तत्त्वग्रहणमसमीचीनमिति कारणेन स श्वा अपनेतव्य इति। भृगवः- तेजस्विन उपासकाः। मखम्-  चित्तगतिं चित्तवृत्तिमिव। मख गतौ॥ न- इव। अप हत- अपबाधध्वम्॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुन्वानस्य** अभिषूयमाणस्य **अन्धसः** अदनीयस्य सोमस्य **तत्** प्रसिद्धं **वचः** वचनं घोषं **मर्तः** मारकः कर्मविघ्नकारी श्वा **न** **प्र** **वृत** न भजताम् । न शृणोत्विति यावत् । तथा हे स्तोतारः **अराधसं** संसाधककर्मरहितं तं **श्वानम्** **अप** **हत** । तत्र दृष्टान्तः । **मखं** **न** । यथा पुरापराद्धं मखमेतन्नामानं **भृगवः** अपहतवन्तः तथापहतेत्यर्थः ॥
@@ -217,8 +220,6 @@ Smite away the dog, the ungenerous one, as the Bhr̥gus (did) the Battler.
 Geldner takes ná in b as the neg. (flg. Sāyaṇa.) and asserts (n. 13), contra Oldenberg, that the presence of the mortal and the dog in this vs. (and the VS vs. Oldenberg cites) is an accident. But the position of ná in the pāda is that of the simile particle (though at least it would immed. precede the verb), and the wealth of similes in this tṛca supports a simile reading here as well. The point of the hemistich is that, like the human, the dog is attracted to the sound of the soma ritual, particularly the sound of the soma pressing, and invades it.
 
 The 2nd hemistich begins like 1c: ápa śvā́nam … The simile in d, “as the Bhr̥gus did the Battler” (makháṃ ná bhṛ́gavaḥ), refers to what Geldner calls an otherwise unknown saga. The makhá- is found as a defeated enemy of Indra in X.171.2, a hymn attributed to one Iṭa Bhārgava, the patronymic of the victors in our vs.. Note that the denom. verb makhasyate occurs in our vs. 5c.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -252,8 +253,6 @@ Der Gott erwähl' sich wie ein Mensch dies Lied des ausgepressten Tranks; Den ga
 Прочь (гоните) пса недарящего!  
 Убейте (его), как Бхригу (убили) Макху!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

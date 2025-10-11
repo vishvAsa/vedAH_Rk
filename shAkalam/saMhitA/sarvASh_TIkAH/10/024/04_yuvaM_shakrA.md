@@ -3,7 +3,6 @@ title = "004"
 devataa = "अश्विनौ"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 māyāvínā ← māyāvín- (nominal stem)  
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+युवम्- युवाम्। शक्रा- शख्नौ। मायाविना- प्रज्ञायुख्नौ। नासत्या- सत्यस्वरूपौ। अश्विनौ प्राणेशौ।  विमदेन- विशेषानन्दयुख्नेन। वि वो मद इति श्रुतेः। यत्- यदा। ईळिता- स्तुतौ। तदा। समीचि-  सम्यक्। निरमन्थतम्- अग्निमथनं कृतवन्तौ॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शक्रा** शक्रौ शत्रुवधादिकर्मसु समर्थौ हे अश्विनौ **मायाविना** मायाविनौ प्रज्ञावन्तौ शत्रुवञ्चनकुशलौ वा **युवं** युवां **समीची** परस्परं संगतौ **निरमन्थतम्** अग्निं निरमथ्नीतम् । ‘अश्विनावध्वर्यू' (ऐ. ब्रा. १. १८) इति ब्राह्मणोक्तत्वादग्निमन्थनमप्यश्विनोरुपपन्नमिति । कदाश्विनौ निर्मथितवन्तौ उच्यते । **यत्** यदा **नासत्या** नासत्यौ युवां **विमदेन** मया **ईळिता** ईळितौ स्तुतौ **निरमन्थतं** निरमथ्नीतं तदानीं युवां परस्पर संगतौ निर्मथितवन्तौ स्थ इत्यर्थः ॥
@@ -193,8 +196,6 @@ Ihr beiden starken Zauberer, die Welten brachtet ihr hervor, Als ihr von Vimada 
 Когда вас призвал Вимада,  
 Вы, о Насатьи, добыли трением.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

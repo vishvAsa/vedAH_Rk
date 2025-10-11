@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "व्याघ्रपाद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - व्याघ्रपाद्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जिगत्नुम्- गतिमतीम्। इळावतीम्- मन्त्रयुख्नाम्। शङ्गयीम्- सुखस्य निवासभूताम्। जीरदानुम्-  क्षिप्रदानोपेताम्। दिव्यां वृष्टिम्। नः- अस्मदर्थम्। अर्ष- गमय। वीता- काम्यानि। स्तुकेव-  अपत्यानीव। बन्धून्- भवतो बन्धुभूतान्। अवरान्- वत्सानिव स्थितान्। इमान्- एतान्।  वायून्- प्राणविशेषान्। विचिन्वन्। इन्दो- क्लेदनशील रस। धन्व- अभिसर॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम नोस्माकं वृष्टिं अर्ष गमय । कीदृशीं दिव्यां दिविभवां जिगत्नुं गमनशीलं इरावतीं अन्नवतीं शङ्गयीं सूखस्यनिवासभूतां जीरदानुं क्षिप्रदानोपेताम् । किञ्च हे इन्दो त्वं स्तुकेववीता कान्तानि स्तुकशब्दोपत्यवचनः अपत्यानि यथाविचिनोषि तद्वत् बन्धून् स्तुत्यस्तोतृत्वेन बन्धुभूतान् अवरान् अवरदेशेस्थितान् पर्थिवान् वायून् त्वां अभिगच्छ्त इमानस्मान् विचिन्वन् धनादिप्रदानार्थं गवेषमाणःसन् धन्व गच्छ ॥ १७ ॥
@@ -253,8 +256,6 @@ Either the neut. stem was so common in bahuvrīhis modifying females - e.g., ví
 
 Either way, I think we can confidently assume a neut. acc. pl. here, parallel to bándhūn and vāyū́n. Soma is urged to pull apart the bándhūn “like straightened curls/tufts.” That vītá- means ‘straight, straightened’ is clear from IV.2.11 cited by Geldner: cíttim ácittiṃ cinavad ví vidvā́n, pṛṣṭhéva vītā́vṛjinā́ca mártān “Insight and lack of insight will the knowing one [=Agni] distinguish, like backs, straight and crooked, (like) mortals,” where it is contrasted with vṛjiná- ‘crooked’, with both acting as object of ví √ci as here. Cf. also the bahuvr. vītá-pṛṣṭha- ‘straight-backed’, vītá-vāra- ‘straight-tailed’. This adj. is likely derived from the root √vī ‘pursue’, as Grassmann suggests, but seems synchronically distinct from the other uses of the ppl. to this root. Grassmann gives it a separate lemma. Oldenberg suggests that stúkā … vītā́refers to “Kammwolle” or worsted wool, that is (I learn from the internet), wool yarn that has been combed rather than carded; carded yarn is fuzzier than worsted yarn. Whether this technical interpr. is correct or not, it’s clear that the curls or tufts in question are easier to navigate than those that are not vītá-.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -289,8 +290,6 @@ O ström' uns her des Himmels schnellen Regen, der reich an Trunk und Thau dem H
 Беги, словно отделяя гладкие комочки (шерсти от негодных),  
 Этих ближних приверженцев (твоих от других), о капля, (а также благоприятные) ветры!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

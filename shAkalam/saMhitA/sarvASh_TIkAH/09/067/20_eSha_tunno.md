@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वसिष्ठः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः- अयं रसः। तुन्नः- निष्पन्नः। अभिष्टुतः- अभितः ईडितः। रक्षोहा- दुष्टघ्नः। अव्ययम्-  सरणशीलरसस्य स्वस्थान एव रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसस्य  प्रवेशस्थानम्। रसतत्त्वस्य सुलभतया अवगमसाधनभूतम्। रसार्थयाचनसाधनभूतम्। रसक्रियम्। ५    रसावाप्तिसाधनभूतम्। रसावरणम्। रससंभख्नारम्। रसवर्धकम्। वारम्- वरणीयम्। पवित्रम्-  पुनानं भाजनं प्रतीकम्। अति गाहते॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तुन्नः** । तुद व्यथने । ग्रावभिरभिव्यथितः सुतः अत एव सर्वैः **अभिष्टुतः** **एषः** अस्मदीयः सोमः **रक्षोहा** कर्मविघ्नकारिणां रक्षसां पापानां वा हन्ताभवत् । **अव्ययम्** अविमयमव्यवयवभूतं **वारं** वालं तेन कृतं **पवित्रं** दशापवित्रम् **अति** अतिक्रम्य **गाहते** द्रोणकलशं प्रविशति ॥ ॥१६॥
@@ -153,7 +156,6 @@ the sheep’s fleece, as demon-smasher.
 <details><summary>Jamison Brereton Notes</summary>
 
 pavítram áti gāhate / … vā́ram avyáyam “he plunges across the filter, the sheep’s fleece.” As for the fleece as Soma’s armor, see the very full expression in IX.98.2 pári ṣyá svānó avyáyam ráthe ná vármāvyata “This one, being pressed, has engirded himself in the sheep's fleece, as a man on a chariot does in armor.” Ober (II.77) also considers the armor to be the fleece.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -185,8 +187,6 @@ Gestossen und besungen taucht sich dieser in der Seihe Netz, Der Bösen Feind in
 Ныряет сквозь цедилку,  
 Сквозь сито из овечьей шерсти, (этот) убийца ракшасов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

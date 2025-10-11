@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। रक्षसः- दुष्टान्। अपघ्नन्- नाशयन्। कनिक्रदत्- शब्दयन्। द्युमन्तम्- दीप्तमत्।  उत्तमम्- वरम्। शुष्मम्- बलम्। अभ्यर्ष- अभिगमय। अस्मद्बलं प्रत्यागच्छ ॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **रक्षसः** रक्षांसि **अपघ्नन्** विनाशयन् **कनिक्रदत्** शब्दं कुर्वन् **द्युमन्तं** दीप्तिमन्तम् **उत्तमं** श्रेष्ठं **शुष्मं** बलम् **अभ्यर्ष** अस्मान् प्रति पवस्व ॥
@@ -172,10 +175,6 @@ Die Unholde vertreibend, o Soma, rinne brüllend zu glänzendem höchstem Mute!
 
 Verjagend der Gespenster Schar, o Soma, ströme rauschend her Die höchste, glanzbegabte Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

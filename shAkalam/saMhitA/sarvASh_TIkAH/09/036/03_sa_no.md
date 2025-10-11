@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशस्त्वम्। नः- अस्मदर्थम्। पूर्व्य- पुराण। पवमान- पूयमान। ज्योतींषि- विद्याः। वि-  विशेषेण। रोचय- उद्दीपय। क्रत्वे- सत्सङ्कल्पाय। दक्षाय- सामर्थ्याय। नः- अस्मदर्थम्। हिनु-  शख्नीः प्रेरय॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पूर्व्य** पुराण **पवमान** सोम **नः** अस्माकं **ज्योतींषि** दिव्यानि स्थानानि **वि** **रोचय** प्रकाशय । किंच **क्रत्वे** कर्मणे यागाय **दक्षाय** बलाय च बलप्रदाय यागाय वा **नः** अस्मान् **हिनु** प्रेरय ॥
@@ -182,10 +185,6 @@ Laß du uns deine Lichter leuchten, du allererster Pavamana; rege uns zu Rat und
 
 Entzünde du, o rieselnder, o alter, helle Lichter uns, Zu Kraft und Weisheit fördre uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। इमे- एते। मही- महत्यौ। रोदसी- द्यावापृथिव्यौ। मातरेव- जगन्मातृभूतौ। सम्- सम्यक्।  दोहते- दोग्धि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **इमे** **मही** महत्यौ **रोदसी** द्यावापृथिव्यौ **सं** **दोहते**। उभयोः सारं परिगृह्णातीत्यर्थः । **मातरेव** यथा द्वे मातरावेको वत्सो दोहते तद्वत् ॥
@@ -182,8 +185,6 @@ Both Geldner and Renou take ródasī mahī́as acc. obj. of the frame, with māt
 (Renou) or obj. (Geldner) in the simile: e.g., “qui trait ces Deux grands Mondes ensemble, comme deux (vaches) mères.” In favor of this view is the fact that in VIII.6.17a, identical to our apāda, the dual is acc. (though in a very different context); furthermore, the position of iva in b might suggest that the simile consists only of the preceding word mātárā. However, I prefer to take both duals as part of the simile, parallel nominatives corresponding to the unexpressed subj. of the frame, Soma. Cows (or their correspondants) are the standard subjects of med. forms of √duh, with the obj. being the milk (or milk substitute), and therefore the accusatives of Renou and Geldner would be semantically and functionally anomalous.
 
 For Heaven and Earth (i.e., the two world-halves represented by ródasī here) as subject of medial √duh, see VI.70.2 ghṛtáṃ duhāte “the two yield ghee as milk,” in a hymn to Heaven and Earth, which are the default referent of the many duals in the hymn.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
@@ -216,8 +217,6 @@ Der dieses grosse Weltenpaar aussauget wie der Mutter Brust; Bei den Gelagen sch
 Выдаивает вместе, словно двух матерей, –  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

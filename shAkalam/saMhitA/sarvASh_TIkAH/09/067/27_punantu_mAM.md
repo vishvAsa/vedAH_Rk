@@ -3,7 +3,6 @@ title = "027"
 devataa = "अग्निर्विश्वेदेवा वा"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पवित्रो वसिष्ठो वोभौ वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवजनाः- देवताः। माम्। पुनन्तु- पावनं कुर्वन्तु। वसवः- दैवीसंपदः। धिया- चित्तधारणया।  पुनन्तु। मा- माम्। विश्वे देवाः- सर्वा देवताः। पुनीत- पूतं कुरुत। जातवेदः- हे अग्ने। मा-  माम्। पुनीहि॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवजनाः** । देवानां जनः प्रादुर्भावो येषां यज्ञेष्विति देवजना यजमानाः । यद्वा इन्द्रादिदेवगणाः । **मां** **पुनन्तु** परिपूतं कुर्वन्तु । तथा **वसवः** वासका देवा: **धिया** आत्मीयेन कर्मणा माँ **पुनन्तु** । अथ प्रत्यक्षः । हे **विश्वे** **देवाः** सर्वे देवाः **मा** मां **पुनीत** पूतं कुरुत । हे **जातवेदः** जातानि भूतजातानि वेत्तीति यद्वा जातप्रज्ञ हे अग्ने **मा** मां **पुनीहि** ॥
@@ -201,7 +204,6 @@ Let the godly folk purify me; let the Vasus purify me with insight. O All Gods, 
 <details><summary>Jamison Brereton Notes</summary>
 
 This last vs. of the purificatory spell is in a different meter (Anuṣṭubh) and makes reference to a larger variety of personnel - both often signs of finality.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
@@ -237,8 +239,6 @@ Mich läutere der Götter Schar, die Vasu's mich durch frommen Sinn; Ihr Götter
 О Все-Боги, очистите меня!  
 О Джатаведас, очисть меня!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

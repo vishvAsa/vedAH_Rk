@@ -3,7 +3,6 @@ title = "022"
 devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पायुः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agne ← agní- (nominal stem)  
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक। पुरम्- पूरकम्। विप्रम्- मेधाविनम्। सहस्य- शख्नेः पुत्रम्। धृषद्वर्णं-  शत्रुधर्षकरूपम्। दिवेदिवे- प्रतिदिनम्। भङ्गुरावताम्- भञ्जकानाम्। हन्तारम्- नाशकम्। त्वा-  भवन्तम्। वयम्। धीमहि- ध्यायामः॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहस्य** सहसे हित सहसो जात वा **अग्ने** **पुरं** पूरकं **विप्रं** मेधाविनं **धृषद्वर्णं** धर्षकरूपं **भङ्गुरावतां** भङ्गुरकर्मयुक्तानां रक्षसां **दिवेदिवे** प्रत्यहं **हन्तारं** हिंसितारं **त्वा** त्वां **वयं** पायुनामधेया भारद्वाजा रक्षसां हननाय **परि** **धीमहि** ॥
@@ -212,8 +215,6 @@ Dich, starker Agni, setzen wir als Burg, o weiser, um uns her; Der kühn du glä
 Убийцей обманщиков.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्नी रक्षोहा
@@ -229,7 +230,7 @@ Dich, starker Agni, setzen wir als Burg, o weiser, um uns her; Der kühn du glä
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा पीड़ा देनेवालों को नष्ट कर रहा है, उसका स्मरण करना चाहिए ॥२२॥
+भावार्थभाषाः -  परमात्मा पीड़ा देनेवालों को नष्ट कर रहा है, उसका स्मरण करना चाहिए ॥२२॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

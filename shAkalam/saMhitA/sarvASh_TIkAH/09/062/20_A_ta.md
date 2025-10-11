@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। ते- तव। कम्- आनन्दमयम्। पयः- सारम्। देवाः- द्युतिमन्तः। आयवः-  मनुष्याः। देवेभ्यः- देवताभ्यः। मधु- मधुरम्। आ- आभिमुख्येन। दुहन्ति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **ते** तव **मधु** मधुभूतं **पयः** पेयं रसं **देवाः** स्तोतारः **आयवः** मनुष्याः **मदाय** **कं** मदार्थं **देवेभ्यः** इन्द्रादिभ्यः **आ** **दुहन्ति** ॥ ॥ २७ ॥
@@ -170,7 +173,6 @@ the gods (milk) honey for the gods.
 <details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Renou, the published translation interpr. páyo duhanti as “they milk your milk” (or more emphatically, Renou “traient de toi le lait” [my ital.]); that is, they assume that milk (páyaḥ) here refers to the soma juice. See above, comm. ad vs. 9, on the ambiguous ref. of this word in the soma maṇḍala. It is also possible here that páyaḥ refers to cows’ milk (see the cows in 19c), and the passage should be interpr. “they milk milk for you for exhilaration.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -196,10 +198,6 @@ Deine Milch, o Saft, melken die Ayu´s zum Rauschtrank, die Götter für die Gö
 
 Es melken, Indu, deine Milch zum Rausche recht die eifrigen, Die Götter Göttern süssen Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

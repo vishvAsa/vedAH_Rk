@@ -3,7 +3,6 @@ title = "003"
 devataa = "भाववृत्तं"
 RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अघमर्षणो माधुच्छन्दसः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 dhātā́ ← dhātár- (nominal stem)  
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धाता- हिरण्यगर्भो महत्तत्त्वाधिदेवता। सूर्याचन्द्रमसौ। यथापूर्वं- पूर्वकल्पे यथास्तां तथा।  अकल्पयत्- ससर्ज। अनेनानादित्त्वं जगतो ज्ञायते। अथो- अनन्तरम्। दिवं च- नभश्च। पृथिवीं  च- भूमिं च। अन्तरिक्षं च। स्वः- एवं सर्वं ससर्ज॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सूर्याचन्द्रमसौ** कालस्य ध्वज-भूतौ  
@@ -192,8 +195,6 @@ Durch dreissig Stätten strahlet er, und Sang begrüsst den Fliegenden Am frühe
 И небо, и землю,  
 И воздушное пространство, затем свет.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

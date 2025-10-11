@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पवित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रत्नात्- सनातनात्। मानात्- प्रमाणात्। अध्या- अधिकतया। ये समस्वरन्- ये प्रादुर्भवन्ति। ते।  रभसस्य मन्तवः- वेगध्यानकराः। श्लोकयन्त्रासः- मन्त्रनियन्त्रिताः। भवन्ति। अनक्षासः-  केवलविषयासत्तया सूक्ष्मं द्रष्टुमशख्नाः। बधिराः- श्रोतुमशख्नाः। अप अहासत- तान् परित्यजन्ति।  ऋतस्य पन्थाम्- सत्यमार्गम्। दुष्कृतः- पापिनः। न तरन्ति- नोत्तारयन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **श्लोकयन्त्रासः** । श्लोकाः स्तुतयः। स्तुतिनियमनाः **रभसस्य** **मन्तवः** वेगमभिमन्यमानाः एतादृशाः **ये** सोमरश्मयः **प्रत्नात्** पुराणात् **मानात्** अन्तरिक्षात् **अध्या** **समस्वरन्** सह प्रादुर्भूता अभवन् तान्रश्मीन् **अनक्षासः** चक्षुर्वर्जिताः साधु पदार्थानामद्रष्टारो नराः **बधिराः** देवतास्तुतिश्रवणवर्जिताः पापकृतो नरश्च **अप** **अहासत** तान् परित्यजन्ति । दर्शिनः श्रवणवन्तो मेधाविनस्तु न परिजहति किंतु स्तुवन्ति । तदेवाह । **ऋतस्य** सत्यस्य **पन्थां** मार्गभूतमेषां गणं **दुष्कृतः** पापकृतो नराः **न** **तरन्ति** नोत्तारयन्ति । सुकृतस्तु तरन्तीत्यभिप्रायः ॥
@@ -245,8 +248,6 @@ VI.56.4), though the case is not overwhelming, given the semantic independence o
 
 Since ślókayantra- also works better if it applies only to one part of the subject, namely the soma streams, I now think that pāda b involves a non-overtly conjoined NP: “those with a signalling call for their reins [=soma streams] (and) the counselors [=priest=poets] of the wild one [=Soma].” I would therefore emend the tr. to what was just suggested. This is the closest we have come to specifying who the subj. of the repeated verb is, though both NPs are so opaque that nothing much is given away.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -282,8 +283,6 @@ Die als des wilden Rosses Lenker liedgelockt zugleich geströmt sind von dem alt
 Творящие зло не пересекают пути закона.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -294,7 +293,7 @@ Die als des wilden Rosses Lenker liedgelockt zugleich geströmt sind von dem alt
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (अनक्षासः) अज्ञानी लोग (बधिराः) जो हितोपदेश को भी नहीं सुन सकते, वे (ऋतस्यपन्थाम्) सचाई के मार्ग को (अपाहासत) छोड़ देते हैं। (दुष्कृतः) वे दुष्टाचारी इस भवसागर की लहर को (न तरन्ति) नहीं तर सकते। और (ये) जो (प्रत्नान्मानात्) प्राचीन आप्त-पुरुष से (अध्या) आये हुए उपदेशों को (समस्वरन्) पालन करते हुए (श्लोकयन्त्रासः) सत्पुरुषों की संगति में रहनेवाले हैं तथा (रभसस्य मन्तवः) परमात्मा की आज्ञा माननेवाले हैं, वे इस भवसागर की लहर को तर जाते हैं॥६॥
+पदार्थान्वयभाषाः -  (अनक्षासः) अज्ञानी लोग (बधिराः) जो हितोपदेश को भी नहीं सुन सकते, वे (ऋतस्यपन्थाम्) सचाई के मार्ग को (अपाहासत) छोड़ देते हैं। (दुष्कृतः) वे दुष्टाचारी इस भवसागर की लहर को (न तरन्ति) नहीं तर सकते। और (ये) जो (प्रत्नान्मानात्) प्राचीन आप्त-पुरुष से (अध्या) आये हुए उपदेशों को (समस्वरन्) पालन करते हुए (श्लोकयन्त्रासः) सत्पुरुषों की संगति में रहनेवाले हैं तथा (रभसस्य मन्तवः) परमात्मा की आज्ञा माननेवाले हैं, वे इस भवसागर की लहर को तर जाते हैं॥६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

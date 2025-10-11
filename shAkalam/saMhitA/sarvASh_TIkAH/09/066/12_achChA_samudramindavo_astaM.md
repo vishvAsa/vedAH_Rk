@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्तम्- स्वसदनम्। गावो न धेनवः- पशव इव। इन्दवः- हृदयक्लेदनकरा रसाः। समुद्रम्-  हृत्समुद्रम्। ऋतस्य योनिम्- ऋतसदनम्। अच्छा- अभिलक्ष्य। अग्मन्- गच्छन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दवः** क्षरन्तः सोमाः **समुद्रं** सोमानामेकत्रैव संगमनस्थानं द्रोणकलशम् **अच्छ** अभि गच्छन्ति । तत्र दृष्टान्तः । **धेनवः** पयःप्रदानेन जनानां प्रीणयित्र्यो नवप्रसूतिकाः **गावः** **अस्तं** गृहं यथाभिगच्छन्ति तद्वत् । किंच ते सोमाः **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **अग्मन्** आभिमुख्येन गच्छन्ति । गमेर्लुङि सिचो लुक्युपधालोपः ॥
@@ -199,10 +202,6 @@ Zum Meere sind die Säfte gekommen wie die Milchkühe nach Hause, zu ihrem ordnu
 
 Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

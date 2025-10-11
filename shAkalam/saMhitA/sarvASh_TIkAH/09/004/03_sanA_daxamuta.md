@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दक्षम्- सामर्थ्यम्। सन। उत- अपि च। क्रतुम्- सङ्कल्पम्। सोम- रस। मृधः- रिपून्। जहि-  जय॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **दक्षं** बलं **सन** अस्मभ्यं देहि । **उत** अपि च **क्रतुं** प्रज्ञानं सन । **मृधः** हिंसकान् शत्रूंश्च **अप** **जहि** मारय । सिद्धमन्यत् ॥
@@ -204,8 +207,6 @@ Gewinne Macht, gewinne Kraft, o Soma, schlag' die Feinde fort, Und mach' uns rei
 Прогони прочь врагов, о сома,  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

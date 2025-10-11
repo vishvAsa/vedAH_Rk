@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रजापतिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -173,6 +171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसः। गव्ये अधि त्वचि- चिद्रश्मिरूपे। अव्यो वारेभिः- सरणशीलरसस्य स्वस्थान एव  रक्षाकरैरुपलब्धिस्थानैरित्यर्थः। रसव्यञ्जकैः। रसस्य प्रवेशस्थानैः। रसतत्त्वस्य सुलभतया  अवगमसाधनभूतैः। प्रतीकैः। पवते- क्षरति। वृषा- वर्षकः। हरिः- आकर्षकः सोमः। कनिक्रदत्-  अशब्दयत्। इन्द्रस्य- परमेश्वरस्य। निष्कृतम्- सदनम्। अभ्येति- अभिसरति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **सोमः** **अव्यः** अवेः **वारेभिः** वालैः पवित्रैः तेभ्यः **पवते** कलशं प्रति क्षरति । किंच **गव्ये** आनडुहे **अधि** **त्वचि** चर्मणि **कनिक्रदत्** शब्दायमानः **वृषा** कामानां वर्षकः **हरिः** हरितवर्णः सोमः **इन्द्रस्य** स्वभूतं **निष्कृतं** संस्कृतं स्थानम् **अभ्येति** अभिगच्छति ॥ ॥ ३ ॥
@@ -189,7 +192,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Soma purifies himself with the fleeces of sheep, on the cow’s hide. Ever roaring, the bullish fallow bay goes to his rendezvous with Indra.  
-Usṇ ̣ih Hymns: 102–106
+Usṇ ̣ih Hymns: 102–106
 </details>
 
 <details><summary>Griffith</summary>
@@ -215,8 +218,6 @@ Hell rieselt durch das Widderhaar der Soma auf die Rinderhaut, Laut wiehernd geh
 Громко ржущий мужественный буланый конь  
 Идет на свидание с Индрой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

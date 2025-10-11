@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राय पीतये- इन्द्रानुभूतये। इन्दुम्- हृदयक्लेदनकरम्। तम्- अमुं रसम्। पूर्वथा- पूर्ववत्। नः-  अस्माकम्। विश्वा- सर्वे। अवस्युवः- रक्षाकामाः। गिरः- मन्त्राः। शुम्भन्ति- मण्डयन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तम्** **इन्दुं** सोमं **नः** अस्माकं **विश्वाः** सर्वाः **अवस्युवः** । अवो रक्षणम् । तदिच्छन्त्यः **गिरः** स्तुतयः **पूर्वथा** पूर्वमिव पूर्वं यथा तथैवेदानीमपि **शुम्भन्ति** दीपयन्ति । किमर्थम् । **इन्द्राय** इन्द्रस्य **पीतये** पानाय ॥
@@ -179,10 +182,6 @@ Ihn machen alle unsere gunstheischenden Lobreden in alter Weise schön, den Saft
 
 All unsre Lieder schmücken ihn, Huld suchend wie in alter Zeit, Zum Trunk dem Indra, Indu ihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

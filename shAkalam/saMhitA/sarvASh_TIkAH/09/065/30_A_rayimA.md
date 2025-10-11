@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुक्रतो- शोभनसङ्कल्पभूत रस। रयिम्- संपद्भूतम्। सुचेतुनम्- शोभनप्रज्ञापकम्। पान्तं  पुरुस्पृहम्। तनूषु- अस्मच्छरीरेषु भवत्प्रतीकेषु वा। आ वृणीमहे॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुक्रतो** शोभनप्रज्ञ सोम त्वदीयं **रयिं** धनं वयम् **आ** वृणीमहे । किंच **सुचेतुनम्** । ‘ चिती संज्ञाने'। भाव औणादिक उनन्प्रत्ययः । सुज्ञानं च। **तनूषु** अस्मत्पुत्रेषु च धनं सुज्ञानं च त्वम् **आ** विधेहि । यद्वा पुत्रार्थं वयमावृणीमहे । तथा **पान्तं** सर्वस्य रक्षकं **पुरुस्पृहं** बहुभिर्यष्टृभिः काम्यमानं त्वां संभजामहे ॥ ॥ ६ ॥
@@ -192,10 +195,6 @@ Reichtum, dessen Wohlbemerkbarkeit an unseren Leibern, du Einsichtsvoller, und d
 
 Und Reichthum bringt nach deiner Gunst, schönwirkender, auch für uns selbst den vielbegehrten, schützenden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

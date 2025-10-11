@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदिन्तमः- अतिशयहर्षवर्धकः। मत्सरः- तर्पकः। इन्द्रियो रसः- ईशनशीलो रसः। यज्ञस्य -  उपासनस्य। ज्योतिः। प्रियं मधु- माधुर्यम्। पवते- क्षरति। देवानाम्- द्योतनशख्नीनाम्। जनिता-  जनकः। पिता- पालकः। विभूवसुः- व्याप्तसंपद्युख्नः। स्वधयोः- द्यावापृथिव्योः। अपीच्यम्-  अन्तर्हितम्। रत्नम्- रमणीयं रसम्। दधाति- धारयति। स्वधाशब्दो द्यावापृथिवीनामसु  पठितः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञस्य** **ज्योतिः** प्रकाशकः सोमः **प्रियं** **देवानां** **मधु** मधुरं रसं **पवते** क्षरति । यद्वा । ज्योतिर्यज्ञस्येत्येतदपि मधुविशेषणम् । तथा सति उक्तलक्षणं मधु पवते पूयत इत्यर्थः । सोमरसो विशेष्यते । **पिता** रक्षिता **देवानां** **जनिता** उत्पादयिता सर्वस्य **विभूवसुः** प्रभूतधनः । ईदृशः सः **स्वधयोः** द्यावापृथिव्योः। ‘ स्वधे पुरंधी ' इति द्यावाथिवीनामसु पठितः । तयोः **अपीच्यम्** अन्तर्हितं **रत्नं** रमणीयं धनं **दधाति** स्थापयति स्तोतृषु । पुनः स एव विशेष्यते । **मदिन्तमः** मादयितृतमः **मत्सरः** सोमः **इन्द्रियः** इन्द्रेण जुष्ट इन्द्रस्य वर्धको वा **रसः** रसरूपः ॥ ॥ १३ ॥
@@ -234,8 +237,6 @@ Indrian sap.
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner notes the parallels between our vs. and IX.75.2: IX.75.2a. … pavate mádhu priyám, …  2cd dádhāti putráḥ pitrór apīcyàm, nā́ma … IX.86.10a … pavate mádhu priyám, …  .10c dádhāti rátnaṃ svadháyor apīcyàm But he doesn’t seem to take the parallelism too seriously. In particular, though both 75.2c and 86.10c have a dual gen./loc. to be construed with a VP in which the subject deposits / establishes a secret X [name in 75.2, treasure in 86.10], Geldner takes the dual as loc. in 75.2 (where there’s a parallel loc. sg. rocané), but gen. here (“Er bringt das verborgene Kleinod der beiden Eigenmächte”)(sim. Renou), with a somewhat forced interpr. of dádhāti as ‘bringt’. Since the dual seems to have the same referent in both passages, Heaven and Earth (so both Geldner and Renou), and the passages are otherwise so similar, it seems to me very likely that they are structured in the same way. I therefore take svadháyoḥ as loc. It’s worth noting that this is the only du. form of the stem svadhā́-
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -262,10 +263,6 @@ Das Licht des Opfers läutert er sich, der liebe Süßtrank, der Götter Vater u
 Der liebe Meth, des Opfers Leuchte, rieselt hell der Götter Vater und Erzeuger, reich an Gut; Verborgne Schätze legt in beide Welten er, des Indra Trank, der Freude schafft und schönsten Rausch.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -281,7 +278,7 @@ Der liebe Meth, des Opfers Leuchte, rieselt hell der Götter Vater und Erzeuger,
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में परमात्मा को नानाविध रत्नों का धाता, विधाता और निर्माता कथन किया है। अर्थात् वही सृष्टि का धारण करनेवाला है, वही पालन करनेवाला है और वही प्रलय करनेवाला है। इस मन्त्र में “मत्सर” और मदादिक जो नाम आये हैं, वे परमात्मा के गौरव को कथन करते हैं। आधुनिक संस्कृत में मद मत्सरादि नाम बुरे अर्थों में आने लगे हैं। वेद में इनके ये अर्थ न थे। इससे स्पष्ट सिद्ध होता है किआधुनिक संस्कृत और वैदिक संस्कृत में बड़ा प्रभेद है ॥१०॥ १३॥
+भावार्थभाषाः -  इस मन्त्र में परमात्मा को नानाविध रत्नों का धाता, विधाता और निर्माता कथन किया है। अर्थात् वही सृष्टि का धारण करनेवाला है, वही पालन करनेवाला है और वही प्रलय करनेवाला है। इस मन्त्र में “मत्सर” और मदादिक जो नाम आये हैं, वे परमात्मा के गौरव को कथन करते हैं। आधुनिक संस्कृत में मद मत्सरादि नाम बुरे अर्थों में आने लगे हैं। वेद में इनके ये अर्थ न थे। इससे स्पष्ट सिद्ध होता है किआधुनिक संस्कृत और वैदिक संस्कृत में बड़ा प्रभेद है ॥१०॥ १३॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिव्यस्य रेतसः- दिव्यबीजस्य। तव- भवतः। इमाः प्रजाः। त्वम्। विश्वस्य भुवनस्य- सर्वलोकस्य  पालकः। राजसि- राजसे। पवमान- पुनान। अथ- अनन्तरम्। इदम्- एतत्। विश्वम्- भुवनम्।  ते- तव। वशे- ईशने भवति। त्वम्। इन्दो- सोम। प्रथमः- मुख्यः। धामधाः- सदनानां धर्ता।  असि- भवसि॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तव** **दिव्यस्य** **रेतसः** सकाशात् **इमाः** **प्रजाः** उत्पद्यमानाः प्राणिन उत्पन्नाः । सोमो वै रेतोधाः' (तै. सं. २.१.१.६ ) इति श्रुतेः । **त्वं** **विश्वस्य** **भुवनस्य** **राजसि** ईश्वरो भवसि । **अथ** अपि च **इदं** **विश्वं** हे पवमान **ते** **वशे** त्वदधीनं वर्तते । हे **इन्दो** **प्रथमः** मुख्यः **त्वं** **धामधाः** धाम्नो धर्ता **असि** भवसि ॥
@@ -270,8 +273,6 @@ Pāda c is essentially a restatement of b.
 
 Since dhāma-dhā́- is an etymological figure, I have rendered it as one, rather than ‘establisher of domains’, vel sim.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -298,10 +299,6 @@ Von deinem himmlischen Samen sind diese Geschöpfe; du herschest über die ganze
 
 Dein sind, die hier dem Himmelssamen sind entstammt, und du gebietest über diese ganze Welt, Ja, alles dies ist, rieselnder, in deiner Macht, der Häuser erster Gründer bist, o Soma, du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

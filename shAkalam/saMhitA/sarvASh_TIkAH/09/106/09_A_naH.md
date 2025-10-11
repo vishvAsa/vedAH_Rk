@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "मनुराप्सवः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - मनुराप्सवः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सुतासः- निष्पन्नाः। पुनानाः- पूयमानाः। वृष्टिद्यावाः- वर्षका ज्योतिर्भूताः। रीत्यापः-  रीतियुख्नाम्मयाः। स्वर्विदः- स्वर्गज्ञाः। इन्दवः- क्लेदनशीला रसाः। रयिम्- दैवीं संपदम्। नः-  अस्मदर्थम्। आ धावत- आगमयत॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुतासः** अभिषूयमाणा हे **इन्दवः** दीप्ताः पात्रेषु क्षरन्तो वा हे **रीत्यापः** यैः पृथिवीं प्रति स्रवणशीला आपः कृताः तादृशा हे सोमाः **पुनानाः** पूयमाना यूयं **नः** अस्मभ्यं **रयिम्** **आ** **धावत** आगमयत । कीदृशाः । **वृष्टिद्यावः** । वृष्टिमभि द्यौर्यैः क्रियते । वृष्ट्यभिमुखद्युलोकवन्तः **स्वर्विदः** सर्वस्य लम्भकाः ॥
@@ -171,8 +174,7 @@ the sun.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The pair of cmpds. vṛṣṭí-dyāvo rīty-āpaḥ is found in the same order in the dual in V.68.5 vṛṣṭídyāvā rīty-ā̀pā of Mitra and Varuṇa. In our passage the 2nd cmpd is unaccented and therefore a voc.; in V.68.5 it is accented and nom. Oldenberg suspects that our form should also have the accent, but of course there’s no way to tell. (In any case the published translation, for simplicity, renders them as if both nom.). The more pressing question is what kind of cmpds they are. AiG II.1.320 analyzes them as having a verbal 1st member governing the second, of the bharád-vāja- type (whatever that ultimately represents), except with -tí-, and as transformations of the VPs riṇánn apáḥ (e.g., IX.109.22), varṣáya- dyā́m (V.63.3, 6; IX.96.3). Scarlatta (526) provides the more plausible (to me) analysis of vṛṣṭí-dyu- as a bahuvrīhi orig. meaning ‘der Himmel mit Regen hat’, developing into ‘den Himmel regnen lassen’. A similar analysis would produce for the other cmpd. ‘having waters with streaming’ &gt; ‘making the waters stream’. In other words, a bv of more or less the vájra-bāhutype, ‘having an arm with a mace’. The same elements in the same order are found in syntagms in nearby IX.108.10 vṛṣṭím diváḥ (pavasva) rītím apā́m “purify yourself into the rain from heaven, the streaming of waters,” with our 2nd members appearing as genitives depending on the first. As far as I can see, these syntagms cannot directly underlie the cmpds here, because the members would have to be in opposite order. E.g., a bv. meaning ‘having the rain of/from heaven’ would perhaps be expected to be *dyú-vṛṣṭi- or *divó-vṛṣti-. But the problems with making cmpds with those root-noun-like first members may have led to a flip, and perhaps we should render “having /providing the rain of heaven and the streaming of waters.”
-
+The pair of cmpds. vṛṣṭí-dyāvo rīty-āpaḥ is found in the same order in the dual in V.68.5 vṛṣṭídyāvā rīty-ā̀pā of Mitra and Varuṇa. In our passage the 2nd cmpd is unaccented and therefore a voc.; in V.68.5 it is accented and nom. Oldenberg suspects that our form should also have the accent, but of course there’s no way to tell. (In any case the published translation, for simplicity, renders them as if both nom.). The more pressing question is what kind of cmpds they are. AiG II.1.320 analyzes them as having a verbal 1st member governing the second, of the bharád-vāja- type (whatever that ultimately represents), except with -tí-, and as transformations of the VPs riṇánn apáḥ (e.g., IX.109.22), varṣáya- dyā́m (V.63.3, 6; IX.96.3). Scarlatta (526) provides the more plausible (to me) analysis of vṛṣṭí-dyu- as a bahuvrīhi orig. meaning ‘der Himmel mit Regen hat’, developing into ‘den Himmel regnen lassen’. A similar analysis would produce for the other cmpd. ‘having waters with streaming’ > ‘making the waters stream’. In other words, a bv of more or less the vájra-bāhutype, ‘having an arm with a mace’. The same elements in the same order are found in syntagms in nearby IX.108.10 vṛṣṭím diváḥ (pavasva) rītím apā́m “purify yourself into the rain from heaven, the streaming of waters,” with our 2nd members appearing as genitives depending on the first. As far as I can see, these syntagms cannot directly underlie the cmpds here, because the members would have to be in opposite order. E.g., a bv. meaning ‘having the rain of/from heaven’ would perhaps be expected to be *dyú-vṛṣṭi- or *divó-vṛṣti-. But the problems with making cmpds with those root-noun-like first members may have led to a flip, and perhaps we should render “having /providing the rain of heaven and the streaming of waters.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -205,8 +207,6 @@ O strömt, gepresste Tropfen ihr, uns Reichthum zu, ihr flammenden, Lasst Himmel
 В (своем) беге принесите нам богатство,  
 (Вы,) вызывающие дождь с неба, изливающие воды, находящие солнце!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

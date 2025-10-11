@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमो देवः- रसाधिदैवतम्। सूर्यो न- सूर्यवत् प्रकाशते। अद्रिभिः सुतः- जडान्निष्पन्नम्। कलशे-  भाजने प्रतीके। रसम्। दधानः- धारयन्। पवते- क्षरति ॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवो** **न** देव इव **सूर्यः** रोचमानः **सोमः** **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतः सन् **कलशे** द्रोणकलशे **रसं** **दधानः** धारयन् **पवते** धारया क्षरति ॥
@@ -164,8 +167,6 @@ placing his own sap in the tub.
 <details><summary>Jamison Brereton Notes</summary>
 
 As in the tṛca vss. 7-9, Soma is again compared to the Sun - but curiously no clear point of comparison between them appears in the vs. The actions attributed to Soma here - purifying himself, being pressed by stones, putting his sap in the tub - are exclusive to him and certainly not characteristic of the Sun.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -191,10 +192,6 @@ Soma klärt sich wie der Gott Surya, wenn er mit den Steinen ausgepreßt ist, se
 
 Gepresst von Steinen rieselt hell der Soma gleich dem Sonnengott Und führt zur Schale seinen Saft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

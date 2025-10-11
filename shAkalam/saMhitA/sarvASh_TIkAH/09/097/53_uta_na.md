@@ -3,7 +3,6 @@ title = "053"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्सः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। नः- अस्मदर्थम्। एना- अनया। पवया- पवमानया धारया। श्रुते- श्रुतिप्रसिद्धे।  श्रवाय्यस्य- श्रवणीयस्य सोमस्य। तीर्थे- जीवोदके। अधि। पवस्व- क्षर। षष्टिं सहस्रा- प्रभूतानि।  नैगुतः- जपार्थं उपांशुत्त्वेन नीचैःशब्दायमानानि। वसूनि- मन्त्रभूतधनानि। रणाय-  अस्मदानन्दाय। पक्वम्- फलदं। वृक्षं न- तरुमिव। धूनवत्- अकम्पयत्॥५३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेसोम उतापिच श्रवाय्यस्य सर्वैः श्रवणीयस्य सोमस्य तव श्रुते प्रसिद्धौ यद्वा षष्ठ्य र्थेचतुर्थी श्रुतः शब्दस्य तीर्थे स्थाने नोस्माकं स्वभूतेयज्ञे एना अनया पवया पूयमानया धारया अधि अधिकं पवस्व क्षर । नैगुतः नीचीनं गवन्ते शब्दायन्तइति निगुतः शत्रवः । तेषां हन्तृत्वेन सम्बन्धी सोयंसोमः षष्टिं सहस्रा षष्टिसङ्ख्याकानि सहस्राणि वसूनि धनानि रणाय शत्रूणां जयार्थं धूनवत् अस्माकमकम्पयत् प्रायच्छदितियावत् । कथमिव वृक्षन्नपक्वं पक्वफलं वृक्षं यथा कम्पयति फलार्थी तद्वत् ॥ ५३ ॥
@@ -250,8 +253,6 @@ But enā́should be m./n., not fem. Though Geldner (n. 53a) convinces himself it
 
 The 2nd hemistich is entirely clear, except for the nom. sg. subject, the hapax naigutáḥ. This vṛddhi deriv. must be interpr. with ref. to its base, nigút-, which occurs in the acc. pl. in the next vs., as the designation of overpowered, indeed annihilated, foes; it is also found in X.128.6 (as nom. pl.), where it refers to enemies of some sort who are repulsed and defeated by Agni. Both Geldner and Renou tr. as a PN in our two vss. (though Geldner ‘Schwätzer(?)’ in X.128.6). EWA (s.v.) suggests an appealing interpr., as a rt noun cmpd to √gu (his GAV) ‘call upon’; with the preverb ní ‘*nieder-rufend, schmähend’ in a verbal contest. This interpr. seems to be tacitly accepted by Hoffmann (KlSch 447), who tr. it in 54c as “Schmäher’; it is also presented by Scarlatta (112-13), though hesitantly - and like Geldner and Renou he tr. it as a PN. By contrast, I find the suggestion quite plausible; I suggest the sense ‘challenger’ for nigút-. In contrast to nigút-, its vṛddhi deriv. in our vs. designates a successful and positively viewed figure, opposed to the nigút-s in the next vs. - hence my tr. ‘challengers’ challenger’ (Scarlatta’s ‘Bezwinger der Niguts’, an interpr. that goes back to Sāyaṇa. and Ludwig [see Geldner’s n. 53c]). As in 52d, I take the unnamed referent here to be Indra, though Geldner (n. 53c) suggests Soma. The extravagance of the gifts and the apparent militant nature of naigutá- seems better suited to Indra, though a militant Soma is not out of the question.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
 <details open><summary><h2>52-54 ...{Loading}...</h2></summary>
 
@@ -284,8 +285,6 @@ Und flamme hell mit diesem Flammenstrome an der berühmten Furt des preisenswert
 Пусть Найгута (нам) на радость потрясет,  
 Как спелое дерево, шестьдесят тысяч благ!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

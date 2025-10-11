@@ -3,7 +3,6 @@ title = "002"
 devataa = "ब्रह्मणस्पतिः"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शिरिंबिठो भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 amútas ← amútas (invariable)  
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सर्वा- सर्वाणि। भ्रूणानि- बीजानि। आरुषी- दहन्ती दुर्भिक्षाधिदेवता। चत्तो- हिंसिता। इतश्चामुतो  गच्छतु। ब्रह्मणस्पते- मेधाधिदेवते। तीक्ष्णशृङ्ग। अराय्यम्- अदातारम्। उदृषन्- उद्गमयन्। इहि-  गच्छ॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सालक्ष्मीः **इतः** अस्माल्लोकात् **चत्तः** चत्तैवास्माभिर्नाशितैव **अमुतः** अमुष्मादपि लोकात् **चत्ता** हिंसिता भवतु । यालक्ष्मीः **सर्वा** सर्वाणि **भ्रूणानि** गर्भजातानि सर्वासामोषधीनामङ्कुराणि या दुर्भिक्षाधिदेवता **आरुषी** आहन्त्री भवति **अराय्यम्** अदात्रीं दानविरोधिनीं तां हे **ब्रह्मणस्पते** मन्त्रस्य पालयितर्देव हे **तीक्ष्णशृङ्ग** तीक्ष्णतेजस्क **उदृषन्** अस्मात्स्थानादुद्गमयन् **इहि** गच्छ ॥
@@ -225,8 +228,6 @@ Verscheucht von hier, verscheucht von dort sei sie, die alle Frucht verletzt, Ge
 О Брахманаспати остророгий,  
 Иди, наколи ведьму (на рога)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

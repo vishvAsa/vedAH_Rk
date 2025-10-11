@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "न्यङ्कुसारिणी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "न्यङ्कुसारिणी"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - न्यङ्कुसारिणी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहसावन्- सहनशील। इन्द्र- परमेश्वर। अस्मयुः- अस्मत्कामः। त्वम्। कूचित्सन्तम्-  क्वचिदपि स्थितम्। शंसम्- तव स्तुतिकरम्। सदा- सततम्। अभिष्टये- इष्टप्राप्तिर्यथा भवति तथा।  पाहि- रक्ष। वसो- चित्तवृत्तिस्तम्भकारक। वसु स्तम्भे। शरणागतवत्सल। वस निवासे। वेदता-  स्वप्रज्ञया। मेदताम्- बुध्यस्व॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वसो वासयितः **सहसावन्** बलवन् **इन्द्र** **अस्मयुः** अस्मान्कामयमानः **त्वं** **कूचित्** क्वचिदपि **सन्तं** स्थितम् **एतम्** इमं **शंसं** स्तोतारम् **अभिष्टये** अभिलषितसिद्ध्यर्थमपि च **अभिष्टये** यागार्थं **सदा** सर्वदा **पाहि** रक्ष । किंच **वेदता** त्वदीयेन प्रज्ञानेन स्तोतारं मां **मेदतां** बुध्यस्व ॥
@@ -216,10 +219,6 @@ Diese Rede nimm uns zugetan, gewaltiger Indra, daß sie wo auch immer überlegen
 
 Diesen Sänger, o Indra, beschirme du, der du uns liebst, wo er auch sei, o siegreicher, zur Förderung, stets ihn zur Förderung, er werde fett [reichlich belohnt] durch Reichthum, o guter.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

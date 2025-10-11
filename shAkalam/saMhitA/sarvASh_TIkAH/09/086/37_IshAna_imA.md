@@ -3,7 +3,6 @@ title = "037"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - त्रय ऋषिगणाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ईशानः- ईश्वरः सन्। इमा भुवनानि- सर्वान् लोकान्। वीयसे- व्याप्नोषि। इन्दो- हृदयस्पर्शिन्।  युजानः- समाधिस्थः। युज समाधौ। हरितः- कान्तः। सुपर्ण्यः- पक्षी मुमुक्षाप्रतीकः। ते- तव।  ताः- धाराः। मधुमत्- मधुरम्। घृतम्- ज्योतिर्मयम्। पयः- ज्ञानम्। क्षरन्तु। तव- भवतः। व्रते-  नियतौ। सोम- रस। कृष्टयः- साधकाः। तिष्ठन्तु॥३७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **ईशानः** सर्वस्य स्वामी त्वम् **इमा** इमानि **भुवनानि** भूतजातानि **वीयसे** गच्छसि । वी गत्यादिषु । किं कुर्वन् । **हरितः** हरितवर्णाः सुपर्ण्यः सुपतनाश्चाश्वाः रथे **युजानः** योजयन् । **ताः** सुपर्ण्यः **ते** तव संबन्धिन्यः **मधुमत्** माधुर्योपेतं **घृतं** दीप्तं **पयः** उदकं **क्षरन्तु** । हे **सोम** **तव** **व्रते** कर्मणि **तिष्ठन्तु** **कृष्टयः** मनुष्याः सर्वे ॥
@@ -276,10 +279,6 @@ Als Herrscher durcheilst du diese Welten, o Saft, deine schön beschwingten Falb
 
 Als Herrscher dringst durch alle diese Wesen du, die schönbeschwingten, goldnen Stuten schirrend dir, Sie mögen, Indu, strömen süsse, fette Milch; in deinem Dienst, o Soma, möge stehn der Menschen Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

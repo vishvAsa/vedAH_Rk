@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महाम्- महताम्। अवीनाम्- रक्षाभूतभाजनानां प्रतीकानाम्। अनु। पूर्व्यः- पुराणः सन्। द्युम्नी-  ज्योतिष्मान् सन्। सुधारः- शोभनधारः सन्। सोम- रस। पवस्व- क्षर॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **द्युम्नी** । 'द्युम्नं द्योततेर्यशो वान्नं वा ' इति यास्कः । अन्नवान् यशस्वी वा **सुधारः** शोभनधारायुक्तः पूर्व्यः पुरातनस्त्वं **महां** महताम् **अवीनां** रोम्णां रोमभ्यः सकाशादनुक्रमेण **पवस्व** क्षर ॥
@@ -145,8 +148,6 @@ The morphological identity of mahā́m is uncertain: it could be acc. sg. (m.) (
 to mahā́nt-. Most (Oldenberg, Geldner, Renou, Lubotsky) take it as an acc., supplying ‘fleece’ or ‘back’, hence “along the great (fleece) of the sheep.” For detailed disc. see Oldenberg ad loc. and ad II.24.11. Although this is certainly possible, the filter is not usually so described.
 
 A similar problem arises with a gen. pl. interpr., acdg. to which it would modify ávīnāmi “of the great sheep.” Since the most likely entity to be called ‘great’ in this vs. is Soma (cf., e.g., mahā́n samudráḥ in vs. 4, I think it likely that the form is nom. sg. In this sandhi position (before vowel) we would expect mahā́m̐(cf., e.g., IX.66.16 mahā́m̐asi), but I suggest that the anunāsika was redactionally changed to m because the form was reinterp. as a gen. pl. modifying immed. following ávīnām.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -178,8 +179,6 @@ O Soma riesle – an Glanz und Flut reich, ans grosse Wollnetz – im Lauf dich 
 Вдоль огромного (сита) из овечьей шерсти, древний (бог)!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -190,12 +189,12 @@ O Soma riesle – an Glanz und Flut reich, ans grosse Wollnetz – im Lauf dich 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे सोमगुणसम्पन्न तथा सर्वोत्पादक परमात्मन् ! आप (द्युम्नी)यशःस्वरूप (सुधारः) अमृतस्वरूप, तथा (महाम्, अवीनाम्) बड़े-बड़े रक्षकों में (अनु, पूर्व्यः) सबसे मुख्य रक्षक होने से आप (पवस्व) हमको पवित्र करें॥७॥
+पदार्थान्वयभाषाः -  (सोम) हे सोमगुणसम्पन्न तथा सर्वोत्पादक परमात्मन् ! आप (द्युम्नी)यशःस्वरूप (सुधारः) अमृतस्वरूप, तथा (महाम्, अवीनाम्) बड़े-बड़े रक्षकों में (अनु, पूर्व्यः) सबसे मुख्य रक्षक होने से आप (पवस्व) हमको पवित्र करें॥७॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सर्वोपरि परमात्मा, जिसका यश महान्=सबसे बड़ा है, वही हमारा रक्षक और वही एकमात्र उपास्य देव है ॥७॥
+भावार्थभाषाः -  सर्वोपरि परमात्मा, जिसका यश महान्=सबसे बड़ा है, वही हमारा रक्षक और वही एकमात्र उपास्य देव है ॥७॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

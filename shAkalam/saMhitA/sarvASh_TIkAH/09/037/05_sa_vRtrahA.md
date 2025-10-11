@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। वृत्रहा- आवरणनाशकः। वृषा- वर्षकः। सुतः- निष्पन्नः। वरिवोवित्- संपद्वित्।  अदाभ्यः- अदम्भनीयः। सोमः- रसः। वाजमिव- युद्धं प्रतीव। असरत्- सरति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **वृत्रहा** **वृषा** वर्षकः **सुतः** अभिषुतः **वरिवोवित्** यष्टुर्धनस्य लम्भकः **अदाभ्यः** अन्यैरदम्भनीयः **सोमः** **वाजमिव** संग्राममश्व इव **असरत्** गच्छति कलशम् ॥
@@ -183,10 +186,6 @@ Der Vritratöter, der ausgepreßte Bulle, der einen Ausweg ins Freie findet, der
 
 Der Vritratödter Soma lief heilspendend, der erzeugte Hengst, Untilgbar wie zur Beute hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

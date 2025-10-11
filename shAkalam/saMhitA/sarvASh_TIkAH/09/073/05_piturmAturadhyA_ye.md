@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पवित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पितुः मातुः- द्यावापृथिव्योः। ये। अध्या- अधिकम्। समस्वरन्- मन्त्रान् शब्दयन्ति। ऋचा-  मन्त्रेण। शोचन्तः- दीप्तिमन्तः। अव्रतान्- अधार्मिकान्। सन्दहन्तः- बाधमानाः। मायया-  प्रज्ञानेन। इन्द्रद्विष्टाम्- ईशनाधिदैवतद्वेषपात्राम्। असिक्नीम्- अन्धकाररूपिणीम्। त्वचम्-  शरीरैकवासनामयीं कृत्याम्। भूमनः- विस्तृतात्। दिवस्परि- चित्ताकाशात्। अप धमन्ति- अधः  पातयन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पितुर्मातुः** द्यावापृथिव्योः । ‘ द्यौर्मे पिता जनिता नाभिरत्र बन्धुर्मे माता पृथिवी महीयम्' (ऋ. सं. १.१६४.३३ ) इत्यादिषु द्यावापृथिव्योर्मातापितृत्वाम्नानात् । द्यावापृथिवीभ्यां **ये** सोमरश्मयः **अध्या** **समस्वरन्** अधिकं प्रादुर्भूता अभवन् ते **ऋचा** ऋत्विग्भिः क्रियमाणया स्तुत्या **शोचन्तः** दीप्यमानाः **अव्रतान्** कर्मरहितान् यजमानान् **संदहन्तः** सम्यग्विनाशयन्तस्ते रश्मयः **इन्द्रद्विष्टाम्** इन्द्राय द्वेषकारिणीम् । ‘क्ते च ' ( पा. सू. ६. २. ४५ ) इति पूर्वपदप्रकृतिस्वरः । इन्द्रेण द्विष्टां वा । **असिक्नीम्** । रात्रिनामैतत् । रात्रिवत्कृष्णरूपां **त्वचम्** । राक्षसमित्यर्थः । **मायया** कर्मणा प्रज्ञया वा **भूमनः** विस्तृताद्भूलोकात् **दिवस्परि** द्युलोकाच्च **अप** **धमन्ति** अपगतं कुर्वन्ति । अपघ्न्तीत्यर्थः ॥ ॥ २९ ॥
@@ -252,8 +255,6 @@ With Sāyaṇa. and Renou but contra Geldner, I consider the father and mother o
 
 Note the return of √dham ‘blow’ from 1a. In its earlier occurrence this root simply expressed the action of the drop (drapsásya dhámataḥ), but here the verb has been weaponized, as it were, against enemies.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -261,6 +262,7 @@ See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vs
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -295,8 +297,6 @@ Sie, die mit Glanz vom Vater und der Mutter her erstrahlend rauschten, brennend 
 С помощью колдовской силы сдувают прочь ненавистную Индре  
 Черную кожу с земли (и) с неба.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

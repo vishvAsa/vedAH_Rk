@@ -3,7 +3,6 @@ title = "041"
 devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अत्रिः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। विश्वायुः- सर्वप्राणभूतः सोमः। प्रजावतीः- सन्ततियुख्नाः। विश्वाः- सर्वाः।  सुभराः- सुष्ठु भरणशीलाः। भन्दनाः- श्रुतिस्तुतीः। अहर्दिवि- अहर्निशम्। उदियर्ति- प्रेरयति।  इन्दो- क्लेदनशील रस। पीतः- अनुभूतः सन्। अस्मभ्यम्- अस्मदर्थम्। इन्द्रम्- परमेश्वरम्।  प्रजावत्- सन्ततियुख्नाम्। अश्वपस्त्यम्- प्राणधामभूताम्। ब्रह्म- विस्तीर्णशख्निम्। रयिम्- दैवीं  संपदम्। याचतात्- प्रार्थय॥४१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **विश्वायुः** सर्वस्य गन्ता सोमः **प्रजावतीः** प्रजारूपफलदात्रीः **सुभराः** सुष्ठु ह्रियमाणाः **विश्वाः** सर्वाः **भन्दनाः** स्तुतीः **उदियर्ति** उत्कृष्टं प्रेरयति । कस्मिन् काले उच्यते । **अहर्दिवि** अहोरात्रयोश्च । अथ प्रत्यक्षकृतः । **ब्रह्म** परिवृढं कर्म **प्रजावत्** प्रजाभिर्युक्तम् । प्रजाफलकमित्यर्थः । यद्वा । अन्नं तच्च प्रजावत् प्रजाद्युपेतम् । तथा **रयिं** धनम् । कीदृशम् । **अश्वपस्त्यं** व्याप्तगृहम् । तदुभयं हे **इन्दो** दीप्त सोम **पीतः** इन्द्रेण पीतस्त्वं तमेव **इन्द्रमस्मभ्यं** **याचतात्** याचस्व ॥
@@ -257,8 +260,6 @@ It’s a long and winding road to what we want! The interpr. of the hapax bahuvr
 
 assumes a concrete homestead, which belongs to the speaker and/or his associates, that is stuffed, as it were, with horses. The difference between the abstract and the concrete interpr. is small but significant, and I continue to prefer the concrete one.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -283,10 +284,6 @@ Er bringt zeitlebens Tag für Tag alle löblichen Dinge, die Nachwuchs haben, au
 
 Er lässt erstehen kinderreiche Segnungen, die alle stark sind, allbelebend Tag für Tag, Geschlürft, o Indu, geh den Indra für uns an um kinderreich Gebet und rossereichen Stall.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

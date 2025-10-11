@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रजसः- जीवोदकधारायाः। विधर्मणि- विशेषधर्मे। पवित्रे- शोधके प्रतीके। त्वम्। पवमान सोम-  पुनान रस। देवेभ्यः- द्योतनशख्निभ्यः। पूयसे। त्वाम्- भवन्तम्। उशिजः- कामयमाना  उपासकाः। प्रथमाः- मुख्याः। अगृभ्णत- गृह्णन्ति। तुभ्य- त्वदर्थम्। इमा- एते। विश्वानि  भुवनानि- सर्वे लोकाः। येमिरे- यच्छन्ति॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **पवमान** **त्वं** **रजसः** लोकस्य रसस्य वा **विधर्मणि** विधारके दशापवित्रे **देवेभ्यः** देवार्थं **पूयसे** । **त्वामुशिजः** कामयमाना ऋत्विजः **प्रथमाः** प्रतमा मुख्याः **अगृभ्णत** गृह्णन्ति । **तुभ्य** तुभ्यम् **इमा** इमानि **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **येमिरे** यच्छन्त्यात्मानम्॥॥१७॥
@@ -230,7 +233,6 @@ submitted themselves.1324 IX.86
 <details><summary>Jamison Brereton Notes</summary>
 
 On the expression pavítre rájaso vídharmaṇi and its more succinct variants see comm. ad IX.64.9.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -266,8 +268,6 @@ Gereinigt wirst den Göttern du, o flammender, o Soma, in der Seihe in der Lüft
 Тебя Ушиджи захватили первыми.  
 Тебе покорились все эти миры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

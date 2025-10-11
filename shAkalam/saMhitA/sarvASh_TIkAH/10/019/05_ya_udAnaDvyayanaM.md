@@ -3,7 +3,6 @@ title = "005"
 devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 udā́naṭ ← √naś- 1 (root)  
@@ -158,12 +156,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। गोपाः- चिद्रश्मिपालक उपासकः। व्ययनम्- विशरणम्। उदानट्- व्याप्नोति। यः।  परायणम्- परमं शरणभूतं स्वरूपम्। उदानट्- प्राप्नोति। यः। आवर्तनम्- पुनः स्वरूपे आवर्तनम्।  निवर्तनम्- विषयेभ्यो निवर्तनमनुभवति। सः। नि वर्तताम्- स्वरूपे विषयेभ्यः प्रत्यावृत्तो  भवतु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **गोपाः** गोपालः **व्ययनं** नष्टानां गवामन्वेषणार्थं विविधं गमनम् **उदानट्** व्याप्नोति अनुभवति । **यः** परायणं परागमनम् **उदानट्** व्याप्नोति । वनं प्रति गवां चरणाय गमनमित्यर्थः। यश्च **आवर्तनं** वनचारिणीभिर्गोभिः सह प्रवर्तनमनुभवति । यः **अपि** गोपाः **निवर्तनं** गोभिः सह वनाद्गृहं प्रति निर्गमनमनुभवति । सोऽपि गोपालः **नि** **वर्ततां** गोभिः सह वनाद्गृहं प्रति क्षेमेणागच्छतु ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -193,8 +194,6 @@ Der ihr Entfernen wohl bewacht, der ihren Fortgang wohl bewacht, Ihr Heimgehn un
 Приближением, возвращением –  
 Пастух пусть тоже вернется.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

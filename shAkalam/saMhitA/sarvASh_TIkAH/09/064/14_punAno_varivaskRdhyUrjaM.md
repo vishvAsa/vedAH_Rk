@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरे- आकर्षक। आशिरम्- मिश्रितम्। सृजानः- सृजन्। पुनानः- पूयमानः सन्। वरिवः- संपदः।  कृधि- कुरु। गिर्वणः- मन्त्रैर्वननीय। जनाय। ऊर्जं- शख्निम्। कृधि ॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **गिर्वणः** गीर्भिर्वननीय **हरे** हरितवर्ण सोम **आशिरं** क्षीरं प्रति **सृजानः** विसृज्यमानः **पुनानः** पूयमानस्त्वं **जनाय** यजमानार्थं **वरिवः** धनम् **ऊर्जम्** अन्नं च **कृधि** कुरु ॥
@@ -178,10 +181,6 @@ Wenn du dich läuterst, so schaffe einen Ausweg, Stärkung dem Volke, du lobbege
 Gereinigt schaffe freien Raum und Kraft den Menschen, Liederfreund, Entsandt, o Ross, zum Milchgemisch.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -197,7 +196,7 @@ Gereinigt schaffe freien Raum und Kraft den Menschen, Liederfreund, Entsandt, o 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा दुष्टों की शक्तियों को हर लेता है और श्रेष्ठों को अभ्युदय दे करके बढ़ाता है ॥
+भावार्थभाषाः -  परमात्मा दुष्टों की शक्तियों को हर लेता है और श्रेष्ठों को अभ्युदय दे करके बढ़ाता है ॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

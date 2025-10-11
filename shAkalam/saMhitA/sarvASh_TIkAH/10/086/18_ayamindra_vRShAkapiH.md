@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। अयम्- एषः। वृषाकपिः। परस्वन्तम्- परस्वहारकम्। हतम्। विदत्- विन्दतु। असिम्-  खड्गम्। सूनाम्- शत्रुवधम्। प्रसूतिं वा। षूङ् प्राणिप्रसवे। नवं चरुम्। आत्- अथ। एधस्य  आचितं अनः- काष्ठपूर्णशकटम्। विन्दतु॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **अयं** **वृषाकपिः** **परस्वन्तं** परस्वमात्मनो विषयेऽवर्तमानं **हतं** हिंसितं **विदत्** विन्दतु । तथा हतस्य विशसनाय **असिं** शस्त्रं **सूनाम्** उद्धानं पाकार्थं **नवं** प्रत्यग्रं **चरुं** भाण्डम् **आत्** अनन्तरम् **एधस्य** काष्ठस्य **आचितं** पूर्णम् **अनः** शकटं च विन्दतु । मस पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
@@ -245,10 +248,6 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 »O Indra, dieser Vrischākapi hat einen todten Esel gefunden, ein Messer, eine Schüssel und einen neuen Kessel, dann einen mit Brennholz beladenen Wagen.« Höher als alles ist Indra.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -259,7 +258,7 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  फिर ज्योतिष विषय प्रारम्भ होता है−(इन्द्र) हे उत्तरध्रुव ! (अयं वृषाकपिः) यह वृषाकपि-सूर्य (परस्वन्तं हतं विदत्) वराहयु-वन्य कुत्ते को मार सका (असिम्) काटनेवाले शस्त्र तलवार को (सूनाम्) वधस्थान को (नवं चरुम्) प्रत्यग्र विषयुक्त अन्न को (आत्) अनन्तर और (एधस्य-आचितम्-अनः) जलाने के लिये ईंधन के भरे शकट-छकड़े को इन हत्या के साधनों को अपने अधीन कर लिया, न मर पाया, यह आश्चर्य है ॥१८॥
+पदार्थान्वयभाषाः -  फिर ज्योतिष विषय प्रारम्भ होता है−(इन्द्र) हे उत्तरध्रुव ! (अयं वृषाकपिः) यह वृषाकपि-सूर्य (परस्वन्तं हतं विदत्) वराहयु-वन्य कुत्ते को मार सका (असिम्) काटनेवाले शस्त्र तलवार को (सूनाम्) वधस्थान को (नवं चरुम्) प्रत्यग्र विषयुक्त अन्न को (आत्) अनन्तर और (एधस्य-आचितम्-अनः) जलाने के लिये ईंधन के भरे शकट-छकड़े को इन हत्या के साधनों को अपने अधीन कर लिया, न मर पाया, यह आश्चर्य है ॥१८॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>

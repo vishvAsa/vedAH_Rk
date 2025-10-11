@@ -3,7 +3,6 @@ title = "004"
 devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शची पौलोमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 havíṣā ← havís- (nominal stem)  
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। इन्द्रः- परमेश्वरः। हविषा- हव्येन। कृत्वी- कर्मशीलः। द्युम्नी- द्योतनशीलः। उत्तमः-  श्रेष्ठः। अभवत्। देवाः- देवताः। इदं तत्। अक्रि- अकारि। असपत्ना। किल अभुवम्-  अभूवम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **येन** **हविषा** **इन्द्रः** मम भर्ता **कृत्वी** कर्मणां कर्ता **अभवत्** 'भवति । तथा **द्युम्नी** । द्युम्नं द्योतमानं यशोऽन्नं वा । तद्वान् **उत्तमः** उत्कृष्टतमश्च येन हविषा भवति । हे **देवाः** स्तोतार ऋत्विजः **तत्** **इदं** हविः **अक्रि** अकारि ॥ जयार्थिभिर्भवद्भिः क्रियताम् । यद्वा । हे यष्टव्या देवाः तदिदं हविरक्र्यहमपि । करोतेर्लुङीटि ' मन्त्रे घस इति च्लेर्लुक् । अत एव कारणादहम् **असपत्ना** **किल** शत्रुरहिता खलु **अभुवम्** अभूवम् । छान्दसो ह्रस्वः ॥
@@ -241,8 +244,6 @@ Dasselbe Opfer habe ich vollbracht, durch welches Indra auch, O Götter, einst s
 Ее я совершила для себя, о боги.  
 Воистину не стало у меня соперниц!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

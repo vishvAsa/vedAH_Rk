@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "कर्णश्रुद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कर्णश्रुद्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदि- यदा। ज्येष्ठस्य- मुख्यस्याचार्यस्य। क्षोः- मन्त्रं शब्दायमानस्य। अनीके- मुखे। धर्मणि वा-  स्वभावे वा। वेनतः- काम्यात्। मनसः- चित्तात्। वाक्- मन्त्रः। तक्षत्- एनं रसं सृजति तदा।  आत्- अनन्तरम्। ईम्- एतम्। वरम्- श्रेष्ठम्। जुष्टम्- सेव्यम्। पतिम्- पालकम्। इन्दुम्-  सोमम्। कलशे- भाजने प्रतीके स्थितम्। वावशानाः- कामयमानाः। गावः- विद्याः। आ-  आभिमुख्येन। आयन्- आगच्छन्ति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वेनतः वेनोवेनतेःकान्तिकर्मणइतियास्कः । कामयमानस्य मनसः मन्यतेःस्तुतिकर्मणः स्तोतुर्वाक् स्तुतिलक्षणायद्येनन्तक्षत् संस्करेति वाशब्दउपमार्थे यथा धर्मणि निमित्तात् कर्मसंयोगइतिसप्तमी धारकं योगक्षेमविषयं कर्मोद्दिश्य क्षोःशब्दायमानस्य अनीके सङ्ग्राम- मुखे तत्र स्थितस्य जानपदिकस्य वाक् ज्येष्ठस्य द्वितीयार्थेषष्ठी प्रशस्यतमं राजानं यथा- स्तौति तथास्तोतुर्वाक् सोमंस्तौतीत्यर्थः । आदनन्तरमेव वरं वरणीयं जुष्टं देवानां मदाय- पर्याप्ते पतिं सर्वस्य पालकं कलशे स्थितं इन्दुं ईमेनं सोमं वावशानाः कामयमानाः गावआयन् पयसा स्वीये नमि श्रयितुमागच्छन्ति ॥ २२ ॥
@@ -279,8 +282,6 @@ in that way. Alternatively “in front of cattle” could refer to the place on 
 
 This would more narrowly define the location than the first locative phrase, which gives the whole ritual ground as the locus. The 2nd possibility provides a better set of parallels with vā - both locational - but I prefer the 1st because of the use of ánīkawith dawn elsewhere.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -313,8 +314,6 @@ Als ihn voll Liebe schuf das Wort des Geistes, wie in des Höchsten Reich, im Si
 Пришли к нему тогда по (своему) желанию, громко мыча,  
 Коровы – к любимому супругу, к соку сомы в кувшине.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

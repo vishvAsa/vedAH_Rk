@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्योपासकस्य। प्रेषा- प्रेरकेण। हेमना- ज्योतिषा। पूयमानः- पुनानः। देवः-  द्योतनशीलः। रसम्। देवेभिः- देवैः। समपृख्न- संयोजयति। रेभन्- शब्दयन्। सुतः- निष्पन्नः।  पवित्रम्- शोधकं प्रतीकम्। मिता- निर्मितानि। पशुमन्ति- सूक्ष्मदर्शियुख्नानि। सुद्म- यज्ञसदनानि।  होतेव- अग्निरिव। पर्येति- परिगच्छति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अस्य सोमस्य प्रेषा प्रेषतिर्गत्यर्थः क्विपिरूपं सावेकाचइतिविभक्तेरुदात्तत्वम् । प्रेषा प्रेरकेण हेमना हिरण्येन पूयमानः हिरण्यपाणिरभिषुणोतीति हिरण्यसम्बन्धः । तादृशः देवोदीप्यमानांशुः रसमात्मीयं देवेभिःदेवैः सह समपृक्तः सम्पर्चयति संयोजयति । पृची- सम्पर्के ततः सुतोभिषुतः सोमः रेभन् शब्दायमानःसन् पवित्रं ऊर्णास्तुकेननिर्मितं पर्येति परिगच्छति । कथमिव होता देवानामाह्वाता ऋत्विक् मितेव निर्मितान् पशुमन्ति बद्ध- पशून् सद्म सदनानि यज्ञगृहान् यथा पर्येति तद्वत् ॥ १ ॥
@@ -249,8 +252,6 @@ As Renou points out, init. asyá is reflexive or pseudo-reflexive, referring to 
 Grassmann attributes the instr. preṣā́to a root noun préṣ- (← pra-íṣ-). Scarlatta (59-60) discusses the form extensively, pointing out that a root noun analysis is dispreferred because of the accent on the ending: root nouns generally keeping the accent on the root even in the oblique. An instr. to a putative them. stem preṣá- is possible (at least accentually distinct from préṣa- I.68.5).
 
 Almost identical to IX.92.6a, pāda d contains one of the few technical references to animal sacrifice (other than the horse sacrifice) in the RV.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -284,8 +285,6 @@ Geklärt durch dieses Priesters schnellen Eifer, hat seinen Saft der Gott besche
 Выжатый, он движется кругами по цедилке, распевая,  
 Как хотар (вокруг) размеченных мест с жертвенными животными.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "049"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्सः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गृणानः- स्तूयमानः सन्। वायुम्- प्राणम्। वीती- अनुभूतये। अभि अर्ष- अभिसर। पूयमानः-  पुनानः सन्। मित्रावरुणा- स्नेहाधिदैवतमृताधिदैवतम्। अभि- अभिसर। रथेष्ठाम्- महारथम्।  धीजवनम्- मनोवेगसंपन्नम्। नरम्- नेतारं रुद्रम्। अभि- अभिसर। वृषणम्- वर्षकम्। वज्रबाहुम्।  इन्द्रम्- ईशनाधिदैवतम्। अभि- अभिसर॥४९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेसोम गृणानः स्तूयमानः त्वं वीती सुपांसुलुगिति चतुर्थ्याःपूर्वसवर्णदीर्घः । वीत्यै पानाय वायुमभ्यर्ष अभिगच्छ । तथा पवित्रेण पूयमानस्त्वं मित्रावरुणा मित्रावरुणौच पानायाभिगच्छ । किञ्च नरं सर्वस्यनेतारं धीजवनं बुध्यासमंवेगं कुर्वाणं रथेष्ठां रथेस्थां रथेतिष्ठन्तं अनेनाश्विनावभिधीयेते । एकवचनं प्रत्येकविवक्षया समुदायविवक्षयावा । एता दृशावश्विनौचाभिगच्छ । तथा वूषणं कामानां वर्षकं वज्रबाहुं वज्रयुक्तबाहुं इन्द्रञ्च त्वं- पानायाभिगच्छ ॥ ४९ ॥
@@ -226,8 +229,6 @@ Rush toward Vāyu in pursuit while being hymned, toward Mitra and  Varuṇa whil
 <details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg, Geldner, Renou identify the acc. goal in c as Pūṣan, because dhījávana- ‘quickening insightful thought’ is used in a simile comparing Soma to Pūṣan in
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details open><summary><h2>49-51 ...{Loading}...</h2></summary>
@@ -261,8 +262,6 @@ O ström gepriesner her zum Mahl den Vaju, hellflammender, den Varuna und Mitra,
 К мужу, вдохновляющему поэтическую мысль, стоящему на колеснице,  
 К Индре-быку с ваджрой в руке!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "036"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एव- एवम्। नः- अस्मदर्थम्। परिषिच्यमानः- परितः सिच्यमानः सन्। सोम- रस। आ-  समन्तात्। पूयमानः- पुनानः। स्वस्ति- कल्याणम्। पवस्व- क्षर। बृहता- महता। रवेण-  मन्त्रेण। इन्द्रम्- परमेश्वरम्। आ विश- प्रविश। पुरन्धिम्- पुरुधारणायुख्नाम्। वाचम्। जनय-  उत्पादय। वर्धय॥३६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेसोम परिषिच्यमानः परितः पात्रेषु सिच्यमानः पूयमानस्त्वं नोस्माकमेव स्वस्ति अविनाशमापवस्व आप्रापय । किञ्च बृहता महता रवेण शब्देनसह इन्द्रमाविश प्रविश तथा वाचं स्तुतिलक्षणां वर्धय । किञ्च पुरन्धिं बहुधियं प्रज्ञानं जनय अस्मभ्यं उत्पादय । वाक्यभेदादनिघातः ॥ ३६ ॥
@@ -234,7 +237,6 @@ Enter Indra with a lofty shout; strengthen speech, beget plenitude.
 <details><summary>Jamison Brereton Notes</summary>
 
 The hymn-summary evā́could once again be rendered more forcefully: “in just this way” vel sim.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
@@ -269,8 +271,6 @@ So ströme denn, o Soma, rings ergossen uns Heil und Segen zu, du hell entflammt
 Усиль (нашу) речь, породи изобилие!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -281,7 +281,7 @@ So ströme denn, o Soma, rings ergossen uns Heil und Segen zu, du hell entflammt
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! (परिषिच्यमानः) उपासना किये हुए आप (नः) हमको (आपवस्व) पवित्र करें और (पूयमानः) शुद्धस्वरूप आप (स्वस्ति) मङ्गलवाणी से हमारा कल्याण करें और (इन्द्रम्) कर्मयोगी को (आविश) आकर प्रवेश करें तथा (बृहता रवेण) बड़े उपदेश से उसको (वर्धय) बढ़ाएँ और (पुरन्धिम्) ज्ञान के देनेवाली (वाचम्) वाणी को (जनय) उसमें उत्पन्न करें॥३६॥
+पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! (परिषिच्यमानः) उपासना किये हुए आप (नः) हमको (आपवस्व) पवित्र करें और (पूयमानः) शुद्धस्वरूप आप (स्वस्ति) मङ्गलवाणी से हमारा कल्याण करें और (इन्द्रम्) कर्मयोगी को (आविश) आकर प्रवेश करें तथा (बृहता रवेण) बड़े उपदेश से उसको (वर्धय) बढ़ाएँ और (पुरन्धिम्) ज्ञान के देनेवाली (वाचम्) वाणी को (जनय) उसमें उत्पन्न करें॥३६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

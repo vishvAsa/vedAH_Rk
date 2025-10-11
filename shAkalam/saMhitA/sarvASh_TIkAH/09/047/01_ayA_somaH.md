@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनेन। सुकृत्यया- शोभनकर्मणा। सोमः- रसः। महः- महतः। चित्- एव। अभ्यवर्धत-  प्रवृद्धो भवति। मन्दानः- मोदमानः। उद्वृषायते- वृषभ इवाचरति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमः** **अया** अनया **सुकृत्यया** शोभनयाभिषवादिलक्षणया क्रियया **महश्चित्** महतो देवान् प्रति अभ्यवर्धत प्रवृद्धोऽभूत् । **मन्दानः** मोदमानः **उद्वृषायते** वृषवदाचरति । यथा मोदमानो वृषभः शब्दं करोति तथाभिषववेलायामुपरवेषु शब्दं करोतीत्यर्थः ॥
@@ -185,10 +188,6 @@ Durch diese geschickte Behandlung erstarkte der schon so große Soma noch mehr; 
 
 So gross er war, doch grösser noch ward Soma durch das fromme Werk, Erfreut geräth in Wallung er.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

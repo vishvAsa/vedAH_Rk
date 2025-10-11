@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः सन्। अश्वो न- तुरग इव। चक्रदः- शब्दितवानसि। इन्दो- क्लेदनशील। गाः-  चित्किरणान्। अर्वतः- प्राणान्। सम्- सम्यक् प्रयच्छ। नः- अस्माकम्। राये- संपदर्थम्। दुरः-  द्वाराणि। वि वृधि- विवृतानि कुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **वृषा** त्वम् **अश्वो** **न** अश्व इव **सं** **चक्रदः** संक्रन्दसे । अपि च **गाः** पशून् **अर्वतः** अश्वांश्चास्मभ्यं **सं** प्रयच्छसीति शेषः। किंच **नः** अस्माकं **राये** धनाय **दुरः** द्वाराणि **वि** **वृधि** विवृतानि कुरु ॥
@@ -197,10 +200,9 @@ open up the doors for wealth for us.
 
 As noted above, the bull theme gets suddenly muted in this vs.; in compensation, as it were, other animals are introduced: a horse (a), cows and steeds (b).
 
-Opinions vary on how to render the first two pādas, in part because of uncertainty about the verb cakradaḥ. Given the immediately preceding simile áśvo ná, the verb should be intransitive in the sense ‘roar, whinny’; this matches the usage of the simple thematic (aor.?) krada- in passages like IX.97.28 áśvo ná krado vŕ̥ṣabhir yujānáḥ “Like a horse you whinny on being yoked by the bulls.” However, the b pāda, sáṃ gā́ḥ … sám árvataḥ, with two acc. pl.s makes problems. Geldner jury-rigs what we might call a semi-transitive usage of the verb with sám, “zusammenbrüllen” (‘roar [smtg] together’)(see also Ober I.518), while registering the intransitive usage in the simile parenthetically: “Wie ein Ross (wiehernd) sollst du, der Bulle, uns Rinder und Rennpferde zusammen brüllen (brausen).” Despite the precarious nature of this solution, it may be the best one available, and I would entertain an alternative tr. “You the bull roar like a horse, (roaring) together cows and steeds.” I adopt a similar one in the published translation for the very similar passage IX.90.4 sáṃ cikrado mahó asmábhyaṃ vā́jān, with the variant stem cikrada-, also cited by Geldner and Renou, though I am not certain I subscribe to that now (see comm. ad loc.). By contrast, Renou clearly takes cakradaḥ as a trans./caus. redupl. aor.: “Tel un cheval, fais mugir ensemble … les vaches … ensemble (fais hennir) les coursiers.” However, the clear intrans. sense of krada- with the simile in the parallel passage cited above speaks against the caus. usage; moreover, as disc. at length in my -áya-book (110-11), neither cakrada- nor the redupl. aor. cikrada- with apparent “caus.” redupl. shows true transitive usage until the late RV; they also seem to be essentially interchangeable.
+Opinions vary on how to render the first two pādas, in part because of uncertainty about the verb cakradaḥ. Given the immediately preceding simile áśvo ná, the verb should be intransitive in the sense ‘roar, whinny’; this matches the usage of the simple thematic (aor.?) krada- in passages like IX.97.28 áśvo ná krado vŕ̥ṣabhir yujānáḥ “Like a horse you whinny on being yoked by the bulls.” However, the b pāda, sáṃ gā́ḥ … sám árvataḥ, with two acc. pl.s makes problems. Geldner jury-rigs what we might call a semi-transitive usage of the verb with sám, “zusammenbrüllen” (‘roar [smtg] together’)(see also Ober I.518), while registering the intransitive usage in the simile parenthetically: “Wie ein Ross (wiehernd) sollst du, der Bulle, uns Rinder und Rennpferde zusammen brüllen (brausen).” Despite the precarious nature of this solution, it may be the best one available, and I would entertain an alternative tr. “You the bull roar like a horse, (roaring) together cows and steeds.” I adopt a similar one in the published translation for the very similar passage IX.90.4 sáṃ cikrado mahó asmábhyaṃ vā́jān, with the variant stem cikrada-, also cited by Geldner and Renou, though I am not certain I subscribe to that now (see comm. ad loc.). By contrast, Renou clearly takes cakradaḥ as a trans./caus. redupl. aor.: “Tel un cheval, fais mugir ensemble … les vaches … ensemble (fais hennir) les coursiers.” However, the clear intrans. sense of krada- with the simile in the parallel passage cited above speaks against the caus. usage; moreover, as disc. at length in my -áya-book (110-11), neither cakrada- nor the redupl. aor. cikrada- with apparent “caus.” redupl. shows true transitive usage until the late RV; they also seem to be essentially interchangeable.
 
 I have a different solution for this passage (though it won’t work for IX.90.4): it is of course a commonplace that the preverbs sám and ví form a complementary pair. Here I suggest that the standard lexeme ví √vṛ ‘uncover, open up’ found in c has given rise situationally to an opposing expression sám √vṛ ‘cover, surround’ in b, with the verb gapped (or rather anticipated: vṛdhi at the end of c). The bull is urged to deliver cows and horses to us by confining them. The proposed lexeme sám √vṛ does marginally exist; see I.121.15, with sám … varanta in intrans. value, as well as ppl. sáṃvṛta- (VIII.17.7). I thus read the verb cakradaḥ only with pāda a.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -227,10 +229,6 @@ Wie ein Roß wiehernd sollst du, der Bulle, uns Rinder und Rennpferde zusammen-b
 O wiehere gleich wie ein Hengst uns Ross' und Rinder, Indu, her, Des Reichthums Thore öffne uns.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -246,7 +244,7 @@ O wiehere gleich wie ein Hengst uns Ross' und Rinder, Indu, her, Des Reichthums 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा जिन पर कृपा करता है, उन पुरुषों की ज्ञानेन्द्रिय तथा कर्मेन्द्रिय की शक्तियों को बढ़ाता है। तात्पर्य यह है कि उद्योगी पुरुष वा यों कहो कि सत्कर्मी पुरुषों की शक्तियों को परमात्मा बढ़ाता है। आलसी और दुराचारियों की नहीं॥३॥
+भावार्थभाषाः -  परमात्मा जिन पर कृपा करता है, उन पुरुषों की ज्ञानेन्द्रिय तथा कर्मेन्द्रिय की शक्तियों को बढ़ाता है। तात्पर्य यह है कि उद्योगी पुरुष वा यों कहो कि सत्कर्मी पुरुषों की शक्तियों को परमात्मा बढ़ाता है। आलसी और दुराचारियों की नहीं॥३॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

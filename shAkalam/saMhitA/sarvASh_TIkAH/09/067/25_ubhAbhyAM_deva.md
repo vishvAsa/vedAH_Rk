@@ -3,7 +3,6 @@ title = "025"
 devataa = "अग्निः सविता वा"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पवित्रो वसिष्ठो वोभौ वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    देव- द्योतनशील। सवितः- आत्मसूर्य। पवित्रेण- शोधकेन भाजनेन प्रतीकेन। सवेन च-  रसनिष्पत्त्यापि। उभाभ्याम्- एताभ्यामुभाभ्याम्। विश्वतः- सर्वतः। माम्। पुनीहि- पावय॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सवितः** सर्वस्य प्रेरक हे **देव** द्योतमान सोम त्वं **पवित्रेण** पापशोधकेन त्वदीयेन तेजसा **सवेन** सोसाभिषवेण **च** एताभ्याम् **उभाभ्यां** **विश्वतः** सर्वतः **मां** **पुनीहि** पूतं कुरु ॥ ॥१७॥
@@ -154,8 +157,6 @@ purify me all about.
 <details><summary>Jamison Brereton Notes</summary>
 
 In addition to the introduction of Savitar, we also get a slight rearrangement in word order. The conjoined phrase pavítreṇa savéna ca would not fit in the slot right before the impv. in c, a position it occupies in 23c, 24b, 24c, 26c, so the final enclitic naḥ is converted to a full prn. mā́m and placed in initial position. This prn. also has to be read as distracted máām to achieve 8 syllables. I wonder why the poet didn’t just use asmā́n, which would fit the meter and better match naḥ. One of the only instances in which I think I could compose the vs. better than the poet - though “me” (both tonic mā́m and enclitic mā) serves as insistent obj. in vs. 27.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
@@ -190,8 +191,6 @@ Durch beides, o Gott Savitar, durch Antrieb und durch Läuterung Durchläutere m
 Цедилкой и побуждением,  
 Очисть меня со всех сторон!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

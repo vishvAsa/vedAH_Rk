@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    गविष्टये- ज्ञानान्वेषणाय। महे- महते। नृचक्षसे- उपासकानां तत्त्वदर्शनाय। सोम- रस। आ-  समन्तात्। पवस्व- क्षर। इन्द्रस्य- परमेश्वरस्य। जठरे- हृदये। आ विश- प्रविश। सीदन् वनस्य  जठरे पुनानः, भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः स्तन्नबाधित इत्यादिषु मन्त्रेषु  जठरशब्दस्य मध्यभाग इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः। हूयमानः-  अस्माभिराहूतः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** पवमान **गविष्टये** अङ्गिरसां गवामन्वेष्ट्रे **महे** महते **नृचक्षसे** नॄणां मनुष्याणां द्रष्रेमा कर्मनेतॄणां फलं पश्यते वा इन्द्राय **आ** **पवस्व** पात्रेषु दशापवित्रेण पूतो भव । ततः **इन्द्रस्य** **जठरे** उदर उदरभूते द्रोणकलशे वा **आ** **विश** प्रविश ॥ ॥ ९ ॥
@@ -166,7 +169,6 @@ Enter here into the belly of Indra.
 The usually idiomatic ā́pavasva lacks the usual acc. object (“bring [X] by purifying yourself”). Perhaps the ā́anticipates the ā́in c, in the idiom ā́… viśa ‘enter’.
 
 The question in b are whether the two datives mahé … nṛcákṣase belong together and what the referent(s) is/are. Geldner takes them together and identifies the referent as Indra, who appears by name in the next pāda, which would support Geldner’s solution. However, as Renou points out, nṛcákṣas- is never used of Indra, but generally of Agni or Soma. Renou himself separates the datives, supplying ráṇe with mahé from the beginning of the tṛca (13a) and identifying the referent of nṛcákṣase as “le dieu Soma.” Although the first choice seems possible and even reasonable, the second is awkward: it seems odd to order Soma to purify himself for himself, even if the addressee is the substance soma (which shouldn’t actually have such agency) as distinct from the god. Given that the next tṛca but one (vss. 19-21) is addressed to Agni, that god seems a more likely choice. Renou’s motivation in separating the two datives in b seems to be to wring the three functions out of the vs. (or, I gather, ab), but I don’t see how they would match up. In any case, a modified tr. à la Renou, without reference to the three functions, is conceivable: “… for the quest for cattle, for great (joy), for the one of manly eye [=Agni].”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -193,10 +195,6 @@ Läutere dich zur Rindererbeutung für den Großen mit dem Herrscherauge, o Soma
 Ström', Soma, dem begierigen, dem grossen, Männer schauenden, Und dringe ein in Indra's Bauch.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -207,7 +205,7 @@ Ström', Soma, dem begierigen, dem grossen, Männer schauenden, Und dringe ein i
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (आपवस्व) हमको सब ओर से पवित्र करें (महे) बड़े (नृचक्षसे) ज्ञानकी वृद्धि के लिए और (गविष्टये) इन्द्रियों की शुद्धि के लिए और (इन्द्रस्य) कर्मयोगी के (जठरे) जठराग्नि में (आविश) प्रवेश करें॥१५॥
+पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (आपवस्व) हमको सब ओर से पवित्र करें (महे) बड़े (नृचक्षसे) ज्ञानकी वृद्धि के लिए और (गविष्टये) इन्द्रियों की शुद्धि के लिए और (इन्द्रस्य) कर्मयोगी के (जठरे) जठराग्नि में (आविश) प्रवेश करें॥१५॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

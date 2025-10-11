@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अव्रतम्- धर्मविरोधिनम्। व्रतं धर्मः। नञस्तद्विरोधित्त्वम्। दस्युम्- चोरम्। साह्वांसः- अभिभवन्।  दुराव्यम्- दुष्टमतिम्। सेतुम्- बन्धनम्। अति- अतिक्रम्य। सुवितस्य- सुष्ठु प्राप्तस्य सोमस्य भर्गः।  मनामहे- ध्यायामः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवितस्य** । शोभनं प्राप्तः सुवितः । शोभनस्य सोमस्य **सेतुं** रक्षोविषयं बन्धनं **दुराव्यं** दुष्टमतिं च रक्षसां बन्धनं तेषां हननबुद्धिं च सोमकर्तृकाः **मनामहे** स्तुमः । कथं स्तुम इति तदुच्यते । **अव्रतम्** अकर्माणं **दस्युं** शत्रुं **साह्वांसः** अभिभवन्तः ॥
@@ -146,8 +149,6 @@ cl. of vs. 1 is dependent: “we” are not likened to stampeding cattle in vs. 
 With Oldenberg, Geldner, Renou I take the gen. suvitásya as the gen. obj. of manāmahe and construe áti with sétum (contra Grassmann, who takes it with manāmahe). In IX áti regularly refers to the journey of the soma “beyond” the filter, which here is represented by sétum. Renou cites other passages containing √man with gen., but it must be admitted that this particular form, manāmahe, otherwise resolutely takes the acc. sétu- is found 5x in the RV; its only two occurrences in IX are here and in IX.73.4 cited above. The word does not yet have its later meaning ‘bridge’, but a sense closer to its root etym. to √sā / si ‘bind’ (with 2ndary full-grade se built to the zero-grade): ‘fetter, bond, (or here) snare’. Geldner and Renou instead take it as a dyke or dam (Damm and digue respectively), but these seem to be an attempt to split the difference between the root etymology and the later sense ‘bridge’. Certainly in other RVic passages the sense ‘fetter’ vel sim. is inescapable, e.g. VIII.67.8 mā́naḥ sétuḥ siṣed ayám “Let this fetter here not bind us,” with cognate verb, where Geldner tr. “Fessel.” As for what physical object the sétu- refers to here, I think it is an image of the twisty curls of a sheep's fleece, which can be seen as fetters or nooses.
 
 durāvyàm, modifying sétum, is assigned to a stem dur-ā́vya / durā́via by Grassmann, misrepresenting the accent, inter alia. As Oldenberg points out, however, the stem is really durāvī́-, a root noun cmpd. (see now Scarlatta 497), and it must mean ‘difficult to pursue / follow’. Since sétu- here refers to the curls of the sheep’s fleece (in my view), these curls can be conceived of as the tracks that the liquid would follow as it's being strained through the fleece, tracks that can be difficult to pursue. So the acc. phrase sétuṃ durāvyàm jams two different but evocative images into one. Note also that suvitásya … durāv(í)yam is something of a phonetic figure, with the semantically contrastive adverbial prefixes su and dus, but different verbal roots (√i and √vī) -- though internal sandhi provides √i with an apparent initial v matching vī.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -180,8 +181,6 @@ Zu überschreiten streben wir den unwegsamen Steg des Heils, Gottlosen Feind bew
 Мы думаем о счастливом путешествии  
 Через плотину, которую трудно взять.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

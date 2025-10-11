@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान सोम। तव- भवतः। रसः। दक्षः- समर्थः। द्युमान्- तेजस्वी। वि- विशेषेण।  राजति- प्रकाशते।  दृशे- दर्शनाय। ज्योतिः- ज्योतिर्मयम्। विश्वं स्वः- सर्वं दिव्यलोकं  करोति॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम **तव** त्वदीयः **दक्षः** वृद्धः **द्युमान्** दीप्तिमान् **रसः** **वि** **राजति** प्रकाशते । न केवलं स्वयमेव प्रकाशते किंतु **विश्वं** व्याप्तं **स्वः** सर्वं **ज्योतिः** तेजश्च **दृशे** द्रष्टुं करोतीति शेषः ॥
@@ -182,7 +185,6 @@ In c Geldner takes víśvam as the modifier of jyótiḥ (“… ist alles licht
 This is certainly possible, and jyótir vaiśvānarám in 16c might support it. But “for everyone / all to see the sun” is a locution encountered elsewhere (I.15.1, 5, VIII.49.8, X.136.1), incl.
 
 nearby IX.48.4. My interpr. is shared with Renou and Ober (I.457).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -215,8 +217,6 @@ Dein Saft, o hell erstrahlender, und deine schöne Kraft erglänzt, Ganz Licht, 
 Блистательная сила действия, ярко сверкает,  
 Светило, (существующее,) чтобы каждый видел солнце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

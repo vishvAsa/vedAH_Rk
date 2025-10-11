@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। देववीतमो मदः- दिव्यो हर्षकरः। मधुमत्तमः- अतिशयेन मधुरः। तादृशः। सोम- रस।  पवित्रे- शोधके पात्रे प्रतीके। आ- आभिमुख्येन। राये- संपदर्थम्। प्र- प्रकर्षेण। अर्ष- क्षर॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** ते तव **यः** **मदः** रसः **मधुमत्तमः** अत्यन्तं मधुमान् **देववीतमः** अतिशयेन देवकामश्च तं रसं **राये** अस्माकं धनार्थं **पवित्रे** **प्र** **आ** **अर्ष** धारया क्षर ॥
@@ -185,10 +188,6 @@ Fließe weiter, o Soma, du der Süßeste, zu Reichtum auf die Seihe als der göt
 
 Zu Reichthum ströme in das Sieb, o Soma, als das süsseste Gebräu, das götterlabendste.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

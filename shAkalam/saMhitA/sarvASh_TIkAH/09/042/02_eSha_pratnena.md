@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः- अयम्। प्रत्नेन- पुरातनेन। मन्मना- ध्यानेन। देवः- द्योतनशीलः। देवेभ्यस्परि। धारया।  सुतः- निष्पन्नः। पवते- क्षरति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषः** सोमः **प्रत्नेन** पुराणेन **मन्मना** मननीयेन स्तोत्रेण युक्तः **सुतः** अभिषुतश्च सन् **देवेभ्यः** **परि** परितः **धारया** स्वीयया **पवते** ॥
@@ -162,10 +165,6 @@ Dieser Gott über alle Götter läutert sich unter altgewohnter Andacht in Strö
 
 Er rieselt hell im alten Geist, ein Gott er, von den Göttern her Im Strome flammt er ausgepresst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

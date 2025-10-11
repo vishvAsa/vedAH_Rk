@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विः- पक्षी मुमुक्षाप्रतीकः। विश्वस्मै स्वदृ᐀्शे- सर्वस्मै ज्योतिर्दर्शनाय। साधारणम्- समानम्। इत्-  एव। रजस्तुरम्- जीवोदकप्रेरकम्। ऋतस्य- प्रकृतिनियतेः। गोपाम्- पालकम्। भरत्-  आहरत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रजस्तुरम्** उदकस्य प्रेरकम् **ऋतस्य** यज्ञस्य **गोपां** गोपायितारं **विश्वस्मै** सर्वस्मै **स्वदृशे** सर्वदृशे देवाय **साधारणम्** **इत्** समानमेव सन्तं सोमं **विः** पक्षी श्येनः **भरत्** स्वर्गादाहरत् ॥
@@ -180,10 +183,6 @@ Für jeden, daß er die Sonne sehe, brachte der Vogel als gemeinsamen Besitz den
 
 Dass jeder recht die Sonne schau, so bracht' der Aar den Schirm des Rechts, Der alles schützt, die Luft durchdringt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

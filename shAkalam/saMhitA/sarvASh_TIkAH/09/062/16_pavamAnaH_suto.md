@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। नृभिः- उपासकैः। सुतः- निष्पादितः। सोमः- रसः। शक्मना- बलेन।  चमूषु- पात्रेषु प्रतीकेषु। आसदम्- उपवेष्टुं। वाजमिव- अन्नमिव। असरत्- सरति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नृभिः** नेतृभिर्ऋत्विग्भिः **सुतः** अभिषुतः **सोमः** **चमूषु** चमसेषु **शक्मना** बलेन **आसदम्** उपवेष्टुं **वाजमिव** युद्धमिव स्थानम् **असरत्** सरति ॥
@@ -177,10 +180,6 @@ Der sich läuternde Soma ist von den Männern ausgepreßt gleichsam um den Siege
 
 Gepresst von Männern, flammend hat der Soma Labung hergeströmt, Setzt kräftig in die Schalen sich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

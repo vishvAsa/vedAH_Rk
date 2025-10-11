@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान रस। हिन्वानः- प्रेरितः सन्। वाचम्- मन्त्रम्। विधर्मणि- विशेषधर्मे। इष्यसि-  प्रेरयसि। देवो न सूर्यः- देवसवितेव। अक्रान्- अक्रमीत्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम **हिन्वानः** प्रेर्यमाणस्त्वं **वाचं** शब्दम् **इष्यसि** प्रेरयसि । कदेत्यत्राह । यदा तव रसः **सूर्यः** **देवो** **न** देव इव **विधर्मणि** विधारके पवित्रे **अक्रान्** अक्रमीत् तदेत्यर्थः ॥
@@ -156,7 +159,6 @@ Pāda b, pávamāna vídharmaṇi, is found three times (here, IX.4.9, and IX.10
 
 The simile in the third pāda, ákrān devó ná sū́ryaḥ “you have roared like the Sungod,” is abrupt in its imagery, in that roaring is not the first quality we associate with the sun. There are several ways to account for the phraseology. In Oldenberg’s view (fld by Lüders 258), the shared quality of Soma and Sun is not expressed by the verb, which is independent of the simile. This independence would be comparable to that found in the preceding hymn, IX.63.13, where the same simile (sómo devó ná sū́ryaḥ) is found, with a different but equally incompatible verb phrase ádribhiḥ … sutáḥ “pressed by stones,” which is certainly not true of the Sun. This is the easiest solution. Geldner (n. 9c) suggests rather that it’s a condensed comparison to the Sun’s horse (sim. Ober I.224). In my view, Oldenberg’s interpr. is strictly correct, but I think the poet, by juxtaposing the simile with an apparently inappropriate verb, is forcing the striking image of a roaring Sun, which both works as a kind of synaesthesia (the intense brightness of the sun is experienced as intense noise) and imposes a third intermediate term, a horse or bull, to which both the Sun and Soma are compared.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -181,10 +183,6 @@ Zur Eile getrieben entsendest du die Stimme, o Pavamana, wenn du dich ausbreites
 
 Entsandt erhebst du den Gesang, o rieselnder, du wiehertest Am Himmel wie der Sonnengott.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

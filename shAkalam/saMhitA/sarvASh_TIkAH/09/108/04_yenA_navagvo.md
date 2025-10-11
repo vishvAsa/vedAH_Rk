@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "ऊरुः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - ऊरुः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    येन। नवग्वः- नवनीयगतिः। दध्यङ्- धारणाशील उपासकः। अपोर्णुते- गवां चित्किरणानां द्वारं  विवृतमकरोत्। येन। विप्रासः- मेधाविनः। आपिरे- गाश्चित्किरणान् प्राप्नुवन्ति। देवानाम्- तेन  रसेन देवतानाम्। सुम्ने- आनन्दे। चारुणः- सुन्दरस्य। अमृतस्य- अमृतत्त्वस्य। श्रवांसि-  दिव्यश्रुतीः। आनशुः- उपासका अनुभवन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नवग्वः** नवनीयगतिः यद्वा नवभिर्मासैः सत्रस्यानुष्ठाता **दध्यङ्** एतन्नामकोऽङ्गिराः **येन** सोमेन पणिभिरपहृतानां गवां द्वारम् **अपोर्णुते** अपाच्छादयति विवृतमकार्षीत् । **विप्रासः** तन्मुखाः सर्वे मेधाविनोऽङ्गिरसः **येन** च सोमेन **आपिरे** एतैरपहृता गरे आप्नुवन् । किंच **देवानाम्** इन्द्रादीनां **सुम्ने** सुखे यज्ञेन संजाते सति **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य संबन्धीनि **श्रवांसि** अन्नानि **येन** च सोमेन यजमानाः **आनशुः** व्याप्नुवन् अलभन्त । स त्वं देवानाममृतत्वाय शब्दायस इति पूर्वेण समन्वयः ॥
@@ -203,7 +206,6 @@ The pf. āpiré in b takes the partitive gen. amṛ́tasya cā́ruṇaḥ in c. 
 See comm. ad IX.70.2 and, on supposed masc. cā́ruṇaḥ, VIII.5.14. Renou supplies instead ‘principe’: “au beau (principe) immortel.” This is the only finite med. form of the well-attested pf. to √āp, beside two occurrences of the part. Kümmel. (118) asserts that the medial forms have the “inattingent” sense ‘have success’ (implicitly interpr. our form here without the partitive gen. obj.), but he does not cite this passage. Geldner (n. 4c) seems to suggest something of the same thing as an alternative, but making amṛ́tasya cā́ruṇaḥ dependent on sumné as he suggests does not seem to me to work. Although it might seem circular for the poets to acquire a share of (heavenly) soma through (earthly) soma, this is exactly the point also of IX.70.2. See comm. ad loc I cannot detect the semantic nuance between √āp ‘acquire’ (āpiré b) and √(n)aś ‘attain’ (ānaśúḥ d). In this passage the first has a more material object, the second an immaterial one, but this distribution does not hold elsewhere.
 
 I take the pl. śrávaṃsi as distributive: each one of the pl. subj. acquires his own śrávaḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -237,8 +239,6 @@ Durch dich erschliesst der Neuner Dadhiank die Flut, durch dich gedieh der Säng
 К любимому бессмертию в милости богов,  
 Благодаря кому они достигли славы:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

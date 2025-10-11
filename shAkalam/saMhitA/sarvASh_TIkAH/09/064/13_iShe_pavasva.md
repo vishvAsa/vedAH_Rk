@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इषे- सदिच्छायै। धारया। पवस्व- क्षर। मनीषिभिः- मेधाविभिः। मृज्यमानः- शोधितः। इन्दो-  क्लेदनशील सोम। रुचा- दीप्त्या। गाः- चित्किरणान्। अभि इहि- अभिगच्छ॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **मनीषिभिः** ऋत्विग्भिः **मृज्यमानः** शोध्यमानस्त्वम् **इषे** अस्माकमन्नाय **धारया** **पवस्व** क्षर । **रुचा** रोचमानेनान्धसा **गाः** पशून् **अभि** **इहि** अभिगच्छ॥
@@ -187,10 +190,6 @@ Läutere dich im Strome zum Genuß, von den Nachsinnenden geputzt; o Saft, geh m
 Zur Labung riesle hell im Strom, gereinigt von den kundigen, Geh, Indu, glänzend zu der Milch.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -206,7 +205,7 @@ Zur Labung riesle hell im Strom, gereinigt von den kundigen, Geh, Indu, glänzen
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जो लोग शुद्ध अन्तःकरण से परमात्मा की उपासना करते हैं, परमात्मा उनकी शक्तियों को बढ़ाता है और उनकी इन्द्रियों को विमल करके ऐश्वर्यप्राप्ति के योग्य बनाता है॥१३॥
+भावार्थभाषाः -  जो लोग शुद्ध अन्तःकरण से परमात्मा की उपासना करते हैं, परमात्मा उनकी शक्तियों को बढ़ाता है और उनकी इन्द्रियों को विमल करके ऐश्वर्यप्राप्ति के योग्य बनाता है॥१३॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

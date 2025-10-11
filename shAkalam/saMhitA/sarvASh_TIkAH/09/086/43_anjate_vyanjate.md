@@ -3,7 +3,6 @@ title = "043"
 devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अत्रिः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्रतुम्- प्रज्ञामर्थं भावं ध्वनिं वा। अञ्जते- प्रकटीकुर्वन्ति। व्यञ्जते- विशेषेण प्रकटीकुर्वन्ति।  समञ्जते- सम्यक् प्रकटीकुर्वन्ति। अभ्यञ्जते- अभितः प्रकटीकुर्वन्ति। सिन्धोः- हृदयसमुद्रस्य।  उच्छ्वासे- उत्कृष्टप्रदेशे। पतयन्तम्- सरन्तम्। उक्षणम्- सेख्नारम्। पशुम्- सूक्ष्मदर्शिनम्। पशुः १६    पश्यतेरिति यास्कः। हिरण्यपावाः- ज्योतिषा शोधकाः। आसु- अप्सु मूलशख्निधारासु। गृभ्णते-  गृह्णन्ति॥४३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सोममृत्विजः **अञ्जते** गोभिः । तथा **व्यञ्जते** विविधमञ्जन्ति । **समञ्जते** सम्यगञ्जन्ति । स्तुत्यर्थत्वादपुनरुक्तिः । तथा **क्रतुं** बलकर्तारं **रिहन्ति** लिहन्ति । आस्वादयन्ति देवाः । तथा पुनः **मधुना** गव्येन **अभ्यञ्जते** । तमेव सोमं **सिन्धोः** उदकस्य रसस्याधारभूते **उच्छ्वासे** उच्छ्रिते देशे **पतयन्तं** गच्छन्तम् ॥ ‘पत्लृ गतौ ' इत्यस्मात्स्वार्थे णिचि वृद्ध्यभावश्छान्दसः ॥ **उक्षणं** सेक्तारं **हिरण्यपावाः** हिरण्येन पुनन्तः **पशुं** द्रष्टारम् । ‘पशुः पश्यतेः ' (निरु. ३.१६) इति निरुक्तम् । **आसु** वसतीवरीषु **गृभ्णते** गृह्णन्ति ॥
@@ -257,8 +260,6 @@ The “ox flying in the burbling up of the river” of pāda c is an ex. of the 
 
 I take the subj. of gṛbhṇate and referent of hiraṇya-pāvā́ḥ in d still to be the waters, with āsu functioning as reflexive. Renou explicitly changes his subj. here to “les hommes.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -283,10 +284,6 @@ Sie salben sich, sie salben sich bunt, sie salben sich gleich, sie lecken seine 
 
 Sie salben ihn, durchsalben und umsalben ihn, den starken streicheln, salben sie mit süssem Trank; Den Stier, der in den Strudel sich des Stromes stürzt, das Thier ergreifen goldumglänzte in der Flut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

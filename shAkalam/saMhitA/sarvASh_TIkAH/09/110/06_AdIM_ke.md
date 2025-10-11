@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ऊर्ध्वबृहती"
 - ऋषिः - त्र्यरुणत्रसदस्यू
 - छन्दः - ऊर्ध्वबृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आत्- अनन्तरम्। आप्यम्- प्राप्यम्। ईम्- एनं रसम्। के चित्- केचित्। वसुरुचः-  चित्तवृत्तिस्तम्भेन शोभमानाः। वसु स्तम्भे। दिव्याः- दिव्यभावनायुख्नाः। पश्यमानासः-  अनुभवन्तः। अभ्यनूषत- स्तुवन्ति। न देवः सविता- देवसवितेव। वारम्- शोधकं वरणीयं भाजनं  प्रतीकं वा। व्यूर्णुते- अपगतावरणं करोति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आत्** अनन्तरं **पश्यमानासः** एनं पश्यन्तः **दिव्याः** दिवि भवाः **वसुरुचः** नाम **के** **चित्** **आप्यं** बन्धुं साधुम् **ईम्** एनं सोमम् **अभ्यनूषत** अभ्यस्तुवन् । कस्मादनन्तरमिति उच्यते । **देवः** द्योतमानः **सविता** सर्वस्य प्रेरकः सूर्यः **वारम्** आवरकमन्धकारं **न** **व्यूर्णुते** नापगमयति तदैनमस्तुवन् । सूर्योदयात् प्रागेव हि सोमं स्तुवन्ति खलु ॥ ॥ २२ ॥
@@ -231,7 +234,6 @@ My interpr. of the final pāda differs from the standard, which takes deváḥ s
 
 In the frame, the first reading is the filter: Soma uncovers the fleece - that is, the juice passes beyond it; “desirable thing” is the reading in the simile, and in fact a 2nd reading in the frame. The tr. should be slightly emended to “He uncovers the fleece (/desirable thing) as the god Savitar uncovers a desirable thing.”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -263,8 +265,6 @@ Jetzt haben alle himmlischen, erstrahlenden ihm zugejauchzt erblickend den Befre
 (Существа,) сверкающие, как Васу, приветствовали его криками.  
 Он раскрывает (свою) драгоценность, как бог Савитар.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

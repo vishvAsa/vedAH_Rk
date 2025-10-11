@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतम्- एनम्। हरिम्- आकर्षकम्। इन्दुम्- क्लेदनशीलं रसम्। इन्द्राय पीतये- इन्द्रानुभूतये।  त्रितस्य-तीर्णतमस्य तिरस्कृताज्ञानस्य। योषणः- दशदिग्वर्तिमूलशख्निधाराः। अद्रिभिः- जडैः।  हिन्वन्ति- प्रेरयन्ति। जडशरीरादेवान्तर्हितरसप्रवाहः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एतम्** **इन्दुं** क्लिद्यमानं **हरिं** हरितवर्णं सोमं **त्रितस्य** ऋषेः **योषणः** अङ्गुलयः **अद्रिभिः** **हिन्वन्ति** **इन्द्राय** इन्द्रस्य **पीतये** पानाय ॥
@@ -166,10 +169,6 @@ Diesen Falben treiben des Trita Frauen mit den Preßsteinen zum Laufe, den Saft 
 
 Des Trita Jungfraun senden ihn, das goldne Ross, durch das Gestein, Zum Trunk, dem Indra Indu hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -105,6 +103,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वावृधानाय- वर्धमानाय। तूर्वये- शीघ्रिणे। वाजसातये- हव्यलब्धये। सहस्रपाजसः-  अनन्तशख्निसंपन्नाः। सोमाः- रसाः। पवन्ते- क्षरन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वावृधानाय** वर्धसानाय **तूर्वये** क्षिप्राय **वाजसातये** संग्रामायान्नलाभाय वा **पवन्ते**  पूयन्ते । के । **सोमाः** । कीदृशाः । **सहस्रपाजसः** अपरिमितबलाः । असंख्यातवेगा इत्यर्थः ॥
@@ -146,10 +149,6 @@ Für den erstarkten Sieger zum Beutegewinn läutern sich die Somasäfte in tause
 
 Die Somatränke rieseln hell zur Kraft dem grossen mächtigen, Mit tausendfachem Glanz begabt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

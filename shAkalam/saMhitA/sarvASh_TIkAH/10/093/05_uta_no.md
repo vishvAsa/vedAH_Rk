@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - प्रस्तारपङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। अपाम्- अप्स्वामिनौ। वृषण्वसू- हे वर्षणधनावश्विनौ प्राणेशनशख्निभूतौ। सधन्या-  समानधनौ। सूर्यामासा- सूर्याचन्द्रमसौ। बुध्नेषु- अन्तरिक्षेषु प्राणमयकोशे। यत्- यः।  अहिर्बुध्न्यः- अहीनमूलो रुद्रः। सादि- सीदति तिष्ठति। एषाम्- एतैरस्य गणैः सह। युवाम्।  नख्नम्- दिवारात्रम्। रक्षतम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **वृषण्वसू** वर्षणधनावश्विनौ युवाम् **अपाम्** उदकानां संबन्धिनौ **सधन्या** सधन्यौ समानधनौ **सूर्यमासा** सूर्याचन्द्रमसौ **बुध्नेषु** अन्तरिक्षेषु निवासस्थानेषु मेघेषु **यत्** यः **अहिर्बुध्न्यः** देवः **सादि** सीदति तिष्ठति **एषाम्** एभिः **सचा** सह युवां **नक्तं** रात्रावहनि चोरुष्यतमिति वक्ष्यमाणेन संबन्धः ॥ ॥ २६ ॥
@@ -226,10 +229,6 @@ Und bringet uns, ihr beiden Schatzreichen, den Apam Napat, Sonne und Mond als Te
 
 Und naht euch ihr beiden stierkräftigen Gefährten, Sonne und Mond dem Sitze unserer Gewässer [der Somatränke], wenn sich zugleich in ihrem Boden der Drache des Wolkenbodens niedergelassen hat.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

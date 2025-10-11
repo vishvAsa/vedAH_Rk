@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -240,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। इन्दो- क्लेदनशील। अस्रिधम्- अक्षीणम्। संयतम्- संयमम्। या। असश्चुषी-  अप्रतिबन्धानुभूतिः। नः- अस्मदर्थम्। त्रिरहन्- त्रिवारमहनि। त्रिषु सवनेष्विति सायणः। क्षुमत्-  मन्त्रोपेतम्। वाजवत्- हव्योपेतम्। मधुमत्- माधुर्योपेतम्। सुवीर्यं- शोभनशख्नियुख्नं धनम्।  दोहते । पिप्युषीम्- तां प्रवृद्धाम्। इषम्- काम्यामनुभूतिम्। पवमानः- पुनानः सन्। नः-  अस्मदर्थम्। आ- समन्तात्। पवस्व- क्षर॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** दीप्त **सोम** **पवमानः** त्वं **नः** अस्माकं **संयतं** संगृहीतं **पिप्युषीं** प्रवृद्धम् **इषम्** अन्नम् **अस्रिधम्** अक्षीणं **पवस्व** । प्रयच्छेत्यर्थः । **या** यादृशी **नः** अस्माकम् **अहन्** अहनि अह्नः **त्रिः** त्रिषु सवनेषु **असश्चुषी** अप्रतिबन्धा **दोहते** क्षरति । किम् । **क्षुमत्** शब्दोपेतं सर्वत्र श्रूयमाणं **वाजवत्’** **मधुमत्** माधुर्योपेतं **सुवीर्यं** शोभनसामर्थ्यं पुत्रं दोहते। तामिषं पवस्वेति समन्वयः ॥
@@ -263,7 +266,6 @@ and honey.
 <details><summary>Jamison Brereton Notes</summary>
 
 Note the functional contrast between ā́… pavasva and adjacent pávamānaḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -289,10 +291,6 @@ O Soma, läutere uns fort und fort überquellende, nie fehlende Speise zu, wenn 
 
 O riesle flammend, Soma, ohne Unterlass uns fette Labung, Indu, zu, die heilsam sei, Die dreimal uns des Tages unversieglich strömt, und Heldenkraft mit Stärkung, Speis' und süssem Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

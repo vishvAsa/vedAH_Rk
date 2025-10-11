@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हर्यतः- आकर्षणकामः। हरिः- स्वयमेवाकर्षकः। जमदग्निना- अग्न्युपासकेन। जमत्  हुतभक्षणशीलःप्रज्वलितोग्निः। तस्योपासको जमदग्निः। गृणानः- स्तुतः। गोरधि- चिद्रश्मिमये।  त्वचि- रूपे। हिन्वानः- प्रेरितः। पवते- क्षरति॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हर्यतः** देवान् कामयमानः **हरिः** हरितवर्णः किंच **गोः** **त्वचि** **अधि** आनडुहे चर्मणि **हिन्वानः** प्रेर्यमाणः स सोमः **जमदग्निना** मन्त्रद्रष्ट्रर्षिणा **गृणानः** स्तूयमानः सन् **पवते** दशापवित्रेण पूतो भवति । यद्वा । पात्राण्यभिगच्छति ॥ ॥ ५॥
@@ -149,8 +152,6 @@ and being impelled onto the hide of the cow.
 <details><summary>Jamison Brereton Notes</summary>
 
 haryató háriḥ “delightful tawny one” is a word play, with two semantically different stems. This same word play is the focus of a whole hymn, III.44, and obviously was a staple of RVic phraseology.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -176,10 +177,6 @@ Er läutert sich, der begehrte Falbe, von Jamadagni gepriesen, in Fluß gebracht
 
 Es flammt das holde goldne Ross, von Dschamadagni hochgerühmt, Hin auf das Rinderfell entsandt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

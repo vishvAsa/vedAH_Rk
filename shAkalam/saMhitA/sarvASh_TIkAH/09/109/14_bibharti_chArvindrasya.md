@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। विश्वानि- सर्वाणि। वृत्रा- आवरणानि। जघान- हिंसितवान्। येन। चारु- सुन्दरम्।  इन्द्रस्य- परमेश्वरस्य। नाम- मन्त्रम्। बिभर्ति- उपासको धारयति। स सोमः पवते॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 स सोमः **चारु** कल्याणम् **इन्द्रस्य** **नाम** शरीरं **बिभर्ति** धारयति पोषयति । **येन** शरीरेणेन्द्रः **विश्वानि** सर्वाणि वृत्राणि पापरूपाणि रक्षांसि जघान हतवान् ।
@@ -148,7 +151,6 @@ This vs. presents a double ambiguity. On the one hand cā́ru índrasya nā́ma 
 The second ambiguity is located in the 2nd hemistich and has two parts: what/who is the referent of yéna and who is the subj. of jaghā́na? The Geldner/Renou interpr.
 
 seems to take the referent of yéna to be “the name Indra” and the subj. of the verb to be Soma (though neither is explicit about it). I recognize that this would be a pleasing paradox, since Indra is the default agent in this formula. But I wonder if instead Indra is the subj. of his signature verb, and yéna refers to soma, with the name equivalent to the substance.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -179,8 +181,6 @@ Er trägt des Indra – geliebtes Wesen, durch das er alle – Verhassten todtsc
 Он носит милое имя Индры,  
 Благодаря которому он разбил все препятствия.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

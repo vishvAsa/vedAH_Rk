@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "ऊर्ध्वसद्मा"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - ऊर्ध्वसद्मा
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -190,6 +188,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। राजा- रञ्जकः। देवः- द्योतनशीलः। ऋतजातः- प्रकृतिनियतिजः। सहस्रधारम्-  अनन्तधारम्। वृषभम्- वर्षकम्। पयोवृधम्- ज्ञानवर्धकम्। देवाय जन्मने- देवजातये। प्रियम्-  प्रेमभाजनम्। बृहत्- महत्। ऋतम्- प्रकृतिनियतिभूतसत्यम्। ऋतेन- तेनैव सत्येन। विवावृधे-  वर्धयति तं निष्पादयतेति शेषः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रधारं** बहुधारोपेतं **वृषभं** कामानां वर्षकं **पयोवृधम्** उदकानां वर्धकं **प्रियं** प्रीणयितारं तं सोमं **देवाय** देवसंबन्धिने **जन्मने** देवेभ्यस्तदर्थमभिषुणुत । **ऋतजातः** उदकाज्जातः यः **राजा** सोमः **ऋतेन** वसतीवर्याख्येनोदकेन **विववृधे** विशेषेण वर्धते । कीदृशः । **देवः** द्योतमानः स्तोतव्यो वा **ऋतं** सत्यभूतः सन् **बृहत्** महान् तमासुनुतेति पूर्वेण समन्वयः ॥
@@ -212,7 +215,6 @@ who born of truth through truth has grown strong as king, god, and  lofty truth.
 <details><summary>Jamison Brereton Notes</summary>
 
 On Soma as truth see IX.97.23, 107.15.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -246,8 +248,6 @@ Den tausendström'gen Stier, der sich an Milch erfreut, der lieb dem Stamm der G
 (Того,) кто рожден законом, возрос благодаря закону -  
 Царь, бог, высший закон!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

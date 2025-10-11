@@ -3,7 +3,6 @@ title = "051"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्सः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूयमानः- पुनानः सन्। दिव्या पार्थिवा- दिव्या भौमाः। वसूनि- संपदः। नः- अस्मदर्थम्। अभि  अर्ष- अभिगमय। येन। द्रविणम्- संपदम्। अश्नवाम- अनुभवाम। तत्। अभि अर्ष।  जमदग्निवत्- अग्न्युपासकवत्। जमत् हुतभक्षणशीलः प्रज्वलितोग्निः। तस्योपासको जमदग्निः।  नः- अस्माकम्। आर्षेयम्- दर्शनम्। अभिगमय॥५१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम पवित्रेण पूयमानस्त्वं दिव्या दिव्यानि दिविभवानि वसूनि धनानि नोस्माक मभ्यर्ष अभिगमय । तथा पार्थिवा पार्थिवानि पृथिव्याम्भवानि विश्वा सर्वाणि धनान्यभिगमय । तथा सेन त्वदीयेन सामर्थ्येन द्रविणं धनं वयमभ्यश्नवाम अभिव्याप्नुयाम तत्सा-मर्थ्यमभिगमय । किञ्च आर्षेयं आर्षाणामृषिपुत्राणां योग्यं धनं जमदग्निवत् जमदग्नेर्यथा त्वं- प्रापयः एवं नोस्माकमपि अभ्यर्ष । यद्वा आर्षेयं आर्षाणां योग्यं मन्त्रं जमदग्नेःस्वभूतम्मन्त्रं यथा स्वादुतममकार्षीः एवमस्माकं तादृशम्मन्त्रं स्वादुतमङ्कुर्विति कुत्सोनामऋषिःप्रार्थयते । ॥ ५१ ॥
@@ -231,7 +234,6 @@ toward that by which we shall win property, (that is,) toward a seer’s  (porti
 Geldner again supplies “zu gewinnen” in both hemistichs. I once again see no reason to do so. He also takes the rel. cl. of c (yéna dráviṇam aśnávāma) as dependent on ā́rṣeyám: “um … uns den Namen eines R̥ṣi zu gewinnen, durch den wir zu Reichtum gelangen können.” This ignores the parallel abhí’s of cd and also assumes an embedded rel. cl. (though not all that embedded). Renou takes ārṣeyám as a 2nd obj. of aśnávāma: “afin que nous obtenions la richesse, afin l’état de Prophète …” This is somewhat less disruptive than Geldner’s, but assumes a purpose function for yéna that has no good precedent, as far as I know. My own interpr. - supplying a gapped acc. ‘that’ as antecedent for yéna -- seems minimally disruptive and assumes that the insistent structure with abhí arṣa ACC continues in this pāda. The same interpr. is found in Hettrich (Hypotaxe, 550-51): “(fliesse uns das) zu, wodurch wir Reichtum erlangen werden.” The interpr. of Geldner and Renou also minimize or ignore the only clever part of this tṛca, which provides a climax of sorts. With the pattern abhí (…) arṣa “rush towards …” inescapably established, the poet produces a phonological play on this phrase in the last pāda: abhy ārṣeyám, where the acc. goal, beginning ārṣ-, plays on the impv.
 
 arṣa (the play also noted by Geldner, n. 51d). ārṣeyá- is found only here in the RV, though it is extremely common in Vedic prose.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details open><summary><h2>49-51 ...{Loading}...</h2></summary>
@@ -265,8 +267,6 @@ O ströme uns herbei des Himmels Güter und alle irdischen, o hellentflammter, W
 (Струи то,) с помощью чего мы достигнем богатства,  
 (Струи) нам знание риши, как у Джамадагни!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

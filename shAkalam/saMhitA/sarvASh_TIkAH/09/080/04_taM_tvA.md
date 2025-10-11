@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसुर्भारद्वाजः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -235,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- तादृशम्। त्वा- भवन्तम्। देवेभ्यः- द्योतनशीलेभ्यः। मधुमत्तमम्- अतिशयेन मधुरम्।  सहस्रधारम्- अनन्तप्रवाहम्। नरः- उपासकाः। दश क्षिपः- दशदिग्वर्तिन्य आपो मूलशख्निधाराः।  दुहते- दुहन्ति। सोम- रस। नृभिः- उपासकैः। प्रच्युतः- निष्पादितः। ग्रावभिः-  ग्रावोपलक्षितस्थैर्येण। सुतः- निष्पन्नः। सहस्रजित्- अनन्तजित् सन्। विश्वान् देवान्- सर्वा  देवताः। आ पवस्व- क्षर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तं** तादृशं **त्वा** त्वां **देवेभ्यः** इन्द्राद्यर्थं **मधुमत्तमम्** अतिशयेन मधुमन्तं **सहस्रधारं** बहुधारायुक्तं **दुहते** दुहन्ति । के। **नरः** नेतार ऋत्विजः **दश** **क्षिपः** तेषां दशसंख्याका अङ्गुलयश्च । हे **सोम** **नृभिः** मनुष्यैः **प्रच्युतः** **ग्रावभिः** **सुतः** अभिषुतस्त्वं **सहस्रजित्** सहस्रसंख्याकधनस्य जेता सन् **विश्वान्** **देवान्** **आ** **पवस्व** ॥
@@ -257,8 +260,6 @@ O Soma, roused by men, pressed by stones, by purifying yourself bring  all the g
 <details><summary>Jamison Brereton Notes</summary>
 
 Pādas a and b share a verb, duhate in b. Each pāda contains a contrastive pair: devébhyaḥ … náraḥ “the men for the gods” and sahásra(dhāram) … dáśa (kṣípaḥ) “thousand(-streamed) … ten (fingers).”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/080/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -292,8 +293,6 @@ Dich tausendström'gen melken nun die Männer aus, zehn Finger dich, den süsses
 Приведенный в движение мужами, о сома, выжатый давильными камнями,  
 Очищаясь, приведи Всех-Богов, о завоеватель тысяч!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

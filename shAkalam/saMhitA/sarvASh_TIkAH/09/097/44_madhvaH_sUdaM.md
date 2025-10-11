@@ -3,7 +3,6 @@ title = "044"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मध्वः सूदम्- माधुर्यघनम्। पवस्व- क्षर। वस्व उत्सम्- वृत्तिस्तम्भनधाराम्। वीरम्- वीर्यम्।  च। भगं च- सौभाग्यं च। नः- अस्मदर्थम्। आ पवस्व- क्षर। पवमानः- पुनानः सन्। इन्दो-  क्लेदनशील रस। इन्द्राय- परमेश्वराय। स्वदस्व- रुचितो भव। इन्दो- हृदयस्पर्शिन्। समुद्रात्-  चित्समुद्रात्। नः- अस्मदर्थम्। रयिम्- दैवीं संपदम्। आ पवस्व- क्षर॥४४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम मध्वोमाधुर्यस्य सूदं क्षारयितारं घनीभूतं आपवस्व । वस्वो वसु धनस्य उत्सं उत्सन्दकं रसं पवस्व । किञ्च नोस्मभ्यं वीरं पुत्रं आपवस्व आप्रापय । तथा भगं भजनीयं धनञ्च देहि । हेइन्दो पवमानः पूयमानः सन् इन्द्राय स्वदस्व रुचितोभव । ततस्त्वं नोस्मभ्यं समुद्रादन्तरिक्षात् रयिं धनं पुत्रंवा राति ददाति क्षीरमिति रयिर्गैर्वा तांवा पवस्व देहि ॥ ४४ ॥
@@ -276,7 +279,6 @@ svádasva ... pavasva.
 As in IX.96.14 (see comm. ad loc.), I take the acc. with pavasva as expressing a transformation of soma into the substance expressed in the acc. This use of pavasva with the acc. contrasts with that of ā́pavasvā in pādas b and d, where ā́adds the sense ‘bring here by purification’ and the acc. expresses the materials thus obtained.
 
 On sū́da- see comm. ad VII.36.3. I argue there that, contra most views, it belongs with the ‘sweet’ words, and in fact that in this passage svádasva … pávamānaḥ in c is a virtual gloss (or poetic repair) of sū́dam pavasva in a.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
@@ -310,8 +312,6 @@ Des Methes Süss, des Gutes Quell ergiesse und riesle Helden uns herbei und Reic
 Будь вкусным для Индры, когда ты очищаешься, о сок сомы,  
 И дай нам, очищаясь, богатство из океана!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

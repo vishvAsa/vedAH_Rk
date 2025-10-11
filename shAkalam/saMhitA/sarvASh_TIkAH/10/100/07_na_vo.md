@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गुहा- अस्मन्मनसापि। वः- युष्माकम्। भूरि- प्रभूतम्। दुष्कृतम्- पापम्। न चकृम- न  कृतवन्तः। वसवः- हे शरण्या देवाः। देवहेळनम्- देवक्रोधकरं पापम्। नाविष्ट्यम्-  नास्माभिराविष्कृतम्। देवाः- हे द्योतनशीलाः। नः- अस्माकम्। अनृतस्य- असत्यस्य  प्रकृतिनियतिविरोधिनः। वर्पसः- रूपस्य प्राप्तिः। माकिः- मा भवतु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **वः** युष्माकं **गुहा** गुहायां प्रच्छन्ने देशे **भूरि** प्रभूतं **दुष्कृतं** पापम् । द्रोहमित्यर्थः । **न** **चकृम** । तथा **आविष्ट्यम्** आविः संभूतं **देवहेळनं** देवानां क्रोधनं तन्निमित्तं द्रोहं **न** चकृम हे **वसवः** वासका देवाः । किंच हे **देवाः** **नः** अस्माकम् **अनृतस्य** **वर्पसः** रूपस्य प्राप्तिः **माकिः** मा भूत्। इतः परं मानुषं रूपं मा भूदित्यर्थः । शिष्टमुक्तम् ॥
@@ -271,10 +274,6 @@ Wir haben weder heimlich viele Sünde wider euch begangen, noch offenkundig ein 
 
 Nicht im Verborgnen haben wir der Sünde viel, noch offnen Frevel an euch Göttern je verübt; Bei uns sei nie, o gute, trügerische List; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

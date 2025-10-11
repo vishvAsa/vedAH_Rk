@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषःस्यः- सोयऽम्। उरुगायः- बहुभिर्गीयमानो विष्णुमयः। कविक्रतुः- क्रान्तदर्शिनां  सङ्कल्पोग्निमयः। आयुभिः- उपासकैः। मर्मृज्यमानः- शोधितः। परि षिच्यते॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उरुगायः** बहुस्तुतिः **कविक्रतुः** क्रान्तप्रज्ञः क्रान्तकर्मा वा **स्थः** सः **एषः** अयं सोमः **आयुभिः** मनुष्यैः मर्मृज्यमानः शोध्यमानः **परि** **षिच्यते** ॥
@@ -180,10 +183,6 @@ Von den Ayu´s geputzt wird er umgegossen, der Weitschreitende mit dem Sehersinn
 
 Er ist es, der sich rings ergiesst, gereinigt von den eifrigen, Der weise, weithin schreitende.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

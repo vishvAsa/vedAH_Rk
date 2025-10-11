@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। आश्विनीः- प्राणसंबन्धिन्यः। धीजुवः- मनोवेगयुख्नाः। दिव्याः। ऋषयः-  सूक्ष्मदर्शिन्यः। स्थाविरीः- स्थविरा धाराः। पवमान- पुनान। ऋषिषाण- ऋषिसंभख्न रस।  अन्तः। प्र- प्रकर्षेण। पयसा- जीवोदकसारेण। धरीमणि- धर्मे। असृक्षत- सृज्यन्ते। ये। वेधसः-  मेधाविनः। त्वा- भवन्तम्। मृजन्ति- शोधयन्ति। ते सृज्यन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम **ते** तव **आश्विनीः** व्याप्ताः ॥ ‘ अशू व्याप्तौ ' इत्यस्मादौणादिको विनिः । ततोऽण् । व्यत्ययेनाद्युदात्तः ॥ **धीजुवः** मनोवेगाः **दिव्याः** दिवि भवा दिवः पतन्त्यो धाराः **पयसा** युक्ताः **धरीमणि** धारके द्रोणकलशे **प्र** **असृग्रन्** गच्छन्ति । **ये** **वेधसः** विधातारः **ऋषयः** हे सोम **ऋषिषाण** ऋषिभिः संभक्त **त्वा** त्वां **मृजन्ति** अभिषुण्वन्ति ते ऋषयः **स्थाविरीः** स्थविरा धाराः **अन्तः** मध्ये पात्रस्यान्तः **प्र** **असृक्षत** प्रसृजन्ति ॥
@@ -258,7 +261,6 @@ As noted above, asṛkṣata in c repeats ásṛkṣata in 2b, but they are func
 
 The formation of the hapax voc. ṛṣiṣāṇa is opaque. Grassmann’s gloss ‘dem Sänger freund’ reveals nothing about his analysis of the 2nd part; sim. Renou’s ‘propre aux Prophètes’ without further comment. With Geldner, the published translation assigns the 2nd member to √san ‘gain, win’, hence ‘winning seers’. If we maintain that analysis, the sense might be compared to ṛṣi-sáh- in IX.76.4, which means ‘vanquishing (the other) seers’, in poetic competition or the like. However, given the seṭ nature of √san and the persistent short vowel (-)san- in most of its nominal forms, this analysis is not entirely persuasive, esp. since the semantics are not absolutely compelling. AiG II.2.926 posits (without conviction) a suffix -sāna-, but also suggests a connection to the (pseudo-)part. -asāna- type (which is treated at AiG II.2.236-37), but it doesn’t fit the general profile of this group (on which see comm. ad IV.3.6). Perhaps -sānais better connected to √sā ‘bind’; cf. the noun viṣā́na- V.44.11, which has the merit of existing and whose long vowel is predictable. Hence ‘binding seers’ or ‘having the binding of seers’ - that is, holding them fast, commanding their loyalty or attention, as in pāda c. But in the absence of any further information, accentual, contextual, or formulaic, we can’t get much further.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -286,10 +288,6 @@ Deine von den Asvin stammenden, Gedanken weckenden himmlischen Ströme, o Pavama
 Ergossen sind mit Milch wie Rosse geistesschnell nach deiner Art die himmlischen, o Flammender; Dazwischen haben Seher fette Milch gemischt, die Priester, die, o Seherfreund, dich reinigen.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -305,7 +303,7 @@ Ergossen sind mit Milch wie Rosse geistesschnell nach deiner Art die himmlischen
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जो लोग दृढ़ता से ईश्वर की उपासना करते हैं, परमात्मा उनके ध्यान का विषय अवश्यमेव होता है। अर्थात् जब तक पुरुष सब ओर से अपनी चित्तवृत्तियों को हटाकर एकमात्र ईश्वरपरायण नहीं होता, तब तक वह सूक्ष्म से सूक्ष्म परमात्मा उसकी बुद्धि का विषय कदापि नहीं होता। इसी अभिप्राय से कहा है कि ‘दृश्यते त्वग्र्या बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः’ वह सूक्ष्मदर्शियों की सूक्ष्म बुद्धि द्वारा ही देखा जाता है, अन्यथा नहीं ॥४॥
+भावार्थभाषाः -  जो लोग दृढ़ता से ईश्वर की उपासना करते हैं, परमात्मा उनके ध्यान का विषय अवश्यमेव होता है। अर्थात् जब तक पुरुष सब ओर से अपनी चित्तवृत्तियों को हटाकर एकमात्र ईश्वरपरायण नहीं होता, तब तक वह सूक्ष्म से सूक्ष्म परमात्मा उसकी बुद्धि का विषय कदापि नहीं होता। इसी अभिप्राय से कहा है कि ‘दृश्यते त्वग्र्या बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः’ वह सूक्ष्मदर्शियों की सूक्ष्म बुद्धि द्वारा ही देखा जाता है, अन्यथा नहीं ॥४॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे। आशवः- क्षिप्रकारिणः। बभ्रवः- दीप्ताः। सोमाः- रसाः। ऋतस्य-  प्रकृतिनियतिभूतसत्यस्य। धारया। अति ह्वरांसि- कुटिलभावनान्यतिक्रम्य। असृग्रम्-  सृज्यन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **बभ्रवः** बभ्रुवर्णाः **आशवः** शीघ्राः **एते** इमे **सोमाः** **ऋतस्य** उदकस्य **धारया** **असृग्रं** सृज्यन्ते । **ह्वरांसि** रक्षांस्यभिगच्छन्ति च ॥
@@ -150,8 +153,6 @@ These swift brown ones have surged across the tangles (of sheep’s wool), the s
 Its opening eté asṛgram āśávaḥ is reminiscent of the beginning of the previous hymn IX.62.1ab eté asṛgram … āśávaḥ.
 
 On hváras- see comm. ad IX.3.2.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -178,10 +179,6 @@ Die braunen Renner wurden losgelassen über die Hindernisse, die Somasäfte in o
 Im Strom des Opfers haben sich ergossen diese flammenden, Die raschen Soma's durch das Netz,
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -192,7 +189,7 @@ Im Strom des Opfers haben sich ergossen diese flammenden, Die raschen Soma's dur
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (एते) ये (सोमाः) सौम्यस्वभाव (बभ्रवः) जो दृढ़तायुक्त हैं, वे (ऋतस्य) सच्चाई की (धारया) धारा से (अतिह्वरांसि) राक्षसों को अतिक्रमण करते हुए (आशवः) जो अत्यन्त तेजस्वी हैं, हे परमात्मन् ! आप (असृग्रम्) उनको उत्पन्न करें॥४॥
+पदार्थान्वयभाषाः -  (एते) ये (सोमाः) सौम्यस्वभाव (बभ्रवः) जो दृढ़तायुक्त हैं, वे (ऋतस्य) सच्चाई की (धारया) धारा से (अतिह्वरांसि) राक्षसों को अतिक्रमण करते हुए (आशवः) जो अत्यन्त तेजस्वी हैं, हे परमात्मन् ! आप (असृग्रम्) उनको उत्पन्न करें॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

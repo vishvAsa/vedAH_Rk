@@ -3,7 +3,6 @@ title = "048"
 devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समदः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -246,6 +244,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्रतुवित्- प्रज्ञावित् सन्। सोम- रस। नः- अस्मदर्थम्। पवस्व- क्षर। उक्थ्यः- मन्त्रसंपन्नः सन्।  अव्यो वारे- रसव्यञ्जके वरणीये प्रतीके । प्रियं मधु- प्रेममाधुरीम्। परि धाव- अभिक्षर। इन्दो-  क्लेदनशील रस। अत्रिणः- सुखाधिदुःखनिधनशीलानदनशीलान्। विश्वान्रक्षसः। जहि। सुवीराः-  सुसमर्थाः सन्। विदथे- उपासने। येन विदन्त्यात्मानमिति विदथ उपासनम्। बृहत्- महत्।  वदेम॥४८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **नः** अस्माकं **ऋतुवित्** कर्मज्ञः । स्तुतिज्ञ इत्यर्थः । **उक्थ्यः** स्तुत्यः । यतः स्तुत्योऽतः क्रतुविदित्यभिप्रायः । ईदृशस्त्वं नोऽस्माकं यागाय **पवस्व** स्रव रसम् । **अव्यो** **वारे** दशापवित्रे **प्रियं** **मधु** **परि** **धाव** परिक्षर । हे **इन्दो** दीप्त सोम **अत्रिणः** भक्षकान् **विश्वान** **रक्षसः** **जहि** । **सुवीराः** सुपुत्रा वयं **विदथे** यज्ञे **बृहत्** महद्धनं **वदेम** उच्चारयेम । याचेमेत्यर्थः । यद्वा प्रभूतं स्तोत्रं वदेम ॥ ॥ २१ ॥
@@ -268,7 +271,7 @@ May we offer ample praises: bṛhad vadema = liṭ, may we say much (or speak lo
 
 Purify yourself, Soma, finding the will, to be hymned by us. Run around  in the sheep’s fleece as dear honey.  
 Smite all rapacious demons, o drop. – May we speak loftily at the ritual  distribution, in possession of good heroes.  
-Trisṭubh Hymns: 87–97 ̣
+Trisṭubh Hymns: 87–97 ̣
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -276,7 +279,6 @@ Trisṭubh Hymns: 87–97 ̣
 The aggressively hostile command in pāda c comes as something of a surprise in this otherwise ritually and cosmically focused hymn.
 
 The last pāda is the Gṛtsamada refrain from Maṇḍala II. This tṛca is attributed by the Anukramaṇī to Gṛtsamada, but perhaps only on the basis of the refrain.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
@@ -303,10 +305,6 @@ Läutere dich, Soma, uns Rat findend, preislich, lauf in dem Schafhaar um als li
 O Soma, riesle Kraft uns zu, gepriesener! und ströme durch die Widderwolle, lieber Meth! Die Fresser und Gespenster alle, Indu, triff, wir mögen laut beim Feste singen heldenreich.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -317,7 +315,7 @@ O Soma, riesle Kraft uns zu, gepriesener! und ströme durch die Widderwolle, lie
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (क्रतुवित्) कर्मों के वेत्ता हैं। (नः) हमको आप (पवस्व) पवित्र करें। (उक्थ्यः) आप सर्वोपासनाओं के आधार हैं और (अव्यः) रक्षक हैं तथा (वारे) वरणीय पुरुष में (प्रियं मधु) प्यारे आनन्द को (परिधाव) दें। (इन्दो) हे प्रकाशस्वरूप ! (अत्रिणो विश्वान् रक्षसः) सम्पूर्ण हिंसक राक्षसों को आप (जहि) मारें (सुवीराः) सुन्दर सन्तानवाले हम (विदथे) बड़े बड़े यज्ञों में (बृहद्वदेम) आपकी अत्यन्त स्तुति करें ॥४८॥
+पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (क्रतुवित्) कर्मों के वेत्ता हैं। (नः) हमको आप (पवस्व) पवित्र करें। (उक्थ्यः) आप सर्वोपासनाओं के आधार हैं और (अव्यः) रक्षक हैं तथा (वारे) वरणीय पुरुष में (प्रियं मधु) प्यारे आनन्द को (परिधाव) दें। (इन्दो) हे प्रकाशस्वरूप ! (अत्रिणो विश्वान् रक्षसः) सम्पूर्ण हिंसक राक्षसों को आप (जहि) मारें (सुवीराः) सुन्दर सन्तानवाले हम (विदथे) बड़े बड़े यज्ञों में (बृहद्वदेम) आपकी अत्यन्त स्तुति करें ॥४८॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

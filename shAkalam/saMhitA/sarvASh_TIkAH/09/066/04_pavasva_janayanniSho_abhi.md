@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सखा- सुहृत् सन्। सखिभ्यः- मित्रेभ्यः। ऊतये- रक्षायै। इषः- सदिच्छाः। विश्वानि वार्या-  सर्वाणि वरणीयानि। अभि- अभितः। जनयन्- उत्पादयन्। पवस्व- क्षर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **सखा** सखिभूतस्त्वं **विश्वानि** सर्वाणि **वार्या** वरणीयान्यस्मत्कृतानि स्तोत्राणि **अभि** लक्षीकृत्य **सखिभ्यः** अस्मभ्यम् **ऊतये** रक्षणाय जीवनाय **इषः** अन्नानि **जनयन्** प्रयच्छन् **पवस्व** आगच्छ । पवतिर्गतिकर्मा ॥
@@ -149,8 +152,6 @@ Purify yourself, begetting refreshments, (surging) toward all valuables, as a co
 <details><summary>Jamison Brereton Notes</summary>
 
 As in 1b, I supply ‘surging’ with 4b, on the basis of their identical construction.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -176,10 +177,6 @@ Läutere dich, indem du Labsale schaffst, um alle begehrenswerten Dinge zu gewin
 
 O riesle, zeugend Labetrunk, uns alle Herrlichkeiten her, Ein Freund den Freunden, zum Genuss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

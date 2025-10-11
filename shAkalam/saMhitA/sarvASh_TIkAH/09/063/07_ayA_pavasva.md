@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मानुषीः- मनुष्यहिताः। अपः- मूलशख्निधाराः। हिन्वानः- प्रेरयन्। यया। धारया। सूर्यं-  आत्मसूर्यम्। अरोचयः- अदीपयः। अया- अनया। पवस्व- क्षर॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मानुषीः** मनुष्याणां हितानि **अपः** उदकानि **हिन्वानः** प्रेरयंस्त्वं **यया** धारया **सूर्यमरोचयः** प्राकाशयः तया **अया** अनया **धारया** **पवस्व** क्षर ॥
@@ -148,8 +151,6 @@ Purify yourself in the very stream with which you made the sun shine, impelling 
 <details><summary>Jamison Brereton Notes</summary>
 
 It is specifically stated here that the stream of soma “made the sun shine” (sū́ryam árocayaḥ), in other words that the ritual activity produced cosmic effects.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -175,10 +176,6 @@ Läutere dich in demselben Strome, mit dem du die Sonne leuchten und die menschl
 
 Mit diesem Strome riesle hell, mit dem die Sonne du entflammt, Entsendend menschenholde Flut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "उपमन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - उपमन्युर्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः। शोणा- रोचमानः। गाः- चिद्रश्मीन्। अभिकनिक्रदत्- उद्दिश्याशब्दयत्। पृथिवीम्-  भूमिम्। उत- अपि च। द्याम्- नभः। नदयन्- नादयन्। एति- आगच्छति। आजौ- युद्धे।  इन्द्रस्येव- बलाधिदैवतस्येव। वग्नुः- अस्य शब्दः। आ शृण्वे- आश्रूयते। इमाम्- एताम्। वाचम्।  प्रचेतयन्- प्रज्ञापयन्। आ एति- आगच्छति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 शोणः शोणवर्णोवृषा कश्चिद्वृषभः गाः पशून् अभिकनिक्रदत् अभिलक्ष्य शब्दङ्करोति । एवं गाः स्तुतीः विश्रयणार्थं पयसोदोग्ध्रीर्धेनूः वा अभिकनिक्रदत् अभिशब्दायमानः तदे- वाह नदयन् शब्दमुत्पादयन् सोमः पृथिवीं उतापिच द्यां एतौलोकौ एति गच्छति । किञ्च वग्नुः वाङ्नामैतत् तस्य वाक् सुशब्दः आजौ सङ्ग्रामे इन्द्रस्येव इन्द्रस्यशब्दइव आश्रृण्वे सर्वैः श्रूयते । ततः प्रचेतयन् आत्मानं सर्वेषां प्रज्ञापयन् इमां वाचमार्षति समं- ताद्गमयति उच्चैः शब्दायतेइत्यर्थः ॥ १३ ॥
@@ -256,8 +259,6 @@ As I argue in my -áya-book (60-61), all 3 passages are better taken as intrans.
 abhikánikradat ‘constantly roaring’. And so intrans. ‘bellowing’ fits this pattern.
 
 Note also IX.70.6 mātárā … nā́nadad eti “he goes bellowing to his two mothers [=Heaven and Earth,” with the same config. of participle to √nad + eti + H+E.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -293,8 +294,6 @@ Der rothe Stier den Küh'n entgegenbrüllend, geht mit Getön erfüllend Erd' un
 Голос (его) слышен, как (голос) Индры в сражении.  
 Он течет, заявляя (о себе) этой самой речью.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -255,6 +253,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य भुवनस्य। धाम- सदनम्। प्रथमम्- मुख्यतया। यः। व्यानशे- व्याप्नोति। सः।  अस्य- एतस्य भुवनस्य। विशे- प्रजायै। महि शर्म- महतीं रक्षाम्। यच्छति- ददाति। यतः-  यस्मात्। संयतः- नियतः सोमः। विश्वाः- सर्वान्। अभि- अभितः। सं याति- सङ्गच्छति। तत्।  अस्य- एतस्य सोमस्य। परमे व्योमन्- चिदाकाशे। पदम्- सदनं विराजते॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **अस्य** इन्द्रस्य **विशे** प्रवेशनाय **महि** महत् **शर्म** सुखं **यच्छति** । **यः** सोमः **अस्य** इन्द्रस्य **धाम** तेजोयुक्तं शरीरं **प्रथमम्** इतरदेवप्राप्तेः पूर्वं **व्यानशे** प्राप्तवान् । **यत्** यस्य **अस्य** सोमस्य **परमे** उत्कृष्टे **व्योमन्** विशेषेण रक्षके द्युलोके वेद्यां वा **पदं** भवति । **यतः** यस्मात् सोमात् तृप्त इन्द्रः सोमः स्वयं वा **विश्वाः** **संयतः** सर्वान् संग्रामान **अभि** **याति'** सम्यगभिगच्छति । स सोमो महि शर्म यच्छतीति संबन्धः ॥ ॥ १४ ॥
@@ -289,7 +292,6 @@ In d note the play in the phrase sáṃ yāti saṃyátaḥ, which belong to dif
 
 ‘feste Aufstellung’. But saṃyát- is generally an adj., usually in the pl. of liquids (V.34.9 ā́paḥ saṃyátaḥ, VIII.100.9); esp. pertinent are two passages in our own hymn: vs. 18 in the next tṛca saṃyátam pipyúṣīm íṣam “continuous, swelling refreshment” and, by implication, in vs. 47 dhā́rāḥ … saṃyátaḥ “continuous streams.” On the basis of these passages, I supply “streams” here as well. See, e.g., vs. 8.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -314,10 +316,6 @@ Dessen Clane verleiht er großen Schirm, der seine erste Form erreicht hat. Was 
 
 Dem Stamme dessen reichet grossen Schatz er dar, der hin zu seiner ersten Opferstätte drang; Von seinem Ort, der in dem höchsten Himmel ist, geht er zu allen Stätten der Versammlung ein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

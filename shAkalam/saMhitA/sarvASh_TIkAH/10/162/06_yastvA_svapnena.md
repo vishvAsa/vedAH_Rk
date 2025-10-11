@@ -3,7 +3,6 @@ title = "006"
 devataa = "गर्भसंस्रावे प्रायश्चित्तं"
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रक्षोहा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 svápnena ← svápna- (nominal stem)  
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यः। त्वा- त्वाम्। तमसा- अन्धकारेण। स्वप्नेन- स्वापेन। मोहयित्वा- मूर्छयित्वा। निपद्यते-  निपतति। यः। ते- तव। प्रजाम्- सन्ततिम्। जिघांसति- हन्तुमिच्छति। तम्। इतः- अस्मात्  स्थानात्। नाशयामसि- नाशयामः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे योषित् **यः** राक्षसादिः **स्वप्नेन** स्वप्नावस्थया **तमसा** निद्रया **त्वा** त्वां **मोहयित्वा** मूढतां प्रापय्य **निपद्यते** गर्भघाताय गच्छति । अन्यद्गतम् ॥ ॥ २० ॥
@@ -208,8 +211,6 @@ Der dich durch Schlaf oder Dunkelheit betäubend, sich zu dir legt, der dir dein
 Кто хочет убить твое потомство,  
 Того мы гоним отсюда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

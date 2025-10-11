@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राणि- इन्द्रपत्नि। सख्युः- मित्रम्। वृषाकपेः- वृषाकपिम्। ऋते- विना। अहम्। न ररण- न  रमे। यस्य। इदम्- एतत्। अप्यम्- अम्मयं जीवोदकमयम्। हविः- हव्यम्। प्रियम्। देवेषु-  देवतासु। गच्छति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राणि** **अहम्** इन्द्रः **सख्युः** मम सखिभूतात् **वृषाकपेर्ऋते** प्रियं वृषाकपिं विना **न** **ररण** न रमे । **अप्यम्** अप्सु भवमद्भिर्वा संस्कृतं **प्रियं** प्रीतिकरम् **इदम्** उपस्थितं **हविः** **देवेषु** देवानां मध्ये **यस्य** ममेन्द्रस्य सकाशं **गच्छति** । यश्चाहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** । यद्वा । अयमर्थः । हे इन्द्राणि वृषाकपेः सख्युरिन्द्रादृतेऽहं वृषाकपिर्न रारण न रमे। अन्यत्समानम् ॥
@@ -222,7 +225,6 @@ _________
 हे इन्द्राणि तव सख्युः वृषाकपेः इन्द्रादृते वा मम सख्युः वृषाकपेः आदित्याद्विष्णोर्वा ऋते कञ्चिदपि नाहं रारण न रणामि न कीर्तयामि ततोन्यं न नौमीत्यर्थः । ततोन्येन वा केन चिदपि न रमे । छान्दसो लिट् । तुजादित्वादभ्यासस्य दीर्घत्वम्, 'णलुत्तमो वा' इति वृद्ध्यभावः, रमतेरन्त्यविकारश्छान्दसः । आत्मानं विशिनष्टि - यस्य हविः मम सम्बन्धि हविः अप्यमद्भ्यो हितं, वृष्टिहेतुत्वात् । अप्सु वा भवं सोमपुरोडाशादिकं, तत्कारणत्वात् । छान्दसो यत् । प्रियमिष्टं भूत्वा देवेषु गच्छति सर्वान् देवान् प्राप्नोति । एवं सर्वदेवप्रीणनसमर्थोपि अहं वृषाकपेः ऋते न कञ्चिद्रारण न वा केन चिद्रणे, सखित्वात् । सोहमिदानीं अनेन हविषाराधयामि, अतोस्मत्सेनां संशितां कुर्विति ॥
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius. 
@@ -232,7 +234,6 @@ However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu g
 
 Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe." 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -261,7 +262,6 @@ Whose oblation rich in water
 Goeth dear to the gods.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Frau Indra! Ohne den Freund Vrisakapi war ich nicht froh, dessen wässerige Opferspende hier den Göttern erwünscht kommt." - Höher als alles steht Indra!
@@ -271,10 +271,6 @@ Frau Indra! Ohne den Freund Vrisakapi war ich nicht froh, dessen wässerige Opfe
 
 Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi, dessen lieber mit Wasser vermischter Opfertrank hier zu den Göttern geht. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसुर्भारद्वाजः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसः। कलशान्- प्रतीकान्। अच्छा- अभिलक्ष्य। असिष्यदत्- स्यन्दते। हि- खलु।  अत्यः- तुरगः। न- इव। वोळ्हा- वाहकः। रघुवर्तनिः- लघुमार्गः। वृषा- वर्षकः। अथ-  अनन्तरम्। अमुतः- अध्यात्मतः। इतश्च- आधिभौतिकतः। यत्- यदा। अश्नोति- व्याप्नोति तदा।  देवानाम्- द्योतनशख्नीनाम्। उभयस्य जन्मनः- अभ्युदयनिःश्रेयसात्मकोभयविधजन्मनः। विद्वान्-  ज्ञाता भवति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 असौ **सोमः** **कलशान्** **अच्छ** अभिमुखम् **असिष्यदत्** स्यन्दते । क इव । **अत्यो** **न** **वोळ्हा** रथस्य वाहकोऽश्व इव । स यथा स्वगन्तव्यमभिगच्छति तद्वत् । यद्वा । अयमुत्तरत्र दृष्टान्तः । **वोळ्हा** अश्व इव **रघुवर्तनिः** लघुगमनः **वृषा** वर्षकश्च । **अथ** अपि च **देवानां** सोमसजुषाम् **उभयस्य** उभयविधं **जन्मनः** जातं **विद्वान्** जानन् असिष्यदत् कलशान् । किं तदुभयं जन्मेति उच्यते । यद्देवजातम् **अमुतः** द्युलोकात् **इतश्च** अस्माद्भूलोकाच्च **अश्नोति** व्याप्नोति यज्ञम् । तस्योभयस्य जातं विद्वानिति संबन्धः ॥
@@ -263,8 +266,6 @@ and knowing of the double birth of gods (and men), he attains to what is  from y
 <details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg I see “of gods” (devā́nām) in the phrase “the double birth of gods” as pregnant for “of gods (and men),” very much as a pregnant dual like dyā́vā “two heavens” or pitárā “two fathers” implies its opposite number. As Oldenberg points out, the locational adverbs in the next pāda amúta itáś ca “from yonder and from here” strongly suggest heaven and earth as their spheres. Geldner considers “gods and men to be the sense, but, in order not to supply a 2nd gen. pl., he achieves this by way of the unlikely “(heavenly and earthly) gods,” that is, gods and men. Ober (I.391) thinks that the double birth is of Devas and Asuras, but this is anachronistic.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -298,8 +299,6 @@ Denn zu den Kufen ist der Soma hingeeilt, gleich wie ein starkes Wagenross mit s
 И вот (этот) знаток обоих родов: богов (и людей),  
 Достигает (того,) что (происходит) оттуда и отсюда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

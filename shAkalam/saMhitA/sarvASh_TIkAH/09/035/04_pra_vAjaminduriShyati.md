@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दुः- क्लेदनशीलो रसः। वाजसाः- अन्नसंभख्ना सन्। ऋषिः- सूक्ष्मदर्शी सन्। वाजम्- अन्नम्।  सिषासन्- संभख्नुमिच्छन्। व्रता आयुधा- धर्माख्यायुधानि। विदानः- जानन्। प्र इष्यति-  प्रेरयति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सोमः **वाजम्** अन्नम् **इष्यति** प्रेरयति यजमानेभ्यः । किं कुर्वन् । **सिषासन्** यजमानान् संभक्तुमिच्छन् । ईदृशः **इन्दुः** **वाजसाः** अन्नस्य दाता **ऋषिः** सर्वस्य द्रष्टा **व्रता** कर्माणि आयुधानि च **विदानः** जानन् ।
@@ -190,10 +193,6 @@ Der Saft entsendet seine Stimme, da er den Siegerpreis gewinnen will, der preisg
 
 Der Sänger Indu sendet Kraft, der gerne schenkt und Kraft verleiht, Der Thaten uns und Waffen schafft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवो न सानु स्तनयन्- नभस उत्कृष्टं स्थानं यथा शब्दयते तथा। अचिक्रदत्- अशब्दयत्। यस्य।  धर्मभिः- धर्मैः। द्यौश्च पृथिवी च। ध्रियेते। इन्द्रस्य- स परमेश्वरस्य। सख्यम्- मैत्रीम्। विवेविदत्-  जानन्। सोमः- रस। पवते- क्षरति। पुनानः- पवमानः। कलशेषु- भाजनेषु प्रतीकेषु। सीदति-  उपविशति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिवो** **न** **सानु** **स्तनयन्** द्युलोकस्य समुच्छ्रितं स्थानं शब्दयन्निव **अचिक्रदत्** क्रन्दते **यस्य** सोमस्य **धर्मभिः** धारणैः **द्यौश्च** **पृथिवी** **च** धृते स्याताम् । वृष्टिप्रदानद्वारौषध्याद्युत्पादनेन देवानां हविर्भावेन चोभयधारकत्वं प्रसिद्धम् । तादृशः **सोमः** महानुभावः सोमः **पुनानः** पूयमानः **इन्द्रस्य** **सख्यं** **विवेविदत्** **पवते** पूयते पवित्रे । सः पुनानः सोमः **कलशेषु** **सीदति** निवसति
@@ -241,7 +244,6 @@ He purifies himself, always finding the fellowship of Indra. Soma, while  being 
 <details><summary>Jamison Brereton Notes</summary>
 
 The rel. cl. of b lacks a verb. I think that whatever is supplied must be able to be construed with dhármabhiḥ “according to (his) ordinances.” My ‘abide’ is a slight elaboration on Geldner’s ‘sind’: “durch dessen Bestimmungen Himmel und Erde sind,” which I think is fundamentally correct. This is another hyperbolic statement of Soma’s cosmic power. Renou’s “lui à qui (appartiennent) le ciel et la terre avec les choses-à-maintenir” separates yásya from dhármabhiḥ and finds little work for the instr. pl. to do. The two instances of dhármabhiḥ (here and 5c) should be more or less in harmony.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -268,10 +270,6 @@ Donnernd wie des Himmels Rücken hat er sein Gebrüll erhoben, durch dessen Best
 Jetzt brüllte donnernd wie des Himmels Gipfel er, in dessen Ordnung Himmel sich und Erde fügt; Des Indra Freundschaft sich gewinnend rieselt er, gereinigt setzet Soma in die Kufen sich.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -287,7 +285,7 @@ Jetzt brüllte donnernd wie des Himmels Gipfel er, in dessen Ordnung Himmel sich
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में परमात्मा ने इस बात का निरूपण किया है कि द्युलोक औरपृथिवीलोक किसी चेतन वस्तु के सहारे से स्थिर हैं और उस चेतन ने भी जगत्कर्तृत्वादि धर्मों से इनको धारण किया है। वेद में इतना स्पष्ट ईश्वरवाद होने पर भी सायणादि भाष्यकार इन मन्त्रों को जड़ सोमलता में लगाते हैं और ऐसे मिथ्या अर्थ करना ब्राह्मण और उपनिषदों से सर्वथा विरुद्ध है। देखो “सा च प्रशासनात्” २।३।११। इस सूत्र में महर्षि व्यास ने “शतपथब्राह्मण” के आधार पर यह लिखा है, कि “एतस्य वा अक्षरस्य प्रशासने गार्गि ! द्यावापृथिव्यौ विधृते तिष्ठतः” बृ. ३।८।९। इस अक्षर की आज्ञा में हे गार्गि ! द्युलोक और पृथिवीलोक स्थिर हैं। इससे स्पष्ट सिद्ध है कि यहाँ ईश्वर का वर्णन है, जड़ सोम का नहीं ॥९॥
+भावार्थभाषाः -  इस मन्त्र में परमात्मा ने इस बात का निरूपण किया है कि द्युलोक औरपृथिवीलोक किसी चेतन वस्तु के सहारे से स्थिर हैं और उस चेतन ने भी जगत्कर्तृत्वादि धर्मों से इनको धारण किया है। वेद में इतना स्पष्ट ईश्वरवाद होने पर भी सायणादि भाष्यकार इन मन्त्रों को जड़ सोमलता में लगाते हैं और ऐसे मिथ्या अर्थ करना ब्राह्मण और उपनिषदों से सर्वथा विरुद्ध है। देखो “सा च प्रशासनात्” २।३।११। इस सूत्र में महर्षि व्यास ने “शतपथब्राह्मण” के आधार पर यह लिखा है, कि “एतस्य वा अक्षरस्य प्रशासने गार्गि ! द्यावापृथिव्यौ विधृते तिष्ठतः” बृ. ३।८।९। इस अक्षर की आज्ञा में हे गार्गि ! द्युलोक और पृथिवीलोक स्थिर हैं। इससे स्पष्ट सिद्ध है कि यहाँ ईश्वर का वर्णन है, जड़ सोम का नहीं ॥९॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

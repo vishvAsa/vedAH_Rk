@@ -3,7 +3,6 @@ title = "031"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। मधुमतीः- माधुर्यः। धाराः। असृग्रन्- सृज्यन्ते। पूतः- शुद्धः सन् त्वम्। अव्यान्- रसव्यञ्जकान्। वारान्- वरणीयान् प्रतीकान्। अत्येषि- अतिक्रम्य सरसि। पवमान- पुनान।  गोनाम्- चिद्रश्मीनाम्। धाम- सदनम्। पवसे- क्षरसि। जज्ञानः- जात एव। अर्कैः- उपासनैः।  सूर्यं- आत्मसूर्यम्। अपिन्वः- पूरयसि॥३१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ते तव स्वभूता मधुमतीः मधुगत्योधाराः प्रासृग्रन् तदाप्रसृज्यन्ते यद्यदा पूतोवसती- वरीभिः त्वं अव्यानविभवान् वारान् वालान् पवित्राण्यत्येषि अतीत्य गच्छसि । किञ्च हेपवमान गोनां गवान्धान धारकं पयोलक्षीकृत्य पवसे ततः जज्ञानः जायमानस्त्वं अर्कैर र्चनीयैः स्वतेजोभिः सूर्यमादित्यमपिन्वः पूरयसि ॥ ३१ ॥
@@ -251,6 +254,10 @@ The skeleton of pāda a, (prá te) dhā́rā (mádhumatīr) asṛgran, is identi
 The published translation renders pávase as if it were an imperative; correct to “you purify yourself.” I take “domain of cows” (dhā́ma gónām) in c to indicate that Soma is the substance into which the milk is mixed. Since the milk is sometimes identified as the sun, his swelling of the sun in d may refer to Soma’s providing more body and amplitude to the milk.
 
 As often, arká- can be read as a pun.
+
+**31ff**  
+As noted in the published introduction, the tṛca divisions seem to continue in this 2nd half of the composite hymn, although the Anukr. attributes the remaining vss. to just two poets, Parāśara Śāktya (31-44) and Kutsa Āṅgirasa (45-58), an apporioning that does not conform to the presumed tṛca division (splitting the tṛca 43-45 between the two). Both poets are known from elsewhere: Parāśara Śāktya is the poet of I.65- 73 and Kutsa Āṅgirasa of I.94-98 and I.101-15.
+
 </details>
 
 <details><summary>Griffith</summary>
@@ -276,8 +283,6 @@ Ergossen sind jetzt deine, süssen Ströme, da du gereinigt durch die Wolle schr
 О Павамана, ты очищаешься как местопребывание коров.  
 (Едва) родившись, ты пропитал солнце лучами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

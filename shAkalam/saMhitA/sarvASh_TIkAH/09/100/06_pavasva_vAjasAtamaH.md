@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रेभसूनू काश्यपौ
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। इन्द्राय- ईशनाधिदैवताय। विष्णवे- व्यापनशीलाय परमात्मने। देवेभ्यः- अन्येभ्यो  द्योतनशीलेभ्यः। मधुमत्तमः- अत्यन्तमधुरः सन्। वाजसातमः- हव्यसंभख्ना सन्। सुतः-  निष्पन्नः। पवित्रे- शोधके प्रतीके। धारया। पवस्व- क्षर॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **वाजसातमः** अतिशयेनान्नस्य दाता **सुतः** अभिषुतस्त्वं **पवित्रे** **धारया** सह **पवस्व** क्षर। ततो हे सोम त्वम् **इन्द्राय** **विष्णवे** चान्येभ्यो मित्रादिभ्यः **देवेभ्यः** च **मधुमत्तमः** अतिशयेन माधुयोंपेतो भव ॥
@@ -165,8 +168,6 @@ Purify yourself as best winner of prizes in the filter, pressed in a stream, mos
 <details><summary>Jamison Brereton Notes</summary>
 
 The first vs. of the new hymn matches the final vs. (5) of the previous one: 6ab pávasva … dhā́rayā sutáḥ enlarges on 5b pávasva soma dhā́rayā, with 5c containing sutáḥ. The 2nd hemistichs of both vss. consist primarily of datives of the gods who will drink the soma, both beginning with Indra: 5cd índrāya …, mitrā́ya váruṇāya ca; 6cd índrāya … víṣṇave, devébhyaḥ … There is also a strong echo of vs. 4: 6a vājasā́tamaḥ ‘best winner of prizes’ incorporates in a single word the simile in 4d vājī́va sānasíḥ “like a winner possessing prizes.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
@@ -200,8 +201,6 @@ O riesle, Labungspendendster, gepresst im Strom zur Seihe hin, Den Göttern du d
 Для Индры, о сома, для Вишну,  
 Для богов самый сладкий!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

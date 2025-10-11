@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। अद्रिभिः- स्थैर्यप्रतीकैः। सुतः- निष्पन्नः। नृभिः- उपासकैः। येमानः- प्रेरितः।  इन्द्रस्य- परमेश्वरस्य। कुक्षा- हृदयम्। प्र- प्रकर्षेण। याहि- गच्छ॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **नृभिः** ऋत्विग्भिः **येमानः** नियम्यमानः **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतः त्वम् **इन्द्रस्य** **कुक्षा** ॥ सप्तम्या डादेशः ॥ कुक्षावुदरभूते कलशे वा **प्र** **याहि** प्रकर्षेण गच्छ ॥
@@ -147,7 +150,6 @@ O Soma, journey forth to the cheeks of Indra, being guided by men,  pressed by s
 <details><summary>Jamison Brereton Notes</summary>
 
 On kukṣí- ‘cheek’ see comm. ad III.36.8, VIII.92.24.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -178,8 +180,6 @@ Vor schreite, Indu, – in Indra's Bauch nun, gelenkt von Männern, – gepresst
 Продвигайся вперед, о сома, к Индре в живот,  
 Направляемый мужами, выжатый камнями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वयोधाः- जीवनधारकः। अमित्रहा- शत्रुघ्नः। वरिवोवित्- संपल्लम्भकः। हविष्मान्- हव्ययुख्नः सन्  त्वम्। मनवे- ज्ञानिने मम पूर्वाचार्याय। यथा पवथाः- यथा क्षरसि। एव- तथा। द्रविणम्-  संपदम्। दधानः- धरन्। पवस्व- क्षर। इन्द्रे- ईशनाधिदैवते। सं तिष्ठ- संस्थितो भव। आयुधानि-  इन्द्रस्य वृत्रहननसाधनानि। जनय- सृज॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **यथा** पुरा त्वं **मनवे** राज्ञे **वयोधाः** अन्नस्य धाता तथा **अमित्रहा** शत्रूणां हन्ता **वरिवोवित्** धनस्य लम्भयिता **हविष्मान्** पुरोडाशादियुक्तः सन् **अपवथाः** तस्मै धनादिकं प्रदातुं यथागच्छः एवमस्मभ्यमपि **द्रविणं** धनं **दधानः** प्रयच्छन् **पवस्व** अस्मदभिमुखमागच्छ । किंच अस्माभिर्दीयमानस्त्वम् **इन्द्रे** **सं** **तिष्ठ** सम्यक् तिष्ठ । अपि च **आयुधानि** त्वदीयानि **जनय** तस्मै प्रकाशय । वाक्यभेदादनिघातः ॥
@@ -241,7 +244,6 @@ just so purify yourself now, conferring wealth. Stand side-by-side by  Indra. Ge
 As pointed out in the published introduction, this vs. is strongly marked as a hymnfinal vs., with complementary yáthā ‘even as’ (ab) and evā́‘in just this way’ (cd) clauses, bringing this 4-versed hymn to a close. The matches between clauses are more expicit than in some such structures: the two finite verbs, impf. ápavathāḥ and impv. pavasva, match exactly save for tense/mood, and the root noun cmpd. vayodhā́ḥ of pāda a is recast as a syntagm dráviṇaṃ dádhānaḥ in c with the same root √dhā.
 
 The final pāda consists of two brief clauses, both somewhat aberrant. The first contains an idiom I have not found elsewhere, sám √sthā + LOC. My tr., “stand sideby-side by Indra,” is meant to capture this slightly off expression. The second clause, “beget/generate weapons,” is syntactically fine but semantically odd.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
@@ -275,8 +277,6 @@ Wie du dem Manu strömtest, Kraft verleihend, die Feinde schlagend, Segen spende
 Так очищайся, наделяя богатством!  
 Держи связь с Индрой! Порождай оружие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

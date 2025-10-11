@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। नः- अस्माकम्। ऊर्जे- शत्तयै। अव्ययं पवित्रम्- सरणशीलरसस्य स्वस्थान एव  रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसस्य प्रवेशस्थानम्। रसतत्त्वस्य सुलभतया  अवगमसाधनभूतम्। शोधकपात्रं प्रतीकं वा। वि- विशेषेण। धाव। देवासः- देवताः। कम्-  आनन्दं त्वाम्। शृणवन्- शृण्वन्तु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम सुतः अभिषुतस्त्वं **नः** अस्माकम् **ऊर्जे** अन्नाय **अव्ययम्** अविमयं **पवित्रं** **धारया** संपातेन **वि** **धाव** प्राप्नुहि। **देवासः** देवा अपि **हि** **कं** **शृणवन्** गमनवेलायामुत्पन्नं तव शब्द शृण्वन्तु ॥
@@ -190,10 +193,6 @@ Lauf du uns zur Kraft durch die Wollseihe in Strömen, denn die Götter werden w
 
 Zu unsrer Stärkung fliesse nun im Strome durch das wollne Sieb, Die Götter mögen hören uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

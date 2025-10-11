@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -113,6 +111,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तिरः पवित्रम्- प्रतीकमतिक्रम्यापि। वाजी- वेगवान्। सहस्रधारः- अनन्तधारः। सोमः- रसः।  इन्द्राय- ईशनाधिदैवताय। असर्जी- सृज्यते॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजी** बलवान् वेगवान् वा **पवित्रं** तिरस्कुर्वन् **सहस्रधारः** बहुधारः **सोमः** **इन्द्राय** इन्द्रार्थम् **असर्जि** सृज्यते ॥
@@ -134,8 +137,6 @@ The prizewinner has been let loose across the filter, Soma of a thousand  stream
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. repeats vājī́from 17, tiráḥ pavítram from 16, and sahásradhāraḥ from 17.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -166,8 +167,6 @@ Ergossen ist nun – durchs Sieb der schnelle, dem Indra Soma – in tausend Str
 Выпущен конь-победитель через цедилку,  
 Сома в тысячу потоков для Индры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

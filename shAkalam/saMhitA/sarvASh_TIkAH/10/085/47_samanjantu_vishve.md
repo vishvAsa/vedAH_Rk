@@ -3,7 +3,6 @@ title = "047"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 añjantu ← √añj- (root)  
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वे देवाः- सर्वा देवताः। नौ- आवयोः। हृदयानि। समञ्जन्तु- सम्यगञ्जन्तु। आपः-  मूलशख्निधारा आपः। मातरिश्वा- वायुः प्राणः। धाता- हिरण्यगर्भः। देष्ट्री- मङ्गळदायिका सरस्वती  चोदनाधिदेवता। नौ- आवयोः। हृदयानि। सम्यगञ्जन्तु॥४७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वे** **देवाः** सर्वे देवाः **नौ** **हृदयानि** मानसानि **समञ्जन्तु** सम्यगञ्जन्तु । अपगतदुःखादिक्लेशानि कृत्वा लौकिकवैदिकविषयेषु प्रकाशयुक्तानि कुर्वन्त्वित्यर्थः। **आपः** च **सम्** अञ्जन्तु । तथा **मातरिश्वा** नौ हृदयानि **सं** **दधातु** । आवयोर्बुद्धीः परस्परानुकूलाः करोत्वित्यर्थः । **धाता** च **सं** दधातु । **देष्ट्री** दात्री फलानाम् । सरस्वतीत्यर्थः । सा च **सं** दधातु संधानं करोतु ॥ ॥२८॥
@@ -254,8 +257,6 @@ Alle Götter und die Gewässer sollen unser beider Herzen verschmelzen. Matarisv
 Матаришван, Создатель  
 И Указующая пусть соединит нас двоих!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

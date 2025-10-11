@@ -3,7 +3,6 @@ title = "004"
 devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ऋषभो वैराजः शाक्वरो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    विश्वकर्मेण- सर्वभूतहितकर्मणा। धाम्ना- धारकेण तेजसा। अभिभूः- शत्रूणामभिभविता। अहम्।  आगमम्- आगतवानस्मि। वः- युष्माकम्। चित्तम्- मनः। आ ददे- गृह्णामि। वः- युष्माकम्।  व्रतम्। आ ददे। अहम्। वः। समितिम्- युद्धम्। आ ददे॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सपत्नाः **अभिभूः** अभिभविता **अहं** **विश्वकर्मेण** सर्वकर्मक्षमेण **धाम्ना** धारकेण तेजसा बलेन वा सार्धम् **आगमम्** आगतवानस्मि । अतः **वः** युष्माकं **चित्तं** मनः **आ** **ददे** गृह्णामि । मनोगतं धैर्यं हरामीत्यर्थः। **वः** युष्माकं **व्रतं** कर्म चाहम् **आ** ददे। **वः** युष्मदीयः यः समितिः संग्रामः तं च **अहम्** **आ** ददे अपहरामि ॥
@@ -241,8 +244,6 @@ Als Ueberwinder kam ich her mit allbezwingender Gewalt; Ich nehm' eur Denken, eu
 Ваше понимание, ваше служение,  
 Ваш совет – я забираю (их) себе!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ऋषभो वैराजः शाक्वरो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ápi ← ápi (invariable)  
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ज्यया- मौर्व्या। उभे आर्त्नी इव- यथा द्वे धनुषः कोटी दृढं बध्येते तथा। अत्र- अस्मिन् स्थाने।  एव। वः- युष्मान्। अपि। नह्यामि- बध्नामि। वाचस्पते- मन्त्राधिपते। इमान्- एतान्। यथा।  मत्- मत्तः। अधरम्- अधः। वदान्- वाग्युद्धे वदन्ति तथा। नि सेध- प्रतिषेध॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सपत्ना यत्र देशे यूयं निवसथ **अत्रैव** अस्मिन्नेव देशे **वः** युष्मान् **अपि** **नह्यामि** अपिनद्धान् पाशैर्बद्धान् करोमि **ज्यया** मौर्व्या उभे आर्त्नीइव । यथा द्वे धनुषः कोटी दृढं बध्येते तथेत्यर्थः । हे **वाचस्पते** वाचः शब्दस्य पालयितर्देव **इमान्** सपत्नान् **नि** **षेध** प्रतिषेध। **यथा** येन प्रकारेण **मत्** मत्तः **अधरं** निकृष्टतरं **वदान्** वदन्ति तथा निरुद्धवाचः कुर्वित्यर्थः ॥
@@ -250,8 +253,6 @@ Hier bind' ich euch, wie mit der Schnur die beiden Bogenenden fest; Wirf diese n
 Чтобы они были ниже меня в споре!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सपत्नघ्नम्
@@ -267,7 +268,7 @@ Hier bind' ich euch, wie mit der Schnur die beiden Bogenenden fest; Wirf diese n
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  शत्रु जब पकड़ लिये जावें, तो उन्हें बन्दीघर में हाथ पैरों से बाँधकर रखा जावे और फिर उन्हें अपने अनुकूल बनाया जावे ॥३॥
+भावार्थभाषाः -  शत्रु जब पकड़ लिये जावें, तो उन्हें बन्दीघर में हाथ पैरों से बाँधकर रखा जावे और फिर उन्हें अपने अनुकूल बनाया जावे ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

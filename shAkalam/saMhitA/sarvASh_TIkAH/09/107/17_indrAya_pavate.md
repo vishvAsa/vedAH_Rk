@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदः- हर्षकरः। सुतः- निष्पन्नः। सोमः- रसः। मरुत्वते- प्राणेशाय। इन्द्राय- परमेश्वराय।  पवते- क्षरति। सहस्रधारः- अनन्तधारः। अत्यव्यम्- प्रतीकमतिक्रम्यापि। अर्षति- सरति। तमी-  अमुमेनम्। आयवः- उपासकाः। मृजन्ति- शोधयन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मदः** मादकः **सुतः** अभिषुतः **सोमः** **मरुत्वते** मरुद्भिस्तद्वते **इन्द्राय** इन्द्रार्थं **पवते** क्षरति । ततः **सहस्रधारः** बहुधारोपेतः सोमः **अव्यम्** अविमयं पवित्रम् **अति** **अर्षति** अतिगच्छति । **तम्** इमं सोमम् **आयवः** मनुष्या ऋत्विजः **मृजन्ति** शोधयन्ति ॥
@@ -204,8 +207,6 @@ Possessed of a thousand streams he rushes beyond the sheep’s fleece.  The Āyu
 <details><summary>Jamison Brereton Notes</summary>
 
 The enclitic ī in d could stand for *īm in this sandhi position before mṛjanti with degemination.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
@@ -239,8 +240,6 @@ Dem Indra mit den Maruts strömt gepresst der helle Somatrank; In tausend Ström
 В тысячу потоков он течет (через сито) из овечьей шерсти.  
 Это его начищают (люди) Аю.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

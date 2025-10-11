@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। धर्ता- धारकः। असि- भवसि। शुक्रः- शुद्धः। पीयूषः- अनुभवः। सत्ये विधर्मन्-  यथार्थे विशेषधर्मे। वाजी- तुरग इव। पवस्व- क्षर॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **शुक्रः** दीप्तः **पीयूषः** पातव्यस्त्वं **दिवः** द्युलोकस्य **धर्ता** धारकः **असि** । **वाजी** बलवान् स त्वं **सत्ये** सत्यभूते **विधर्मन्** विधेर्मणि । विविधकर्माण ऋत्विजो यस्मिन् । यद्वा । विविधसोमादिहविषा धारके । अस्मिन् यज्ञे **पवस्व** क्षर ॥
@@ -145,7 +148,6 @@ You are the supporter of heaven, the gleaming beestings. In your real  expansion
 <details><summary>Jamison Brereton Notes</summary>
 
 On Soma’s expansion (vídharmaṇ(i) see comm. ad IX.4.9, 64.9.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -176,8 +178,6 @@ Des Himmels Träger – und helle Biestmilch, im wahren Lichtraum – du schnell
 Ты поддерживатель неба, светлые сливки.  
 Очищайся в (своем) истинном распространении как захватчик награды!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

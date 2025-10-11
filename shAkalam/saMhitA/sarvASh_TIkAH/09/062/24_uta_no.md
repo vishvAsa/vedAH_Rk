@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। जमदग्निना-अग्न्युपासकेन। जमत् हुतभक्षणशीलः प्रज्वलितोग्निः। तस्योपासको  जमदग्निः। गृणानः- स्तुतः सन्। नः- अस्मदर्थम्। गोमतीः- ज्ञानयुख्नाः। परिष्टुभः- परितः  स्तुताः। इषः- अस्मत्कामनाः। अर्ष- गच्छ॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे सोम **जमदग्निना** जमदग्निनाम्ना ऋषिणा मया **गृणानः** स्तूयमानस्त्वं **नः** अस्माकं **गोमतीः** गोभिर्युक्तानि **परिष्टुभः** परितः स्तोतव्यानि **विश्वाः** सर्वाणि **इषः** अन्नानि **अर्ष** गच्छ। अस्मभ्यमेवंविधान्यन्नानि देहीत्यर्थः ॥
@@ -154,7 +157,6 @@ while being hymned by Jamadagni.
 
 For some disc. of this passage see Scarlatta 641 with n. 906. He gives pariṣṭúbh- an active value (“ringsum jubelnd, rauschend”) in this passage: “… zu allen, die ringsum Töne von sich geben,” in contrast to my passive “encircled with rhythm,” which follows Renou’s “environnées de rhythmes.” Since the cmpd modifies íṣaḥ ‘refreshments’, it is hard to see how they could actively produce noise, though Scarlatta (n. 906) suggests it might refer to the cows likewise characterizing the refreshments (gómatīr íṣaḥ), in the form of bellowing milk streams. This seems a bit farfetched, though it does allow the form to be semantically united with its other occurrence, in I.166.11, where it modifies the Maruts, who are actively making noise. For the idiom see I.80.9 pári ṣṭobhata “encircle (him) with rhythm!” where it is parallel to arcata “chant!” See also nearby IX.64.28 pariṣṭóbhant-. Geldner takes pariṣṭubhaḥ as a noun ‘lauter Loblieder’, also with active sense.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -179,10 +181,6 @@ Und ströme uns Speisegenüsse nebst Kühen und lauter Loblieder zu, von Jamadag
 
 Ergiesse alle Tränke uns, milchreiche, liedumjubelte, Von Dschamadagni du gerühmt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

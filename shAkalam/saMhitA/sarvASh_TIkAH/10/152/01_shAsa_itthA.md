@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शासो भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 asi ← √as- 1 (root)  
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इत्था- इत्थम्। शासः- शासकः। महान्- महात्मा। अमित्रखादः- शत्रुभक्षकः। अद्भुतः-  आश्चर्यभूतः। असि- भवसि। यस्य। सखा- मित्रम्। न। हन्यते- बाध्यते। कदा चन- कदाचन।  न जीयते- न पराजयं प्राप्नोति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शासः** एतत्संज्ञोऽहम् **इत्था** इत्थमनेन वक्ष्यमाण प्रकारेणेन्द्रं  स्तौमीति शेषः । हे इन्द्र त्वं **महाँ** **असि** सर्वेभ्योऽधिको भवसि । **अमित्रखादः** अमित्राणां शत्रूणां खादिता विनाशयिता अत एव **अद्भुतः** आश्चर्यभूतश्च भवसि । **यस्य** इन्र्रस्य **सखा** मित्रभूतः पुरुषः **कदा** **चन** कदाचिदपि **न** **हन्यते** न हिंस्यते **न** **जीयते** न च शत्रुभिः पराजितो भवति स त्वं महाँ असीत्यन्वयः।
@@ -221,8 +224,6 @@ Ein grosser Herrscher bist du traun, ein Feindvernichter wunderbar, Du, dessen F
 Чьего друга не убивают.  
 И никогда не побеждают.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

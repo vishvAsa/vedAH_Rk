@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विचक्षाणः- सूक्ष्मदर्शी सन्। विरोचयन्- प्रकाशयन्। सुतः- निष्पन्नः सन्। ओजसा- तेजसा।  त्विषिम्- दीप्तिम्। दधानः- धारयन्। पवित्रे- शुद्धे प्रतीके चित्ताकाशे वा। आ- आभिमुख्येन।  एति- गच्छति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुतः** अभिषुतः सोमः सन् **पवित्रे** दशापवित्रे । **आ** इत्यनर्थकः । **ओजसा** बलेन शीघ्रम् **एति** गच्छति । कीदृशः सन् । **त्विषिं** दीप्तिं **दधानः** धारयन् **विचक्षाणः** सर्वं पश्यन् **विरोचयन्** दीपयंश्च । किम् । देवानिति शेषः ॥
@@ -162,10 +165,6 @@ Ausgepreßt geht er in die Seihe durch seine Stärke Machtglanz annehmend, sich 
 
 Gepresst geht er zur Seihe hin, mit Kraft erzeugend hellen Glanz, Weit schauend und erleuchtend weit.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

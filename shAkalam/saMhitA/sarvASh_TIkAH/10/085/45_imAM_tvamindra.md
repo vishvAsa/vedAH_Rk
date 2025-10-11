@@ -3,7 +3,6 @@ title = "045"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 imā́m ← ayám (pronoun)  
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। मीढ्वः- आनन्दकर। इमाम्- एतां वधूम्। सुपुत्राम्- शोभनवत्साम्। सुभगाम्-  सौभाग्यवतीम्। कुरु। अस्याम्- एतस्याम्। दश पुत्रान्- प्रभूतान् पुत्रान्। आ धेहि- प्रयच्छ।  पतिम्- भर्तारमपि। एकादशम्- प्रभूतपुत्रैः सह पुत्रवद्विधेयम्। कृधि- कुरु॥४५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वम्** **इमां** वधूं **सुपुत्रां** सुभगां च कृणु कृधि । अस्यां वध्वां **दश** पुत्रान् **आ** **धेहि** । **पतिमेकादशं** **कृधि** । दश पुत्राः पतिरेकादशो यथा स्यात्तथा कृधि कृणु ॥
@@ -248,8 +251,6 @@ Diese Gattin mache du, o gnädiger Indra, reich an Kindern und an Glück; verlei
 Вложи в нее десять сыновей!  
 Мужа сделай одиннадцатым!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

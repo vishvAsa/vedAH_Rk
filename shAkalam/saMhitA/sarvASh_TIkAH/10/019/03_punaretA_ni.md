@@ -3,7 +3,6 @@ title = "003"
 devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 etā́ḥ ← eṣá (pronoun)  
@@ -201,12 +199,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनः- भूयः। एताः- एता गाव एते चिद्रश्मयः। नि वर्तन्ताम्- स्वरूपं प्रत्यागच्छन्तु। अस्मिन्-  एतस्मिन्। गोपतौ- आत्मसूर्ये। पुष्यन्तु- पुष्टिं गच्छन्तु। अग्ने- सर्वभूतहितक्रतो। इह- अत्र।  एव। नि धारय- गाश्चिद्रश्मीन् वा धारणां कुरु। नान्यत्रेति भावः। या। रयिः- दैवी संपत् सा।  तिष्ठतु- अत्रैव स्थापिता भवतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एना एता ईदृश्यो गाव आपो वा **पुनः** **नि** **वर्तन्तां** भूयो भूयो मां प्रत्यागच्छन्तु । आगत्य च **गोपतौ** सास्नादिमतीनां धेनूनां वृष्टिलक्षणानामपां पालके **अस्मिन्** ईदृशे मयि **पुष्यन्तु** आत्मायत्तत्वेन स्थित्वा पुष्टा भवन्तु । पुष्टाः सतीस्ता हे **अग्ने** त्वम् **इहैव** अस्मिन्नेव मयि **नि** **धारय** नियमेन स्थापय । **या** **रयिः** यदपि व्रीह्यादिकं धनमस्ति तदपि धनं गोसहितम् **इह** अस्मिन्नेव गोपतौ मयि **तिष्ठतु** निवसतु ॥ ।
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -237,8 +238,6 @@ Sie mögen wiederkehren nun, bei diesem Hirten recht gedeihn; Hier halte sie, o 
 Только здесь, о Агни, удерживай их!  
 Здесь пусть остается (то,) что богатство!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

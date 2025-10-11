@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -123,6 +121,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ- समन्तात्। सहस्रिणम्- अनन्तम्। गोमन्तम्- ज्ञानयुख्नम्। अश्विनम्- प्राणयुख्नम्।  पुरुश्चन्द्रम्- प्रभूताह्लादकम्। पुरुस्पृहम्- बहुभिरपेक्षितम्। रयिम्- दानयोग्यधनम्। पवस्व-  क्षर॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिरुपेतम् **अश्विनम्** अश्ववन्तं **पुरुश्चन्द्रं** बहूनां हर्षकं **पुरुस्पृहं** बहुस्पृहणीयं **रयिं** धनम् **आ** **पवस्व** परिक्षर ॥
@@ -166,10 +169,6 @@ Läutere tausendfachen Reichtum an Rindern und Rossen, vielschimmernden, vielbeg
 
 O riesle tausendfachen Schatz herbei, der reich an Rind und Ross, Sehr glänzend ist und vielbegehrt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मधुच्छन्दाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रक्षोहा- राक्षसनाशकः। विश्वचर्षणिः- सर्वद्रष्टा सोमो रसः। द्रुणा- द्रोणकलशेन  रसोपलब्धिस्थानप्रतीकेन। सधस्थम्- सहस्थानम्। अयोहतम्- हिरण्मयम्। योनिम्-  स्वसदनमृताख्यम्। अभ्यासदत्- अभ्यासीदति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रक्षोहा** रक्षसां हन्ता **विश्वचर्षणिः** विश्वस्य द्रष्टा सोमः अयोहतं हिरण्येन हतम् । तथा च ब्राह्मणं - ’ हिरण्यपाणिरभिषुणोति' इति । **द्रुणा** द्रोणकलशेनाधिषवणफलकाभ्यां वा **सधस्थं** सहस्थानं **योनिम्** अभिषवस्थानम् **अभि** **आसदत्** अभ्यासीदति ॥
@@ -168,8 +171,6 @@ The adj. áyohata- ‘metal-hammered’ occurs twice in the RV (also IX.80.2), b
 
 What the instr. drúṇā is doing here is unclear to me. This instr. appears 5x in the RV; in the two passages outside of the Soma maṇḍala (V.86.3, VIII.96.11) it appears to refer to an implement with which one accomplishes something -- in the latter passage a paddle to propel a boat to reach the far shore. Of the two other passages in IX, IX.65.6 drúṇā sadhástham aśnuṣe is quite similar to this one: “you attain to your seat drúṇā,” and in 98.2 índur abhí drúṇā hitáḥ, which lacks an overt ‘seat’, the interpr. depends on which root hitáḥ is assigned to: √dhā ‘place’ or √hi ‘impel’. In all three soma passages I take drúṇā as an implement (a wooden vessel or even a pusher, a paddle) that allows soma to attain its place or (in 98.2, taking hitá- to √hi) to be impelled on its way. This is not the standard interpr.; most (see, e.g., Oldenberg’s disc.) take it as referring to the wooden cup or vessel that constitutes soma’s “seat” (e.g., Geldner “an seinen Platz aus Holz”), but the instr. in such an interpr. is troubling. Renou remarks “Instr. un peu rude pour d° kṛtám” and renders (ad IX.1.2)  65.6 as “placé (sur la cuve faite) en bois.” Though he further remarks “on ne peut parler qu’avec réserve de l’Instr. de matière en véd.,” an instr. of material is essentially the standard interpr. of drúṇā in this passage -- one that I would prefer to avoid, though perhaps at the expense of inventing another implement in the soma ritual.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -201,8 +202,6 @@ Der Menschen schirmt, Gespenster tilgt, liess auf den erzgefügten Schooss Den S
 Он сел на (свое) ложе, вытесанное железом,  
 На (свое) место из дерева.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

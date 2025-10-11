@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -248,6 +246,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+११    कवे- क्रान्तदर्शिन्। त्वम्- भवान्। समुद्रः- अर्णवः। असि- भवति। विश्ववित्- सर्वज्ञः। तव-  भवतः। विधर्मणि- विशेषधर्मे। इमाः- एताः। पञ्च प्रदिशः- निषादपञ्चमाः प्रजाः प्रकर्षेण दिष्टाः  सन्ति। त्वम्। द्यां च- दिवं च। पृथिवीं च- भूमिं च। अति जभ्रिषे- बिभर्षि। पवमान- पुनान।  सूर्यः ज्योतींषि- सूर्यज्योतींषि। तव- तव संबन्धीनि भवन्ति॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **कवे** क्रान्तप्रज्ञ **त्वं** यस्मात् **समुद्रः** वर्षसाधनोऽपाम् अतः **विश्ववित्** **असि** । यद्वा । समुद्रो द्रवात्मकोऽसि विश्वविच्चासि । किंच **तव** **विधर्मणि** विधारणे **पञ्च** **प्रदिशः** प्रकृष्टा दिशो भवन्तीति शेषः । **त्वं** **द्यां** **च** दिवं च **पृथिवीं** **च** **अति** **जभ्रिषे** बिभर्षि । हे **पवमान** **सूर्यः** देवः **तव** **ज्योतींषि** आप्याययति ॥
@@ -271,8 +274,6 @@ lights, self-purifying one, and the sun.
 <details><summary>Jamison Brereton Notes</summary>
 
 The cmpd. viśva-víd- is ambiguous here. Geldner and Renou both tr. as ‘allknowing’, and that is favored by the context, since it is immediately followed by the voc. kave (‘sage poet’). But the cmpd recurs in the very similar pāda, 39c tváṃ suvī́ro asi soma viśvavít, and that vs. contains three similarly formed cmpds that surely belong to √vid ‘find’: IX.86.39a govít … vasuvíd dhiraṇyavít. There the context favors ‘all-finding’. (Scarlatta treats the two roots √vid together [489], so he is not forced to distinguish.) I suggest, as usual, that it’s a pun.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -300,10 +301,6 @@ Du bist das Meer, du, Seher, bist der Allwissende. Dein sind diese fünf Weltgeg
 
 Ein Meer bist du, o weiser, der du alles hast, in deinem Schütze stehn die fünf Weltgegenden, Du ragest über Erd' und Himmel weit hinaus, und Sonne ist, o heller, deiner Lichter Schein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

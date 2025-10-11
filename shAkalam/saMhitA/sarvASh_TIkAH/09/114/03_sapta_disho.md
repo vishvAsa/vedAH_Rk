@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 díśaḥ ← díś- (nominal stem)  
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सप्त दिशः- भूर्भुवरादिसप्तोद्दिष्टलोकाः। नानासूर्याः- एकस्यैवात्मसूर्यस्य  सप्तलोकानुस्यूतसप्तरूपाणि। सप्त होतार ऋत्विजः- सप्तलोकगतात्मोपासकाः। ये। सप्त। देवा  आदित्याः- भूर्भुवःसुवरादिगताखण्डप्रकृतिजा द्योतकाः। तेभिः- तैः सर्वैः। सोम- रस। अभि-  अभितः। रक्ष- पालय॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सप्त** **दिशः** । सोमो यस्यां दिशि वर्तते तद्व्यतिरिक्ताः सप्त भवन्ति । **नानासूर्याः** नानाविधैः सूर्यैरधिष्ठिता ऋतवो भवन्ति । नानालिङ्गत्वादृतूनां नानासूर्यत्वम् '(तै. आ. १.७) इत्याम्नानात् । यद्वा । नानासूर्या इति दिग्विशेषणम् । तथा **होतारः** वषट्कर्तारो होत्रादयः **सप्त** **ऋत्विजः** भवन्ति । किंच **आदित्याः** अदितेः पुत्रा धात्रादयो मार्तण्डवर्जिताः **ये** **सप्त** **देवाः** सन्ति । एतत्तु ‘अष्टौ पुत्रासो अदितेः' (ऋ. सं. १०.७२. ८) इत्यत्र प्रपञ्चयिष्यते । हे **सोम** **तेभिः** तैर्दिगादिभिः सर्वैः नः अस्मान् अभि **रक्ष** । एतत्तु त्वया विना न घटत इति तस्मात् **इन्द्राय** **इन्दो** **परि** **स्रव** ॥
@@ -278,8 +281,6 @@ Welches die sieben Weltgegenden sind, die von verschiedenem Sonnenschein erleuch
 (Всеми) ими, о сома, защити нас!  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनानः- पूयमानः सन्। इन्दुः- क्लेदनशीलो रसः। प्रजाम्- धर्मसन्ततिम्। विश्वानि द्रविणानि-  सर्वाः संपदः। नः- अस्मभ्यम्। उराणः करत्- विस्तारयतु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानः** पूयमानः **उराणः** । ' उराण उरु कुर्वाणः ' ( निरु. ६. १७) इति यास्कः । देवान् बहु कुर्वाणः **इन्दुः** सोमः **नः** अस्माकं **प्रजाम्** अपत्यादिका **विश्वानि** व्याप्तानि द्रविणानि धनानि च **करत्** करोतु । करोतेर्लङि रूपम् ॥
@@ -157,7 +160,6 @@ Grassmann, Geldner, and Renou all take it as trans. with prajā́m as obj., but 
 
 kárat opening the 2nd hemistich rhymes with kṣárat in the same position in vs. 8. Nonetheless they are morphologically divergent, with kárat a subjunctive and kṣárat an injunc. Despite their parallelism kṣárat is unlikely to have modal value anticipating kárat; Hoffmann (123 and n. 26) convincingly takes kṣárat in “general” sense.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -188,8 +190,6 @@ Der Indu flammend – die Seinen liebend, verschaff uns alle – erwünschten Sc
 Пусть создаст все богатства для нас!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -205,7 +205,7 @@ Der Indu flammend – die Seinen liebend, verschaff uns alle – erwünschten Sc
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जो परमात्मा सम्पूर्ण प्रजाओं के ऐश्वर्य्य को बढ़ाता और जो स्वतःप्रकाश तथा स्वयंभू है, वही हमारा उपास्यदेव है, उसी की उपासना करता हुआ पुरुष आनन्दलाभ करता है, अन्यथा नहीं ॥९॥
+भावार्थभाषाः -  जो परमात्मा सम्पूर्ण प्रजाओं के ऐश्वर्य्य को बढ़ाता और जो स्वतःप्रकाश तथा स्वयंभू है, वही हमारा उपास्यदेव है, उसी की उपासना करता हुआ पुरुष आनन्दलाभ करता है, अन्यथा नहीं ॥९॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

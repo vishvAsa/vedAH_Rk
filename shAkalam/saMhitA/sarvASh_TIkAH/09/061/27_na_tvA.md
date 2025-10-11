@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। पुनानः- पवमानः सन्। मखस्यसे- अस्मदुपासनमिच्छसि। तदा। त्वा- भवन्तम्।  रायो दित्सन्तम्- संपद्दायकम्। शतं चन ह्रुतः- बह्व्यः कुटिलशख्नयः। न आ मिनन्- न  हिंसन्ति॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **राधः** धनम् **आ** **दित्सन्तम्** आदातुमिच्छन्तं **त्वा** त्वां **शतं** **चन** बहवोऽपि **ह्रुतः** हिंसकाः शत्रवः **न** **मिनन्** न हिंसन्ति । कदेत्यत्राह । **यत्** यदा **पुनानः** पूयमानस्त्वं **मखस्यसे** अस्मभ्यं धनं दातुमिच्छसि । ।
@@ -179,7 +182,6 @@ when you, becoming purified, do battle [/act bounteously].
 This vs. is rather cleverer than the two that precede it. In pāda a the nom. pl. root noun hrútaḥ is, in my opinion, a pun. It belongs to the root √hvṛ ‘go crookedly, curve’, and its sense was disc., e.g., by Hoffmann (Fs. Thieme [1980] =Aufs. III.753-54). He suggests that here it refers to unevennesses (Unebenheiten) in the fleece sieve (i.e., as I see it, the curvy tufts of wool), just as, in the other occurrence of this root noun (VI.4.5), it refers to the curves of a race course (see comm. ad loc.). The literal sense here then is that though the soma must navigate around the tufts on the sieve, they will not keep it from completing the course. The second sense is one referring to unscrupulous enemies—Engl. ‘crook’ is an exact semantic match—and the point is that when Soma wishes to dispense goods to us, our crooked enemies can’t divert him.
 
 The word family that includes makhá- and the denom. makhasyá- found here displays both ‘combat’ and ‘generosity’ senses; see comm. ad I.18.9 and, for the verb, III.31.7. Here I think both are at play, and this double sense is encouraged by the context: as noted, this tṛca focuses on combatting enemies, and the first hemistich of this vs. states that these enemies cannot stop Soma. But the tṛca also concerns Soma’s giving, esp. in the last two vss.: 26a “bring wealth ... 26c “give” … 27b “eager to give largesse.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -214,8 +216,6 @@ Selbst hundert Feinde hemmen nicht dich, wenn du Gaben schenken willst, Wenn fla
 Когда, очищаясь, ты проявляешь щедрость.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -226,7 +226,7 @@ Selbst hundert Feinde hemmen nicht dich, wenn du Gaben schenken willst, Wenn fla
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यत् पुनानः मखस्यसे) आप जो कि अपनी प्रजाओं को सुखी करने के लिये धनग्रहण करने की इच्छा करते हैं, इस से (राधः) धन को (आदित्सन्तम्) ग्रहण करते हुए (त्वा) तुमको (शतम् चन हुताः) सैंकड़ों कुटिल दुष्ट (न मिनन्) बाधित नहीं कर सकते॥२७॥
+पदार्थान्वयभाषाः -  (यत् पुनानः मखस्यसे) आप जो कि अपनी प्रजाओं को सुखी करने के लिये धनग्रहण करने की इच्छा करते हैं, इस से (राधः) धन को (आदित्सन्तम्) ग्रहण करते हुए (त्वा) तुमको (शतम् चन हुताः) सैंकड़ों कुटिल दुष्ट (न मिनन्) बाधित नहीं कर सकते॥२७॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

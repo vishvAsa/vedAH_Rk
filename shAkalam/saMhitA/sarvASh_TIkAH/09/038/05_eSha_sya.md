@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यः। इन्दुः- क्लेदनशीलः सोमः। वारम्- श्रेष्ठं प्रतीकम्। आविशत्- विवेश। एषः स्यः- सोयम्।  दिवः शिशुः- चिदाकाशजः। मद्यः- हर्षदस्तृप्तिदः। रसः। अव चष्टे- सूक्ष्मं स्वरूपं पश्यति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्यः** सः **एषः** **मद्यः** मदनिमित्तः **रसः** **अव** **चष्टे** सर्वमवपश्यति। **दिवः** **शिशुः** । द्युपुत्रः । तत्रोत्पत्तेः पुत्रत्वमस्य । **य** **इन्दुः** दीप्तः सोमः **वारं** दशापवित्रम् **आविशत्** आविशति स एष इति ॥
@@ -200,10 +203,6 @@ Derselbige berauschende Seim schaut herab, des Himmels Kind, der Saft, der in di
 
 Ja er, der Saft, der Rausch erregt, der Spross des Himmels blickt herab, Wenn Indu durch die Wolle drang.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

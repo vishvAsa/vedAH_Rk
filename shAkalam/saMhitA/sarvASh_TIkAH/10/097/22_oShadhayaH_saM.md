@@ -3,7 +3,6 @@ title = "022"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 óṣadhayaḥ ← óṣadhi- (nominal stem)  
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमेन राज्ञा - रसाधिदैवतेन सोमदेवेन। सह। ओषधयः। सं वदन्ते। राजन्- स्वामिन्। यस्मै।  ब्राह्मणः- भिषक्। कृणोति- अस्मान् सम्पादयति। तम्- अमुं रोगिणम्। पारयामसि- पारयामः।  अरोगं कुर्मः॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ओषधयः** सर्वाः **सोमेन** **राज्ञा** **सह** **सं** वदन्ते संवादं कुर्वन्ति । किमिति तदुच्यते । **यस्मै** रुग्णाय **ब्राह्मणः** ओषधिसामर्थ्यज्ञो ब्राह्मणो वैद्यः **कृणोति** करोति चिकित्सां **तं** रुग्णं हे **राजन्** **पारयामसि** पारयामः ॥ इदन्तो मसिः ॥
@@ -207,8 +210,6 @@ Mit Soma, ihrem Könige, besprechen sich die Kräuter so: Für wen uns ein Brahm
 Для кого действует брахман,  
 Того, о царь, мы перевозим на другую сторону.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

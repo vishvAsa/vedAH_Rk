@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवस्परि- चित्ताकाशे। केतुम्- प्रज्ञाम्। कृण्वन्- कुर्वन्। विश्वा- सर्वाणि। रूपा- रूपाणि।  अभ्यर्षसि- अभिगच्छसि। सोम- रस। समुद्रः- अब्धिः सन्। पिन्वसे- प्रयच्छसि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **समुद्रः** । समुद्द्रवन्ति यस्माद्रसाः स समुद्रः। स त्वं **केतुं** प्रज्ञानं **कृण्वन्** कुर्वन् अस्माकं **विश्वा** विश्वानि **रूपा** रूपाणि **दिवः** अन्तरिक्षात् **अभ्यर्षसि** अभिपवसे । **पिन्वसे** नानाविधानि धनानि चास्मभ्यं प्रयच्छसि ॥
@@ -180,8 +183,6 @@ O Soma, you swell as the sea.
 As noted above, it’s quite possible, even likely, that the beacon in pāda a is a reference to the sun and therefore another assimilation of Soma to the Sun, as is more explicit in vss. 7 and 9. For the association between ketú- and the sun, cf., e.g., VII.63.2 ketúḥ … sū́ryasya. Lüders (702) suggests rather that the ketú- is lightning, without argument.
 
 Geldner renders b as “… rinnst du ... alle Farben annehmend”; similar Lüders (702) “strömst du vom Himmel her in alle Erscheinungsformen.” But the acc. with abhí √ṛṣ is always a goal (to choose just one example, cf. nearby IX.62.3 abhy àrṣanti suṣṭutím “they rush towards the lovely praise-hymn”), and I don’t see where (or why) they get their alternative interpr. By my interpr. the “all forms” to which the soma rushes could be the materials the soma will be mixed with (water, milk), or everything found on the ritual ground, or indeed everything on earth and in the midspace, the “all goods” of vs. 6.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -208,10 +209,6 @@ Dein Banner aufsteckend rinnst du vom Himmel, alle Farben annehmend. Wie das Mee
 Vom Himmel Licht erzeugend strömst du alle Herrlichkeit herbei, Du schwillst, o Soma, als ein Meer.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -227,7 +224,7 @@ Vom Himmel Licht erzeugend strömst du alle Herrlichkeit herbei, Du schwillst, o
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा ने अपनी रचना में सूर्य तथा चन्द्रमा को प्रकाश के केतु बनाकर संसार की शोभा को बढ़ाया है और आनन्द का सागर होने से परमात्मा का नाम समुद्र है॥८॥
+भावार्थभाषाः -  परमात्मा ने अपनी रचना में सूर्य तथा चन्द्रमा को प्रकाश के केतु बनाकर संसार की शोभा को बढ़ाया है और आनन्द का सागर होने से परमात्मा का नाम समुद्र है॥८॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

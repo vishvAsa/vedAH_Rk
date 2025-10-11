@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "ऋणंचयः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - ऋणंचयः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः सोमः। विजज्ञे। जनयन्- मन्त्रमुत्पादयन्। अमर्त्यः- अमरः। ज्योतिषा। तमः-  अन्धकारम्। प्रतपन्- बाधमानः। सः- असौ। कविभिः- क्रन्तदर्शिभिः। सुष्टुतः- सुष्ठु स्तुतः।  त्रिधातु- त्रिषु स्थानेषु भूर्भुवःसुवःस्थानेषु। दंससा- विद्यया दर्शनेन वा। दसि दंसनदर्शनयोः।  निर्णिजम्- रूपम्। दधे- धृतवान्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषा** कामानां वर्षकः **अमर्त्यः** मनुष्यधर्मरहितः सोमः **वि** **जज्ञे** विज्ञायते । किं कुर्वन् । **जनयन्** शब्दं ज्योतिर्वोत्पादयन् **ज्योतिषा** स्वीयेन **तमः** **प्रतपन्** प्रज्वलयन् विनाशयन् प्रादुर्भवति । ततः **कविभिः** मेधाविभिः स्तोतृभिः **सुष्टुतः** **सः** सोमः **निर्णिजं** निर्णेजनहेतुं मिश्रणं गव्यं **दधे** धारयति । अथ **त्रिधातु** त्रिषु सवनेषु देवानां पोषकम् । यद्वा । त्रयः सोमधारका द्रोणकलशादयो यस्मिन् । तद्यज्ञार्थं कर्म **अस्य** सोमस्य **दंससा** कर्मणा ध्रियते खलु ॥
@@ -233,7 +236,6 @@ Well-praised by the poets, he dons his raiment, a threefold one, by his  wondrou
 <details><summary>Jamison Brereton Notes</summary>
 
 On the “threefold” (tridhā́tu) nature of Soma’s clothing, see comm. ad IX.70.8.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
@@ -267,8 +269,6 @@ Er ist erzeugt, der zeugende, unsterbliche, der Finsterniss durch Licht erhellt,
 Прекрасно восхваленный поэтами, он надел (свой) праздничный наряд,  
 Тройную (одежду) – благодаря своей чудесной силе.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

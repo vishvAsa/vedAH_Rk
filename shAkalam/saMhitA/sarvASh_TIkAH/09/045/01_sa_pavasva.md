@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अयास्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राय पीतये- इन्द्रानुभूतये। इन्दो- क्लेदनशील। सः- तादृशस्त्वम्। नृचक्षाः- उपासकानां दृष्टिः  सन्। देववीतये मदाय- दिव्यानुभूतये तृप्तये। कम्- आनन्दम्। पवस्व- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **नृचक्षाः** नॄणां नेतॄणां द्रष्टा **सः** त्वं **देववीतये** यज्ञाय **इन्द्राय** इन्द्रस्य **पीतये** पानाय च **मदाय** मदार्थं च **कं** सुखं यथा भवति तथा **पवस्व** क्षर ॥
@@ -188,10 +191,6 @@ Läutere du dich zum Rauschtrank, du mit dem Herrenauge, zur Götterladung, für
 
 Du riesle, Männerschauender, zum Rausche recht, zum Göttermahl, Zum Trunk dem Indra, Indu, hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

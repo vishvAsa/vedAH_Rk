@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। सोमः- रसः। विश्वा- सर्वाः। दिव्यानि- दिव्याः। पार्थिवा- भौमाः। अन्तरिक्ष्या-  अन्तरिक्षगाः। वसु- संपदः। दाशुषे- दात्रे। पवताम्- क्षरतु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** अभिषूयमाणः **सोमः** **दाशुषे** हविर्दात्रे **विश्वा** सर्वाणि **वसु** वसूनि धनानि **पवतां** प्रयच्छतु । विश्वानीयुक्तस्य विवरणं शिष्टम् । **दिव्यानि** दिवि भवानि **पार्थिवा** पृथिवीसंबद्धानि **अन्तरिक्ष्या** अन्तरिक्षे भवानि च पवताम् ॥
@@ -167,10 +170,6 @@ Soma soll in der Läuterung dem Opferspender alle Schätze herbringen, die himml
 
 Er, Soma, riesle alles Gut, was auf der Erd', im Himmel ist Und in der Luft, dem Frommen zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

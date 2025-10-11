@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "गोतमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - गोतमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वात- श्वासाख्यवायो। भेषजम्- स्वास्थ्यम्। आ वाहि- आभिमुख्येन वाहि। वात- प्रश्वासाख्य  वायो। यद्रपः- रोगम्। वि वाहि- अपगमय। त्वम्। हि- खलु। विश्वभेषजः- सर्वेषामारोग्यकृत्।  यद्वा सर्वभेषजयुख्नः। देवानां दूतः सन्। ईयसे- चरसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वात** **भेषजं** सुखं व्याध्युपशमनमौषधं वा **आ** **वाहि** आगमय । हे **वात** **यद्रपः** अस्मदीयं पापं तत् **वि** **वाहि** विगमय । अस्मत्तो विश्लेषय । **त्वं** **हि** खलु **देवानां** **दूतः** **विश्वभेषजः** । विश्वानि भेषजानि यस्मिन् । 'बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । ईदृशश्च सन् **ईयसे** सततं गच्छसि ॥  ‘ ईङ् गतौ ' । दैवादिकः । श्यनो नित्त्वात्  ञ्नित्यादिर्नित्यम् ' इत्याद्युदात्तत्वम् । ' हि च' इति निघातप्रतिषेधः ॥
@@ -234,8 +237,6 @@ Wind, wehe Arzenei herbei, Wind, wehe das Gebrechen fort; Denn du hast alle Arze
 Ведь ты, всеисцеляющий,  
 Движешься как вестник богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

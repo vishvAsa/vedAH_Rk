@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    हियानः- प्रेर्यमाणः। अत्यो न- तुरग इव। वाजम्- हव्यम्। अभि अर्ष- अभिसर। स्वर्वित्-  स्वर्गज्ञः सन्। दिवः- चिदाकाशात्। अद्रिमातरम्- ग्रावनिष्पन्नं सोमलतारसविशेषम्। कोशम्-  प्रतीकं प्रति। क्षरति। आधिभौतिके सोमलतारसे अध्यात्मरसैक्यं दर्शयत्ययं मन्त्रः। पवित्रे- शोधके  पवित्रे। अव्यये- रक्षके। सानो- उत्कृष्टे प्रदेशे प्रतीके। अधि। इन्द्रियाय- ईशनाय। धायसे-  धारकाय। पुनान- पूयमानः सन्। सोमः- रसः। अभिसरति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्यो** **न** अश्व इव **हियानः** प्रेर्यमाणः **वाजं** संग्रामम् **अभि** **अर्ष** अभिगच्छ । तथा **स्वर्वित्** सर्ववित् **कोशं** द्रोणकलशं **दिवः** द्युलोकात् अद्रिमातरम् । अद्रिर्मेघः। तेन तज्जन्यमुदकं लक्ष्यते । तस्य निर्मातारमभ्यर्ष । अथ प्रत्यक्षकृतः । **वृषा** वर्षकः **सोमः** **अव्यये** अविमये **अधि** **सानौ** । अधीति सप्तम्यर्थानुवादी । समुच्छ्रिते तस्मिन् **पुनानः** पूयमानो भवति । किमर्थम् । **धायसे** धारकाय **इन्द्रियाय** तदर्थम् ॥
@@ -263,7 +266,6 @@ Although, as noted above, vss. 1 and 3 share the same goal, the kóśa-, the phy
 
 In the published translation for ease of English parsing I moved the tr. of svarvíd from b to cd, but this mixes the levels: the sun-finding Soma is the one that reaches heaven, while the soma of cd is the substance purified in the sheep’s filter. Better (if somewhat awkward): “… rush to the prize, as the sun-finder (rush) to the cask of heaven …”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -290,10 +292,6 @@ Renne wie ein angesporntes Roß nach dem Siegerpreis, die Sonne findend, zur Kuf
 
 Gespornt wie zu dem Preis der Renner ströme hin zum felsentsprossnen Himmelskrug, gewinnend Glanz, Ein Hengst zur Seihe auf den wollnen Gipfel hin, gereinigt Soma zu des Indra Sättigung.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

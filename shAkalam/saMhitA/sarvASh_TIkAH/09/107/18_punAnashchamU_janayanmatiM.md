@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चमू- द्यावापृथिव्यौ। पुनानः- पूयमानः। मतिम्- ज्ञानम्। मन ज्ञाने। जनयन्- उत्पादयन्।  कविः- क्रान्तदर्शी। सोमः- रसः। देवेषु- द्योतनशख्निषु। रण्यति- रमते। अपः- मूलशख्निधाराः।  वसानः- बिभ्रत्। गोभिः- चित्किरणैः। उत्तरः- श्रेष्ठः। सीदन्- उपविशन्। वनेषु- आश्रितेषु। परि  अव्यत- परिदीयते॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चमू** । सप्तम्याः पूर्वसवर्णदीर्घः। चम्वोरधिषवणफलकयोः **पुनानः** पूयमानोऽभिषूयमाणः **मतिं** स्तुतिं **जनयन्** उत्पादयन् **कविः** क्रान्तप्रज्ञ एतादृशः **सोमः** **देवेषु** इन्द्रादिषु **रण्यति**। किंच **अपः** वसतीवरीः **वसानः** आच्छादयन् **वनेषु** काष्ठेषु पात्रेषु **सीदन्** सोमः **गोभिः** गोविकारैः क्षीरादिभिः **परि** **अव्यत** परिदीयते । आच्छाद्यते ॥
@@ -227,7 +230,6 @@ Clothing himself in waters, he has wrapped himself with cows as the  higher (obl
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma as úttara- is also found in 2d, where it is also associated with cows: śrīṇanto góbhir úttaram “preparing you [tvā 2c] with cows as the higher (oblation)”; see comm. there. I supply ‘oblation’ in both instances because of 1b sómo yá uttamáṃ havíḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
@@ -261,8 +263,6 @@ In Schalen rieselnd, Soma, Lied-erzeugend freut der weise bei den Göttern sich;
 Рядясь в воды, (этот) лучший завернулся в (молоко) коров,  
 Сидя в деревянных (сосудах).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -115,6 +113,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानम्- पुनानम्। विचर्षणिम्- सूक्ष्मदर्शिनम्। सहस्रचक्षसम्- अनन्तदर्शनम्। इन्दुम्-  क्लेदनशीलं रसम्। गायत्रेण- गायत्रसाम्ना। प्र- प्रकर्षेण। गायत॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विचर्षणिं** विद्रष्टारं **सहस्रचक्षसं** बहुदर्शनं **पवमानं** पूयमानम् **इन्दुं** सोमं **गायत्रेण** गायत्रनामधेयेन साम्ना **प्र** **गायत** हे स्तोतारः गानं कुरुते । स्तुतेत्यर्थः ॥
@@ -164,10 +167,6 @@ Besinget mit sangbarem Liede den ausgezeichneten Pavamana, den tausendäugigen S
 
 Auf, singet nun mit eurem Sang dem flammenden, beweglichen, Indu, dem tausendäugigen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

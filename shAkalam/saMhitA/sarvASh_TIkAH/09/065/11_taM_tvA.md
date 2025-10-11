@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    तं त्वा- अमुं भवन्तम्। ओण्योः- द्यावापृथिव्योः। धर्तारम्- धारकम्। पवमान- पुनान। स्वदृ᐀्शम्-  स्वर्गद्रष्टारम्। वाजिनम्- अश्वभूतं प्राणभूतम्। वाजेषु- हव्यमयेषु यज्ञेषु। हिन्वे- प्रेरयामि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** पूयमान पुनान वा हे सोम **ओण्योः**। द्यावापृथिवीनामैतत् । तयोः **धर्तारं** धारकमत एव **स्वर्दृशं** सर्वस्य सूर्यस्य वा द्रष्टारं सर्वैर्देवैर्द्रष्टव्यं वा **वाजिनं** बलवन्तं तं पूर्वोक्तगुणप्रसिद्धं **त्वा** त्वां **वाजेषु** संग्रामेषु **हिन्वे** प्रेरयामि । यद्वा । वाजेष्वन्नेषु विषयेषु हिनोमि । अन्नादिकं प्रयच्छेत्यर्थः ॥
@@ -162,7 +165,6 @@ do I impel—the prize-seeker to the prizes.
 
 With Geldner (n. 11a) I tentatively assume that the arms (oṇyòḥ) are Indra’s, since he was mentioned in the preceding vs. But as in IX.16.1 they might belong to the officiant.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -187,10 +189,6 @@ Dich, den Stützer seiner beiden Arme, o Pavamana, mit dem Sonnenauge sporne ich
 
 Der du die Weltenschalen trägst, o Flammender, der Sonne gleich, Dich sporn' ich wie ein Ross zum Lauf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

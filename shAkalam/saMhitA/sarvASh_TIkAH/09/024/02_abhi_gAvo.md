@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गावः- रश्मिभूताः। अभि- अभितः। अधन्विषुः- धावन्ति। आपः- उदकानि। न प्रवता- यथा  प्रवणदेशे तथा। यतीः- संयमयुख्नाः। पुनानाः- पवमानाः। इन्द्रम्- परमेश्वरम्। आशत-  व्याप्नुवन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गावः** गमनशीला इन्दवः **अभि** **अधन्विषुः** अभिगच्छन्ति दशापवित्रम् । किमिव । **प्रवता** प्रवणवता देशेन **यतीः** गच्छन्त्यः **आपो** **न** आप इव । पश्चात् **पुनानाः** **इन्द्रं** प्रीणयितुम् **आशत** व्याप्नुवन् । आहुतिप्रणाड्येन्द्रमेव वा व्याप्नुवन् ॥
@@ -161,8 +164,6 @@ Becoming purified, they have reached Indra.
 Oldenberg discusses this vs. at some length and disputes the cows as subject. The problems he sees are that 1) it makes more sense for the soma drops to run than the cows (though he admits that there are some undoubted passages with the latter); 2) the shared verb would more naturally have the same subject than diff. subjects (this is not a stylistic given in soma hymns, where substances swap identities all the time); 3) the part. punānā́ḥ ‘being purified’ is better applied to soma drops than cows (though again he recognizes at least one passage in which the part. is so used). On the basis of these arguments he suggests that gā́vaḥ here should be interpr. as accusative rather than as the nominative it overwhelming is, with abhí gā́vaḥ substituted for abhí gā́ḥ on metrical grounds and the soma drops again the subj. This seems both uncharacteristic and unworthy of Oldenberg.
 
 Positing “metrical” motivation for RVic anomalies is rarely successful, because the poets are flexible enough to avoid situations where they would be forced to use the wrong grammatical form because of meter. Moreover, the construction of the a-pādas of the two vss. -- PREVERB PL.NOUN adhanviṣuḥ -- imposes the subject role on the second noun (gā́vaḥ, 2a), which is in the same position as sómāsaḥ in 1a. The only of his arguments that seems at all worth considering is the one about punānā́ḥ, though given the tendency to identify the substances, esp. the liquid substances, in the soma ritual with each other, I do not find it particularly cogent -- and as Oldenberg himself points out, c could be a separate clause with the soma drops supplied as subj. there. (Another possible argument, not brought up by Oldenberg, is that this is the only vs. in the hymn where soma [sg. or pl.] is not the subject, but I do not think that is strong enough to contravene the grammar.) He cites another possible ex. of acc. gā́vaḥ, in VIII.41.6, where the form is easily interpr. as nom. (see comm. ad loc.). Renou follows Oldenberg’s interpr; Geldner does not, though in his n. 2b he suggests that the poet meant the soma drops as subject, but reversed the construction (“… er hat aber die Konstruktion umgekehrt,” whatever he means by that).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -195,8 +196,6 @@ Milchtränke sind herangeströmt, wie Wasser auf geneigter Bahn, Geläutert zu d
 Словно воды, движущиеся по склону.  
 Очищаясь, он достигли Индры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

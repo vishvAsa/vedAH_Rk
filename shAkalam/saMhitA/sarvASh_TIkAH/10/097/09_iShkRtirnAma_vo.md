@@ -3,7 +3,6 @@ title = "009"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 íṣkr̥tiḥ ← íṣkr̥ti- (nominal stem)  
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। माता- जननी। इष्कृतिर्नाम- रुग्णानां निष्कर्त्री। अथो यूयम्। निष्कृतीः-  निष्कृतयः। स्थ- भवथ। सीराः- सरणशीलाः। पतत्रिणीः- पतनशीलाः। स्थन- भवथ।  यदामयति- यो व्याधितो भवति तम्। निष्कृथ- संस्कुरुथ॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ओषधयः **वो** **माता** जननी **इष्कृतिर्नाम्** । सर्वेषां रुग्णानां निष्कर्त्रीति प्रसिद्धा । यस्मात्सा रुग्णं निष्करोति । **अथ** अतो **यूयम्** अपि **निष्कृतीः** निष्कृतयः **स्थ** भवथ। किंच यूयं **सीराः** सरणशीलाः पतत्रिणीः **पतनवत्यश्च** **स्थन** भवथ। ‘तप्तनप्' इति तनादेशः । किंच पुरुषः **यत्** यदि **आमयति** व्याधितो भवति तं **निष्कृथ** संस्कुरुथ ॥
@@ -240,8 +243,6 @@ Wie eure Mutter Heilerecht, heisst ihr die Töchter Macheheil; Ihr seid beschwin
 Вы потоки, летящие на крыльях.  
 Что болит, (то) вы излечиваете.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

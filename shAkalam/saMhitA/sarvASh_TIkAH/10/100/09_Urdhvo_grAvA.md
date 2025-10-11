@@ -3,7 +3,6 @@ title = "009"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वसवः- हे शरण्या देवाः। सोतरि- रसनिष्पादके मयि। ग्रावा- अश्मा जडप्रतीकः। ऊर्ध्वः-  उन्नतश्चैतन्यरसोन्मुखः। अस्तु- भवतु। सनुतः- गूढानि। विश्वा- सर्वाणि। द्वेषांसि- द्वेषभावनानि।  युयोत- पृथक्कुरुत। सः- असौ। नः- अस्माकम्। देवः। सविता- सूर्य आत्मा। पायुः- पालकः।  ईड्यः- स्तुत्यः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वसवः** देवाः **सोतरि** सोमाभिषवकर्तरि मयि **ग्रावा** **ऊर्ध्वः** उन्नतः **अस्तु** । तेनोच्छ्रितेन **विश्वा** द्वेषांसि सर्वानपि द्वेष्टॄन् **सनुतः** निगूढान् **युयोत** पृथक्कुरुत । **सः** **सविता** **देवः** **नः** अस्माकं **पायुः** पालयिता। 'कृवापाजि°' इत्यादिनोण् । प्रत्ययस्वरः । सः **ईड्यः** स्तोतव्यश्च ॥
@@ -257,10 +260,6 @@ Der pressende Stein soll sich aufrichten, ihr Guten! Haltet alle Anfeindungen ab
 
 Es heb', o gute, bei dem Presser sich der Stein; verjaget alle unsre Feinde weit hinweg; Gott Savitar, der preisenswerthe, schütze uns für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

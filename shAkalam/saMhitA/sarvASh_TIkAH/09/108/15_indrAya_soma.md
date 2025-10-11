@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - शक्तिः
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    सोम- रस। नृभिः- उपासकैः। यतः- संयतः सन्। स्वायुधः- शोभनायुधः सन्। मदिन्तमः-  अतिशयेन हर्षकरः सन्। मधुमत्तमः- अतिशयेन मधुरः सन्। इन्द्राय पातवे- इन्द्रानुभूतये।  पवस्व- क्षर॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **मधुमत्तमः** अतिशयेन माधुर्योपेतस्त्वम् **इन्द्राय** **पातवे** पानार्थं **पवस्व** कलशे क्षर । कीदृशः । **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **यतः** संयतः **स्वायुधः** शोभनस्फ्यकपालाद्यायुधोपेतः **मदिन्तमः** मादयितृतमः ॥
@@ -155,8 +158,6 @@ purify yourself as the most honeyed.
 <details><summary>Jamison Brereton Notes</summary>
 
 As pointed out in the published introduction, the beginning of vs. 1, pávasva mádhumattama, índrāya soma …, recurs here, framing the vs., which begins índrāya soma and ends with the pāda pávasva mádhumattama.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
@@ -189,8 +190,6 @@ Dem Indra riesle du zum Trunk, gelenkt von Männern, schönbewehrt, du süsseste
 Направленный мужами, хорошо вооруженный,  
 Самый пьянящий, самый полный меда!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

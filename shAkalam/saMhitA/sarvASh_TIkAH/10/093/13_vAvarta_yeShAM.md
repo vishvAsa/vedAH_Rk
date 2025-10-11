@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नेमधिता- युद्धे। विष्टान्ता- अवसानपर्यन्तानि। पौंस्या- बलानि। वृथेव- अनायासेन। न- यथा  प्रवर्तन्ते तथा। एषाम्- एतेषामर्थाय। युख्ना- सम्पन्ना। हिरण्ययी- दीप्तिमती। राया-  दानयोग्यसम्पत्। वावर्त- प्रवर्तते॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **येषां** देवानां स्वभूतेन **राया** अस्मभ्यं दातव्येन धनेन **युक्ता** स्तुतिः आववर्त तेषां **एषाम्** अर्थाय **हिरण्ययी** हिरण्मयी हिरण्यालंकारवत् प्रीतिकरास्मन्मुखात् पुनःपुनरावर्तत इत्यर्थः । तत्र दृष्टान्तः । **पौंस्या** पौंस्यानि बलानि **नेमधिता** **न** नेमधितौ संग्रामे **विष्टान्ता** व्याप्तावसाना **वृथेव** यथा घटिकायन्त्रमाला तद्वदित्यर्थः ॥
@@ -203,10 +206,6 @@ Deren Daksina mit Reichtum kommt - geschirrt ist ihre goldene Daksina mit ......
 
 Deren mit Gut beladene goldene Achse, die mit beiden [Enden durch die Naben] geht, rollte wie aus eigner Lust, gleich Heldenscharen in der Schlacht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

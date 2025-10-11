@@ -3,7 +3,6 @@ title = "009"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 br̥hatáḥ ← br̥hánt- (nominal stem)  
@@ -181,12 +179,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बृहतः पर्वतान्- महागिरीन्। अनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो यत्ते मनो बृहतः पर्वतान् तदिति गतम्॥९॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -218,8 +219,6 @@ Dein Geist, der zu den Bergeshöhn, den grossen in die Ferne ging, Der werde von
 Чтоб он здесь пребывал (и) жил.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन आवर्त्तनम्
@@ -230,12 +229,12 @@ Dein Geist, der zu den Bergeshöhn, den grossen in die Ferne ging, Der werde von
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (ते) हे मानसिक रोगी ! तेरा (यत्-मनः) जो मन (बृहतः पर्वतान् दूरकं जगाम) बड़े-बड़े पर्वतों के प्रति कल्पना से दूर चला गया है (ते तत्……) पूर्ववत् ॥९॥
+पदार्थान्वयभाषाः -  (ते) हे मानसिक रोगी ! तेरा (यत्-मनः) जो मन (बृहतः पर्वतान् दूरकं जगाम) बड़े-बड़े पर्वतों के प्रति कल्पना से दूर चला गया है (ते तत्……) पूर्ववत् ॥९॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  मानसरोगग्रस्त मनुष्य जब भ्रान्त-सी अवस्था में अपने को पहाड़ों पर भटकता हुआ अनुभव करे और वैसी ही बातें करे, तो उसे भी सान्त्वनापूर्ण आश्वासनों से शान्त करे ॥९॥
+भावार्थभाषाः -  मानसरोगग्रस्त मनुष्य जब भ्रान्त-सी अवस्था में अपने को पहाड़ों पर भटकता हुआ अनुभव करे और वैसी ही बातें करे, तो उसे भी सान्त्वनापूर्ण आश्वासनों से शान्त करे ॥९॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

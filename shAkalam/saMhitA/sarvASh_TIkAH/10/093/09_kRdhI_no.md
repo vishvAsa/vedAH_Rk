@@ -3,7 +3,6 @@ title = "009"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अक्षरैः पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अक्षरैः पङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - अक्षरैः पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -249,6 +247,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देव सवितः- प्रेरक सूर्य आत्मन्। नः- अस्मान्। अह्रयः- अकुटिलान्। कृधि- कुरु। सः- असौ।  च। मघोनाम्- हव्यवद्भिः। स्तुषे- स्तूयसे। चक्रम्- चक्रादिकम्। न- यथा। रश्मिम्- रश्मिना  नियमयति तथा। इन्द्रः- परमेश्वरः। एषाम्- एतेषाम्। चर्षणीनाम्- मनुष्याणाम्। नः-  अस्माकम्। सहः- बलम्। वह्निभिः- वोढृभिर्मरुद्भिः प्राणविशेषैः। योयुवे- मिश्रयति नियमयतीति  भावः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सवितः** प्रेरक **नः** अस्मान् **अह्रयः** अनवनतवदनानलज्जितान् **कृधि** कुरु। किंच **सः** त्वं **मघोनां** धनवतां यजमानानां संबन्धिभिर्ऋत्विग्भिः **स्तुषे** स्तूयसे । **इन्द्रः** **वह्निभिः** वोढृभिः मरुद्भिः सह **सहः** बलं **चर्षणीनां** मनुष्याणां **नः** अस्माकं **नि** **योयुवे** भृशं निमिश्रयतु । तत्र दृष्टान्तः । **चक्रं** रथस्य चक्रं **रश्मिं** **न** । यथा रश्मिं चक्रादिकं तद्वदित्यर्थः ॥
@@ -288,10 +291,6 @@ Mache, daß wir uns nicht zu schämen brauchen, Gott Savitri, und der unter den 
 
 Wirke kühn für uns, o Gott [savitar ist Glosse, wie das Versmass zeigt], als solcher wirst du gepriesen unter den Mächtigen; zugleich mit den fahrenden [Maruts?] hat unser Indra dieser Männer Rad und Zügel kräftig hergelenkt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

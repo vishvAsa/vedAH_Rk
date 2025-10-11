@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुहस्त्या- सुहस्तोपलक्षितशोभनकर्मणा। मृज्यमानः- शोधितः। समुद्रे- हृत्समुद्रे। वाचम्-  मन्त्रम्। इन्वसि- प्रेरयसि। पवमान- पूयमान। पिशङ्गम्- ज्योतिर्मयम्। बहुलम्- प्रभूतम्।  पुरुस्पृहम्- बहुभिः स्पृहणीयम्। रयिम्- धनम्। अभ्यर्षसि- अभिगमयसि॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुहस्त्य**। हस्ते भवा हस्त्या अङ्गुलयः । शोभनाङ्गुलिक सोम **मृज्यमानः** शोध्यमानस्त्वं **समुद्रे** अन्तरिक्षे कलशे वा **वाचं** शब्दम् **इन्वसि** प्रेरयसि । किंच हे **पवमान** पूयमान सोम **पिशङ्गं** हिरण्यैः पिशङ्गवर्णं **बहुलं** प्रभूतं **पुरुस्पृहं** बहुभिः स्पृहणीयं **रयिं** धनम् **अभ्यर्षसि** स्तोतॄणामभिक्षरसि प्रयच्छसि ॥
@@ -187,7 +190,6 @@ wealth.
 <details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou construe samudré with mṛjyámānaḥ (e.g., “Im Meer sauber gemacht”), but surely our passage can't be separated from IX.12.6 prá vā́cam índur iṣyati, samudrásyā́dhi viṣṭápi “The drop sends forth his speech upon the surface of the sea,” a passage adduced by Geldner (n. 21b) without comment.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
 <details open><summary><h2>21-22 ...{Loading}...</h2></summary>
@@ -221,8 +223,6 @@ Gereinigt sendest du zum Meer die Stimme, du an Händen schön, Du strömest gro
 Богатство красноватое, обильное, многожеланное  
 Струишь ты, о Павамана.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

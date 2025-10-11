@@ -3,7 +3,6 @@ title = "005"
 devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अभीवर्तः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380);; repeated line
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380);; repeated line
 _________
 **Morph**  
 asapatnáḥ ← asapatná- (nominal stem)  
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    असपत्नः- अशत्रुः। सपत्नहा- शत्रुबाधकः। अभिराष्ट्रः- राष्ट्रप्रजाभिरभिगतः। विषासहिः-  सहनशीलः। यथा। अहम्। एषाम्- एतेषाम्। भूतानाम्। जनस्य- प्रकृतीनाम्। च। विराजानि-  रञ्जनं करवाणि तथा कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सपत्नहा सपत्नानां शत्रूणां हन्ता अत एवासपत्नः शत्रुरहितोऽहमभूवम्। अभिराष्ट्रोऽभिगतराष्ट्रः प्राप्तराज्यः सन् विषासहिः शत्रूणां विशेषेणाभिभविता चाभूवम्। यथा येन प्रकारेणाहमेषां दृश्यमानानां सर्वेषां भूतानां प्राणिनां जनस्य च सेवकस्यामत्यादेश्च विराजानि यथेश्वरो भवानि तथा सपत्नहा विषासहिश्चा भूवमित्यर्थः॥५॥
@@ -195,8 +198,6 @@ Von Nebenbuhlern sei ich frei, sie tödtend, siegend, Haupt des Reichs, Damit ic
 Чтобы стал я править  
 Этими существами и народом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

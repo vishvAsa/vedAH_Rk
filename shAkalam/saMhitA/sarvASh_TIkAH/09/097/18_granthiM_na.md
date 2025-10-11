@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "व्याघ्रपाद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - व्याघ्रपाद्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -246,6 +244,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनानः- पूयमानः सन्। सोम- रस। ग्रन्थिं न- यथा कश्चित् ग्रन्थिं विश्लेषयति तथा। ग्रथितम्-  आवरणबद्धम्। वि ष्य- विमुञ्च। ऋजुं च गातुम्- अकुटिलं मार्गम्। वृजिनं च- बलञ्च  दर्शय।  हरिः- आकर्षकः सन्। आ सृजानः- आसृष्टः सन्। अत्यो न- तुरग इव। क्रदः- शब्दितवान्।  पस्त्यावान्- गृहयुख्नः सन्।  देव- अमर्त्य। मर्यः- मर्त्यरूपेण। धन्व- गच्छ॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पुनानः पूयमानस्त्वं ग्रथितं पापैर्बद्धं मां विष्य मुञ्च पापेभ्योविश्लेषय । कथमिव ग्रं- थिन्न यथाकश्चित् ग्रन्थिविश्लेषयति षोन्तकर्मणीति अस्यलोटिरूपम् । किञ्च हेसोम त्वं ऋजुं अवक्रं गातुं मार्गं च वृजिनं बलं च मह्यं देहि । हरिर्हरितवर्णस्त्वं आसृजानः पात्रेष्वा- सृज्यमानःसन् अत्योन अतनशीलोश्वइव क्रदः क्रन्दसि शब्दायसे । किञ्च हेदेव मर्त्योमनुष्य हितो मारकोहिंसकोवा शत्रूणां पस्त्यवान् पस्त्यङ्गृहं तद्वांस्त्वं धन्व मामभिगच्छ कल- शान्वा ॥ १८ ॥
@@ -272,7 +275,6 @@ The “straight versus crooked” theme is continued here, and in fact the expre
 preceding comm. is lexically renewed (/clarified) by ṛjúṃ ca … vṛjináṃ ca, with a better attested and unambiguous word for ‘straight’, ṛjú-. Again, Soma’s progress across the tufted filter is the topic, made clearer by the use of gātú- ‘way’. Both Geldner and Renou (also Ober II.60) take the verb ví ṣya only with pāda a and supply a new verb (‘discriminate’ or the like) with b, relying perhaps too heavily on the model of IV.2.11. I think literal unknotting is what’s at stake - finding a way between the entangled wool tufts. Geldner further suggests (n. 18a) that the unknotting refers to getting rid of the stalk of the plant in the soma press, but the filter makes far more sense.
 
 The two images in d seem oddly incoherent together: máryaḥ … pastiyā̀vān “a man in his prime in possession of a dwelling place,” but a passage adduced by Geldner (n. 18d) demonstrates that the young man and the house go together: I.91.13 márya iva svá okyè “(take pleasure) like a young man in his own home.” Perhaps the point of the house-proud márya- is that a man in his prime, perhaps roughly the equivalent of the later gṛhastha, should have achieved the goals of a mature life: a house and household; Soma is implicitly likened to such a man after he has been purified and acquired the water and milk that make him the fully prepared ritual substance, and the pastyā̀- itself is the ritual ground. Geldner’s parallel also neatly provides indirect evidence for the semantic equivalence of pastyā̀- and okyà- ‘home’ and therefore against the interpr. of pastyā̀- as ‘river’ (often indeed by Geldner; see, e.g., IX.65.23, though he tr. it here as Haus). See comm. ad I.40.7.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -308,8 +310,6 @@ Wie einen Knoten trenne das verschlungne, o Soma, flammend, graden Weg und krumm
 Пусть ты ржешь, как скакун, когда (тебя,) буланого, выпускают!  
 Беги, как молодой мужчина, о бог, у которого есть жилье!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

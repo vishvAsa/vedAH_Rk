@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हविष्षु- हव्येषु। वन्द्यः- स्तुत्योभिवाद्यः। हविः- हव्यभूतः सोमः। मध्वः- तस्य मधुरस्य।  अग्रियः- मुख्याः। धाराः। महीः- महतीः। अपः- जीवोदकभूताः। प्र- प्रकर्षेण। वि गाहते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हविष्षु** हविषां मध्ये **वन्द्यः** स्तुत्यः **हविः** हविरात्मको यः सोमः **महीः** महतीः **अपः** वसतीवरीः **वि** **गाहते** तस्य **मध्वः** सोमस्य **अग्रियः** मुख्याः **धाराः** **प्र** पतन्तीत्यर्थः ॥
@@ -171,7 +174,6 @@ to be extolled as the oblation among oblations.
 In keeping with his interpr. of vs. 1, Lüders (238) sees the “great waters” (mahī́r apáḥ) here as the celestial waters -- again not necessary, since the ritual soma is mixed with water after it traverses the filter.
 
 mádhvaḥ could in principle be construed either with dhā́rā (“stream of honey”) or agriyáḥ, as in the published translation Though both Geldner and Renou opt for the former, mádhvo agriyám in VII.92.2 suggests the latter, as does the parallel expression vācó agriyáḥ in the next vs. (3a; also IX.62.25). So Lüders (238). Both Geldner and Lüders take dhā́rā as instr. sg. (Geldner: “Mit dem Strome …”). (Oldenberg hesitates but slightly favors instr.) This is certainly possible, though not necessary: nom. dhā́rā and nom. agriyáḥ can have different genders because they belong to two different NPs in apposition to each other. In any case, none of these minor differences in interpr. have any real implications.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -204,8 +206,6 @@ Des Methes Strom, der beste Trank, er taucht sich in die grosse Flut, Der Guss, 
 Он ныряет в великие воды,  
 Жертва среди жертв, (бог), достойный хвалы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

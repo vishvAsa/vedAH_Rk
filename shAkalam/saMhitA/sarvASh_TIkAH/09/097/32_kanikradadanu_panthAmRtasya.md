@@ -3,7 +3,6 @@ title = "032"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१२    ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। पन्थाम्- मार्गम्। अनु। कनिक्रदत्- अशब्दयत्। अमृतस्य  धाम- अमृतसदनम्। शुक्रः- शुभ्रः शुद्धः सन्। वि- विशेषेण। भासि- प्रकाशयसि। कवीनाम्-  क्रान्तदर्शिनाम्। मतिभिः। वाचम्- मन्त्रम्। हिन्वानः- प्रेरयन्। मत्सरावान्- तर्पकः। सः- तादृशः  सन्। इन्द्राय- परमेश्वराय। पवसे- क्षरसि॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अभिषूयमाणः सोमः ऋतस्य सत्यभूतस्य यज्ञस्य पन्थां पन्थानं मार्गमनु कनिक्रदत् पु- नःपुनः शब्दायते । अथप्रत्यक्षः अमृतस्यामरणधर्मस्य धाम स्थानभूतः मरणरहितइत्यर्थः । तादृशः शुक्रः शुक्लवर्णः त्वं विभासि विशेषेणराजसि मत्सरवान् मदकररसयुक्तः सत्वं इन्द्रायेन्द्रार्थं पवसे क्षरसि । कीदृशः कवीनां स्तोतॄणां मतिभिः सह वाचं शब्दं हिन्वानः प्रेरयन् पवसे ॥ ३२ ॥
@@ -242,8 +245,6 @@ morphological variant of matsarín(-tama)- (4x), with a different possessive suf
 
 The initial sá in both our pāda and the one on which it is based does not follow my rules for sá 2nd-ps. reference. On this aberrancy see comm. ad IX.76.5, where it can be motivated. That pāda was then simply borrowed (and slightly altered) here.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -276,8 +277,6 @@ Hinwiehernd durch des Opfers Pfad durchstrahlst du in hellem Licht des Göttertr
 Полный опьянения, ты очищаешься для Индры,  
 Посылая (свою) речь благодаря поэтическим мыслям поэтов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

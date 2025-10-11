@@ -3,7 +3,6 @@ title = "005"
 devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शची पौलोमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 asapatnā́ ← asapatná- (nominal stem)  
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    असपत्ना। सपत्नघ्नी। जयन्ती- जययुख्ना। अभिभूवरी- व्याप्तिमती। अस्थेयसाम्- अस्थिराणाम्।  राधः- धनम्। इव। अन्यासाम्- इतरासाम्। वर्चः- तेजः। आवृक्षम्- अच्छिनम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **असपत्ना** अशत्रुका भवामि । कुत इत्यत आह । **सपत्नघ्नी** शत्रूणां हन्त्री अत एव **जयन्ती** जयं प्राप्नुवती **अभिभूवरी** अभिभवित्री ॥ भवतेः ' अन्येभ्योऽपि दृश्यन्ते ' इति क्वनिप् । ' वनो र च ' इति ङीब्रेफौ ॥ ईदृश्यहम् **अन्यासां** सपत्नीनां **वर्चः** तेजः **राधः** धनं च **आवृक्षम्**
@@ -193,8 +196,6 @@ Mitfrauen schlug ich, trieb sie fort, besiegend, überwindend sie, Der andern An
 Я отняла блеск у других (женщин),  
 Как дар – у неуверенных.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

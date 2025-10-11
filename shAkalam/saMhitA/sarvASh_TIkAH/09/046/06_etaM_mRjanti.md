@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अयास्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दश क्षिपः- दश दिग्वर्तिन्यो मूलशख्निधारा आपः। मर्ज्यं- शोधनीयम्। मत्सरम्- हर्षकरम्।  मदम्- तृप्तिकरम्। एतम्- एनम्। पवमानम्- शोधकं रसम्। इन्द्राय- परमेश्वराय। मृजन्ति-  शोधयन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मर्ज्यं** मर्जनीयं शोध्यं **पवमानं** क्षरन्तं **मत्सरं** मदकरम् **एतम्** इमं **मदं** सोमं दशसंख्याकाः **क्षिपः** अङ्गुलयः । ‘ व्रिशः क्षिपः' इत्यङ्गुलिनामसु पाठात् । इन्द्रार्थं **मृजन्ति** पवित्रे शोधयन्ति ॥ ॥ ३ ॥
@@ -162,10 +165,6 @@ Es putzen den Putzenswerten, sich Läuternden die zehn Finger, für Indra den be
 
 Den läutrungswerthen läutern nun zehn Finger, ihn den rieselnden, Den Trank, der Indra'n Rausch erregt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

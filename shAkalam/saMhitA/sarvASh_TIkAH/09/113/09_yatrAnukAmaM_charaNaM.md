@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 anukāmám ← anukāmá- (nominal stem)  
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। अनुकामं चरणम्- सङ्कल्पितकार्यसंसिद्धिरनायासेन भवति। दिवः- चिदाकाशस्य। त्रिनाके- त्रिदिवे। यत्र। लोकाः- अनुभवाः। ज्योतिष्मन्तः। तत्र माममृतं कृधि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** **त्रिदिवे** तृतीयस्थां दिवि द्युलोके **त्रिनाके** । तत्राधरमध्यमोत्तमभावेन त्रीणि स्थानानि सन्ति । तत्र तृतीये नाके उत्तमे स्थाने **दिवः** आदित्यस्य **अनुकामं** कामानुगुणं **चरणम्** अस्ति । किंच **यत्र** यस्मिल्ँलोके **लोकाः** **ज्योतिष्मन्तः** ज्योतिर्युक्तास्तिष्ठन्ति । **तत्र** तादृशे लोके माममृतं **कृधि** । यथा ममोत्तमलोको भवति तथा त्वम् **इन्द्राय** **परि** **स्रव** ॥
@@ -257,10 +260,6 @@ Wo man nach Lust wandeln darf im dreifachen Firmament, im dreifachen Raume des H
 
 Wo man durch Wunsches Kraft sich regt am dritten höchsten Himmelsdom, Wo glanzbegabt die Räume sind, da mache du unsterblich mich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

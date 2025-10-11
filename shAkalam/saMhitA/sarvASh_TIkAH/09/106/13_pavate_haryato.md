@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - अग्निः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    स्तोतृभ्यः- मन्त्रविद्भ्यः। वीरवत्- वीर्ययुख्नाम्। यशः- कीर्तिम्। अभ्यर्षन्- अभिगमयन्। हर्यतः-  स्पृहणीयः। हरिः- आकर्षकः सोमः। अति ह्वरांसि- कुटिलभावनान्यतिक्रम्य। रंह्या- वेगेन।  पवते- क्षरति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हर्यतः** स्पृहणीयः **हरिः** हरितवर्णः सोमः **रंह्या** । तृतीयाया आकारः । साधुवेगेन **ह्वरांसि** कुटिलान्यनृजूनि पवित्राणि **अति** **पवते** अतीत्य गच्छति । किं कुर्वन् । **स्तोतृभ्यो** **वीरवत्** पुत्रयुक्तं **यशः** **अभ्यर्षन्** अभिगमयन् पवते ॥
@@ -155,8 +158,6 @@ The delightful fallow bay purifies himself, across the tufts, at speed, streamin
 <details><summary>Jamison Brereton Notes</summary>
 
 The well-loved pun haryatá- ‘delightful’ and hári- ‘tawny, fallow bay’ is found here.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
@@ -189,8 +190,6 @@ Der holde, goldne rieselt hell in Eile durch das wollne Netz, Hin zu den Sänger
 В быстром беге через препятствия,  
 Струя восхвалителям блеск, состоящий из мужей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

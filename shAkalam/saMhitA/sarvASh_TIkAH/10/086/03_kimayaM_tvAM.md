@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरितो मृगः- मर्कटः। अयम्- एषः। वृषाकपिः। त्वाम्। किम्। चकार- अकरोत्। अर्यः- उदारः  सन्। यस्मै- वृषाकपये। पुष्टिमत् वसु- पुष्टियुख्नसम्पदम्। इरस्यसि- प्रयच्छसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वां** प्रति **हरितः** हरितवर्णः **मृगः** मृगभूतः **अयं** वृषाकपिः। मृगजातिर्हि वृषाकपिः । **किं** प्रियं **चकार** अकार्षीत् । **यस्मै** वृषाकपये **पुष्टिमत्** पोषयुक्तं **वसु** धनम् **अर्यो**  **वा** उदार इव स त्वं **नु** क्षिप्रम् **इरस्यसीत्** प्रयच्छस्येव । यः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
@@ -268,10 +271,6 @@ Was hat dir dieser Vrisakapi getan, das gelbliche Tier, auf den du wohl gar neid
 Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so zürnest? oder ist es des frommen nahrungsreiches Gut [was du ihm neidest]? Höher als alles ist Indra.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -287,7 +286,7 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  यहआलङ्कारिकभाषा में कहा जा रहा है, व्योमकक्षा के प्रति या उसकी वस्तुओं के प्रति सूर्य कुछ बिगाड़ करता है, वह बिगाड़ अगले मन्त्र में बताया जा रहा है ॥३॥
+भावार्थभाषाः -  यहआलङ्कारिकभाषा में कहा जा रहा है, व्योमकक्षा के प्रति या उसकी वस्तुओं के प्रति सूर्य कुछ बिगाड़ करता है, वह बिगाड़ अगले मन्त्र में बताया जा रहा है ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

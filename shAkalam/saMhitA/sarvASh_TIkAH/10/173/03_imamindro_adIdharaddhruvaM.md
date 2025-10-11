@@ -3,7 +3,6 @@ title = "003"
 devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ध्रुवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 adīdharat ← √dhr̥- (root)  
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ध्रुवम्- स्थिरम्। इमम्- एतं राजानम्। इन्द्रः- ईशनाधिदेवता। ध्रुवेण- स्थिरेण। हविषा- नृपदत्तेन  हविषा। अदीधरत्- दधार। तस्मै- अमुष्मै राज्ञे। सोमः- रसाधिदेवता। अधि ब्रवत्- आशींषि  वदतु। तस्मै। ब्रह्मणस्पतिः- मेधाधिदेवता आशींषि वदतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इममभिषिक्तं ध्रुवेण स्थिरेण हविषा तर्प्यमाण इन्द्रो ध्रुवं स्थिरमदीधरत्। धारयतु। सोमश्च तस्मै राज्ञेऽधि ब्रवत्। अधिब्रवीतु। मदीयोऽयमिति पक्षपातवचनं करोतु। तस्मा उ तस्मा एव ब्रह्मणस्पतिर्मन्त्रस्य पालको देवश्चाधिब्रवीतु॥३॥
@@ -226,8 +229,6 @@ Befestigt hat ihn Indra hier, durch festes Opfer steht er fest; Der Soma sprech 
 За него пусть выскажется сома,  
 За него и Брахманаспати!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

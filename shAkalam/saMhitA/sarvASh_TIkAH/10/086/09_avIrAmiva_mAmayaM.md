@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 avī́rām ← avī́ra- (nominal stem)  
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+माम्। अयम्- एषः। शरारुः- घातकः। अवीरामिव- वीर्यरहितामिव। मन्यते- जानाति। उत-  अपि च। अहम्। वीरिणी- वीर्यसम्पन्ना। इन्द्रपत्नी- इन्द्राणी। मरुत्सखा- मरुतां प्राणविशेषाणां  सखी। अस्मि- भवामि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पुनरिन्द्रमिन्द्राणी ब्रवीति । **शरारुः** घातुको मृगः **अयं** वृषाकपिः **माम्** इन्द्राणीम् **अवीरामिव** **अभि** **मन्यते** विजानाति । **उत** अपि च **इन्द्रपत्नी** इन्द्रस्य भार्या **अहम्** इन्द्राणी **वीरिणी** पुत्रवती **मरुत्सखा** मरुद्भिर्युक्ता च **अस्मि** भवामि । यस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
@@ -220,7 +223,6 @@ _________
 
 Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c." 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -257,10 +259,6 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 
 »Dieser Verderber stellt mir nach wie einer von Helden verlassenen, und doch bin ich einem Helden vermählt, bin des Indra Gattin, die Genossin der Maruts. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

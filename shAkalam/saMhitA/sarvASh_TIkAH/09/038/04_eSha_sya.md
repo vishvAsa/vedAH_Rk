@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जारः- प्रियः। योषितम्- प्रियाम्। गच्छन् न- अभिसरतीव। एषः स्यः- सोयम्। मानुषीषु विक्षु-  मानवप्रजासु। श्येनो न- पक्षीव। आ सीदति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्यः** सः **एषः** सोमः **मानुषीषु** **विक्षु** प्रजासु यजमानरूपास्वनुग्रहेण **आ** **सीदति** **श्येनो** **न** श्येन इव । पुनः क इव । **योषितं** **गच्छन्** अभिगच्छन् **जारो** **न** जार इव । यथा संकेतितस्तस्याः कामपूरणाय गूढो गच्छति तद्वदित्यर्थः ॥
@@ -195,10 +198,6 @@ Derselbige läßt sich in den menschlichen Ansiedelungen nieder wie ein Falke im
 
 Und er gleich einem Adler setzt sich auf der Menschen Häuser hin, geht wie der Bräutigam zur Braut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

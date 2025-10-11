@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - प्रस्कण्वः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनानः- पवमानः। वनस्य- वननीयस्य प्रतीकस्य भाजनस्य। जठरे- मध्ये। सीदन्। सीदन् वनस्य  जठरे पुनानः, भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः स्तन्नबाधित इत्यादिषु मन्त्रेषु  जठरशब्दस्य मध्यभाग इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः। हूयमानः- अस्माभिराहूतः।  हरिः- आकर्षकः। सृज्यमानः- सृष्टः। कनिक्रन्ति- शब्दयति। नृभिः- नेतृभिरुपासकैः। यतः-  संयतः। गाः- चिद्रश्मीनाम्। निर्णिजम्- रूपम्। कृणुते- प्रकटयति। अतः- चिद्रश्मितः।  स्वधाभिः- आत्मधारणाभिः। मतीः- मननानि ज्ञानानि वा विद्या वा। जनयत- सृजति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सृज्यमानः** **आ** समन्ताद्विसृज्यमानोऽभियूयमाणः **हरिः** हरितवर्णः सोमः **कनिक्रन्ति** पुनःपुनः शब्दायते । क्रन्दतेर्यङ्लुकि तिपीडभावे ‘ दाधर्ति दर्धर्ति इत्यादिना निपातनादभ्यासस्य निगागमः । अभ्यस्तस्वरः । तथा **पुनानः** पूयमानः **वनस्य** वननीयस्य द्रोणकलशस्य **जठरे** **सीदन्** उपविशन् शब्दायते । किंच **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **यतः** संयतः सोमः **गाः** गोविकारान् क्षीरादीन्याच्छादयन् **निर्णिजम्** आत्मनो रूपं **कृणुते** ग्रहादिषु करोति । **अतः** अस्मै सोमाय **मतीः** मननीयाः स्तुतीः **स्वधाभिः** हविर्भिः सह **जनयत** स्तोतारः अजनयन्। झस्यान्तादेशाभावः छान्दसः। यद्वा । हे स्तोतारः अस्मै सोमाय स्तुतीर्जनयत उत्पादयत । कुरुतेति यावत्॥
@@ -237,7 +240,7 @@ Guided by men, he makes cows his raiment. Thereupon he generates  poetic thought
 
 Geldner takes the participles in b (sī́dan … punānáḥ) as implicitly predicated (“er läutert sich und setzt sich …”), but there seems no reason to do so. They are surely parallel to the part. in pāda a (sṛjyámānaḥ) and detail the various circumstances under which Soma keeps roaring.
 
-The verb in b, 3rd sg. mid. janayata, seems to be a true middle with selfinvolvement of the subj. -- “he generates (his own) thoughts through his own powers.” - not dependent on the purely formal 3rd pl. -anta replacement janáyanta (see my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 ([1979] 146-69). The self-involvement of the subj. is even clearer in the near-twin passage I.95.4 vatsó mātṝ́r janayata svadhā́bhiḥ “ The calf [=Agni] begets his (own) mothers with his own powers.” See comm. ad loc.
+The verb in b, 3rd sg. mid. janayata, seems to be a true middle with selfinvolvement of the subj. -- “he generates (his own) thoughts through his own powers.” - not dependent on the purely formal 3rd pl. -anta replacement janáyanta (see my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 ([1979] 146-69). The self-involvement of the subj. is even clearer in the near-twin passage I.95.4 vatsó mātṝ́r janayata svadhā́bhiḥ “ The calf [=Agni] begets his (own) mothers with his own powers.” See comm. ad loc.
 </details>
 
 <details><summary>Griffith</summary>
@@ -263,8 +266,6 @@ Der Goldhengst wiehert, wenn er ausgesandt wird, er setzt sich flammend in den B
 Направленный мужами, он делает коровье молоко (своим) праздничным нарядом.  
 Затем своими силами он порождает (поэтические) мысли.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "035"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - त्रय ऋषिगणाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। इषम्- सदिच्छाम्। ऊर्जं- प्राणम्। अभ्यर्षसि- अभिसरसि। श्येनः- पक्षी।  वंसु- नीडेषु। न- यथा तथा। कलशेषु- भाजनेषु प्रतीकेषु। सीदसि। इन्द्राय- परमेश्वराय। मद्वा-  हर्षकरः। मद्यः- तृप्तिकरः। मदः- रसः। सुतः- निष्पन्नः। दिवः- चित्ताकाशस्य। विष्टम्भ उपमः-  स्तम्भकोपमः। विचक्षणः- विशेषद्रष्टासि॥३५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** पूयमान सोम **इषम्** अन्नम् **ऊर्जं** बलं च **अभ्यर्षसि** । **श्येनो** **न** श्येन इव **वंसु** वननीयेषु कुलायेषु **कलशेषु** सीदसि निषण्णो भवसि । अथ परोक्षकृतः । **इन्द्राय** **मद्वा** मदकरः **मद्यः** मदहेतुः **मदः** रसः **सुतः** अभिषुतः । कीदृशः । **दिवः** द्युलोकस्य **उपमः** उपमीयमानः **विष्टम्भः** विशेषेण स्तम्भयिता । स्थूणा यथा गृहं तथा । **विचक्षणः** विद्रष्टा । ‘ स्थूणेव जनाँ उपमित्' ( ऋ. सं. १.५९.१ ) इत्युक्तम् ॥ ॥ १८ ॥
@@ -243,8 +246,6 @@ For Indra is pressed the exhilarative, exhilarating drink of exhilaration,  the 
 <details><summary>Jamison Brereton Notes</summary>
 
 The accumulation of √mad derivatives is striking: mádvā mádyo mádaḥ. The last, máda-, is of course extraordinarily common, and the 2nd mádya- reasonably well established (13x). But madván- is found only twice.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
@@ -270,10 +271,6 @@ Du strömst zu Labsal und Stärkung, o Pavamana; wie der Falke auf die Bäume se
 
 Hell flammend strömest Speise du und Trank herbei, und setzt dich in die Kufen wie ins Laub der Aar, Zur Lust gepresst dem Indra und zu kräft'gem Rausch, des Himmels höchste Stütze, weithinschauender!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

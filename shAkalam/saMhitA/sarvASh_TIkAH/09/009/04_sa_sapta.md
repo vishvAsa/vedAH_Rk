@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ। सप्त धीतिभिः- सप्तसदनसम्बन्धिधारणाभिः। हितः- अन्तर्निहितः। अद्रुहः- अद्रोहः।  याः। एकम्- अनन्यं सोमम्। अक्षि- अक्षीणं यथा भवति तथा। वावृधुः- वर्धयामासुः। नद्यः- ता  अपो मूलशख्निधाराः। अजिन्वत्- प्रीणयति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **याः** नद्यः यम् **एकं** मुख्यं सोमम् **अक्षि** अक्षीणं **ववृधुः** वर्धयन्ति **सः** सोमः **धीतिभिः** अङ्गुलिभिः । ‘ रशना धीतयः' इत्यङ्गुलिनामसु पाठात् । **हितः** निहितः सन् **अद्रुहः** द्रोहवर्जिताः **सप्त** सप्तसंख्याकाः **नद्यः** नदीः **अजिन्वत्** प्रीणयति ॥
@@ -178,8 +181,6 @@ they who strengthened him as the single eye.
 On the “seven insightful thoughts” see also 8.4.
 
 The subj. of vāvṛdhúḥ in c must be feminine, on the basis of yā́(ḥ), but the choice between the “insightful thoughts” (dhītí-) of a and the rivers (nadī́-) of b is not clear.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -213,8 +214,6 @@ Durch sieben Bräuche eingesetzt, erquickt die holden Ströme er, Durch die das 
 Которые усилили (свой) единственный глаз.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -225,7 +224,7 @@ Durch sieben Bräuche eingesetzt, erquickt die holden Ströme er, Durch die das 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सः) वह परमात्मा (सप्त, नद्यः) इडा,पिङ्गलादिसात नाड़ियों को “नदन्तीति नद्यः” (धीतिभिः) ‘धीयते सर्वकर्मसु इति धीतिर्बुद्धिः’ जब बुद्धि की वृत्तियों से (हितः) धारण किया जाता है, तो (अजिन्वत्) योग द्वारा तृप्त करता है (याः, अद्रुहः) जो नाड़ियें स्वकर्तव्य पालन करती हुयी (एकम्, अक्षि) उस एक अविनाशी परमात्मा को (वावृधुः) प्रकाशित करती हैं॥४॥
+पदार्थान्वयभाषाः -  (सः) वह परमात्मा (सप्त, नद्यः) इडा,पिङ्गलादिसात नाड़ियों को “नदन्तीति नद्यः” (धीतिभिः) ‘धीयते सर्वकर्मसु इति धीतिर्बुद्धिः’ जब बुद्धि की वृत्तियों से (हितः) धारण किया जाता है, तो (अजिन्वत्) योग द्वारा तृप्त करता है (याः, अद्रुहः) जो नाड़ियें स्वकर्तव्य पालन करती हुयी (एकम्, अक्षि) उस एक अविनाशी परमात्मा को (वावृधुः) प्रकाशित करती हैं॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

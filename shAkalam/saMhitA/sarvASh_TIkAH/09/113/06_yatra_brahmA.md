@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 brahmā́ ← brahmán- (nominal stem)  
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। यत्र। ब्रह्मा- हिरण्यगर्भो महत्तत्त्वाधिदेवः। छन्दस्याम्- रहस्याम्। वाचम्-  श्रुतिमयीं वाचम्। वदन्- ब्रुवन्। सोमे- रसार्थम्। ग्राव्णा स्थैर्यप्रतीकेन। आनन्दम्- रसम्।  जनयन्- निष्पादयन्। सोमेन- रसेन। महीयते। तत्र परिस्रव॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** पूयमान सोम त्वदर्थं **छन्दस्यां** सप्तच्छन्दोभिः कृतां तेषु भवां **वाचं** स्तुतिं वदन् उच्चारयन् **सोमे** सोमाभिषवार्थं **ग्राव्णा** अभिषवं कुर्वता युक्तस्तेनाभिषुतेन **सोमेन** देवानाम् **आनन्दं** संतोषं **जनयन्** उत्पादयन् **ब्रह्मा** ब्राह्मणः **यत्र** यस्मिन् देशे **महीयते** देवैः पूज्यते तत्र हे सोम स्वं **परि** **स्रव** ॥
@@ -228,7 +231,6 @@ Where, o self-purifying one, the formulator, speaking metrical speech along with
 <details><summary>Jamison Brereton Notes</summary>
 
 Despite the hemistich boundary and the tr. of Geldner/Renou, I take grā́vṇā in c with vádan, immediately preceding it in b, because the grā́van- regularly “speaks” elsewhere (cf. VIII.34.2, X.36.4 grā́vā vádan, V.37.2 grā́vāṇaḥ … vádanti). Geldner and Renou need to supply material in order to construe it with pāda c.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -263,8 +265,6 @@ Wo, rieselnder! der Beter dir die schöngemessnen Worte spricht, Beim Soma mit d
 С помощью сомы порождая блаженство:-  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 dadhe ← √dhā- 1 (root)  
@@ -205,12 +203,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये के च देवाः। यज्ञियाः- पूजार्हाः। ते। रय्या- दैव्या संपदा। नः- अस्मान्। सं सृजन्तु-  संयोजयन्तु। विश्वतः- सर्वतः। वः- युष्मान्। ऊर्जा- प्राणेन। घृतेन- दीप्त्या। पयसा- ज्ञानेन।  परि दधे- संधारयामि॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **विश्वतः** सर्वतः स्थितान् **वः** युष्मान् **ऊर्जा** गोसंबन्धिना दधिलक्षणेनान्नेन **घृतेन** आज्येन **पयसा** क्षीरेण च **परि** **दधे** संधारयामि । युष्मभ्यं हविर्द्वारेण प्रयच्छामि । न केवलमात्मानं पुष्णामीत्यर्थः । एतज्ज्ञात्वा **ये** के च **देवाः** **यज्ञियाः** यज्ञार्हाः सन्ति **ते** देवाः **नः** अस्मान् **रय्या** गोलक्षणेन धनेन **सं** **सृजन्तु** संयोजयन्तु ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -241,8 +242,6 @@ Umgib von allen Seiten uns mit Nahrung und mit fetter Milch, Die hehren Götter 
 Какие бы ни (были) боги, достойные жертв,  
 (Все) они пусть сделают нас причастными к богатству!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

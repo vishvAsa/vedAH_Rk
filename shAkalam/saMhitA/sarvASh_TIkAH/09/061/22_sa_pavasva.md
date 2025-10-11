@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महीः- महतीः। अपः- जीवशख्निधाराः। वव्रिवांसम्- निरुन्धानम्। वृत्राय-आवरणम्।  विभख्निव्यत्ययः। हन्तवे- हन्तुम्। यः। इन्द्रम्- ईशनाधिदैवतम्। आविथः- ररक्षिथ। सः-  तादृशस्त्वम्। पवस्व- क्षर॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **यः** त्वं **महीः** महतीः **अपः** महान्त्युदकानि **वव्रिवांसं** निरुन्धानं **वृत्राय** वृत्रं **हन्तवे** हन्तुम् **इन्द्रम्** **आविथ** अरक्षः **सः** त्वं **पवस्व** धारया क्षर । सोमं पीत्वा मत्त: सन्निन्द्रो महान्त्युदकानि निरुन्धानं वृत्रं जघानेत्यर्थः ॥
@@ -163,8 +166,6 @@ who was obstructing the great waters.
 <details><summary>Jamison Brereton Notes</summary>
 
 A nice example where surface grammar clashes with mythological content and the latter wins. Pāda b, the complex object of ā́vitha ‘you helped’ in a, consists of an infinitival phrase with the obj. of the inf. “attracted” into the dative, while its subject remains acc.: índraṃ vṛtrā́ya hántave “you helped Indra to smite Vṛtra.” But c, a further specification of this obj., contains an acc. sg. masc. participial phrase vavrivā́ṃsam mahī́r apáḥ “obstructing the great waters.” On the surface, the only noun this can modify is índram because this is the only available acc. sg. masc., but of course it is Vṛtra who obstructed the waters. Though vṛtrā́ya appears in the dative, it must be the referent of the acc. participle - thus suggesting that “attraction” in infinitival phrases is a very late and superficial phenomenon. Unless with Renou we want simply to denominate it a “formule morphologiquement non adaptée au contexte.” I prefer to think that the poet enjoyed producing the syntactic misdirection.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -197,8 +198,6 @@ So riesle, der du Beistand gabst dem Indra, dass er Vritra schlug, Der fest die 
 Индре убить Вритру,  
 Запрудившего великие воды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

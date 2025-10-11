@@ -3,7 +3,6 @@ title = "003"
 devataa = "गर्भसंस्रावे प्रायश्चित्तं"
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रक्षोहा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 hánti ← √han- (root)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ते- तव। पतयन्तम्- पतन्तम्। निषत्स्नुम्- निषीदन्तम्। सरीसृपम्- सरन्तं गर्भम्। हन्ति-  बाधते। यः। ते- तव। जातम्- उत्पन्नं गर्भम्। जिघांसति- हन्तुमिच्छति। तम्। इतः- अस्मात्  स्थानात्। नाशयामसि- नाशयामः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे योषित् **ते** तव गर्भाशये **पतयन्तं** पतन्तं रेतोरूपेण गच्छन्तं तदनन्तरं तत्र **निषत्स्नुं** निषीदन्तं च गर्भं **यः** राक्षसादिः **हन्ति** हिनस्ति ततो मासत्रयादूर्ध्वं प्राप्तसर्वावयवं **सरीसृपं** सर्पणशीलं च गर्भं **यः**  हन्ति **जातं** दशसु मासेषूत्पन्नं **ते** तव शिशुं **यः** राक्षसादिः प्रजिघांसति
@@ -219,8 +222,6 @@ Der dir tödtet die fortschiessende, die festsitzende, die gleitende Leibesfruch
 Кто хочет убить рожденного у тебя,  
 Того мы гоним отсюда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

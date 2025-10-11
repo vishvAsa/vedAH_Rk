@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "गौरिवीतिः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - गौरिवीतिः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। स्वर्विदः- स्वर्गज्ञस्य। ते- भवतः। पीता- पाने अनुभवे। वृषभः- वर्षक इन्द्रः।  वृषायते- वृषभ इवाचरति। सः- असौ। सुप्रकेतः- शोभनप्रज्ञ इन्द्रः। वाजम्- अन्नम्। नैतशः-  अश्व इव। इषः- स्वसदिच्छाः प्रति। अभ्यक्रमीत्- अभिक्रामति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषभः** कामानां वर्षक इन्द्रः **यस्य** यं **ते** त्वां **पीत्वा** **वृषायते** वृषभ इवाचरति । किंच **स्वर्दृशः** सर्वस्य दर्शकस्य **अस्य** ते तव **पीता** पाने सति **सुप्रकेतः** सुप्रज्ञः **सः** इन्द्रः **इषः** शत्रूणामन्नानि **अभ्यक्रमीत्** अभिक्रामति । तत्र दृष्टान्तः। **वाजं** **नैतशः** । एतश इत्यश्वनाम । यथाश्वो वाजं संग्राममभिगच्छति तद्वत् ॥
@@ -241,7 +244,6 @@ I have silently converted yásya into yád, since “upon drinking of which - of
 The gerund pītvā́in a is echoed by the i-stem loc. pītā́in b.
 
 On the unexpected accent of supráketa-, as opposed to supraketá- (4x), see Oldenberg, who has no good explanation (nor do I).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -275,8 +277,6 @@ Nach dessen Trunk der Stier sich als ein Stier erweist, zu dieses Segenspenders 
 Этот (сома) с добрыми предзнаменованиями бросился к жертвенным усладам,  
 Как Эташа к награде.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

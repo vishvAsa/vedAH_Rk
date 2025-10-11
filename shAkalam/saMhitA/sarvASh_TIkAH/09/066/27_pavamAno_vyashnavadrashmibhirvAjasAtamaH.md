@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तोत्रे- मन्त्रे। सुवीर्यम्। दधत्- धारयन्। वाजसातमः- संपत्संभख्ना। पवमानः- रसः। रश्मिभिः-  चित्किरणैः। व्यश्नवत्- व्याप्नोति॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** सोमः **रश्मिभिः** स्वदीप्तिभिः **व्यश्नवत्** सर्वं जगद्व्याप्नोतु । कीदृशः । **वाजसातमः** अतिशयेनान्नस्य दाता बलस्य संभक्ता वा । तथा **स्तोत्रे** पवमानस्तोत्रं कुर्वते मनवे **सुवीर्यं** सुवीर्योपेतं पुत्रं धनं वा **दधत्** विदधत् प्रयच्छन् व्याप्नोतु । अश्नोतेर्लेट्यडागमः ॥
@@ -152,7 +155,6 @@ The self-purifying one will pervade with his rays, the best winner of prizes, es
 <details><summary>Jamison Brereton Notes</summary>
 
 In this vs. we seem to have returned to the identification of Soma with the sun, as shown esp. by raśmíbhiḥ “with his rays” - this instr. pl. being reserved almost exclusively for the sun’s rays (see, e.g., nearby IX.61.8 sū́ryasya raśmíbhiḥ). The image is of the sun / Soma pervading space, with Soma’s rays being the traces of the golden liquid as it spreads across the filter.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -180,10 +182,6 @@ Pavamana möge mit seinen Strahlen durchdringen, der am meisten Siegespreise gew
 
 Mit seinen Strahlen dringe durch der flammende, der Kraft verleiht, Dem Sänger schenk' er Heldenkraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "कृतयशाः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - कृतयशाः
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतं त्यम्- अमुमेनम्। मदच्युतम्- हर्षप्रेरकम्। सहस्रधारम्- अनन्तधारम्। वृषभम्- वर्षकम्।  विश्वा वसूनि- सर्वाः संपदः। बिभ्रतम्- धरन्तम्। दिवः- चिदाकाशात्। दुहुः- दुहन्ति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिवः** देवान् कामयमाना ऋत्विजः **एतं** **त्यं** तमिमं सोममेव **दुहुः** दुदुहुः दुहन्ति । ‘ ग्रावाणो वत्सा ऋत्विजो दुहन्ति' (तै. सं. ६. २. ११. ४ ) इति तैत्तिरीयकब्राह्मणम् । कीदृशं सोमम् । **मदच्युतं** मदस्य प्रेरकं **सहस्रधारं** बहुधारं **वृषभं** कामानां वर्षकं **विश्वा** सर्वाणि **वसूनि** धनानि **बिभ्रतं** धारयन्तं सोमं दुहन्ति ।
@@ -182,8 +185,6 @@ who brings all good things.
 <details><summary>Jamison Brereton Notes</summary>
 
 The accentuation of dívaḥ poses problems. Pace Geldner (n. 11b), who considers dívaḥ a gen. sg. with unusual accent, I take it as acc. pl. (flg. Oldenberg, in turn fld. by Renou and Lüders 202). Given the correctly accented gen./abl. sg. diváḥ in the immediately preceding vs. (10c), it is hard to believe that the poet would get the accent wrong, esp. in this exceptionally common form. As Oldenberg suggests, √duh takes a double acc. here. On dívaḥ as acc. pl., see also AiG III.226-27.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
@@ -216,8 +217,6 @@ Sie molken diesen Himmelsstier, der Rausch erregt und der in tausend Strömen fl
 Вызывающего опьянение быка с тысячей потоков,  
 Несущего все блага.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

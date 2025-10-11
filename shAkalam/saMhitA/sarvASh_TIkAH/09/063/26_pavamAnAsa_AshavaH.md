@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    आशवः- वेगवन्तः। शुभ्राः- शुद्धाः। इन्दवः- क्लेदकाः। विश्वा द्विषः- सर्वा द्वेषभावनाः। अप  घ्नन्तः- मारयन्तः। पवमानासः- पुनानाः। असृग्रम्- सृज्यन्ते॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आशवः** शीघ्राः **शुभ्राः** शोभमानाः **पवमानासः** क्षरन्तः **इन्दवः** दीप्ताः सोमाः **विश्वाः** सर्वान् **द्विषः** द्वेष्टॄन् शत्रून् **अप** **घ्नन्तः** मारयन्तः **असृग्रं** सृज्यन्ते ॥
@@ -174,10 +177,6 @@ Die sauberen Renner, die sich läuternden Säfte haben sich ergossen, alle Feind
 
 Ergossen sind die flammenden, die schnellen Tropfen, licht und schön, Verjagend aller Feinde Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

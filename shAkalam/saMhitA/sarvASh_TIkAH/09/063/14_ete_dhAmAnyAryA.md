@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे रसाः। शुक्राः- शुभ्राः। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। धारया। आर्या धामानि-  आर्यशीलसदनानि प्रति। गोमन्तं वाजम्- ज्ञानयुख्नं हव्यम्। अक्षरन्- क्षरन्ति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एते** अभिषुताः इमे **शुक्राः** दीप्ताः सोमाः **आर्या** आर्याणां श्रेष्ठानां यजमानानां **धामानि** गृहान् प्रति **गोमन्तं** गोभिर्युक्तं **वाजम्** अन्नम् **ऋतस्य** उदकस्य **धारया** **अक्षरन्** क्षरन्ति ॥
@@ -149,7 +152,6 @@ have flowed to a prize of cows.
 <details><summary>Jamison Brereton Notes</summary>
 
 In vs. 5 during his journey Soma “made it all Ārya”; here he crosses these Ārya domains (dhā́māny ā́ryā) on his journey to the cows’ milk. My interpr. takes this first acc. phrase as an acc. of extent, of space traversed, while the acc. in pāda c, vā́jaṃ gómantam I take as the goal of akṣaran. In the next vs., 15c, pavítram áti “across the filter” has the same function I see for dhā́māny ā́ryā here, and in fact the filter may be identified as the Ārya domains. By contrast Geldner takes dhā́māny ā́ryā as parallel goal to vā́jaṃ gómantam, while Renou characteristically supplies a separate participle (āviśántaḥ “ont occupé”) to govern dhā́māny ā́ryā. The parallels he cites in the n. do not seem sufficient to me.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -176,10 +178,6 @@ Diese Geklärten haben in ordnungsmäßigem Strome die arischen Eigenschaften un
 Im Strom des Opfers gossen sie, die hellen, rinderreiches Gut Hin zu dem Sitz der Arier.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -195,7 +193,7 @@ Im Strom des Opfers gossen sie, die hellen, rinderreiches Gut Hin zu dem Sitz de
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा उपदेश करता है कि श्रेष्ठ पुरुषों की स्थिति का हेतु एकमात्र शुभस्वभाव वा शील ही समझना चाहिये। अर्थात् शुभशील से उनकी दृढ़ता और उनका आर्यत्व बना रहता है, इसलिये शील को सम्पादन करना आर्यों का परम कर्तव्य है॥१४॥
+भावार्थभाषाः -  परमात्मा उपदेश करता है कि श्रेष्ठ पुरुषों की स्थिति का हेतु एकमात्र शुभस्वभाव वा शील ही समझना चाहिये। अर्थात् शुभशील से उनकी दृढ़ता और उनका आर्यत्व बना रहता है, इसलिये शील को सम्पादन करना आर्यों का परम कर्तव्य है॥१४॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

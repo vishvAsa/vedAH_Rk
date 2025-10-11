@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्र- प्रकर्षेण। यत्- यदा। समुद्रे- हृदयसमुद्रे। आहितः- निहितः। वह्निः- वाहकः। एतशः-  अश्वभूतः प्राणभूतः। ऋक्वभिः- मन्त्रयुख्नैः। पदम्- उपासनस्य पदवीम्। युजानः- युञ्जन्  भवति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **यत्** यदा यः **वह्निः** वहनशीलः **एतशः** अश्वः **मिमाति** शब्दं करोति **ऋक्वभिः** ऋत्विग्भिः स्तोतृभिः **पदं** यज्ञे **युजानः** निदधत् स्तोत्रश्रवणार्थमागच्छति च तदा स यज्ञवाहकाश्वात्मा त्वं **समुद्रे** उदके वसतीवरीषु **प्र** **आहितः** भवसि ॥
@@ -175,8 +178,6 @@ sī́dañ chyenó ná yónim ā́, as well as IX.96.23 śakunáḥ ná pátvā a
 
 VIII.21.5 sī́dantas te váyo yathā “sitting like birds” very similar to our passage. I suggest that birds are the underlying comparandum here as well, and that this underlying target is qualified by vanúṣaḥ ‘rapacious’, or, as I render it “raptor (birds).” This produces a more satisfying, or at least more interesting, simile than Renou’s “like devotées,” and it is constructed from readily available elements - though it does require more machinery.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -201,10 +202,6 @@ Es brüllt das Zugroß Etasa von den Sängern angeschirrt, wenn er in den Ozean 
 
 Es brüllt das bunte Wagenross, von Sängern an den Platz geschirrt, Wenn es zum Meere ist entsandt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

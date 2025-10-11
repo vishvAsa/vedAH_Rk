@@ -3,7 +3,6 @@ title = "004"
 devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - इन्द्राणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 asya ← ayám (pronoun)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अस्याः- एतस्याः। सपत्न्याः। नाम। न गृभ्णामि- न गृह्णामि। हि- खलु। स्वार्थशत्तया नादरं  करोमीत्याध्यात्मिके। अस्मिन् जने- एतस्यां सपत्न्याम्। नो रमते- लोको न रमते। पराम्-  अन्याम्। सपत्नीम्। परावतम्- दूरम्। गमयामसि- प्रापयामः। स्वार्थशख्निं दूरे  त्यजामीत्याध्यात्मिके॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्याः** सपत्न्याः **नाम** संज्ञामपि **नहि** **गृभ्णामि** नैव गृह्णामि उच्चारयामि । **नो** न खलु काचित् **अस्मिन्** **जने** सपत्न्याख्ये **रमते** क्रीडति । अपि च तां **सपत्नीं** **परां** **परावतम्** **एव** अतिशयेन दूरदेशमेव **गमयामसि** गमयामः प्रापयामः । अतिशयेन भर्त्रा वियोजयाम इत्यर्थः ॥
@@ -223,8 +226,6 @@ Auch ihren Namen nenn ich nicht; sie freut sich dieses Mannes nicht; Weit in die
 В самую дальнюю даль  
 Отправляем мы мою соперницу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

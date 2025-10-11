@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अन्धीगुः श्यावाश्विः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अन्धीगुः श्यावाश्विः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरोजिती- प्रत्यक्षजयभूतस्य। अन्धसः- सोमस्य। मादयित्नवे- हर्षकराय। सुताय- रसाय।  सखायः- सुहृदः। दीर्घजिह्व्यम्- स्वदीर्घजिह्वया रसं ग्रहीतुमागतम्। श्वानम्। अप श्नथिष्टन-  अपबाधध्वम्। किन्तु यज्ञद्रव्याबाधकशुनकबाधनेन पापमेव भवतीति महाभारतम्। स तया क्रुद्धया  तत्रोख्नोऽयं मे पुत्रो न किंचिदपराध्यति नावेक्षते हवींषि नावलेढि किमर्थमभिहत इति। न  किंचिदुख्नवन्तस्ते सा तानुवाच यस्मादयमभिहतोऽनपकारी तस्माददृष्टं त्वां भयमागमिष्यतीति।  जनमेजय एवमुख्नो देवशुन्या सरमया भृशं सम्भ्रान्तो विषण्णश्चासीत्। परं यत्नमकरोद्यो मे पापकृत्यां  शमयेदिति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सखायः** सखिभूताः समानख्याना वा हे स्तोतारः **वः** यूयं **पुरोजिती**। षष्ठ्याः पूर्वसवर्णदीर्घः । पुरःस्थितजयस्य **अन्धसः** अदनीयस्य सोमस्य स्वभूताय **सुताय** अभिषुताय **मादयित्नवे** अत्यन्तं मदकराय रसाय **दीर्घजिह्वयम्** । दीर्घा जिह्वा यस्य सः। दीर्घजिह्वी च च्छन्दसि' (पा. सू. ४. १. ५९ ) इति ङीषन्तत्वेन निपातितः । तादृशं **श्वानम्** **अप** **श्नथिष्टन** अपश्नथयत अपबाधध्वम् । यथा श्वा राक्षसा वा सुतं सोमं न लिहन्ति तथा कुरुतेत्यर्थः ॥
@@ -168,7 +171,6 @@ Whether the long-tongued demoness of prose is identical with or was inspired by 
 
 Unfortunately nothing in the prose narratives provides any help in interpreting our vs., esp. the hapax cmpd. purójiti-. Both Geldner and Renou take the instr. purójitī as expressing purpose: “auf dass euer Trank zuvörderst siege”; “afin qu'il y ait victoire de votre jus.” I do not understand the case syntax of this (instr. of purpose?), esp. as the standard dative of purpose appears in the next pāda (sutā́ya mādayitnáve), and, with the omission of vaḥ, a similar dat. *purojitáye would have fit this vs. line. Oldenberg takes the instr. seriously and construes ándhasaḥ with sutā́ya, which is certainly possible: “Durch euren vor (in lokalem Sinn) ihm gewonnenen (und ihn so beschützenden) Sieg schlagt dem berauschenden Saft des ándhas den langzüngigen Hund, ihr Freunde, hinweg.” My own interpr. instead takes ándhasaḥ with purójitī: the “advance victory over the stalk” is by this interpr. the priests’ initial victory over the stalk, by pressing it for its juice, leaving it mangled and spent. This initial victory may provide the model for the violence against the encroaching dog. But I am not at all certain of this interpr.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -201,8 +203,6 @@ Durch eures Trankes Vorgenuss vertreibet, o Gefährten ihr, Von dem berauschende
 Прогоните прочь пса  
 С длинным языком, о друзья!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

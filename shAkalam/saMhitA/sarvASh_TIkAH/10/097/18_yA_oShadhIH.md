@@ -3,7 +3,6 @@ title = "018"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः। ओषधीः- ओषधयः। सोमराज्ञीः- सोमदेवस्य प्रजाः। बह्वीः- प्रभूताः। शतविचक्षणाः-  प्रभूतज्ञानसम्पन्नाः। तासाम्। त्वम्। उत्तमा- श्रेष्ठा। असि- भवसि। कामाय-  रोगनिवारणाख्यमदभिलाषापूर्त्त्यै । अरम्- पर्याप्तासि। हृदे- हृदये। शम्- मङ्गळा च भवसि॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **या** **ओषधीः** ओषधयः **सोमराज्ञीः** सोमो राजा स्वामी यासां तास्तथोक्ताः **बह्वीः** असंख्याताः **शतविचक्षणाः** बहुदर्शना हे सोमाख्ये ओषधे **तासाम्** ओषधीनां **त्वम्** **उत्तमा** **असि** । यस्मादेवं तस्मात् **अरम्** अलमत्यर्थं **कामाय** कान्ताय **हृदे** हृदयाय **शं** सुखकरी भवेति शेषः ॥
@@ -226,8 +229,6 @@ Der Kräuter in des Soma Reich, der vielen hundertfach an Art, All dieser bist d
 Ты среди них высшее:  
 Прямо по желанию (даешь) благо сердцу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

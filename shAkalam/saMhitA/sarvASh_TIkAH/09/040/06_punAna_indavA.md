@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषन्- वर्षक। इन्दो- क्लेदनशील। सोम- रस। नः- अस्मदर्थम्। उक्थ्यम्- मन्त्रप्रोख्नाम्।  द्विबर्हसम्- अभ्युदयनिःश्रेयसात्मिकाम्। रयिम्- संपदम्। पुनानः- पवमानः सन्। आ भर-  आहर॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** **सोम** **पुनानः** पूयमानस्त्वम् **आ** **भर** आहर । किम् । **रयिं** धनम् । कीदृशं धनम् । **द्विबर्हसं** द्वयोः द्युपृथिव्याख्ययोः स्थानयोः परिवृद्धम् । तदेवाह । हे **इन्दो’** **वृषन्** वर्षक **नः** अस्मभ्यम् **उक्थ्यं** स्तुत्यं धनमा भर ॥ ॥ ३० ॥
@@ -180,10 +183,6 @@ Wenn du dich läuterst, o Somasaft, so bring uns doppeltgroßen Reichtum, preisl
 
 Gereinigt bringe, Indu, her o Soma, zwiefach reichen Schatz Uns rühmenswerthen, Indu, Stier!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

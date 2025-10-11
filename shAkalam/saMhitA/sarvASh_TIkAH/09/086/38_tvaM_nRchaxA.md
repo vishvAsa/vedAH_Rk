@@ -3,7 +3,6 @@ title = "038"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - त्रय ऋषिगणाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। विश्वतः- सर्वतः। नृचक्षाः- नृणां द्रष्टा। असि- भवसि। पवमान- पुनान। सोम- रस।  वृषभ- वर्षक। ताः- अपः मूलशख्निधाराः। वि धावसि। सः- तादृशः सन्। नः- अस्मदर्थम्।  वसुमत्- संपद्युख्नाम्। हिरण्यवत्- ज्योतिर्मयीं धियम्। पवस्व- क्षर। वयम्। भुवनेषु- लोकेषु।  जीवसे- उज्जीवनाय। स्याम- भवेम॥३८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वं** **विश्वतः** सर्वतः सर्वेषु भुवनेषु **नृचक्षाः** नॄणां द्रष्टा **असि** भवसि । हे **पवमान** **वृषभ** अपां वर्षक **ताः** अपः **वि** **धावसि** विविधं गच्छसि। **सः** त्वं **नः** अस्माकं **पवस्व** क्षर। किम् । **वसुमत्** बहुभिर्वसुभिर्वासकैर्गवादिद्रव्यैर्युक्तं तथा **हिरण्यवत्** बहुभिर्हिरण्यैर्युक्तं धनम् । **वयं** च वसुभिर्हिरण्यैर्युक्ताः **भुवनेषु** लोकेषु **जीवसे** जीवितुं प्रभवः **स्याम** भवेम ॥
@@ -252,8 +255,6 @@ Purify yourself in a manner rich in goods and gold for us. May we be  (fit) to l
 <details><summary>Jamison Brereton Notes</summary>
 
 I take the -mat and -vat forms adverbially.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
@@ -281,10 +282,6 @@ Du richtest nach allen Seiten dein Herrenauge, Soma, Pavamana, du Bulle durcheil
 
 Du bist, o Soma, männerschauend überall, du Stier durchströmst hellleuchtend diese ganze Welt; So riesle du uns reiches Gut und Gold herbei, und langes Leben werd' uns in der Welt zu Theil.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

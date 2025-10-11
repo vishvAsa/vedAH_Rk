@@ -3,7 +3,6 @@ title = "002"
 devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रचेताः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 bhadrám ← bhadrá- (nominal stem)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भद्रम्- कल्याणम्। वरम्। वृणुते- प्रार्थयन्ते। भद्रम्- कल्याणम्। दक्षिणम्- प्रवृद्धम्। युञ्जन्ति-  प्राप्नुवन्ति। वैवस्वते- यमे। भद्रम्- कल्याणम्। चक्षुः प्रार्थये। बहुत्रा- बहुषु विषयेषु। जीवतः-  जीवमानस्य। मनः- मम चित्तं वर्तते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भद्रं** **वै** शोभनमेव **वरं** वरणीयं दुःस्वप्नविनाशरूपं फलं **वृणते** सर्वे जनाः प्रार्थयन्ते । **दक्षिणं** प्रवृद्धं **भद्रं** शोभनं तत्फलं युञ्जन्ति प्राप्नुवन्ति च । **वैवस्वते** विवस्वतः पुत्रे यमे विषये **भद्रं** शोभनमेव **चक्षुः** दर्शनमहं प्रार्थये । दुःस्वप्नाधिदेवो वैवस्वतोऽस्मान्मा वाधताम् । भद्रमेव दर्शनमिह लोकेऽवस्थानलक्षणं करोत्वित्यर्थः । **बहुत्रा** बहुषु हि विषयेषु **जीवतः** मम **मनः** वर्तते ॥
@@ -206,8 +209,6 @@ Gute Wahl fürwahr treffen sie, ein gutes Handpferd schirren sie an. Guter Blick
 Хороший взгляд у сына Вивасвата.  
 Мысль живущего (бывает) во многих местах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

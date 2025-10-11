@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। जिनाति- रिपून् हन्ति। न जीयते- न हन्यते। शत्रुम्- रिपुम्। अभीत्य- अभ्येत्य। हन्ति-  नाशयति। सः- तादृशः। सहस्रजित्- अनन्तजित्त्वम्। पवस्व- क्षर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सहस्रजित्** असंख्यानां शत्रूणां जेतः सोम **यः** भवान् **जिनाति** शत्रून् हन्ति **न** **जीयते** स्वयं शत्रुभिर्न जीयते । न हन्यत इत्यर्थः । **शत्रुमभीत्य** शत्रुं स्वयमभ्येत्य **हन्ति** न च स्वयं शत्रुभिरभिभूयते **सः** त्वं **पवस्व** क्षर ॥ ॥ १२ ॥
@@ -190,10 +193,6 @@ Der überwältigt, aber nicht überwältigt wird, der den Feind erschlägt, wenn
 
 Der stets du siegst, nie unterliegst, den Feind erreichst und ihn erschlägst, Viel Gut erbeutend riesle hell.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अतः दिवः- तस्माच्चिदाकाशात्। सुक्रतो- शोभनसङ्कल्प। रयिम्- संपद्भूतम्। राजानम्- रञ्जकम्।  अभि- आभिमुख्येन। त्वा- भवन्तम्। अव्यथिः- व्यथारहितः। सुपर्णः- पक्षी मुमुक्षाप्रतीकः।  भरत्- आहरत्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **रयिमभि** धनं प्रति **राजानं** **त्वा** त्वाम् **अतः** **दिवः** अमुष्मात् द्युलोकात् **सुक्रतुः** सुप्रज्ञः **अव्यथिः** व्यथारहितः **सुपर्णः** श्येनः **भरत्** आहरत् । तथा च निगमान्तरम्-- ‘ आदाय श्येनो अभरत्सोमं सहस्रं सवाँ' (ऋ. सं. ४.२६.७ ) इति ॥
@@ -172,7 +175,6 @@ you, the king, to wealth, o strong-willed one.
 
 The átaḥ ‘from there’ that begins this vs. was used by Hillebrandt as evidence for the mythological connection between vss. 2 and 3, persuasively in my view, contra Oldenberg
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -196,10 +198,6 @@ Von diesem Himmel brachte dich, den König, du Einsichtiger, zum Reichtum der Ad
 Von dort her brachte dich, den Schatz, den Himmelskönig, mächtiger! Der Adler, der nicht wankt im Flug.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -215,7 +213,7 @@ Von dort her brachte dich, den Schatz, den Himmelskönig, mächtiger! Der Adler,
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सम्पूर्ण लोक-लोकान्तरों का अधिपति एकमात्र परमात्मा ही है, इसलिए उसी परमात्मा की उपासना करनी चाहिए, जिससे बढ़कर जीव का कोई अन्य स्वामी नहीं हो सकता॥३॥
+भावार्थभाषाः -  सम्पूर्ण लोक-लोकान्तरों का अधिपति एकमात्र परमात्मा ही है, इसलिए उसी परमात्मा की उपासना करनी चाहिए, जिससे बढ़कर जीव का कोई अन्य स्वामी नहीं हो सकता॥३॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

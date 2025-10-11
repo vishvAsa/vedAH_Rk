@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अग्निस्तापसः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292);; repeated line  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292);; repeated line  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ávase ← ávas- (nominal stem)  
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+राजानम्- रञ्जकम्। सोमम्- रसाधिदैवतम्। अग्निम्- पावकं सर्वभूतहितक्रतुम्। अवसे- रक्षायै।  गीर्भिः- वाग्भिः। हवामहे- आह्वयामः। आदित्यान्- अखण्डप्रकृतिसम्बन्धिनः। विष्णुम्-  सर्वव्यापिनं परमात्मानम्। सूर्यं- तदंशमात्मसूर्यम्। ब्रह्माणम्- महत्तत्त्वाधिदैवतं हिरण्यगर्भम्।  च। बृहस्पतिम्- तदंशं मेधाधिदैवतम्। हवामहे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **राजानं** राजमानमीश्वरं वा **सोमम्** **अग्निं** च **गीर्भिः** स्तुतिभिः **अवसे** रक्षणार्थं **हवामहे** आह्वयामहे । तथा **आदित्यान्** अदितेः पुत्रान् मित्रादीन् **विष्णुं** **सूर्यं** **ब्रह्माणं** प्रजापति **बृहस्पतिं** **च** रक्षणार्थमाह्वयामहे । ।
@@ -202,8 +205,6 @@ Den König Soma rufen wir zur Huld den Agni durch Gesang, Aditja's, Vischnu, Sur
 Адитьев, Вишну, Сурью  
 И брахмана Брихаспати.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

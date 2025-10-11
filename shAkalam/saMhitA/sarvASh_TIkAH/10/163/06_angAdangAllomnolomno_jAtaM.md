@@ -3,7 +3,6 @@ title = "006"
 devataa = "यक्ष्मघ्नं"
 RShiH = "विवृहा काश्यपः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विवृहा काश्यपः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 áṅgād-aṅgāt ← áṅga- (nominal stem)  
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अङ्गादङ्गात्- सर्वाङ्गेभ्यः। लोम्नो लोम्नः- सर्वरोमभ्यः। पर्वणि पर्वणि- अवयवसन्धिषु। ते- तव।  यक्ष्मं सर्वस्मादात्मनस्तमिदं वि वृहामि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अङ्गादङ्गात्** सर्वेभ्योऽङ्गेभ्यः **लोम्नोलोम्नः** सर्वेभ्यो लोमभ्यश्च **पर्वणिपर्वणि** अवयवानां संधौ  **जातम्** उत्पन्नं **यक्ष्मं** **वि** **वृहामि** । अन्यद्गतम् ॥ ॥ २१ ॥
@@ -227,8 +230,6 @@ Aus jedem Glied, aus jedem Haar, aus jedem Gelenke treibe ich die darin erzeugte
 Ее я тут вырываю у тебя!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - यक्ष्मघ्नम्
@@ -239,12 +240,12 @@ Aus jedem Glied, aus jedem Haar, aus jedem Gelenke treibe ich die darin erzeugte
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (अङ्गात्-अङ्गात्) अङ्गमात्र से (लोम्नः लोम्नः) प्रत्येक लोमयुक्त स्थान से (पर्वणिपर्वणि-जातम्) प्रतिपर्व-जोड़ में उत्पन्न (यक्ष्मम्) रोग को (सर्वस्मात्-आत्मनः) सारे शरीर से (ते) तेरे (तम्-इदम्) इस रोग को (वि वृहामि) दूर करता हूँ ॥६॥
+पदार्थान्वयभाषाः -  (अङ्गात्-अङ्गात्) अङ्गमात्र से (लोम्नः लोम्नः) प्रत्येक लोमयुक्त स्थान से (पर्वणिपर्वणि-जातम्) प्रतिपर्व-जोड़ में उत्पन्न (यक्ष्मम्) रोग को (सर्वस्मात्-आत्मनः) सारे शरीर से (ते) तेरे (तम्-इदम्) इस रोग को (वि वृहामि) दूर करता हूँ ॥६॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  कुशल वैद्य को प्रत्येक अङ्ग, प्रत्येक जोड़, प्रत्येक लोमस्थान तथा सारे शरीर से रोग को बाहर निकाल देना चाहिये ॥६॥
+भावार्थभाषाः -  कुशल वैद्य को प्रत्येक अङ्ग, प्रत्येक जोड़, प्रत्येक लोमस्थान तथा सारे शरीर से रोग को बाहर निकाल देना चाहिये ॥६॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

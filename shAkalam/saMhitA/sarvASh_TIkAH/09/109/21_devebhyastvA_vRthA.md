@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -115,6 +113,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अपो वसानम्- मूलशख्निधारावृतम्। हरिम्- आकर्षकम्। त्वा- त्वाम्। देवेभ्यः। पाजसे-  बलाय। वृथा- अनायासेन। मृजन्ति- शोधयन्ति॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **अपः** उदकानि **वसानम्** आच्छादयन्तं **हरिं** हरितवर्णं **त्वा** त्वां **वृथा** अनायासेन ऋत्विजः **मृजन्ति** शोधयन्ति । किमर्थम् । **देवेभ्यः** देवानां पानार्थं **पाजसे** तेषां बलार्थम् ॥
@@ -136,8 +139,6 @@ They groom you, the tawny one clothed in waters, for the gods, for (you  to atta
 <details><summary>Jamison Brereton Notes</summary>
 
 for vṛ́thā pā́jase see comm. ad IX.76.1. The phrase here is a truncated version of what is found in IX.76.1 and IX.88.5.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -168,8 +169,6 @@ Den Göttern striegeln – sie dich, das Goldross, mit Lust zum Glanze – den F
 Они начищают тебя, рядящегося в воды буланого коня  
 Для богов (, чтобы ты) охотно (принял должную) форму.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

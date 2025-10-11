@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान रस। रुचारुचा- दीप्त्या। देवः- द्योतकः सन्। देवेभ्यः- द्योतनशख्निभ्यः। परि।  विश्वा- सर्वाः। वसूनि- संपदः। आविश- प्रविश॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** दशापवित्रेण पूयमान यद्वा पुनान शुद्ध सोम **रुचारुचा**। ‘रुच दीप्तौ । सर्वेण तेजसा **देवः** दीप्यमानस्त्वं **देवेभ्यः** **परि** देवेभ्यः सकाशात् **विश्वा** व्याप्तानि सर्वाणि बहूनि **वसूनि** धनानि अस्माकम् **आ** **विश** प्रापय । यद्वा। देवेभ्यस्तदर्थं सर्वाणि वसूनि निवासस्थानानि ग्रहादीनि आ विश समन्तात् प्रविश ॥
@@ -158,8 +161,6 @@ O self-purifying one, with light after light, as god from among the gods, enter 
 The āmreḍita rucā́-rucā evokes the single instr. rucā́at the end of the preceding hymn, IX.64.28 (also vs. 13 of the same hymn and vs. 27 of this one).
 
 Pāda c is characterized by alliteration of an unremarkable type: víśvā vásūny ā́viśa.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -187,10 +188,6 @@ Mit immer neuem Glaste dich läuternd, du der Gott über allen Göttern, geh in 
 
 O flammender, mit stetem Glanz, ein Gott du, von den Göttern her, In alle Güter dringe ein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

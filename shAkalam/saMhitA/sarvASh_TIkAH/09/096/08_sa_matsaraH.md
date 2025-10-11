@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। मत्सरः- तर्पकः सन्। पृत्सु- युद्धेषु। वन्वन्- वृत्राणि हिंसन्। अवातः-  साधारणप्राणातीतः। सहस्ररेताः- अनन्तानां बीजभूतः सन्। वाजम्- हव्यं प्रति। अभि अर्ष-  अभिसर। इन्दो- क्लेदनशील रस। पवमानः- पुनानः सन्। मनीषी- मनस ईशिता सन्। इन्द्राय-  परमेश्वराय। अंशोः- स्वरसस्य। ऊर्मिं- तरङ्गम्। गाः- विद्याः। इषण्यन्- कामयन्। ईरय-  प्रेरय॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मत्सरः** मदकरः **पृत्सु** संग्रामेषु **वन्वन्** शत्रून् हिंसन् अत एव **अवातः** अन्यैर्गन्तुमशक्यः **सहस्ररेताः** सहस्रोदकधारोपेतः **सः** सोमः **वाजं** शत्रूणां बलम् **अभि** **अर्ष** अभिगच्छ। हे **इन्दो** सोम **पवमानः** पूयमानः **मनीषी** प्राज्ञस्त्वं **गा:** **इषण्यन्** शब्दान् प्रेरयन् । यद्वा । यजमानानां यज्ञसाधनभूता गाः प्रेरयन् । **इन्द्राय** इन्द्रार्थम् **अंशोः** अभिषूयमाणस्य सोमस्य **ऊर्मिं** संघम् **ईरय** प्रेरय ॥
@@ -240,7 +243,6 @@ Purifying yourself for Indra, o drop, as inspired thinker raise a wave  from the
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes iṣaṇyán in d to mean ‘desiring’ (“nach den Kühen verlangend”) as in the sim. passage he cites, III.50.3. But this verb stem always means ‘drive, send’ (see Renou’s n. ad loc.) and is, one way or another, derived from iṣṇā́ti ‘impels, sends’.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -274,8 +276,6 @@ So ström' berauschend, siegreich in den Schlachten zum Kampfpreis sicher, tause
 Для Индры, о сок сомы, очищаясь как хранитель мыслей,  
 Приведи в движение волну (твоего) стебля, сгоняя коров!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

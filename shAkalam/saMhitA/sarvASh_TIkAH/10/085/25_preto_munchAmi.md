@@ -3,7 +3,6 @@ title = "025"
 devataa = "नृणां विवाहमन्त्रा आशीःप्रायाः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 amútas ← amútas (invariable)  
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+८    इतः- अस्माद्वरुणपाशाख्यदुः़खात्। प्र मुञ्चामि- प्रकर्षेण मोचयामि। न अमुतः-  प्रकृतिनियत्यनुसरणोद्भूतसुखात् पुनर्न मुञ्चामि। अमुतः- प्रकृतिनियत्यनुसरणोद्भूतसुखे। सुबद्धाम्-  सुष्ठु बद्धाम्। करम्- करोमि।  इन्द्र- परमेश्वर। मीढ्वः- आनन्दकर। यथा। इयम्- एषा। सुपुत्रा-  शोभनवत्सा। सुभगा- सौभाग्यवती। असति- भवति। तथा कुरु॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इतः** पितृकुलात् **प्र** **मुञ्चामि** त्वां **नामुतः** भर्तृगृहात्प्रमुञ्चामि । **अमुतः** भर्तृगृहे **सुबद्धां** **करम्** । **यथेयं** कन्या हे **इन्द्र** **मीढ़्वः** सेक्तः **सुपुत्रा** **सुभगा** सुष्ठुभाग्या वा **असति** भवति तथा कुरु ॥ ॥ २४ ॥
@@ -253,8 +256,6 @@ Von hier mache ich dich frei, nicht von dort; schön verbunden mache ich dich do
 Имела прекрасных сыновей (и) была счастливой!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - नृर्णा विवाहमन्त्रा आशीः प्रायाः
@@ -270,7 +271,7 @@ Von hier mache ich dich frei, nicht von dort; schön verbunden mache ich dich do
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  विवाहसंस्कार हो जाने पर पितृगृह को तो वधू छोड़ देती है, परन्तु पतिगृह में बसती है। वहाँ सौभाग्य को प्राप्त होई अच्छे पुत्रों वाली बनती है ॥२५॥
+भावार्थभाषाः -  विवाहसंस्कार हो जाने पर पितृगृह को तो वधू छोड़ देती है, परन्तु पतिगृह में बसती है। वहाँ सौभाग्य को प्राप्त होई अच्छे पुत्रों वाली बनती है ॥२५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

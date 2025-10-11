@@ -3,7 +3,6 @@ title = "006"
 devataa = "अश्विनौ"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 mádhumat ← mádhumant- (nominal stem)  
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मम। परायणम्- परागमनम्। मधुमत्- मधुरं भवतु। पुनरायनम्- प्रत्यागमनम्। मधुमत्-  मधुरं भवतु। ता- तौ। देवा- देवौ। युवम्- युवाम्। देवतया- युवयोर्देवत्वेन। नः- अस्मान्।  मधुमतः- मधुरान्। कृतम्- कुरुतम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **मे** मदीयं **परायणं** गृहात्परागमनं **मधुमत्** । अत्र रसविशेषवाचिना मधुशब्देन तद्गता प्रीतिर्लक्ष्यते । युवयोः प्रसादात् प्रीतियुक्तं भवत्विति शेषः। **पुनरायनं** गृहं प्रत्यागमनं **मधुमत्** प्रीतियुक्तं भवतु । अपि च हे **देवा** देवौ द्योतमानौ **ता** तौ **युवं** युवां **नः** अस्मान् **मधुमतः** प्रीतियुक्तान् **कृतं** कुरुतम् । केनेति उच्यते । **देवतया** देवत्वेन । अणिमादिदेवतैश्वर्ययोगेनेत्यर्थः ॥ ॥ १० ॥
@@ -218,8 +221,6 @@ Gesegnet mög' mein Ausgang sein, mein Eingang wieder segensreich; So macht uns 
 Вы, о два бога, (своей) божественной властью  
 Сделайте нас медовыми!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

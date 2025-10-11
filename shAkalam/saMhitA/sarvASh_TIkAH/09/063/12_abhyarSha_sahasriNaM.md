@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रिणम्- अनन्ताम्। गोमन्तम्- ज्ञानयुख्नाम्। अश्विनम्- प्राणयुख्नाम्। अभि- अभितः।  वाजम्- हव्यभूताम्। उत- अपि च। श्रवः- श्रुतिमतीम्। रयिम्- संपदम्। अभ्यर्ष-  अभिगमय॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिर्युक्तम् **अश्विनम्** अश्ववन्तं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । **उत** अपि च **वाजं** बलं **श्रवः** अन्नं चास्मान् **अभि** गमय ।
@@ -179,10 +182,6 @@ Ströme her zu tausendfältigem Reichtum an Rindern und Rossen, zu Gewinn und Ru
 
 O ströme tausendfachen Schatz an Rindern, Rossen uns herbei Und Labetrunk und Ruhm uns zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

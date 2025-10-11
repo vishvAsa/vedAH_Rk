@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। सोम- रस। अस्मभ्यम्- नः। यः- या। वनुष्यता- शत्रुणा। दूणाशः-  नाशयितुमशक्या। दुष्टरम्- तां शत्रुभिर्दुस्तराम्। रयिम्- संपदम्। विदाः- लम्भय॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** °सोम **यः** रयिः **वनुष्यता** हिंसकेनं शत्रुणा **दूणाशः** नाशयितुमशक्यः तं शत्रुभिः **दुष्टरं** **रयिं** धनम् **अस्मभ्यं** **विदाः** देहि ॥
@@ -146,7 +149,6 @@ O self-purifying Soma, find wealth for us that is difficult to surpass, that is 
 <details><summary>Jamison Brereton Notes</summary>
 
 On vidā́as lengthened impv. rather than subjunctive vidā́(ḥ), see comm. ad IX.19.6. It is accented because it is preceded by a voc. in zero-position.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -172,10 +174,6 @@ O Pavamana, find uns Reichtum, der schwer zu überbieten ist, o Soma, der von de
 
 O schenk uns, Soma, flammender, den Schatz, der unentreissbar ist Und unerreichbar für den Feind.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

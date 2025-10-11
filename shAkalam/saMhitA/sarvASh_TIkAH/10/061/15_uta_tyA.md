@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नाभानेदिष्ठो मानवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्या- तौ। मे- मम। रौद्रौ- वेगगती। अर्चिमन्ता- प्रभावन्तौ। नासत्या-  सत्यस्वरूपौ। इन्द्र- परमेश्वर। गूर्तये- स्तुतये। यजध्यै- यजनाय। भवेताम्। मनुष्वत्-  अस्मत्पूर्वपुरुषेषु यथा तथा। वृख्नबर्हिषे- आस्तीर्णासन उपासके। रराणा- रममाणौ। मन्दू-  आनन्दौ। हितप्रयसा- प्रेरितधनौ। विक्षु- प्रजासु। यज्यू- पूज्यौ भवतः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **इन्द्र** **त्या** तौ प्रसिद्धौ **रौद्रौ** रुद्रपुत्रौ । ‘क्षोदो न रेत इतऊति सिञ्चत् ' (ऋ. सं. १०. ६१. २) इति हि रुद्रपुत्रत्वमुक्तम् । **अर्चिमन्ता** दीप्तिमन्तौ **नासत्यौ** अश्विनौ **मे** **गूर्तये** स्तुतये **यजध्यै** यागाय च भवेतामिति शेषः । किंच **मनुष्वत्** मम पितुर्मनोरिव तस्य यज्ञे यथा तथैव **वृक्तबर्हिषे** स्तीर्णबर्हिषे मह्यं **रराणा** रममाणौ **मन्दू** मदिष्णू **हितप्रयसा** प्रेरितधनौ **विक्षु** ऋत्विक्ष्वस्मदीयेषु तथा **यज्यू** यष्टव्यौ भवतमिति शेषः ॥ ॥ २८ ॥
@@ -227,10 +230,6 @@ Und auch diese strahlenden, rudrischen Nasatya´s will ich, um mir Beifall zu er
 
 Auch jene beiden prächtigen, glänzenden Nā satja's, o Indra, sollen auf mein Lob und Opfer achten, welche nach Menschenart dem Streubereiter Gaben spenden, erfreuend, sie, denen Opferspeisen vorgesetzt, und die in den Häusern zu verehren sind.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

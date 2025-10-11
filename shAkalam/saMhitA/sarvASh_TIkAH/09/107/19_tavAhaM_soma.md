@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+७    इन्दो- क्लेदनशील रस। दिवेदिवे- प्रतिदिनम्। तव- भवतः। सख्ये- सौहृदे। अहम्। रारण- रमे।  बभ्रो- बभ्रुवर्ण सोम। पुरूणि- बहून्यावरणानि। माम्- मे। नि अव चरन्ति- नीचीनं चरन्ति। तान्  परिधीन्- तानि आवरणानि। अति इहि- अतिक्रम्य गच्छ॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** हे **सोम** **तव** **सख्ये** सखिकर्मणि **अहं** **दिवेदिवे** अन्वहं **रारण**। रणेः लिट्युत्तमे णलि रूपम् । हे **बभ्रो** बभ्रुवर्ण सोम **पुरूणि** बहूनि रक्षांसि **मां** तव सख्ये स्थितं **नि** **अव** **चरन्ति** नीचीनं चरन्ति बाधन्ते । ये मां बाधन्ते **तान्** **परिधीन** राक्षसांस्त्वम् **अति** **इहि** अतीत्य गच्छ। जहीति यावत् ॥
@@ -245,8 +248,6 @@ There are various suggestions about what to supply with purū́ṇi: Sāyaṇa. 
 
 In the last pāda it is Soma who is urged to “go past the barriers” (paridhī́n); we might have expected the poet to ask Soma for help in getting past them himself (but see next vs.). For Soma’s journey past the paridhī́n Geldner and Renou cite IX.96.11 paridhī́m̐r áporṇu “open up the barriers.” In both passages the paridhí- are presumably obstacles to Soma’s progress on his ritual journey, perhaps the tufts of the fleece filter.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -280,8 +281,6 @@ Ich freue, Soma, Tag für Tag, o Indu, deiner Freundschaft mich; O flammendrothe
 Пройди сквозь эти преграды!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -292,7 +291,7 @@ Ich freue, Soma, Tag für Tag, o Indu, deiner Freundschaft mich; O flammendrothe
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (इन्दो) हे प्रकाशस्वरूप (सोम) सर्वोत्पादक परमात्मन् ! (दिवेदिवे) प्रतिदिन (तव, सख्ये) तुम्हारी मैत्री में (अहं, रारण) मैं सदैव तुम्हारा स्मरण करता हूँ (बभ्रो) हे सर्वाधिकरण परमात्मन् ! (पुरूणि) बहुत (निचरन्ति) नीचभावों से जो राक्षस (माम्) मुझको पीड़ा देते हैं (तान्, परिधीन्) उन राक्षसों को (अतीहि) अतिक्रमण करके मेरी (अव) रक्षा करो॥१९॥
+पदार्थान्वयभाषाः -  (इन्दो) हे प्रकाशस्वरूप (सोम) सर्वोत्पादक परमात्मन् ! (दिवेदिवे) प्रतिदिन (तव, सख्ये) तुम्हारी मैत्री में (अहं, रारण) मैं सदैव तुम्हारा स्मरण करता हूँ (बभ्रो) हे सर्वाधिकरण परमात्मन् ! (पुरूणि) बहुत (निचरन्ति) नीचभावों से जो राक्षस (माम्) मुझको पीड़ा देते हैं (तान्, परिधीन्) उन राक्षसों को (अतीहि) अतिक्रमण करके मेरी (अव) रक्षा करो॥१९॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

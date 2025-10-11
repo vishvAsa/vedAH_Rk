@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    शुभ्रम्- शुक्लम्। देववातम्- देवैरर्थितम्। अन्धः- हव्यम्। गावः- चिद्रश्मयः। पयोभिः-  स्वसारैर्ज्ञानैः। स्वदन्ति- आस्वादयन्ति। अप्सु- स सोमो मूलशख्निधारासु। धूतः- शोधितः।  नृभिः- उपासकैः। सुतः- निष्पादित अभवत्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यत् **देववातं** देवैः प्रार्थितं **शुभ्रं** शोभनम् **अन्धः** अन्नं **गावः** पशवः **पयोभिः** आशिरैः **स्वदन्ति** स्वादयन्ति सोऽयं सोमः **नृभिः** नेतृभिर्ऋत्विग्भिः **सुतः** अभिषुतः सन् **अप्सु** वसतीवरीषु **धूतः** शोधितो भवति ॥ ॥ २४ ॥
@@ -165,7 +168,6 @@ do the cows sweeten with their milk.
 <details><summary>Jamison Brereton Notes</summary>
 
 The fluent Engl. of the tr. conceals a syntactic problem: soma should be the obj. of the verb svádanti in c, and the first pāda, which is entirely in the neuter, with the NP led by ándhas-, allows such an acc. interpr. However, the intermediate pāda (b) is stubbornly in the masc. nominative (dhūtáḥ … sutáḥ). We must either take b as a parenthetical nominal clause, as Geldner and I do, or take ab as entirely in the nominative (as Renou may do - his structure is not entirely clear) as a separate nominal clause, and supply a resumptive pronominal acc. for c.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -191,10 +193,6 @@ Den sauberen gottbegehrten Trank - im Wasser geschwenkt, von Männern ausgepreß
 
 Den hellen gottbegehrten Trank, in Flut gespült, vom Volk gepresst, Versüssen Kühe durch die Milch.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

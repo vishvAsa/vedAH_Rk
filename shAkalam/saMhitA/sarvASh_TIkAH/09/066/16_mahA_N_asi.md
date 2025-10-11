@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। महान्- महात्मा। असि- भवसि। उग्राणाम्- वीराणाम्। ज्येष्ठः- प्रथमः। ओजिष्ठः-  अतिशयेन बलिष्ठः। युध्वा सन्- युद्ध्यन्। शश्वत्- सर्वदा। जिगेथ- जितवानसि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **महान्** **असि** यतस्त्वं देवानां प्रीणयितासि खलु। त्वं **ज्येष्ठः** प्रशस्यतमो भवसि । किंच हे **इन्दो** पवमान त्वम् **उग्राणाम्** उद्गूर्णबलानामपि **ओजिष्ठः** ओजस्वितमो भवसि । त्वं **युध्वा** **सन्** शत्रुभिः सह युद्धं कुर्वन्नेव **शश्वत्** सर्वदा **जिगेथ** तांस्तेषां धनानि च जितवानसि ।' जि जये'। थलि ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः ॥
@@ -172,8 +175,6 @@ Great are you, Soma, preeminent, strongest of the strong, o drop. Being a battle
 <details><summary>Jamison Brereton Notes</summary>
 
 As Renou points out, sán here is non-concessive. Instead it seems to have a function rather like the one I identified in III.30.5 (see comm. ad loc.), namely a definitional one: where, on the basis of the description of the god’s activities or qualities, he is assigned an agentive title.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -200,10 +201,6 @@ Groß bist du, Soma, der Oberste, o Saft, der Gewaltigen Gewaltigster. Als Strei
 Gross bist, Soma, du, der beste, Indu, und der starken stärkster, Stets bist Sieger du im Kampfe.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -214,7 +211,7 @@ Gross bist, Soma, du, der beste, Indu, und der starken stärkster, Stets bist Si
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (महानसि) बड़े हैं और (उग्राणाम्) तेजस्वियों में (ज्येष्ठः) बड़े हैं। (इन्दो) हे सर्वप्रकाशक परमात्मन् ! आप (ओजिष्ठः) सर्वोपरि ओजस्वी हैं और आप (युध्वा सन्) अपने से प्रतिकूल शक्तियों से युद्ध करते हुए (शश्वत्) निरन्तर (जिगेथ) जीतते हैं॥१६॥
+पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! आप (महानसि) बड़े हैं और (उग्राणाम्) तेजस्वियों में (ज्येष्ठः) बड़े हैं। (इन्दो) हे सर्वप्रकाशक परमात्मन् ! आप (ओजिष्ठः) सर्वोपरि ओजस्वी हैं और आप (युध्वा सन्) अपने से प्रतिकूल शक्तियों से युद्ध करते हुए (शश्वत्) निरन्तर (जिगेथ) जीतते हैं॥१६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "042"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 evá ← evá (invariable)  
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुत्रैर्नप्त्रृभिः- पुत्रपौत्रैः। क्रीळन्तौ- विहरन्तौ। स्वे गृहे- स्वसुद्मनि। मोदमानौ- तुष्यन्तौ। इहैव-  अत्रैव। स्तम्- भवतम्। मा वि यौष्टम्- विश्लिष्टौ मा भवतम्। अनेन दम्पत्योः परस्परत्यागो  निषिद्ध्यते श्रुतौ। विश्वम्- पूर्णम्। आयुः। व्यश्नुतम्- अनुभवतम्॥४२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इहैव** **स्तम्** इहैवास्मिल्ँलोके स्तं भवतम् । **मा** **वियौष्टं** मा पृथग्भूतम् । विश्वमायुर्व्यश्नुतं प्राप्नुतम् । किंच **पुत्रैर्नप्तृभिः** पौत्रैः सह **स्वे** **गृहे** **मोदमानौ** भवतमिति शेषः ॥
@@ -241,8 +244,6 @@ Hier mögt ihr beide weilen, trennt euch nicht, erreicht die volle Lebensdauer, 
 Играя с сыновьями (и) внуками,  
 Радуясь в собственном доме!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

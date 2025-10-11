@@ -3,7 +3,6 @@ title = "023"
 devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नाभानेदिष्ठो मानवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। गविष्टौ- चिद्रश्मिसम्पन्नौ। राजाना- मित्रावरुणौ। गच्छतः। सरण्युः- सरणशीलः।  कारवे- साधकाय। जरण्युः- उपासनाकामः। विप्रः- मेधावी। श्रेष्ठः- उत्तमः। सः- असौ। एषाम्-  एतेषाम्। बभूव- अभवत्। परा च वक्षत्- परावहतु। उत- अपि च। एनान्- एतान्। पर्षत्-  पारयतु॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **राजाना** राजमानौ मित्रावरुणौ **अध** अधुना सत्रसमाप्तौ **यत्** यस्मात् **गविष्टौ** गवामेषणायां सत्यां **सरण्युः** सरणशीलो यमः **सरत्** गच्छति **कारवे** कर्माणि कुर्वतेऽङ्गिरसां गणाय । किमिच्छन् । **जरण्युः** तस्मा अङ्गिरसां गणाय स्तुतिमिच्छन् । तस्मात् **सः** **विप्रः** नाभानेदिष्ठः **एषाम्** अङ्गिरसां **प्रेष्ठः** प्रियतमः बभूव भवतु । **हि** इति पूरणः । तेषां कर्तव्यं **परा** **च** **वक्षत** परावहतु । **उत** अपि च **एनान्** अङ्गिरसः **पर्षत्** पारयतु इत्यात्मन एवाशास्ते ॥
@@ -271,10 +274,6 @@ Wenn er nun, ihr beiden Könige, auf einem Beutezug zu eiliger Fahrt bereit, der
 
 Und wenn dann bei der Opferhandlung, o ihr beiden Könige [Mitra-Varuna], zu euch [yuvâm aus metrischen Gründen zu ergänzen] der eilende heraneilt, dem Dichter zurufend, dann fahre der beliebteste Sänger – denn er war unter ihnen – sie hinweg und setze sie über.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

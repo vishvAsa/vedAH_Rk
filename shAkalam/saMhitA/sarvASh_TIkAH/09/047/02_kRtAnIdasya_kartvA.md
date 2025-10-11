@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। दस्युतर्हणा- चोरनाशकानि। कर्त्वा- कर्माणि। कृतानि। इत्- एव। चेतन्ते-  ज्ञायन्ते। धृष्णुः- शत्रुधर्षकः। ऋणा च- ऋणानि च। चयते- चातयति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** यस्य एतस्य सोमस्य **दस्युतर्हणा** दस्यूनामसुराणां नाशकानि **कर्त्वा** कर्माणि सः **इत्** अस्माभिरेव सोऽयं **धृष्णुः** धृष्टः सोमो यजमानानाम् **ऋणा** **च** ऋणान्यपि **चयते** कामप्रदानेन चातयति ॥
@@ -184,10 +187,6 @@ Die Dasyuzerschmetterungen, die er getan hat und noch tun wird, sind bekannt, un
 
 Was ihm zu thun, hat er gethan, seht, wie er die Dämonen schlug, Und Sünden straft, der kühne Held.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

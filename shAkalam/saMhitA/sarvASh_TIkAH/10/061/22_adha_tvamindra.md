@@ -3,7 +3,6 @@ title = "022"
 devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नाभानेदिष्ठो मानवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अनन्तरम्। त्वम्। इन्द्र- परमेश्वर। नृपते- राजन्। वज्रबाहुः- वज्रपाणिः सन्। महो राये-  महत्यै सम्पदे प्रपन्नान्। अस्मान्- नः। विद्धि- जानीहि। मघोनः- हविष्मतः। नः- अस्मान्।  रक्ष- पालय। सूरीन्- विदुषः। पाहि- रक्ष। हरिवः- आकर्षणशख्निभूताश्वयुख्न। ते- तव। अभीष्टौ-  इच्छायाम्। अनेहसः- अपापाः स्याम॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **अध** अधुना **वज्रबाहुः** त्वम् **अस्मान्** **महः** महते **राये** धनाय **विद्धि** जानीहि । हे इन्द्र **मघोनः** हविष्मतः **सूरीन** स्तुतिप्रेरकान् **नः** अस्मान् **रक्ष** **च** । हे **हरिवः** हरिभ्यां तद्वन्निन्द्र **ते** तव **अभिष्टौ** अभिगमने **अनेहसः** अपापाः स्यामेति शेषः ॥
@@ -260,10 +263,6 @@ Nun komm du, Indra, gedenke unser zu großem Reichtum, du Männerherr mit der Ke
 
 Und du, o Indra, verhilf uns zum Besitze grossen Gutes, o Männerherr, der du den Blitz im Arme trägst, und beschirme unsre reichen, behüte die Fürsten, die unvergleichlichen, o Lenker goldner Rosse, in deinem Schutze.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

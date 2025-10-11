@@ -3,7 +3,6 @@ title = "012"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 bhávyam ← bhávya- (nominal stem)  
@@ -203,12 +201,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भूतं च भव्यं चानुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्ते** **मनः** **भूतं** च **भव्यं** **च** इत्यनेन भूतभव्यात्मकव्यतिरेकेण कस्यचिदभावाद्वर्तमानस्य पृथगेवाभिधानात् कृत्स्नं प्रपञ्चमुक्तं भवति । तत्र सर्वत्र गतं मनो जीवनाय निवासाय चावर्तयामः ॥ ॥ २१ ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -239,8 +240,6 @@ Dein Geist, der zur Vergangenheit und Zukunft in die Ferne ging, Der werde von u
 Чтобы он здесь пребывал (и) жил.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन आवर्त्तनम्
@@ -251,7 +250,7 @@ Dein Geist, der zur Vergangenheit und Zukunft in die Ferne ging, Der werde von u
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (ते) मानसरोगग्रस्त जन ! तेरा (यत्-मनः) जो मन (भूतं च भव्यं च दूरकं जगाम) बीती बातों या विषयों में और भविष्य की बातों के प्रति दूर चला गया है-दौड़ गया है (ते तत्……) पूर्ववत् ॥१२॥
+पदार्थान्वयभाषाः -  (ते) मानसरोगग्रस्त जन ! तेरा (यत्-मनः) जो मन (भूतं च भव्यं च दूरकं जगाम) बीती बातों या विषयों में और भविष्य की बातों के प्रति दूर चला गया है-दौड़ गया है (ते तत्……) पूर्ववत् ॥१२॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>

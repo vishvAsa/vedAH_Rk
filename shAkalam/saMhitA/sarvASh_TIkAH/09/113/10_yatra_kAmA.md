@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ca ← ca (invariable)  
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्रा। कामाः- इच्छापूर्तयः सन्ति। निकामाश्च- इच्छासंपूर्तयश्च सन्ति। यत्र। ब्रध्नस्य- प्रज्ञापकस्य  चैतन्यस्य। विष्टपम्- स्थानमस्ति। स्वधा च- स्वधारणा च। यत्र। तृप्तिश्च। तत्र माममृतं  कृधि।१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** यस्मिल्ँलोके कामाः काम्यमाना देवाः **निकामाः** नितरामवश्यं प्रार्थ्यमाना इन्द्रादयः **च** विद्यन्ते । यद्वा कामा निकामा अभिलाषा निकामाश्च यत्र विद्यन्ते । **यत्र** लोके **ब्रध्नस्य** सर्वेषां प्रज्ञापकस्य । यद्वा । सूर्येण विना कर्माणि न घटन्त इति सर्वेषां कर्मणां मूलभूतस्यादित्यस्य **विष्टपं** सहस्थानं यत्र विद्यते तत्र लोके । **स्वधा** अन्नं स्वधाकारेण वा दत्तमन्नं **तृप्तिः** तर्पणं हर्षणं हर्षः **च** **यत्र** विद्यते **तत्र** लोके **माममृतं** कृधि ॥
@@ -274,7 +277,6 @@ The phrase bradhnásya viṣṭápam is found also in VIII.69.7, where I take it
 
 As Oldenberg and Geldner (n. 10c) point out (see also Doniger (134 and n. 5), svadhā́- and the root √tṛp ‘satisfy’ are associated with offerings to the Pitars (dead ancestors).
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
 
@@ -298,10 +300,6 @@ Wo die Wünsche und Neigungen erfüllt werden, wo der Höhepunkt der Sonne ist, 
 
 Wo Wunsch zugleich Erfüllung ist, und höchster Ort dem Flammenross, Wo Sehnsucht und Befriedigung, Da mache du unsterblich mich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

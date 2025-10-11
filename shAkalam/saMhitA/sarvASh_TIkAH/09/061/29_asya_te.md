@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- तादृशस्य। तव- भवतः। इन्दो- क्लेदनशील। उत्तमे- श्रेष्ठे। द्युम्ने- ज्योतिर्मये। सख्ये-  सौहृदे। पृतन्यतः- रिपून्। सासह्याम- अभिभवेम॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अस्य** अस्मिन् यागे वर्तमानस्य **ते** तव **सख्ये** सखित्वे सति **वयम्** अमहीयव आङ्गिरसा: **तव** त्वदीये **उतमे** श्रेष्ठे **द्युम्ने** अन्ने तृप्तिं प्राप्ता: । तथा च यास्कः-- द्युम्नं द्योततेर्यशो वान्नं वा ' ( निरु, ५. ५) इति । **पृतन्यतः** युद्धमिच्छतः शत्रून् **ससह्याम** अभिभवेम ॥
@@ -164,8 +167,6 @@ In the companionship of you here, in your highest brilliance, o drop, might we o
 <details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas open with somewhat emphatic 2nd sg. genitives, the first with a fronted initially accented demonst. + enclitic (ásya te), the second with a more conventional full form of the prn. (táva). See disc. ad IX.66.14.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -198,8 +199,6 @@ In deinem Bunde mögen wir, Indu, in deinem höchsten Glanz Besiegen, die uns fe
 В твоем высшем блеске, о сок,  
 Мы хотим одолеть нападающих (на нас)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

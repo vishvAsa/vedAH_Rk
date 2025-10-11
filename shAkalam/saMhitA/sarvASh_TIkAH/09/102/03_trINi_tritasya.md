@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - त्रितः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रितस्य- तीर्णतमस्य तिरस्कृताज्ञानस्योपासकस्य। त्रीणि- भूर्भुवराद्युपलक्षितान्नप्राणमानसानि।  वि- विशेषेण। धारय। पृष्ठेषु- चित्तस्य उत्कृष्टस्थानेषु। रयिम्- दैवीं संपदम्। आ- समन्तात्।  ईरय- प्रेरय। अस्य- एतस्य। योजना- संयोजनानि। सुक्रतुः- शोभनसङ्कल्पः। वि- विशेषेण।  मिमीते- अशब्दयत्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **त्रितस्य** मम यज्ञस्य स्वभूतानि **त्रीणि** सवनानि **धारया** आत्मीयया विधारय । किंच **पृष्ठेषु** सामसु रयिं दातारमिन्द्रम् **आ** **ईरय** आगमय । **सुक्रतुः** सुप्रज्ञः स्तोता **अस्य** इन्द्रस्य **योजना** योजनानि योजनकारीणि स्तोत्राणि **वि** **मिमीते** करोति । यस्मादेवं तस्मादिन्द्रं सामसु प्रेरयेत्यर्थः ॥
@@ -195,8 +198,6 @@ For this reason I reluctantly accept Geldner’s solution (considered but disfav
 
 seem to worry about this question. I very much doubt that it is Soma, who is otherwise referred to only in the 3rd ps. throughout the hymn, until the final vs.; I find it unlikely that this hymn-length consistency and the dramatic contrast created by the switch in persons in the final vs. would be violated by a seemingly irrelevant impv. just here. The most likely addressee is a ritual officiant of some sort. On a possible interpr. of the short impv. phrase see comm. on the next vs. The 2nd hemistich is, by contrast, relatively straightforward and, like 2cd, sketches the length of the territory Soma traverses, with the verb ví √mā ‘measure out’ and yójana-, a measure of distance. The preverb ví is in tmesis and takes its position after the verb at the beginning of the final, short pāda.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -228,8 +229,6 @@ Bring durch drei Stätten Trita's her im Strom auf deinen Rücken Schatz; Es mis
 Приведи в движение богатство на трех спинах!  
 Он измеряет свои расстояния, наделенный силой духа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

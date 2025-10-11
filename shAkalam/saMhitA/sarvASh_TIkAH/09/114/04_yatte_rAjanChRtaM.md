@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 havíḥ ← havís- (nominal stem)  
@@ -279,6 +277,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+राजन्- रञ्जक। सोम- रस। यत्। ते- तव। शृतम्- पक्वम्। हविः- चरुपुरोडाशादिकं  ध्यानभावनात्मकं वा हव्यमस्ति। तेन- अनेन। अभि- अभितः। नः- अस्मान्। रक्ष- पालय।  अरातिवा- शत्रुः। नः- अस्मान्। मा तारीत्- मा अतिक्रामतु। किं चन- किञ्चिदपि। मा आममत्-  मा हिंसीत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **राजन्** सर्वेषां कर्मसाधनत्वेन स्वामिन् हे **सोम** ते त्वदर्थं **शृतं** पक्वं **यत्** **हविः** अस्ति ।' शृतं पाके' (पा. सू. ६. १. २७) इति निष्ठायां निपातितः । **तेन** हविषा **नः** अस्मान् अभि **रक्ष**। अभिपालय । तस्मात्वदभिरक्षितानस्मान् **अरातीवा** अरातित्ववाञ्शत्रुः **नः** अस्मान् **मा** **तारीत्** मा वधीत् । किंच **नः** अस्माकं **किं** **चन** किंचिदपि धनादिकं शत्रुः **मो** **आममत्** मा हिंसीत् । यदेतदेतैः सूक्तैरुक्तं तद्यथास्माकं भवति तथा हे **इन्दो** **इन्द्राय** **परि** **स्रव** । एवं स्वादिष्ठया' इत्यादिभिरेतदन्तैः सूक्तैर्बहुविधं सोममाहात्म्यमभ्यधायि तस्मादैहिकामुष्मिकफलसिद्धये सोमयागः करणीय इत्युक्तं भवति ॥ ॥ २८ ॥
@@ -322,8 +325,6 @@ Welcher Opfertrank dir gekocht ist, mit dem beschütze uns, o Soma; nicht möge 
 И не причинит нам какой-нибудь вред!  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

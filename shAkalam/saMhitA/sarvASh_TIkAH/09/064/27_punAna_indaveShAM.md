@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- हृदयस्पर्शिन्। एषाम्- एतेषाम्। जनानाम्। पुनानः- पूयमानः सन्। पुरुहूत-  बहुभिराहूतेन्द्रभूत। प्रियः- प्रेमभाजनः सन्। समुद्रम्- हृदयसमुद्रम्। आ विश- प्रविश॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पुरुहूत** बहुभिराहूत **इन्दो** सोम **पुनानः** पूयमानस्त्वम् **एषाम्** अस्मिन् यागे स्तोत्रं कुर्वतां **जनानां** **प्रियः** सन् **समुद्रं** द्रोणकलशम् **आ** **विश** प्रविश ॥
@@ -180,10 +183,6 @@ Dich läuternd, o Saft, vielgerufener dieser Menschen, geh als Freund in den Oze
 
 Gereinigt, Indu, und geliebt von diesen Männern viel gerühmt, So schreite zu dem Meere hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

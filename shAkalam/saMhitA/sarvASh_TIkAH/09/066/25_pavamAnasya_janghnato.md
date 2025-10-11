@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -115,6 +113,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- पुनानस्य। हरेः- आकर्षकस्य सोमस्य। जंघ्नतः- वृत्रनाशकस्य। जीराः-  निष्पादिताः। अजिरशोचिषः- सर्वतो गच्छन्त्यो दीप्तयः। चन्द्राः- आह्लादकाः। असृक्षत-  सृज्यन्ते॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जङ्घ्नतः** पुनःपुनस्तमांसि विनाशयतः **हरेः** हरितवर्णस्य **अजिरशोचिषः** सर्वत्र गमनशीलतेजसः **पवमानस्य** सोमस्य **चन्द्राः** । ‘चदि आह्लादने । देवानामाह्लादयित्र्यः **जीराः** क्षिप्रंक्षरणशीला धाराः **असृक्षत** सृजन्ति । पवित्रान्निर्गच्छन्तीत्यर्थः ॥ ॥ ११ ॥
@@ -144,8 +147,6 @@ Note the play jīrā́ajirá-. The cmpd ajirá-śocis- is a bit difficult to fit
 
 The 1st member ajirá- means ‘quick, nimble, agile’, and the whole bahuvrīhi occurs once elsewhere of Agni, VIII.19.13, where I tr. “of nimble flame.” How this would apply to drops is not entirely clear; I assume it refers to the propensity of drops, esp. moving drops, to catch the light. It is also possible that ajiráśociṣaḥ is gen. sg. and modifies Soma, rather than nom. pl. modifying the drops. This would not appreciably change the image.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -172,10 +173,6 @@ Des Pavamana, des die Finsternis vertreibenden goldgelben Falben, des Flammen-sc
 
 Ergossen sind des flammenden, des goldnen Kämpfers Ströme schon, Die lichten Flammenfunkelnden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "021"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    वृषाकपे। पुनरेहि- पुनरागच्छ। सुविता- कल्याणानि। कल्पयावहै- अहमिन्द्राणी च कुर्याव। यः।  एषः- अयम्। स्वप्ननंशनः- स्वापनाशनः। तेन। पथा- मार्गेण। अस्तम्- गृहम्। एषि- गच्छ।  इदमिन्द्रवचनम्। यद्यपि मेधाबलस्याध्यात्मसाधने चापल्यादिलक्षणयुख्नं प्राणमयस्थबलं स्वनिकृष्टं  क्वचिदपेक्षितं तथापि तेनानासख्निरावश्यकी। तस्मादेव इन्द्रेण वृषाकपेर्दूरप्रापणम्॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 आगत्य प्रतिगतं वृषाकपिमिन्द्रो ब्रवीति । हे **वृषाकपे** त्वं **पुनरेहि** अस्मान् प्रत्यागच्छ । आगते च त्वयि **सुविता** सुवितानि कल्याणानि त्वच्चित्तप्रीतिकराणि कर्माणि **कल्पयावहै** इन्द्राण्यहं च आवामुभौ पर्यालोच्य कुर्याव । किंच **यः** स्वप्ननंशनः उदयेन सर्वस्य प्राणिनः स्वप्नानां नाशयिता आदित्यः सः **एषः** त्वं **पथा** मार्गेण **अस्तम्** आत्मीयमावासं **पुनः** **एषि** गच्छसि । यतोऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः**। तथा च यास्कः - ‘ सुप्रसूतानि वः कर्माणि कल्पयावहै य एष स्वप्ननंशनः स्वप्नान्नाशयस्यादित्य उदयेन सोऽस्तमेषि पथा पुनः' (निरु. १२.२८) इति ॥
@@ -202,7 +205,6 @@ _________
 
 Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Indra will do when he returns. Says Indra, "O Vr̥ṣākapi ! You, the destroyer of sleep, who are going to the house, come back again, again by (your) way. We would perform the sacrifices. Indra, &c." The verse thus distinctly refers to the recommencement of the sacrifices in the Devayāna or the Uttarāyaṇa as understood in old days. The word suvita is from the same root as vaitānika and kalpyāvahai is from kl̥p, the root which gives us the word kalpa in kalpasūtras. Savita kalpyāvahai thus means “we would perform the vaitānika ceremonies," which, as described in the first verse, were stopped when the sun went down to the neither world I may also here point out that the house in the nether world or, as Sāyaṇa interprets it, the house of the enemy is called asta - literally 'thrown', while Indra's house is called gr̥ha. The sun goes down to the asta and returns up to the gr̥ha of Indra. This verse, in so far as it speaks of the recommencement of sacrificial ceremonies, confirms the interpretation I have proposed for the preceding verse. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -239,10 +241,6 @@ Kehre zurück, Vrisakapi, wir wollen uns gut vertragen, da du, der Schlafvertrei
 
 Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; gehe wieder nach Hause auf dem Wege, der dich zum Schlafe führt. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

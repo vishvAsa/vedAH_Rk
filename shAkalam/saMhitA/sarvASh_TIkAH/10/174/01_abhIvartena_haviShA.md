@@ -3,7 +3,6 @@ title = "001"
 devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अभीवर्तः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 abhīvarténa ← abhīvartá- (nominal stem)  
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। अभीवर्तेन- अभिगमनाख्येन। हविषा। इन्द्रः- ईशनाधिदेवता। अभिवावृते-  त्वामभिगच्छति। तेन। अस्मान्- नः। ब्रह्मणस्पते- मेधाधिदैवत। राष्ट्राय- राष्ट्रक्षेमाय। अभि  वर्तय- अभिगमय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अभीवर्तेनेति पञ्चर्चं त्रयोविंशं सूक्तमाङ्गिरसस्याभीवर्ताख्यस्यार्षमानुष्टुभम्। पूर्ववद्राजस्तुतिर्देवता। तथा चानुक्रान्तम्। अभीवर्तेन पञ्चाभीवर्त इति। पुरोहित इदं सूक्तं राजानं युद्धाय कृतसन्नाहं वाचयीत। सूत्र्यते हि। अथैनं सारयमाणमुपारुह्याभीवर्तं वाचयति। आ. गृ. ३-१२-१२। इति॥अभीवर्तेन अभिगच्छत्यनेनेत्यभीवत्रः। करने घञ्। थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम्। उपसर्गस्य घञ्यमनुष्ये बहुलम्। पा. ६-३-१२२। इति दीर्घः। ईदृशेन येन हविषा साधनेनेन्द्रोऽभिववृते सर्वमभिजगाम तेन हविषेष्टवतोऽस्मान् हे ब्रह्मणस्पते राष्ट्राय राज्यं प्राप्तुमभिवर्तय। अभिगमय॥१॥
@@ -195,8 +198,6 @@ Durch Opfer, welches Sieg verleiht, durch das auch Indra Sieg gewann, Durch das 
 Ею сделай нас, о Брахманаспати,  
 Превосходящими (все) – для господства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

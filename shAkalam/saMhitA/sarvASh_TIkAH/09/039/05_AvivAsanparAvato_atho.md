@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    परावतः- दूरस्थान्। अथो- अनन्तरम्। अर्वावतः- अन्तिकस्थांश्च। आविवासन्- परिचरन्।  सुतः- निष्पन्नः सन्। मधु- रसः। इन्द्राय- ईशनाधिदैवताय। सिच्यते॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुतः** अभिषुतः सोमः **परावतः** । दूरनामैतत् । दूरस्थान् **अथो** अपि च **अर्वावतः** अन्तिकस्थांश्च देवान् **आविवासन्** । रसेन परिचरणायेत्यर्थः । **इन्द्राय** इन्द्रार्थं **मधु** मधुसदृशः सोमः **सिच्यते** ॥
@@ -158,10 +161,6 @@ Er, der Fern und Nah anlockt, wird ausgepreßt als Süßtrank dem Indra eingesch
 
 Ihn lockend aus der Ferne her und aus der Nähe her, ergiesst Der Saft dem Indra süssen Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - इन्द्राणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहम्। सहमाना- अभिभवित्री। अस्मि- भवामि। अथ- अनन्तरम्। त्वम्। सासहिः-  अभिभवित्री। असि- भवसि। उभे। सहस्वती- अभिभवित्र्यौ। भूत्वी- भूत्वा। मे- मम। सपत्नीम्।  सहावहै- अभिभवाव॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ओषधि **अहं** त्वत्प्रसादात् **सहमाना** **अस्मि** सपत्न्या अभिभवित्री भवामि । **अथ** अपि च **त्वम्** अपि **सासहिः** **असि** तस्या अभिभवित्री भवसि । आवाम् **उभे** अपि **सहस्वती** अभिभवित्र्यौ **भूत्वी** भूत्वा **मे** मम **सपत्नीं** **सहावहै** अभिभवाव ॥
@@ -211,8 +214,6 @@ Ich bin es, die den Sieg gewinnt, und du, o Kraut, bist siegreich auch; Wir beid
 Обе будучи победительницами,  
 Победим мы мою соперницу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

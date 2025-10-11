@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गयः प्लातः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। रथयुजम्- गतियोख्नारम्। पुरन्धिम्- पुरुधारणायुख्नम्। पूषणम्- पोषकम्।  वायुम्- प्राणम्। स्तोमैः- मन्त्रैः। प्र कृणुध्वम्- प्रकर्षेण कुर्वन्तु। ते हि- अमी वाय्वश्वाः खलु।  देवस्य सवितुः- आत्मसूर्यस्य। सवीमनि- प्रसवे। सचितः- प्रज्ञायुख्नाः। सचेतसः- सहृदयाः।  क्रतुम्- सत्सङ्कल्पम्। सचन्ते- सङ्गच्छन्ते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतारः वो यूयं वायुं रथयुजं रथस्य योक्तारं पुरन्धिं बहुकर्माणमिन्द्रं पूशणमेतन्नामानं च स्तोमैस्त्रिवृत्पञ्चदशादिलक्षणैः सख्याय सखि कर्मणे प्र कृणुध्वम्। प्रकुरुध्वम्। यथा तेऽस्माकं धनादिप्रदानेन सखायो भवन्ति तथा कुरुत। हि यस्मात्सचितो ज्ञानयुक्तास्ते देवाः सचेतसः परस्परं समानबुद्धयः सन्तः सवितुः सर्वप्रेरकस्य देवस्यादित्यस्य सवीमनि प्रसवेऽह्नि क्रतुं यज्ञं सचन्ते सेवन्ते तस्मात्प्रकुरुध्वम्॥८॥
@@ -260,10 +263,6 @@ Gebet mit euren Lobpreisungen dem wagenschirrenden Vayu, der Purandhi, dem Pusan
 
 Den Wagenschirrer Vaju und Purandhi schafft durch Loblied und zur Freundschaft Puschan euch herbei; An Einsicht und an Weisheit gleich erlangen sie auf Savitars, des Gottes, Antrieb neue Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

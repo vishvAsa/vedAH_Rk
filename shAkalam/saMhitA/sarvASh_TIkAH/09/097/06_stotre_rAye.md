@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "इन्द्रप्रमतिर्वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - इन्द्रप्रमतिर्वासिष्ठ
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -242,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तोत्रे- मन्त्रे सति। राये- दानयोग्यधनाय। हरिः- कान्तः सन्। पुनानः- पूयमानः सन्। अर्ष-  गच्छ। ते- तव। मदः- हर्षः। इन्द्रम्- ईशनाधिदैवतम्। भराय- भरणाय। गच्छतु। देवैः-  देवताभिः साकम्। सरथम्- रंहणशीलाम्। राधः- संसिद्धिम्। अच्छा- अभिलक्ष्य। याहि-  गच्छ॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम हरिर्हरितवर्णः पुनानः पूयमानस्त्वं स्तोत्रे अस्माभिः क्रियमाणेसति राये- धनार्थं अर्ष आगच्छ । ततस्ते त्वदीयोमदोप्रदकारोरसः भराय भृभर्त्सने । भर्त्सयन्ति शत्रू- नत्रयोद्धारइति भरःसङ्ग्रामः । तदर्थमिन्द्रङ्गच्छतु । किञ्च सरथं देवैः समानरथमास्थाय राधः अच्छ अस्माकं धनार्थंयाहि आगच्छ । यूयं नोस्मान् स्वस्तिभिः सदा पात त्वं रक्ष ॥ ६ ॥
@@ -264,7 +267,6 @@ Drive on the same chariot with the gods to bounty. – Do you protect us  always
 <details><summary>Jamison Brereton Notes</summary>
 
 Like the first tṛca, this one ends with the Vasiṣṭha clan refrain. The tṛca is attributed not to Vasiṣṭha himself, but to one Indrapramati Vāsiṣṭha, who is not known from elsewhere.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -298,8 +300,6 @@ Dem Sänger rinne golden, hell zum Reichthum, dem Indra nah dein Rauschtrank zum
 На одной колеснице с богами отправляйся к (почетному) дару!  
 Защищайте вы нас всегда (своими) милостями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

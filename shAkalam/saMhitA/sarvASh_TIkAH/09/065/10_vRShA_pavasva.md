@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः सन्। मत्सरः- तृप्तिकरः सन्। ओजसा- तेजसा। विश्वा- सर्वाणि। दधानः-  धारयन्। मरुत्वते- प्राणेशायेन्द्राय। धारया। पवस्व- क्षर॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **वृषा** स्तोतॄणामभिमतफलस्य वर्षकः सन् **धारया** त्वदीयया **पवस्व** द्रोणकलशमागच्छ । पवतिर्गतिकर्मा । आगतस्त्वं यदास्माभिरिन्द्राय दीयसे तदा **मरुत्वते** सहाया मरुतो यस्य सन्ति तस्मा इन्द्राय **मत्सरः** मदकरः **च** भव। कीदृशः । **विश्वा** विश्वानि सर्वाणि व्याप्तानि वा धनानि **ओजसा** आत्मीयेन बलेन युक्तः सन् स्तोतृभ्यस्तानि **दधानः** प्रयच्छन् । त्वं मादयिता भवेति समन्वयः ॥ ॥ २ ॥
@@ -150,8 +153,6 @@ making all things your own by your strength.
 <details><summary>Jamison Brereton Notes</summary>
 
 The function of the ca in b is unclear. Klein (DGRV I.256-57) discusses three possible explanations - Geldner’s, Renou’s, and one of his own - of which he prefers Renou’s: that marútvate ca conceals an ellipsis “(for the Maruts) and (for Indra) accompanied by the Maruts,” which seems by far the least likely and the most cumbersome. Among other things, the Maruts barely figure in IX (though cf. vs. 20 below), and I also know of no passages containing marútvant- that also contain a free form of marút-. My solution is admittedly makeshift but simpler, that cs conjoins the disharmonious dhā́rayā “in a stream” and marútvate … matsaráḥ “exhilarating drink for Indra.” This is closest to Geldner’s, criticized by Klein as assuming “a harsh conjunction in pādas a and b.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -177,10 +178,6 @@ Du, der Bulle, läutere dich im Strome, und für den Marutherrn berauschend, all
 
 O riesle als ein Stier im Strom, berauschend für den Marutherrn, Erlangend alles durch Gewalt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

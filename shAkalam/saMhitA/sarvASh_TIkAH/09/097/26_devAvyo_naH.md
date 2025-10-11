@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मृळीको वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१०    देवाव्यः- देवतर्पकाः। नः- अस्मदर्थम्। परिषिच्यमानाः- परितः सिच्यमानाः। सोमाः- रसाः।  सुवीरम्- शोभनवीर्यसंपन्नम्। क्षयम्- सदनम्। धन्वन्तु- सरन्तु। सुमतिं आयज्यवः-  शोभनमतिदाः। विश्ववाराः- सर्ववरेण्याः। होतारो न- देवाह्वातार इव। दिवियजः- देवोपासकाः।  मन्द्रतमाः- अतिशयेन तृप्तिकरा भवन्ति॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 देवाव्यः अवतेस्तर्पणार्थस्य अवितृस्तॄतन्त्रिभ्यईरिति ईप्रत्ययः । उदात्तस्वरितयो र्यण- इति जसःस्वरितत्वम् । देवानां तर्पयितारः परिषिच्यमानाः परितः पात्रेषु सिच्यमानाः सोमाः नोस्माकं सुवीरंशोभनपुत्रं क्षयं गृहं धन्वन्तु प्रेरयन्तु । कीदृशाः सुमतिं शोभन- मतिं यजमानं आयज्यवः यष्टुमिच्छवः विश्ववाराः विश्वैर्वरणीयाः होतारोन होतारोयथा देवानिन्द्रादीन् स्तुवन्ति एवं दिवियजः दिवि द्युलोकस्थितानिन्द्रादीन् देवान् यजन्तः । दिव् शब्दे तत्पुरुषेकृतिबहुलमिति सप्तम्याअलुक् । मन्द्रतमाः अत्यन्तम्मदकराः ॥ २६ ॥
@@ -213,8 +216,6 @@ The published translation omits the enclitic naḥ; it should be revised to “P
 The hapax in d, diviyáj-, has (at least) two possible meanings: ‘sacrificing at day(break)’ as I take it, and ‘sacrificing (to the gods) in heaven’ (so Geldner, Renou). See Geldner’s n. and Scarlatta (398-99). There is nothing in the context that tips the balance one way or the other; I prefer the temporal reading because the other one requires more material to be understood. The word also appears in a metrically disturbed pāda; as it stands it has 12 syllables and a cadence (- ⏑ ⏑ ×) that is bad for both Triṣṭubh and Jagatī. Oldenberg suggests the possibility of reading the 1st member of diviyáj- as a monosyllable, either *divyájaḥ or *dyuyájaḥ, which would at least produce an 11-syl.
 
 line, and these possibilities are disc. in more detail by Scarlatta without a firm conclusion.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -250,8 +251,6 @@ Uns mögen männerreiche Habe strömen die ringsergossnen Soma's, Götter labend
 (Они,) создающие жертвой прекрасную мысль, имеющие все желанное,  
 Подобные хотарам, жертвующим на небе, самые веселые!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

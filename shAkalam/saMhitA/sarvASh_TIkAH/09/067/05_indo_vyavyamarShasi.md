@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। सोम- रस। वि- विशेषेण। अव्यम्- प्रतीकम्। श्रवांसि- श्रुतीः। सौभगा-  सौभाग्यानि। गोमतः- ज्ञानवतः। वाजान्- शोभनगतीः। अर्षसि- सरसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अव्यम्** अविवाले भवं पवित्रं **वि** **अर्षसि** विविधं धाराभिर्गच्छसि । किंच **श्रवांसि** हवीरूपाण्यन्नानि च **वि** गच्छसि। तथा **सौभगा** । सुभगस्य भावः सौभगम् । सुभगशब्द उद्गात्रादिषु पठ्यते । तस्योत्तरपदवृद्धिर्नेष्यते । सौभगानि धनानि विविधं प्राप्नोषि। तथा हे **सोम** **गोमतः** पशुमन्ति **वाजान्** बलानि च विविधं प्राप्नुहि। तानि सर्वाण्यस्माकं प्रापयेत्यभिप्रायः ॥ ॥ १३ ॥
@@ -175,7 +178,6 @@ through to prizes consisting of cows, o Soma.
 <details><summary>Jamison Brereton Notes</summary>
 
 The preverb/preposition ví is insistent, with 4 occurrences in the vs. Renou sees the three functions here, but that seems something of a stretch.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -208,8 +210,6 @@ O Indu, du durchströmst das Sieb, gibst rühmenswerthes Gut und Glück, Milchre
 К славе, к благам,  
 К наградам, о сома, состоящая из коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

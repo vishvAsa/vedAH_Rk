@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - प्रस्तारपङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत चित्- अपि च। नः- अस्मान्। रुद्रा- रुद्रमार्गगौ। अश्विना- अश्विनौ प्राणेशौ। मृळताम्-  सुखयताम्। विश्वे देवासः- सर्वे देवाः। रथस्पतिः- शोभनरंहणपालकम्। भगः-  सौभाग्याधिदैवतम्। ऋभुः- उरुभासमानः। वाजः- शोभनगतिमान्। वज गतौ। परिज्मा- परितो  गन्ता। ऋभुक्षणः- महानिन्द्रः। विश्ववेदसः- सर्वज्ञाः।  अस्मान् सुखयन्तु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** **चित्** अपि च **रुद्रा** रुद्रपुत्रौ **अश्विना** अश्विनौ **नः** अस्मान् **मृळतां** सुखयताम् । किंच **रथस्पतिः** रथस्य पतिः पूषा **ऋभुः** **वाजः** अन्नवान् **भगः** च **परिज्मा** परितो गन्ता वायुश्चेति **विश्वे** सर्वे **देवासः** देवाः सुखयन्तु । हे **विश्ववेदसः** विश्ववेदाः सर्वप्रज्ञाः सर्वधना वा हे **ऋभुक्षणः** महान्तो ब्रह्मादयो देवा यूयं सुखयत ॥
@@ -225,10 +228,6 @@ Auch die beiden Asvin, obwohl sie Rudra´s sind, sollen uns barmherzig sein, all
 
 Und auch die beiden glänzenden Açvinen mögen uns gnädig sein, alle Götter, Rathaspati [Beschützer des Streitwagens], Bhaga, Ribhu, Vādscha, o Ribhukschan's, der Umwandler, o allbesitzende.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

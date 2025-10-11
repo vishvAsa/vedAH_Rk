@@ -3,7 +3,6 @@ title = "046"
 devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समदः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। स्कम्भः- स्तम्भः। उद्यतः। मदः- तर्पकः। असर्जि- सृज्यते। त्रिधातुः-  त्रिलोकयुख्नः। भुवनानि- लोकान्। परि अर्षति- परितः गच्छति। यदि- यदा। निर्णिजम्- ते १७    रूपम्। ऋग्मिणः- मन्त्रवन्तः। ययुः- गच्छन्ति तदा। मतयः- मननानि। गिरा- श्रुतिवाण्या।  पनिप्नतम्- शब्दायमानम्। अंशुम्- रसम्। रिहन्ति- आस्वादयन्ति॥४६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिवः** द्युलोकस्य **स्कम्भः** स्कम्भयिता धारकः **उद्यतः** सोमः **असर्जि** सृज्यते । अभिषूयते इत्यर्थः । किंच **त्रिधातुः** । द्रोणकलशाधवनीयपूतभृदाख्यास्त्रयो धातवो यस्य स तथोक्तः । तादृशो **भुवनानि** उदकानि **अर्षति** गच्छति । **अंशुं** सोमं **पनिप्नतं** शब्दायमानं **मतयः** पूजकाः **रिहन्ति** लिहन्ति आस्वादयन्ति । कदा। **यदि** **निर्णिजं** निर्णिक्तम् । यद्वा । निर्णिगिति रूपनाम। रूपवन्तमित्यर्थः । तम् **ऋग्मिणः** स्तोतारः **गिरा** स्तुत्या **ययुः** गच्छन्ति तदा ॥
@@ -262,8 +265,6 @@ Geldner tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based,
 
 The infinitival usages he cites are mostly the dat. nirṇíje (which, in all quoted cases, I take as a noun) and he is uncertain about the usage of this acc. ex. But since the analysis just proposed of yád *ī provides us with an acc. obj., infinitival usage seems best here.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -288,10 +289,6 @@ Er ward ausgegossen, der Pfeiler des Himmels, der emporgehaltene Rauschtrank; er
 
 Ergossen ist als Himmels Stütze jetzt der Trank, dreitheilig strömt der dargereichte durch die Welt; Gebete küssen den bewundernswerthen Saft, wenn zu dem Prächt'gen Sänger eilen mit dem Lied.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

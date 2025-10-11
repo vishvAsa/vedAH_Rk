@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - त्रितः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अनन्तरम्। त्रितस्य- तीर्णतमस्य तिरस्कृताज्ञानस्योपासकस्य। पाष्योः- रसनिष्पादकयोः  स्थैर्यप्रतीकयोः। गुहा- अन्तरे। पदम्- सूक्ष्मं स्थानं चैतन्यमयम्। यज्ञस्य- उपासनस्य। सप्त  धामभिः। उप अभख्न- समभजत॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रितस्य** मम यज्ञे **गुहा** गुहायां हविर्धाने वर्तमानयोः **पाष्योः** पाषाणवद्दृढयोरधिषवणफलकयोः **पदं** स्थानं सोमः **यत्** यदा **उप** **अभक्त** समभजत **अध** अनन्तरं **यज्ञस्य** **धामभिः** धारकैः **सप्त** सप्तभिश्छन्दोभिर्गायत्र्यादिभिः **प्रियं** प्रीणयितारं सोममभिष्टुबन्ति ऋत्विजः । अपि वा । सप्त सर्पणशीलैर्वसतीवर्यादिभिरुदकैः सोममभिषुण्वन्ति ॥
@@ -201,8 +204,6 @@ As for verse-initial úpa, elsewhere in IX it's almost always used with a verb o
 
 This interpr. seems to me to provide a more satisfactory account of the vs. than the other alternative. However, it has one major drawback: the yád clause of b is embedded within the main clause, which occupies pādas a, c (/d). If I follow this interpr., there is no way of avoiding this violation of standard practice, whereas in the Geldner/Renou/Klein interpr. yád gúhā padám is a nominal cl., which is permitted internally. Weighing the two alternatives, I still find myself inclined to my own, though I don’t have an explanation for the problematic embedding. That there appears to be a parenthetic inserted clause in the next vs. may indicate that this hymn is somewhat more lax about the combination of syntactic units than we usually meet with.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -235,8 +236,6 @@ Bei Trita's Steinen nahm er ein den Ort, der im Verborgnen ist, Durch sieben Opf
 Вместе с семью формами жертвоприношения и (своим) любимым (местом).
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -247,7 +246,7 @@ Bei Trita's Steinen nahm er ein den Ort, der im Verborgnen ist, Durch sieben Opf
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पाष्योः) प्रकृति और पुरुषरूपी जो दृढ़ अधिकरण हैं, उन के आधार पर (त्रितस्य) तीनों गुणों के (पदं) पद को (उपाभक्त) सेवन किया (यत्) जो पद (गुहा) प्रकृतिरूपी गुहा में (यज्ञस्य) परमात्मा के सम्बन्ध से (सप्तधामभिः) महत्तत्त्वादि सातों प्रकृतियों द्वारा (अध, प्रियं) अत्यन्त प्रियता को धारण करता है॥२॥
+पदार्थान्वयभाषाः -  (पाष्योः) प्रकृति और पुरुषरूपी जो दृढ़ अधिकरण हैं, उन के आधार पर (त्रितस्य) तीनों गुणों के (पदं) पद को (उपाभक्त) सेवन किया (यत्) जो पद (गुहा) प्रकृतिरूपी गुहा में (यज्ञस्य) परमात्मा के सम्बन्ध से (सप्तधामभिः) महत्तत्त्वादि सातों प्रकृतियों द्वारा (अध, प्रियं) अत्यन्त प्रियता को धारण करता है॥२॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

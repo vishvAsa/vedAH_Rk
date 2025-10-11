@@ -3,7 +3,6 @@ title = "003"
 devataa = "श्रद्धा"
 RShiH = "श्रद्धा कामायनी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - श्रद्धा कामायनी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ásureṣu ← ásura- (nominal stem)  
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। देवाः- देवताः। उग्रेषु- उद्गूर्णासु। असुरेषु- प्राणदशख्निषु। श्रद्धाम्। चक्रिरे- कृतवन्तः।  एवम्- तथा। भोजेषु- रसनिष्पादकेषु। यज्वसु- यजमानेषु। श्रद्धां कुरु। अस्माकम्- नः।  उदितम्- उख्नं प्रियम्। कृधि- कुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवाः** इन्द्रादयः असुरेषु उद्गूर्णबलेषु **यथा** **श्रद्धां** **चक्रिरे** अवश्यमिमे हन्तव्या इत्यादरातिशयं कृतवन्तः **एवं** श्रद्धावत्सु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** यष्टृषु **अस्माकम्** अस्मत्संबन्धिषु तेषु **उदितं** तैरुक्तं प्रार्थितं फलजातं कृधि कुरु ॥
@@ -215,8 +218,6 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 Так среди дружелюбных жертвователей  
 Сделай (приятным) это сказанное нами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

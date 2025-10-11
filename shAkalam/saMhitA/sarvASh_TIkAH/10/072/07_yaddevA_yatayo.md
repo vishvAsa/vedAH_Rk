@@ -3,7 +3,6 @@ title = "007"
 devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 devāḥ ← devá- (nominal stem)  
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। देवाः- द्योतनशख्नयः। यतयो यथा- नियमिता यथा। भुवनानि- लोकान्। अपिन्वत-  पूरितवन्तः। अत्र। समुद्रे- द्योतनशख्निसमूहाख्यसमुद्रे निबिडे। आ गूळ्हम्- निहितम्। सूर्यम्।  अजभर्तन- आहृतवन्तः। प्रकटितवन्त इति भावः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा हे **देवाः** **यतयो** **यथा** । वृष्ट्या नियमयन्तीति वा वर्षणेन यातयन्तीति वा यतयो मेघाः । ते यथोदकैः **भुवनानि** लोकं पूरयन्ति तद्वत्स्वतेजोभिः **अपिन्वत** पूरितवन्तः । **अत्र** समुद्रे अप्सु **आ** **गूळ्हं** **निगूळ्हं** **सूर्यं** प्रातरुदयाय **आ** **अजभर्तन** आहृतवन्तः ॥
@@ -210,8 +213,6 @@ Als dann wie starke Herrscher ihr, o Götter, schwellen liesst die Welt, Da hobt
 То спрятанное в море  
 Солнце вы извлекли наружу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

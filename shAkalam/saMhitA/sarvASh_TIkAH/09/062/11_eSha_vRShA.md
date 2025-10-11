@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः- अयम्। वृषा- वर्षकः। वृषव्रतः- वृष्टिनियतिसंपन्नः। अशस्तिहा- रक्षोघ्नः। पवमानः-  पुनानो रसः। दाशुषे- दात्रे। वसूनि- संपदः। करत्- करोति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषा** कामानां सेक्ता **वृषव्रतः** वृषकर्मा **अशस्तिहा** राक्षसानां हन्ता **पवमानः** **एषः** सोमः **दाशुषे** हविषां दात्रे यजमानाय **वसूनि** धनानि **करत्** करोति । प्रयच्छतीत्यर्थः ॥
@@ -159,7 +162,6 @@ will provide goods for the pious.
 <details><summary>Jamison Brereton Notes</summary>
 
 The nom. pávamānaḥ in b is helpful in identifying the referent as Soma, in that both vṛ́ṣā ‘bull’ (and related vṛ́ṣa-vrataḥ) and aśastihā́could be (and are) just as well used of Indra.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -186,10 +188,6 @@ Dieser Bulle von bullenhaftem Wirken, der Pavamana, der die hämischen Reden nie
 Der Stier, der Stieres Werke thut, der flammende, der Flucher tilgt, Verschaffe dem Verehrer Gut.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -205,7 +203,7 @@ Der Stier, der Stieres Werke thut, der flammende, der Flucher tilgt, Verschaffe 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  उक्तगुणसम्पन्न सेनापति सब प्रकार के ऐश्वर्य उत्पन्न करके प्रजा में सुख बढ़ाता है॥११॥
+भावार्थभाषाः -  उक्तगुणसम्पन्न सेनापति सब प्रकार के ऐश्वर्य उत्पन्न करके प्रजा में सुख बढ़ाता है॥११॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

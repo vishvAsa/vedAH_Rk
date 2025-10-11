@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। गोवित्- ज्ञानयुख्नः सन्। अश्ववित्- प्राणयुख्नः सन्। सोम- रस। अन्धसा-  अन्नात्मना। नः- अस्मान्। मक्षूतमेभिः- शीघ्रशीलैः। अहभिः- अहोभिः। पवस्व- क्षर॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **सोम** **नः** अस्माकं **गोवित्** गोप्रदः **अश्ववित्** अश्वप्रदश्च त्वं **मक्षूतमेभिः** मक्षुतमैरतिशयेन शीघ्रैः **अहभिः** अहोभिर्हेतुभिः **अन्धसा** अन्नेन **पवस्व** धारया क्षर ॥
@@ -177,10 +180,6 @@ Und läutere dich, o Soma, mit deinem Tranke für uns als Rinderfinder, Rossefin
 
 Und riesle hell durch deinen Saft, o Soma, spendend Ross und Rind In allernächsten Tagen uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

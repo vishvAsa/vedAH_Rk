@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रत्नम्- पुरातनम्। पयः- सारं ज्ञानम्। दुहानः- उत्पादयन् प्रकटयन्। पवित्रे- शुद्धे प्रतीके पात्रे  वा। परि- परितः। सिच्यते। क्रन्दन्- शब्दयन्। देवान्- द्योतनशख्नीः। अजीजनत्-  प्रकटयामास॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रत्नमित्** पुराणमेव **पयः** रस **दुहानः** दधानः सोमः **पवित्रे** **परि** **षिच्यते** । किंच **क्रन्दन्** शब्दं कुर्वन् **देवानजीजनत्** जनयति स्वसमीपे । यत्र सोमोऽभिषूयते तत्र देवा नियतं प्रादुर्भवन्ति । अतो जनयतीत्युपचर्यते ॥
@@ -182,10 +185,6 @@ Seine altgewohnte Milch hergebend wird er auf die Seihe gegossen; brüllend hat 
 
 Ausströmend stets den alten Trank rinnt wiehernd durch die Seihe er, Die Götter hat er neu belebt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनेन। ओजसा- तेजसा। निजघ्निः- शत्रुहननशीलः। रथसङ्गे- ़वृत्रनिहितचित्किरणमुद्दिश्य  रंहणसमये। धने हिते- वृत्रैर्निहिते चित्किरणे। अबिभ्युषा- अभीतेन। हृदा- हृदयेन। स्तवै-  स्तौमि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वम् **अया** अनेन कृतेन **ओजसा** बलेन **निजघ्निः** शत्रून् हन्तुं शीलवान् । तं त्वाम् **अबिभ्युषा** अभीतेन **हृदा** मनसा युक्तोऽहं **रथसङ्गे** अस्माकं रथानां सङ्गे **हिते** शत्रुषु निहिते **धने** च निमित्ते **स्तवै** स्तौमि ॥
@@ -191,10 +194,6 @@ Mit diesem Liede will ich mit Kraft zuschlagend im Wagenkampf bei ausgesetztem P
 
 So sing' ich nun mit muth'gem Sinn, den Feind erschlagend mit Gewalt, Im Wagenkampf, wenn Preis uns winkt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "कृतयशाः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - कृतयशाः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुदक्षः- शोभनसामर्थ्ययुख्नः सन्। आ वच्यस्व- आगच्छ। चम्वोः- द्यावापृथिव्योः। सुतः-  निष्पन्नः सन्। विशाम्- जनानाम्। वह्निः- निर्वाहको राजेव। विश्पतिः- जनपालकोसि। दिवः-  चिदाकाशात्। वृष्टिम्- अमृतवृष्टिम्। पवस्व- क्षर। अपाम्- जीवोदकानाम्। रीतिम्- मार्गम्।  जिन्व- पूरय। गविष्टये- जिज्ञासवे। धियः- धारणाः प्रयच्छ॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सुदक्ष** सुवल सोम **चम्वोः** अधिषवणफलकयोः **सुतः** अभिषुतः विशां प्रजानां **वह्निर्न** वोढा **विश्पतिः** राजेव सर्वासां प्रजानां वोढा त्वम् **आ** **वच्यस्व** आगच्छ। कलशमापवस्व । वचेर्गत्यर्थस्य व्यत्ययेन श्यनि रूपम्। किंच त्वं **वृष्टिं** वृष्यमाणाम् **अपाम्** उदकानां **रीतिं** गतिं **दिवः** द्युलोकात् **पवस्व** कुरु। ततः **गविष्टये** गामात्मन इच्छते यजमानाय **धियः** कर्माणि **जिन्व** आपूरयः ॥ ॥ १८ ॥
@@ -239,7 +242,6 @@ Quicken our insights for the quest for cattle.
 On this usage of ā́√vañc see comm. ad IX.2.2. This same phrase ā́ vacyasva (…) camvòḥ is found in IX.97.2.
 
 I take viśā́m … viśpátiḥ to be a syntagm like gaṇā́nām … gaṇápatim “trooplord of troops” (II.23.1), with the simile váhnir ná interposed. The expression in II.23.1 also has an interposed word, though just a Wackernagel enclitic tvā. Geldner takes the viś- words as part of the simile, “wie ein zu Wagen fahrender Clanfürst” (and folds the gen. pl. viśā́m into its headnoun). He suggests an alternative (n. 10b) closer to mine, though again with the gen. elided: “wie ein Wagenross, du der Clanfürst.” And, with the aid of parentheses, Renou gets three separate NPs out of it: “tel un chef de clan, (maître) des clans, conducteur (du char).” The syntagms vṛṣṭím diváḥ … rītím apā́m exactly replicate the problematic compds vṛṣṭí-dyāvo rīty-ā̀paḥ in nearby IX.106.8. See comm. there. Whether there is any direct functional relationship between the cmpds and the syntagms, the two sequences must be considered together.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -273,8 +275,6 @@ Vom Bretterpaar gepresst, o starker, quill hervor, der Stämme Herr, wie auf der
 Очищаясь, дай дождь с неба, течение вод!  
 Оживи поэтические мысли для поиска коров!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 dívam ← dyú- ~ div- (nominal stem)  
@@ -188,12 +186,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पृथिवीम्- भूमिम्। दिवम्- नभः। अनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्** **मनः** **दिवं** **जगाम** **यत्** च **पृथिवीं** **दूरकम्** । दूरकमिति क्रियाविशेषणम् । **तत्** **इह** निवासाय जीवनाय चावर्तयामः ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -224,8 +225,6 @@ Dein Geist, der zu dem Himmel und zur Erde in die Ferne ging, Der werde von uns 
 Мы его возвращаем тебе,  
 Чтоб он здесь пребывал (и) жил.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

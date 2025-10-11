@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदि- यदा। धियः- धीभिः। मर्मृज्यते- संस्क्रियते तदा। स्वयं कविः- स्वतः सिद्धः क्रान्तदर्शी  सोमो रसः। विधर्तरि- धर्मे। विप्राय- मेधाविने। रत्नम्- संपदम्। इच्छति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यदि** **कविः** क्रान्तकर्मा अयं सोमः **धियः** धीभिः। विभक्तिव्यत्ययः। धीतिभिः । अङ्गुलीभिरित्यर्थः । **मर्मृज्यते** शोध्यते तर्हि **स्वयं** स्वयमेव **विप्राय** मेधाविने **विधर्तरि** कामानां विधातरीन्द्रे **रत्नं** रमणीयं धनम् **इच्छति** । इन्द्रेण धनं दापयितुमिच्छतीत्यर्थः ॥
@@ -180,10 +183,6 @@ Selbst wünscht der Seher dem Beredten die Belohnung auszuteilen, wenn er die Ge
 
 Er selbst, der weise, wünschet dann dem Sänger Schätze zu verleihn, Wenn dieser ihm Gebete schmückt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

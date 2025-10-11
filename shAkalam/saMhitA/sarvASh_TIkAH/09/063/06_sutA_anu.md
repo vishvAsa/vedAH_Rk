@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुताः- निष्पन्नाः। बभ्रवः- सोमाः। स्वं रजः- स्वधारणाम्। अनु। आ- मर्यादया। अभ्यर्षन्ति-  अभिगच्छन्ति। इन्दवः- क्लेदनशीला रसाः। इन्द्रम्- परमेश्वरम्। गच्छन्ति- सरन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **बभ्रवः** बभ्रुवर्णाः **सुताः** अभिषुताः **इन्दवः** सोमाः **इन्द्रम्** **आ** **गच्छन्तः** आभिमुख्येन प्राप्नुवन्तः **स्वं** स्वकीयं **रजः** स्थानम् **अनु** प्रति **अभ्यर्षन्ति** अभिगच्छन्ति ॥
@@ -195,10 +198,6 @@ Ausgepreßt rinnen die Braunen ihre eigene Strecke entlang, die Säfte, zu Indra
 
 Die rothen Indu's ausgepresst, ergiessen durch den eignen Raum Der Luft zu Indra eilend sich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 nā́rī ← nā́rī- (nominal stem)  
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरा- पुरातनकालतः। नारी- स्त्री। संहोत्रम्- आर्त्विज्यम्। समनं वा- सङ्ग्रामं वा। अव गच्छति-  गच्छति। ऋतस्य- प्रकृतिनियत्याः। वेधाः- विधात्री इयं नारी। विधात्री मेधाविनी वा। वीरिणी-  वीर्यसम्पन्ना। इन्द्रपत्नी- इन्द्राणी। महीयते- प्रशंस्यते॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नारी** स्त्री **ऋतस्य** सत्यस्य **वेधाः** विधात्री **वीरिणी** पुत्रवती **इन्द्रपत्नी** इन्द्रस्य भार्येन्द्राणी **संहोत्रं** स्म समीचीनं यज्ञं खलु **समनं** संग्रामं **वा**। समितिः समनम्' इति संग्रामनामसु पाठात् । **अव** प्रति **पुरा** **गच्छति** । **महीयते** स्तोतृभिः स्तूयते च । तस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ २ ॥
@@ -234,10 +237,6 @@ Früher zog die Herrin zu gemeinsamem Opfer oder zum Kampf aus. Da ward sie als 
 
 Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen; eine Ordnerin des heiligen Werkes ist die dem Helden vermählte; des Indra Gattin erweist sich mächtig.« Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

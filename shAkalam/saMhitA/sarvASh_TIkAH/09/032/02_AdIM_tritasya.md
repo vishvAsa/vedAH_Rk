@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आत्- अनन्तरम्। ईम्- एनम्। हरिम्- आकर्षकम्। इन्दुम्- रसम्। इन्द्राय पीतये-  इन्द्रस्यानुभूतये। त्रितस्य- तीर्णतमस्य तिरस्कृताज्ञानस्य। योषणः- जीवोदकानि। अद्रिभिः-  जडप्रतीकग्रावभिः। हिन्वन्ति- प्रेरयन्ति। जडतो मथिता निष्कासिताश्चैतन्यरसा इति भावः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आत्** अपि च **ईम्** एनं **हरिं** हरितवर्णं सोमं **त्रितस्य** ऋषेः **योषणः** अङ्गुलयः **अद्रिभिः** ग्रावभिः **हिन्वन्ति** प्रेरयन्ति । किमर्थम् । **इन्दुं** दीप्तं सोमम् **इन्द्राय** इन्द्रस्य **पीतये** पानाय ॥
@@ -157,8 +160,6 @@ the drop for Indra to drink.
 <details><summary>Jamison Brereton Notes</summary>
 
 On Trita as the archetypal soma-presser and his “maidens” (yóṣanaḥ) as the fingers, see disc. ad IX.37.4.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -191,8 +192,6 @@ Des Trita Jungfraun senden jetzt durch das Gestein das goldne Ross, Zum Trunk de
 Поторапливают камнями золотистого –  
 Сок (сомы) Индре для питья.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

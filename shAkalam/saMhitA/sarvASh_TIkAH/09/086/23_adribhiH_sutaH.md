@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रिभिः- ग्रावभिः तत्प्रतीकस्थैर्येण। सुतः- निष्पन्नः। पवित्रे- भाजने प्रतीके। आ- आभिमुख्येन।  पवसे- क्षरसि। इन्दो- क्लेदनशील रस। इन्द्रस्य- परमेश्वरस्य। जठरेषु- हृदि। आविशन्- ९    प्रविशन्। हूयमानः- अस्माभिराहूतः। त्वम्। नृचक्षाः- उपासकस्य चक्षुः। विचक्षणः- सूक्ष्मदर्शी।  अभवः- बभूविथ। सोम- रस। अङ्गिरोभ्यः- अङ्गनशीलेभ्य उपासकेभ्यः। गोत्रम्- पर्वतं  जडोपलक्षितम्। अप अवृणोः॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतस्त्वं **पवसे** क्षरसि पूयसे वा। **पवित्र** **आ** दशापवित्रे । आ इति पूरणः । यद्वा । अभिषुतो भवसि पवसे चेति चार्थं आकारः । किं कुर्वन् । **इन्द्रस्य** **जठरेषु** जठरप्रदेशेषु **आविशन्** । जठरप्रवेशायेत्यर्थः । किंच हे **विचक्षण** विद्रष्टः सोम **त्वं** **नृचक्षा** **अभवः** नृणां मनुष्याणामनुग्रहेण द्रष्टा भवसि । किंच हे **सोम** त्वम् **अङ्गिरोभ्यः** **गोत्रं** मेघमुदकं क्षारयितुं पणिभिरपहृतानां गवामावरकं पर्वतं वा **अप** **अवृणोः** ॥
@@ -252,8 +255,6 @@ You have become one whose gaze is on men, wide-gazing one. Soma,  you opened up 
 The augmented impf. abhavaḥ is somewhat surprising in this context, because, at least in the published translation, it seems to refer to the recent past, rather than to the mythic past of the following (a)vṛṇoḥ. Perhaps, however, it opens the telling of the Vala myth continued in d (and possibly 24ab; see below).
 
 The augment in (a)vṛṇoḥ is quite insecure: the Pp restores it, but it is not found in the Saṃhitā text and is metrically de trop.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -285,10 +286,6 @@ Mit den Steinen ausgepreßt läuterst du dich in der Seihe, o Saft, in Indra´s 
 
 Gepresst von Steinen rieselst du zur Seihe hin, um einzugehn, o Indu, in des Indra Bauch, Der Männer Leuchte wurdest weithinschauend du, den Angirasen schlossest du den Kuhstall auf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

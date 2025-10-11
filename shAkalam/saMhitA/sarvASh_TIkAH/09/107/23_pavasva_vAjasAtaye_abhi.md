@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजसातये- संपल्लब्धये। विश्वानि काव्या- सर्वाणि दर्शनानि। अभि- अभितः। पवस्व- क्षर।  त्वम्। समुद्रम्- हृत्समुद्रम्। प्रथमः- मुख्यः सन्। मत्सरः- आनन्दकरः सन्। देवेभ्यः-  द्योतनशख्निभ्यः। वि- विशेषेण। धारयः- धृतवानसि॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **विश्वानि** सर्वाणि **काव्या** कविकर्माणि स्तोत्राण्यभिलक्ष्य **वाजसातये** अन्नलाभाय **पवस्व** क्षर । हे **सोम** **देवेभ्यः** देवानां **मत्सरः** मदकरः **प्रथमः** सर्वदेवानां मुख्यः **त्वं** **समुद्रम्** अन्तरिक्षं कलशं वा **वि** **धारयः** विशेषेण धारयसि ॥
@@ -197,8 +200,6 @@ Soma, you, the exhilarating one, were [/are] the first to spread out the  sea fo
 <details><summary>Jamison Brereton Notes</summary>
 
 The injunc. ví dhārayaḥ in c, in conjunction with prathamáḥ, invites a dual reading, both cosmogonic in the past and the ritual present. Hoffmann doesn’t cite this passage.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
@@ -232,8 +233,6 @@ Zur Krafterlangung riesle du uns alle Sehergaben zu; Du Soma hast zuerst das Mee
 Ты первым простер океан  
 Для богов, о сома опьяняющий.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

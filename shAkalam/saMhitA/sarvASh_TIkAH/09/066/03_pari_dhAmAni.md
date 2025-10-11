@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कवे- क्रान्तदर्शिन्। पवमान- पूयमान। सोम- रस। ऋतुभिः- यथाकालम्। यानि। ते- तव।  धामानि- स्थानानि। तानि। त्वम्। विश्वतः- सर्वतः। परि असि- परिभूरसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** यस्मात् **ते** त्वदीयानि **धामानि** त्वदधीना अहोरात्ररूपाः कालविशेषाः **परि** भवन्ति सर्वत्र व्याप्तास्तिष्ठन्ति । यद्वा त्वदीयानि धामानि तेजांसि परि वर्तन्ते अत एव हे **पवमान** पूयमान हे **कवे** क्रान्तकर्मन हे सोम त्वम् **ऋतुभिः** वसन्तादिकालविशेषैः सह **विश्वतः** सर्वतः **असि** भवसि । अहोरात्रौ यत्र यत्र व्याप्तौ तत्र तत्र वसन्तादिकालोपाधिकः सोमस्तिष्ठति । तयोस्तधीनत्वादित्यर्थः ॥
@@ -177,7 +180,6 @@ My interpr. of the du. dhā́manī in 2 as the two cosmic domains allows the con
 
 The main verb of this clause is pári … asi, in the formula viśvátaḥ pári √as ‘surround entirely’ (on which see my 1998 “Rigvedic viśvátaḥ sīm, Or, Why Syntax Needs Poetics,” Fs. Watkins). Within this phrase we seem to have an embedded rel. cl. yā́ni te “which are yours,” dependent on the obj. dhā́māni, and embedded relatives are generally blocked in the RV. But as we have noted elsewhere (see, e.g., comm. ad VI.21.2, 22.5), nominal rel. clauses are an exception to this rule, and here the yā́ni seems to be displaying (proto-)izafe behavior.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -204,10 +206,6 @@ Die Formen, die dir eigen, die umschließest du vollständig zu den rechten Zeit
 
 Um alle Stätten, die du hast, o Soma, bist du überall, O Seher, hell zur Opferzeit.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

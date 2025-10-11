@@ -3,7 +3,6 @@ title = "019"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः। सोमराज्ञीः- सोमदेवप्रजाः। ओषधीः- ओषधयः। पृथिवीम्- भूमौ। अनु विष्ठिताः- परितः  स्थिताः। बृहस्पतिप्रसूताः- मेधया मन्त्रेण प्रजाताः। अस्यै- एतस्यै व्याधितायै नार्यै। वीर्यं-  बलम्। सं दत्त- सन्धत्त। नारीणां विशेषरोगा अपि नष्टा भवन्तु॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **या** **ओषधीः** ओषधयः **सोमराज्ञीः** **पृथिवीमनु** **विष्ठिताः** विविधं स्थिताः दिवः सकाशादागत्य पृथिव्यां नानाभेदेन स्थिताः **बृहस्पतिप्रसूताः** बृहस्पतिनानुज्ञाताः सत्यो यूयम् **अस्यै** रुग्णतन्वे **वीर्यं** **सं** दत्त संधत्त ॥
@@ -211,8 +214,6 @@ Ihr Kräuter in des Soma Reich, verbreitet auf der Erde Grund, Legt auf Brihaspa
 Воодушевленные Брихаспати,  
 Все вместе дайте ему силу!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

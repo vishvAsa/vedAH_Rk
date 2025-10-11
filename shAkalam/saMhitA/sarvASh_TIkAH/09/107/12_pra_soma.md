@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। देववीतये- दिव्यानुभूतये। अर्णसा- जलेन। सिन्धुर्न- समुद्र इव। प्र पिप्ये- प्रप्यायसे  पूरितोसि। अंशोः- लताखण्डस्य। पयसा- रसः। न- इव। मधुश्चुतम्- मधुस्रावकम्। कोशम्-  प्रतीकम्। अच्छा- अभिलक्ष्य। मदिरः- हर्षकरः। जागृविः- जागरूकः सन् सरसि॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **देववीतये** देवानां पानाय तदर्थम् **अर्णसा** वसतीवर्याख्येनोदकेन **प्र** **पिप्ये** प्रप्यायसे । तत्र दृष्टान्तः । **सिन्धुर्न** । यथा सिन्धुरुदकेन प्रपिप्ये प्रप्यायते तद्वत् । प्यायतेर्लिटि ‘ लिड्यङोश्च ' इति पीभावः । ततः स त्वं **मदिरो** **न** मदकरः सुरादिरिव **जागृविः** जागरणशीलः। यद्वा । नः संप्रत्यर्थे । इदानीं मदकरो जागरणशीलस्त्वम्। **अंशोः** लताखण्डस्य **पयसा** रसेन **मधुश्चुतं** मधुररसस्य क्षारयितारं **कोशं** द्रोणकलशम् **अच्छ** अभिगच्छसि ॥
@@ -219,7 +222,6 @@ Geldner and Renou make heavier weather of the 2nd hemistich than I think nec. or
 Now, as to their transitive jā́gṛvi-. To be fair, it is not only the instr. phrase at the beginning of the pāda but also the apparent ineptness of the simile madiró ná jā́gṛviḥ that lead them to their baroque interpr. The problem with the simile is that it seems to be a straight description of Soma, not a simile: the apparent meaning “wakeful like an exhilarating drink” or “like a wakeful exhilarating drink” is a fine literal (or as literal as we get in the RV) characterization of soma. Both madirá- and jā́gṛvi- regularly modify Soma, the latter even in vs. 6 in this same hymn. As Geldner says (n. 12c), “ná als Vergleichswort macht Schwierigkeit.” And so both scholars search for ways to make this a real simile, which requires both words to be given senses they don’t ordinarily have. They take madirá- as referring to alcohol or some inebriating drink other than soma - even though it is never so used in the RV. And then, though jā́gṛvi- only means ‘wakeful’ in the RV as far as I can tell, including in vs. 6, they take it as expressing the effect that this other drink has on its drinkers: making wakeful, invigorating. And this all adds up to “Avec le lait de ta tige, toi (qui rends l’homme) vif comme (fait l’alcool) enivrant …” / “Mit der Milch des Stengels munter (machend) wie der berauschende (Branntwein) …” Although I realize that the simile is awkwardly comparing soma with a standard description of itself, the cure suggested by Geldner/Renou seems worse than the disease. I have several, not particularly satisfying suggestions for why we get a simile here. It may be that it is part of a simile chain: soma compared to a river, which in turn is compared to soma.
 
 See VII.103.7ab (the frog hymn), where the frogs are compared to brahmins, who are in turn compared to frogs. Or else the animatized Soma the god is compared to soma the drink. But in any case, I prefer to accept the simile at face value, however clumsy, rather than erecting a fantastic superstructure by reinterpretating standard somic descriptors.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
@@ -253,8 +255,6 @@ Gleich wie das Meer von Wogenflut schwoll Soma an zum Göttermahl, Wie mit des K
 Молоком стебля бодрящий, как хмельное (питье),  
 (Ты течешь) в сосуд, сочащийся медом.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

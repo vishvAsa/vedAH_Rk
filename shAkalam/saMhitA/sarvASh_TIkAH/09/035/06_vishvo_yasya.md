@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धर्मणस्पतेः- धर्मपालकस्य। पुनानस्य- पवमानस्य। प्रभूवसोः- वासुदेवस्य। यस्य- अस्य  सोमस्य। व्रते- नियतौ। विश्वो जनः- सर्वे उपासकाः। दाधार- स्वात्मानं धृतवन्तः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वः** सर्वः **जनः** मनुष्यो यजमानः **यस्य** सोमस्य **व्रते** कर्मणि **दाधार** धारयति मन इति शेषः । कीदृशस्य । **धर्मणः** कर्मणः **पतेः** पालकस्य **पुनानस्य** पूयमानस्य **प्रभूवसोः** प्रभूतधनस्य ॥ ॥ २५ ॥
@@ -173,10 +176,6 @@ An dessen Vorschrift sich jedermann hält, des Herrn des Gesetzes, des sich läu
 
 Auf dessen Werk sich jeder Mann fest stützet, des Gesetzesherrn, Des güterreichen, flammenden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

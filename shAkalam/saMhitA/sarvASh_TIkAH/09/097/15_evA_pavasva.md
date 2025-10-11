@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "उपमन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - उपमन्युर्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदिरः- तर्पकः। मदाय- तृप्त्यै। एव- एवम्। पवस्व- क्षर। उदग्राभस्य- उदकग्रहं जडोपलक्षितं  मेघम्। वधस्नैः- हननसाधनैरायुधैः। नमयन्- सन्नमयन्। रुशन्तम्- ज्वलन्तम्। वर्णम्। परि-  परितः। भरमाणः। गव्युः- चिद्रश्मिकामः सन्। सोम- रस। सिख्नः- सिच्यमानः सन्। परि अर्ष-  सर॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम मदिरोमदकरस्त्वं उदग्राभस्य क्रियाग्रहणङ्कर्तव्यमिति कर्मणः सम्प्रदानसञ्ज्ञा चतु र्थ्यर्थेबहुलमितिषष्ठी । उदग्राभं उदकग्राहिणम्मेघं वधस्नैः हननसाधनैरायुधैः नमयन् वृष्ट्य- र्थम्प्रह्वीकुर्वन् मदाय मदार्थमेव पवस्व एवं पात्रेषुक्षर । किञ्च रुशन्तं आरोचमानं श्वेतं वर्णं परिभरमाणः परितोबिभ्रत् सिक्तः पवित्रेसिच्यमानस्त्वं गव्युः नोस्माकं गाइच्छन् पर्यर्ष परिगच्छ ॥ १५ ॥
@@ -231,7 +234,6 @@ The identity of the ‘water-grabber’ (uda-grābhá-) is unclear. The best sug
 His solution also does not mesh with passages like I.165.6 víśvasya śátror ánamam vadhasnaíḥ “I bowed with my weapons (those) of every rival,” which has the exact syntactic configuration of our passage.
 
 The expression in pāda c, “encompassing the glistening color,” presumably refers to Soma’s incorporating the gleaming white milk - rendered clearly, if nonliterally, by Geldner’s “weisse Farbe annehmend.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -267,8 +269,6 @@ So riesle flammend denn zur Lust berauschend, den Dieb der Flut mit Keulen niede
 Приобретая светлую окраску.  
 Теки для нас, стремясь к коровам, о сома, когда тебя перелили.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

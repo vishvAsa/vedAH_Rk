@@ -3,7 +3,6 @@ title = "042"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इष्टये- अस्मदिच्छापूर्त्यै। राधसे- संसिद्ध्यै। वायुम्- प्राणम्। मत्सि- आनन्दय। पूयमानः-  पुनानः। मित्रावरुणा- स्नेहाधिदैवतमृताधिदैवतम्। मत्सि- आनन्दय। मारुतं शर्धः- मरुद्गणं  प्राणसमूहम्। मत्सि- आनन्दय। देवान्- अन्या द्योतनशख्नीः। मत्सि। सोम- रसाधिदैवत। देव-  द्योतनशील। द्यावापृथिवी- द्यावापृथिव्यौ। मत्सि- आनन्दय॥४२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं वायुं मत्सि मादय । किमर्थं अस्माकमेषणाय अन्नाय राधसे धनाय च । तथा पूयमानः पवित्रेण त्वं मित्रावरुणा च मत्सि तर्पयसि । किञ्च मारुतं मरुतां स्वभूतं रार्धोबलं च मत्सि । तथा देवानिन्द्रादीन् मत्सि हर्षयसि । हेदेव स्तोतव्य हेसोम द्यावापृथिवी द्यावापृथिव्यौ च मत्सि मादय एतान् हर्षयुक्तान् कृत्वास्मभ्यन्धनं प्रयच्छेत्यर्थः ॥ ४२ ॥
@@ -225,7 +228,6 @@ Exhilarate the Marutian troop; exhilarate the gods; exhilarate Heaven  and Earth
 <details><summary>Jamison Brereton Notes</summary>
 
 The infinitival dat. iṣṭáye is generally taken to mean “to hasten, for hastening” here (Geldner “dass er rasch komme”; Renou “afin qu’il se hâte”; Klein GDGRV I.68 “for hastening”; and cf. EWA s.v. EṢ 2 citing Geldner’s tr. for just this passage). But I am puzzled as to which root √iṣ the sense ‘hasten’ is supposed to belong to: we have √iṣ ‘seek, desire’ and √iṣ ‘send, set in motion’. It is to the latter that EWA refers this form (and I assume that the others would also connect the two), but either there has to be a de-valencing of the root (from ‘set in motion’ to ‘be in motion’ - but there are no forms to this root with intrans. value) or the form has to be covertly passive (‘to be set in motion’, hence ‘to move’). I think it belongs rather to √iṣ ‘seek, desire’ and means ‘for seeking, for the quest’. In my view all 20 exx. of iṣṭáye can be united under this rubric. See also comm. ad I.112.1 and VII.92.3. In this particular case Vāyu’s quest is for soma, and upon having received it, he benefits us. So the double dative iṣṭáye rā́dhase ca is a bit of a zeugma, in that these beneficial datives are for the benefit of different parties, though the satisfaction of the second depends on the success of the first.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
@@ -259,8 +261,6 @@ Berausch den Vaju, dass er helf' und schenke berausch, entflammter, Varuna und M
 Опьяняй толпу Марутову, опьяняй богов,  
 Опьяняй Небо-и-Землю, о бог сома!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

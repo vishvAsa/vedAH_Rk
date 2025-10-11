@@ -3,7 +3,6 @@ title = "006"
 devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - देवमुनिरैरम्मदः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ā́ñjanagandhim ← ā́ñjanagandhi- (nominal stem)  
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आञ्जनगन्धिम्- नानाधातुगन्धोपेताम्। सुरभिम्- वीरुत्तृणादिसौरभ्यसमन्विताम्।  बह्वन्नामकृषीवलाम्- पाकरहितैस्तापसभोज्यान्नैः फलमूलादिकैः प्रभूताम्। मृगाणाम्- सिंहादीनाम्।  मातरम्- जननीम्। अरण्यानिम्- वनदेवताम्। अशंसिषम्- प्रशंसामि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आञ्जनगन्धिम्** । अञ्जनस्येदमाञ्जनं कस्तूर्यादि । तस्य गन्ध इव गन्धो यस्यास्तादृशी । उपमानाच्च ' (पा. सू. ५. ४. १३७) इति गन्धस्येदन्तादेशः । अत एव **सुरभिं** सौरभ्योपेतां **बह्वन्नां** बहुभिरन्नैरदनीयैः फलमूलादिभिरुपेताम् **अकृषीवलाम्** । कृषिरेषामस्तीति कृषीवलाः कर्षकाः ।  ‘ रजःकृषि° (पा. सू. ५.२.११२ ) इत्यादिना वलच् ।' वले ' (पा. सू. ६.३.११८ ) इति दीर्घः । तैर्वियुक्तां तादृशीं **मृगाणां** **मातरं** जनयित्रीम् **अरण्यानिम्** अरण्यानीम् **अहं** **प्र** **अशंसिषम्** उक्तेन प्रकारेण स्तुतवानस्मि ॥ ॥ ४ ॥
@@ -206,8 +209,6 @@ Gerühmt hab' ich die Waldesfrau, sie, die des Wildes Mutter ist, Von Salben duf
 Араньяни я прославил,  
 Мать диких зверей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

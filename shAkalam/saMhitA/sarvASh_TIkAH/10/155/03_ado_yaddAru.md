@@ -3,7 +3,6 @@ title = "003"
 devataa = "ब्रह्मणस्पतिः"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शिरिंबिठो भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 adáḥ ~ adó ← asaú (pronoun)  
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदो- तत्र। यत्- यः। दारु- दारूपलक्षितभौमभोगः। अपूरुषम्- अनात्मविषयः। सिन्धोः पारे-  संसारसमुद्रे। प्लवते। तत्- तम्। आ रभस्व- गृह्णीष्व। दुर्हणः- दुःखेन हननीय दुर्भिक्ष। तेन  त्वत्कारणेन सह। परस्तरम्- दूरम्। गच्छ- याहि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अदः** विप्रकृष्टदेशे वर्तमानम् **अपूरुषं** निर्मात्रा पुरुषेण रहितं **यद्दारु** दारुमयं पुरुषोत्तमाख्यं देवताशरीरं **सिन्धोः** **पारे** समुद्रतीरे **प्लवते** जलस्योपरि वर्तते **तत्** दारू हे **दुर्हणो** दुःखेन हननीय केनापि हन्तुमशक्य हे स्तोतः **आ** **रभस्व** आलम्बस्व । उपास्स्वेत्यर्थः । **तेन** दारुमयेण
@@ -228,8 +231,6 @@ Das Floss, was in dem Flusse dort entblösst von Menschen drüben schwimmt, Das 
 За него хватайся, ты с дурными челюстями,  
 На нем уезжай подальше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

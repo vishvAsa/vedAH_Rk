@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पवित्रो वसिष्ठो वोभौ वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। पोता- पूयमानः। सः। नः- अस्माकम्। पवमानः- सोमः। अद्य- इदानीम्। नः- अस्मान्।  विचर्षणिः- विशेषद्रष्टा सन्। पवित्रेण- शोधकेन प्रतीकेन। पुनातु- शोधयतु॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** तादृशः प्रसिद्धो **विचर्षणिः** सर्वस्य द्रष्टा **पवमानः** **अद्य** - इदानीमेव **पवित्रेण** पापशोधकेन तेजसा **यः पोता** स्वयं पवित्रः सन् **स नो** ऽस्मान् **पुनातु** पापरहितान् करोतु ॥ २२ ॥ 
@@ -182,8 +185,6 @@ In the published translation I take pavítreṇa in b with pávamānaḥ in a, u
 
 Sim. EWA s.v. pótar-.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
@@ -217,8 +218,6 @@ Es läutere, der Läuterer, der lauter strömt durchs Läutmngsnetz, Uns heute e
 Движется далеко, (он,) который (сам) очиститель,  
 Пусть очистит нас через цедилку!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

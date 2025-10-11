@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    बृहत्- महत्। आप्यम्- प्राप्यम्। हिन्वानः- प्रेरयन्। अयम्- एषः। विचर्षणिः- विशेषद्रष्टा।  हितः- सर्वभूतहितः अस्मासु निहितो वा। पवमानः- पुनानो रसः। सः- असौ। चेतति-  प्रज्ञापयति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विचर्षणिः** विद्रष्टा **हितः** पात्रेषु निहितः **पवमानः** **अयं** सोमः **आप्यम्** अप्सु भवं **बृहत्** महदन्नं **हिन्वानः** प्रेरयन् **चेतति** सर्वैः ज्ञायते ॥ ॥ २५ ॥
@@ -158,8 +161,6 @@ The other uncertainty in the vs. is how to construe ā́pyam bṛhát “lofty f
 
 here (e.g., “die hohe Freundschaft zur eile treibend”), while I have chosen to take it as passive and to construe the acc. with cetati, on the grounds that I don’t know what it would mean to “impel friendship” (though such an image is well within the potential range of a RVic poet). Gotō (1st class, 139) takes it as I do.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -184,10 +185,6 @@ Wenn dieser Ausgezeichnete zum Lauf getrieben ist, so tut er sich bei seiner Lä
 
 Entsandt ist dieser thätige, und es erscheint der flammende, Der hold den hohen Freunden ist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

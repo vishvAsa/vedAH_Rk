@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "ययातिर्नाहुषः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ययातिर्नाहुषः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रधारः- अनन्तधारः। समुद्रः- अर्णववत्स्थितः। रयीणाम्- संपदाम्। पतिः- पालकः।  इन्द्रस्य- परमेश्वरस्य। सखा- सुहृत्। दिवेदिवे- प्रतिदिनम्। वाचम्- मन्त्रम्। ईंखयः- प्रेरयिता  सन्। पवते- क्षरति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रधारः** बहुविधधारोपेतः **सोमः** **पवते** क्षरति । कीदृशः । **समुद्रः** । यस्मात्समुद्द्रवन्ति रसाः । सरःस्थानीयः **वाचमीङ्खयः** । ईङ्खतेर्ण्यन्तस्य सुप्युपपदे खच्प्रत्ययः । स्तुतीनां प्रेरयिता **रयीणां** धनानां **पतिः** प्रभुः । यद्वा । रयीणां हविषो दातॄणां यजमानानां पतिः पालयिता । **दिवेदिवे** प्रत्यहम् **इन्द्रस्य** **सखा** मित्रभूतः सोमः पवते ॥
@@ -174,7 +177,6 @@ Soma, lord of riches, comrade of Indra, day after day.
 The phrase samudró vācamīṅkhayáḥ recalls the variant compds in IX.35.2 and 5: samudramīṅkhaya (2a) and vācamīṅkhayám (5a).
 
 Note that all 4 pādas begin with s-.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -208,8 +210,6 @@ In tausend Strömen rieselt er, ein Meer, der Sang-erregende, Der Soma, er, der 
 Сома, господин богатств,  
 Друг Индры, день за днем.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

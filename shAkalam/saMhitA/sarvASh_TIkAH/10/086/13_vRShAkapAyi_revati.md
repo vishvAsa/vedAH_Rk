@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - वृषाकपिः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 révati ← revánt- (nominal stem)  
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषाकपायि। रेवति- सम्पद्वति। सुपुत्रे- शोभनवत्से। आदु- अथ। सुस्नुषे- साधु सम्भक्त्रि। साधु  सानिनीति यास्कः। ते- तव। इन्द्रः। उक्षणः- सेख्नॄणाम्। प्रियम्। काचित्करम्- सुखाचयकरं  सुखकरमिति यास्कः। कं सुखम्। तस्याचित् सङ्घः। तत्करमिति सायणः। हविः- हव्यम्। घसत्-  प्राश्नातु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वृषाकपायि । कामानां वर्षकत्वादभीष्टदेशगमनाच्चेन्द्रो वृषाकपिः । तस्य पत्नि । यद्वा । वृषाकपेर्मम मातरित्यर्थः । **रेवति** धनवति **सुपुत्रे** शोभनपुत्रे **सुस्नुषे** शोभनस्नुषे हे इन्द्राणि **ते** तवायम् **इन्द्रः** **उक्षणः** सेचनसमर्थान् **आदु** अनन्तरमेव । शीघ्रमेवेत्यर्थः । पशून् **घसत्** प्राश्नातु । किंच **काचित्करम्** । कं सुखम् । तस्याचित् संघः । तस्करं हविः **प्रियम्** इष्टं कुर्विति शेषः । किंच ते पतिः **इन्द्रः** **विश्वस्मात्** **उतरः** । तथा च यास्कः - ‘ वृषाकपायि रेवति सुपुत्रे  मध्यमेन सुस्नुषे माध्यमिकया वाचा । स्नुषा साधुसादिनीति वा साधुसानिनीति वा । प्रियं कुरुष्व सुखाचयकरं हविः सर्वस्माद्य इन्द्र उत्तरः' (निरु. १२, ९) इति ॥
@@ -221,7 +224,6 @@ This seems to be also addressed by Indra to Indrāṇī, who is here called Vr̥
 
 The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -258,10 +260,6 @@ Frau Vrisakapi, reiche, Mutter schöner Söhne und schöner Schwiegertöchter! I
 
 O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, Indra wird deine Stiere verzehren und den lieben, sehr wirksamen Opfertrank. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

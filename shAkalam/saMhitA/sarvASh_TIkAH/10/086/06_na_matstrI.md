@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 mát ← ahám (pronoun)  
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मत्- मत्तः। सुभसत्तरा- सुयोनिः सुजघना वा। स्त्री- नारी। नास्ति। सुयाशुतरा- सुमैथुना। न  भुवत्- न भवति। मत्- मत्तः। प्रतिच्यवीयसी- च्यावयित्री। न भवति। सक्थ्युद्यमीयसी-  ऊरुगतसक्थिचालिका। न भवति। इदमिन्द्राण्या वचनम्। उपासक एवात्र इन्द्राणी।  मैथुनरूपककल्पनकारणेनात्र उपासकस्य नारीत्त्वम्। अस्मिन् मैथुनरूपककल्पने इन्द्रः प्रियः पतिः।  तदुपासक इन्द्राणीरूपकस्तद्दयिता। किमर्थमत्र मैथुनरूपककल्पनम्। आत्मानुभवमृषयो वैदिका हृदा  चक्रुः। तमेव विचारविमर्शाभ्यां चक्रुर्वेदापेक्षया अर्वाचीनाः सूत्रभाष्यविदः। तन्त्रेषु तमेव प्राणैरवगन्तुं  यत्नः क्रियते। प्राणमयकोशे तदवतरणाय यतन्ते। दिव्यचेतनस्य प्राणमयकोशेऽवतरणस्य  रूपणभाषाशैली कामोद्रेकयुख्नैव भवति। तस्मिन्नुद्रेके कटुवचनानि च भवितुमर्हन्ति। तेषु वाच्यार्थो  न ग्रहीतव्यः। श्वा न्यस्य जम्भिषदित्याद्यपि प्रेमपूर्वमेव लीलयोच्यते। कामोद्रेकस्तु प्राणमयकोशे  आध्यात्मिकानुभवस्य रूपणभाषाशैली यथा गीतगोविन्दादिषु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मत्** मत्तोऽन्या **स्त्री** नारी **सुभसत्तरा** अतिशयेन सुभगा **न** **भुवत्** न भवति । नास्तीत्यर्थः । किंच मत्तोऽन्या स्त्री **सुयाशुतरा** अतिशयेन सुसुखातिशयेन सुपुत्रा वा **न** भवति । तथा च मन्त्रान्तरं -- ददाति मह्यं यादुरी याशूनां भोज्या शता' (ऋ. सं. १. १२६. ६) इति । किंच **मत्** मत्तोऽन्या **प्रतिच्यवीयसी** पुमांसं प्रति शरीरस्यात्यन्तं च्यावयित्री **न** अस्ति । किंच मत्तोऽन्या स्त्री **सक्थ्युद्यमीयसी** संभोगेऽत्यन्तमुत्क्षेप्त्री **न** अस्ति । न मत्तोऽन्या काचिदपि नारी मैथुनेऽनुगुणं सक्थ्युद्यच्छतीत्यर्थः । मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** उत्कृष्टः ॥
@@ -207,7 +210,6 @@ _________
 
 This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself as the best of women, best in every way. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -237,10 +239,6 @@ Keine Frau hat eine schönere Scham, keine gewährt schöneren Liebesgenuß als 
 
 Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich, keine, die sich mehr herandrängt und die Lenden besser auseinanderspreizt. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

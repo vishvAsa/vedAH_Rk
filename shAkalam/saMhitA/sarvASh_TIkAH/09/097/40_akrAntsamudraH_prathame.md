@@ -3,7 +3,6 @@ title = "040"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रथमे विधर्मन्- ऋते प्रकृतिनियतौ वा। प्रजाः- जनान्। जनयन्- सृजन्। भुवनस्य राजा-  लोकनाथः सोमः। समुद्रः- अर्णवसमः। अक्रान्- सर्वान् अतिक्रामति। पवित्रे- शोधके। अव्ये- सरणशीलरसस्य स्वस्थान एव रक्षाकरे उपलब्धिस्थाने । रसव्यञ्जके। रसस्य प्रवेशस्थाने।  रसतत्त्वस्य सुलभतया अवगमसाधनभूते। रसार्थयाचनसाधनभूते। रसक्रिये। रसावाप्तिसाधनभूते।  रसावरणे। रससंभख्नरि। रसवर्धके। सानो- उच्छ्रिते प्रतीके। अधि। वृषा- वर्षकः। बृहत्सोमः-  महान्रसः। सुवानः- निष्पन्नः सन्। इन्दुः- हृदयस्पर्शी सन्। वावृधे- ववृधे॥४०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 समुद्रः यस्मादापः समुद्द्रवन्ति ससमुद्रः अपांवर्षकोराजासोमः प्रथमे विस्तृते भुवन- स्योदकस्य विधर्मन् विधारकेन्तरिक्षे प्रजा जनयन् । उत्पादयन् अक्रान् सर्वमतिक्रामति । क्रमतेर्लुङि तिपीडभावे वृद्धौ च कृतायां सिज् लोपे मकारस्य मोनोधातोरितिनकारेरूपम् । वृषा कामानां वर्षिता सुवानोभिषूयमाणः इन्दुर्दीप्तः ससोमः अधि अधिकं सानौ समु- च्छ्रिते अव्ये अविमये पवित्रे बृहत् प्रभूतं ववृधे वर्धते ॥ ४० ॥
@@ -238,8 +241,6 @@ The bull in the filter, on the sheep’s back, Soma has grown loftily, the  drop
 The verb vāvṛdhe in d concatenates with vardhitā́várdhanaḥ in 39a.
 
 Geldner’s tr. of pāda a, “Der Ocean hat gebrüllt bei seiner ersten Ausbreitung,” seems to imply (though this is not a necessary interpr. of his tr.) that the samudrá- is a different entity from Soma himself, and his cited IX.107.23 tváṃ samudrám prathamó ví dhārayaḥ “You were [/are] the first to to spread out the sea” (with both samudrá- and ví √dhṛ) certainly depicts them as separate. However, IX.86.29 tváṃ samudró asi …, távemā́ḥ páñca pradíśo vídharmaṇi “You are the sea, …; yours are these five regions in your [/their] expansion” (also with samudrá- and the -n-stem loc. vídharman/-ṇi as here) asserts the identity of Soma and the samudrá-. Since forms of √krand ‘roar’ in IX (like ákrān here) have Soma as their subject (incl. in vss. 13, 18, 28, 32, 33 in this hymn), the identification of Soma and the sea seems assured here.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
@@ -274,8 +275,6 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 Сома мощно возрос, (этот) выжатый сок.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -286,7 +285,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (समुद्रः) “सम्यग्द्रवन्ति गच्छन्ति भूतानि यस्मात् स समुद्रः परमात्मा”। उससे सब भूतों की उत्पत्ति, स्थिति और प्रलय होता है, इसलिये उसका नाम समुद्र है। वह (भुवनस्य) सम्पूर्ण लोक-लोकान्तरों का (राजा) स्वामी परमात्मा (प्रथमे) पहिला (विधर्मन्) जो नाना प्रकार के धर्म्मोंवाला अन्तरिक्ष है, उसमें (प्रजाः) प्रजाओं को (जनयन्) उत्पन्न करता हुआ (अक्रान्) सर्वोपरि होकर विराजमान है। (इन्दुः) वह प्रकाशस्वरूप परमात्मा (सुवानः) सर्वोत्पादक (सोमः) सोमगुणसम्पन्न (बृहत्) जो सबसे बड़ा है, (वृषा) सब कामनाओं का देनेवाला है, वह (अव्ये) रक्षायुक्त (पवित्रे) पवित्र ब्रह्माण्ड के (सानौ) उच्च शिखर में (अधिवावृधे) सर्वव्यापकरूप से विराजमान हो रहा है ॥४०॥
+पदार्थान्वयभाषाः -  (समुद्रः) “सम्यग्द्रवन्ति गच्छन्ति भूतानि यस्मात् स समुद्रः परमात्मा”। उससे सब भूतों की उत्पत्ति, स्थिति और प्रलय होता है, इसलिये उसका नाम समुद्र है। वह (भुवनस्य) सम्पूर्ण लोक-लोकान्तरों का (राजा) स्वामी परमात्मा (प्रथमे) पहिला (विधर्मन्) जो नाना प्रकार के धर्म्मोंवाला अन्तरिक्ष है, उसमें (प्रजाः) प्रजाओं को (जनयन्) उत्पन्न करता हुआ (अक्रान्) सर्वोपरि होकर विराजमान है। (इन्दुः) वह प्रकाशस्वरूप परमात्मा (सुवानः) सर्वोत्पादक (सोमः) सोमगुणसम्पन्न (बृहत्) जो सबसे बड़ा है, (वृषा) सब कामनाओं का देनेवाला है, वह (अव्ये) रक्षायुक्त (पवित्रे) पवित्र ब्रह्माण्ड के (सानौ) उच्च शिखर में (अधिवावृधे) सर्वव्यापकरूप से विराजमान हो रहा है ॥४०॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

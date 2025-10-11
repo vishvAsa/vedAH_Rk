@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "शिशुः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - शिशुः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 járatībhiḥ ← járant- (nominal stem)  
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जरतीभिः- जीर्णाभिः। ओषधीभिः। शकुनानाम्- पक्षिणाम्। पर्णेभिः- पत्रैः। अश्मभिः-  शिलाभिः। द्युभिः- दीप्तिमद्भिः सुवर्णैश्च एतैरुपकरणैः। कर्मारः- अयस्कारः। हिरण्यवन्तम्-  दीप्तिमत्कर्म। इच्छति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जरतीभिः** जीर्णभिः **ओषधीभिः** **इषवः** क्रियन्ते । तथा **शकुनाना** **पर्णेभिः** इषूणां पक्षभूतैः पर्णैश्च क्रियन्ते । तथा **द्युभिः** दीप्ताभिरिषूणां तेजनार्थाभि: **अश्मभिः** शिलाभिश्च क्रियन्ते । एतैः **कार्मारः** अयस्कारः हिरण्यवन्तम् आढ्यं पुरुषम् **इच्छति** । तथाहं त्वत्परिस्रवणमिच्छामि । तस्मात् **इन्दो** **इन्द्राय** **परि** **स्रव** ॥
@@ -231,8 +234,6 @@ Der Schmied mit wohlgedörrtem Holz mit Amboss und mit Feuersglut, Anfachend mit
 Для Индры, о капля, растекайся вокруг!  
 rv09.112.03
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

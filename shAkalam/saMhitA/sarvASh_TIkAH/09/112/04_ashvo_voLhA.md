@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "शिशुः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - शिशुः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 áśvaḥ ← áśva- (nominal stem)  
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वोळ्हा- वाहकः। अश्वः- तुरगः। सुखं रथमिच्छति। उपमन्त्रिणः- विकटकवयः। हसनाम्-  हास्यमिच्छन्ति। शेपः- पुंस्प्रजननम्। रोमण्वन्तौ भेदौ। इच्छति। मण्डूकः। वारित्- उदकम्।  इच्छति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वोळ्हा** लक्ष्यं देशं प्रापयन् **अश्वः** **सुखं** कल्याणं **रथम्** **इच्छति** । **उपमन्त्रिणः** । उपमन्त्रवन्तो नर्मसचिवाः **हसनाम्** उपहसनां वाचमिच्छन्ति । तथा **शेपः** । ‘शेपो वैतस इति पुंस्प्रजननस्य' (निरु. ३.२१ ) इति यास्कः । यथा शेपः **रोमण्वन्तौ** **भेदौ** इच्छति । मण्डूकः **वारित्** । इदवधारणे । उदकमेवेच्छति । तथाहं त्वत्परिस्रवणमिच्छामि। तस्मात् इन्द्रायेन्दो **परि** **स्रव** इति ॥ ॥ २५ ॥
@@ -265,8 +268,6 @@ Das Wagenpferd wünscht einen leichtgehenden Wagen und munteren Zuspruch des Tre
 Лягушка же хочет воды.  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

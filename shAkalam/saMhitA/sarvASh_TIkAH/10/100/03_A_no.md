@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा- येन प्रकारेण। देवान्- द्योतनशख्नीः। प्रतिभूषेम- सद्भावनैर्मण्डयामः। तथा । नः-  अस्माकम्। देवः सविता- सूर्य आत्मा। ऋजूयते- आर्जवसम्पन्नाय। सुन्वते- रसनिष्पादकाय।  यजमानाय- उपासकाय। वयः- अन्नम्। आ- आभिमुख्येन। साविषत्- प्रसौति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सविता** सर्वस्य प्रेरकः सूर्यः **नः** अस्माकं संबन्धिने **ऋजूयते** ऋजुकामाय **सुन्वते** अभिषवं कुर्वते **यजमानाय** **वयः** अन्नं **पाकवत्** पाकोपेतम् । व्यवहितमप्येतदत्र संबध्यते । **आ** **साविषत्** आभिमुख्येन प्रसौति । सौतेर्ण्यन्ताल्लेटि रूपम् । **यथा** येन प्रकारेण **देवान्** **प्रतिभूषेम** प्रतिभवेम । भवतेर्लिङि सिप्शपौ। द्विविकरणता । यद्वा । ‘भूष अलंकारे'। भौवादिकः । भूषयेमेत्यर्थः ॥
@@ -234,10 +237,6 @@ Möge uns Gott Savitri Kraft zuweisen, dem redlichen Opferer und Somapresser, au
 
 Es sende uns Gott Savitar Erquickung zu, dem Opferer, der richtig wandelnd Soma braut, Dass wir die Götter preisen mögen treuen Sinns; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

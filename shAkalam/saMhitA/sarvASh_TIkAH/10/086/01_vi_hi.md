@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ásr̥kṣata ← √sr̥j- (root)  
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोतोः- रसं निष्पादयितुम्। वि असृक्षत- विसृष्टाः। इन्द्रं देवम्- ईशनाधिदैवतम्। न। अमंसत-  मेनिरे। यत्र- तस्मिन् यज्ञे। पुष्टेषु- हव्येषु। अर्यः- आर्यः। मत्सखा- मम सुहृत्। वृषाकपिः।  अमदत्- तुष्टो भवति। इन्द्रः। विश्वस्मात्- सर्वस्मात्। उत्तरः- उत्तमः। इन्द्र आत्मावरणभेदको  बलाधिदेवता परमैश्वर्यदेवता। मेधाया बलमिन्द्रः। वृषाकपिस्तु तदधरांशो  प्राणमयकोशस्थबलोद्यमाद्यधिदेवता। अत्यन्तमेधाबलस्य  प्राणमयकोशस्थनिकृष्टांशाश्चलनचापल्यादिगुणाः। त एव वृषाकपिः। इन्द्रस्य निकृष्टांशमेव  इन्द्रमिति मत्वा पूजयन्ति साधारणजनाः। तस्मादेव नेन्द्रं देवममंसतेत्युच्यते। तथापि इन्द्रस्य  श्रैष्ठ्ये न हानिर्भवतीति कारणेन विश्वस्मादिन्द्र उत्तर इत्युच्यते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोतोः** सोमाभिषवं कर्तुं **वि** **असृक्षत** । यागं प्रति मया विसृष्टा अनुज्ञाताः स्तोतारो वृषाकपेर्यष्टारः । **हि** इति पूरणः । तत्र **देवं** द्योतमानम् **इन्द्रं** मां **न** **अमंसत** । मया प्रेरिताः सन्तोऽपि ते स्तोतारो न स्तुतवन्तः । किंतु मम पुत्रं वृषाकपिमेव स्तुतवन्तः । **यत्र** येषु **पुष्टेषु** सोमेन प्रवृद्धेषु यागेषु **अर्यः** स्वामी **वृषाकपिः** मम पुत्रः मत्सखा मम सखिभूतः सन् **अमदत्** सोमपानेन हृष्टोऽभूत् । यद्यप्येवं तथापि **इन्द्रः** अहं **विश्वस्मात्** सर्वस्माज्जगतः **उत्तरः** उत्कृष्टतरः। माधवभट्टास्तु वि हि सोतोरित्येषर्गिन्द्राण्या वाक्यमिति मन्यन्ते। तथा च तद्वचनम् । इन्द्राण्यै कल्पितं हविः कश्चिन्मृगोऽदूदुषदिन्द्रपुत्रस्य वृषाकपेर्विषये वर्तमानः । तत्रेन्द्रमिन्द्राणी वदति । तस्मिन्पक्षे त्वस्या ऋचोऽयमर्थः । सोतोः सोमाभिषवं कर्तुं वि ह्यसृक्षत। उपरतसोमाभिषवा आसन् यजमाना इत्यर्थः । किंच मम पतिमिन्द्रं देवं नामंसत स्तोतारो न स्तुवन्ति । कुत्रेति अत्राह । यत्र यस्मिन् जनपदे पुष्टेषु प्रवृद्धेषु धनेष्वर्यः स्वामी वृषाकपिरमदत् । मत्सखा मत्प्रियश्चेन्द्रो विश्वस्मात् सर्वस्माज्जगत उत्तरः उत्कृष्टतरः ॥
@@ -244,7 +247,6 @@ But above all the burden of the song "Indra is uttara of all," becomes specially
 (If Vr̥ṣākapayī is to be at all introduced in the dialogue, we may assign this verse to her. The phrases, " my friend" and "did not respect lndra," would be more appropriate in her mouth than in that of Indra or Indrāṇī.)
 </details>
 
-
 <details><summary>Jamison Brereton</summary>
 
 [Indra:] “Because they have left off pressing (soma), they have stopped  honoring Indra as god,  
@@ -252,7 +254,6 @@ But above all the burden of the song "Indra is uttara of all," becomes specially
 goodies of the stranger.”  
 – Above all Indra!
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -270,10 +271,6 @@ Man hat ja aufgehört, Soma zu pressen; den Indra haben sie nicht mehr als Gott 
 Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, wo sich mein Freund Vrischākapi an den Nahrungen des Frommen ergötzte. Höher als alles ist Indra.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -289,7 +286,7 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोतोः) विश्व को प्रकाशित करने के लिये (वि असृक्षत हि)जब किरणें विसर्जन की गयीं-छोड़ी गईं तब (इन्द्रं देवं न-अमंसत) उन्होंने इन्द्र उत्तर-ध्रुव को अपना देव प्रकाशक नहीं माना (यत्र पुष्टेषु)जिन पुष्ट अर्थात् पूर्ण प्रकाशित हुई किरणों में (अर्यः-वृषाकपिः-अमदत्) उनका स्वामी सूर्य हर्षित-प्रकाशित हुआ (मत्सखा-इन्द्रः)मेरा पति मुझ व्योमकक्षा का पति इन्द्र-उत्तरध्रुव (विश्वस्मात्-उत्तरः)विश्व के उत्तर में है ॥१॥
+पदार्थान्वयभाषाः -  (सोतोः) विश्व को प्रकाशित करने के लिये (वि असृक्षत हि)जब किरणें विसर्जन की गयीं-छोड़ी गईं तब (इन्द्रं देवं न-अमंसत) उन्होंने इन्द्र उत्तर-ध्रुव को अपना देव प्रकाशक नहीं माना (यत्र पुष्टेषु)जिन पुष्ट अर्थात् पूर्ण प्रकाशित हुई किरणों में (अर्यः-वृषाकपिः-अमदत्) उनका स्वामी सूर्य हर्षित-प्रकाशित हुआ (मत्सखा-इन्द्रः)मेरा पति मुझ व्योमकक्षा का पति इन्द्र-उत्तरध्रुव (विश्वस्मात्-उत्तरः)विश्व के उत्तर में है ॥१॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - कक्षीवान्
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -259,6 +257,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। सिषासति- दैवीं संपदं संभख्नुमिच्छति तदा। सोमः- रसः। मीढ्वान्- आनन्दकरः।  असुरः- प्राणदः। श्वेतं रूपम्- शुभ्रं शुद्धं रूपम्। कृणुते- कुरुते। भूमनः- अखण्डम्। वेद-  जानाति। शमी- शमयुख्नः। धिया- चित्तधारणया। प्रवत्- प्रकृष्टानि। सचते- सङ्गच्छते। उद्रिणम्-  जीवोदकवन्तम्। दिवस्कवन्धम्- मेघोपलक्षितजडम्। अवदर्षत्-  जीवोदकप्रवाहार्थमवदारयति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **श्वेतं** दीप्यमानं शुक्लं **रूपं** **कृणुते** तदा करोति **यत्** यदा **सिषासति** स्वर्गं संभक्तुमिच्छति । सोमे पात्राण्यागते सति तत्तेजसानुरञ्जितानां तेषां श्वेतं रूपं भवति । ततः **मीढ्वान्** । 'मिह सेचने । अस्मात् क्वसौ ‘ दाश्वान्साह्वान्मीढ्वांश्च' इति निपातनादभिमतरूपसिद्धिः । कामानां सेक्ता **असुरः** प्राज्ञो बलवान् वा **सोमः** **भूमनः** बहुधनानि **वेद** स्तोतृभ्यो दातुं जानाति । प्रयच्छतीति यावत् । **स** **ईम्** । “ सोऽचि लोपे चेत' इति सुलोपः । सोऽयं **धिया** प्रज्ञानेन **प्रवत्** प्रकृष्टानि **शमी** । द्वितीयायाः पूर्वसवर्णदीर्घः । कर्माणि **अभि** **सचते** अभितः समवैति । किंच **दिवः** अन्तरिक्षात् **उद्रिणम्** उदकवन्तं **कवन्धं** मेघम् । कवन्धशब्देन मेघोऽभिधीयते । तात्स्थ्यात्ताच्छब्द्यमिति । मेघम् **अव** दर्षत् अवदारयति । विवृतद्वारं करोति । मेघं विदार्यान्तरिक्षात् वृष्टिं करोतीत्यर्थः ॥
@@ -297,8 +300,6 @@ we would expect sá īm in the Saṃhitā text (cf., e.g, IX.88.2). I take sém 
 
 And this in turn will lead to his producing rain in d, by splitting open the cask of heaven. This “splitting” (áva darṣat) is perhaps thematically related to the “bursting” down from heaven (nā́bhaḥ … avó diváḥ) in 6c, if that’s what nā́bhmeans. It is difficult to render the áva in the lexeme áva darṣat, but áva is a Lieblingswort of this poet: see 1a, 4d, 6a, as well as aváḥ in 6c - all presumably in service of the “rain down from heaven” theme.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -331,8 +332,6 @@ Er macht sein Aussehn glänzend, wenn er spenden will, der Gaben Fülle kennt de
 Он сопровождается молитвой и жертвенным трудом. Он (стекает) по склону.  
 Да прорвет он вниз водяной бурдюк неба!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

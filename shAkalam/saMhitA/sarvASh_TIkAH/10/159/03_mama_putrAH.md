@@ -3,7 +3,6 @@ title = "003"
 devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शची पौलोमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 máma ← ahám (pronoun)  
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मम- मे। पुत्राः- सन्ततयः। शत्रुहणः- आवरणबाधकाः। अथो- अपि च। मे- मम। दुहिता-  पुत्री। विराट्- व्यापनशीला। उत- अपि च। अहम्। सञ्जया- जयशीला। अस्मि- भवामि। मे-  मम। पत्यौ- भर्तरि। उत्तमः श्लोकः- श्रेष्ठो मन्त्रोस्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मम** एव **पुत्राः** तनयाः **शत्रुहणः** शत्रूणां सपत्नानां हन्तारो भवन्ति । **अथो** अपि च **मे** मदीया **दुहिता** पुत्री **विराट्** विशेषेण राजमाना भवति । **उत** अपि च **अहं** **संजया** सम्यग्जेत्री सपत्नीनाम् **अस्मि** । ता अभिभवामि । अतो हेतोः **पत्यौ** भर्तरीन्द्रे **मे** मम **श्लोकः** उपश्लोकनीयं यशः **उत्तमः** उद्गततममतिशयेनोत्कृष्टं विद्यते । ।
@@ -238,8 +241,6 @@ Feindtilger sind die Söhne mein, und meine Tochter Königin, Ich selbst bin ein
 Для мужа мой зов самый высший.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शची पौलोमी
@@ -255,7 +256,7 @@ Feindtilger sind die Söhne mein, und meine Tochter Königin, Ich selbst bin ein
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सद्गृहस्थ के लोग सभी प्रशंसा के पात्र होने चाहिए, पुत्र बाहरी भीतरी शत्रुओं के नाशक हों-कन्याएँ ज्योति के समान घर में कुरूढ़ि और अज्ञान को हटानेवाली हों, पत्नी धर्म की थूणी और पति यश और प्रशंसा के भागी हों ॥३॥
+भावार्थभाषाः -  सद्गृहस्थ के लोग सभी प्रशंसा के पात्र होने चाहिए, पुत्र बाहरी भीतरी शत्रुओं के नाशक हों-कन्याएँ ज्योति के समान घर में कुरूढ़ि और अज्ञान को हटानेवाली हों, पत्नी धर्म की थूणी और पति यश और प्रशंसा के भागी हों ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

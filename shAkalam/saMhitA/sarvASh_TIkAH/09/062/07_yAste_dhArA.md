@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः। ते- भवतः। धाराः। मधुश्चुतः- माधुर्यस्रावकाः। इन्दो- क्लेदनशील। ऊतये- रक्षायै। ताभिः-  धाराभिः। पवित्रम्- शोधकं प्रतीकम्। आसदः- आसीद॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **ते** तव **मधुश्चुतः** मधुररसस्य श्चोतयित्र्यः **याः** **धाराः** **ऊतये** रक्षणाय **असृग्रं** सृज्यन्ते **ताभिः** धाराभिस्त्वं **पवित्रम्** **आसदः** आसीद ॥
@@ -186,10 +189,6 @@ Deine Ströme, die von Süßem triefen, wurden laufen gelassen uns zur Hilfe, o 
 
 Mit deinen Strömen, die zum Schutz an Honig reich ergossen sind, O Indu, fliesse in das Sieb.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 bhū́mim ← bhū́mi- (nominal stem)  
@@ -187,12 +185,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चतुर्भृष्टिम्- चतुर्दिक्षु व्याप्ताम्। भूमिम्- पृथिवीमनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्** **मनः** **भूमिं** **चतुर्भृष्टिम्** । चतुर्दिक्षु भ्रंशो यस्याः सा । तां **जगाम** **तत्** आवर्तयामः ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -224,8 +225,6 @@ Dein Geist, der zum vierzackigen Weltraume in die Ferne ging, Der werde von uns 
 Чтоб он здесь пребыл (и) жил.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन आवर्त्तनम्
@@ -241,7 +240,7 @@ Dein Geist, der zum vierzackigen Weltraume in die Ferne ging, Der werde von uns 
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  मानस रोग के रोगी का मन भ्रान्त होकर जब-“मैं ऊँचे पर्वत पर हूँ, मुझे कौन उतारे, मैं खड्डे में हूँ, मुझे कौन उभारे, मैं रेतीली भूमि में पड़ा हूँ या मैं कीचड़ में धँसा जा रहा हूँ”आदि प्रलाप करे, तो उस समय उसको आश्वासन दिया जाये कि हमने वहाँ से तुझे बचा लिया है आदि। इस प्रकार उसकी चिकित्सा करे ॥३॥
+भावार्थभाषाः -  मानस रोग के रोगी का मन भ्रान्त होकर जब-“मैं ऊँचे पर्वत पर हूँ, मुझे कौन उतारे, मैं खड्डे में हूँ, मुझे कौन उभारे, मैं रेतीली भूमि में पड़ा हूँ या मैं कीचड़ में धँसा जा रहा हूँ”आदि प्रलाप करे, तो उस समय उसको आश्वासन दिया जाये कि हमने वहाँ से तुझे बचा लिया है आदि। इस प्रकार उसकी चिकित्सा करे ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

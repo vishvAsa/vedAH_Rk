@@ -3,7 +3,6 @@ title = "009"
 devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 abhavat ← √bhū- (root)  
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसाधिदेवता। वधूयुः- वधूकामः। अभवत्- अभूत्। सा रसरसितेति भावः। भीरपि  यद्बिभेतीति यथा। अश्विना- प्राणेशनशख्निभूतौ। उभा- उभौ। वरा- तया वृतौ भर्तारौ। आस्ताम्-  अभवताम्। सूर्यां- वधूं सावित्रीम्। पत्ये शंसन्तीम्- स्वपतिप्रेमविषये स्वपित्रे कथयन्तीम्।  सविता- पिता सूर्यः। मनसा- चित्तेन। अददात्- अश्विभ्यां ददौ। आत्मा सूर्यः। तदाधारेण  प्राणेशनशख्नी विद्यां गृहीतवन्ताविति भावः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमो** **वधूयुः** वधूकामो वरः **अभवत्** । तस्मिन् समये **अश्विना** अश्विनौ **उभा** उभौ **वरा** वरौ **आस्ताम्** अभूताम् । **यत्** यदा **सूर्याँ** **पत्ये** **शंसन्तीं** पतिं कामयमानाम् । पर्याप्तयौवनामित्यर्थः। सूर्यां **मनसा** सहिताय' सोमाय वराय **सविता** तत्पिता अददात् प्रादात् दित्सां चकार ॥
@@ -224,8 +227,6 @@ Soma war der Bräutigam, die Açvinen waren die beiden Brautwerber, als Savitar 
 Савитар отдал супругу  
 Сурью, согласную (всей) душой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवित्रे- शुद्धे पात्रे प्रतीके। चम्वोः- अधिषवणफलकयोर्द्यावापृथिव्योर्वा। चमूशब्दो  द्यावापृथिवीनामसु पठितः। सुतः- निष्पन्नः। रथ्यः- अश्व इव। असर्जि- निसृष्टः। कार्ष्मन्- कृष्टौ।  वाजी- अश्वभूतः प्राण इति भावः। न्यक्रमीत्- नितरां क्रामति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रथ्यो** **यथा** रथसंबन्ध्यश्व इव स यथा विसृज्यते तद्वत् **चम्वोः** अधिषवणफलकयोः **सुतः** अभिषुतः सोमः **असर्जि** सृष्टोऽभूत् **पवित्रे** । तथाभूतः **वाजी** वेजनवान् सोमाख्योऽश्वः **कार्ष्मन्** । कार्ष्म युद्धमितरेतरकर्षणात् । अत्र देवानामाकर्षणवति यज्ञाख्ये संग्रामे **न्यक्रमीत्** नितरां क्रामति ॥
@@ -173,10 +176,6 @@ Wie ein Wagenpferd ist er auf die Seihe losgesprengt, in den Camugefäßen ausge
 
 Schon eilt er wie ein Wagenross ins Sieb vom Bretterpaar gepresst, Der Renner läuft zum Ziele hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

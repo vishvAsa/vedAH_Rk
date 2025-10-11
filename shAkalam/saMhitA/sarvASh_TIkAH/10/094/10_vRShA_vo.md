@@ -3,7 +3,6 @@ title = "010"
 devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अर्बुदः काद्रवेयः सर्पः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः। वः- युष्माकम्। अंशुः- सोमो रसः। किल। भवति। न रिषाथन- यूयमपि न  रिष्यथ। इळावन्तः- मन्त्रवन्तः। सदमित्- सदैव। आशिताः- भोगवन्तः। स्थन- भवथ।  रैवत्येव- शब्देन। महसा- तेजसा। चारवः- कल्याणाः। स्थन- भवथ। ग्रावाणः। अध्वरम्-  ध्वररहितं सर्वभूतहितं कर्म। अजुषध्वम्- सेवध्वम्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अंशुः सोमः वः युष्माकं वृषा यज्ञे वर्षिता भविष्यति । यूयमपि न रिषाथन किल न **रिष्यथ** न शीर्णा भवथ किल । किंच **इळावन्तः** अन्नवन्त इव यूयं सदमित् सदैव आशिताः भोजिताः स्थन भवथ। किंच रैवत्येव यथा रेवन्तस्तेजसा युक्ता भवन्ति तद्वत् महसा तेजसा युक्ताः **चारवः** कल्याणाः स्थन भवथ । हे **ग्रावाणः** यूयं यस्य यजमानस्य **अध्वरं** यज्ञम् **अजुषध्वम्** असेवध्वम् ॥ ॥ ३० ॥
@@ -262,10 +265,6 @@ Bullenhaft ist euer Stengel, ihr sollet ja nicht zu Schaden kommen! Immer seid i
 
 Eur Trank ist stark, fürwahr es soll euch mangeln nichts, stets seid ihr labend, wenn ihr gut gefüttert seid, Wie Reichthum seid durch Gabenfülle ihr beliebt, bei dem, dess Opfer ihr, o Steine, gern geniesst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

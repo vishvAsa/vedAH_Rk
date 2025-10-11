@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "शक्तिर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - शक्तिर्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अरश्मानः- बन्धरहिताः। अरथाः- अवाहनबद्धाः। अयुख्नाः- अनियताः। आजौ- युद्धे।  ससृजानासः- सृष्टाः। अत्यासो न- तुरगा इव। एते- इमे। शुक्रासः- शुभ्राः शुद्धा इति भावः। ८    सोमाः- रसाः। देवासः- द्योतनशीलाः। धन्वन्ति- अभिसरन्ति। तान्। पिबध्यै- अनुभवितुम्।  उपयात- उपगच्छत॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अरश्मानोरश्मिवर्जिता रज्जुवर्जिताइतियावत् अरथारथवर्जिताः अयुक्ताः कुत्रापिननि- युक्ताः अबद्धाइत्यर्थः एतादृशाये आजौ युद्धे ससृजानासः सृज्यमानाः अत्यासोन अश्वा- यथा त्वरयालक्ष्यं गच्छन्ति तद्वत् आजौ अजन्ति कर्मकरणार्थमृत्विजोत्रेति आजिर्यज्ञस्त- स्मिन् सृज्यमानाः शुक्रासः शुक्रादीप्यमाना एतेसोमाः धन्वन्ति क्षिप्रं कलशानभिगच्छन्ति । अथप्रत्यक्षः हेदेवासोदेवाः तानागच्छतः सोमान् पिबध्यैपानायउपयातउपगच्छत ॥ २० ॥
@@ -253,7 +256,6 @@ The published translation dispenses with the rel. prn. in pāda a, as tr. the he
 Note the alliteration of ab araśmā́no yé arathā́áyuktā, átyāso ná sasṛjānā́sa ājaú.
 
 .
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -287,8 +289,6 @@ Wie Renner die beim Wettlauf ohne Wagen unangeschirrt und ohne Zügel laufen, So
 Бегут эти чистые соки сомы.  
 О боги, приблизьтесь к ним для питья!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

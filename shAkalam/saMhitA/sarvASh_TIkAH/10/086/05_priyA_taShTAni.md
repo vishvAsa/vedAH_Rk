@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 kapíḥ ← kapí- (nominal stem)  
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मदर्थम्। तष्टानि- तनूकृतानि। प्रिया- मत्प्रियाणि। व्यख्ना- व्यख्नानि। कपिः। व्यदूदुषत्-  दूषितवान्। अस्य- एतस्य। शिरः। नु- क्षिप्रम्। राविषम्- लुनीयाम्। दुष्कृते- दुष्टकर्मकारिणे।  सुगम्- सुखमहम्। न। भुवम्- भवेयम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मे** मह्यमिन्द्राण्यै **तष्टानि** यजमानैः कल्पितानि **प्रिया** प्रियाणि **व्यक्ता** व्यक्तान्याज्यैर्विशेषेणाक्तानि हवींषि कश्चित् वृषाकपेर्विषये वर्तमानः **कपिः** **व्यदूदुषत्** दूषयामास । ततोऽहम् **अस्य** तत्कपिस्वामिनो वृषाकपेः **शिरो** **नु** क्षिप्रं **राविषं** लुनीयाम् । **दुष्कृते** दुष्टस्य कर्मणः कर्त्रे वृषाकपयेऽस्मै **सुगं** सुखं न **भुवम्** अहं न भवेयम् । अस्मै सुखप्रदात्री न भवामीत्यर्थः । अस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ १ ॥
@@ -234,7 +237,6 @@ Sāyaṇa is literally correct, but again misses the spirit, or rather has misse
 
 Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -272,10 +274,6 @@ Meine lieben gedrechselten, bemalten Sachen hat der Affe besudelt. Seinen Kopf w
 Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ihm seinen Kopf zerschmettern, nicht soll es dem Uebelthäter gut ergehn.« Höher als alles ist Indra.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -286,12 +284,12 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
+पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
+भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

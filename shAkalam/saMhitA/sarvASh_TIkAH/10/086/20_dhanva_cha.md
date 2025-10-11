@@ -3,7 +3,6 @@ title = "020"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ca ← ca (invariable)  
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यः। कृन्तत्रम्- कर्तनीयं तर्तव्यमिति भावः। सः- तत् । धन्व- अन्तरिक्षम्। कति स्वित्-  कति। ता- तानि। योजना- योजनानि सन्ति। नेदीयसः- समीपस्थानात्। वृषाकपे। अस्तमेहि-  त्वद्गृहं गच्छ। गृहान्- अस्मत्सदनानि। उप- आगच्छ॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धन्व** निरुदकोऽरण्यरहितो देशः । **कृन्तत्रं** कर्तनीयमरण्यम् । **यत्** यत् **च** **धन्व** **च** कृन्तत्रं च भवति । मृगोद्वासमरण्यमेवंविधं भवति न त्वत्यन्तविपिनम् । तस्य शत्रुनिलयस्यास्मदीयगृहस्य च मध्ये **कति** **स्वित्** **ता** तानि **योजना** योजनानि स्थितानि । नात्यन्तदूरे तद्भवतीत्यर्थः । अतः **नेदीयसः** अतिशयेन समीपस्थाच्छत्रुनिलयात् हे **वृषाकपे** त्वम् **अस्तम्** अस्माकं गृहं **वि** **एहि** विशेषेणागच्छ । आगत्य च **गृहान्** यज्ञगृहान् **उप** गच्छ । यतोऽहम् **इन्द्रः** सर्वस्मादुत्कृष्टः ॥
@@ -254,7 +257,6 @@ The idea that the sun falls down from the autumnal equinox is an old one. To Ait
 
 I have already given in full my reasons for understanding nedīyas in a different sense. But I may remark that, even accepting the common meaning of the word, the verse may still be interpreted in the way I have suggested. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -287,10 +289,6 @@ Wüste und Bergabsturz, wie viele Meilen sind sie wohl von einander entfernt! Ko
 Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? drum gehe heim, o Vrischākapi, in die nächsten Häuser. Höher als alles ist Indra.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -301,12 +299,12 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वृषाकपे) हे सूर्य ! (धन्व च यत् कृन्तत्रं च) चाप-कमान और जो छेदनसाधन शर-बाण (कति स्वित्-ता योजना) किन्हीं योजन-योक्तव्य स्थान हैं (अस्तं वि-आ-इहि) अपने वसन्तसम्पात घर को छोड़ (नेदीयसः-गृहान्-उप०) अत्यन्त निकट के घरों को प्राप्त कर ॥२०॥
+पदार्थान्वयभाषाः -  (वृषाकपे) हे सूर्य ! (धन्व च यत् कृन्तत्रं च) चाप-कमान और जो छेदनसाधन शर-बाण (कति स्वित्-ता योजना) किन्हीं योजन-योक्तव्य स्थान हैं (अस्तं वि-आ-इहि) अपने वसन्तसम्पात घर को छोड़ (नेदीयसः-गृहान्-उप०) अत्यन्त निकट के घरों को प्राप्त कर ॥२०॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सूर्य का वसन्तसम्पात बिन्दु निज स्थान है और ध्रुव का उत्तर में तीन राशि परे है। छः राशियों के चाप को शर-बाण तीन राशि पर चाप मेंखड़ा होता है। जब उधर दृष्ट होगा, दिखाई पड़ेगा, उत्तरी ध्रुव के पास पहुँचता है ॥२०॥
+भावार्थभाषाः -  सूर्य का वसन्तसम्पात बिन्दु निज स्थान है और ध्रुव का उत्तर में तीन राशि परे है। छः राशियों के चाप को शर-बाण तीन राशि पर चाप मेंखड़ा होता है। जब उधर दृष्ट होगा, दिखाई पड़ेगा, उत्तरी ध्रुव के पास पहुँचता है ॥२०॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

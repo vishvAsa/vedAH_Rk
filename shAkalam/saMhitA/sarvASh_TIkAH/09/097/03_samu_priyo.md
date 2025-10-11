@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अव्ये- सरणशीलरसस्य स्वस्थान एव रक्षाकरे उपलब्धिस्थाने । रसव्यञ्जके। सानो- उत्कृष्टे  प्रतीके। प्रियः- प्रेमपात्रो रसः। सम्- सम्यक्। मृज्यते- पूयते। यशसां यशस्तरः- कीर्तिमतां  श्रेष्ठः। क्षैतः- धार्मिको भौमरसः। अस्मे- अस्मदर्थम्। पूयमानः- पुनानः सन्। अभि स्वर-  अभिशब्दय। धन्व- अभिसर। यूयम्- हे देवाः। स्वस्तिभिः- भद्रैः। सदा- सततम्। नः-  अस्मान्। पात- रक्षत॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यशसां यशस्विनाम्मध्ये यशस्तरः अतिशयेनयशस्वी क्षैतः क्षितौभवः प्रियः प्रीणयिता सोमः सानौ समुच्छ्रिते अव्ये अविमये पवित्रे अस्मे अस्मदर्थं सम्मृज्यते ऋत्विग्भिः परिपूयते । उ अवधारणे । पूयमानस्त्वं धन्वान्तरिक्षे अभिस्वर अभितः शब्दय यूयं पूजायां बहुवचनं हे सोम त्वं नोस्मान् स्वस्तिभिः कल्याणतमैः पालनैः सदा सर्वदा पात रक्षत पालयत ॥ ३ ॥
@@ -246,8 +249,6 @@ Cry out, run, as you are being purified. – Do you protect us always with  your
 pūṣéva dhījávano ‘si soma, which is, of course, a good arg. But Pūṣan doesn’t cut much of a figure in IX, does not really belong in this exalted company (Vāyu, Mitra+Varuṇa, Indra - though see the list in IX.81.4-5), and is not an appropriate referent for the other words in this pāda: náram … ratheṣṭhā̇́m. In the sg.
 
 nṛ́- is almost always used of Indra, as are ratheṣṭhā́- and ratheṣṭhá-. I am therefore certain that c, like d, refers to Indra.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -281,8 +282,6 @@ Auf wollnem Gipfel wird geklärt der liebe, der Fürst bei uns beliebter als bel
 Шуми, беги, очищаясь!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

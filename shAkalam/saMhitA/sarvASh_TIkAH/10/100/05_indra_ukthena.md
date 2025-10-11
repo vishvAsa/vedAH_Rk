@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- परमेश्वरः। उक्थेन- मन्त्रेण। शवसा- बलेन। परुः- पर्व। दधे- धृतवान्। बृहस्पते-  मेधाधिदैवत। आयुषः। प्रतरीता- वर्धकः। असि- भवसि। यज्ञः- सङ्गतिकारकः। मनुः-  मननशीलः। प्रमतिः- प्रकर्षचित्तयुख्नः। नः- अस्माकम्। पिता- पालकः। कम्- आनन्दं  प्रयच्छसि। हि- खलु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्द्रः** **उक्थेन** **शवसा** स्तुत्येन बलेन **परुः** पर्व यज्ञियमस्मदीयं वा **दधे** धारयति । हे **बृहस्पते** **आयुषः** ममायुष्यस्य **प्रतरीता** प्रवर्धयिता **असि** भव । तथा **यज्ञो** **मनुः** मन्ता **प्रमतिः** प्रकृष्टा मतिर्यस्य सः **नः** **पिता** पालकः सन् **कं** सुखं प्रयच्छतु । यद्वा । यज्ञो मन्त्रो बुद्धिश्च प्रत्येकं सुखं प्रयच्छतु ॥
@@ -265,10 +268,6 @@ Indra hat durch den Lobpreis an Kraft ein Gelenk angesetzt. Brihaspati, du bist 
 
 Indra empfing mit Spruch und Kraft das Somakraut; Brihaspati, du dehnest unser Leben aus; Das Opfer ist uns Manu, wie ein Vater hold; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

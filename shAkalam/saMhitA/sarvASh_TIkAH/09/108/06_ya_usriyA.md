@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "ऋजिश्वा"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - ऋजिश्वा
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। उस्रियाः- उत्सरणशीलान्॥ अप्याः- जीवोदकसंबन्धिनः। गाः- चिद्रश्मीन्। अश्मनः-  जडात्। अन्तः। ओजसा- तेजसा। निः अकृन्तत्- निरगमयत्। गव्यम्- चित्किरणसंबन्धिनम्।  अश्व्यम्- प्राणसंबन्धिनम्। व्रजम्- समूहम्। अभि- अभितः। तत्निषे- व्याप्नोषि। स त्वम्। वर्मी-  कवची। इव। धृष्णो- शत्रुधर्षक। आ रुज- अन्तरायान् जहि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **उस्रियाः** उत्सरणशीलाः **अप्याः** । अप इत्यन्तरिक्षनाम । तस्मात् भवे छन्दसि ' इति यत् । अन्तरिक्षस्था अहिप्रभृतिभिरसुरैरपहृत्य निहिताः **गाः** अपः **अश्मनः** । मेघनामैतत् । मेघात् **अन्तः** **ओजसा** बलेन **निः** अकृन्तत् निरच्छिनत् निरगमयत् । अन्तरिक्षात् वृष्टिमकार्षीदित्यर्थः । स त्वमसुरैरपहृतं **गव्यं** गोसंबन्धिनम् **अश्व्यम्** अश्वेषु भवं **व्रजं** समूहम् **अभि** **तत्निषे** अभितो व्याप्नोषि ॥ ‘ तनु विस्तारे'। छान्दसे लिटि' तनिपत्योश्छन्दसि ' इत्युपधालोपः । किंच हे **धृष्णो** शत्रुधर्षणशील सोम स त्वं **वर्मीव** कवचीव शूरः **आ** **रुज** असुरानाजहि ॥
@@ -251,7 +254,6 @@ horses. Like a man in armor, break into it, o bold one.
 Geldner suggests that pāda a concerns the Vṛtra myth and b the Vala myth, based primarily on ápya- ‘watery’ as a descriptor of the cows in the former. This does not seem to me sufficient evidence, esp. because ápya- is not elsewhere used in connection with the Vṛtra myth. In his n. (6b) Geldner appears amenable to a unitary interpr. of ab, as only depicting the Vala myth, as I also take it, though why the cows are ‘watery’ isn’t clear to me. Geldner’s alternative explanation, involving X.67.5, does not seem terribly strong. It suggest it may be connected with the waters used in the ritual preparation of soma; see vs. 7.
 
 On abhí √tan see comm. ad VIII.6.25.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
@@ -285,8 +287,6 @@ Der aus dem Fels des Wassers rothe Kühe du mit Kraft hervorgespalten hast, Du d
 Ты (далеко) протянул загон с коровами, с конями:  
 Разбей его смело, как воин со щитом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

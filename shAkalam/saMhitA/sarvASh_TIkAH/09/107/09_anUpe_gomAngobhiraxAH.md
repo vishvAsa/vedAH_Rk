@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दुग्धाभिः- ज्ञानदोहकैः। गोभिः- चित्किरणैः। गोमान्- चिद्रश्मियुख्नः। सोमः- रसः। अनूपे-  निम्ने हृदये। अक्षाः- क्षरति। समुद्रं न- समुद्रमिव। संवरणानि- स्वावारकहृदयानि। अग्मन्-  सरति। मन्दी- तृप्तिकरः। मदाय- तृप्तये। तोशते- निष्पाद्यते॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गोमान्** गोयुक्तः सोमः **अनूपे** निम्ने देशे कलशे **गोभिः** गोविकारैः क्षीरादिभिः सह **अक्षाः** क्षरति । तदेवोच्यते । सः **सोमः** आत्मनो मिश्रणार्थं **दुग्धाभिः** गोभिः सह **अक्षाः** क्षरति । क्षरतेर्लुङि रूपम् । किंच **समुद्रं** **न** यथा समुद्रमुदकानि गच्छन्ति तद्वत् **संवरणानि** संभजनीयानि रसरूपाण्यन्नानि द्रोणकलशम् **अग्मन्** गच्छन्ति । गमेर्लुङि च्लेर्लुकि रूपम् । किंच **मन्दी** मदकरः सोमः **मदाय** मदार्थं **तोशते** हन्यतेऽभिषूयते । तोशतिर्वधकर्मा ॥
@@ -209,7 +212,6 @@ Both instances of akṣāḥ should probably be read with distracted 2nd syllabl
 In addition, pāda a is metrically deficient, even with this distracted reading. We expect a 12-syl. pāda in the Satobṛhatī that provides the 2nd vss. of the pragāthas in this hymn; the Anukr. simply identifies the vs. instead as a Bṛhatī, which should have an 8-syl. pāda in this position. Even without distracted akṣāḥ, it would have 9 syllables, and with the distraction 10. Best to consider it a deficient Satobṛhatī, which is the vs.-form expected, than an over-abundant Bṛhatī. As for ways to make up the deficiency, see Oldenberg A distracted reading of anūpé would provide at least one more syllable as well as a standard 4-syl. opening; however, neither etym. (*anu-Hp-á-; see EWA s.v.) nor the other occurrence of the stem (X.27.23) favors this distraction.
 
 Oldenberg rather exasperatedly suggests that the metrical disturbances in this vs. (see also the Triṣṭubh cadence of c in a 12-syl. pāda) may result from “mangelhaftes Formgefühl des Vfs.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -243,8 +245,6 @@ Schon rann ins Becken mit der Milch der Kühe Herr, Soma mit der gemolkenen; Die
 Как (реки) в океан, они отправились в загоны.  
 Веселящий сочится для опьянения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

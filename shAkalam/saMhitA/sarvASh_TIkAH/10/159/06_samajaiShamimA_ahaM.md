@@ -3,7 +3,6 @@ title = "006"
 devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शची पौलोमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। अस्य- एतस्य। वीरस्य जनस्य च- वीर्यसन्ततेः। विराजानि- द्योतनशीला भवति तथा।  इमाः- एताः। सपत्नीः। अहम्। अभिभूवरी- अभिभवित्री सती। समजैषम्- सम्यक् अजयम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अभिभूवरी** अभिभवित्री **अहम्** **इमाः** **सपत्नीः** **समजैषं** सम्यगभ्यभूवम् । **यथा** येन प्रकारेण **अहमस्य** **वीरस्य** इन्द्रस्य तदीयपरिजनस्य **च** **विराजानि** विशेषेण राजमाना भवानि । तथा समजैषमित्यर्थः ॥ ॥ १७ ॥
@@ -207,8 +210,6 @@ Ich habe alle sie besiegt, die Nebenfrauen übermannt, Damit ich über diesen Ma
 Чтобы стала править я  
 Этим мужем и родом (его)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

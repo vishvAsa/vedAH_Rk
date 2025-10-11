@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- हृदयस्पर्शिन्। अश्ववित्- प्राणज्ञः सन्। हिरण्यवत्- दीप्तम्। गोमत्- चिद्रश्मियुख्नम्।  अश्वम्- प्राणम्। सहस्रणीरिषः- अनन्ताः सदिच्छाः। नः- अस्मदर्थम्। परि- परितः। क्षर-  पवस्व॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अश्ववित्** अश्वस्य लम्भकस्त्वं **नः** अस्माकम् **अश्वं** **गोमत्** गोयुक्तं **हिरण्यवत्** हिरण्योपेतं धनं च **परि** **क्षर** । अपि च **सहस्रिणीः** बहूनि **इषः** अन्नानि क्षर ॥
@@ -166,7 +169,6 @@ and thousandfold refreshments.
 The Inhaltsakk. with pári … kṣárā are disharmonious in formation, with the sg.
 
 noun áśvam (rendered in the published translation as the mass noun ‘horseflesh’, perhaps a bit too vividly) in pāda a followed by two possessive adj. gómat and híraṇyavat ‘possessing / consisting of cattle (and) gold’ in pāda b, followed by a pl. NP sahasríṇīr íṣaḥ ‘thousandfold refreshments’ in c. In a we might have expected áśvāvat ‘possessing / consisting of horses’, to match the adjectival forms in b, but the phonologically similar and adjacent aśvavíd ‘horse-finding’ may have blocked it (to avoid *áśvāvad aśvavíd [though some RVic poets would have loved that phrase]).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -200,8 +202,6 @@ O ströme Rosse spendend du uns Gut an Ross und Rind und Gold, O Indu, tausend T
 Владение коровами, о капля, владение золотом!  
 Принеси, струясь, тысячные услады!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

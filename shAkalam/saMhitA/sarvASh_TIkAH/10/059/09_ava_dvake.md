@@ -3,7 +3,6 @@ title = "009"
 devataa = "द्यावापृथिव्यौ"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "महापङ्क्तिः"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - महापङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 áva ← áva (invariable)  
@@ -277,6 +275,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भेषजा- भेषजानि। दिवः- नभसः। द्वके- अश्विनोः। त्रिका- इळासरस्वतीमहीषु। अव चरन्ति।  एककम्- एकं भेषजम्। क्षमा- क्षमायाम्। चरिष्णु- चरति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिवः** द्युलोकात् **भेषजा** भेषजानि **द्वके** द्विकं **त्रिका** त्रिकं च **अव** **चरन्ति** । अत्राश्विनौ द्विकमवचरतः । इळा सरस्वती भारती त्रिकमवचरन्ति । **क्षमा** क्षमायां **चरिष्णु** चरति **एककम्** एकं भेषजमित्यभिप्रायमाह । तानि सर्वाणि सुबन्धोः प्राणं परिरक्षन्त्विति शेषः ॥
@@ -326,8 +329,6 @@ Vom Himmel hernieder kommen die Arzeneien, zu zweien und zu dreien verbunden, un
 О Небо (и) Земля, (пусть уйдет) повреждение в землю!  
 Пусть же совсем ничего не болит у тебя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

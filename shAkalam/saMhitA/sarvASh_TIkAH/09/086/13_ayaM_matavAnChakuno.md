@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। पवमानः- पुनानो रसः। मतवान्- अभिमतयुख्नः। शकुनो यथा हितः-  नीडनिहितपक्षीव। ऊर्मिणा- तरङ्गेण। अव्ये- प्रतीके। ससार- अभिगच्छति। कवे- क्रान्तदर्शिन्।  इन्द्र- परमेश्वर। तव- भवतः। क्रत्वा- सङ्कल्पेन। ते- तव। सोमः- रसः। रोदसी अन्तः-  द्यावापृथिव्योरन्तः। आ- समन्तात्। शुचिः- शुद्धः सन्। धिया- चित्तधारणया। पवते-  क्षरति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयं** सोमः **मतवान्** । मतं संमतं प्रियं स्तोत्रम् । तद्वान् **पवमानः** पूयमानः शोध्यमानश्च सन् **हितः** प्रेरितः **शकुनः** पक्षी **यथा** शीघ्रं गच्छति तथा **अव्ये** पवित्रे **ऊर्मिणा** रसेन **ससार** गच्छति । हे **कवे** क्रान्तप्रज्ञ अनूचान वा । ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. ३८) इति श्रुतेः । तादृश यजमान यद्वा उक्तलक्षण **इन्द्र** **ते** तव **क्रत्वा** कर्मणा **धिया** प्रज्ञया च । यद्वा । विशेषणविशेष्यभावः । धिया धारकेण क्रत्वा कर्मणा **रोदसी** **अन्तरा** रोदस्योर्द्यावापृथिव्योरन्तरा **शुचिः** **सोमः** **पवते** पूयते ॥
@@ -257,8 +260,6 @@ The 2nd hemistich opens with a form of the 2nd sg prn., táva, followed at inter
 
 The image of Soma purifying himself “between the two world-halves” of course reflects the cosmic reach of the Soma, but it may also have a narrower ritual application. In IX.98.9 Geldner suggests that the world-halves there are the jaws of the soma-press, which would fit nicely here. See also IX.75.4, where the world-halves are called the mothers of Soma.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -283,10 +284,6 @@ Nachdem er sich bedacht hatte, ist dieser wie ein Vogel getrieben mit der Woge a
 
 Sein Ziel verfolgend, wie ein Falke ausgesandt ergoss er rieselnd auf die Wolle wogend sich; Durch deinen Antrieb, weiser Indra, rieselt hell mit Einsicht Soma zwischen Erd' und Himmel dir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

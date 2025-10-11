@@ -3,7 +3,6 @@ title = "032"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 mā́ ← mā́ (invariable)  
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। दम्पती। आसीदन्ति- अभिगच्छन्ति। ते परिपन्थिनः। तौ मा विदन्। सुगेभिः- सुगमनीयैः  साधनैः। दुर्गं- दुर्गमं मार्गम्। अतीताम्- अतिगच्छताम्। अरातयः- शत्रवः। अप द्रान्तु-  अपगच्छन्तु॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **परिपन्थिनः** पर्यवस्थातारः शत्रवः **मा** **विदन्** मा प्रापयन् ये **परिपन्थिनः** **दंपती** **आसीदन्ति** अभिगच्छन्ति । **सुगेभिः** सुगैर्मार्गैः **दुर्गं** दुःखेन गन्तुं शक्यं दुर्गमं देशम् **अतीतां** अतिगच्छताम्। **अरातयः** अदातारः शत्रवः **अप** **द्रान्तु** अपगच्छन्तु ॥
@@ -205,8 +208,6 @@ Nicht mögen Wegelagerer, welche im Hinterhalte liegen, das Ehepaar erreichen, a
 Пусть эти двое счастливыми путями обьедут опасный путь!  
 Пусть сгинет прочь (вся) нечисть!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

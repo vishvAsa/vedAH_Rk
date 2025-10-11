@@ -3,7 +3,6 @@ title = "१४ चन्द्रमा मनसो"
 devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नारायणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 antárikṣam ← antárikṣa- (nominal stem)  
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नाभ्याः- नाभिकमलात्। अन्तरिक्षम्। आसीत्- अभवत्। तदेवान्तरालं नाभिवत्। शीर्ष्णोः-  शिरसः। द्यौः- नभः। समवर्तत- अभवत्। पद्भ्याम्- चरणाभ्याम्। भूमिः- पृथिवी। श्रोत्रात्-  श्रवणेन्द्रियात्। दिशः। दिग्भ्य एव श्रोतुं शक्यमिति कारणात्। तथा- इत्थम्। लोकान्।  अकल्पयन्- द्योतनशख्नयः पुरुषात् कल्पितवन्तः॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यथा दध्याज्यादिद्रव्याणि गवादयः पशव ऋगादिवेदा ब्राह्मणादयो मनुष्याश्च तस्मादुत्पन्ना एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्ना इत्याह । प्रजापतेः **मनसः** सकाशाद् **चन्द्रमाः** **जातः** । **चक्षोः** च चक्षुषः **सूर्यः** अपि **अजायत** । अस्य **मुखादिन्द्रश्चाग्निश्च** देवावुत्पन्नौ । अस्य **प्राणाद्वायुरजायत** ॥
@@ -192,7 +195,6 @@ _________
 
 चक्षोरिति । वर्णलोपश्छान्दसः । चष्टेर्वा उप्रत्ययः । मुखाद् आस्यात् । 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -235,8 +237,6 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 Из ног – земля, стороны света – из уха.  
 Так они устроили миры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

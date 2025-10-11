@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोतारः- रसनिष्पादकाः। आशुम्- क्षिप्रकारिणम्। वाजिनम्- गतिमन्तम्। धनस्पृतम्-  संपत्स्पर्शिनम्। तम्- अमुं रसम्। हरिम्- आकर्षकम्। वाजाय यातवे- हव्याय गन्तुम्। हिनोत-  प्रेरयन्ति॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोतारः** अभिषवकर्तार ऋत्विजः **धनस्पृतं** धनानां स्प्रष्टारं **वाजिनं** बलिनम् **आशुं** वेगवन्तं **तं** सोमात्मकं **हरिम्** अश्वं **वाजाय** यज्ञाख्यं संग्रामं **यातवे** गन्तंं **हिनोत** प्रेरयत । यथा योद्धारो युद्धं गन्तुं बलिनं वेगवन्तमश्वं प्रेरयन्ति तद्वत् यज्ञमभिगन्तुं बलवन्तं सोमं प्रेरयतेति भावः ॥
@@ -156,7 +159,6 @@ O pressers, impel the swift one to drive for the prize—the winner of spoils, t
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is notable for its 2nd ps. address to the priests (sotāraḥ … hinota “o pressers, impel …”), also found in vss. 21, 29. Ordinarily 2nd ps. in soma hymns is reserved for Soma (sg.) and his drops (etc.) (pl.).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -183,10 +185,6 @@ Ihn treibet, ihr Auspressende, zur Eile, den preisgewinnenden Renner, den siegre
 Ihr Sänger, spornt das schnelle Ross, das starke, schatzerbeutende, Zu eilen zu des Wettlaufs Preis.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -197,7 +195,7 @@ Ihr Sänger, spornt das schnelle Ross, das starke, schatzerbeutende, Zu eilen zu
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोतारः)हे अमात्यादि अभिषेक्ता लोगों ! (धनस्पृतम्) जो कि धनों का संचय करनेवाला है तथा (आशुम्) बहुव्यापी है (हरिम्) और शत्रुओं का विघातक (वाजिनम्) सुन्दर बलवाला है, उसको (वाजाय) शक्ति बढ़ाने को (यातवे) यात्रा करने के लिये (हिनोत) प्रेरणा करो॥१८॥
+पदार्थान्वयभाषाः -  (सोतारः)हे अमात्यादि अभिषेक्ता लोगों ! (धनस्पृतम्) जो कि धनों का संचय करनेवाला है तथा (आशुम्) बहुव्यापी है (हरिम्) और शत्रुओं का विघातक (वाजिनम्) सुन्दर बलवाला है, उसको (वाजाय) शक्ति बढ़ाने को (यातवे) यात्रा करने के लिये (हिनोत) प्रेरणा करो॥१८॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

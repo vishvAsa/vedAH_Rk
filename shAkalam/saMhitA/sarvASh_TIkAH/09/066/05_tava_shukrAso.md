@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    तव- भवतः। शुक्रासः- शुद्धाः। अर्चयः- दीप्तयः। सोम- रस। धामभिः- स्वसदनैः। दिवस्पृष्ठे-  चिदाकाशोत्कृष्टस्थाने। पवित्रम्- शोधकं प्रतीकम्। वि तन्वते- विस्तारयन्ति। प्रतीकस्य  सूक्ष्मस्थितिं ख्यापयन्तीति भावः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **शुक्रासः** सर्वत्र ज्वलनशीलाः **धामभिः** तेजोभिः सहितस्य **तव** स्वभूताः **अर्चयः** अर्चनीया रश्मयः **दिवः** द्योतमानस्यादित्यस्य द्युलोकस्य वा **पृष्ठे** अधरभागे। पृथिव्यामित्यर्थः। **पवित्रं** पवनसाधनमुदकं **वि** **तन्वते** विशेषेण तन्वन्ति विस्तारयन्ति । सर्वत्र कुर्वन्तीत्यर्थः ॥ ॥ ७ ॥
@@ -167,7 +170,6 @@ This vs. seems to unite Soma’s two theatres of operation, as laid out in vss. 
 
 Renou’s characterization in his n. - “Soma-soleil …; en fait, l’image rituelle se combine avec l’image solaire” - expresses this rather nicely, though it’s hard to get it from his tr. On the likening of the soma liquid on the filter to the sun, see IX.10.5 and comm. thereon.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -193,10 +195,6 @@ Deine klaren Strahlen breiten am Rücken des Himmels eine Seihe aus durch ihre E
 Am Himmelsrücken breiten sich rings deine hellen Strahlen aus Zur Seihe, Soma, nach dem Brauch.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -212,7 +210,7 @@ Am Himmelsrücken breiten sich rings deine hellen Strahlen aus Zur Seihe, Soma, 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा की ज्योति सर्वत्र दीप्तिमती है, उसके प्रकाश से एक रेणु भी खाली नहीं। द्युलोक में उसका प्रकाश इस प्रकार फैला हुआ है, जैसे मकड़ी के जाले के तन्तुओं के आतान-वितान का पारावार नहीं मिलता, इसी प्रकार उसका पारावार नहीं ॥ अथवा यों कहो कि मयूरपिच्छ की शोभा के समान उसके द्युलोक की अनन्त प्रकार की शोभा है, जिसको परमात्मज्योति ने देदीप्यमान किया है ॥५॥
+भावार्थभाषाः -  परमात्मा की ज्योति सर्वत्र दीप्तिमती है, उसके प्रकाश से एक रेणु भी खाली नहीं। द्युलोक में उसका प्रकाश इस प्रकार फैला हुआ है, जैसे मकड़ी के जाले के तन्तुओं के आतान-वितान का पारावार नहीं मिलता, इसी प्रकार उसका पारावार नहीं ॥ अथवा यों कहो कि मयूरपिच्छ की शोभा के समान उसके द्युलोक की अनन्त प्रकार की शोभा है, जिसको परमात्मज्योति ने देदीप्यमान किया है ॥५॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

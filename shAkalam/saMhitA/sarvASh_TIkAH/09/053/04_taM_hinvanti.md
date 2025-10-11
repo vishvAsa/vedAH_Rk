@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदच्युतम्- हर्षस्रावकम्। हरिम्- आकर्षकम्। वाजिनम्- शोभनगतिम्। इन्दुम्- क्लेदनशीलम्।  मत्सरम्- तृप्तिकरम्। तम्- अमुं रसम्। नदीषु- जीवोदकेषु। इन्द्राय- परमेश्वराय। हिन्वन्ति-  प्रेरयन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मदच्युतं** मदस्य च्यावयितारं **हरिं** हरितवर्णं **वाजिनं** बलिनं **मत्सरं** मदकरं **तम्** **इन्दुं** सोमं **नदीषु** वसतीवरीषु **इन्द्राय** इन्द्रार्थं **हिन्वन्ति** ऋत्विजः प्रेरयन्ति ॥ ॥ १० ॥
@@ -169,10 +172,6 @@ Diesen rauscherregten falben Preisrenner treiben sie in die Flüsse, den berausc
 
 Das goldne Ross, das Lust erregt, das spornen in den Strömen sie, Zum Rausch dem Indra, Indu ihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

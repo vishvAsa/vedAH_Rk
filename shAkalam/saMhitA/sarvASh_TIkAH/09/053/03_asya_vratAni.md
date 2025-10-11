@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। पवमानस्य- पुनानस्य रसस्य। व्रतानि- नियतयः। दूढ्या- दुर्बुद्धिना। नाधृषे-  आधर्षयितुमशक्याः। यः। त्वा- भवता। पृतन्यति- योद्धुमिच्छति तम्। रुज- बाधस्व॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **पवमानस्य** क्षरतो यस्य **अस्य** तव **व्रतानि** कर्माणि **दूढ्या** दुर्बुद्धिना राक्षसेन **नाधृषे** आधर्षयितुमशक्यानि स त्वं त्वां **यः** दुर्बुद्धिः शत्रुः **पृतन्यति** योद्भुमिच्छति तं **रुज** बाधस्व॥
@@ -176,10 +179,6 @@ Dieses Pavamana´s Vorschriften sind von keinem Übelgesinnten anzutasten. Zersc
 
 Kein Bösewicht kann widerstehn den Werken dieses flammenden; Wer dich befeindet, den zerbrich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

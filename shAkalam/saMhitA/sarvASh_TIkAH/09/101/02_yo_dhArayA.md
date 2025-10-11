@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अन्धीगुः श्यावाश्विः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अन्धीगुः श्यावाश्विः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। पावकया- शोधयित्र्या। धारया। सुतः- निष्पन्नः सन्। परिप्रस्यन्दते- परितः प्रकर्षेण क्षरति।  सः। इन्दुः- क्लेदनशीलो रसः। अश्वो न- तुरग इव। कृत्व्यः- वीर्यकर्मा भवति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुतः** अभिपुतः **कृत्व्यः** । कृत्वीति कर्मनाम । कर्मणि साधुः **यः** **इन्दुः** सोमः **पावकया** पापानां शोधयित्र्या **धारया** **परिप्रस्यन्दते** परितः प्रक्षरति । कथमिव । **अश्वो** **न** अश्वो यथा वेगेन प्रगच्छति तद्वत् ॥
@@ -155,7 +158,6 @@ The lengthened ī́of abhī́may represent abhí + ī, the enclitic acc., as I s
 
 Both Geldner and Renou take yajñám as the direct obj. of hinvanti rather than the goal, as I do (Geldner “Soma … als Opfer”). It is certainly true that yajñám √hi is found elsewhere (see Geldner’s n. 3c) and that the dat. is more often used for goal or purpose with √hi. Still, the sacrifice is so often the goal of motion, the goal of motion is so often in the acc., and soma is so often the obj. of √hi that I prefer to keep soma and the sacrifice as separate entities.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -163,6 +165,7 @@ There is no particular unity visible in this tṛca, and vs. 1 in particular sta
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -194,8 +197,6 @@ Den Indu, der gekeltert rings im Flammenstrome vorwärts eilt, Gleich wie ein kr
 Очищающим потоком,  
 (Этот) сок сомы – словно конь, решающий исход (битвы).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

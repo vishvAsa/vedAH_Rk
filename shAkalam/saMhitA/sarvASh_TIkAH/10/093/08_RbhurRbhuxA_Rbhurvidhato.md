@@ -3,7 +3,6 @@ title = "008"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - प्रस्तारपङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋभुक्षाः- महानिन्द्रः। ऋभुः- उरु भासमानः। विधतः- परिचरतः। मदः- आनन्दोपि। ऋभुः-  उरु भासमानः। ते- तव। जूजुवानस्य- गतिमतः। हरी- आकर्षणशख्निभूताश्वौ। आ-  आभिमुख्येन। वाजिना- गतिमन्तौ। यस्य। साम- सामगानम्। दुष्टरम्-  आलस्याद्यन्तरायैरजेयम्। तस्य। ऋधक्- पृथक्। यज्ञः। न मानुषः- अमानुषः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋभुक्षाः** महानिन्द्रः **ऋभुः** यज्ञेन भाति । किंच **विधतः** त्वां परिचरतो यजमानस्य **मदः** हर्षोऽपि **ऋभुः** यज्ञेन भाति । हे इन्द्र **आ** **जूजुवानस्य** यागं प्रति शीघ्रमागच्छतः **ते** तव **हरी** अश्वावपि **वाजिना** वाजिनौ बलवन्तौ । किंच **यस्य** इन्द्रस्य संबन्धि **साम** **चित्** गीयमानं सामापि **दुष्टरं** रक्षोभिरप्रापणीयम् । एषः **यज्ञः** **मानुषः** मनुष्यसाधारणः **न** किंच **ऋधक्** पृथक् । दिव्य इत्यर्थः ॥
@@ -251,10 +254,6 @@ Kunstreich ist Ribhuksan, kunstreich der Rauschtrank des Verehrenden; heran soll
 
 Tüchtig ist Ribhukschan, tüchtig der Rauschtrank des Verehrers; her [mögen kommen] deine, des eilenden, rasche Goldrosse[487] beide, dessen Gesang selbst unbezwinglich ist in herrlicher Weise wie das Opfer der Menschen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

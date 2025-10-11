@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अयास्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवित्रम्- शोधकं प्रतीकं पात्रं वा। अति- अतिक्रम्य च। अक्रमीत्- गच्छति। यामनि- मार्गे।  वाजी न- अश्व इव। धुरम्- भारं निर्वहति। इन्दुः- क्लेदको रसः। देवेषु- देवतासु। पत्यते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दुः** सोमः **वाजी** अश्वः **यामनि** गमने **धुरं** **न** रथस्य धुरं यथा तथा **पवित्रम्** **अति** **अक्रमीत्** अतिगच्छति । **देवेषु** देवानां मध्ये **पत्यते** गच्छति च ॥
@@ -188,10 +191,6 @@ Er ist über die Seihe gelaufen wie das Rennpferd auf der Fahrt über die Deichs
 
 Schon drang er durch das Sieb hindurch, wie auf der Fahrt ein Ross durchs Joch, Der Indu ist der Götter Freund.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

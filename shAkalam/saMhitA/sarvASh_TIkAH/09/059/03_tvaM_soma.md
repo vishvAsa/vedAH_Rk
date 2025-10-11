@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। सोम- रस। पवमानः- पुनानः सन्। विश्वानि दुरिता- सर्वदुरितेभ्यः। तर- तारय। बर्हिषि-  आसने। नि- नितराम्। कविः- क्रान्तदर्शी सन्। सीद- उपविश॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **पवमानः** पूयमानः **कविः** क्रान्तकर्मा **त्वं** **विश्वानि** सर्वाणि दुरितानि राक्षसैः कृतान्युपद्रवाणि **तर** निराकुरु । अस्मिन् **बर्हिषि** **नि** **षीद** च ॥
@@ -172,10 +175,6 @@ Entgeh, o Soma, wenn du dich läuterst, allen Fährlichkeiten! Du, der Weise, se
 
 O Soma, flammend rieselnder, dring siegreich hin durch alle Noth Und setz dich, weiser, auf die Streu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

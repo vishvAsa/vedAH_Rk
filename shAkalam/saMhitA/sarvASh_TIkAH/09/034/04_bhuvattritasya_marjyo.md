@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रितः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्रितस्य- तीर्णतमस्य तिरस्कृताज्ञानस्य। मर्ज्यः- शोधितः। भुवत्- भवति। इन्द्राय- परमेश्वराय।  मत्सरः- तृप्तिकरः। भुवत्- भवति। रूपैः- प्रतीकैः। हरिः- आकर्षकः सोमः। समज्यते- सम्यक्  व्यज्यते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रितस्य** अपां पुत्रस्य सूक्तद्रष्टुर्ऋषेः सोऽयं मत्सरः मदकरः सोमः **मर्ज्यो** **भुवत्** शुद्धो भवति । तस्य यागार्थं शेषपानार्थं च । तथा **इन्द्राय** इन्द्रपानाय मर्ज्यः भुवत् । **रूपैः** रूपकैश्च क्षीरादिभिः **हरिः** हरितवर्णः सोमः **सम्** **अज्यते** ॥
@@ -181,8 +184,6 @@ yád góbhiḥ ... samajyáse, IX.72.1 sáṃ dhenúbhiḥ ... ajyate; without s
 
 The published translation does not reflect the possible pun on sám … ajyate that was noted in
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -213,8 +214,6 @@ Dem Trita sei zu läutern er, dem Indra sei berauschend er, Mit Schönheit wird 
 Золотистый украшается всеми (своими) формами.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -230,7 +229,7 @@ Dem Trita sei zu läutern er, dem Indra sei berauschend er, Mit Schönheit wird 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा की रचना से उसकी सत्ता का स्पष्ट प्रमाण मिलता है अर्थात् जो नियम इस ब्रह्माण्ड में पाये जाते हैं, उनका नियन्ता वही अवश्य मानना पड़ता है। उसनियन्ताका साक्षात्कार यम-नियमादि साधनों द्वारा होताहै,अन्यथा नहीं ॥४॥
+भावार्थभाषाः -  परमात्मा की रचना से उसकी सत्ता का स्पष्ट प्रमाण मिलता है अर्थात् जो नियम इस ब्रह्माण्ड में पाये जाते हैं, उनका नियन्ता वही अवश्य मानना पड़ता है। उसनियन्ताका साक्षात्कार यम-नियमादि साधनों द्वारा होताहै,अन्यथा नहीं ॥४॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेधातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। गोभिः- आत्मसूर्यस्य चित्किरणैः। वासयिष्यसे- अलङ्कृतोसि। तदा। महीः-  महत्यः। आपः- मूलशख्निधाराः। सिन्धवः- स्यन्दनशीलाः। महान्तम्- महात्मानम्। त्वा-  भवन्तम्। अर्षन्ति- गच्छन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **यत्** यदा यज्ञे **गोभिः** गोविकारैः पयोभिः **वासयिष्यसे** आच्छादयिष्यते तदा **महान्तं** त्वाम् **अनु** प्रति **सिन्धवः** स्यन्दमानाः **महीः** महत्यः **आपः** **अर्षन्ति** गच्छन्ति ॥
@@ -164,8 +167,6 @@ What I don’t quite understand is why we have the rather exotic form, a causati
 The b pāda contains a pres. indic., ā́po arṣanti síndhavaḥ “The waters, the rivers rush,” while c contains the causative future under discussion. On the one hand, the future may be signaling that the second action (clothing in milk) will follow the first (clothing in waters); this is of course the normal ritual order. But we should also remember that the future, esp.
 
 the finite future, is relatively rare in the RV, and, curiously, it tends to have a more volitional nuance than the subjunctive, with which it competes. A good ex. of this is found in the famous and well-trodden Agni hymn I.1, where in vs. 6 yád … dāśúṣe … bhadraṃ kariṣyási should be rendered “what good thing you will do for the pious man,” indicating Agni’s deliberate choice to favor that man. Here I would suggest that Soma is bound and determined to clothe himself with milk at this point in the ritual proceedings; it is not just the next event on the menu.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -199,8 +200,6 @@ Es strömen Wasserfluten dir, dem grossen grosse Ströme nach, Wenn du in Milch 
 Когда ты хочешь рядиться в коровье молоко.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -211,7 +210,7 @@ Es strömen Wasserfluten dir, dem grossen grosse Ströme nach, Wenn du in Milch 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हेपरमात्मन् ! (महान्तम्) सबसे बड़े (त्वा) तुमको (महीः) पृथिवी और (आपः) जल तथा (सिन्धवः) स्यन्दनशील सब पदार्थ (अर्षन्ति) आश्रय किये हुए हैं (यत्) क्योंकि तुम (गोभिः) अपनी शक्तियों से सबका (वासयिष्यसे) नियमन करते हो॥४॥
+पदार्थान्वयभाषाः -  हेपरमात्मन् ! (महान्तम्) सबसे बड़े (त्वा) तुमको (महीः) पृथिवी और (आपः) जल तथा (सिन्धवः) स्यन्दनशील सब पदार्थ (अर्षन्ति) आश्रय किये हुए हैं (यत्) क्योंकि तुम (गोभिः) अपनी शक्तियों से सबका (वासयिष्यसे) नियमन करते हो॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

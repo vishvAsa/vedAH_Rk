@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। बृहत्- महत्। शुक्रम्- शुभ्रम्। ज्योतिः। ऋतम्- प्रकृतिनियतिभूतसत्यम्।  अजीजनत्- ससर्ज। कृष्णा तमांसि- अन्धकारान्। जङ्घनत्- नाशयामास॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** **ऋतं** सत्यं यथार्थभूतं **बृहत्** प्रभूतं सर्वदेशेषु व्यापकं **शुक्रं** दीप्यमानं श्वेतवर्णं **ज्योतिः** तेजः **अजीजनत्** द्युलोक उदपादयत् । किं कुर्वन् । **कृष्णा** कृष्णवर्णानि **तमांसि** **जङ्घनत्** भृशं विनाशयन् । हन्तेर्यङ्लुकि शतरि रूपम् । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥
@@ -156,7 +159,6 @@ continually smashing (back) the black shades of darkness.
 With Lüders (266), I take ṛtáṃ bṛhát as a nom. in apposition to Soma, rather than another acc. obj. to ajījanat as Geldner/Renou do. Either of course is possible; there are several passages in which an identification of Soma with ṛtá seems likely. See comm. ad IX.56.1.
 
 But I would certainly accept an acc. interpr. as alternative.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -187,10 +189,6 @@ Pavamana hat das hohe Gesetz, das helle Licht erschaffen, die schwarze Finsterni
 Erhabnes Werk hat er erzeugt und helles Licht der flammende, Verjagend schwarze Finsterniss.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -201,7 +199,7 @@ Erhabnes Werk hat er erzeugt und helles Licht der flammende, Verjagend schwarze 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  तब (पवमानः) सबको पवित्र करनेवाला परमात्मा (बृहत्) बड़े (शुक्रम्) बलस्वरूप (ऋतं ज्योतिः) सत्यरूप प्रकाश को (अजीजनत्) पैदा करता है और (कृष्णा) काले (तमांसि) अन्धकारों को (जङ्घनत्) नाश करता है॥२४॥
+पदार्थान्वयभाषाः -  तब (पवमानः) सबको पवित्र करनेवाला परमात्मा (बृहत्) बड़े (शुक्रम्) बलस्वरूप (ऋतं ज्योतिः) सत्यरूप प्रकाश को (अजीजनत्) पैदा करता है और (कृष्णा) काले (तमांसि) अन्धकारों को (जङ्घनत्) नाश करता है॥२४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

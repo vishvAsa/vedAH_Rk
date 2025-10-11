@@ -3,7 +3,6 @@ title = "008"
 devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गयः प्लातः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। प्रचेतसः- प्रकर्षचित्तसम्पन्नाः। मन्तवः- मननशीलाः। विश्वस्य- सर्वस्य। स्थातुः-  स्थावरस्य। जगतः- जङ्गमस्य। भुवनस्य- लोकस्य। ईशिरे- ईशनशीलाः। ते। देवासः- देवाः।  स्वस्तये- मङ्गळाय। नः- अस्मान्। कृताकृतात्- कायिकमानसयोः। एनसः- पापयोः। पिपृत-  पारयत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रचेतसः** प्रकृष्टज्ञानाः **मन्तवः** सर्वस्य वेदितार: **ये** देवा: **स्थातुः** स्थावरस्य **जगतः** जङ्गमस्य **विश्वस्य** सर्वस्य **भुवनस्य** लोकस्य **ईशिरे** ईश्वरा भवन्ति । अथ प्रत्यक्षकृतः । हे **देवासः** देवा य उक्तगुणाः **ते** यूयं **नः** अस्मान् **कृतात्** कायिकात्पापात् **अकृतात्** करचरणादिभिरकृतात् **एनसः** किंतु मानसात्पापाच्च **अद्य** अस्मिन्दिने **स्वस्तये** अविनाशायायुषोऽभिवृद्धये **पिपृत** पारयत । पापरहितान् कुरुतेत्यर्थः ॥
@@ -268,10 +271,6 @@ Welche über die ganze Welt vorausdenkend herrschen, über alles was steht und g
 
 Sie, welche weise herrschen über diese Welt, die über alles walten, was da geht und steht, O führet uns, ihr Götter, aus der Sünde heut aus unvollbrachter und vollbrachter hin zum Heil.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

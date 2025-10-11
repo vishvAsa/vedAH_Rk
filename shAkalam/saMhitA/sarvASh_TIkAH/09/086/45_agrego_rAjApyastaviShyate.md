@@ -3,7 +3,6 @@ title = "045"
 devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अत्रिः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रेगः- अग्रेसरः। राजा- रञ्जकः। अप्यः- अप्सु मूलशख्निधारासु संस्कृतः। तविष्यते- स्तूयते।  अह्नाम्- दिनानाम्। विमानः- निर्माता। भुवनेष्वर्पितः- लोकेषु व्याप्तः। हरिः- आकर्षकः।  घृतस्नुः- प्रसृतदीप्तिः। सुदृशीकः- सुदर्शनः। अर्णवः- समुद्रसमः। ज्योतीरथः- ज्योतिर्मयवाहनः।  ओक्यः- सुसदनः। राये- दानयोग्यसंपदे। पवते- क्षरति॥४५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अग्रेगः** अग्रे गन्ता **राजा** राजमानः **अप्यः** अप्सु संस्कृतः सोमः **तविष्यते** स्तूयते । यः **अह्नां** दिनानां **विमानः** निर्माता चन्द्रकलाहासवृद्ध्यधीनत्वादहर्व्यवहारस्य । **भुवनेषु** उदकेषु वसतीवरीसंबन्धिषु **अर्पितः** स्थापितः स राजा तविष्यते। किंच **हरिः** हरितवर्णः **घृतस्नुः** प्रसृतोदकः **सुदृशीकः** शोभनदर्शनः **अर्णवः** उदकवान् । अर्ण इत्युदकनाम। **ज्योतीरथः** ज्योतिर्मयरथः **राये** धनस्य प्रापयिता । **ओक्यः** । ओक इति निवासनाम । तस्य हितः ॥ ॥ २० ॥
@@ -230,7 +233,6 @@ bhúvaneṣv árpitaḥ also in 39b.
 
 In d I construe rāyé with okyàḥ, although I cannot find any parallel usage. But on its own, okyàḥ is hard to fit semantically into the vs.; cf. Geldner’s “gern bleibend” and Renou’s “(ce dieu) domestique,” which seem like afterthoughts..
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -255,10 +257,6 @@ Vorangehend zeigt der im Wasser wohnende König seine Stärke, der Ausmesser der
 
 Der Fluten König, führend sie, erweist sich stark, die Tage messend, in die Wesen eingefügt; Das schöne Ross, das wallende mit Fett bedeckt, den Lichtschein fahrend, strömt als Hausherr reiches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

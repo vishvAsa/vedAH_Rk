@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    अवस्यवः- रक्षाकामाः। विप्राः- मेधाविन उपासकाः। मर्ज्यं- शोधनयोग्यम्। कविम्- क्रान्तदर्शिनं  सोमम्। धीभिः। मृजन्ति- शोधयन्ति। वृषा- वर्षको रसः। कनिक्रदर्षति- शब्दयन् सरति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अवस्यवः** रक्षणकामाः **विप्राः** मेधाविन ऋत्विजः **धीभिः** अङ्गुलीभिः **मर्ज्यं** मर्जनीयं **कविं** क्रान्तकर्माणं यं सोमं **मृजन्ति** मार्जयन्ति सोऽयं **वृषा** सेचकः सोमः **कनिक्रत्** शब्दं कुर्वन् **अर्षति** धारया क्षरति ॥ ॥ ३३ ॥
@@ -150,7 +153,6 @@ The bull rushes ever roaring.
 <details><summary>Jamison Brereton Notes</summary>
 
 Note kavím (of Soma) contrasting with víprāḥ, the human poets who groom him.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -178,10 +180,6 @@ Es putzen den putzwürdigen Seher unter Gebeten die schutzsuchenden Redner. Brü
 
 Nach Gunst verlangend läutern ihn, den Läutrungswerthen, andachtsvoll Die Sänger, brüllend rinnt der Stier.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

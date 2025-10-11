@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अधा- अथ। अभिष्टिकृत्- अभीष्टवरदः। विचर्षणिः- सूक्ष्मदर्शी। इन्द्रियम्- ईशनशख्निम्।  हिन्वानः- प्रेरयन्। ज्यायः- प्रभूतम्। महित्वम्- माहात्म्यम्। आनशे- व्याप्नोति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अध** अथ **विचर्षणिः** कर्मणां विद्रष्टा **अभिष्टिकृत्** यजमानानामभीष्टस्य फलस्य कर्ता सोमः **इन्द्रियं** स्वकीयं बलं **हिन्वानः** प्रेरयन् **ज्यायः** प्रशस्यतरं **महित्वं** महत्त्वम् **आनशे** प्राप्नोति ॥ ॥ ५ ॥
@@ -164,10 +167,6 @@ Und nun zur Eile getrieben hat er die überlegene indrische Macht erlangt, der A
 
 Da hat, entsandt, noch herrlicher des Indra Grösse er erreicht, Der Hülfe schafft, der emsige.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

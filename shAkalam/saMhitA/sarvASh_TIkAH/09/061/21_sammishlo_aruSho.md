@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्येनः- पक्षी। न- इव। योनिम्- स्वसदनम्। आ- आभिमुख्येन। सीदन्- उपविशन्। सूपस्थाभिर्न  धेनुभिः- शोभनदोहनयुख्नगोभिरिव स्थिताभिः। संमिश्लः- चिद्रश्मिभिर्मिश्रितः। अरुषः-  आरोचमानः। भव॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **सूपस्थाभिः** शोभनोपस्थानाभिः **धेनुभिः** गोभिः । गोविकारैः पयोभिरित्यर्थः । **संमिश्लः** संमिश्रितः **श्येनो** **न** यथा श्येनः शीघ्रमागत्य स्थानमासीदति तद्वत् **योनिं** स्वकीयं स्थानम् **आ** **सीदन्** । **न** संप्रत्यर्थे । इदानीम् **अरुषः** आरोचमानः **भव** ॥
@@ -182,7 +185,6 @@ sitting like a falcon on your womb.
 <details><summary>Jamison Brereton Notes</summary>
 
 As in 16b, the simile in b seems to consist only of what precedes the ná, namely sūpasthā́bhiḥ, while dhenúbhiḥ constitutes the frame. So also Geldner, Renou
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -216,8 +218,6 @@ Mit Kühen misch, o rother, dich die gern dir öffnen ihren Schooss, Und setz' d
 Как сокол, садясь на (свое) место!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -228,7 +228,7 @@ Mit Kühen misch, o rother, dich die gern dir öffnen ihren Schooss, Und setz' d
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  आप (श्येनः न योनिम् आसीदन्) विद्युत् के समान अपने स्थान में स्थित होते हुए (न) तत्काल ही युद्ध में (सूपस्थाभिः धेनुभिः सम्मिश्लः) दृढ़ स्थितिवाली इन्द्रियों से मिश्रित अर्थात् सावधान होकर (अरुषः भव) देदीप्यमान होवें॥२१॥
+पदार्थान्वयभाषाः -  आप (श्येनः न योनिम् आसीदन्) विद्युत् के समान अपने स्थान में स्थित होते हुए (न) तत्काल ही युद्ध में (सूपस्थाभिः धेनुभिः सम्मिश्लः) दृढ़ स्थितिवाली इन्द्रियों से मिश्रित अर्थात् सावधान होकर (अरुषः भव) देदीप्यमान होवें॥२१॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

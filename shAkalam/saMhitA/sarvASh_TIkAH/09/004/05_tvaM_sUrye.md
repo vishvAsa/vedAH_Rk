@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। सूर्ये- आत्मसूर्ये। नः- अस्मान्। तव। क्रत्वा- सङ्कल्पेन। तव। ऊतिभिः- रक्षाभिः। आ  भज- प्रापय॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **त्वं** **तव** **क्रत्वा** **तव** **ऊतिभिः** स्वकर्तृकेण कर्मणा त्वत्कर्तृकाभी रक्षाभिश्च **नः** अस्मान् **सूर्ये** **आ** **भज** प्रापय । सिद्धमन्यत् ॥ ॥ २२ ॥
@@ -223,8 +226,6 @@ O schenke du uns Sonnenlicht, durch deine Kraft und deine Gunst Und mach' uns re
 С помощью твоей силы духа, твоих поддержек  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

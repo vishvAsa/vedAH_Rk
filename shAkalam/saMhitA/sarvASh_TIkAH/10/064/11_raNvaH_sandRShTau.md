@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गयः प्लातः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+संदृष्टौ- दर्शने। रण्वः- रमणीयः। पितुमान्- अन्नवान्। इव। क्षयः- निवासभूतः। मरुद्गणः।  रुद्राणाम्- वेगिनाम्। मरुताम्- प्राणविशेषाणाम्। उपस्तुतिः- मन्त्रः। भद्रा- कल्याणः। देवासः-  हे देवाः। जनेषु। यशसः- कीर्तिमन्तः। स्याम- भवेम। गोभिः- तेजोभिः। स्याम। इळया-  वाचा। सचेमहि- सङ्गताः स्याम॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सन्दृष्टौ सन्दर्शने रण्वो रमणीयो मरुद्गणः पितुमानिवान्नवानिव क्षयो निवासः स्तोतॄणाम् भवति। रुद्रानां रुद्रपुत्राणां तेषां मरुतामुपस्तुतिरनुग्रहबुद्धिर्भद्रा कल्याणी भवति। तस्माज्जनेषु जनानाम् मध्ये वयं गोभिर्गवादिभिर्यशसो यशस्विनः स्याम। भवेम। अनन्तरं हे देवासो देवाः युष्मान्सदा सर्वदेलयान्नेन हविर्लक्षणेन सचेमहि। सचेम। सङ्गच्छेम॥१२॥
@@ -247,10 +250,6 @@ Erfreulich wie ein nahrungsreiches Haus für den Anblick, glückbringend ist die
 
 Zum Anschaun lieblich wie ein nahrungsreicher Sitz, glückbringend ist der prächt'gen Maruts Beifall uns; Durch Heerden seien herrlich unter Menschen wir, stets sein, o Götter, wir mit Labetrunk versorgt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

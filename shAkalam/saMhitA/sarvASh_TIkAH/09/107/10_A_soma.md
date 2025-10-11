@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    सोमः- रसः। आ- समन्तात्। अद्रिभिः- स्थैर्येण। अद्रिः स्थैर्यप्रतीकः श्रुतौ।  सुवानः- निष्पादितः  सन्। अव्यया वाराणि- सरणशीलरसस्य स्वस्थान एव रक्षाकराण्युपलब्धिस्थानानीत्यर्थः।  रसव्यञ्जकानि। रसस्य प्रवेशस्थानानि। रसतत्त्वस्य सुलभतया अवगमसाधनभूतानि।  रसार्थयाचनसाधनभूतानि। रसावाप्तिसाधनभूतानि। रसावरणानि। तिरः- अतिक्रम्य सरति। जनः।  पुरि न- पुर्यां यथा तथा। हरिः- आकर्षकः सोमः। चम्वोः- द्यावापृथिव्योर्मध्ये। विशत्- प्रविशति।  वनेषु- स्वाश्रितेषु। सदः- सदनम्। दधिषि- करोषि॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **अद्रिभिः** ग्रावभिः **सुवानः** अभिषूयमाणस्त्वम् **अव्यया** अविमयानि **वाराणि** वालानि पवित्राणि **तिरः** कुर्वन् व्यवधायकानि कुर्वाणः सन् **आ** पवस इति शेषः । **हरिः** हरितवर्णः स सोमः **चम्वोः** अधिषवणफलकयोः उपरि स्थिते कलशे **विशत्** प्रविशति । तत्र दृष्टान्तः । **जनो** **न** यथा जनः **पुरि** पुरे प्रविशति । स त्वं **वनेषु** काष्ठनिर्मितेषु पात्रेषु **सदः** स्थानं **दधिषे** करोषि ॥ ॥ १३ ॥
@@ -216,7 +219,6 @@ Like a man into a fortress, the tawny one enters into the two cups. You  have es
 <details><summary>Jamison Brereton Notes</summary>
 
 With Geldner, Renou, Hoffmann (133), in the published translation I supply a verb in ab. I now think this may be unnec. The impetus was the apparent change of person between the first hemistich and the second: with voc. soma in pāda a but a 3rd ps. verb (viśat) with Soma as subj. in c. However, as in vs. 12 the 3rd-ps. verb may result from attraction to the simile (jáno ná purí … viśat “as a man enters a fortress”), and the underlying person could be 2nd throughout; see dadhiṣe in d. It is hard to convey the change in Engl. but something like “O Soma, while you are being pressed by the stones here across the sheep's fleeces, as a man enters a fortress, as tawny one (you enter) into the two cups. You have established …” Hoffmann (133) argues that the changes of ps. mark pāda c as parenthetic, allowing it to be interpr. in his “general” sense. This sense should be possible even without branding the pāda as a parenthesis.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
@@ -250,8 +252,6 @@ Von Somasteinen ausgepresst geht Soma durch des Widders Haar, Der goldne ins Gef
 Буланый входит в два чана, как отряд в крепость.  
 Ты устроил себе место в деревянных сосудах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

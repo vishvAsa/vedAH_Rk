@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -121,6 +119,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतस्य योनिम्- ऋतसदने। आसदम्- उपवेष्टुम्। मधुमत्तमः- अतिशयेन मधुरः सन्। मरुत्वते-  प्राणेशाय। इन्द्राय- ईशनाधिदैवताय। इन्दो- हृदयस्पर्शिन् सोम। पवस्व- क्षर॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **मधुमत्तमः** अतिशयेन मधुमांस्त्वम् **ऋतस्य** यज्ञस्य **योनिं** स्थानम् **आसदम्** उपवेष्टुं **मरुत्वते** **इन्द्राय** इन्द्रार्थं **पवस्व** क्षर ॥
@@ -164,10 +167,6 @@ Läutere dich, o Saft, als Süßester für Indra in Begleitung der Marut, um dic
 
 Dem Indra mit der Marutschar, o Indu, riesle, süssester! Zu setzen dich in Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

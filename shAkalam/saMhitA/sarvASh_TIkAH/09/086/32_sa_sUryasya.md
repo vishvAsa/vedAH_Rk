@@ -3,7 +3,6 @@ title = "032"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - त्रय ऋषिगणाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१२    सः- असौ। सूर्यस्य रश्मिभिः- आत्मसूर्यस्य चिद्रश्मिभिः। परि व्यतः- आत्मानं परिवेष्टयति।  त्रिवृतम्- भूर्भुवरादिलोकवृतमात्मानम्। यथा विदे- यथा जानाति तथा। तन्तुम्- धर्मसन्तानम्।  तन्वन्- विस्तारयन्। ऋतस्य- सत्यस्य। नवीयसीः- नव्याः। प्रशिषः- प्रशंसाः। नयन्। जनीनां  पतिः- जनपालकः। निष्कृतम्- देवसदनम्। उप याति- अभिसरति॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **सूर्यस्य** **रश्मिभिः** **परि** **व्यत** परिवेष्टयत्यात्मानम् । किं कुर्वन् । **त्रिवृतं** सवनैर्देवैर्वा त्रिर्वृतं **तन्तुं** यज्ञं **तन्वानः** विस्तारयन् **यथा** **विदे** जानाति । येन प्रकारेण संपूर्णमवगच्छति तथा तन्वानः । **ऋतस्य** सत्यभूतस्य यजमानस्य **नवीयसीः** नवतराः **प्रशिषः** प्रशंसना अभिमतानि **नयन्** प्रापयन् । तस्मा एव **जनीनां** **पतिः** पालकः स्वामी **निष्कृतं** संस्कृतं पात्रम् **उप** **याति** गच्छति ॥
@@ -250,7 +253,6 @@ Leading the newer directives of truth, as a husband he proceeds to the  rendezvo
 Although the standard interpr. of yáthā vidé here makes Soma subj. of the verb (e.g., Geldner “wie er es versteht”), pāda-final yáthā vidé is a common tag (I.127.4, 132.2, etc.) with a passive reading of the verb: “as is known, in the way that is known.” The “directives of truth” (ṛtásya praśíṣaḥ) are convincingly identified as the hymns by Lüders (469-70), as the adj. návīyas-, a standard descriptor of hymns in the fem., suggests.
 
 I assume that the “threefold thread” (tántum … trivṛtám) refers to the three soma pressings.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
@@ -288,8 +290,6 @@ Er hat sich mit der Sonne Strahlen rings umhüllt, den dreigetheilten Faden webe
 Проводя самые новые предписания закона.  
 Как муж он приходит на свидание с женами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 mahiṣám ← mahiṣá- (nominal stem)  
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पर्जन्यवृद्धम्- मूलशख्निधारावृष्टिवर्धितम्। महिषम्- महात्मानम्। तम्। सूर्यस्य दुहिता-  ज्ञानोदयदेवतोषाः। आभरत्- आहरत्। तम्- अमुम्। गन्धर्वाः- ज्ञानधारका उपासकाः।  प्रत्यगृभ्णन्- प्रत्यगृह्णन्। तं रसम्। सोमे- सोमवल्याम्। आदधुः- धृतवन्तः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सूर्यस्य** **दुहिता** श्रद्धा नाम । ‘श्रद्धा वै सूर्यस्य दुहिता' (श. ब्रा. १२. ७. ३. ११) इति वाजसनेयकम्। सा **पर्जन्यवृद्धं** पर्जन्यवत् समर्थम् । यद्वा । पर्जन्येन तत्कार्यत्वेनोदकेन प्रवृद्धम्। **महिषं** महान्तं पूज्यं वा **तं** सोमम् आभरत् आहरत्। द्युलोकादाहृतवती । **तम्** आहियमाणं सोमं **गन्धर्वाः** विश्वावसुप्रभृतयः प्रत्यगृभ्णन् प्रत्यगृह्णन् । प्रतिगृहीतवन्तः। दृग्रहोर्भः । ततो गन्धर्वाः प्रतिगृहीतं **रसं** **सोमे** प्रत्यक्षम् आदधुः । दधातेर्लङि । तस्मात् **परि** **स्रव** ॥ ।
@@ -298,8 +301,6 @@ Den Büffel, den die Wolke nährt, ihn trug der Sonne Tochter her, Gandharven ha
 Они вложили в сому этот вкус.  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

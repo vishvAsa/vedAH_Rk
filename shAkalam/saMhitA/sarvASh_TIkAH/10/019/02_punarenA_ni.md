@@ -3,7 +3,6 @@ title = "002"
 devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 enāḥ ← ena- (pronoun)  
@@ -204,12 +202,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनः- भूयः। एनाः- चिद्रश्मीन्। नि वर्तय- प्रत्यावर्तय। पुनः- भूयः। एनाः- चिद्रश्मीन्। न्या-  नियतान्। कुरु। इन्द्रः- ईशनाधिदैवतम्। एनाः- एतान् चिद्रश्मीन्। नि यच्छतु- आत्मायत्तान्  करोतु। अग्निः- सर्वभूतहितक्रतुः। एनाः- एतान् चिद्रश्मीन्। उपाजतु- आत्मानमुपगमयतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अत्र मन्त्रद्रष्टा स्वात्मानं प्रति ब्रूते । हे मदीयात्मन् त्वम् **एनाः** एताः अन्यतोऽभिगन्त्रीर्गा अपो वा **पुनः** **नि** **वर्तय** पुनःपुनर्मदभिमुखीकुरु । तदनन्तरम् **एनाः** एताः **पुनः** भूयो भूयो **न्या** कुरु नियता आत्मायत्ताः कुरु। किंच **इन्द्रः** अपि तव सहायभूतः सन् **एनाः** एताः **नि** **यच्छतु** त्वदायत्ताः करोतु । **अग्निः** च **एनाः** एताः गा अपो वा **उपाजतु** उपगमयतु उपक्षिपतु वा । उपयोग्याः करोत्वित्यर्थः ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -240,8 +241,6 @@ Schaff diese Kühe uns zurück und lass sie wiederkehren hier; Es lenke Indra si
 Пусть Индра задержит их!  
 Пусть Агни пригонит их!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

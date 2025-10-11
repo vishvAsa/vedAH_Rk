@@ -3,7 +3,6 @@ title = "002"
 devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - यमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 anādhr̥ṣyā́ḥ ← anādhr̥ṣyá- (nominal stem)  
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तपसा- कायिकेन तपसा। ये। अनाधृष्यः- अप्रधृष्याः। तपसा- वाचिकेन तपसा। ये। स्वः-  स्वर्गम्। ययुः- जग्मुः। ये। महत्। तपः- मानसं तपः। चक्रिरे- अकुर्वन्। तांश्चिदेवापि  गच्छतात्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** जनाः **तपसा** कृच्छ्रचान्द्रायणादिना युक्ताः सन्तः **अनाधृष्याः** पापैरप्रधृष्या भवन्ति । **ये** च **तपसा** यागादिरूपेण साधनेन **स्वर्ययुः** स्वर्गं यान्ति प्राप्नुवन्ति । **ये** च **महः** महत् **तपः** अन्यैर्दुष्करं राजसूयाश्वमेधादिकं हिरण्यगर्भाद्युपासनं वा **चक्रिरे** कुर्वन्ति एतेषु प्रवर्तन्ते तेषु लोकेषु । **तांश्चित्** तानेव तपस्विनो हे प्रेत अपिगच्छ ॥
@@ -251,8 +254,6 @@ Die, unerreicht durch Büsserwerk, die Busse zu dem Himmel hob, Die grosses Büs
 Кто благодаря пылу создал себе величие.  
 К ним-то пусть он и отправится.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मृळीको वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एव- एवम्। देव- द्योतनशील। देवताते- देवार्थं विस्तृते अस्मदुपासने। पवस्व- क्षर। सोम-  रस। देवपानः- देवानुभवः सन्। प्सरसे- अस्मदनुभूतये पवस्व। समर्ये- युद्धे। महश्चित्- महदपि  शात्रवं बलम्। स्मसि- अभिभवेम। पुनानः- शोधकः सन्। रोदसी- द्यावापृथिव्यौ। सुस्थाने।  कृधि- कुरु॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेदेव द्योतमान स्तोतव्य वा हेसोम देवपानः देवैः पातव्यस्त्वं देवताते देवैस्तते वित ते यज्ञे महे महते प्सरसे भक्षणाय देवानाम्पानाय एव एवं पवस्व क्षर । ततोवयं हिताः त्वयाप्रेरिताः सन्तः समर्ये मरणधर्मरहिते सङ्ग्रामे महश्चित् महतोबलाधिकानपि शत्रून् स्मसिहि अभिभवेम खलु । किञ्च पुनानः पूयमानस्त्वं रोदसी द्यावापृथिव्यौ सुस्थाने अस्माकं शोभनावासस्थाने सत्यौ कृधि कुरु ॥ २७ ॥
@@ -248,7 +251,6 @@ for we are greatly driven at the encounter. Make the two world-halves  of good s
 The summary evā́might be more emphatically rendered as “in just this way” or sim. The “conclave of the gods” (devátāte) returns from 19a. As Geldner points out, the whole hemistich is almost identical to IX.96.3, save for evā́in place of sá naḥ and devapā́naḥ for indrapā́naḥ.
 
 The ppl. in the periphrasis in d, smási hitā́ḥ, could belong either to √dhā or to √hi (so Sāyaṇa.). It is actually not clear to me which one Geldner favors from his “denn wir sind in grossem Wettstreit begriffen” (and his n. 27c doesn’t entirely clarify). Renou clear chose √dhā: “Avec ambition [maháś cid?] nous nous sommes en vérité placéś dans la compétition.” I favor √hi: I think the point is that we are “driven” / “hardpressed” in the hostile encounter, and we need divine help - which we will only get once they have partaken of our soma. But there are several logical steps missing in every interpr.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -285,8 +287,6 @@ So riesle hell, o Gott, der Schar der Götter zum grossen Schmaus, o Soma, gottg
 Сделай, очищаясь, чтобы крепко стояли два мира!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -297,7 +297,7 @@ So riesle hell, o Gott, der Schar der Götter zum grossen Schmaus, o Soma, gottg
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (देव) हे दिव्यस्वरूप परमात्मन् ! आप (देवपानः) विद्वानों से प्रारम्भ किये हुए यज्ञ में (महे) जो सबसे बड़ा है, उसमें (सोम) हे सौम्यस्वभाव परमात्मन् ! (प्सरसे) विद्वानों की तृप्ति के लिये (पवस्व) पवित्र करें और (रोदसी) द्युलोक और पृथिवीलोक के मध्य में (सुष्ठाने) शोभन स्थान में (पुनानः) हमको पवित्र करते हुए आप (समर्ये) इस संसार के युद्धरूपी क्षेत्र में (हिताः) हितकर (कृधि) बनाएँ, (हि) क्योंकि आप (महश्चित्) बड़ी से बड़ी शक्तियों को (स्मसि)अनायास से (एव) ही धारण कर रह हो॥२७॥
+पदार्थान्वयभाषाः -  (देव) हे दिव्यस्वरूप परमात्मन् ! आप (देवपानः) विद्वानों से प्रारम्भ किये हुए यज्ञ में (महे) जो सबसे बड़ा है, उसमें (सोम) हे सौम्यस्वभाव परमात्मन् ! (प्सरसे) विद्वानों की तृप्ति के लिये (पवस्व) पवित्र करें और (रोदसी) द्युलोक और पृथिवीलोक के मध्य में (सुष्ठाने) शोभन स्थान में (पुनानः) हमको पवित्र करते हुए आप (समर्ये) इस संसार के युद्धरूपी क्षेत्र में (हिताः) हितकर (कृधि) बनाएँ, (हि) क्योंकि आप (महश्चित्) बड़ी से बड़ी शक्तियों को (स्मसि)अनायास से (एव) ही धारण कर रह हो॥२७॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

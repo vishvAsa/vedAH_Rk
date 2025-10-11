@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। स्रिधः- अन्तरायान्हिंसकान्। अति- अतिक्रम्य। सुष्टुतिम्- शोभनमन्त्रम्।  विश्वदर्शतः- सर्वैर्दर्शनीयः। सूरो न- सूर्य इव। अभ्यर्षति- अभिगच्छति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** सोमः **अस्रिधः** हिंसकान् शत्रूनतिक्रम्य गच्छति । तथा **सुष्टुतिं** स्तोतॄणां शोभनां स्तुतिम् **अभ्यर्षति** आभिमुख्येन गच्छति । ‘ऋषी गतौ'। तौदादिकः । ‘बहुलं छन्दसि' इति शप् । गुणः । किंच **सूरो** **न** सूर्य इव **विश्वदर्शतः** सर्वस्य द्रष्टा सर्वैर्वा दर्शनीयो भवति ॥
@@ -182,10 +185,6 @@ Sich läuternd fließt er über alle Fehler hinweg zu einem schönen Loblied, wi
 
 Hinflammend durch der Feinde Schar, ergiesst er sich zum Lobgesang, Der Sonne gleichend, rings zu schaun,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

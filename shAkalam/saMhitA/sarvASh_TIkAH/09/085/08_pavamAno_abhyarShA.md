@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वेनो भार्गवः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः सन्। सुवीर्यं- शोभनवीर्यम्। उर्वीं- विस्तृतम्। गव्यूतिम्- चिद्रश्मिमार्गम्।  सप्रथः- सर्वतः पृथुलम्। महि- महत्। शर्म- मङ्गळम्। अभ्यर्ष- अभिसर। नः- अस्मान्। अस्य-  एतस्योपासनस्य। परिषूतिः- हिंसायाः परिप्रेरको द्वेषी अन्तरायः। माकिः- मा। ईशत। इन्दो-  क्लेदनशील रस। त्वया- भवता। धनंधनम्- प्रतिसंपदम्। जयेम॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **पवमानः** पूयमानस्त्वं **सुवीर्यमुर्वीं** महतीं **गव्यूतिं** गोमार्गं च **महि** महत् **सप्रथः** सर्वतः पृथु **शर्म** गृहं सुखं वा **अभ्यर्ष** अभिगमय । **नः** अस्माकम् **अस्य** कर्मणः **परिषूतिः** हिंसायाः परिप्रेरको द्वेषी **माकिः** **ईशत** मेश्वरो भवतु । हे **इन्दो** सोम **त्वया** साधनेन **धनंधनं** सर्वमपि धनं **जयेम** ॥
@@ -248,7 +251,6 @@ drop, with you may we win prize after prize.
 <details><summary>Jamison Brereton Notes</summary>
 
 The somewhat awkward tr. “constricting pressure” reflects the literal, additive sense of páriṣūti-: pári ‘around’ + √sū ‘impel, thrust’. Maybe something like “squeezing” would sound a bit more idiomatic, though it is hard to find any English idiom that more or less represents the etymology and fits with the verb. Of course, narrowness and constriction are particularly feared and avoided in the Rig Veda. Perhaps “claustrophobia” might work, though of course the -phobia part is absent; “constriction” is probably the best choice in English. It is also not clear what threat páriṣūti- poses to the ritual soma, which, after all, has been subjected to serious pressing (via the phonologically similar but unrelated root √su) and therefore has nothing left to fear in that regard. In real world terms it of course refers to the opposite of the “wide pasturage and great, extensive shelter” that Soma is urged to rush to in pāda b. In this regard it is similar to the words aṃhatí-, áṃhas- ‘constriction, constraint’. The other occurrence of páriṣūti- (I.119.6) is found in a similar context, with a contrast between constraint and wide space: yuváṃ rebhám páriṣūter uruṣyathaḥ. JPB tr. “You give Rebha space from being besieged,” but in my opinion the sense is more particular: “you give Rebha wide space from (/out of) constriction.” On īśata see comm. ad I.23.9.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -283,8 +285,6 @@ Hellflammend ströme du uns Heldenkraft herbei, geräum'ge Weide, grossen ausged
 О сок, с тобою мы хотим выигрывать одну ставку за другой!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -295,7 +295,7 @@ Hellflammend ströme du uns Heldenkraft herbei, geräum'ge Weide, grossen ausged
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पवमानाः) हे सबको पवित्र करनेवाले परमात्मन् ! (सुवीर्यमुर्वीम्) बल के देनेवाले विस्तृतमार्ग को जो (गव्यूतिं) इन्द्रियों का ज्ञानमार्ग है, उसको देकर हे परमात्मन् ! आप (महि) महत् (सप्रथः) सब प्रकार से बड़ा (शर्म्म) सुख (अभ्यर्ष) दें। (इन्दो) हे सर्वप्रकाशक परमात्मन् ! (परिषूतिरीशत) किसी का द्वेषी (नः) हमको (माकिः) मत करो और (त्वया) तुम्हारे से उत्पन्न किये हुए (अस्य) इस संसार के (धनं धनं) सब धन को (जयेम) हम जीतें॥८॥
+पदार्थान्वयभाषाः -  (पवमानाः) हे सबको पवित्र करनेवाले परमात्मन् ! (सुवीर्यमुर्वीम्) बल के देनेवाले विस्तृतमार्ग को जो (गव्यूतिं) इन्द्रियों का ज्ञानमार्ग है, उसको देकर हे परमात्मन् ! आप (महि) महत् (सप्रथः) सब प्रकार से बड़ा (शर्म्म) सुख (अभ्यर्ष) दें। (इन्दो) हे सर्वप्रकाशक परमात्मन् ! (परिषूतिरीशत) किसी का द्वेषी (नः) हमको (माकिः) मत करो और (त्वया) तुम्हारे से उत्पन्न किये हुए (अस्य) इस संसार के (धनं धनं) सब धन को (जयेम) हम जीतें॥८॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुत्वन्तः- प्राणमयाः। मत्सराः- तृप्तिकराः। इन्द्रियाः- इन्द्रसंबन्धिनः। हयाः- तुरगा इव  स्थिताः। पवमानाः- पुनानाः सोमाः। पवित्रमति- भाजनं प्रतीकमतिक्रम्य। धारया। मेधाम्।  प्रयांसि च- हवींषि च। अभि- अभिलक्ष्य। असृक्षत- सृज्यन्ते॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानाः** पूयमानाः सोमाः **धारया** आत्मीयया **पवित्रम्** अतीत्य **असृक्षत** सृज्यन्ते । कीदृशाः । **मरुत्वन्तः** मरुद्भिर्युक्ताः **मत्सराः** मदकराः **इन्द्रियाः** इन्द्रजुष्टाः। **मेधां** स्तुतिं **प्रयांसि** अन्नानि **च** अभिलक्ष्य स्तोतृभ्यः उभयं कर्तुं वा **हयाः** गन्तार एते सृज्यन्ते ॥
@@ -192,8 +195,6 @@ the exhilarating coursers, fit for Indra along with the Maruts, toward  wisdom [
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is a clever twist on 17ab índrāya … marútvate sutáḥ “pressed for Indra and the Maruts.” In 17 the recipients of the soma are straightforwardly expressed, but in our vs. the expression is oblique. Indra is present not directly, but in the adj. indriyá- ‘Indriyan, suitable for/associated with Indra (and Indra’s powers)’, which modifies the soma drops identified as horses. The adj. marútvantaḥ also modifies these drops/horses. On the one hand, I think this is meant to associate the Maruts with Indra, as usual, and identify them as the prototypical recipients of soma; on the other hand, however, the drop-horses are metaphorically associated with the Maruts in full gallop on their regularly described journeys. The double sense would be better conveyed by a transl. “the exhilarating courses, accompanied by the Maruts, fit for Indra along with the Maruts …” The fem. stem medhā́- of course means ‘wisdom’ and is so interpr. here by everyone (incl. me). But its explicit coordination with práyāṃsi “pleasing offerings’ (medhā́m abhí práyāṃsi ca) invites, to my mind, a secondary reading associating it with médha- ‘ritual offering/meal’. For other possible conflations of medhā́- and médha- see EWA s.v. médha-.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details open><summary><h2>25-26 ...{Loading}...</h2></summary>
@@ -227,8 +228,6 @@ Ergossen sind die flammenden im Strome durch das Somasieb, Die lust'gen Rosse In
 Сопровождаемые Марутами, пьянящие кони Индры,  
 (Чтоб дать нам) мудрость (и) жертвенные услады.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अर्बुदः काद्रवेयः सर्पः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- ग्राव्णां युष्माकम्। पितरः- पितृभूताः पर्वताः। तेपि स्थैर्यप्रतीकाः। युगेयुगे। ध्रुवा एव-  स्थिरा एव। क्षेमकामासः- मङ्गळकामाः। सदसः- सदांसि। न- सम्प्रति। युञ्जते- संयोजयन्ति।  अजुर्यासः- जरारहिताः। हरिषाचः- रससम्भख्नारः। हरिद्रवः- रसद्रावका रसनिष्पादकाः।  रवेण- शब्देन। द्यां पृथिवीम्- द्यावापृथिव्यौ। आ अशुश्रुवुः- समन्तात् श्रावयन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ग्रावाणः **युगेयुगे** सर्वेषु युगेषु **धुवा** **एव** निश्चला एव **वः** युष्माकं पितरः पितृभूताः पर्वताः **क्षेमकामासः** क्षेमकामाः सदसः सदांसि आत्मना न **युञ्जते** न संयोजयन्ति। **अजुर्यासः** जरारहिताः हरिषाचः सोमस्य संभक्तारः **हरिद्रवः** सोमसंसर्गाद्धरितवर्णाः द्यां दिवं पृथिवीं च रवेण अभिषवशब्देन **अशुश्रवुः** श्रावयन्ति ।
@@ -257,10 +260,6 @@ Ganz unbeweglich sind eure Väter zu aller Zeit, Ruhe liebend fahren sie nicht v
 
 Fest stehn die Berge, eure Väter, immerdar, die Ruhe liebend gehn sie nicht von ihrem Platz; Ihr, ewig jung, zum goldnen eilend liebevoll habt Erd und Himmel nun erfüllt mit eurem Schall.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

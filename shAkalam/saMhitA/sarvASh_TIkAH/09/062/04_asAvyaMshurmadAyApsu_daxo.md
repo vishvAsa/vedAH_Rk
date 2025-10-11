@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अंशुः- सोमः। मदाय- हर्षाय तृप्तये। अप्सु- मूलशख्निधारासु। असावि- निष्पादितः। दक्षः-  समर्थः। गिरिष्ठाः- पर्वतस्थो जडशरीरनिहितः। श्येनो न- पक्षीव। योनिम्- स्वसदनमृताख्यम्।  आसदत्- आसीदत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गिरिष्ठाः** पर्वते जातः **अंशुः** सोमः **मदाय** मदार्थम् **असावि** अभिषुतः । **अप्सु** वसतीवरीषु **दक्षः** प्रवृद्धश्च भवति । किंच **श्येनो** **न** यथा श्येनो वेगेनागत्य स्थानमासीदति तद्वदयं सोमो **योनिं** स्वकीयं स्थानम् **आसदत्** आसीदति ॥
@@ -169,8 +172,6 @@ Like a falcon he has sat on his womb.
 
 As in IX.61.18 I take dákṣa- adjectivally (so also Geldner, Renou); even more than in that passage, a noun interpr. is difficult: “… the skill, abiding on a mountain”? The loc. apsú and the locativally used stem giri- implicitly contrast.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -197,10 +198,6 @@ Der Stengel ward zum Rauschtrank ins Wasser ausgepreßt, der wirksame, auf dem B
 Zum Rausche ist das Kraut gepresst, in Flut der starke Bergesfürst, Er setzt sich wie ein Aar ins Nest.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -216,7 +213,7 @@ Zum Rausche ist das Kraut gepresst, in Flut der starke Bergesfürst, Er setzt si
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  उक्त गुणसम्पन्न सेनापति ईश्वर की आज्ञा से उत्पन्न होता है। तात्पर्य यह है कि ईश्वर उपदेश करता है कि मनुष्यों ! तुम उक्तगुणोंवाले पुरुष को सेनापति मानो और ऐसे सेनापतियों से राजधर्म का दृढ़ प्रबन्ध करके रक्षा का प्रचार करो॥४॥
+भावार्थभाषाः -  उक्त गुणसम्पन्न सेनापति ईश्वर की आज्ञा से उत्पन्न होता है। तात्पर्य यह है कि ईश्वर उपदेश करता है कि मनुष्यों ! तुम उक्तगुणोंवाले पुरुष को सेनापति मानो और ऐसे सेनापतियों से राजधर्म का दृढ़ प्रबन्ध करके रक्षा का प्रचार करो॥४॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

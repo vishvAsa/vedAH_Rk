@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अंबरीष ऋजिश्वा च
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुवानः- निष्पन्नः। स्यः- सः। इन्दुः- रसः। मदच्युतः- हर्षस्रावकः। अव्ये। परि अक्षाः-  परिक्षरति। अध्वरे- ध्वररहिते कर्मणि। यः। ऊर्ध्वः- उत्कृष्टः। गव्ययुः- चिद्रश्मिकामः सन्।  भ्राजा न- दीप्त्येव। धारा- धारया। एति- गच्छति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवानः** सूयमानः अस्यः **स्यः** सः **इन्दुः** सोमः **मदच्युतः** मदार्थं देवैः प्रेरितः सन् **अव्ये** अविभवे पवित्रे **परि** **अक्षाः** परितः क्षरति । **अध्वरे** **ऊर्ध्वः** समुच्छ्रितः सर्वेषां मुख्यः **यः** सोमः **गव्ययुः** गोकामः यद्वा क्षीरादिकं कामयमानः सन् **धारा** धारया सह **एति** गच्छति । **भ्राजा** **न** भ्राजमानया दीप्त्या यथान्तरिक्षे गच्छति तद्वत् ॥
@@ -215,8 +218,6 @@ the one who, erect at the ceremony, goes seeking cows with his stream,  like (Ag
 The transmitted akṣā at the end of pāda a before i- should have appeared as akṣār in sandhi; the Pp. reads akṣār íti. Wackernagel (AiG I.1.334-35) considers it a misunderstanding of original akṣāḥ by the redactors.
 
 The simile in d has the same structure as the one in 2b: gapped nominative target whose identity is signalled by an adjunct, in this case bhrājā́‘with flame (/flash/light)’ - most likely pointing to Agni (Geldner, Renou [tr.], Ober [II.56]), though possibly Sūrya, who is also associated with forms of the root √bhrāj (alt. given by Renou in his n.).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -250,8 +251,6 @@ Gekeltert, lustig taumelnd rann der Indu durch die Wolle jetzt, Der, Milch begeh
 (Тот,) кто со (своим) потоком идет вверх во время обряда,  
 Словно (Агни) со (своим) блеском, (сома,) жаждущий коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

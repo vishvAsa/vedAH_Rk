@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वचर्षणे- सर्वद्रष्टः। सखा- सुहृत्सन्। सखिभ्यः- सुहृद्भ्यः। ईड्यः- स्तुत्यः सन्। विश्वानि-  सर्वाणि। काव्या- दर्शनानि। अभि- अभिलक्ष्य। पवस्व- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्वचर्षणे** सर्वव्यापित्वेन सर्वस्य द्रष्टर्हे सोम **सखा** स्तुत्यस्तोतृयष्टृयष्टव्यलक्षणेन संबन्धेन सखिभूतस्त्वम् **ईड्यः** स्तोतव्यः सन् **सखिभ्यः** हविष्प्रदानेनोपकारकत्वात् मित्रभूतेभ्योऽस्मभ्यं **विश्वानि** सर्वाणि **काव्या** । कवेः कर्माणि काव्यानि । ब्राह्मणादित्वात् ष्यञ्। सर्वाणि स्तोत्राणि **अभि** लक्षीकृत्य **पवस्व** आगच्छ॥
@@ -140,8 +143,6 @@ a comrade for your comrades, to be reverently invoked.
 <details><summary>Jamison Brereton Notes</summary>
 
 The b pāda lacks a verb: Geldner supplies (silently) “zu gewinnen,” Renou parenthetically “pour (atteindre).” The pāda is found 3x elsewhere (IX.23.1, 62.25, 63.25); in two the vs. contains a form of √sṛj ‘surge’ (asṛgram 23.1, asṛkṣata 63.25) and I therefore supply that verb here.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -169,10 +170,6 @@ Läutere dich, bei allen Völkern Bekannter, um alle Sehergaben zu gewinnen, als
 
 O riesle, aller Menschen Hort, uns alle Sehergaben her, Ein Freund den Freunden, preisenswerth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

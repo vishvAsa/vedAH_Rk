@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    ये। ते- तव। ऊर्मयः- तरङ्गाः। पवित्रम्- शोधकं कलशं प्रतीकम्। धारया। अभिक्षरन्ति। तेभिः-  तैरूर्मिभिः। नः- अस्मान्। सोम- रस। मृळय- आनन्दय॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **ते** तव **ये** **ऊर्मयः** तरङ्गाः **पवित्रं** **धारया** **क्षरन्ति** **तेभिः** तैरूर्मिभिः **नः** अस्मान् **मृळय** सुखय ॥ ॥ १८ ॥
@@ -158,8 +161,6 @@ with them be gracious to us, Soma.
 <details><summary>Jamison Brereton Notes</summary>
 
 We might fault the poet for a certain laxness of phraseology: how exactly is Soma meant to be gracious / merciful to us “with his waves”?
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -192,8 +193,6 @@ Mit deinen Wellen, die im Strom hinfliessen auf der Seihe Netz, Mit denen, Soma,
 Потоком через цедилку, –  
 Помилуй ими нас, о сома!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

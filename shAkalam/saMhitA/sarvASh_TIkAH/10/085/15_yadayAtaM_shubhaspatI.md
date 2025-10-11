@@ -3,7 +3,6 @@ title = "015"
 devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 áyātam ← √yā- 1 (root)  
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। शुभस्पती- शोभनपालकावश्विनौ। सूर्यां- सावित्रीम्। उप- उपगन्तुम्। वरेयम्-  सवितारम्। अयातम्- आगच्छथः। तदा। एकम्। चक्रम्- रथचक्रम्। क्व- कुत्रासीत्। क्व-  कुत्र। देष्ट्राय- दानाय। तस्थतुः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शुभस्पती** उदकस्य स्वामिनौ **यत्** यौ **अयातम्** अगच्छतम् । कं प्रति। **वरेयं** वरणीयायाः सूर्यायाः संबन्धिनं वरैर्याचितव्यं वा । सवितारमित्यर्थः । किमर्थम् । **सूर्यामुप** गन्तुम् । **वां** भवतोः संप्रति दृश्यमानमिदम् **एकं** चक्रं **क्व** **आसीत्** पुरा । **क्व** वा युवां **देष्ट्राय** दानाय प्रवृत्तौ **तस्थथुः** इत्यश्विनोर्निवासं पृच्छति ॥ ॥ २२ ॥
@@ -228,8 +231,6 @@ Als ihr, o Herrn des Glanzes, zur Werbung hin zur Suriā fuhrt, wo war da das ei
 Где было одно ваше колесо,  
 Где стояли вы, чтобы указать?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

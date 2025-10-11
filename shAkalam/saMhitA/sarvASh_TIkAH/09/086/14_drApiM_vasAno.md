@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिविस्पृशम्- नभसः स्पर्शकम्। द्रापिम्- आत्मावरणद्रापणशख्निम्। वसानः- बिभ्रत्। यजतः-  उपास्यः। अन्तरिक्षप्राः- नभसःपूरकः। भुवनेषु- लोकेषु। अर्पितः। स्वर्जज्ञानः- स्वर्गज्ञाता।  नभसा- व्योम्ना। अभ्यक्रमीत्- व्याप्तो भवति। अस्य- एतस्य लोकस्य। प्रत्नं पितरम्- पुराणं  पालकं हिरण्यगर्भं विष्णुं वा। आ विवासति- परिचरति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिविस्पृशं** दिविस्प्रष्टारं **द्रापिं** कवचं तेजोरूपं **वसानः** आच्छादयन् **यजतः** यष्टव्यः **अन्तरिक्षप्राः** अन्तरिक्षस्य पूरक उदकेन तादृशः सोमः **भुवनेषु** उदकेषु **अर्पितः** **स्वः** सर्वं स्वेन पाययितव्यं देवसंघं स्वर्गं वा **जज्ञानः** जनयन् । अथवा । स्वरुदकम् । तज्जनयन् । **नभसा** उदकेन **अभ्यक्रमीत्** अभिक्रामति । **अस्य** उदकस्य **पितरं** पालकं **प्रत्नं** पुराणमिन्द्रम् **आ** **विवासति** परिचरति ॥
@@ -241,8 +244,6 @@ I take nábhasā as instr. of extent of space, rather than accompaniment (Geldne
 
 The identify of the “age-old father” isn’t clear, and various candidates have been suggested: Sāyaṇa.: Indra; Geldner (n. 14d): Parjanya or Heaven; Renou: Heaven. I’m generally inclined towards Heaven, though of course bringing Heaven here is not physcially possible.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -267,10 +268,6 @@ Einen Mantel umlegend, der zum Himmel reicht, den Luftraum erfüllend, über die
 
 Ins Kleid gehüllt, der hehre, das zum Himmel reicht, die Luft erfüllend, in die Wesen eingefügt, Erzeugt durch Fluten, schritt er jetzt zum Himmel hin, erfreuet seinen urgebornen Vater nun.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

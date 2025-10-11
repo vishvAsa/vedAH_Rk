@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रजापतिः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -193,6 +191,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ओण्योः- मातापित्रोः। भुजे- भोगाय। न पुत्रः- सुत इव। जारः- प्रियः। योषणां न- प्रियामिव।  वरः- श्रेष्ठः। योनिं न- सदनमिव। आसदम्- उपवेष्टुम्। अत्के- पवित्रे कलशे प्रतीके। जामिः-  पुत्रःसन्। आ- आभिमुख्येन। अव्यत- आवृणोति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जामिः** बन्धुभूतो देवानां सोमः **अत्के** आच्छादके पवित्रे **आ** **अव्यत** आवृणोति । संबद्धो भवति । तत्र दृष्टान्तः । **भुजे** **न** यथा **ओण्योः** रक्षकयोर्मात्रापित्रोः भुजे **पुत्रः** आवृणोति तद्वत् । ततः सोऽयं सोमः **योनिं** स्वस्थानभूतं कलशम् **आसदम्** आसत्तुं **सरत्** सरति । तत्र दृष्टान्तद्वयम् । **जारो** **न** यथा जारः **योषणाम्** असतीं स्त्रियं प्राप्तुं सरति । यथा वा **वरः** कन्यां प्राप्तुं गच्छति तद्वत् ॥
@@ -215,8 +218,6 @@ He runs like a swain to a maiden, like a wooer, to sit in the womb.
 <details><summary>Jamison Brereton Notes</summary>
 
 The d pāda (varó) ná yónim āsádam is almost identical to 15d (vedhā́) ná yónim āsádam, both expressing the endpoint of Soma’s ritual journey.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -250,8 +251,6 @@ Der Freund hat sich ins Kleid gehüllt, wie an die Mutterbrust das Kind; Er eilt
 Он спешит, как любовник к женщине,  
 Как возлюбленный, чтобы сесть на (свое) лоно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

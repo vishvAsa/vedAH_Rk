@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतं त्यम्- तमेनम्। हरितः- आकर्षकाः। दश- दशदिग्वर्तिन्य आपः। अपस्युवः- कर्मेच्छवः।  मर्मृज्यन्ते- शोधयन्ति। याभिः- ताभिरद्भिर्मूलशख्निधाराभिः। मदाय- हर्षाय तृप्तये। शुम्भते-  प्रकाशते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एतं** **त्यं** तं सोममध्वर्योः **दश** **हरितः** हरणस्वभावा अङ्गलयः **अपस्युवः** कर्मेच्छवः सत्यः **मर्मृज्यन्ते** शोधयन्ति । **याभिः** इन्द्रस्य **मदाय** **शुम्भते** दीप्यते । शोध्यत इत्यर्थः । तमेतमिति संबन्धः ॥
@@ -173,10 +176,6 @@ Denselbigen putzen die zehn goldfarbigen, geschäftigen Finger, von denen er zum
 
 Ja, eben diesen reinigen zehn Stuten, eifrig in dem Werk, Durch die er hell zum Bausch erglänzt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "गर्भसंस्रावे प्रायश्चित्तं"
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रक्षोहा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ámīvā ← ámīvā- (nominal stem)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। अमीवा- रोगः। दुर्णामा- दुःखदः। ते- तव। योनिम्। गर्भम्। आशये- आशेते। तम्।  क्रव्यादम्- मांसभक्षकम्। निः- निःशेषेण। ब्रह्मणा सह- मन्त्रेण सह स्थित्वा। अनीनशत्-  नाशयतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 गतः पूर्वोऽर्धर्चः । गतः पूर्वोऽर्धर्चः । **तं** **क्रव्यादं** मांसाशिनं राक्षसादिकं **ब्रह्मणा** सहितः **अग्निः** निःशेषेण **अनीनशत्** नाशयतु ॥
@@ -222,8 +225,6 @@ Die übelnamige Krankheit, die in deinem Mutterleibe und Schoosse haust, die fle
 Агни вместе со священным словом  
 Выгнал вон пожирателя сырого мяса.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

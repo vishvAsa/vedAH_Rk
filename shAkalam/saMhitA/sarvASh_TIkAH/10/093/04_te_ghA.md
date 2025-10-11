@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - प्रस्तारपङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्यमा- औदार्याधिदेवता। मित्रः- स्नेहाधिदेवता। परिज्मा- परितो गन्ता। वरुणः- ऋताधिदेवता।  नृणाम्- नृभिः। स्तुतः- अर्चितः। रुद्रः- वेगाधिदेवता। मरुतः- प्राणविशेषाः। पूषणः- पोषकः  सूर्यः। भगः- सौभाग्याधिदेवता। ते- अमी। घ- खलु। अमृतस्य राजानः- अमृतस्वामिनः।  मन्द्राः- आनन्दकरा भवन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अर्यमा** देवः **मित्रः** च **परिज्मा** सर्वतोगामी सर्वत्राप्रतिहतगतिः **वरुणः** अन्यो देवजनश्चर्त्विग्भिः **स्तुतः** **रुद्रः** च **पूषणः** सर्वस्य पोषयितारो **मरुतः** च **भगः** च एते देवाः **मन्द्राः** सर्वैः स्तुत्याः सन्तः **नृणां** मनुष्याणां **कत्** सुखं प्रयच्छतेति शेषः । **ते** सर्वे **अमृतस्य** अमृतसदृशस्य हविषः **राजानः** **घ** ईश्वराः खलु ॥
@@ -228,10 +231,6 @@ Sie, die Könige der Unsterblichkeit, sind beliebt: Aryaman, Mitra, Varuna, der 
 
 Diese sind erfreuende Könige des Reiches der Unsterblichen: Arjaman, Mitra, Varuna, der Umwandler; sind es nicht auch Rudra, der von den Männern gerühmte, die Maruts, Puschana und Bhaga?
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

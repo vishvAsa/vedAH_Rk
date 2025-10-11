@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मर्यो न शुभ्रः- सात्त्विकमनुष्य इव। मृजानः- शोधितः। धनानाम्- संपदाम्। सनये- संभख्नये।  अत्यो न सृत्वा- तुरग इव सरणशीलः। यूथा- धेनूनां गणान्। वृषेव- वृषभ इव। कोशम्-  प्रतीकम्। परि- परितः। अर्षन्- सरन्। कनिक्रदत्- शब्दयन्। चम्वोः- द्यावापृथिव्योर्मध्ये।  आविवेश॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शुभ्रः** दीप्यमानोऽलंकृतः **मर्यो** **न** मनुष्य इव **तन्वम्** आत्मीयं शरीरं **मृजानः** वसतीवरीभिः शोधयन् किंच **धनानां** **सनये** संभजनाय लाभाय **अत्यो** **न** अतनशीलोऽश्व इव **सृत्वा** सरणशीलः अपि च **वृषेव** वृषा यथा यूथानि प्रतिगच्छन् शब्दं करोति तद्वत् **कोशम्** अधिषवणचर्मणा कृतं पात्रं **परि** अर्षन् प्रतिगच्छन् सोमः **कनिक्रदत्** पुनःपुनः शब्दं कुर्वन् **चम्वोः** अधिषवणफलकयोः **आ** **विवेश** आविशति ॥ कनिक्रदत् । क्रदेर्यङ्लुकि ' दाधर्ति दर्धर्ति' इत्यादिना निपातनादभ्यासस्य निगागमः । तस्य शतरि ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ ॥ ९ ॥
@@ -256,7 +259,6 @@ charging around the cask like a bull around the herds, constantly  roaring he ha
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma’s journey from the filter (vs. 17) and across the domains on the ritual ground (vss. 18-19) reaches its end when he enters the two cups, presumably ready for the gods to consume.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
 <details open><summary><h2>20-21 ...{Loading}...</h2></summary>
@@ -290,8 +292,6 @@ Den Körper schmückend wie ein schöner Bräut'gam, und eilend wie ein Ross zur
 Обегающий сосуд, как бык (свои) стада,  
 Громко ревя, он вошел в два чана.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

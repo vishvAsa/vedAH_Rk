@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः सोमः। दिवः- चिदाकाशात्। चित्रम्- असाधारणम्। न तन्यतुम्- अशनिमिव  स्थितम्। बृहत्- महान्तम्। वैश्वानरम्- सर्वहितम्। ज्योतिः- अग्निम्। अजीजनत्-  अजनयत्॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** सोमः **बृहत्** महत् **वैश्वानरं** वैश्वानराख्यं **ज्योतिः** तेजः **दिवः** द्युलोकस्य **चित्रं** विचित्रं **तन्यतुं** **न** अशनिमिव **अजीजनत्** अजनयत् ॥
@@ -165,8 +168,6 @@ ad IX.57.3. Renou takes the whole of b as a simile, with the “thunder” match
 
 This is certainly possible, though it is not the soma pressing that ordinarily kindles the ritual fire. I prefer to take it more generally as shared light, perhaps localized as the sun, which would continue the heavenly theme of pāda b. Alternatively, this pāda, which is entirely in the neuter, may be nominative not accusative and refer to Soma himself. This interpr. may be favored by the matching pāda at the end of the tṛca, 18c jyótir víśvam svàr dṛśé “(as) light for everyone to see the sun,” where the soma sap—that is, soma itself—is identified as this light. I would therefore suggest an alternative tr. of pāda c here: “(he) the lofty light belonging to all men.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -199,8 +200,6 @@ Es hat erzeugt der flammende, des Himmels lautem Donner gleich, Das hehre Licht 
 Словно оглушительный гром с неба.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -211,7 +210,7 @@ Es hat erzeugt der flammende, des Himmels lautem Donner gleich, Das hehre Licht 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पवमानः) सबको पवित्र करनेवाला कर्मयोगी (दिवः तन्यतुम् न)द्युलोक की शस्त्ररूपविद्युत् के समान (बृहत् वैश्वानरम् ज्योतिः) बड़े विद्युदादि तैजस पदार्थों को (अजीजनत्) पैदा करता है॥१६॥
+पदार्थान्वयभाषाः -  (पवमानः) सबको पवित्र करनेवाला कर्मयोगी (दिवः तन्यतुम् न)द्युलोक की शस्त्ररूपविद्युत् के समान (बृहत् वैश्वानरम् ज्योतिः) बड़े विद्युदादि तैजस पदार्थों को (अजीजनत्) पैदा करता है॥१६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

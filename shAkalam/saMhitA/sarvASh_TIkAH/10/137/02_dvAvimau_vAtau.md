@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "कश्यपः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - कश्यपः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 dvaú ← dvá- (nominal stem)  
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्वौ। इमौ- एतौ। वातौ- वायू श्वासप्रश्वासौ। वातः। आ- आभिमुख्येन। सिन्धोः- तयोरेको  हृदयसमुद्रस्य सम्बन्धी श्वासः। अन्तः समुद्रे हृदीति श्रुतेः। आ परावतः- तयोरन्यः प्रश्वासो  दूरदेशमधिकृत्य गच्छति। अन्यः- एकः श्वासाख्यः। ते- तुभ्यम्। दक्षम्- आरोग्यम्। आ वातु।  अन्यः- इतरः। यद्रपः- रोगम्। परा वातु- दूरदेशं गमयतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इमौ** दृश्यमानौ **द्वौ** **वातौ** पुरोवातः पश्चाद्वातश्च **आ** **सिन्धोः** आ समुद्रात् । मर्यादायामाकारः । यद्वा **आ** **परावतः** समुद्रादपि यो दूरदेशः तं देशमवधीकृत्य **वातः** गच्छतः । ‘वा गतिगन्धनयोः । आदादिकः । तयोर्वातयोः **अन्यः** एको हे स्तोतः **ते** तव **दक्षं** बलम् **आ** **वातु** आगमयतु । **अन्यः** च त्वदीयं **यद्रपः** पापं तत् **परा** **वातु** परागमयतु ॥
@@ -255,8 +258,6 @@ Zwei Winde sind es hier, die wehn, vom Meere und vom fernen Land; Der eine wehe 
 Силу пусть навеет тебе один,  
 Другой пусть развеет (то,) что повреждение!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

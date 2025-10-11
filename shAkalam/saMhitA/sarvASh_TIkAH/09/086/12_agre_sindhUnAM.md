@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सिन्धूनाम्- मूलशख्निधाराणाम्। अग्रे। पवमानः- पुनानः। अर्षति- सरति। वाचः- मन्त्रस्य।  अग्रे। अग्रियः- मुख्यः। गोषु- चिद्रश्मिषु। गच्छति- सरति। वाजस्य- हव्यस्य। महाधनम्-  संपदम्। अग्रे। भजते- सेवते। स्वायुधः- वज्रपाणिः। वृषा- वर्षकः। सोतृभिः-  निष्पादकैरुपासकैः। पूयते- शोधितो भवति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **पवमानः** **सिन्धूनां** स्यन्दमानानामुदकानाम् **अग्रे** **अर्षति** गच्छति । तथा **अग्रियः** अग्रार्हः श्रेष्ठः **अग्रे** **वाचः** माध्यमिकाया अग्रे अर्षति। तथा **गोषु** रश्मिषु **गच्छति** । तथा **वाजस्य** अन्नस्य बलस्य वा लाभाय **महाधनं** संग्रामं **भजते** । सः **स्वायुधः** **वृषा** वर्षकः सोमः **सोतृभिः** अभिषवकर्तृभिः **पूयते** ॥
@@ -248,7 +251,6 @@ At the forefront of the prize(-contest) he takes great stakes as his share.  The
 <details><summary>Jamison Brereton Notes</summary>
 
 The vs. is structured by three pāda-initial forms of ágre + GEN, reinforced by agriyáḥ in b.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -274,10 +276,6 @@ An der Ströme Spitze rinnt Pavamana, an der Spitze der Rede geht er als Erster 
 
 Voran den Strömen fliesset hell der rieselnde, voran dem Liede geht den Kühen er voraus, Voran der Beute theilt er grosse Schätze aus, von Pressern wird der schönbewehrte Held geklärt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

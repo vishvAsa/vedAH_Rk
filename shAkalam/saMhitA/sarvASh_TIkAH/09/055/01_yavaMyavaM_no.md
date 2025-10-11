@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यवंयवम्- पुनः पुनर्युतं रसमिति सायणः। पुष्टंपुष्टम्- पुष्टिकरम्। अन्धसा- अन्नात्मना। नः-  अस्मदर्थम्। परि स्रव- क्षर। सोम। विश्वा च सौभगा- सर्वाणि सौभाग्यानि च। परि स्रव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **नः** अस्माकं **पुष्टंपुष्टं** बहुलं **यवंयवं** पुनःपुनर्युतं रसम् **अन्धसा** अन्नात्मना **परि** **स्रव** धारया क्षर ॥ अत्र प्रार्थयितुस्तृष्णयात्यन्तं पीडितत्वात् “ आबाधे च ' (पा. सू. ८.१.१०) इति द्विर्भावः । पीडा प्रयोक्तृधर्मो नाभिधेयधर्म इत्युक्तम् ॥ अपि च **विश्वा** विश्वानि **सौभगा** सौभगानि धनानि परि स्रव ॥
@@ -187,10 +190,6 @@ Ströme uns mit deinem Tranke, o Soma, Korn über Korn, Wachstum über Wachstum 
 
 O ströme rings durch deinen Saft uns Korn auf Korn und Gut auf Gut Und alles Glück, o Soma, zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

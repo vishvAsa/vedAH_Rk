@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। ते- तव। आशवः- क्षिप्रकारिणः। धीजवः- मनोवेगयुख्नाः। मदाः- हर्षाः।  रघुजाइव- लघुगतय इव। त्मना- स्वयम्। प्र- प्रकर्षेण। अर्षन्ति- गच्छन्ति। दिव्याः। सुपर्णाः-  मुमुक्षवः। मधुमन्तः- मधुराः। मदिन्तमासः- अतिशयेन हर्षकराः। इन्दवः- क्लेदनशीला रसाः।  परि- परितः। कोशम्- प्रतीकम्। आसते- सरन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** पूयमान सोम **ते** तव **आशवः** व्याप्ताः **धीजवः** मनोवेगा: **मदाः** मदकरा रसाः अर्षन्ति गच्छन्ति । **त्मना** आत्मनैव । अनायासेनेत्यर्थः । क इव । **रघुजाइव** । रघुः। शीघ्रगा वडवाः । तत्र जाता रघुजाः । त इव निर्गतास्ते **दिव्याः** दिवि भवाः । अन्तरिक्षे दशापवित्रे धार्यमाणा इत्यर्थः । **सुपर्णाः** सुपतनाः **मधुमन्तः** माधुर्योपेताः **मदिन्तमासः** अतिशयेन मादयितृतमाः **इन्दवः** दीप्ता रसाः **कोशं** द्रोणकलशं **परि** **आसते** पर्युपविशन्ति ॥
@@ -249,8 +252,6 @@ The heavenly, fine-feathered, honeyed drops, most exhilarating, take  their seat
 <details><summary>Jamison Brereton Notes</summary>
 
 The rt noun cmpd dhī-jū́- (also in vs. 4) could have two different readings, ‘sped by insight(s)’ and ‘speeding insights’; see Scarlatta 170-71. The published translation opts for the passive interpr., as does Renou, while Geldner chooses the transitive one. Either is possible in this ritual context, and parallels cut both ways. On the one hand, there is the parallel cmpd dhī-jávana- (3x), which must have transitive value; on the other,
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -278,10 +279,6 @@ Deine raschen, gedankenweckenden Rauschtränke rinnen , o Pavamana, leibhaftig w
 
 Vor strömen deine raschen Säfte, Flammender, gedankenschnell, wie von dem flücht'gen Aar erzeugt, Die honigsüssen Indu's, die berauschendsten, des Himmels Vögel sitzen auf der Kufe rings.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

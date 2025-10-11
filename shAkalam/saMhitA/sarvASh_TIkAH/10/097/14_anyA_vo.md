@@ -3,7 +3,6 @@ title = "014"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 anyā́ ← anyá- (nominal stem)  
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्मासु। अन्या- एका। अन्याम्। अवतु- प्राप्नोतु। अन्या- एका। अन्यस्याः। उपावतु-  उपगच्छतु। युगपदेव ओषधीनामुत्पत्तिसमये एकया अन्यस्या बाधा मा भवत्विति भावः। ताः  सर्वाः। संविदानाः- ऐकमत्यं गताः। मे- मम। वचः- मन्त्रम्। इदम्- इमम्। प्रावत- रक्षत॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ओषधयः **वः** युष्माकं मध्ये **अन्या** ओषधिः **अन्याम्** ओषधिम् अवतु प्राप्नोतु । अवतिरत्र गत्यर्थः । तथा अन्यान्यस्याः समीपम् **उपावत** उपगच्छत । एवं याः सन्ति क्षित्यामोषधयः **ता:** **सर्वाः** संविदानाः परस्परमैकमत्यं प्राप्ताः सत्यः **इदं** **मे** मदीयं **वचः** प्रार्थनालक्षणं वचनं **प्रावत** प्ररक्षत ॥
@@ -229,8 +232,6 @@ Von euch sei eins dem andern hold und jedes helf dem andern aus; Seid eines Sinn
 Все вы, обьединенные,  
 Добейтесь успеха этой речи моей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

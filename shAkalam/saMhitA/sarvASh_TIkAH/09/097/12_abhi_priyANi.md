@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युर्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवः- द्योतनशीलः। पुनानः- पवमानः सोमः। प्रियाणि- स्वप्रियपात्राणि भाजनानि प्रतीकभूतानि  वा। स्वेन रसेन।  पृञ्चन्- संयोजयन्। ऋतुथा- यथाकालम्। धर्माणि- धर्मान्। वसानः-  बिभ्रदास्ते। तम्। दश क्षिपः- दशदिग्वर्तिन्य आपो मूलशख्निधारा अवतरणशीलाः। अव्ये- रसव्यञ्जके। रसस्य प्रवेशस्थाने। सानो- समुच्छ्रिते प्रतीके। अव्यत- सङ्गमयन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 प्रियाणि प्रीणयितॄणि धर्माणि धारकाणि तेजांसि ऋतुथा कालेकाले वसान् आच्छा- दयन् इन्दुः सोमः पुनानः पूयमानः सन् अभिपवते कलशानभिलक्ष्य क्षरति । कीदृशः देवः सङ्क्रीडनशीलः स्वेन आत्मीयेनरसेन देवानिन्द्रादीन् पृञ्चन् सम्पर्चयन् संयोजयन् तमिमं दश दशसङ्ख्याकाः क्षिपः अङ्गुलिनामैतत् कर्मार्थं प्रेर्यन्तइति तत्सङ्ख्याकाअङ्गुलयः सानौ समुच्छ्रिते अव्ये अविभवेपवित्रे अव्यत गमयन्ति यद्वा अत्र पवित्रे पूयमानंसोमं अव्यत गच्छन्ति वीगत्यादिषु लङिव्यत्ययेनात्मनेपदं ॥ १२ ॥
@@ -246,7 +249,6 @@ The referent of priyā́ṇi, the obj. or goal of abhí … pavate, is uncertain
 arṣati. I would now be inclined to supply ‘names’ (“he purifies himself towards his own dear names”), since Soma’s progress across the ritual ground to his names is a trope (see comm. ad IX.75.1). But since there are a number of other referential possibilities for the construction abhí priyā́(ṇi), it might be best simply to tr.
 
 “towards his own dear (things).” Pāda c is also puzzling: the phrase “clothing himself in his foundations” (dhármāṇi … vásānaḥ) is not immediately interpretable, and there are no illuminating parallels (at least that I have found). The adverbial ṛtuthā́“according to the ritual order” suggests that the process of “clothing himself” involves following the orderly steps of the sacrifice - which in turn suggests that Soma is making his progress across the ritual ground, encountering first the waters, then the milk, before arriving at his destination. I therefore think that the “foundations” here are the waters and the milk - his supports, the materials of which the soma drink is built. But this cannot be demonstrated.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -282,8 +284,6 @@ Zu dem erwünschten rieselt er gereinigt, der Gott mit seinem Saft die Götter f
 Капля, облачающаяся в нужное время в (свои) свойства.  
 Он скрылся в десяти пальцах на спине (цедилки) из овечьей шерсти.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

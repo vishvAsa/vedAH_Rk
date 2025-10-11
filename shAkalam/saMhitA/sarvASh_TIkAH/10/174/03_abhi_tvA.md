@@ -3,7 +3,6 @@ title = "003"
 devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अभीवर्तः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 abhí ← abhí (invariable)  
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वा- त्वाम्। देवः सविता- सूर्यः। सोमः। अभि अवीवृतत्- अभिगमयतु। त्वा- त्वाम्। विश्वा  भूतानि- सर्वे प्राणिनः। अभीवर्तः- सर्वत्र वर्तमानः। यथा अससि- यथा भवसि तथा कुर्वन्तु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे राजन् देवो दानादिगुणयुक्तः सविता त्वा त्वामभ्यवीवृतत्। अभिवर्तयतु। अभिगमयतु राष्ट्रम्। सोमश्चाभिवर्तयतु। विश्वा विश्वानि सर्वाण्यपि भूतानि पृथिव्यादीनि त्वामभि वर्तयन्तु। यथा येन प्रकारेण त्वमभीवर्तोऽसि। अभितः सर्वत्र वर्तमानो भवसि। अस्तेश्छान्दसः शपो लुगभावः॥३॥
@@ -221,8 +224,6 @@ Zum Sieg hat dich Gott Savitar, zum Siege Soma dich geführt, Zum Siege alle Wes
 Тебя – пре(восходящим) все существа,  
 Чтобы было у тебя превосходство!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शिशुम्- वत्सम्। जज्ञानम्- जातम्। हर्यतम्- आकर्षणशख्निसंपन्नम्। वह्निम्- वोढारम्। मरुतः-  प्राणविशेषाः। गणेन- स्वगणेन। मृजन्ति- शोधयन्ति। शुम्भन्ति- मण्डयन्ति। कविः-  क्रान्तदर्शी। गीर्भिः- मन्त्रैः। काव्येन- दर्शनेन च। कविः। सन्। सोमः- रसः। रेभन्- मन्त्रं  शब्दयन्। पवित्रम्- शोधकं भाजनं प्रतीकम्। अत्येति- अतिक्रामति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शिशुम्** इदानीमुत्पन्नत्वाच्छिशुवत्तिष्ठन्तम् । यद्वा । पापानि तनूकुर्वन्तं विनाशयन्तम् । **जज्ञानं** प्रादुर्भूतमत एव **हर्यतम्** ।  हर्य गतिकान्त्योः । ‘ भृमृद्दशि' इत्यादिनातच् । सर्वैः काम्यमानं सोमं **मृजन्ति** **मरुतः** शोधयन्ति । किंच **वह्निं** वोढारं सोमं **गणेन** आत्मीयेन सप्तसंख्याकेन गणेन **शुम्भन्ति** अलंकुर्वन्ति । ततः **कविः** क्रान्तप्रज्ञः **सोमः** **काव्येन** कविकर्मणैव **कविः** शब्दोपेतः **सन्** **रेभन्** शब्दायमानः **गीर्भिः** स्तुतिभिः सह **पवित्रमत्येति** अतीत्य गच्छति ॥
@@ -248,8 +251,6 @@ Though being a poet by virtue of his hymns, a poet by his poetry, Soma  goes ras
 I don’t know what the Maruts are doing here.
 
 In c I have rendered the nom. pres. part. sán concessively, in its usual value, but it’s not exactly clear what the concession would be. Perhaps the contrast is between Soma as poet - so emphasized by kavíḥ … kā́vyena kavíḥ -- and the less than melodious sound indicated by the root √ribh ‘squawk, rasp’ (see comm. ad VI.3.6, IX.66.9).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
@@ -283,8 +284,6 @@ Das neugeborne schöne Füllen streicheln und schmücken auf der Fahrt die Marut
 Поэт со (своими) песнями, будучи поэтом по (своей) поэтической силе,  
 Сома проходит через цедилку, распевая!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- तादृशम्। त्वा- भवन्तम्। विप्राः- मेधाविनः। वचोविदः- मन्त्रविदः। वेधसः-  शोभनकर्मविधायकाः। परिष्कृण्वन्ति- मण्डयन्ति। आयवः- मनुष्याः। सम्- सम्यक्। त्वा-  भवन्तम्। मृजन्ति- शोधयन्ति॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तं** पवमानं **त्वा** त्वां **विप्राः** प्राज्ञाः **वेधसः** कर्मणां कर्तारः **वचोविदः** स्तोतारः **परिष्कृण्वन्ति** अलंकुर्वन्ति । अपि च **त्वा** त्वाम् **आयवः** मनुष्याः **सं** **मृजन्ति** सम्यक् शोधयन्ति ।
@@ -168,7 +171,6 @@ the Āyus groom you all over.
 <details><summary>Jamison Brereton Notes</summary>
 
 A minor poetic echo, the rhyming openings of pāda a táṃ tvā and c sáṃ tvā.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -194,10 +196,6 @@ Dich schmücken die beredten, wortkundigen Meister; dich putzen die Ayu´s.
 
 Rings schmücken die verehrenden, die liederkund'gen Sänger dich, Es läutern dich die eifrigen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

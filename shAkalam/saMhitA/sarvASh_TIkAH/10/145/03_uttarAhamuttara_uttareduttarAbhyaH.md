@@ -3,7 +3,6 @@ title = "003"
 devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - इन्द्राणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत्तरे- श्रेष्ठे। अहम्। उत्तरा- श्रेष्ठा भूयासम्। उत्तराभ्य उत्तरा- श्रेष्ठाभ्यः श्रेष्ठतरा भूयासम्। अथ-  अनन्तरम्। या सपत्नी। सा। अधराभ्य अधरा- निकृष्टाभ्यो निकृष्टतरा भूयात्। आध्यात्मिके तु  सर्वभूतहितशख्निर्जयतु। स्वार्थशख्निः पराजयं प्राप्नोतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उत्तरे** उत्कृष्टतरे पाठे **अहम्** **उत्तरा** उत्कृष्टतरा भूयासम् । **उत्तराभ्यः** लोके या उत्कृष्टतराः सन्ति ताभ्योऽप्यहम् **उत्तरा** उत्कृष्टतरैव त्वत्र्ससादाद्भवेयम् । **अथ** अनन्तरं **मम** **या** **सपत्नी** **सा** **अधराभ्यः** निकृष्टाभ्योऽपि **अधरा** निकृष्टतरा भवतु ॥
@@ -220,8 +223,6 @@ Ich bin voll Macht, o mächtige, und mächt'ger als die mächtigsten; Ohnmächti
 А та, что соперница моя,  
 Ниже (она) тех, кто ниже!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

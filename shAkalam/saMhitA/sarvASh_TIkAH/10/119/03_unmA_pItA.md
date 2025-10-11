@@ -3,7 +3,6 @@ title = "003"
 devataa = "आत्मस्तुतिः"
 RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - लब ऐन्द्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पीताः- अनुभूता रसाः। आशवः- वेगिनः। अश्वाः- तुरगाः। रथमिव- वाहनमिव। मा- माम्।  उत् अयंसत- उद्यच्छन्ते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पीताः** सोमाः माम् **उत्** **अयंसत** उद्यच्छन्ते । तत्र दृष्टान्तः। **रथमश्वाइव** यथा **आशवः** क्षिप्रगामिनो गमनेन व्याप्ता वाश्वा रथमुद्गमयन्ति तद्वत् ॥
@@ -194,8 +197,6 @@ Die Tränke haben mich erregt, wie schnelle Rosse das Gefährt; Hat mich der Som
 Как быстрые кони – колесницу –  
 Не напился ли я сомы?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

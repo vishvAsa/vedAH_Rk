@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - त्रितः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अभि- आभिमुख्येन। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। विष्टपम्- सदनं। चारु- सुन्दरम्।  प्रियतमम्- अतिशयेन प्रियम्। हविः- यज्ञहव्यभूतसोमम्। पृश्निमातरः- मरुतः प्राणविशेषाः।  दुहते॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ईम्** एनं सोमम् **ऋतस्य** **विष्टपं** स्थानम् । यज्ञाश्रयमित्यर्थः । तादृशं **पृश्निमातरः** मरुतः **अभि** **दुहते**। किम् । **प्रियतमम्** इन्द्रादीनां **हविः** होमसाधनं **चारु** मनोहरम्। मरुत्प्रेरितवृष्ट्या सोमवृद्धेस्तद्दोग्धृत्वम् ॥
@@ -153,8 +156,6 @@ toward the upper surface of truth.
 <details><summary>Jamison Brereton Notes</summary>
 
 On the sense of this vs., see published introduction. Needless to say, this vs. is catnip for Lüders; see his disc. p. 606.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -185,8 +186,6 @@ Die Priçnisohne melken ihn sich auf des Opfers Stätte hin, Den schönen, liebs
 (Маруты,) чья мать Пришни, выдаивают  
 Эту любимую, самую приятную жертву.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

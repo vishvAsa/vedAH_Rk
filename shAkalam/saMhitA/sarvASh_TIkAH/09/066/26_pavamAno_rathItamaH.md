@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -111,6 +109,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः सोमः। रथीतमः- अतिशयेन रथेश्वरः। शुभ्रेभिः- शुक्लदीप्तिभिः। शुभ्रशस्तमः-  अतिशयेन दीप्तः। हरिश्चन्द्रः- आकर्षकश्चाह्लादकश्च। मरुद्गणः- प्राणविशेषसंयुतः॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** देवः **रथीतमः** अतिशयेन रथवान्। 'ईद्रथिनः' ( पा. सू. ८. २. १७, १ ) इति ईकारः । तथा **शुभ्रेभिः** शोभायुक्तेभ्यस्तेजोभ्योऽपि **शुभ्रशस्तमः** अत्यन्तदीप्यमानश्च । यद्वा । निर्मलेभ्योऽपि निर्मलतमयशोयुक्तः **हरिश्चन्द्रः** । ‘ह्रस्वाच्चन्द्रोत्तरपदे ' इति सांहितिकः सुट् । हरितवर्णदीप्तिर्हरितधारावान् वा **मरुद्गणः** । मरुतो यस्य गणः सहायभूताः स तथोक्तः । तादृशः सर्वांल्लोकान्' स्वरश्मिभिः स्वदीप्तिभिः व्यश्नवत् व्याप्नोत्वित्युत्तरेणान्वयः ॥
@@ -143,8 +146,6 @@ to a ppl. cmpd. Oldenberg himself doesn’t provide a gloss, but on the basis of
 
 Unfortunately “gold-glittering” for háriścandra- obscures its relationship to háreś candrā́ḥ in 25b “of the tawny one, the glittering (drops).”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -171,10 +172,6 @@ Pavamana ist der beste Wagenfahrer, über die anderen Schönen als der Schönste
 
 Der flammende, bestfahrende, sehr glänzend mit den glänzenden, Marut-umschart, von goldnem Licht,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

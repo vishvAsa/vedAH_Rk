@@ -3,7 +3,6 @@ title = "002"
 devataa = "भाववृत्तं"
 RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अघमर्षणो माधुच्छन्दसः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ádhi ← ádhi (invariable)  
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समुद्रादर्णवादधि- मूलशख्निधारातः। संवत्सरः- कालः। अजायत- प्रादुर्भूतः। विश्वस्य- सर्वस्य।  मिषतः- जगतः। वशी- ईशानः। अहोरात्राणि। विदधत्- विदधाति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अर्णवात् समुद्रात्** सृष्टाद् अध्यूर्ध्वं **संवत्सरः** संवत्सरोपलक्षितः सर्वः कालोऽजायत।  
@@ -195,8 +198,6 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 Распределяющий дни и ночи,  
 Владыка всего, что моргает.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

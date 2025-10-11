@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ऊर्ध्वबृहती"
 - ऋषिः - त्र्यरुणत्रसदस्यू
 - छन्दः - ऊर्ध्वबृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमृत- अमृतस्वरूप। मर्त्येषु- मनुष्येषु। आ- समन्तात्। चारुणः- सुन्दरस्य। ऋतस्य-  प्रकृतिनियतिभूतसत्यस्य। धर्मन्- अनुकृतिभूतधर्मानुष्ठाने। अजीजनः- आत्मसूर्यं प्रकटयसि। २    सनिष्यदत्- संभजन्। सदा- सततम्। वाजम्- संपदम्। अच्छा- अभिलक्ष्य। असरः-  सरसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अमृत** मरणधर्मरहित सोम त्वम् **ऋतस्य** सत्यभूतस्य **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य **धर्मन्** धारकेऽन्तरिक्षे सूर्यम् **अजीजनः** । किमर्थम् । **मर्त्येष्वा** मनुष्येष्वभिमुखीभवनाय। किंच **सनिष्यदत्** संभजन स त्वं **वाजमच्छ** संग्राममभिलक्ष्य **सदा** **असरः** सरसि गच्छसि ॥
@@ -197,8 +200,6 @@ However, he also wants it to be a type of partitive genitive (“eine Art von Ge
 
 partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of partitive gen. could be construed with ‘beget’. I see no reason why this gen. cannot depend on dhárman as ṛtásya does (Sāyaṇa.’s solution).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -230,8 +231,6 @@ Du hast gezeugt, Unsterblicher, bei Sterblichen im Brauch des Opfers den beliebt
 По установлению (вселенского) закона (приношение) милого напитка бессмертия.  
 Всегда ты мчался к награде, стремясь захватить (ее).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

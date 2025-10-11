@@ -3,7 +3,6 @@ title = "057"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कुत्सः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदब्धाः- अहिंसिताः। महिषाः- महात्मानः। इन्दुम्- क्लेदनशीलं रसम्। रिहन्ति-  आस्वादयन्ति। पदे- सोमस्य पदे। कवयः- क्रान्तदर्शिनः। न गृध्राः- आकाङ्क्षासंयुख्ना इव। २१    रेभन्ति- मन्त्रान् शब्दयन्ति। धीराः- धारणाकुशला उपासकाः। दशभिः क्षिपाभिः-  दशदिग्वर्तिनीभिरवतरणशीलमूलशख्निधाराभिः। हिन्वन्ति- रसं प्रेरयन्ति। अपां रूपम्-  जीवोदकरूपम्। रसेन। समञ्जते- व्यञ्जितो भवति॥५७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 महिषा महान्तः पूज्यावा अतएवादव्धाः कैश्चिदप्याहिंसिता देवा इन्दुं सोमं रिहन्ति लिहन्त्यास्वादयन्ति । किञ्च देवाः सोममुशन्तः सन्तः पदे तस्यास्य सोमस्य धारास्थाने रेभन्ति शब्दायन्ते । तत्र दृष्टान्तः—कवयोनगृध्राः धनमभिकाङ्क्षमाणाः कवयः स्तोतारो- यथा स्तुवन्तः शब्दायन्ते तद्वत् धीराः कर्मणिकुशला ऋत्विजः दशभिः एतत्सङ्ख्याकाभिः क्षिपाभिरङ्गुलीभिः तमिमंसोमं हिन्वन्ति अभिषवार्थं प्रेरयन्ति । अपिच रूपं अंशुं अपां वसतीवर्याख्यानां रसेन समञ्जते सम्यक् सेवयन्ति ॥ ५७ ॥
@@ -242,7 +245,6 @@ The insightful ones impel him with their ten fingers. They jointly anoint  his f
 <details><summary>Jamison Brereton Notes</summary>
 
 The simile in b is one of the best pieces of evidence for my interpr. of √ribh as ‘squawk, creak,’ etc., rather than ‘sing’. The simile “like birds of prey” (ná gṛ́dhrāḥ) only makes sense if the verb that expresses the sounds of the voices of the poets (kaváyaḥ) is not a mellifluous one. Both Geldner and Renou struggle with this. Geldner reduces rebhanti to ‘become hearable/known’: “… werden die Seher lautbar wie die Geier” (not the first quality one things of for a Geier); Renou simply recasts the simile: “sur sa trace ils psalmodient, comme des poètes avides (de gain).”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
@@ -281,8 +283,6 @@ Den Indu schlürfen unversehrte Büffel, und rauschen dort wie eifervolle Sänge
 Они умащают его облик соком вод.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -293,7 +293,7 @@ Den Indu schlürfen unversehrte Büffel, und rauschen dort wie eifervolle Sänge
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (इन्दुम्) प्रकाशस्वरूप परमात्मा को (अदब्धाः) दृढ़ प्रतिज्ञावाले (महिषाः) जो सद्गुणों के प्रभाव से महापुरुष हैं, वे (रिहन्ति) प्राप्त होते हैं, (न, गृध्राः) निष्काम कर्मी (कवयः) विद्वान् (पदे) ज्ञानरूपी यज्ञ की वेदी में (रेभन्ति) जैसे शब्दायमान होते हैं, (धीराः) धीर लोग (दशभिः) दश (क्षिपाभिः) प्राणों की गति से (अपाम्) सत्कर्मों के (रसेन) परिपाक से (रूपम्) उक्त परमात्मा के स्वरूप को (समञ्जते) साक्षात्कार करते हैं॥५७॥
+पदार्थान्वयभाषाः -  (इन्दुम्) प्रकाशस्वरूप परमात्मा को (अदब्धाः) दृढ़ प्रतिज्ञावाले (महिषाः) जो सद्गुणों के प्रभाव से महापुरुष हैं, वे (रिहन्ति) प्राप्त होते हैं, (न, गृध्राः) निष्काम कर्मी (कवयः) विद्वान् (पदे) ज्ञानरूपी यज्ञ की वेदी में (रेभन्ति) जैसे शब्दायमान होते हैं, (धीराः) धीर लोग (दशभिः) दश (क्षिपाभिः) प्राणों की गति से (अपाम्) सत्कर्मों के (रसेन) परिपाक से (रूपम्) उक्त परमात्मा के स्वरूप को (समञ्जते) साक्षात्कार करते हैं॥५७॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

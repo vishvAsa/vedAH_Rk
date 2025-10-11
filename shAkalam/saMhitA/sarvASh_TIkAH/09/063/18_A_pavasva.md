@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ- समन्तात्। पवस्व- क्षर। हिरण्यवत्- कान्तिमतीम्। अश्वावत्- प्राणयुख्नाम्। वीरवत्-  वीर्ययुख्नाम्। गोमन्तम्- ज्ञानयुख्नाम्। वाजम्- संपदम्। सोम- रस। आभर- आहर॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वं** **हिरण्यवत्** सुवर्णोपेतम् **अश्ववत्** अश्वयुक्तं च **वीरवत्** पुत्राद्युपेतं च धनम् **आ** **पवस्व** अस्मान् प्रति क्षर । अपि च **गोमन्तं** पशुभिरुपेतं **वाजम्** अन्नम् **आ** **भर** अस्मभ्यमाहर ॥
@@ -184,10 +187,6 @@ Läutere uns den Besitz von Gold, von Rossen, von Söhnen zu, o Soma; bring rind
 
 O Soma, riesle Schatz an Gold, an Rossen und an Helden her Und bring' uns rinderreiches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

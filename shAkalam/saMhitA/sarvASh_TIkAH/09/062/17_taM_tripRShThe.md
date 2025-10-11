@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यातवे- गन्तुम्। तम्- अमुं सोमम्। त्रिपृष्ठे त्रिबन्धुरे रथे- वाहने रंहणप्रतीके। रथी ऋतस्य नो  भवेति श्रुतेः ऋतं रथः। ऋषीणाम्- सूक्ष्मदर्शिनाम्। सप्त धीतिभिः- सप्तभूमिकोन्मुखधारणाभिः।  युञ्जन्ति- संयोजयन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्रिपृष्ठे** त्रिषवणपृष्ठे **त्रिवन्धुरे** त्रिवेदवन्धुरे **ऋषीणां** **रथे** यज्ञरथे **तं** सोमं **सप्त** सप्तभिः **धीतिभिः** छन्दोभिः **यातवे** देवान् प्रति गन्तुं **युञ्जन्ति** ऋत्विजो योजयन्ति ॥
@@ -175,8 +178,6 @@ See published introduction. for the ritual specificity of the images in this vs.
 
 The uninflected numeral ‘seven’ (saptá) is stationed between two pl. nouns, gen. ṛ́ṣīṇāṃ ‘of the seers’ and instr. dhītíbhiḥ ‘with visionary thoughts’. Of course seven is the canonical number of seers throughout Indian religious history, starting with the RV, but ‘seven’ is also used of dhītí- in IX.9.4 sá saptá dhītíbhir hitáḥ and passages cited there. Most tr. choose to construe it with one or the other (Geldner, Ober [II.72] ṛ́ṣi-; Renou, Lüders [710], Ober [II.222] dhītí-), with, surprisingly (to me), more going for dhītí- than ṛ́ṣi-. But surely its position helps signal that it should be construed with both (as Renou in his n. and Ober in his 2nd tr. indicate).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -201,10 +202,6 @@ Ihn schirren sie an den dreirückigen, dreisitzigen Wagen zum Fahren unter den G
 
 Dem Wagen, der drei Rücken hat, drei Sitze, schirren sie ihn an Zur Fahrt durch sieben Sängerwerk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - दमनो यामायनः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 dhīmahi ← √dhā- 1 (root)  
@@ -89,7 +87,6 @@ pitr̥̄́n ← pitár- (nominal stem)
 
 उ॒शन्तः॑ । त्वा॒ । ह॒वा॒म॒हे॒ । उ॒शन्तः॑ । समिति॑ । इ॒धी॒म॒हि॒ ॥ उ॒शन्न् । उ॒श॒तः । एति॑ । व॒ह॒ । पि॒तृन् । ह॒विषे॑ । अत्त॑वे ॥ 
 </details>
-
 
 <details><summary>Hellwig Grammar</summary>
 
@@ -182,6 +179,10 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उशन्तः- कामयमानाः। त्वा- भवन्तम्। नि धीमहि- वयं स्थापितवन्तः। उशन्तः। समिधीमहि-  सम्यक् ध्यायामः। उशन्- कामयन्। उशतः- कामयतः। पितॄन्- पूर्वपुरुषानाचार्यान्। हविषे  अत्तवे- हव्यभक्षणाय। आ वह- प्रापय॥१२॥
+</details>
 
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -192,6 +193,7 @@ _________
 
 1उशन्त इत्यनुष्टुप् ॥ **उशन्तः** कामयमानाः पितॄन् त्वा **हवामहे** आह्वयामः । तानेव कामयमानास्त्वां समिधीमहि सम्यग्दीपयामः । त्वमपि तान् पितॄन् उशन्नावह । कीदृशान् **उशतः** हविरत्तुं कामयमानान् **हविषे अत्तवे** हविर्भोक्तुं । तुमर्थे तवै प्रत्ययः, कर्मणस्सप्रदानत्वाच्चत्तुर्थी ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -234,8 +236,6 @@ Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zu
 Радостный, радостных привози.  
 Отцов для вкушения жертвенной пищи!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - रेणुः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जायमानम्- उद्भूतम्। इन्द्रम्- ईशनाधिदैवतम्। मासाः। अनु अजिहत- अनुगच्छन्ति। वनानि-  अरण्यानि। ओषधीः- ओषध्यः। पर्वतासः- गिरयो मेघा वा। वावशाने- कामयमाने। रोदसी-  द्यावापृथिव्यौ। आपः। अनुगच्छन्ति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जायमानं** प्रादुर्भवन्तम् **इन्द्रं** **मासाः** चैत्रादयः **अनु** **अजिहत** अनुगच्छन्ति । **अह** इति पूरणः । **वनानि** अरण्यान्यपीन्द्रम् **अनु** अजिहत । **इत्** इति पूरणः । **ओषधीः** ओषध्योऽपि इन्द्रम् **अनु** गच्छन्ति । **पर्वतासः** पर्वता अपीन्द्रम् **अनु** गच्छन्ति। **वावशाने** कामयमाने **रोदसी** द्यावापृथिव्यावपि **इन्द्रम्** अनु गच्छतः । **आपः** उदकान्यपीन्द्रम् **अनु** गच्छन्ति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवन्तमिन्द्रमनुगच्छन्तीत्यर्थः ॥
@@ -256,7 +259,6 @@ The earth and sky in longing,
 The waters, followed Indra on his birth.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Es ordneten sich die Tage, die Monate, es ordneten sich die Bäume, die Pflanzen, die Berge und willig die beiden Welthälften, die Gewässer dem Indra unter, als er geboren wurde.
@@ -274,8 +276,6 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 Под(чинились) охотно Индре две половины вселенной,  
 Под(чинились воды, когда он родился.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

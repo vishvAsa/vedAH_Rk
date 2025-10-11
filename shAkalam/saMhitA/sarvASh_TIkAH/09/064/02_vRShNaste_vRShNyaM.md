@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषन्- वर्षक। वृष्णः- वर्षकस्य। ते- तव। शवम्- बलम्। वृष्ण्यम्- वर्षकमस्ति। वनम्- तव  शरणमपि। वृषा- वर्षकमस्ति। मदः- तव हर्षोपि। वृषा। सत्यम्- सत्यमेव। वृषा इत्- वर्षक  एव। असि- भवसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृषन्** कामानां वर्षक सोम **वृष्णः** वर्षितुः **ते** तव **शवः** बलं **वृष्ण्यं** वर्षणशीलं भवति । **वनं** तव भजनमपि **वृषा** वर्षणशीलम् । **मदः** तव रसोऽपि **वृषा** वर्षणशीलः । **सत्यं** सत्यमेव त्वं **वृषेत्** वर्षणशील एव **असि** भवसि ॥
@@ -208,10 +211,6 @@ Dein, des Bullen, Kraft ist bullenhaft, bullenhaft ist das Holz, bullenhaft dein
 
 Dir Stier ist eigen Stieres Kraft, ein Stier die Flut, ein Stier der Rausch, Ein rechter Stier bist du, o Stier.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

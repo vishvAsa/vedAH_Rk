@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्द्रयुवः- तृप्तिमिच्छन्त्यः। विपन्युवः- स्तुतिकर्यः। पनस्युवः- मन्त्रकामाः। वः- युष्माकम्।  धियः। संवसनेषु- सोमोपलब्धिस्थानेषु भाजनेषु प्रतीकेषु। प्र- प्रकर्षेण। अक्रमुः- व्याप्ता भवन्ति।  धेनवः- गावः। पयसा- क्षीरेण। अभि- वत्सानभितो यथा तथा। सोमम्- रसम्। स्तुभः-  मन्त्रयुख्नाः। मनीषाः- धियः। अभ्यनूषत- स्तुवन्ति। अशिश्रयुः- अभिश्रीणन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **वः** युष्माकं **धियः** ध्यातारः **मन्द्रयुवः** मदकरं शब्दं कामयमानाः **पनस्युवः** स्तुतिं कामयमानाः **विपन्युवः** । स्तोतृनामैतत् । स्तोतारः **संवसनेषु** संवासयोग्येषु यागगृहेषु **प्र** **अक्रमुः** प्रक्रमन्ते । तदेवाह । **सोमं** **मनीषाः** मनस ईश्वराः **स्तुभः** स्तोतारः **अभ्यनूषत** अभिष्टुवन्ति । **धेनवः** अपि **पयसा** स्वीयेन **ईम्** एनं सोमम् **अभि** **अशिश्रयुः** अभिश्रीणन्ति ।
@@ -235,8 +238,6 @@ What is striking stylistically in this vs. is the sequence of three heavy nom. p
 
 fem. -yu-adjectives: mandrayúvo vipanyúvaḥ, panasyúvaḥ, the latter two derived from the same root. Though morphologically parallel, they are somewhat disharmonious: mandrayú- is a hapax, vipanyú- is reasonably well attested and generally modifies the human officiants (gods a few times), while the rather fewer occurrences of panasyú- (and the related verb panasyá-) refer to gods. Hence the “thoughts” of our vs. seem both to “express admiration,” as humans do to gods, and “invite/require admiration,” as gods do from humans - so the thoughts’ purposes seem to be various, both to praise the gods and be admired for their fine crafting? I’m not exactly sure what saṃvásana- (a hapax), lit. ‘dwelling together, joint dwelling’ is expressing here. Geldner seems similarly puzzled, tr. “in den Sitzungen” with a question mark; Renou’s “dans les sessions-rituelles” is more definite and appealing, but I don’t see where he gets it. Perhaps it doesn’t indicate that the thoughts are dwelling with each other but that they, as a group, are dwelling with something/-one else - perhaps the soma, perhaps the milk and other non-verbal parts of the ritual machinery?
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -261,10 +262,6 @@ Eure Dichtungen huben an, wohlklingend, lobspendend in den Sitzungen, nach Beifa
 
 Jetzt schritten eure frommen Andachtswerke vor, erfreuend, rühmend und bewundernd bei dem Fest, Dem Soma tönten rauschend eure Lieder zu, und Kühe haben ihn mit ihrer Milch gewärmt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

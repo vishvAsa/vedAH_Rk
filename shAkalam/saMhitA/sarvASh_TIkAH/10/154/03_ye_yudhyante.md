@@ -3,7 +3,6 @@ title = "003"
 devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - यमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 pradháneṣu ← pradhána- (nominal stem)  
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। प्रधनेषु- युद्धेषु। युध्यते। शूरासः- वीराः। ये तनूत्यजः- शरीराणि त्यजन्ति। ये वा।  सहस्रदक्षिणाः- प्रभूतदायकाः। तांश्चिदेवापि गच्छतात्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रधनेषु** । प्रकीर्णान्यस्मिन् धनानि भवन्तीति प्रधनाः संग्रामाः । तेषु **शूरासः** शौर्यवन्तः **ये**  **युध्यन्ते** शत्रून् संप्रहरन्ति । **ये** च **तनूत्यजः** शरीराणां तत्र त्यक्तारो भवन्ति ।   **ये** **वा** ये च **सहस्रदक्षिणाः** सहस्रदक्षिणान् क्रतून् अनुष्ठितवन्तः । **तान्** सर्वान् **एव** त्वमपिगच्छ । येषूत्तमेषु
@@ -229,8 +232,6 @@ Die kämpfen in so mancher Schlacht, ihr Leben lassen, Helden kühn, Die Opfer l
 К ним-то пусть он и отправится.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भाववृत्तम्
@@ -246,7 +247,7 @@ Die kämpfen in so mancher Schlacht, ihr Leben lassen, Helden kühn, Die Opfer l
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  ब्रह्मचारी चाहे तो युद्ध में लड़नेवाले अपने को राष्ट्र के लिए समर्पित करनेवाले क्षत्रियों को प्राप्त हो या बहुत दक्षिणा देनेवाले वैश्यों को प्राप्त हो ॥३॥
+भावार्थभाषाः -  ब्रह्मचारी चाहे तो युद्ध में लड़नेवाले अपने को राष्ट्र के लिए समर्पित करनेवाले क्षत्रियों को प्राप्त हो या बहुत दक्षिणा देनेवाले वैश्यों को प्राप्त हो ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

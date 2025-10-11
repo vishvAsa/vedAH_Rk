@@ -3,7 +3,6 @@ title = "013"
 devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - अर्बुदः काद्रवेयः सर्पः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तदित्- तस्मिन्नेव। विमोचने- रसविमोचने। अद्रयः- ग्रावाणः। यामन्- मार्गे। अञ्जस्पाइव-  अञ्जसा रक्षकाः। उपब्दिभिः- शब्दैः। वदन्ति- ब्रुवन्ति। धान्याकृतः- कृषीवलाः। बीजं वपन्त ५    इव। सोमम्- रसम्। पृञ्चन्ति। बप्सतः- रसमनुभवन्तः। न मिनन्ति- रसं न हिंसन्ति।  रसमहिंसन्त एवानुभवन्तीति भावः॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्रयः** आदरणीया ग्रावाणः यामन् यामनि गमने अञ्जस्पाः । अञ्जसा पान्ति रक्षन्तीत्यञ्जस्पाः। तेषां रथानाम् इव उपब्दिभिः **तदित्** तदेवाभिषवकर्म विमोचने **घेत्** तत् सोमरसविमोचनवेलायामपि **वदन्ति** प्रकाशयन्ति । किंच **बप्सतः** सोमं भक्षयन्त ग्रावाण: **वपन्तः**
@@ -265,10 +268,6 @@ Dasselbe sprechen die Steine bei der Ausspannung und auf der Fahrt mit ihrem Get
 
 So singen bei der Einkehr sie und auf der Fahrt, mit lautem Lärm die Steine Somatrinkern gleich, Und füllen gleich dem Landmann, der den Samen streut, den Soma ein, doch fressend mindern sie ihn nicht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तोत्रे- मन्त्रे मन्त्रविदि वा। सुवीर्यं- शोभनवीर्यम्। दधत्- प्रयच्छन्। पवमानः- पुनानः। ऋतः-  प्रकृतिनियतिभूतसत्यमयः। कविः- क्रान्तदर्शी। सोमः- रसः। पवित्रम्- भाजनं प्रतीकम्।  आसदत्- आसीदति॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋतः** सत्यभूतः **कविः** क्रान्तकर्मा **पवमानः** **सोमः** अस्मदीये **स्तोत्रे** **सुवीर्यं** शोभनवीर्यं **दधत्** प्रयच्छन् **पवित्रमासदत्** आसीदति ॥ ॥ २९ ॥
@@ -186,10 +189,6 @@ Pavamana Soma, der wahrhafte Seher, hat sich auf die Seihe gesetzt, dem Sänger 
 
 Der heil'ge Seher, flammend hell, der Soma senkte sich ins Sieb, Dem Sänger schenk' er Heldenkraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "039"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - त्रय ऋषिगणाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -270,6 +268,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील रस। गोवित्- ज्ञानवित्। वसुवित्- संपद्वित्। हिरण्यवित्- सुवर्णज्योतिषो  लम्भकः। रेतोधाः- बीजधारकः। भुवनेष्वर्पितः- लोकेषु व्याप्तः सन्। पवस्व- क्षर। त्वम्।  सुवीरः- शोभनवीरः। असि- भवसि। सोम- रस। विश्ववित्तम्- सर्वसंपदम्। त्वा- भवन्तम्।  इमे- एते। विप्राः- मेधाविनः। उप आसते- उपासते॥३९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **पवस्व** क्षर। कीदृशः । **गोवित्** गवां लम्भकः **वसुवित्** धनस्य लम्भकः **हिरण्यवित्** हिरण्यस्य लम्भकः **रेतोधाः** । रेत उदकम् । तस्य धातौषधीनाम् । यद्वा । रेतः प्रजननसामर्थ्यम् । तस्य धारयिता। **भुवनेषु** उदकेषु **अर्पितः** । हे **इन्दो** **सोम** **त्वं** **सुवीरः** सुवीर्यः **असि** भवसि । **विश्ववित्** सर्वस्य वेत्ता। **तं** **त्वा** त्वाम् **इमे** **विप्राः** **गिरा** स्तुत्या **उप** **आसते** ॥
@@ -292,7 +295,6 @@ You, Soma, are rich in good heroes, finder of all [/all-knowing]. These  inspire
 <details><summary>Jamison Brereton Notes</summary>
 
 On viśvavíd- see comm. ad vs. 29. Geldner takes it as ‘all-knowing’ here, but the other -víd- cmpds in the vs. favor ‘all-finding’. Renou, like me, ‘all-finding’ here, though ‘all-knowing’ in 29.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
@@ -320,10 +322,6 @@ Läutere dich, Rinder, Gut, Gold ausfindig machend, Samen gebend, o Saft, über 
 
 O riesle, Indu, spendend Rinder, Güter, Gold, und Samen schaffend, in die Wesen eingefügt; Du bist, o Soma, allbesitzend, heldenreich, drum ehren hier die Sänger dich mit Lobgesang.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

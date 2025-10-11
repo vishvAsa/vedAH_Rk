@@ -3,7 +3,6 @@ title = "014"
 devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - यमः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ghr̥távat ← ghr̥távant- (nominal stem)  
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यमाय- नियमाधिदैवताय। घृतवत्- ज्योतिष्मत्। हविः- हव्यम्। जुहोत- जुहुत। प्र तिष्ठत-  उपतिष्ठध्वम्। च। देवेषु- देवतासु। सः- तादृशो यमः। नः- अस्मभ्यम्। प्र जीवसे- उज्जीवनाय।  दीर्घमायुः। यमत्- प्रयच्छतु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः यूयं **यमाय** **घृतवत्** आज्येन संयुक्तं **हविः** पुरोडाशादिकं **जुहोत** जुहुत । **प्र** **तिष्ठत** **च** यमं यूयमुपतिष्ठध्वं च । **देवेषु** मध्ये **सः** यमो देवः **प्र** **जीवसे** प्रकृष्टजीवनार्थं **नः** अस्माकं **दीर्घमायुः** **आ** **यमत्** प्रयच्छतु ॥
@@ -205,7 +208,6 @@ _________
 
 अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।  
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -249,8 +251,6 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 Пусть он направляет нас среди богов,  
 Чтобы (мы) прожили долгий срок жизни!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

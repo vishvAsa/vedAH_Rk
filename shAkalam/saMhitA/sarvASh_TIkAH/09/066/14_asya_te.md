@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतादृशस्य। ते- तव। सख्ये- सौहृदे। वयम्। इयक्षन्तः- यष्टुमिच्छन्तः। त्वोतयः-  त्वद्रक्षिताः। इन्दो- क्लेदनशील रस। सखित्वम्- मैत्रीम्। उश्मसि- कामयामहे॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** पवमान **इयक्षन्तः** यष्टुमिच्छन्तः पूजयितुमिच्छन्तो वा **अस्य** प्रसिद्धस्य **ते** तव **सख्ये** सखिकर्मणि स्थिताः **वयं** **त्वोतयः** त्वदायत्तरक्षणाः सन्तः **सखित्वं** सखिभावमेव **उश्मसि** उश्मः कामयामहे ॥
@@ -161,8 +164,6 @@ I do not know what the difference is between sakhyá- and sakhitvá-, or if any 
 
 In his endearingly crusty way, Bloomfield (Rig-Veda Repetitions ad IX.31.6) pronounces our vs. “arrant nonsense”: “pādas a and c, borrowed from good quarters, show that the stanza is irresponsible patchwork.” This seems rather harsh, but probably results in part from his interpr. of íyakṣantaḥ as the desid. of √yaj, rather than the now generally accepted derivation from √(n)aś; see comm. ad VI.21.3. Attributing it to √yaj produces a participial phrase in b that has nothing to do with sakhyé in a: “In thy friendship we, sacrificing with thy help, do we, O Indu, thy friendship crave” (Bloomfield’s tr., which justifies his “arrant nonsense” judgment). Whereas a connection with √(n)aś sets out the reason we want your comradeship—we stand to gain from it—and makes ab a unified expression.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -187,10 +188,6 @@ Da wir in deiner Freundschaft mit deiner Hilfe etwas erreichen möchten, so wün
 
 Drum wünschen deine Freundschaft wir verlangend, Indu, unterstützt Von dir in deiner Brüderschaft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

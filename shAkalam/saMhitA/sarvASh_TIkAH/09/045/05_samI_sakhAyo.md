@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अयास्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    ईम्- एनं रसम्। सम्- सम्यक्। सखायः- सुहृदः। अस्वरन्- स्तुवन्ति। वने क्रीळन्तम्- आरण्ये  विहरन्तम्। अत्यविम्- प्रतीकमतिक्रम्य। इन्दुम्- क्लेदनशीलं रसम्। नावाः- मन्त्राः। अनूषत-  स्तुवन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्यविम्** अतिक्रान्तं दशापवित्रं **वने** उदके **क्रीडन्तं** संक्रीडमानम् **ईम्** एनम् **इन्दुं** सोमं **सखायः** प्रियस्तोतारः **सम्** **अस्वरन्** संस्तुवन्ति । **नावाः** वाचोऽपि **अनूषत** अस्तुवन् । ‘ नौरक्षरम्' इति वाङ्नामसु पाठात् ॥
@@ -174,10 +177,6 @@ Die Freunde haben dem im Holze sich tummelnden, über die Schafwolle laufenden S
 
 Ihm jauchzten jetzt die Freunde zu, der durch die Wolle springt ins Holz, Den Indu pries der Lieder Schall.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

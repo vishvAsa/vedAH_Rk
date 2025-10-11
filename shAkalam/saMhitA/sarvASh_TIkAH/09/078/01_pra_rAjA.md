@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - कविः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+राजा- रञ्जकः। वाचम्- मन्त्रम्। जनयन्- उत्पादयन्। प्र- प्रकर्षेण। असिष्यत्- स्यन्दते। अपः-  मूलशख्निधाराः। वसानः- बिभ्रत्। अभि- अभितः। गाः- चिद्रश्मीन्। इयक्षति- सरति। अविः-  रक्षाभूतं भाजनं प्रतीकम्। अस्य- एतस्य रसस्य। रिप्रम्- दोषम्। तान्वा- स्वकीयेन रूपेण।  गृभ्णाति- शोधनार्थं गृह्णाति। शुद्धः- पवित्रः सन्। देवानाम्- देवतानाम्। निष्कृतम्- सदनम्।  उप याति- आगच्छति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **राजा** राजमानोऽयं सोमोऽभिषूयमाणः सन् **वाचं** शब्दं **जनयन्** उत्पादयन् **असिष्यदत्** प्रस्यन्दते । तथा **अपः** वसतीवरीः **वसानः** आच्छादयन् **गाः** स्तुतीः' **अभि** **इयक्षति** अभिगच्छति । इयक्षतिर्गतिकर्मसु पठितः । **अस्य** सोमस्य **रिप्रम्** अनुपादेयत्वेन पापरूपम् अभिषुतवल्लीशकलादिरूपम् **अविः** अविरोमनिर्मितं दशापवित्रं **तान्वा** स्वीयेन वस्त्रेण **गृभ्णाति** गृह्णाति शोधनसमये । पश्चात् **शुद्धः** **देवानां** निष्कृतं संस्कृतं स्थानम् **उप** **याति** उपगच्छति ॥
@@ -282,7 +285,6 @@ but also on the árātayaḥ of c. The point is: if the stranger’s hostilities
 
 As I just said, I don’t have a high degree of certainty about the correctness of this interpr. Those produced by the others just named, which all assign both verbs to ‘reach, attain’, are certainly not out of the question. Unfortunately I can’t endorse either of Oldenberg’s alternatives, however.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -317,8 +319,6 @@ Gesang erzeugend ist der König vorgeströmt; gehüllt in Wasser strebt er nach 
 Овца забирает нечистое, (частицы) его тела.  
 Чистым приходит он на свидание с богами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

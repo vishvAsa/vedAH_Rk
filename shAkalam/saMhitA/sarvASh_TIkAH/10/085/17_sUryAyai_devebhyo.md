@@ -3,7 +3,6 @@ title = "017"
 devataa = "देवाः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 devébhyaḥ ← devá- (nominal stem)  
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूर्यायै- विद्यायै। देवेभ्यः। मित्राय- स्नेहाधिदैवताय। वरुणाय- ऋताधिदैवताय। च। ये। भूतस्य-  भूतजातस्य। प्रचेतसः- प्रकर्षचितिशख्निभूताः। तेभ्यः। इदम्। नमः। अकरम्- करोमि॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सूर्यायै** सूर्यस्य पत्न्यै **देवेभ्यः** अग्न्यादिभ्यः **मित्राय** **वरुणाय** च **ये** च **भूतस्य** भूतजातस्य **प्रचेतसः** सुमतयोऽभिमतप्रदा भवन्ति **तेभ्यः** सर्वेभ्यः इदं **नमः** नमस्कारम् **अकरं** करोमि ॥
@@ -211,8 +214,6 @@ Der Suriā, den Göttern, dem Mitra und Varuna, welche des Seienden kundig sind,
 Что сведущи во (всем) мироздании,  
 Им я совершил это поклонение.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

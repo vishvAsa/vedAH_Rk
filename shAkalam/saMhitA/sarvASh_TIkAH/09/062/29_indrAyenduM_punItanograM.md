@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्रम्- वीरम्। दक्षाय- सामर्थ्यस्य। साधनम्- करणम्। ईशानम्- ईश्वरम्। वीतराधसम्-  संसिद्धिदम्। इन्दुम्- क्लेदनशीलं सोमम्। इन्द्राय- परमेश्वराय। पुनीतन- शोधयत॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **उग्रम्** उद्गूर्णं **दक्षाय** बलस्य **साधनं** करणम् **ईशानं** धनानामीश्वरं **वीतिराधसं** दत्तधनम् **इन्दुं** सोमम् **इन्द्राय** इन्द्रार्थं **पुनीतन** पुनीत ॥
@@ -146,8 +149,6 @@ For Indra purify the drop, the strong one bringing success to skill, the lord wh
 <details><summary>Jamison Brereton Notes</summary>
 
 Although it may not be clear from the Engl. tr., the phrase beginning “the strong one … the lord” refer to Soma (in the acc.), not Indra (in the dat.).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -173,10 +174,6 @@ Für Indra läutert den Saft, den gewaltigen, der Wirkenskraft förderlichen, de
 
 Dem Indra macht den Indu hell, dem starken den, der kräftig hilft, Den Herrscher, der Genuss gewährt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

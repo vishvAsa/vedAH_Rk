@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तन्तुं तन्वानम्- धर्मसन्तानं रचयन्तम्। उत्तमम्- श्रेष्ठं सोमं रसम्। प्रवतः- आपः  जीवाधारशख्निधाराः। अनु आशत- व्याप्नुवन्ति। उत- अपि च। इदम्- एतद्धाम। उत्तमाय्यम्-  सोमेन उत्तमीकृतम्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तन्तुं** यज्ञं **तन्वानम्** **उत्तमम्** उत्कृष्टं सोमम् **अनु** **आशत** **प्रवतः** नद्यः । **उत** अपि च **इदं** कर्म अनेन सोमेन **उत्तमाय्यम्** उत्तमीकृतम्। अथवा तन्तुं तन्वानं सोमं प्रवतोऽधःस्थिताः सर्वा अन्वाशत । उतेदमुत्तमाख्यं रजः । द्युलोक इत्यर्थः । सोऽप्यन्वश्नुते पृथिव्या चान्तरिक्षेण च । उत्तमीकृतमुत्तमाय्यम् ॥
@@ -162,6 +165,7 @@ Meanwhile, 3rd pl. pf. (vy) ā̀naśuḥ of 3c, 5b morphs into 3rd pl. root aor.
 My “that is to be higher still” is meant to capture the pseudo-gerundive form of the nonce uttamā́yi ya-.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -194,8 +198,6 @@ Den höchsten Faden webend jetzt erreichten sie die Wolkenhöhn Und diesen höch
 И того (пространства), что в самом верху.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -206,12 +208,12 @@ Den höchsten Faden webend jetzt erreichten sie die Wolkenhöhn Und diesen höch
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (प्रवतः) गतिशील ब्रह्माण्ड (तन्तुम् तन्वानम्) उत्तम परमाणुप्रबन्ध को बढ़ाते हुए (इदम्) इतने(उत्तमाय्यम्)उत्तम कार्यों से (उत अन्वाशत) व्याप्त हो रहे हैं॥६॥
+पदार्थान्वयभाषाः -  (प्रवतः) गतिशील ब्रह्माण्ड (तन्तुम् तन्वानम्) उत्तम परमाणुप्रबन्ध को बढ़ाते हुए (इदम्) इतने(उत्तमाय्यम्)उत्तम कार्यों से (उत अन्वाशत) व्याप्त हो रहे हैं॥६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  प्रत्येक ब्रह्माण्ड मानों तन्तुरूप से अर्थात् रचनारूप यज्ञ से परमात्मा की संसृति को बढ़ा रहा है ॥६॥
+भावार्थभाषाः -  प्रत्येक ब्रह्माण्ड मानों तन्तुरूप से अर्थात् रचनारूप यज्ञ से परमात्मा की संसृति को बढ़ा रहा है ॥६॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

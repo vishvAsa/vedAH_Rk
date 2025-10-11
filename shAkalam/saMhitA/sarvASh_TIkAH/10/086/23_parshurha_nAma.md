@@ -3,7 +3,6 @@ title = "023"
 devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - वृषाकपिः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ha ← ha (invariable)  
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पर्शुह नाम- परशुर्नारीरूपेणात्रोच्यते। सा विवेकप्रतीकभूता भेदनात्। तस्मादेव सा मानवी। मन  ज्ञाने। मन अवबोधे। मानवी- मनुजा ज्ञानजा अवबोधजेत्यर्थः। साकम्- युगपदेव। विंशतिम्-  प्रभूतम्। सूसव- सोमं रसं ससर्ज। साकं पचन्ति विंशतिमिति श्रुतेः। भल- हे भेदक।  भलतिर्भेदनकर्मा। यस्याः- यस्याः पर्शोः कारणात्। उदरम्। आमयत्- पुष्टमभवत्। रसः  सम्यगनुभूत इति भावः। उताहमद्मिु पीव इदुभा कुक्षी पृणन्तीति श्रुतेः। त्यस्याः- तस्याः। भद्रम्-  मङ्गळम्। अभूत्- अभवत्॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रविसृज्यमानमनेन' मन्त्रेण वृषाकपिराशास्ते । हे **भल** इन्द्रेण विसृज्यमान शर । भलतिर्भेदनकर्मा । **पर्शुः** **नाम** मृगी । **ह** इति पूरणः । **मानवी** मनोर्दुहितेयं **विंशतिं** विंशतिसंख्याकान् पुत्रान् **साकं** सह **ससूव** अजीजनत् । **त्यस्यै** तस्यै **भद्रं** भजनीयं कल्याणम् **अभूत्** भवतु । लोडर्थे लुङ। **यस्या** **उदरमामयत्** गर्भस्थैर्विंशतिभिः पुत्रैः पुष्टमासीत् । मम पिता **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ ४ ॥
@@ -227,7 +230,6 @@ Sāyaṇa translates, "O arrow I Manu's daughter, named Parśu, gave birth to tw
 
 The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -262,10 +264,6 @@ Parsu mit Namen, die Tochter des Manu, gebar zwanzig Kinder auf einmal. Wahrlich
 
 Das menschliche Weib, Parçu mit Namen, hat zwanzig Kinder auf einmal geboren; Heilung ward ihr zu Theil, deren Leib krank war. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

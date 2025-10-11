@@ -3,7 +3,6 @@ title = "004"
 devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अभीवर्तः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 havíṣā ← havís- (nominal stem)  
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। हविषा। इन्द्रः। कृत्वी- शोभनकर्मकर्ता। द्युम्नी- द्युतिमान्। उत्तमः- श्रेष्ठः। अभवत्- बभूव।  तत्। इदम्- एतद्धविः। देवाः- हे देवताः। अक्रि- समर्पयामि। असपत्नः- अशत्रुः। किल।  अभुवम्- अभवम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 येन हविषास्माभिर्दत्तेन माद्यन्निन्द्रः कृत्वी वृत्रवधादेः कर्मणः कर्ता भवत् द्युम्नी। द्युम्नं द्योततेर्यशो वान्नं वा। तद्वान् अत एवोत्तम उत्कृष्टतमश्चाभवत् तदिदं हविर्हे देवाः अक्रि। अकारि। यद्वा। अहमकार्षम्। अत एवाहमसपत्नः किलाभुवम्। शत्रुरहितोऽप्यभवं खलु॥४॥
@@ -242,8 +245,6 @@ Dies Opfer, Götter, ist gebracht, durch welches, als es dargebracht, Sehr gross
 Воистину, не стало у меня соперников!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - राज्ञःस्तुतिः
@@ -259,7 +260,7 @@ Dies Opfer, Götter, ist gebracht, durch welches, als es dargebracht, Sehr gross
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  विषगन्धकयुक्त प्रयोग धुँआ देनेवाला बड़ा प्रभावकारी है, इस प्रयोग को करके राजा यशस्वी अन्न धन सम्पत्तिवाला बन जाता है और शत्रुरहित हो जाता है ॥४॥
+भावार्थभाषाः -  विषगन्धकयुक्त प्रयोग धुँआ देनेवाला बड़ा प्रभावकारी है, इस प्रयोग को करके राजा यशस्वी अन्न धन सम्पत्तिवाला बन जाता है और शत्रुरहित हो जाता है ॥४॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

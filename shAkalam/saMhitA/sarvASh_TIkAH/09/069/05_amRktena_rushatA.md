@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमृख्नेन- शोधितेन। रुशता- प्रकाशाख्येन। वाससा- आच्छादकेन। हरिः- आकर्षकः। अमर्त्यः-  अमरः सोमः। निर्णिजानः- शोधितः। परि व्यत- आच्छादितो भवति। दिवस्पृष्ठम्- ३    चित्ताकाशस्योत्कृष्टस्थाने स्थितम्। बर्हणा- वृत्रनिबर्हणाय। निर्णिजे- शुद्ध्यै। चम्वोः-  द्यावापृथिव्योः। उपस्तरणम्- आच्छादनशीलम्। नभस्मयम्- आकाशस्थं सूर्यम्।  चिदाकाशस्थमात्मसूर्यमित्याध्यात्मिके। कृत- अकरोत्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अमर्त्यः** मनुष्यधर्मरहितः **हरिः** हरितवर्णः सोमः **निर्णिजानः** उदकेन शोध्यमानः सन् **अमृक्तेन** । ‘मृजी शौचालंकारयोः' । अनिर्णिक्तेनापि **रुशता** स्वतः शुक्लवर्णेन पयोरूपेण **वाससा** **परि** **व्यत** परित आच्छादयति । सोमे परिपूते गव्येन पयसा मिश्रीकुर्वन्ति खलु । तदुच्यते । ततः सोऽयं सोमः **दिवः** द्युलोकस्य **पृष्ठं** पृष्ठभागे तिष्ठन्तमादित्यं **बर्हणा** बर्हणाय पापानामुद्यमनकारिणे पापनाशिने **निर्निजे** निर्नेजनाय परिपवनाय **कृत** द्युलोकेऽकार्षीत् । स हि स्वदीप्त्या सर्वं निर्णेक्ति । कृत । कृणोतेर्लुङि ‘ह्रस्वात्' इति सिचो लोपः । तदेवाह । **चम्वोः** । द्यावापृथिवीनामैतत् । चमन्ति भक्षयन्त्यत्र देवा मनुष्या इति । तयोः **उपस्तरणम्** आच्छादनशीलं **नभस्मयम्** आदित्यमयमादित्यस्य स्वभूतं तेजश्च सर्वेषां निर्णेजनाय अकार्षीत् ॥ ॥ २१ ॥
@@ -229,8 +232,6 @@ The repetition of a passively used part. to √mṛj, intens. marmṛjāná-, ma
 Forms of the root √hṛṣ sometimes take dat. infinitives; cf. VIII.19.19 ágne hárṣasva dā́tave “O Agni, be roused to give” (sim. IV.21.9). Contrary to the standard tr., I therefore construe indriyā́ya dhā́yase with harṣate. The adj. indriyá- lit.
 
 ‘Indriyan, relating / appropriate to Indra’ has personal reference here (as also in the same phrase in IX.86.3): “for Indra’s suckling.” On śurúdh- see, inter alia, KEWA, EWA both s.v., Thieme 1941 (=KlSch 338-49), Scarlatta 63, 464. The etymology is disputed, in part because the segmentation of this disyllable is unclear: śur-údh or śu-rúdh-. The former is supposed to be parallel to a putative *iṣ-údh- found in the denom. iṣudhyá-, but I have suggested a different etym. for this word: see comm. ad I.128.6 and my forthcoming “ “Vedic iṣudhyá- and Oldenberg Avestan išud-, išūidiia-: The Aim of Praise.” The latter segmentation is favored by Thieme, who derives it from *(p)śu-rúdh- ‘das Vieh mehrend’. Scarlatta (464) objects that we would then expect *śū-rúdh- (like anū-rúdh-, vī-rúdh-), but that is precisely what needs to be read here (see already Grassmann); otherwise the cadence is the very bad - ⏑ ⏑ ⏑ x. No other forms of the stem occur in the cadence; of the other 9 attestations, 5 are found after an early caesura, where a heavy first syllable would change the standard break ⏑ ⏑ - to a still very common - ⏑ -; the other 4 occur after a late caesura ending with a heavy syllable, where - / - ⏑ would definitely be less acceptable than the normal - / ⏑ ⏑ produced by reading a light first syllable. On the whole I am inclined to accept Thieme’s etymology, at least in preference to one based on a 2nd member -udh, and to assume an original *śūrúdh-, at home here and possibly in the 5 forms after early caesura, whose first syllable was ultimately shortened by analogy to compds in su-.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
@@ -264,8 +265,6 @@ Mit unversehrtem, glänzendem Gewand umhüllt sich schön geschmückt der golden
 (Своею) мощью он приспособил себе спину неба для украшения.  
 Подстилку, состоящую из облаков, для обеих чаш.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

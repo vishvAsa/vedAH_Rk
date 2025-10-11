@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - उचथ्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। चरुर्न- अन्नमिव भवति। तम्- तं भवत्सद्भावनम्। ईङ्खय- प्रापय। इन्दो- क्लेदनशील। न-  संप्रति। दानम्। ईङ्खय। वधैः- तव शौर्यैः। वधस्नो- जडप्रतीकगिरिप्रहारेण प्रस्रवणशील।  ईङ्खय॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **चरुर्न** चरुरिव **यः** पूर्णोदनो भवति **तमीङ्खय** अस्मान् प्रापय । अपि च हे **इन्दो** **न** इदानीं **दानं** देयम् ईङ्खय । हे **वधस्नो** प्रहारेण प्रस्रवणशील सोम **वधैः** ग्राव्णां प्रहारैः **ईङ्खय** ॥
@@ -206,10 +209,6 @@ Der voll wie ein Topf ist, dem gib einen Anstoß! O Saft, gib der Schenkung glei
 
 Den schüttle, der dem Kessel gleicht, o Indu, schüttle Gaben her, Mit Schlägen, Schläger, schüttle ihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

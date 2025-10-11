@@ -3,7 +3,6 @@ title = "005"
 devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - यमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम। सहस्रणीथाः- प्रभूतनेतारः। कवयः- क्रान्तदर्शिनः। ये। सूर्यं- आत्मसूर्यम्। गोपायन्ति-  रक्षन्ति। तपोजान्- तान् तपसा जातान्। तपस्वतः- तपस्विनः। ऋषीन्- सूक्ष्मदर्शिनः। अपि  गच्छतात्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रनीथाः** सहस्रनयनाः **कवयः** क्रान्तदर्शिनः **ये** **सूर्यम्** अमुमादित्यं **गोपायन्ति** रक्षन्ति **तपस्वतः** तपसा युक्तान् **तपोजान्** तपसः सकाशादेवोत्पन्नान् तान् **ऋषीन्** हे **यम** नियत त्वमपिगच्छ ॥ ॥ १२ ॥
@@ -199,8 +202,6 @@ Die Sänger, die an Weisen reich, sie, die der Sonne Hüter sind, Jama! der from
 К риши, славящимся пылом, о Яма,  
 К рожденным пылом, пусть он и отправится!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

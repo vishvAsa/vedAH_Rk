@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    चेतनः- चैतन्यमयः। प्रियः। इन्दुः- हृदयस्पर्शी रसः। कवीनाम्- क्रान्तदर्शिनाम्। मती- मत्या।  पविष्ट- पवते। रथीः- रथी। अश्वम्- तुरगम्। इव। सृजत्- ऊर्मिं सृजति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चेतनः** प्रज्ञापकः **प्रियः** देवानां प्रीतिकरः **इन्दुः** सोमः **कवीनां** क्रान्तकर्मणां स्तोतॄणां **मती** मत्या स्तुत्या **पविष्ट** पवते । **अश्वं** हयं **रथीरिव** रथीव ऊर्मिं **सृजत्** सृजति च ॥ ॥ ३७॥
@@ -184,10 +187,6 @@ Der Saft hat sich merklich geläutert, der liebe durch des Sehers Dichtung. Er l
 
 Der liebe Indu riesle hell erglänzend durch der Sänger Lied, rasch, wie das Ross der Lenker treibt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

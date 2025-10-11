@@ -3,7 +3,6 @@ title = "004"
 devataa = "गर्भसंस्रावे प्रायश्चित्तं"
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रक्षोहा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 te ← tvám (pronoun)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ते- तव। ऊरू- ऊरौ। विहरति- क्रीडति। दम्पती- दम्पत्योः। अन्तरा- मध्ये। शये- शेते।  यः। योनिम्। अन्तः। आरेळ्हि- आस्वादयति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे योषित् **ते** तव **ऊरू** पादमूलौ **यः** राक्षसादिः **विहरति** गर्भघाताय विश्लिष्टौ करोति **दंपती** **अन्तरा** जायापत्योर्मध्ये गर्भहननार्थं यश्च **शये** शेते **यः** च **योनिम्** **अन्तः** प्रविश्य **आरेळिह** निषिक्तं रेतो जिह्वया आस्वादयति ॥ भक्षयतीत्यर्थः । ' लिह आस्वादने ' । आदादिकः । कपिलकादित्वाल्लत्वविकल्पः । ।
@@ -219,8 +222,6 @@ Der dir die Schenkel auseinander reisst, und sich zwischen beide Gatten legt, de
 Кто лижет (твое) лоно изнутри,  
 Того мы гоним отсюда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

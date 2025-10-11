@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मेध्यातिथेः- विद्वदतिथिपूजकस्य। विप्रस्य- विदुषः। गीर्भिः- मन्त्रैः। परिष्कृतः- मण्डितः।  हर्यतः- काम्यः। पुनानः- पवमानः। सोमः- रसः। याति- गच्छति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानः** पूयमानः **हर्यतः** कमनीयः **सोमो** **गीर्भिः** **परिष्कृतः** स्तुतिभिरलंकृतः **याति** कलशं प्रति । किमर्थम् । **विप्रस्य** मेधाविनः **मेध्यातिथेः** मम यागार्थम् । यद्वा । मम गीर्भिरिति संबन्धः॥
@@ -158,10 +161,6 @@ Sich läuternd geht der begehrenswerte Soma, von den Lobreden des beredten Medhy
 
 Gereinigt geht der liebliche, mit Liedern Soma ausgeschmückt Des Sängers Medhiatithi.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

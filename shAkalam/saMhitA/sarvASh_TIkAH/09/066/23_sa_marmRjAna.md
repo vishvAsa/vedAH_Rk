@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ। इन्दुः- क्लेदनशीलो रसः। आयुभिः- उपासकैः। प्रयसे- हव्याय। मर्मृजानः-  शोधितः। प्रयस्वान्- हव्यवान्। हितः। अत्यः- अश्वभूतः प्राणभूत इति भावः। विचक्षणः-  विशेषद्रष्टा भवति॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आयुभिः** कर्मनेतृभिर्मनुष्यैः **मर्मृजानः** पुनःपुनर्मृज्यमानः शोध्यमानः **सः** **इन्दुः** स सोमः **अत्यः** देवान् संततं गन्ता भवति । कीदृशः । **प्रयस्वान्** प्रीणनशीलान्नवान् । यद्वा । स्तोतृभ्यो देयत्वेनान्नयुक्तः । अत एव **प्रयसे** हवीरूपायान्नाय **हितः** **विचक्षणः** सर्वस्य प्रदर्शनकारी सर्वस्य विद्रष्टा वा सोमो देवानभिगन्ता भवति । ‘चक्षिङ् व्यक्तायां वाचि'। ' अनुदात्तेतश्च हलादेः' इति युच् ॥
@@ -158,8 +161,6 @@ hitáḥ in b could of course belong to √hi ‘impel’, though little would c
 
 As it happens both Geldner and Renou also opt for √dhā here.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -188,10 +189,6 @@ Von den Ayu´s geputzt, einen Schmaus bietend, zum Schmause der Götter bestimmt
 
 Gereinigt von den eifrigen, zur Labung labungsreich entsandt, Der weise Indu als ein Ross.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

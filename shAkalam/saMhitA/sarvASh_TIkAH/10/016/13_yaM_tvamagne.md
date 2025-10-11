@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - दमनो यामायनः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agne ← agní- (nominal stem)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। यम्। त्वम्। समदहः- दग्धवानसि। पुनः। तम्। निर्वापय- शमय। अत्र। कियाम्बु-  उदकम्। रोहतु- वृद्धं भवतु। व्यल्कशा- विविधशाखा। पाकदूर्वा- परिपक्वदूर्वा उत्पाद्यताम्॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने त्वं पितृदहनकाले यं देशं समदहः पुरा सम्यक् दग्धवानसि । तिङिचोदात्तव- तीति समोनिघातः । तमु तमेव पुनर्निर्वापय अत्रास्मिन्देशे क्रियाम्बु कियत्प्रमाणमुदकं यस्मिन् तत्पुष्करिण्यादि रोहतु उत्पद्यताम् । किञ्च व्यल्कशा विविधशाखा पाकदूर्वा परि- पक्वदूर्वा च उत्पद्यतां ॥ १३ ॥ अस्थिसञ्चयने क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं श्मशानायतनं प्रोक्षति शीतिके- शीतिकावतीत्यनया । सूत्रितञ्च—क्षीरोदकेनशमीशाखयात्रिःप्रसव्यम्परिव्रजन् प्रोक्षतिशीति- केशीतिकावतीतीति ।
@@ -219,8 +222,6 @@ Den du verbrannt, o Agni, hast, den fächle hold nun wieder an; Dort geh die Was
 Пусть вырастет здесь киямбу,  
 Пакадурва, вьялкаша!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

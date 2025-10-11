@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पवित्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    पवित्रवन्तः- शोधकाः सोमरश्मयः। वाचम्- मन्त्रम्। परि आसते- पर्युपविशन्ति। एषाम्- एतेषां  किरणानाम्। प्रत्नः- पुराणः। पिता- जनकः सोमः। व्रतम्- धर्मम्। अभि- आभिमुख्येन। रक्षति-  पालयति। महः- महान्तम्। समुद्रम्- हृत्समुद्रम्। वरुणः- वरणीयः सोमः। तिरो दधे-  आवृत्यान्तर्हितमकरोत्। धरुणेषु- धर्मेषु। आरभम्- रसमारब्धुम्। धीराः- धारणाकुशला  उपासकाः। इत्- एव। शेकुः- शक्नुवन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवित्रवन्तः** पवित्रेण शोधकेन सामर्थ्येन युक्ताः सोमस्य रश्मयः **वाचं** सोमस्थितां माध्यमिकां वाचं **परि** **आसते** पर्युपविशन्ति । सोमोऽन्तरिक्षे तिष्ठति खलु ‘सोमो वै राजा गन्धर्वेष्वासीत् ' ( ऐ. ब्रा, १.२७) इत्याम्नानात् । ततः **प्रत्नः** पुराणः **एषां** रश्मीनां **पिता** अयं सोमश्च **व्रतं** प्रकाशनात्मकं कर्म **अभि** **रक्षति** अवितं करोति । किंच **वरुणः** सर्वस्य स्वतेजसाच्छादकः सोऽयं सोमः **महः** महत् **समुद्रम्** । अन्तरिक्षनामैतत् । महदन्तरिक्षं तै रश्मिभिः **तिरो** **दधे** अन्तर्हितमकरोत् । सर्वं व्याप्नोदिति यावत् । तमिमं सोमं **धीराः** । **इत्** अवधारणे । कर्मणि कुशलाः प्राज्ञा एवर्त्विजः **धरुणेषु** सर्वस्य धारकेषु वसतीवर्याख्येषूदकेषु **आरभम्** आरब्धुं **शेकुः** शक्नुवन्ति च । रभेस्तुमर्थे ' शकि णमुल्कमुलौ' (पा. सू. ३. ४. १२ ) इति कमुल्। लित्स्वरेण मध्योदात्तः ॥
@@ -269,13 +272,13 @@ tr. if they were tr. with identical renderings of ā́√rabh, rather than “to
 
 requires that ā́√rabh can take a loc. of what is grasped, in addition to the more common acc. (as in 1c). For a passage with such a loc. see I.168.3 and comm. thereto. By contrast Geldner takes the dharúṇa- not as parts of soma but as instruments in which to seize him, namely the soma cups (n. 3d; apparently fld. by Lüders [268]). The use of the stem dharúṇa- in the sg. to refer to soma makes his interpr. difficult to sustain.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -309,8 +312,6 @@ Sie lagern in der Seihe sich um das Getön, ihr alter Vater hütet des Gesetzes 
 Только мудрые смогли схватить (его) в (его) основах.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -321,7 +322,7 @@ Sie lagern in der Seihe sich um das Getön, ihr alter Vater hütet des Gesetzes 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पवित्रवन्तः) उक्त पुण्य कर्मवाले कर्मयोगी (परिवाचम्) वेदरूपी वाणी का (आसते) आश्रयण करते हैं। (एषाम्) इन कर्मयोगियों का (प्रत्नः) प्राचीन (पिता) परमात्मा (व्रतम्) इनके व्रत की (अभिरक्षति) रक्षा करता है और उनके सामने (महः समुद्रम्) इस बड़े संसाररूप सागर को (वरुणम्) जो वरुणरूप अपनी लहरों में डुबा लेने के लिये उद्धत है, उसको (तिरः दधे) परमात्मा तिरस्कार कर देता है। (धरुणेषु) उक्त कर्मयोग और ज्ञानयोगादि साधनों में (आरभम्) आरम्भ को (धीराः) धीरपुरुष (इत्) ही (शेकुः) समर्थ होते हैं, अन्य नहीं॥३॥
+पदार्थान्वयभाषाः -  (पवित्रवन्तः) उक्त पुण्य कर्मवाले कर्मयोगी (परिवाचम्) वेदरूपी वाणी का (आसते) आश्रयण करते हैं। (एषाम्) इन कर्मयोगियों का (प्रत्नः) प्राचीन (पिता) परमात्मा (व्रतम्) इनके व्रत की (अभिरक्षति) रक्षा करता है और उनके सामने (महः समुद्रम्) इस बड़े संसाररूप सागर को (वरुणम्) जो वरुणरूप अपनी लहरों में डुबा लेने के लिये उद्धत है, उसको (तिरः दधे) परमात्मा तिरस्कार कर देता है। (धरुणेषु) उक्त कर्मयोग और ज्ञानयोगादि साधनों में (आरभम्) आरम्भ को (धीराः) धीरपुरुष (इत्) ही (शेकुः) समर्थ होते हैं, अन्य नहीं॥३॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

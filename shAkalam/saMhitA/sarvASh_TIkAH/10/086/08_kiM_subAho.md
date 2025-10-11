@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 kím ← ká- (pronoun)  
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुबाहो- शोभनबाहो। स्वङ्गुरे- शोभनाङ्गुळिके। पृथिष्टो- पृथुभावे। पृथुजाघने- पृथुजघने।  शूरपत्नि- वीरपत्नि। किम्। नः- अस्मदीयम्। वृषाकपिम्। अभ्यमीषि- अभिक्रुध्यसि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 क्रुद्धामिन्द्र उपशमयति । हे **सुबाहो** हे शोभनबाहो **स्वङ्गुरे** शोभनाङ्गुलिके **पृथुष्टो** पृथुकेशसंघाते **पृथुजघने** विस्तीर्णजघने **शूरपत्नि** वीरभार्ये हे इन्द्राणि **त्वं** **नः** अस्मदीयं **वृषाकपिं** **किं** किमर्थम् **अभ्यमीषि** अभिक्रुध्यसि । एकः किंशब्दः पूरणः । यस्य पिता **इन्द्रः** अहं **विश्वस्मात्** **उत्तरः** ॥
@@ -218,7 +221,6 @@ Indra now tries to conciliate her. Sāyaṇa, following the Anukramaṇi, suppos
 
 I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe." 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -256,10 +258,6 @@ Warum, du Schönarmige, Schönfingerige, Breitzopfige, Breithüftige, warum tust
 
 Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Heldengattin, bedrängst du unsern Vrischākapi? Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

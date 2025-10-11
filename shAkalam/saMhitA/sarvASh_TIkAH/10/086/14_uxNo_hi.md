@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 hí ← hí (invariable)  
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मदर्थम्। पञ्चदश विंशतिं उक्ष्णः- प्रभूतसेख्नॄन् सोमान्। पचन्ति- पक्वं कुर्वन्ति। हि- खलु।  उत- अपि च। अहम्। अद्मिु- भक्षयामि। पीवः- पुष्टो भवामि। उभा कुक्षी- उभौ कुक्षी। मे-  मम। पृणन्ति- पूरयन्ति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथेन्द्रो ब्रवीति । **मे** मदर्थं **पञ्चदश** पञ्चदशसंख्याकान् **विंशतिं** विंशतिसंख्याकांश्च **उक्ष्णः** वृषभान् **साकं** सह मम भार्ययेन्द्राण्या प्रेरिता यष्टारः **पचन्ति** । **उत** अपि च अहमग्नि तान् भक्षयामि । जग्ध्वा चाहं **पीव** **इत** स्थूल एव भवामीति शेषः । किंच **मे** मम **उभा** उभौ **कुक्षी** **पृणन्ति** सोमेन पूरयन्ति यष्टारः । सोऽहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** ॥
@@ -239,7 +242,6 @@ Indra, satisfied with the prospect of getting the oblations, describes his appet
  
 The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -275,10 +277,6 @@ Mir braten sie auf einmal fünfzehn, zwanzig Stiere, und ich esse nur fettes Fle
 
 Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und Schwiegertöchtern], und ich esse das Fett, sie füllen mir den ganzen Bauch. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

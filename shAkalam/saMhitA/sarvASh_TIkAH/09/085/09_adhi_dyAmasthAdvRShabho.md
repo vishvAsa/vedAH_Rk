@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वेनो भार्गवः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषभः- वर्षकः। विचक्षणः- सूक्ष्मदर्शी। द्याम्- नभसं चित्ताकाशम्। अधि अस्थात्- अध्यतिष्ठत्।  दिवः- चित्ताकाशस्य। रोचना- द्योतनशख्नीरपि। कविः- क्रान्तदर्शी। वि- विशेषेण। अरूरुचत्-  रोचयति। राजा- रञ्जकः। पवित्रम्- भाजनं प्रतीकम्। अत्येति- अतिक्रम्य गच्छति। रोरुवत्-  मन्त्रान् शब्दयति। दिवः पीयूषम्- चिदाकाशस्यानुभवभूतं रसम्। नृचक्षसः- सूक्ष्मदर्शिन  उपासकाः। दुहते- दुहन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अधि** **अस्थात्** **द्यां** द्युलोकं **वृषभः** वर्षिता **विचक्षणः** विद्रष्टा अयं सोमः । तथा कृत्वा **दिवः** द्युलोकसंबन्धीनि **रोचना** रोचमानानि नक्षत्रादीनि **वि** **अरूरुचत्** विविधं रोचयति । **कविः** क्रान्तप्रज्ञः सन् **राजा** सोमः **पवित्रं** दशापवित्रम् **अत्येति** अतिक्रम्य गच्छति । **रोरुवत्** शब्दं कुर्वन् । **दिवः** द्युलोकस्य **पीयूषं** सारं रसं **नृचक्षसः** नृणां द्रष्टारः सोमाः **दुहते** स्रवन्ति । स्वकीयं रसमान्तरिक्ष्यमुदकं वा दुहन्तीत्यर्थः ॥
@@ -251,7 +254,6 @@ The king goes ever bellowing across the filter. Those having the eyes of  men mi
 The double vision of both heavenly Soma/Sun and earthly ritual soma is clear here, with pādas a, b, d all having a celestial orientation, each containing a form of div-/dyu- ‘heaven’, while the filter of pāda c brings us back to the ritual. The subj.
 
 of d is probably, on the one hand, the ritual officiants, who perform the ritual action of milking (that is, pressing) the soma. But the substance obtained is “the beestings [colostrum, first milk] of heaven” (pīyúṣam … diváḥ), and the next vs. makes clear that those performing the milking here are also the venā́ḥ ‘seekers’ in 10b, where they are located “in the vault of heaven” (divó nā́ke).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
@@ -285,8 +287,6 @@ Zum Himmel stieg weitschauend jetzt der Stier empor, der weise hat das Licht des
 Царь проходит через цедилку, громко ревя.  
 (Жрецы) со взглядом героя доят сливки неба.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

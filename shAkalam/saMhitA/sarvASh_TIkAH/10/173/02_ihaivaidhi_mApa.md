@@ -3,7 +3,6 @@ title = "002"
 devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ध्रुवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ápa ← ápa (invariable)  
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इह- अत्र। एव। एधि- वृद्धो भव। माप च्योष्ठाः- मा अपच्युतो भव। पर्वत इवाविचाचलिः-  गिरिरिवाकम्प्यो भव। इन्द्र इव- ईशनाधिदेवतेव। इह- अत्र। ध्रुवः- नित्यः। तिष्ठ। इह- अत्र।  राष्ट्रम्। धारय॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे राजन् इहास्मिन्नेव राज्य एधि। स्वामित्त्वेन सर्वदा वर्तमानो भव। मापच्योष्ठाः। अपच्युतो मा भूः। मापगमः। पर्वत इव यथा पर्वतो नैश्चल्येनावतिष्ठते एवमचिचाचलिश्चलनरहितो भव। इन्द्र इव यथा स्वर्ग इन्द्रः एवमिह लोके त्वं ध्रुवस्तिष्ठ। स्थिरो भव। राष्ट्रस्य् राष्ट्रं चेह लोके धारय। स्वे स्वे कर्मण्यवस्थापय॥२॥
@@ -262,8 +265,6 @@ Sei hier, nicht wende dich hinweg, sei unerschüttert wie ein Berg; Hier stehe f
 Здесь установи свое господство!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - राज्ञःस्तुतिः
@@ -279,7 +280,7 @@ Sei hier, nicht wende dich hinweg, sei unerschüttert wie ein Berg; Hier stehe f
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  राजा को चाहिये कि वह राष्ट्र को दृढ़ता से सँभाले, पर्वत के समान दृढ़ अविचलित रहे, प्रजा का कल्याण सिद्ध करे ॥२॥
+भावार्थभाषाः -  राजा को चाहिये कि वह राष्ट्र को दृढ़ता से सँभाले, पर्वत के समान दृढ़ अविचलित रहे, प्रजा का कल्याण सिद्ध करे ॥२॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

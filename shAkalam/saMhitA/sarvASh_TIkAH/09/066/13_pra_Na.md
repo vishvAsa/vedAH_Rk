@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- हे क्लेदनशील रस। यत्- यदा। गोभिः- चिद्रश्मिभिः। वासयिष्यसे- आच्छादितो भवसि  तदा। नः- अस्मदर्थम्। महे- महते। रणाय- आनन्दाय। आपः सिन्धवः-  स्यन्दनशीलजीवोदकानि। प्र- प्रकर्षेण। अर्षन्ति- सरन्ति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** क्षरन् सोम **नः** अस्माकं स्वभूताय **रणे** रणाय । रणन्ति स्तुवन्ति देवानत्रेति रणो यज्ञः । अधिकरणे अप् । ङेर्यः' (पा. सू. ७.१.१३) इति न भवति सर्वविधीनां छन्दसि विकल्पितत्वात् । **महे** महते रणाय यज्ञाय तदर्थं **सिन्धवः** स्यन्दमानाः **आपः** वसतीवर्याख्याः सोमसेकार्थं तदा **अर्षन्ति** प्रगच्छन्ति । **यत्** यदा त्वं **गोभिः** गव्यैर्दधिक्षीरादिभिः **वासयिष्यसे** आच्छाद्यसे मिश्रितो भवसि तदापो गच्छन्तीति ॥
@@ -167,8 +170,6 @@ when you will clothe yourself with cows.
 <details><summary>Jamison Brereton Notes</summary>
 
 On pādas bc and esp. the remarkable causative future reflexive form vāsayiṣyase ‘you will cause yourself to be clothed’, see disc. in the comm. to the parallel passage IX.2.4.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -194,10 +195,6 @@ O Saft, uns zu großer Freude fließen die Flußwasser hervor, wenn du in Kuhmil
 
 Es eilt voran der Ströme Flut, o Indu, uns zu hoher Lust, Wenn du mit Milch dich kleiden willst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

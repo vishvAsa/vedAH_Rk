@@ -3,7 +3,6 @@ title = "003"
 devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 devā́nām ← devá- (nominal stem)  
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवानाम्- द्योतनशख्नीनाम्। प्रथमे युगे- प्राचीने काले। असतः- अव्यख्नात्। सत्- व्यख्निः।  अजायत- अभूत्। तत्- तदनु। आशाः- दिशः कामा वा। कामस्तदग्रे समवर्ततेति श्रुतेः।  अन्वजायन्त- अनुजाताः। तत् परि- तदनन्तरम्। उत्तानपदः- अग्नयः। ऊर्ध्वतानं पद्यन्त इति  उत्तानपदः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वार्धमुक्तम् । **तत्** **अनु** **आशाः** दिशः **अजायन्त** **तत्** **परि** तदन्वित्यर्थः । **उत्तानपदः** । उत्तानमूर्ध्वतानं पद्यन्त इत्युत्तानपदो वृक्षाः । ते अजायन्त प्रादुरभवन् ॥
@@ -218,8 +221,6 @@ Aus dem Nichtseienden entsprang zur ersten Götterzeit das Sein; Der Welten Räu
 Следом за ним стороны света родились.  
 Это (бытие родилось) от (существа) с ногами, простертыми кверху.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

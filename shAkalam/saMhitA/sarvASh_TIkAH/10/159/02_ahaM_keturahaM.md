@@ -3,7 +3,6 @@ title = "002"
 devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शची पौलोमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहम्। केतुः- प्रज्ञा। अहम्। मूर्धा- मुख्या। अहम्। उग्रा- वीर्यसम्पन्ना। विवाचनी- वाचयित्री।  पतिः- भर्ता। मम इत्- ममैव। क्रतुम्- सङ्कल्पम्। अनु। सेहनायाः- सहमानायाः। अनु।  उपाचरेत्- अनुसरेत्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अहं** **केतुः** केतयित्री सर्वस्य ज्ञात्री भवामि । **अहं** **मूर्धा** सर्वेष्वप्यवेषु शिर इव प्रधानभूता च भवामि । **अहम्** **उग्रा** उद्गूर्णा सती **विवाचनी** विशेषेण पतिं वाचयित्री भवामि । क्रोधाविष्टमपि पतिं मयि सर्वदा प्रियवचनयुक्तं करोमीत्यर्थः । **सेहानायाः** सपत्नीनामभिभवित्र्याः **ममेत्** ममैव **क्रतुं** कर्म बुद्धिं वा अनुलक्ष्य **पतिः** पालयिता भर्ता **उपाचरेत्** उपागच्छेत् । नान्यासां पत्नीनाम् ॥
@@ -218,8 +221,6 @@ Ich bin das Licht nun, bin das Haupt, ich bin die strenge Richterin, Nach meinem
 Только мою волю, покорившей (его жены),  
 Муж должен исполнять.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

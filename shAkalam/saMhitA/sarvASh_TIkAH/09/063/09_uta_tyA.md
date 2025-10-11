@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। त्याः- ताः। हरितो दश- दशदिग्वर्तिन्य अपः प्रति। यातवे- चरितुम्। सूरः-  आत्मसूर्यस्य प्राणाश्वान्। इन्द्र इति ब्रुवन्- इन्द्रनाम गृह्णन्। इन्दुः- हृदयस्पर्शी सोमः। अयुख्न-  युङ्ख्ने॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **इन्दुः** सोमः **इन्द्र** **इति** **ब्रुवन्** **त्याः** ताः **दश** दशसंख्याका: **हरितः** दिशः प्रति **यातवे** गन्तुं **सूरः** सूर्यस्यैतशम् **अयुक्त** युनक्ति ॥
@@ -186,7 +189,6 @@ The third pāda (índur índra íti bruván) presents another set of problems: h
 
 quite appealing and have adopted it.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -212,10 +214,6 @@ Und die zehn Falbinnen der Sonne hat er angeschirrt, um zu fahren, also sprechen
 Die zehn Goldrosse hat sich schon der Sonnengott zur Fahrt geschirrt, Der Indu, der sich Indra nennt.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -226,7 +224,7 @@ Die zehn Goldrosse hat sich schon der Sonnengott zur Fahrt geschirrt, Der Indu, 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (उत) और (इन्दुः) जो पुरुष अपने प्रेम से सब पुरुषों के हृदयों को स्निग्ध करे, उसका नाम यहाँ इन्दु है। (इन्द्रः) जो सर्व ऐश्वर्य युक्त परमात्मा है, (इति)उसको ऐसे नामों से (ब्रुवन्) कथन करता हुआ जो पुरुष (यातवे) अपनी शारीरिक यात्रा के लिये (त्याः) उन (हरितः) पाप को नष्ट कर देनेवाली (दशसूरः) दश प्रकार की वृत्तियों को (अयुक्त) जोड़ता है, वह परमानन्द को प्राप्त होता है॥९॥
+पदार्थान्वयभाषाः -  (उत) और (इन्दुः) जो पुरुष अपने प्रेम से सब पुरुषों के हृदयों को स्निग्ध करे, उसका नाम यहाँ इन्दु है। (इन्द्रः) जो सर्व ऐश्वर्य युक्त परमात्मा है, (इति)उसको ऐसे नामों से (ब्रुवन्) कथन करता हुआ जो पुरुष (यातवे) अपनी शारीरिक यात्रा के लिये (त्याः) उन (हरितः) पाप को नष्ट कर देनेवाली (दशसूरः) दश प्रकार की वृत्तियों को (अयुक्त) जोड़ता है, वह परमानन्द को प्राप्त होता है॥९॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

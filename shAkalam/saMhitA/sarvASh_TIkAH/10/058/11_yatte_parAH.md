@@ -3,7 +3,6 @@ title = "011"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 párāḥ ← pára- (nominal stem)  
@@ -181,12 +179,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पराः परावतः- पराः शख्नीरनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्ते** **मनः** **पराः** **परावतः** अत्यन्तं दूरदेशान् **जगाम** **तत्** इति गतम् ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -217,8 +218,6 @@ Dein Geist, der in die weitesten Gebiete in die Ferne ging, Der werde von uns he
 Мы его возвращаем тебе,  
 Чтобы он здесь пребывал (и) жил.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

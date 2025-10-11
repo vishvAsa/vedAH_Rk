@@ -3,7 +3,6 @@ title = "003"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वेषामिरज्यवः- हे विश्वेश्वराः। भवतां देवानाम्। वार्महः- वरणीयं महदस्ति। विश्वे- सर्वे। हि-  खलु। विश्वमहसः- व्याप्तमहिमानः। विश्वे- सर्वे। यज्ञेषु- पूजासु। यज्ञियाः- पूजार्हाः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्वेषामिरज्यवः** भुवनानामीश्वराः **देवानां** द्योतनादिगुणयुक्तानां भवतां **महः** महत् **वाः** वरणीयं धनं विद्यत इति शेषः । तदस्मभ्यं दत्तेति भावः । किंच **विश्वे** सर्वे यूयं **विश्वमहसः** व्याप्ततेजस्काः । किंच **विश्वे** यूयं **यज्ञेषु** **यज्ञियाः** यष्टव्याः ॥
@@ -189,10 +192,6 @@ Aller Götter Schutz ist großartig, ihr Gebieter, denn alle sind allherrlich, a
 
 Aller Götter Schutz, o Opferbereiter, ist gross; denn sie alle sind allgewaltig, alle bei den Opfern opferwerth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

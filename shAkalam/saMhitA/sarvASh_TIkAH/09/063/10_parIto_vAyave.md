@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    गिरः- हे मन्त्राः। वायवे- प्राणाय। इन्द्राय- परमेश्वराय। सुतम्- निष्पादितं रसम्। मत्सरम्-  हर्षकरम्। अव्यो वारेषु- सरणशीलरसस्य स्वस्थान एव रक्षाकरेषूपलब्धिस्थानेष्वित्यर्थः।  रसव्यञ्जकेषु। वरणीयेषु प्रतीकेषु। इतः- अस्माद्देशात्। परि सिञ्चत॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **गिरः** स्तोतारः यूयं **वायवे** वाय्वर्थम् **इन्द्राय** इन्द्रार्थं च **सुतम्** अभिषुतं **मत्सरं** मदकरं सोमम् **इतः** अभिषवदेशादुद्धृत्य **अव्यः** अवेः **वारेषु** वालेषु **परि** **षिञ्चत** ॥ ॥ ३१ ॥
@@ -164,8 +167,6 @@ If gíraḥ opening pāda b is an acc. pl. (as seems likely), it is somewhat awk
 
 As in the previous hymn (see comm. ad IX.62.18), the priests are addressed in the 2nd pl. here (pári … siñcata). See also vs. 19, with the same verb.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -190,10 +191,6 @@ Ergießet von da dem Vayu den ausgepreßten Soma, die Lobreden, für Indra den b
 
 Dem Vaju und dem Indra giesst von hier den Saft, der Rausch erregt, O Sänger, durch das Widderhaar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राय- ईशनाधिदैवताय। विष्णवे- सर्वव्यापकाय परमात्मने। सुतः- निष्पन्नः। सोमः- रसः।  कलशे- प्रतीके भाजने वा। अक्षरत्- पवते। वायवे- प्राणाय। मधुमान्- मधुरः। अस्तु-  भवतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्राय** इन्द्रार्थं **विष्णवे** विष्ण्वर्थं च **वायवे** वाय्वर्थं च **सुतः** अभिषुतः यः **सोमः** **कलशे** द्रोणकलशे **अक्षरत्** क्षरति सोऽयं सोमः **मधुमान्** मधुररसवान् **अस्तु** भवतु ॥
@@ -172,10 +175,6 @@ Für Indra, Vishnu ausgepreßt ist der Soma in den Krug geflossen; süß soll er
 
 Gepresst für Indra, Vischnu fliesst der Soma nieder in den Krug, Er möge süss dem Vaju sein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

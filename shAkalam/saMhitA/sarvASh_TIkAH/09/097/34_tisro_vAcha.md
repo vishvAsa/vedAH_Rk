@@ -3,7 +3,6 @@ title = "034"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वह्निः- वाहकः सोमः। तिस्रो वाचः- मध्यमापश्यन्तीवैखरीः। ईरयति- प्रेरयति। ऋतस्य धीतिम्-  सत्यधारणाम्। ब्रह्मणः- उपासकस्य। मनीषाम्। ईरयति। गोपतिम्- चिद्रश्मिपालकम्। सोमम्-  रसम्। पृच्छमानाः- जिज्ञासमानाः। गावः- विद्याः। यन्ति- अभिसरन्ति। वावशानाः-  कामयमानाः। मतयः। यन्ति- अभिसरन्ति॥३४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वह्निर्वोढा यजमानः तिस्रोवाचः ऋग्यजुःसामात्मिकाः स्तुतीः प्रेरयति । तथा ऋत- स्य यज्ञस्यधीतिं धारयित्रीं ब्रह्मणःपरिवृढस्य सोमस्य मनीषां मनसईशित्रीं कल्याणीं वाचं च प्रेरयति । किञ्च गोपतिं वृषभंयथा गावोभिगच्छन्ति तद्वत् । गवांस्वामिनं सोमं गावः पृच्छमानाः पृच्छन्त्यः सत्योयन्ति स्वपयसामिश्रयितुमभिगच्छन्ति । तथा वावशानाः कामयमानाः मतयः स्तोतारः सोमं यन्ति स्तोतुमभिगच्छन्ति ॥ ३४ ॥
@@ -243,8 +246,6 @@ The parallel expressions in c and d -- … yanti … PTCLE contrast the progress
 
 Given the emphasis on noise in this tṛca, the former is probably primary, but both can be meant - hence my tr. “bellowing eagerly.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -277,8 +278,6 @@ Drei Stimmen sind es, die der Fahrer anregt, als Brauch des Opfers, als Gebetes 
 Приходят коровы, спрашивая о пастухе,  
 К соме приходят поэтические мысли, громко мыча
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 dhā́vasi ← √dhāv- 1 (root)  
@@ -208,11 +206,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मेधाबलस्य स्वनिकृष्टांशभूते प्राणबले स्नेहं वर्णयति। इन्द्र- परमेश्वर। अति व्यथिः- चलितः सन्।  वृषाकपेः- वृषाकपिमेव। परा धावसि- प्रतिगच्छसि।  सोमपीतये- रसानुभूतये। अन्यत्र- इतरत्र।  नो अह- नैव  च। प्र विन्दसि- प्रगच्छसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वम् **अति** अत्यन्तं **व्यथिः** चलितः **वृषाकपेः** वृषाकपिं **परा** **धावसि** प्रतिगच्छसि । **अन्यत्र** **सोमपीतये** सोमपानाय **नो** **अह** नैव च **प्र** **विन्दसि** प्रगच्छसीत्यर्थः । सोऽयम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ।
 </details>
-
 
 <details><summary>Tilak - Commentary</summary>
 
@@ -220,7 +222,6 @@ Indra is here reproached for following up Vriṣākapi, though he has offended I
 
 The word parā in this verse seems to denote the region where Vr̥ṣākapi has gone. Parāvat is often said to be the place in the distant or lower portion of the sphere, and is thus contrasted with arvāvat (Rig. viii. 13. 10). In Rig. viii. 33. 10 Indra is said to be Vr̥ṣā in the parāvat and also in the arvāvat regions. Indra is again very often spoken of as going to distant regions to see whether Vr̥tra is duly killed. The same fact appears to be here expressed in a different form.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -252,10 +253,6 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 
 »Du, o Indra, läufst fort über den Weg, den Vrischākapi eingeschlagen, und doch findest du nirgend wo anders eine Gelegenheit zum Somatrunke.« Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

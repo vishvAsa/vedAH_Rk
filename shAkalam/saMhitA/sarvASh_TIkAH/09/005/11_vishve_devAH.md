@@ -3,7 +3,6 @@ title = "011"
 devataa = "स्वाहाकृतयः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 devāḥ ← devá- (nominal stem)  
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वायुः- प्राणाधिदेवता। बृहस्पतिः- मेधाधिदेवता। सूर्यः- आत्मा। अग्निः- सत्सङ्कल्पाधिदेवता।  इन्द्रः- बलाधिदेवता। सजोषसः- सहृदयाः। विश्वे देवाः- एते सर्वे देवाः। पवमानस्य- सोमस्य।  स्वाहाकृतिम्। आ गत- आगच्छत॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्वे** **देवाः** **वायुः** **बृहस्पतिः** च **सूर्यः** च **अग्निः** च **इन्द्रः** च सर्वे यूयं **सजोषसः** संगताः सन्तः **पवमानस्य** सोमस्य **स्वाहाकृतिं** स्वाहाकारं प्रति **आ** **गत** आगच्छत ॥ ॥२५॥
@@ -207,8 +210,6 @@ Zum Heiles-ruf des rieselnden, o Götter, alle kommt herbei, Der Wind, Gebetsher
 Ваю, Брихаспати, Сурья,  
 Агни, Индра единодушные!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

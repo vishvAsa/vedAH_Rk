@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वर्णं- वरणीयम्। मधुश्चुतम्- माधुर्यस्रावकम्। हरिम्- आकर्षकम्। इन्दुम्- क्लेदनशीलं रसम्।  अद्रिभिः- स्थैर्यप्रतीकैः। इन्द्राय पीतये- इन्द्रानुभूतये। हिन्वन्ति- प्रेरयन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अध्वर्य्वादयः **वर्णं** शत्रूणां वारकम् । येनासौ पीयते तेन मत्तेन शत्रवः संप्रहार्यन्त इति शत्रुनिवारणसमर्थम् । **मधुश्चुतं** मधुररसस्य च्यावयितार **हरिं** हरितवर्णम् **इन्दुम्** । इन्धेरेतद्रूपमत्रेष्यते । सर्वतो दीप्यमानम्।' उन्दी क्लेदने ' इत्यस्माद्वा । अभिषवानन्तरं पात्रेषु क्षरणशीलम् । **यस्य** सोमस्य तव कारणमंशुम् **अद्रिभिः** **हिन्वन्ति** प्रेरयन्ति । अभिषुण्वन्तीत्यर्थः। **इन्द्राय** **पीतये** इन्द्रस्य पानाय । तदर्थमित्यर्थः ॥
@@ -150,7 +153,6 @@ the drop for Indra to drink,
 <details><summary>Jamison Brereton Notes</summary>
 
 The construction of the first hemistich is somewhat tricky. The rel. yásya must refer to soma, with the rel. cl. hanging off vs. 7. In pāda a the yásya qualifies várṇam ‘color’, which serves as obj. of hinvánti in b. “They impel his color” is a slightly odd locution, and it becomes odder in b, with the acc. hárim. The stem hári- is a color term and could qualify várṇa- (“tawny color”), but it also is regularly applied directly to soma (e.g., in vss. 12 and 25 of this hymn) and also identifies Indra’s horse(s). Geldner (n. 8b) cleverly suggests that hári- is to be read twice, with the second reading an unmarked simile referring to a horse of the appropriate color. This provides a more appropriate obj. for hinvánti (“they impel (like) a fallow bay (horse)”), while connecting the putative horse with the “tawny color” (várṇam … hárim) that is the 1st obj. of the verb.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -176,10 +178,6 @@ Dessen honigtriefende Farbe sie wie einen Falben mit den Steinen in Fluß bringe
 
 Dess helle Flut von Honig trieft, dess Ross sie spornen durchs Gestein, Zum Trunk dem Indra, Indu ihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

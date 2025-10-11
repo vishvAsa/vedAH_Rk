@@ -3,7 +3,6 @@ title = "005"
 devataa = "श्रद्धा"
 RShiH = "श्रद्धा कामायनी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - श्रद्धा कामायनी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 havāmahe ← √hū- (root)  
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रातः- उषसि। श्रद्धाम्। हवामहे- आह्वयामः। मध्यंदिनं परि- मध्याह्ने। श्रद्धां हवामहे। सूर्यस्य  निम्रुचि- सायम्। श्रद्धां हवामहे। श्रद्धे। नः- अस्मान्। श्रद्धापय- श्रद्धावतः कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **श्रद्धां** देवीं प्रातः पूर्वाह्ने हवामहे । तथा **मध्यंदिनं** परि । लक्षणे परेः कर्मप्रवचनीयत्वम् । मध्यंदिनं परिलक्ष्य । मध्यंदिन इत्यर्थः । मध्याह्नेऽपि तां **श्रद्धां** आह्वयामहे । **सूर्यस्य** सर्वस्य प्रेरकस्यादित्यस्य **निम्रुचि**   अस्तमयवेलायां सायं समयेऽपि तामेव **श्रद्धाम्** आह्वयामहे । ईदृग्रूपे हे **श्रद्धे** **नः** 
@@ -219,8 +222,6 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 Веру – при заходе солнца.  
 О Вера, сделай (так,) чтобы нам здесь верили!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

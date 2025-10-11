@@ -3,7 +3,6 @@ title = "015"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 aphalā́ḥ ← aphalá- (nominal stem)  
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः। फलिनीः- फलयुख्नाः। याः। अफलाः- फलरहिताः। अपुष्पाः- पुष्पवियुख्नाः। याश्च।  पुष्पिणीः- पुष्पसहिताः। बृहस्पतिप्रसूताः- सर्वा मन्त्रबलयुख्नाः। बृहस्पतिर्मन्त्राधिदेवता। अथवा ५    भिषजो मेधया प्रयुख्नाः। बृहस्पतिर्मेधाधिदेवता। ताः। नः- अस्मान्। अंहसः- रोगात्।  मुञ्चन्तु॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **याः** **फलिनीः** फलवत्यः **या** **अफलाः** फलवर्जिताः याः **अपुष्पाः** पुष्परहिताः **याश्च** **पुष्पिणीः** पुष्पवत्यः **बृहस्पतिप्रसूताः** । बृहस्पतिर्मन्त्राभिमानी देवः । तेनानुज्ञाताः। **ता** **नः** अस्मान् **अंहसः** **मुञ्चन्तु** मोचयन्तु ॥ ॥ १० ॥
@@ -218,8 +221,6 @@ Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie möge
 Освободят нас от мучения!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - औषधीस्तुतिः
@@ -235,7 +236,7 @@ Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie möge
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  फलवाली या फलरहित फूलवाली या फूलरहित अथवा फल फूलरहित केवल पत्तेवाली या मात्र काण्डवाली भी ओषधियाँ हों, वे सब महाविद्वान् वैद्य द्वारा प्रयुक्त की गई रोग से छुड़ा सकती हैं ॥१५॥
+भावार्थभाषाः -  फलवाली या फलरहित फूलवाली या फूलरहित अथवा फल फूलरहित केवल पत्तेवाली या मात्र काण्डवाली भी ओषधियाँ हों, वे सब महाविद्वान् वैद्य द्वारा प्रयुक्त की गई रोग से छुड़ा सकती हैं ॥१५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

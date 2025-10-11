@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। धाराः। असश्चतः- असङ्गाः। दिवो न वृष्टयः- आकाशजा वर्षा इव। शुक्रामुपस्तिरम्-  शुद्धमुपस्तीर्यमाणं प्रतीकम्। अभि- अभिलक्ष्य। प्र यन्ति- प्रकर्षेण गच्छन्ति॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव **असश्चतः** असङ्गाः **धाराः** **दिवः** अन्तरिक्षात् **वृष्टयः** **न** वर्षाणीव **शुक्रां** शुक्लवर्णां शुक्लवर्णैः अविलोमभिर्निर्मितम् **उपस्तिरम्** उपस्तीर्यमाणं पवित्रम् **अभि** प्रति **प्र** **यन्ति** ॥
@@ -165,8 +168,6 @@ toward the gleaming underlayer.
 <details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas are simply a word-order variant of IX.57.1ab prá te dhā́rā asaścáto, divó ná yanti vṛṣṭáyaḥ.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -192,10 +193,6 @@ Deine Strahlen fließen unversieglich wie die Regenströme des Himmels über die
 
 Es schreiten deine Strome vor wie Himmels Regen, flutenreich Zum hellen Ueberwurf der Streu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

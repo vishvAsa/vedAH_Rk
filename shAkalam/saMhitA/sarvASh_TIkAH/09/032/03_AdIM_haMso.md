@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - श्यावाश्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आत्- अपि च। ईम्- अयं रसः। हंसः- पक्षी। यथा। गणम्- स्वग्रामं तथा। विश्वस्य- सर्वस्य  जगतः। मतिम्। अवीवशत्- वशं नयति कामयते वा। अत्यो न- अश्व इव स्थितः। गोभिः-  चित्किरणैः। अज्यते- मण्डितो भवति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आत्** अपि च **ईम्** अयं सोमः **हंसो** **यथा** **गणं** जनसंघं स्वगतिविशेषेण स्वनेन वा प्रविशति तद्वत् **विश्वस्य** सर्वस्य स्तोतृजनस्य **मतिं** स्तुतिं बुद्धिं वा **अवीवशत्** वशं नयति । स च सोमः **अत्यो** **न** अश्व इव **गोभिः** गव्यैरुदकैर्वा **अज्यते** सिच्यते स्निग्धीक्रियते ॥
@@ -186,8 +189,6 @@ Like a steed he is anointed [/driven together] with the cows.
 This vs. contains two similes (ab and c respectively), each a bit trickily constructed.
 
 In the first, the caus. redupl. aor. avīvaśat has two slightly different senses in simile and frame: ‘makes bellow’ in the simile: it is the flock (gaṇám) that is making the noise, stimulated by its lead goose (haṃsáḥ); ‘makes bellow(ed)’ in the frame: it is the thought/prayer (matím) of someone else (víśvasya) that Soma causes to be heard. This double sense is the counterpart to that of the caus. to √śru, both ‘make hear’ and ‘makes heard’. My interpr. here is different from that of Renou, who takes both acc. as goal of the sound (“… vers (sa) troupe, … vers la prière …”); Geldner’s is close to mine, though he doesn’t seem to recognize the slight difference in the function of the object. On this aor. stem, see my -áya-Formations, 111, 166. Another ex. with the same sense is found in nearby IX.34.6; see comm. ad loc. In the second simile, in c, it is not syntactic variation but a pun on the root of the passive ajyate that is at issue: this form can belong either to √añj ‘anoint’ or to √aj ‘drive’, and both are appropriate to the context. Soma can be “anointed” by cows’ milk or driven together with the cows (that is, the milk). The ‘steed’ to which Soma is compared could likewise be both anointed (/groomed) and driven.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -220,8 +221,6 @@ Jetzt lockt er jedem Lieder ab wie seinem Volk der Gänserich. Man salbt mit Mil
 Он заставил звучать молитву каждого.  
 Его мажут, как скакуна, коровьим (молоком).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

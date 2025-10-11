@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भरेषु- निर्वाहेषु। जिग्युषाम्- जयताम्। रयीणाम्- दानयोग्यसंपदाम्। सिषासतुः-  संभजनमिच्छुः। असि- भवसि। वाजेषु- युद्धेषु। अर्वतामिव- अश्वानामिव भवद्वीर्यं भवति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **भरेषु** संग्रामेषु **जिग्युषां** शत्रून् जयतां **रयीणां** धनानां **सिषासतुः** संभक्तुमिच्छुः **असि** भवसि । शत्रून् जयद्योत् धनानि प्रयच्छसीत्यर्थः । तत्र दृष्टान्तः। **वाजेषु** संग्रामेषु **अर्वतामिव** अश्वानामिव । यथा संग्रामं प्रविशद्भ्योऽश्वेभ्यो घासं प्रयच्छन्ति तद्वदित्यर्थः॥ ॥ ४ ॥
@@ -174,10 +177,6 @@ Beide haben Reichtümer zu gewinnen gesucht: Du bist auf Seiten derer, die in de
 
 Ein Preisverleiher bist du ja, wie für die Renner auf der Bahn, So für die Sieger in der Schlacht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

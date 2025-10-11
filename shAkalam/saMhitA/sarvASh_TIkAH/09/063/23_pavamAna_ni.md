@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। सोम- रस। श्रवाय्यम्- श्रुतिमतीम्। रयिम्- रससंपदम्।  तोशसे-  निष्पादयसि। प्रियः- प्रेमपात्रः सन्। समुद्रम्- हृत्समुद्रम्। आ विश॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पवमान **सोम** यस्त्वं **श्रवाय्यं** श्रवणीयं **रयिं** शत्रूणां धनं **नि** **तोशसे** नितरां पीडयसि स त्वं **प्रियः** सन् **समुद्रं** द्रोणकलशम् **आ** **विश** प्रविश ॥
@@ -157,7 +160,6 @@ As dear one, enter the sea.
 <details><summary>Jamison Brereton Notes</summary>
 
 On (ní) √tuś see comm. ad VIII.38.2.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -183,10 +185,6 @@ O Soma Pavamana, du ergießest ruhmbringenden Reichtum. Geh als Liebling in den 
 
 Du träufelst rühmenswerthen Schatz herab, o Soma, flammender, Geh ein, du lieber, in das Meer.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

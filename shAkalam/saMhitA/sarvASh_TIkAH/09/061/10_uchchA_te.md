@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्रम्- वीर्ययुख्नम्। शर्म- मङ्गळम्। महि- महान्तम्। श्रवः- श्रुत्युपलक्षितवेदनमयम्। सत्-  सन्मयम्। ते- तव। अन्धसः- भोगस्य। उच्चा- उत्कृष्टे। दिवि- आकाशे। जातम्- प्रादुर्भावम्।  भूमिः- पृथिवी आ ददे। चिदाकाशजरसानुभव आशरीरं प्रवहतीति भावः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव संबन्धिनः **अन्धसः** रसस्य **उच्चा** उपरि **जातं** जन्म अपि च **दिवि** द्युलोके **सत्** विद्यमानं स्वतस्तव संबन्धि **उग्रम** उद्गूर्णं **शर्म** सुखं **महि** महत् **श्रवः** अन्नं च **भूमिः** **आ** **ददे**। भूम्या ददे इति पदत्रयमामनन्ति । विसर्जनीयलोपः सांहितिकः । भूमिर्भौमा जना मादृशाः । भूमिष्ठैरादीयत इत्यर्थः ॥ ॥ १९ ॥
@@ -211,7 +214,6 @@ mid. pres.). Grassmann takes it as a 1st sg. pf., as does Geldner (“Den im Him
 
 that has no other place in the context, where the 1st pl. reigns.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -243,8 +245,6 @@ Was oben deinem Saft entsprang im Himmel, hat die Erd' erlangt, Gewalt'gen Schut
 Находясь на небе, он добывается на земле,  
 Грозна (его) защита, велика слава.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

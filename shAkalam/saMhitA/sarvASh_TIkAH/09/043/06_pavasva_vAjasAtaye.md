@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    गृणतः- स्तोतुः। विप्रस्य- मेधाविनः। वृधे- वृद्ध्यै। वाजसातये- धनलाभाय। पवस्व- क्षर।  सोम- रस। सुवीर्यं- शोभनवीर्यम्। रास्व- देहि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **पवस्व** क्षर । किमर्थम् । **वाजसातये** अन्नलाभाय। तथा **गृणतः** स्तुवतः **विप्रस्य** मम मेध्यातिथेः **वृधे** वर्धनाय च । हे **सोम** **सुवीर्यं** शोभनवीर्योपेतं पुत्रं च **रास्व** देहि ॥ ॥ ३३ ॥
@@ -166,10 +169,6 @@ Läutere dich zum Siegesgewinn, zur Stärkung des beredten Lobsängers, o Soma, 
 
 O riesle hin zur Kräftigung, zum Heil des Sängers, der dich preist, O Soma, spende Heldenkraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

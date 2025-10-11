@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ájasram ← ájasra- (nominal stem)  
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    अजस्रम्- अविच्छिन्नम्। ज्योतिः। यत्र। यस्मिन्। लोके- अनुभवे। स्वः- सर्वम्। हितम्-  निहितम्। तस्मिन्। अमृते लोके- अमृतस्वरूपानुभवे। माम्। धेहि- धारय। पवमान-  पुनान॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** **यत्र** यस्मिल्ँलोके **ज्योतिः** सर्वं तेजः **अजस्रं** सर्वदाविनश्वरं वर्तते । यस्मिन् च **लोके** **स्वः** आदित्याख्यं ज्योतिः **हितं** निहितमस्ति । **तस्मिन्** **अमृते** मरणधर्मरहिते अत एव **अक्षिते** अक्षीणे **लोके** मां सोमाभिषवं कुर्वन्तं **धेहि** निधेहि । तस्मात् मामुत्तमलोकं प्रापयितुं त्वम् इन्द्राय **पंरि** **स्रव** ॥
@@ -276,8 +279,6 @@ Wo unauslöschlich Licht erglänzt, wo Himmelsglanz entzündet ist, An den Ort b
 В бессмертный нерушимый мир!  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

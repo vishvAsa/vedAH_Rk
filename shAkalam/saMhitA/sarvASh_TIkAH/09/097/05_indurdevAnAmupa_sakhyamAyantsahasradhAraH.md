@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "इन्द्रप्रमतिर्वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - इन्द्रप्रमतिर्वासिष्ठ
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दुः- क्लेदनशीलो रसः। देवानाम्- देवतानाम्। सख्यम्- मैत्रीम्। उप आयन्- उपगच्छन्।  सहस्रधारः- अनन्तधारः। मदाय- तृप्तये। पवते- क्षरति। नृभिः- नेतृभिरुपासकैः। स्तवानः-  स्तुतः। महते। सौभगाय- सौभाग्याय। पूर्वं- पुराणम्। इन्द्रं धाम- ईशनशख्निसंपन्नं सदनम्। अनु  अगन्- अनुगच्छति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 देवानामिन्द्रादीनां सख्यं सखिभावं उपायन् उपगच्छन् सहस्रधारः बहुविधधारः इन्दुः सोमः मदाय देवानाम्मदार्थं पवते कलशादिषुक्षरति । नृभिः कर्मनेतृभिः स्तवानः स्तूयमानः सोमः पूर्वं पुरातनं धाम द्युलोकमनुगच्छति । तदेवाह—महते प्रभूताय सौभगाय सौभाग्याय इन्द्रं अगन् गच्छति । सोमे इन्द्रेण पीते सति यजमानानां महा- सौभाग्यं भवति खलु । अगन् गमेर्लुङि घसेति च्लेर्लुक् मोनोधातोरिति नत्वं ॥ ५ ॥
@@ -241,8 +244,6 @@ Being praised by men, he has gone along his earlier domain, to Indra for  great 
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take ánu dhā́ma pū́rvam as referring to an earlier mode of praise (e.g., “nach der früheren Weise”), but dhā́man- in soma hymns tends, in my view, to refer to the physical domain(s) of the ritual ground, which Soma typically travels across in the course of his ritual preparation. See, e.g., the exx. in the immediately preceding hymn IX.96.18-19 and comm. thereon).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -277,8 +278,6 @@ Der Indu, eilend zu der Götter Freundschaft, in tausend Strömen rieselt er zum
 Он отправился к Индре для великого счастья.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -289,7 +288,7 @@ Der Indu, eilend zu der Götter Freundschaft, in tausend Strömen rieselt er zum
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (इन्दुः) कर्म्मयोगी विद्वान् (देवानाम्) विद्वानों के (उपसख्यम्) मैत्रीभाव को (आयन्) प्राप्त होता हुआ (मदाय) आनन्द के लिये (पवते) सबको पवित्र करता है। वह कर्म्मयोगी (सहस्रधारः) अनन्त प्रकार की शक्तियें रखता हुआ (महते सौभागाय) बड़े सौभाग्य के लिये (इन्द्रं) ऐश्वर्य्य को (अगन्) प्राप्त होता हुआ (पूर्वं, धाम) सर्वोपरि धाम बनाता है॥५॥
+पदार्थान्वयभाषाः -  (इन्दुः) कर्म्मयोगी विद्वान् (देवानाम्) विद्वानों के (उपसख्यम्) मैत्रीभाव को (आयन्) प्राप्त होता हुआ (मदाय) आनन्द के लिये (पवते) सबको पवित्र करता है। वह कर्म्मयोगी (सहस्रधारः) अनन्त प्रकार की शक्तियें रखता हुआ (महते सौभागाय) बड़े सौभाग्य के लिये (इन्द्रं) ऐश्वर्य्य को (अगन्) प्राप्त होता हुआ (पूर्वं, धाम) सर्वोपरि धाम बनाता है॥५॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

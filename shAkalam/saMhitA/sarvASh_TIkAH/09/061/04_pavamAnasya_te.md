@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -123,6 +121,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवित्रम्- शोधकं कलशं प्रतीकम्। अभ्युन्दतः- क्लेदयतः। पवमानस्य- पुनानस्य सोमस्य। ते-  भवतः। वयम्। सखित्वम्- मैत्रीम्। आ वृणीमहे- प्रार्थयामहे॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **पवित्रमभ्युन्दतः** पवित्रमभिक्लेदयतः **पवमानस्य** क्षरतश्च **ते** तव **सखित्वं** सख्यं **वयम्** अमहीयव आङ्गिरसाः **आ** **वृणीमहे** प्रार्थयामहे ॥
@@ -144,8 +147,6 @@ While you are purifying yourself, while you are flooding the filter, we choose y
 <details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou render pávamānasya as simply the epithet Pavamāna, but this loses the parallelism between the two gen. sg. pres. participles that open and close the hemistich: pávamānasya … abhyundatáḥ. I render these participles as “while” clauses, to avoid the awkward “we choose the companionship of you who are Xing.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -178,8 +179,6 @@ Wir wünschen deine Freundschaft uns, der du in hellem Strome rinnst, Und durch 
 С тобою, Паваманой,  
 Когда ты наводняешь цедилку.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

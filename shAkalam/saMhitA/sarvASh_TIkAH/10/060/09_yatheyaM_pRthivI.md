@@ -3,7 +3,6 @@ title = "009"
 devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 iyám ← ayám (pronoun)  
@@ -200,12 +198,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। इयम्- एषा। मही- महती। पृथिवी- भूमिः। इमान्- एतान्। वनस्पतीन्- वृक्षान्। दाधार-  दधार। एवा दाधार ते मनो जीवातवे न मृत्यवेथो अरिष्टतातये॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यथेयं** **पृथिवी** **मही** **इमान्** **वनस्पतीन** वृक्षादीन् **दाधार** । शिष्टमुक्तम् ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -238,8 +239,6 @@ Wie diese weite Erde hier des Waldes Bäume sicher hält, So halte deinen Geist 
 А также для невредимости.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सुबन्धोर्जीविताह्वानम्
@@ -255,7 +254,7 @@ Wie diese weite Erde hier des Waldes Bäume sicher hält, So halte deinen Geist 
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  यह महत्त्वपूर्ण-महती पृथिवी ओषधि वनस्पतियों को जैसे संभालती है, ऐसे ही चिकित्सक को भी रोगी के मन को शरीर में दृढ़रूप से धैर्य देकर स्थिर करना चाहिए तथा ओषधियों से उसके मन को शान्त करना चाहिए। उसके जीवित रहने का यत्न करना चाहिए ॥९॥
+भावार्थभाषाः -  यह महत्त्वपूर्ण-महती पृथिवी ओषधि वनस्पतियों को जैसे संभालती है, ऐसे ही चिकित्सक को भी रोगी के मन को शरीर में दृढ़रूप से धैर्य देकर स्थिर करना चाहिए तथा ओषधियों से उसके मन को शान्त करना चाहिए। उसके जीवित रहने का यत्न करना चाहिए ॥९॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

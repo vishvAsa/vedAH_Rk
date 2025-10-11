@@ -3,7 +3,6 @@ title = "004"
 devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - यमी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 cit ← cit (invariable)  
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। पूर्वे- मरणात्प्रागेव। ऋतसापः- सत्यस्पर्शिनः। ऋतावानः- सत्ययुख्नाः। ऋतावृधः-  सत्यवर्धनाः। तपस्वतः- तपस्विनः। तान्। पितॄन्- पूर्वपुरुषान्। यम- नियमाधिदैवत। चिदेवापि  गच्छतात्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **चित्** ये च **पूर्वे** पूर्वपुरुषाः **ऋतसापः** ऋतं सत्यं यज्ञं वा स्पृशन्तः अत एव **ऋतावानः** ऋतेन युक्ताः **ऋतावृधः** ऋतस्य वर्धकाश्च भवन्ति **तपस्वतः** तपसा युक्तान् तान् **एव** पितॄन् हे **यम** नियत त्वमपिगच्छ ॥
@@ -225,8 +228,6 @@ Die Alten, die das Recht gewahrt und Recht geübt und Recht gemehrt, Jama! der f
 К ним-то пусть он и отправится.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भाववृत्तम्
@@ -237,7 +238,7 @@ Die Alten, die das Recht gewahrt und Recht geübt und Recht gemehrt, Jama! der f
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (ये चित् पूर्वे) जो भी महानुभाव (ऋतसापः) अमृत का स्पर्श करनेवाले (ऋतवानः) अमृत को अपने अन्दर धारण करनेवाले (ऋतावृधः) अमृत के बढ़ानेवाले जीवन्मुक्त (तपस्वतः) तपस्वी(पितॄन्)पालकों को (यम तान्-चित्-एव-अपि-गच्छतात्) हे ब्रह्मचारिन् ! उन्हें भी प्राप्त हो ॥४॥
+पदार्थान्वयभाषाः -  (ये चित् पूर्वे) जो भी महानुभाव (ऋतसापः) अमृत का स्पर्श करनेवाले (ऋतवानः) अमृत को अपने अन्दर धारण करनेवाले (ऋतावृधः) अमृत के बढ़ानेवाले जीवन्मुक्त (तपस्वतः) तपस्वी(पितॄन्)पालकों को (यम तान्-चित्-एव-अपि-गच्छतात्) हे ब्रह्मचारिन् ! उन्हें भी प्राप्त हो ॥४॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्र हिन्वानासः- प्रेर्यमाणाः। आशवः- क्षिप्रकारिणः। इन्दवः- क्लेदनशीला रसाः। धिया-  चित्तधारणया। जूताः- इषिताः। समुद्रम्- हृत्समुद्रम्। अच्छ- अभिलक्ष्य। असृक्षत-  सृज्यन्ते॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आशवः** वेगवन्तः **इन्दवः** सोमाः **समुद्रम्** अन्तरिक्षम् **अच्छ** प्रति **हिन्वानासः** हिन्वानाः प्रेर्यमाणाः **धिया** अङ्गुल्या **जूताः** कृष्टाश्च **प्र** **असृक्षत** सृज्यन्ते ।
@@ -178,10 +181,6 @@ Die Somasäfte, die Renner, wurden, zur Eile getrieben, zum Meere losgelassen, d
 
 Die schnellen Rosse, angespornt, sind zu dem Meere vorgeströmt, Die Indu's, durch Gebet beeilt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

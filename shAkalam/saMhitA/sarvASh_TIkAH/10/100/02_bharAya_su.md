@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। गौरस्य पयसः- चिद्रश्मिसारस्य। पीतिम्- अनुभूतिम्। आनशे- व्याप्नोति । भराय- तस्मै  निर्वाहकाय। शुचिपे- शुद्धिपालकाय। क्रन्ददिष्टये- शब्दितगमनाय। वायवे- वाताय प्राणाय।  ऋत्वियम्- ऋतमयम्। भागम्। प्र- प्रकर्षेण। सु- सुष्ठु। भरत॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भराय** संग्रामकारिणे सर्वेषां पोषकाय वेन्द्राय **ऋत्वियं** काले जातं प्राप्तकालं **भागं** **सु** **भरत** सुष्ठु संपादयत हे ऋत्विजः । तथा **शुचिपे** शुद्धस्य सोमस्य पात्रे क्रन्ददिष्टये शब्दितगमनाय । वायोः शीघ्रगमने हि शब्दः प्रत्यक्षः । तादृशाय **वायवे** **देवाय** **प्र** भरत भगमिति शेषः । **यः** देवः **गौरस्य** गौरवर्णस्य पशोः **पयसः** **पीतिं** पानम् **आनशे** प्राप्नोति तस्मै वायवे । शिष्टमुक्तम् ॥
@@ -261,10 +264,6 @@ Bringet fein, um aufzutragen, rechtzeitig dem Vayu seinen Anteil dar, der den re
 
 Als Gabe bringet rasch den Theil, der ihm gebührt, dem Vaju dar, der reines trinkt, der brausend eilt, Der zu dem Trunk der gelben Milch gekommen ist; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "गर्भसंस्रावे प्रायश्चित्तं"
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रक्षोहा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
 _________
 **Morph**  
 bhrā́tā ← bhrā́tar- (nominal stem)  
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्तवा पतिर्वा भ्राता वा जारो वा भूत्वा निपद्यते। ते- तव। प्रजाम्- सन्ततिम्। जिघांसति-  हन्तुमिच्छति। तम्। इतः- अस्मात् स्थानात्। नाशयामसि- नाशयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे योषित् **यः** राक्षसः **भ्राता** भ्रातृरूपो **भूत्वा** **पतिः** भर्तृरूपो वा भूत्वा त्वां **निपद्यते** अभिगच्छति । अथवा **जारः** उपपतिरूपो वा **भूत्वा** अभिगच्छति । एवंभूतः **यः** राक्षसादिः **ते** तव **प्रजां** **जिघांसति** हन्तुमिच्छति । स्पष्टमन्यत् ॥
@@ -233,8 +236,6 @@ Der sich, als wäre er Bruder, Gatte oder Buhle zu dir niederlegt, der dir dein 
 Кто хочет убить твое потомство,  
 Того мы гоним отсюда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

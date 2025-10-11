@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये- सोमाः। त्वेषाः- दीप्ताः। अयासः- गतिशीलाः। कृष्णम्- आकर्षकम्। त्वचम्- आवरणम्।  अप घ्नन्तः- निघ्नन्तः। भूर्णयो न गावः- क्षिप्राः किरणा इव। प्र- प्रकर्षेण। अक्रमुः- सरन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** अभिषुताः सोमाः **गावो** **न** उदकानीव तानि यथा तूर्णमधः पतन्ति तद्वत् । एवं वोपमीयन्ते । यथा गावः स्वगोष्ठं प्रत्याशु गच्छन्ति तद्वत् । अथवा गावः स्तुतिवाचः । ता यथा स्तुत्यं प्रति क्षिप्रं प्राप्नुवन्ति तद्वत् । **भूर्णयः** क्षिप्राः **त्वेषाः** दीप्ताः **अयासः** अया गमनशीलाः **कृष्णां** **त्वचम्** । कृष्णा त्वग्रक्षाः । तम् **अप** **घ्नन्तः** निघ्नन्तः । त्वचिः संवरणकर्मा। ईदृग्भूताः सोमाः **प्र** **अक्रमुः** । तान् स्तुतेति शेषः ॥
@@ -187,8 +190,6 @@ This vs., consisting entirely of a rel. cl., is not resumed by a main cl. Vs. 2,
 As I indicated in the published introduction, I think the unexpressed subj. is the soma juices. Many soma hymns begin with the soma rushing forth after its pressing, often compared to a horse or a bull charging; here the soma drinks are also likened to cattle, but stampeding cattle, and this uncontrollable mob tramples the enemy. So the poet has taken a standard opening trope and “weaponized” it, as it were.
 
 This enemy is identified as the “black skin” (kṛṣṇā́m … tvácam). For this phrase as a designation of non-Ārya “without commandments” (avratá-) see I.130.8 and IX.73.5 (in the latter tvácam ásiknīm; see above). The term avratá- is found in the next vs. (2c).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -222,8 +223,6 @@ Wie ungestüme Stiere sind die muntern, glänzenden genaht, Verjagend weit die s
 Громя черную кожу.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -239,7 +238,7 @@ Wie ungestüme Stiere sind die muntern, glänzenden genaht, Verjagend weit die s
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (ये गावः न) पृथिव्यादि लोकों के समान जो लोक(भूर्णयः) शीघ्र गतिशील हैं (त्वेषाः) जो दीप्तिमान् और (अयासः) वेगवाले (कृष्णाम् त्वचम्) महा गूढ़ अन्धकार को (अपघ्नन्तः प्राक्रमुः) नष्ट करते हुये प्रक्रमण करते हैं॥१॥
+पदार्थान्वयभाषाः -  (ये गावः न) पृथिव्यादि लोकों के समान जो लोक(भूर्णयः) शीघ्र गतिशील हैं (त्वेषाः) जो दीप्तिमान् और (अयासः) वेगवाले (कृष्णाम् त्वचम्) महा गूढ़ अन्धकार को (अपघ्नन्तः प्राक्रमुः) नष्ट करते हुये प्रक्रमण करते हैं॥१॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

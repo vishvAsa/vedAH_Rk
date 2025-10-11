@@ -3,7 +3,6 @@ title = "005"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र इव- ईशनाधिदेवतेव। विजेषकृत्- जयशीलः। अनवब्रवः- अदूषणवचनः सन्। मन्यो- रुद्र।  अस्माकम्- नः। अधिपाः- पालकः स्वामी। इह- अत्र। भव। सहुरे- सहनशील। प्रियम्-  अस्मत्प्रेमपात्रम्। ते- तव। नाम। गृणीमसि- गृणीमः। यतः- यस्माद्धिरण्यगर्भात्। आबभूथ-  त्वमभवः। तमुत्सम्- तं बलं हिरण्यगर्भाख्यम्। विुद्म- वयं जानीमः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मन्यो** **इन्द्रइव** **विजेषकृत्** विजयकर्ता । तथा **अनवब्रवः** अनिन्दितवचनः ।  ‘ अनवब्रवोऽनवक्षिप्तवचनः ' (निरु. ६. २९) इति यास्कः । ईदृशस्त्वम् **अस्माकम्** **अधिपाः** अधिकं पाता रक्षिता **भव** **इह** अस्मिन्यज्ञे । हे **सहुरे** शत्रूणां सहनशील **ते** **प्रियं** **नाम** स्तोत्रं **गृणीमसि** गृणीमः स्तुमः । **यतः** नाम्नः स्तोत्रात् त्वम् **आबभूथ** आभवसि प्रवृद्धो भवसि **तमुत्सं** बलस्योद्गमयितारं **विद्म** जानीमः ॥
@@ -269,10 +272,6 @@ Ein Siegbereiter gleich Indra, keine Absage gebend, sei du, Manyu, hier unser Sc
 
 Wie Indra Sieg verschaffend und untadelhaft, sei du, o Manju, unser höchster Herrscher hier; O Sieger, deinen lieben Namen preisen wir; bekannt ist uns der Quell, dem du entsprungen bist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

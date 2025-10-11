@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्द्रम्- तृप्तिकरम्। वरेण्यम्- वरणीयम्। विप्रम्- मेधाविनम्। मनीषिणम्- मनःसङ्कल्पसंपातम्।  पान्तम्- पालकम्। पुरुस्पृहम्- बहुभिः स्पृहणीयम्। आ वृणीमहे॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मन्द्रं** मदकरं स्तुत्यं वा त्वाम् **आ** वृणीमहे । **वरेण्यं** सर्वैर्वरणीयं संभजनीयं च । किंच **विप्रं** मेधाविनं त्वाम् । तथा **मनीषिणम्** । मनस ईषा मनीषा। तद्वन्तं स्तुतिमन्तं वा त्वाम् **आ** वृणीमहे । प्रत्येकविशेषणापेक्षया आ इत्युपसर्गः कृतः । किंच **पान्तं** सर्वेषां रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं च त्वां संभजामहे ॥
@@ -186,10 +189,6 @@ Den erfreuenden, begehrenswerten, den beredten, gedankenreichen, den vielbegehrt
 
 Die Freude schafft, die herrliche, begeisterte, verständige, Die vielbegehrte, schützende,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आत्- अनन्तरम्। ईम्- एनम्। अश्वं न- तुरगमिव स्थितम्। हेतारः- प्रेरकाः। मध्वो रसम्-  माधुर्यरसम्। अमृताय- अमरणाय। सधमादे- सर्वैः सह मादने। अशूशुभन्- शोभयन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आत्** अनन्तरं **हेतारः** प्रेरका ऋत्विजः **सधमादे** यज्ञे **ईम्** एनं **मध्वः** मदकरस्य सोमस्य **रसम्** **अमृताय** अमरणाय **अश्वं** **न** अश्वमिव **अशूशुभन्** शोभयन्ति ॥
@@ -181,10 +184,6 @@ Und sie haben ihn wie die Treiber das Roß für den Unsterblichen schön gemacht
 
 Jetzt schmückten sie des Methes Saft gleich wie ein Ross die Treiber aus, Zum Mahle dem Unsterblichen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

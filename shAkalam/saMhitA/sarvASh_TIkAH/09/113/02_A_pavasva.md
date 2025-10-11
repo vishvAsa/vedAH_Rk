@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मीढ्वः- आनन्दकर। सोम- रस। दिशां पते- दिक्पालक। आर्जीकात्- दीप्तिस्थानात्। आ  पवस्व- क्षर। ऋतवाकेन सत्येन- प्रकृतिनियत्यनुस्यूतमन्त्रयुख्नेन परमार्थसत्येन। श्रद्धया। तपसा-  शमदमादिभिः। सुत- निष्पन्न॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दिशां** **पते** प्राच्यादीनां दिशां प्रकाशकत्वेन स्वामिन् हे **मीढ्वः** कामानां सेक्तर्हे **सोम** **आर्जीकात्** । ऋजीकानामदूरभव आर्जीको जनपदः । तस्मात् **आ** **पवस्व** अस्मद्यज्ञं प्रत्यागच्छ । यद्वा । आर्जीकादृजोरकुटिलात् पवित्रात् क्षर। कीदृशः । **ऋतवाकेन** ऋतस्य वचनेन **सत्येन** । सत्यर्तयोरल्पो भेदो द्रष्टव्यः । **श्रद्धया** **तपसा** युक्तैर्दीक्षितैः **सुतः** अभिषुतस्त्वं पवस्व ॥
@@ -262,8 +265,6 @@ Hell riesle her, du Länderfürst, o Soma, huldreich aus dem Fass, Mit wahrem, f
 С истиной, с верой, с пылом.  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

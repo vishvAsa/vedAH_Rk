@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ānandā́ḥ ← ānandá- (nominal stem)  
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। मुदः- वितर्कानुगतसंप्रज्ञातसमाधिगतहर्षाः। प्रमुदः- विचारानुगतसंप्रज्ञातसमाधिगततृप्तयः।  मोदाश्च- अस्मितानुगतसंप्रज्ञातसमाधिगतरसाः। आनन्दाश्च-  आनन्दानुगतसंप्रज्ञातसमाधिगतसमृद्धयः। आसते- सन्ति। यत्र। कामस्य कामा आप्ताः-  अवाप्तसमस्तकामत्त्वमस्ति। तत्र माममृतं कृधि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यत्र यस्मिल्ँलोके आनन्दादयः **आसते** । तेषामल्पो भेदो द्रष्टव्यः । **यत्र** च लोके **कामस्य** काम्यमानस्य देवस्य सर्वे **कामाः**। **आप्ताः** प्राप्त भवन्ति **तत्र** **माममृतं** **कृधि** । एतत्तु त्वया विना न घटत इति हे सोम एवं **परि** **स्रव** ॥ ॥ २७ ॥
@@ -292,10 +295,6 @@ Wo Wonnen, Freuden, Lüste und Belustigungen wohnen, wo die Wünsche des Wunsche
 
 Wo Freude, Lust und Wonne thront, wo Fröhlichkeit und Seligkeit, Wo sich der Lust Verlangen stillt, da mache du unsterblich mich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

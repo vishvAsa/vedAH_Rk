@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - दैवोदासिः प्रतर्दनः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -214,6 +212,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियः। देववातः- देवैरभिगतः। सहस्रधारः- अनन्तधारः। शतवाजः- प्रभूतहव्यः। इन्दुः-  क्लेदनशीलः। सोमः- रसः। इन्द्राय- परमेश्वराय। रण्या- रमणीयः सन्। मदाय- तृप्तये। कलशे-  प्रतीके कोशे। समना- अविक्लवे हृदि। सम अवैक्लव्ये। वाजी न सप्तिः- गतिशीलोऽश्व इव। परि  जिगाति- अभिसरति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रियः** प्रीणयिता अत एव **देववातः** देवैरभिगतः **रण्यः** रमणीयः **सोमः** **इन्द्राय** इन्द्रस्य **मदाय** मदार्थं **कलशे** द्रोणाभिधाने **परि** **जिगाति** परिगच्छति । कीदृशः । **सहस्रधारः** बहुविधधारोपेतः **शतवाजः** बहुबलः **इन्दुः** पात्रेषु क्षरन् । तत्र दृष्टान्तः । **वाजी** **न** यथा वाजी बलवान् **सप्तिः** अश्वः **समना** । संग्रामनामैतत् । ‘सम ष्टम अवैक्लव्ये '। समन्ति धृष्टा भवन्ति योद्धारोऽत्रेति । तस्मिन् संग्रामे यथाश्वः जिगाति गच्छति तद्वत् ॥
@@ -239,8 +242,6 @@ prizewinning team to the concourses.
 In addition to its echoing ávāta- in 8, devávāte is reminiscent of devátāte in 3a.
 
 My “for Indra’s exhilaration” is a somewhat loose rendering of the double dative índrāya … mádāya “for Indra, for exhilaration.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -274,8 +275,6 @@ Es geht der liebe, gottbegehrte Soma zum Rausch dem Indra freudenreich ins Trink
 В тысячу потоков, с сотней наград, сок сомы,  
 Словно упряжка, захватывающая награду, движется к сражениям.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

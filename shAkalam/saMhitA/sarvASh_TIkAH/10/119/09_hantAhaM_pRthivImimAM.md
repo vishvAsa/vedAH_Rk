@@ -3,7 +3,6 @@ title = "009"
 devataa = "आत्मस्तुतिः"
 RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - लब ऐन्द्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इह वा इह वा- अत्र वा तत्र वा। इमाम्- एताम्। पृथिवीम्- भूमिम्। अहम्। नि दधानि-  स्थापयामि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हन्त** इति संभावनायामनुज्ञायां वा । संभावयाम्येतदनुजानामि वा। किं तत् । **अहम्** **इमां** **पृथिवीम्** **इह** **वा** अन्तरिक्षे **नि** **दधानि** । **इह** **वा** द्युलोके इति हस्तेन निर्दिशति । दधातेर्लोटि मेर्निः ॥
@@ -213,8 +216,6 @@ Wohl! diese Erde will ich nun versetzen hierhin oder dort; Hat mich der Soma den
 Землю там или тут –  
 Не напился ли я сомы?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

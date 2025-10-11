@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्ववित्- हे सर्वज्ञ। पवमानस्य- पुनानस्य। ते- तव। सर्गाः- धाराः। सूर्यस्येव न रश्मयः-  सूर्यकिरणा इव। असृक्षत- सृज्यन्ते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्ववित्** विश्वस्य द्रष्टः सोम **पवमानस्य** क्षरतः **ते** तव **सर्गाः** सृज्यमाना धाराः **सूर्यस्येव** **रश्मयः** सूर्यस्य किरणा इव प्रकाशमानाः । **न** इति संप्रत्यर्थे । इदानीं **प्र** **असृक्षत** प्रसृज्यन्ते ॥
@@ -169,8 +172,6 @@ The root noun cmpd viśva-víd-, like other -víd- cmpds, is completely ambiguou
 
 The simile in c, sū́ryasyeva ná ráśmayaḥ, is redundantly marked, with adjacent simile particles iva ná. There is no structural reason for this; it must result from the attempt to fit the simile sū́ryasyeva raśmáyaḥ found elsewhere in trimeter verse (see nearby IX.69.6, also I.135.9, V.55.3, X.91.4) into a dimeter line. Or, to be more precise, to accommodate the fact that when a form of sū́rya- opens a vs. line, it does not show distraction to sū́r i ya-, in order to avoid placing a light syllable in 2nd position. In a dimeter line, in which this simile has to occupy the whole pāda, the failure to distract produces a 7-syllable line, and so ná was presumably added to fill the gap in the line. In a trimeter line that has the simile in initial position (with undistracted sū́ryasyeva), further material can be added at the end (so I.135.9, IX.69.6), and in a trimeter line where the simile follows the caesura, sū́ryasyeva can be distracted (so V.55.3, X.91.4) in that position.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -195,10 +196,6 @@ Deine, des Pavamana Güsse, sind ausgegossen wie die Strahlen der Sonne, du Allw
 
 Allweiser, dein, des flammenden, Ergüsse sind hervorgeströmt Gleich wie der Sonne Strahlenschar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

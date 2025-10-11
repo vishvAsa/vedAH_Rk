@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बभ्रो सोम- रस। उत- अपि च। अहम्। नख्नं दिवा- दिवारात्रम्। ते- तव। सख्याय- सौहृदाय।  ऊधनि- गोरूपिण्या अदितेरूधसि। घृणा- तेजसा। तपन्तम्- ज्वलन्तम्। परः- परम्। सूर्यम्-  सवितारमिव स्थितं त्वाम्। शकुना इव- पक्षिण इव। अति पप्तिम-  अतिपेतिम॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **बभ्रो** बभ्रुवर्ण हे **सोम** **उत** अपि च **नक्तम्** **उत** अपि च **दिवा** अहोरात्रयोः **सख्याय** सख्यार्थं तव **ऊधनि** समीपे **अहं** रम इति शेषः । ते वयं **घृणा** दीप्त्या **तपन्तं** ज्वलन्तं **परः** परमस्थानस्थितं **सूर्यं** तदात्मकं त्वाम् **अति** **पप्तिम** । तत्र स्थितं त्वां प्राप्तुमतिपेतिम । कथमिव । **शकुनाइव** । यथा सुपर्णादयः पक्षिणः सूर्यमतिगच्छन्ति तद्वत् ॥ ‘ पत्लृ गतौ । अस्माच्छान्दसे लिटि ‘ तनिपत्योश्छन्दसि' इत्युपधालोपः ॥ ॥ १५ ॥
@@ -247,7 +250,6 @@ in conjunction with each other. For Renou this means rejecting the existence of 
 
 The 2nd hemistich matches that of 19. In 19 the poet complains about his afflictions and then invites Soma to pass beyond the barriers. In this vs. the escape presumably effected by Soma in 19 provides the model for the one made by “us.” Just as Soma was to go “beyond the barriers” (paridhī́ṃr áti) so did we fly (paptima) “beyond the sun” (áti sū́ryam)—far beyond it (párah). The sun scorching with its heat, described in c, corresponds to the many things that got me down in 19c, and in both d pādas these troubles are overcome, passed beyond. Soma’s presumably successful journey beyond the barriers—barriers that are probably ritually related (see above)—makes it possible for us to overcome our own difficulties with triumphant flight.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -280,8 +282,6 @@ An deinem Euter, Soma, saug' ich Tag und Nacht, zur Freundschaft, flammendrother
 Над знойно палящим солнцем на ту сторону  
 Улетели мы, как птицы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

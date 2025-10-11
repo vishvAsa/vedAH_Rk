@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महीयुवः- महत्कामयमानाः। जामयः- बन्धुभूताः। उस्रयः- निवसन्त्यः। स्वसारः- स्वतः  सरणशीला आपो मूलशख्निधारा इति भावः। सूरम्- प्रेरकम्। पतिम्- पालकम्। महाम्-  महान्तम्। इन्दुम्- हृदयस्पर्शिनं रसम्। हिन्वन्ति- प्रेरयन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अत्र सर्वत्र पवमानः सोमः स्तूयते । तत्रादावृषिः सोमं प्रत्याह । मदीया अङ्गुलयस्त्वामभिषोतुं प्रेरयन्तीति । तदुच्यते । **स्वसारः** । अङ्गुलिनामैतत् । सुष्ठु कर्मसु प्रेर्यन्त ऋत्विग्भिरिति स्वसारः । **जामयः** एकस्मात्पाणेरुत्पन्नत्वात् परस्परं बन्धुभूताः **उस्रयः** कर्मार्थं निवसन्त्यः । सर्वत्र गन्त्र्य इत्यर्थः । तादृश्योऽङ्गुलयः **महीयुवः** त्वदभिषवं कामयमानाः सत्यः **सूरं** सुवीर्यं सोमे पीते वीर्यं भवतीति शोभनवीर्यकारणं वा सर्वेषां कर्मणि प्रेरकं वा तादृशं **पतिं** सर्वस्य स्थावरजङ्गमजातस्य स्वामिनं यस्माद्देवार्थमिज्यते अत एव **महां** देवेभ्यो दीयमानत्वेन महान्तं महनीयं वा **इन्दुं** ग्रहेषु स्यन्दमानं सोमं **हिन्वन्ति** प्रेरयन्ति । ‘हि वर्धनगत्योः' । स्वादिः ॥
@@ -157,8 +160,6 @@ pátim in b as “their husband” (with Geldner, Renou), not ‘lord’ as in t
 
 Note that Geldner nodded (slightly) in tr. mahā́n índum as “den grossen Indra,” enabled by the constant association between those two words in IX.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -185,10 +186,6 @@ Die morgendlichen treiben die Sonne zur Eile, die versippten Schwestern den Gatt
 
 Die Sonne senden morgenhell, den Gatten die verschwisterten, Den grossen Indu grossgesinnt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र- यस्मिन् वैद्यसदने। समितौ- सभायाम्। राजानः- दीप्तिमन्तः। इव। ओषधीः- ओषधयः।  समग्मत- समायान्ति। सः। विप्रः- मेधावी। भिषक्। उच्यते। सः। रक्षोहा-  शरीरबाधकशख्निनाशकः। अमीवचातनः- व्याधिनाशकः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** यस्मिन् देशे **ओषधीः** ओषधयः **समग्मत** संगच्छन्ते । **राजानः** **समिताविव** संग्रामे यथा संगता भवन्ति तद्वत् । तासां नानाविधानामोषधीनां संगमनं यस्मिन् देशेऽस्ति तत्र **विप्रः** प्राज्ञः ब्राह्मणः **सः** **भिषक्** उच्यते **रक्षोहा** रक्षोहन्ता । **अमीवचातनः**। अमीवा व्याधिः । तस्य चातनश्चातयिता नाशयिता च भवति तदानीम् ॥
@@ -217,8 +220,6 @@ Bei wem der Kräuter Schar sich trifft, wie Fürst und Häupter in dem Rath, Den
 Тот, вдохновенный, называется целителем,  
 Убийцей ракшасов, изгоняющим болезнь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

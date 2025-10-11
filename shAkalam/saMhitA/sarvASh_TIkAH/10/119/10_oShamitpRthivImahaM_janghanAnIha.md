@@ -3,7 +3,6 @@ title = "010"
 devataa = "आत्मस्तुतिः"
 RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - लब ऐन्द्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहम्। पृथिवीम्- भूमिमभिलक्ष्य। इह वा इह वा- अत्र वा तत्र वा। ओषमित्- तपन्तं सूर्यम्।  जंघनानि- प्रापयाणि॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अहं** **पृथिवीम्** अभिलक्ष्य **ओषं** स्वतेजसा तापकमादित्यम् **इह** **वा** अन्तरिक्षे **इह** **वा** द्युलोके **जङ्घनानि** भृशं यापयानि । **इत्** इति पूरणः ॥ हन्तेर्गत्यर्थस्य यङ्लुगन्तस्य लोटि शपो लुगभावश्छान्दसः ॥
@@ -202,8 +205,6 @@ Im Nu will ich die Erde auch zerschmettern hier wol oder dort; Hat mich der Soma
 Землю там или тут –  
 Не напился ли я сомы?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

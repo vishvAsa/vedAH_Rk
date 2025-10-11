@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। धारया। पुनानः- पवमानः सन्। इन्दो- क्लेदनशील। सुक्रतो- शोभनसङ्कल्प। विश्वा  स्रिधः- सर्वा द्वेषभावनाः। रक्षांसि। अप जहि- नाशय॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** दीप्त **सुक्रतो** सुकर्मन् **सोम** **धारया** **पुनानः** पूयमानस्त्वं **विश्वाः** सर्वान् **स्रिधः** द्वेष्टॄन् शत्रून् **रक्षांसि** राक्षसांश्च **अप** **जहि** मारय ॥
@@ -189,10 +192,6 @@ O Somasaft, indem du dich im Strome läuterst, verbann alle Fehlschläge, vertre
 
 Gereinigt, Soma, schlag' im Strom o Indu, alle Feinde fort, Und die Gespenster, kräftiger!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

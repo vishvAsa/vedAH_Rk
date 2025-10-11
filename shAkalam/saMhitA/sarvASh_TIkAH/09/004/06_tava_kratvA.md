@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - हिरण्यस्तूपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    तव क्रत्वा तवोतिभिः। ज्योक्- चिरम्। सूर्यं- आत्मचैतन्यम्। पश्येम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तव** **क्रत्वा** प्रज्ञानेन **तव** **ऊतिभिः** रक्षाभिश्च **ज्योक्** चिरं **पश्येम** **सूर्यम्** । पश्याम द्रक्ष्यामः । सिद्धमन्यत् ॥
@@ -206,8 +209,6 @@ Durch deine Kraft und deine Gunst lass lange uns die Sonne sehn Und mach' uns re
 Пусть мы долго будем видеть солнце –  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्र- प्रकर्षेण। अभि इहि- अभ्यागच्छ। मे- मम। दक्षिणतः- दक्षिणपार्श्वे। भव। भूरि वृत्राणि-  प्रभूतान्यावरणानि। जङ्घनाव- नाशयाव। ते- तुभ्यम्। धरुणम्- धारकम्। अग्रम्- मुख्यम्।  मध्वः- सोमं रसम्। जुहोमि। उभा- उभौ। प्रथमा- प्रथमौ। उपांशु- अन्तर्निहितं रसम्। पिबाव-  अनुभवाव॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मन्यो **अभि** **प्रेहि** अभिगच्छ। मम युद्धं गत्वा च **मे** मम **दक्षिणतो** **भव** । **अध** अथ आवां **वृत्राणि** शत्रून् **भूरि** प्रभूतं **जङ्नाव** हनाव । **ते** तुभ्यम् **अग्रं** श्रेष्ठं **मध्वः** मधु सोमरसं **जुहोमि** । **उभौ** त्वं चाहं च **उपांशु** अप्रकाशं **प्रथमा** प्रथमौ सन्तौ **पिबाव** ॥ ॥१८॥
@@ -253,10 +256,6 @@ Geh drauf los, bleib zu meiner Rechten, dann wollen wir beide viele Feinde ersch
 
 Komm her zu mir und steh zu meiner Rechten, dann werden viele Feinde wir erschlagen; Ich giess dir zu des Honigs Seim, der Kraft gibt, wir beide wollen leis' als erste trinken.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

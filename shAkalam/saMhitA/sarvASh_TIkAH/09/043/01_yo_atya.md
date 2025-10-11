@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। हर्यतः- कान्तः। अत्य इव- अश्व इव स्थितः। मदाय- हर्षाय तृप्तये। गोभिः- चित्किरणैः।  मृज्यते- शोधितः। तम्। गीर्भिः- मन्त्रैः। वासयामसि- परिष्वजामः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **अत्यइव** अतनशीलोऽश्व इव **गोभिः** वसतीवरीभिरद्भिर्गोविकारैः पय
@@ -186,10 +189,6 @@ Der wie ein Rennpferd geputzt wird mit der Milch zur Berauschung, der Begehrensw
 
 Der wie ein Ross gereinigt wird mit Milch zum Rausch, der liebliche, Ihn hüllen wir mit Liedern ein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अभीवर्तः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 abhivŕ̥tya ← √vr̥t- (root)  
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः- ये। नः- अस्माकम्। अरातयः- अदातारस्तान्। सपत्नान्- दैत्यान्। अभिवृत्य- वशीकृत्य।  यः। नः- अस्मान्। इरस्यति- ईर्ष्यति तम्। पृतन्यन्तम्- अस्माभिर्युद्धकामम्। अभि तिष्ठ॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे राजन् सपत्नान् शत्रून् अभिवृत्य अभितो गमयित्वा नः अस्माकं याः अरातयः अदानशीलाः प्रजाः सन्ति त अपि अभि तिष्थ अभिभव। पृतन्यन्तं पृतनाः सेना आत्मन इच्छन्तं युयुत्सुं च अभि तिष्ठ। पृतनाशब्दात् क्यचि कव्यध्वरपृतनस्य इत्यन्तलोपः। यः च नः अस्मभ्यं इरस्यति ईर्ष्यति। इरस् तिरस् ईर्ष्यायां कण्ड्वादिः। तमपि अभि तिष्ठ। यद्वा। प्रकृतो ब्रह्मणस्पतिरेवात्रापि सम्बोध्यः॥२॥
@@ -209,8 +212,6 @@ Besiege, die uns feindlich sind und unsre Nebenbuhler auch; Dem, der uns angreif
 Покори сопротивляющегося,  
 По(кори того,) кто нам завидует!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

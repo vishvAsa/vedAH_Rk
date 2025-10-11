@@ -3,7 +3,6 @@ title = "006"
 devataa = "केशिनः"
 RShiH = "एतशः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - एतशः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 apsarásām ← apsarás- (nominal stem)  
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अप्सरसाम्- अप्सु मूलशख्निधारासु स्थितानां सुखानुभूतीनाम्। गन्धर्वाणाम्-  चिद्रश्म्युद्भूतानुभूतीनाम्। निर्विचारसमाध्यन्तानामानन्दसमाध्यादीनामिति भावः। मृगाणाम्-  योगिभिर्मृग्यमाणानाम्। चरणे- आचरणे। चरन्। केशी- मुख्यप्राणः। केतस्य- चैतन्यस्य।  विद्वान्। सखा। स्वादुः- मधुरः। मदिन्तमः- अतिशयेन तृप्तो भवति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अप्सरसां** देवस्त्रीणां **गन्धर्वाणां** **चरणे** संचारभूते दिव्यन्तरिक्षे च तथा **मृगाणां** सिंहादीनां संचारस्थले पृथिव्यां **चरन** व्याप्य संचरन् **केशी** अग्निर्वायुः सूर्यो वा **केतस्य** ज्ञातव्यस्य सर्वस्यार्थजातस्य **विद्वान्** यद्वा ज्ञातव्यस्यास्यर्षेरेतशस्य **सखा** विद्वान् अविशेषात् सर्वं जानन् स्वादुः स्वादयिता रसयिता सर्वस्य रसस्योत्पादकः अत एव **मदिन्तमः** मादयितृतमो भवति । ‘नाद्धस्य ' इति नुडागमः ॥
@@ -197,8 +200,6 @@ Auf der Apsarasen, der Gandharven, der wilden Thiere Bahn wandernd ist der Langh
 Аскет понимает (их) волю:  
 Он их милый, самый привлекательный друг.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

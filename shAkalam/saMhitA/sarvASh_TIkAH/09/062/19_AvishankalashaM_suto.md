@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुतः- निष्पन्नः। विश्वाः- सर्वाणि। श्रियः- मङ्गळानि। अभि- अभितः। अर्षन्- गमयन्।  कलशम्- प्रतीकम्। आविशन्- प्रविशन्। शूरः- समर्थो वृषभः। गोषु न- धेनूनां मध्य इव।  तिष्ठति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुतः** अभिषुतः सोमः **कलशं** द्रोणम् **आविशन्** **विश्वाः** सर्वाः **श्रियः** संपदः **अभि** **अर्षन्** अस्मानभिगमयन् **गोषु** शत्रूणां पशुषु **शूरो** **न** यथा शूरो निःशङ्कः **तिष्ठति** तद्वद्यज्ञेषु निःशङ्कस्तिष्ठति ॥
@@ -202,10 +205,6 @@ Ausgepreßt in den Krug einziehend, auf alle Herrlichkeiten zufließend hält er
 Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter Kühen wie ein Held.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -221,7 +220,7 @@ Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जो पुरुष जितेन्द्रिय और दृढ़व्रती होते हैं, वे ही राजधर्म के लिये उपयुक्त होते हैं, अन्य नहीं॥१९॥
+भावार्थभाषाः -  जो पुरुष जितेन्द्रिय और दृढ़व्रती होते हैं, वे ही राजधर्म के लिये उपयुक्त होते हैं, अन्य नहीं॥१९॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

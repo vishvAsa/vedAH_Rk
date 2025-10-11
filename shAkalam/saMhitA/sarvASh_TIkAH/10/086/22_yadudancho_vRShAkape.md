@@ -3,7 +3,6 @@ title = "022"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 údañcaḥ ← údañc- (nominal stem)  
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषाकपे। इन्द्र। यत्- यदा। उदञ्चः- उद्गामिनः सन्तः। गृहम्- सदनम्। अजगन्त- आगच्छत।  तदा। पुल्वघः- बह्वादीति यास्कः। मृगः- मर्कटः। सः। जनयोपनः- जनमोदयिता। क्व- कुत्र।  कम्- कं वा देशम्। अगन्- अगच्छत्॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 गत्वा पुनरागतं वृषाकपिमिन्द्रः पृच्छति । हे **इन्द्र** परमैश्वर्यवन् हे **वृषाकपे** यूयम् **उदञ्चः** उद्गामिनः सन्तो मद्गृहम् **अजगन्तन** आगच्छ । एकस्यापि बहुवचनं पूजार्थम् । तत्र भवतः संबन्धी **पुल्वघः** बहूनां भौमरसानामत्ता **स्यः** सः **मृगः** **क्व** अभूत् **जनयोपनः** जनानां मोदयिता मृगः **कं** वा देशम् **अगन्** अगच्छत् । सोऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** । यद्वा इन्द्राणीवाक्यमिदम् । अत्र यास्कः---- ‘ यदुदुञ्चो वृषाकपे गृहमिन्द्राजगमत क्व स्य पुल्वघो मृगः क्व स बह्वादी मृगः । मृगो मार्ष्टेर्गतिकर्मणः । कमगमद्देशं जनयोपनः ' (निरु. १३. ३ ) इति ॥
@@ -237,7 +240,6 @@ In the Taittirīya Brāhmaṇa i. 8. 2. 1, we are told that the Vedic priests, e
 
 If the meaning I have proposed is correct, we have here a record of the position of the sun at the vernal equinox. I take pulvaghas in the original to mean "great sinner;" but it may be translated as Yāska proposes by "omnivorous" or "voracious." But in either case I would take it as referring to the antelope's spoiling the things of Indrāṇī. The point is that the sinning Mr̥ga would not be with Vr̥ṣākapi when he again goes to the house of Indra, and Indrāṇī would have no cause to complain of the presence of the odious Mr̥ga at the time. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -274,10 +276,6 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 
 »Als ihr, Vrischākapi und Indra, [mit euren Genossen] hinaufgegangen wart nach dem Hause [des Somapressers (Vers 1)], wohin ging da dies viel verderbende Wild, zu wem der Menschenquäler?« Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

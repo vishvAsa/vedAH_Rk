@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुतेषु- रसनिष्पत्यनन्तरम्। तं त्वा- अमुं भवन्तम्। देवतातये- यज्ञाय। आभुवः- सर्वत्र सन्त  उपासकाः। हिन्विरे- प्रेरयन्ति। सः- तादृशस्त्वम्। अनया- एतया। रुचा- दीप्त्या। पवस्व-  क्षर॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथ प्रत्यक्षकृतः । हे सोम **आभुवः** । कर्मकरणार्थं समन्ताद्भवन्तीत्याभुव ऋत्विजः । ते **सुतेषु** । सुतोऽभिषुतः सोमः । तद्वत्सु यज्ञेषु **देवतातये** । ‘ सर्वदेवात्तातिल्' इति स्वार्थिकस्तातिल् । इन्द्रादिदेवेभ्यः **तं** तादृशं प्रसिद्धं **त्वा** त्वां **हिन्विरे** ग्रावभिः प्रेरयन्ति । अभिषुण्वन्तीत्यर्थः । ततः **सः** अभिषुतः स त्वम् **अनया** **रुचा** दीप्यमानया धारया द्रोणकलशं प्रति **पवस्व** आगच्छ । पवतिर्गतिकर्मा । यद्वा । अनया मदीयया रुचा स्तुत्या सह कलशमागच्छ । कलशाभिगमनकाले हि सोमं स्तुवन्ति ॥
@@ -161,7 +164,6 @@ Purify yourself with this light.
 <details><summary>Jamison Brereton Notes</summary>
 
 The pāda-final dat. devátātaye echoes devávītaye in 18c.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -187,10 +189,6 @@ Dich treiben die am ausgepreßten Soma beteiligten Priester an für die Götters
 
 So trieben bei den Tränken dich die Diener hin zur Götterschar, So riesle nun mit deinem Glanz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

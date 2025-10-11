@@ -3,7 +3,6 @@ title = "047"
 devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गृत्समदः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -229,6 +227,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। गोभिः- चिद्रश्मिभिः। इन्दो- क्लेदनशील। सोम- रस। चम्वोः- द्यावापृथिव्योर्मध्ये।  समज्यसे- सङ्गतो भवसि। सुवानः- निष्पन्नः सन्। कलशेषु- भाजनेषु प्रतीकेषु। आ सीदसि  पुनानस्य- तदा पवमानस्य। संयतः- संयमयुख्नस्य। रंहयः- गतिभूताः। ते- तव। धाराः। मेष्यः-  सूक्ष्मदृष्टेः। अण्व्यानि- सूक्ष्मदर्शनानि। अति- अतिक्रम्य च। यन्ति- अतिसूक्ष्मं तत्त्वं  सरन्ति॥४७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानस्य** पूयमानस्य **संयतः** संगृह्यमाणाः **रंहयः** रंहणस्वभावाः **धाराः** मेष्यः **अण्वानि** अणूनि लोमानि **अति** **यन्ति** अतिक्रम्य गच्छन्ति । हे **इन्दो** सोम **यत्** यदा **गोभिः** उदकैः **चम्वोः** अधिषवणफलकयोरुपरि **समज्यसे** तदानीं हे **सोम** **सुवानः** सूयमानस्त्वं **कलशेषु** **आ** **सीदसि** ॥
@@ -252,8 +255,6 @@ pressed you sit in the tubs, Soma.
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is awk. in English. The sense is that the streams of the soma being purified go charging forward continuously, with ráṃhayaḥ ‘charges, speedy forward movements’ subj. of yanti.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
@@ -279,10 +280,6 @@ Deine Ströme gehen über die Schafhaarseihe, deine raschen Fahrten gehen ununte
 
 Ununterbrochen eilen deine Ströme vor, des Flammers Fluten durch der Wolle Rinnen hin; Wenn du mit Milch gesalbt wirst in dem Becherpaar, nimmst Soma du gepresst, in Kufen deinen Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

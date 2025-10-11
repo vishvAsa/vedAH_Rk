@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोतृभिः- निष्पादकैरुपासकैः। अवीनांस्नुभिः- रक्षाकरप्रतीकसंबन्धिसानुभिरुच्छ्रितभावनैः। अधि  सुवानः- निष्पन्नः। सोमः- रसः। अश्वयेव- वडवयेव। हरिता- आकर्षयन्त्या। मन्द्रया- हर्षकर्या।  धारया। याति- सरति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोतृभिः** अभिषुण्वद्भिर्ऋत्विग्भिः **सुवानः** अभिषूयमाणः **सोमः** **अवीनां** स्नुभिः । ‘ मांस्पृत्स्नूनामुपसंख्यानम् ' (पा. सू. ६. १. ६३. १) इति सानुशब्दस्य स्नुभावः । समुच्छ्रितैर्वालैः पवित्रैः **अधि** **याति** अधिकं गच्छति । **उ** इति प्रसिद्धौ । **अश्वयेव** वडवयेव **हरिता** हरितवर्णया **धारया** **याति** । **मन्द्रया** मदकारिण्या **धारया** द्रोणकलशमभिगच्छति॥
@@ -205,8 +208,6 @@ delighting stream.
 <details><summary>Jamison Brereton Notes</summary>
 
 Since áśvayā is fem., the tr. should be emended to “with a golden mare.” See Geldner’s disc. (n. 8cd) and dismissal of Roth’s proposed emendation (also rejected by Oldenberg), to bring out the comparison of the stream of soma to the urine stream of a horse, which, as Geldner points out, is still possible without emendation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -240,8 +241,6 @@ Soma, gepresst von Pressern, eilt nun über wollne Wipfel hin, Gleich wie auf go
 Движется золотистым потоком, подобный кобылице,  
 Благозвучным движется потоком.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

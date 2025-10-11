@@ -3,7 +3,6 @@ title = "021"
 devataa = "अग्निः पवमानः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मयि। पोषम्- पुष्टिमयीम्। रयिम्- संपदम्। दधत्- धरन्। अस्मे- अस्माकम्। वर्चः- तेजः।  सुवीर्यं- शोभनवीर्यम्। स्वपाः- शोभनजीवनोदकयुख्नः सन्। अग्ने- अग्निमय सोम। पवस्व-  क्षर॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **स्वपाः** । ‘सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम्। शोभनकर्मा त्वम्  
@@ -192,7 +195,6 @@ establishing in me wealth and thriving.
 
 Here, despite the obj. phrase in b, pávasva lacks the expected ā́. It would technically be possible to take b with c: “establishing luster and an abundance of heroes for/in us, wealth and thriving in me,” which would leave pavasva intransitive. However, this seems artificial, and the existence of two 1st ps. pronouns in b and c, in different numbers, would be awkward. Moreover, 27c, with an independent dádhat clause, speaks in favor of separating b and c here.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -228,10 +230,6 @@ O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, m
 
 O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut und Nahrung mir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

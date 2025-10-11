@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- पूयमानस्य। ते- तव। कवे- क्रान्तदर्शिन्। वाजिन्- प्राणमय। सर्गाः- धाराः।  अर्वन्तो न- तुरगा इव स्थिताः। श्रवस्यवः- श्रुतिकामाः। असृक्षत- सृज्यन्ते॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 मार्जनप्रसङ्गमाह । हे **कवे** क्रान्तप्रज्ञ हे **वाजिन्** अन्नवन् सोम **पवमानस्य** दशापवित्रेण पूयमानस्य **ते** तव **सर्गाः** । सृज्यन्त इति सर्गा धाराः । कीदृशाः । **श्रवस्यवः** । छन्दसि परेच्छायां क्यच् । यष्टॄणामन्नं कामयमानास्त्वदीया धाराः **असृक्षत** सृजन्ति । निर्गच्छन्तीत्यर्थः । तत्र दृष्टान्तः । **अर्वन्तो** **न** । यथाश्वा मन्दुरातो निर्गच्छन्ति तद्वत् पवित्रान्निःसरन्तीत्यर्थः । प्रयोगापेक्षं चात्र धाराबाहुल्यम् ॥ ॥ ८ ॥
@@ -149,7 +152,6 @@ Of you purifying yourself, o poet and prizewinner, the surges have surged, like 
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma’s acquisition of “imperishable fame” in 7c is anticipated, as it were, by his streams, likened to horses, “seeking fame” (śravasyávaḥ).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -175,10 +177,6 @@ Du siegreicher Seher, deine Ströme wurden losgelassen wie ehrgeizige Rennpferde
 
 O Weiser, deine Ströme sind ergossen, rascher, flammender! Wie Renner strebend nach dem Preis,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

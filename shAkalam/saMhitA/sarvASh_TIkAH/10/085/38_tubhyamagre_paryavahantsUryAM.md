@@ -3,7 +3,6 @@ title = "038"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ágre ← ágra- (nominal stem)  
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रे- प्रथमतः। तुभ्यम्- भवते। सूर्यां- वधूम्। वहतुना- धनेन। सह। पर्यवन्- देवता धारयन्ति।  अग्ने- सर्वभूतहितक्रतो। पुनः। पतिभ्यः- भर्तृभ्योऽस्मभ्यम्। जायाम्- पत्नीम्। प्रजया सह-  सन्तत्या सह। दाः- देहि। सर्वभूतहितरत्युद्भूतसङ्कल्पात्मकाग्नय एव पत्नीपुत्रधनादीनि।  तत्प्रसादेनैव वयमपि तान्यनुभवाम इति भावः॥३८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 गन्धर्वा हे अग्ने **तुभ्यमग्ने** **पर्यवहन्** । प्रायच्छन्नित्यर्थः । काम् । **सूर्याम्** । केन सह । **वहतुना** **सह** । त्वं च तां सूर्यां वहतुना सह सोमाय प्रायच्छः । तद्वदिदानीमपि हे अग्ने **पुनः** **पतिभ्यः** अस्मभ्यं **जायां** **प्रजया** **सह** **दाः** देहि ॥
@@ -230,8 +233,6 @@ Dir, o Agni, führte man zuerst die Suriā nebst dem Hochzeitsgeleite zu, so gib
 Снова мужьям жену  
 Отдай, о Агни, вместе с потомством!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

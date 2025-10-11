@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजे- अस्माकं हव्यमये यज्ञे। न- संप्रति। मधुमत्तमम्- अतिशयेन मधुरम्। वाजयुम्-  शोभनगतिकामं रसम्। इन्द्राय- ईशनाधिदैवताय। अव्यो वारेषु- सरणशीलरसस्य स्वस्थान एव  रक्षाकरेषूपलब्धिस्थानेष्वित्यर्थः। रसव्यञ्जकेषु। वरणीयेषु प्रतीकेषु। परि सिञ्चत॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजयुं** युद्धकामं **मधुमत्तमम्** अतिशयेन मधुमन्तं सोमम् **इन्द्राय** इन्द्रार्थं **अव्यः** अवेः **वारेषु** वालेषु दशापवित्रे **वाजे** **न** युद्ध इव हे ऋत्विजः **परि** **षिञ्चत** ॥
@@ -150,8 +153,6 @@ As if sprinkling a prize-seeking (horse) when the prize (is set), sprinkle  priz
 This vs. contains a fairly clever double meaning: the verb pári √sic means ‘sprinkle around / in circles’. When soma is the object, as it generally is, it refers to the sprinkling of the drops of soma; in other words, the acc. expresses the material that is being sprinkled. But here in the simile vā́je ná vājayúm, the acc. vājayúm ‘prize-seeking’ refers to a horse in a race or contest, which would be the target or the goal of the sprinkling, with some type of liquid being sprinkled upon it. The word play is cleverer still, in that vājayúm should be read twice, both as referring to the horse in the simile and to soma, which is elsewhere modified by this word (e.g., IX.44.4 sá naḥ pavasva vājayúḥ), in the frame.
 
 Both Geldner and Renou construe vā́je in the simile rather loosely; I take it as a unmarked loc. absol. of the dháne hité (“when the prize is set,” e.g., IX.53.2) type, though without overt ppl. It adds to the somewhat slant syntax of the simile versus the frame that both contain a loc. (ávyo vā́reṣu in the frame), but the locc. have different functions. In fact ávyo vā́reṣu “onto the sheep’s fleece” expresses the goal of the sprinkling and is functionally parallel to vājayúm in the simile.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -179,10 +180,6 @@ Gießet ihn auf die Schafhaare, wie man den um den Siegerpreis wettlaufenden Ren
 
 Ergiesset durch des Widders Haar dem Indra ihn, den süssesten, Der wie beim Wettlauf Preis erstrebt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

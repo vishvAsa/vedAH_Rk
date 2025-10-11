@@ -3,7 +3,6 @@ title = "019"
 devataa = "अग्निः पवमानः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -76,8 +74,6 @@ duchúnām ← duchúnā- (nominal stem)
 अग्ने॑ । आयूं॑षि । प॒व॒से॒ । आ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ।  
 आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
-
-
 
 <details><summary>पद-पाठः-तैत्तिरीयः</summary>
 
@@ -163,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- अग्निभूत सोम। आयूंषि। पवसे- क्षरसि। नः- अस्मदर्थम्। ऊर्जं- शख्निम्। इषं च-  सदिच्छामपि। आ सुव- प्रेरय। दुच्छुनम्- रक्षः। आरे- दूरे एव। बाधस्व- पीडय॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** पवमानरूप त्वमस्माकम् **आयूंषि** जीवनानि **पवसे** रक्षसि । **नः** अस्माकम् 'ऊर्जम् अन्नरसम् **इषम्** अन्नं च **आ** **सुव** आभिमुख्येन प्रेरय । किंच **दुच्छुनाम्** । रक्षोनामैतत् । रक्षांसि **आरे** अस्मत्तो दूर एव **बाधस्व** संपीडय ॥
@@ -199,8 +200,6 @@ Into the distance thrust misfortune.
 Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preverb ā́, which has transitivizing function with this root. This is easily done: ā́yūṃṣi can be decomposed into ā́ā́yūṃṣi without change to the Saṃhitā text, though it is contra to the Pp.
 
 This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -242,10 +241,6 @@ O Agni, du läuterst uns Lebenskraft zu; weise uns Stärkung und Labung zu! Halt
 
 Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse weit hinweg.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

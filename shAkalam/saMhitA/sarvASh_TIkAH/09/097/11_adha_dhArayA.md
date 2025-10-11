@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युर्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध- अथ। मध्वा धारया- मधुरधारया। अद्रिदुग्धः- स्थैर्यनिष्पन्नो जडनिष्पन्नो वा। पृचानः-  संयोजयन्। रोमा तिरः- रोमोपलक्षितशरीरमतिक्रम्यापि। पवते- क्षरति। देवस्य- द्योतनशीलस्य।  इन्द्रस्य- ईशनाधिदैवतस्य। सख्यम्- मैत्रीम्। जुषाणः- सेवमानः। देवः- द्योतनशीलः। मत्सरः-  तर्पकः। इन्दुः- क्लेदनशीलो रसः। मदाय- तृप्तये। अभिसरति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अधाथानन्तरं अद्रिदुग्धाः ग्रावभिर्देउग्धोभिषुतः सोमः मध्वा मदकारिण्याधारया पृ- चानः देवान् सम्पर्चयन् संयोजयन् रोम अविरोमभिः कृतं पवित्रं तिरस्तिरस्कृत्य व्यवधा- यकङ्कृत्वा पवते कलशेषु क्षरति । किञ्च इन्द्रस्यसख्यं सखिभावङ्कर्मवा जुषाणः सेवमानः देवोद्योतमानः मत्सरोमदकरइन्दुः सोमः देवस्येन्द्रस्य मदाय मदार्थं पवते क्षरति ॥ ११ ॥
@@ -227,8 +230,6 @@ drink of the god, for exhilaration.
 <details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich contains three pairs of phonological and (partly) etymological figures: #índur índrasya, #devó devásya, matsaró mádāya#, with the 1st two presenting matching nom.+gen. grammatical figures.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -264,8 +265,6 @@ Dann rieselt hell im Strom der Stein-gemelkte, mit süsser Milch gemischt, durch
 Сок сомы, наслаждающийся дружбой Индры,  
 Бог, опьяняющий для опьянения бога.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

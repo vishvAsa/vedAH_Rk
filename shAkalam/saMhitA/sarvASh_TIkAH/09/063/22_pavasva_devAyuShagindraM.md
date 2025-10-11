@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देव- हे द्योतनशील। पवस्व- क्षर। आयुषक्- अनुषख्नम्। इन्द्रम्- परमेश्वरम्। ते- तव। मदः-  तृप्त्यनुभवः। गच्छतु। धर्मणा- स्वधर्मेण। वायुम्- प्राणम्। आ रोह॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देव** द्योतमान सोम **पवस्व** धारया क्षर । अपि च **ते** तव **मदः** मदकरो रसः **आयुषक्** अनुषक्तम् **इन्द्रं** प्रति **गच्छतु** । अपि च त्वं **वायुं** **धर्मणा** धारकेण रसेन **आ** **रोह** प्राप्नुहि ॥
@@ -176,8 +179,6 @@ As in vs. 10, the joint appearance of Indra and Vāyu signals the morning soma p
 
 On āyuṣák (also IX.25.5) see the sensible disc. of Scarlatta (589-90). Note the presence of the Āyus grooming the soma in vs. 17.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -202,10 +203,6 @@ Läutere dich, o Gott, den Ayu´s gesellt! Zu Indra soll dein Rausch gelangen; s
 
 O riesle, Gott, mit Kraft begabt, in Indra gehe ein dein Rausch, Zu Vaju steige nach dem Brauch.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

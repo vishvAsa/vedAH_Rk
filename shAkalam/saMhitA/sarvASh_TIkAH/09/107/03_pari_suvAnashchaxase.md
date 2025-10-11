@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -114,6 +112,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    देवमादनः- देवानां तर्पकः। क्रतुः- अग्निभूतः। इन्दुः- क्लेदनशीलः। विचक्षणः- विशेषद्रष्टा रसः।  चक्षसे- दर्शनाय। परि- परितः। सुवानः- निष्पन्नो भवति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवानः** अभिषूयमाणः सोमः **चक्षसे** सर्वेषां दर्शनाय **परि** स्रवति । कीदृशः । **देवमादनः** देवानां तर्पयिता **क्रतुः** कर्ता **इन्दुः** पात्रेषु क्षरणशीलो दीप्तो वा **विचक्षणः** सर्वस्य विद्रष्टा ॥
@@ -137,7 +140,6 @@ Being pressed all around to be seen—the exhilarator of the gods, the  wide-gaz
 Both Geldner and Renou make this vs. a separate cl., supplying a verb (“fliesst,” “coule”), generated from pári srava in 2a, suggested by the init. pári in 3a. This is certainly possible, but since this vs. is an afterthought to the pragātha, I take it as dependent on vs. 2, specifically 2ab, simply stringing together more descriptors of soma.
 
 Note cákṣase … vicakṣaṇáh.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -170,8 +172,6 @@ Rings gepresst [lieblich (?)] anzusehn der Götter erfreuende starke Indu, der w
 Выжатый, (он течет) кругом, чтоб заявить о себе, (этот) пьянящий напиток богов,  
 Сила духа, сок, смотрящий далеко.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

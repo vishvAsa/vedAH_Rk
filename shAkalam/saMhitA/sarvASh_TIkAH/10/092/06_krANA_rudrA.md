@@ -3,7 +3,6 @@ title = "006"
 devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - शार्यातो मानवः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्राणाः- कर्तारः। रुद्राः- रुद्रपुत्राः। विश्वकृष्टयः- सर्वमनुष्यहिताः। दिवः- अन्तरिक्षस्य।  श्येनासः- पक्षिभूताः। असुरस्य- मेघस्य। नीळयः- गृहभूताः। मरुतः- वातविशेषाः। तेभिः-  तैः। अर्वशेभिः- प्राणमयैः। अर्वशः- प्राणयुख्नः। इन्द्रः- ईशनाधिदेवता। चष्टे- पश्यति। वरुणः-  ऋताधिदेवता। मित्रः- स्नेहाधिदेवता। अर्यमा- औदार्याधिदेवता। एताः सर्वाः पश्यन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **असुरस्य** मेघस्य **नीळयः** आवासभूताः **दिवः** अन्तरिक्षस्य संबन्धिनः **श्येनासः** श्येनाः शंसनीयगतयः **विश्वकृष्टयः** व्याप्तमनुष्याः **रुद्राः** रुद्रपुत्रा ये **मरुतः** **क्राणाः** स्वाधिकारकर्माणि कुर्वाणा आसत इति शेषः । **तेभिः** तैः **अर्वशेभिः** अश्ववद्भिः सोमवद्भिर्वा **देवेभिः** देवैः सह **अर्वशः** अश्ववान् सोमवान् वा **इन्द्रः** **चष्टे** पश्यति । **वरुणः** च **मित्रः** च **अर्यमा** च सोमवद्भिः मरुद्भिः सह पश्यन्ति ॥
@@ -227,7 +230,6 @@ A verse implying rudra as the asura dyaus.
 
 While the obvious coupling is between the rudra and the Aditya classes, the implied reference to rudra as the asura dyaus, likely brings in the vasu-class (notwithstanding the more usual duality with agni in that class)
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -263,10 +265,6 @@ Mitwirkend sind die Rudrasöhne, die Marut, die allen Stämmen gehören, des Him
 
 Die starken lichten Maruts allen Völkern hold, des Himmels Adler, dem Asuren eng vereint, Mit ihnen zeigt Varuna, Mitra, Arjaman und Indra sich, der rasche mit der raschen Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

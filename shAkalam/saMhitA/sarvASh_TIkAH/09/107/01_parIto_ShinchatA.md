@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। सोमः- रसः। उत्तमम्- श्रेष्ठस्य। हविः- हव्यस्य। दधन्वान्- धारकः। नर्यः- नरहितः।  सुतम्- तं निष्पन्नम्। इतः- अस्मात्स्थानाद्धृदयादित्यर्थः। परि- परितः। सिञ्चत। अप्सु अन्तरा-  मूलशख्निधारास्वन्तः। सोमम्- रसम्। अद्रिभिः- स्थैर्येण।  अद्रिः स्थैर्यप्रतीकः। सुषाव- उपासको  निष्पादयति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **सुतम्** अभिषुतं सोमम् **इतः** अस्मात् कर्मण ऊर्ध्वमथवास्मात्प्रदेशादूर्ध्वं **परि** **षिञ्चत** वसतीवरीभिः ॥ ‘ इतो षिञ्चत ' इत्यत्र संहितायां ' छन्दसि ' इति रोरुत्वम्। आदेशप्रत्यययोः' इति षत्वम् ॥ **यः** **सोमः** देवानाम् **उत्तम** प्रशस्यं **हविः** भवति ॥ **आ** अपि च। **नर्यः** मनुष्यहितः **यः** च सोमः “ अप्सु वसतीवरीष्वन्तरिक्षे वा **अन्तः** दधन्वान् गच्छन् भवति तं **सोममद्रिभिः** ग्रावभिरध्वर्युः **सुषाव** अभिषुतं चकार । तं परि षिञ्चतेति समन्वयः ॥
@@ -229,8 +232,6 @@ The vs. begins with a most unusual sandhi: párītó ṣiñcatā. Geldner (n. 1a
 
 Instead I think we must explain the retroflexion as an effect of the preverb pári. By far the greatest number of the retroflexed initials of this root occur immediately after pári, esp. the passive stem (pari) ṣicyá- (15 exx.), but also the ppl. páriṣikta- (8x); see also, in the next hymn (IX.108.7), our exact 2nd pl. act. impv. pári ṣiñcata. There is also retroflexion after the preverb ní (5+), and after the particles tū́(2x) and hí (1x). All of these are contact-induced, unlike our example, where the preverb is separated from the verb. Under these circumstances, there is ordinarily no retroflexion (see pári … siñcata X.32.5, pári … siktáḥ IX.97.15). However, here I think either the numerous exx. of pári √ṣic in IX (15+) imposed distant retroflexion here where it was phonologically unmotivated, or an unretroflexed initial was changed redactionally under the influence of pári ṣiñcata in the next hymn.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -245,7 +246,7 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 <details><summary>Griffith</summary>
 
 परी॒तो षि॑ञ्चता सु॒तं सोमो॒ य उ॑त्त॒मं ह॒विः ।  
-द॒ध॒न्वाँ यो नर्यो॑ अ॒प्स्व१॒॑न्तरा सु॒षाव॒ सोम॒मद्रि॑भिः ॥
+द॒ध॒न्वाँ यो नर्यो॑ अ॒प्स्व१॒॑न्तरा सु॒षाव॒ सोम॒मद्रि॑भिः ॥
 </details>
 
 <details><summary>Geldner</summary>
@@ -265,8 +266,6 @@ Ergiesset den gepressten hier den Soma, ihn den besten Trank, Der zwischen Wasse
 (Тот) мужественный, кто помчался в недрах вод,  
 (Этого) сому (жрец) выжал камнями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

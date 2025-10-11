@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अङ्गिरोभ्यः- अङ्गनशीलेभ्य उपासकेभ्यः। स्वादिष्ठः- अतिशयेन स्वादुभूतः सन्। वरिवोवित्-  संपल्लम्भकः सन्। घृतम्- ज्योतिः। पयः- ज्ञानम्। त्वं। इन्दो- क्लेदनशील। परि स्रव- परितः  क्षर॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **स्वादिष्टः** स्वादुतमः **वरिवोवित्** अस्मदभिलषितस्य धनस्य लम्भकश्च **त्वम्** **अङ्गिरोभ्यः** अङ्गिरसामर्थाय **घृतम्** आज्यं **पयः** च **परि** **स्रव** परिक्षर ॥
@@ -184,10 +187,6 @@ Laufe du, der Süßeste, ab, für die Angira´s einen Ausweg findend, o Saft, al
 O Indu, ströme fette Milch ringsum, der Segen du verleihst, Du süssester, den Angiras.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -203,7 +202,7 @@ O Indu, ströme fette Milch ringsum, der Segen du verleihst, Du süssester, den 
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  प्रजाओं को चाहिये कि वे सदैव अपने राजपुरुषों से ऐश्वर्य की प्रार्थना करके संसार में ऐश्वर्य बढ़ाने का यत्न करें॥९॥
+भावार्थभाषाः -  प्रजाओं को चाहिये कि वे सदैव अपने राजपुरुषों से ऐश्वर्य की प्रार्थना करके संसार में ऐश्वर्य बढ़ाने का यत्न करें॥९॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "006"
 devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ध्रुवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 dhruvám ← dhruvá- (nominal stem)  
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ध्रुवेण- स्थिरेण। हविषा। ध्रुवम्- स्थिरम्। सोमम्- रसाधिदैवतम्। अभि मृशामसि-  अभिमृशामः। अथो- अथ। ते- तुभ्यम्। इन्द्रः- परमेश्वरः। केवलीः- राष्ट्राभ्युदयैकाभिमुखीः।  विशः- प्रजाः। बलिहृतः- करप्रदात्रीः। करत्- करोतु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ध्रुवेण स्थिरेण हविषा पुरोडाशादिना युक्तं ध्रुवं स्थिरं सोममभिमृशामसि। अभिमृशामः। देवतामभिलक्ष्य यागार्थं वयमृत्विजः संस्पृशामः। अथो अथानन्तरमेवेन्द्रो विशः प्रजास्ते तवैव केवलीरसाधारणाः सतीर्बलिहृतः करस्य प्रदात्रीः करत्। करोतु॥६॥
@@ -231,8 +234,6 @@ Den festen Soma mischen wir mit diesem festen Opferguss, Dann möge Indra zinsba
 Так пусть сделает Индра  
 Племена платящими дань только тебе!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

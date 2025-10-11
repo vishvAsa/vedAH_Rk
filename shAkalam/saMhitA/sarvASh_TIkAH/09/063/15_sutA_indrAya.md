@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    वज्रिणे इन्द्राय- ईशनाधिदैवताय। सुताः- निष्पादिताः। दध्याशिरः- धारणामिश्रिताः। सोमासः-  रसाः। पवित्रम्- शोधकं प्रतीकम्। अति- अतिक्रम्य च। अक्षरन्- क्षरन्ति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वज्रिणे** वज्रवते **इन्द्राय** इन्द्रार्थं **सुताः** अभिषुताः **दध्याशिरः** । दधि आशीराश्रयणद्रव्यं येषां ते दध्याशिरः । दधिसंस्कृताः **सोमासः** सोमाः **पवित्रमति** अतिक्रम्य **अक्षरन्** धारया क्षरन्ति ॥ ॥ ३२ ॥
@@ -167,10 +170,6 @@ Die für den Keulenträger Indra ausgepreßten Somasäfte, die mit saurer Milch 
 
 Dem Blitzer Indra ausgepresst, ergiessen durch die Seihe sich Die Somatränke milchgemischt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

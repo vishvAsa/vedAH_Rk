@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। सोमः- रसः। वाजम्- हव्यम्। अर्षति- गच्छति। तदा। अपस्युवः- जीवोदककामाः।  शतं धाराः- सोमस्यानन्तधाराः। इन्द्रस्य- परमेश्वरस्य। सख्यम्- मैत्रीम्। आविशन्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा **अपस्युवः** कर्मकामाः **शतं** शतसंख्याकाः **धाराः** सोमस्य धाराः **इन्द्रस्य** **सख्यं** सखित्वम् **आविशन्** प्राप्नुवन्ति तदा **सोमः** **वाजम्** अन्नम् **अर्षति** गमयति । अस्मभ्यं प्रयच्छतीत्यर्थः ॥
@@ -186,10 +189,6 @@ Wenn Soma nach dem Siegerpreis läuft, in hundert emsigen Strömen, indem er zu 
 
 Wenn Soma Labetrunk ergiesst geschäft'ge Ströme hundertfach, Wenn er in Indra's Freundschaft tritt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

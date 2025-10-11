@@ -3,7 +3,6 @@ title = "014"
 devataa = "आपः"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - देवश्रवा यामायनः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 óṣadhayaḥ ← óṣadhi- (nominal stem)  
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ओषधयः। पयस्वतीः- सारवत्यः। मामकं वचः- मदीया वाक्। पयस्वत्- सारवती। अपां पयः-  उदकस्योर्मिः। पयस्वत्- सारवती। तेन- तया। सह। मा- माम्। शुन्धत- शोधयत॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयं प्रत्यक्षकृता । हे आपः **ओषधयः** **पयस्वतीः** पयस्वत्यो वृष्टिलक्षणेनोदकेन सारवत्यो भवन्ति । **मामकं** मदीयं **वचः** वचनं वृष्टिप्रार्थनवचनं **पयस्वत्** सारवत् भवति । किं बहुना। यच्च इह किंचित् **अपाम्** उदकानां **पयः** क्षीरवत् सारभूतं यदस्ति तत्सर्वं पयस्वत् सारवदेव । **तेन** उदकसारेण **सह** **मा** मां **शुन्धत** यूयं शोधयत । ‘आपो अद्यान्वचारिषं रसेन समगस्महि' (ऋ. सं. १. २३. २३) इति निगमान्तरम् ॥ ॥ २५ ॥
@@ -214,8 +217,6 @@ Nahrungsreich sind die Kräuter, nahrungsreich ist mein Lied, nahrungsreich auch
 И влага вод полна сока –  
 С его помощью сделайте меня чистым!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

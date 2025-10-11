@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - अग्निः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनया धारया। देवयुः- देवकामः सन्। पवस्व- क्षर। मधोः धाराः- माधुर्यधाराः।  असृक्षत- सृष्टाः। पवित्रम्- भाजनं प्रतीकम्। रेभन्- मन्त्रान् शब्दयन्। विश्वतः- सर्वतः। पर्येषि-  परिगच्छसि॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **देवयुः** देवान् कामयमानस्त्वम् **अया** अनया धारया **पवस्व** क्षर । ततः **मधोः** मदकरस्य तव **धाराः** आत्मीयाः **असृक्षत** सृज्यन्ते । अनन्तरं **रेभन्** शब्दायमानः **पवित्रं** **विश्वतः** **पर्येषि** सर्वतः परिगच्छसि ॥ ॥ ११ ॥
@@ -162,14 +165,12 @@ _________
 
 In this way purify yourself, seeking the gods. The streams of honey have  been sent surging.  
 Rasping, circle around the filter on all sides.  
-Hymns Arranged in Pragāthas: 107–108
+Hymns Arranged in Pragāthas: 107–108
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 The fem. instr. ayā́opening this final vs. seems to fulfill the same role as evā́in other hymn-summary vss. Both Geldner and Renou supply a noun with it (Laüterung / clarification), but though the use of the fem. seems to invite something more than a semi-adverbial ‘in this way’, the model of hymn-summary vss. seems to me to outweigh that consideration.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
@@ -202,8 +203,6 @@ So riesle denn den Göttern zu, ergossen ist des Methes Strom, Von allen Seiten 
 Выпущены потоки меда.  
 Распевая, ты кружишь по цедилке со всех сторон.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

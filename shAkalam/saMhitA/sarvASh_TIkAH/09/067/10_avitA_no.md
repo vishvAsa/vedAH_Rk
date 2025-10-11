@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अत्रिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यामनि यामनि- मार्गे मार्गे। नः- अस्माकम्। अविता- रक्षकः। अजाश्वः- जन्मरहितप्राणवाहनः।  पूषा- पोषकसूर्यभूतः सोमो भवतु। नः- अस्मान्। कन्यासु- कमनीयासु भावनासु नारीषु वा। आ  भक्षत्- आभजतु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अजाश्वः** । ‘अजाः पूष्णः' इत्युक्तत्वादजा एवाश्वा वाहनानि यस्य स तथोक्तः । सः **पूषा** एतन्नामको देवः **यामनियामनि** सर्वस्मिन् गमने भौमदिव्यलक्षणे **नः** अस्माकम् **अविता** पालयिता भवतु । किंच **कन्यासु** कमनीयास्वभिमतासु स्त्रीषु **नः** अस्मान् **आ** **भक्षत्** आभजतु । अस्माकं कन्याः प्रयच्छत्वित्यर्थः । भजः सेवार्थाल्लेटि सिप्यडागमे रूपम् । यद्वा । अजाश्वोऽजवाहनः पूषा सर्वस्य पोषयिता सोमो यामनियामनि । यायते प्राप्यते देवैरत्रेति याम यज्ञः । तत्र यज्ञे नोऽस्माकमविता रक्षिता भवतु । तथा कन्यासु स्त्रीष्विष्टास्वस्माना भक्षत् प्रापयतु ॥ ॥ १४ ॥
@@ -170,8 +173,6 @@ Pūṣan whose horses are goats is our helper on every journey.
 <details><summary>Jamison Brereton Notes</summary>
 
 The published translation presents the journeys as ours, reading naḥ with both avitā́and yā́mani-yāmani. Geldner and Renou instead assume the journeys are Pūṣan’s: e.g., “Unser Gönner ist Pūṣan, der auf jeder Ausfahrt Böcke als Rosse hat.” Since one hymn devoted to Pūṣan, I.42, is almost entirely devoted to Pūṣan’s protection of us on the journey and on the path and in the short Pūṣan cycle in VI (VI.53-58) the god is several times asked to lead or direct us (e.g., VI.53.2) and to clear paths for us (VI.53.4, 54.1-2), I think it likely that the focus here is on our journeys.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -208,8 +209,6 @@ Ein Schützer sei auf jedem Weg uns Puschan, der mit Ziegen fährt; Er schenke h
 Ездящий на козлах как на конях при каждом выезде.  
 Пусть наделит он нас девицами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

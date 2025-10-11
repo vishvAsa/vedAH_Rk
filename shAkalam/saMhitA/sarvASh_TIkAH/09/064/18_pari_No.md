@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मयुः- अस्मत्कामः सन्। नः- अस्माकम्। विश्वा वसूनि- सर्वाः संपदः। ओजसा- बलेन।  परि याहि- रक्षार्थं गच्छ। नः- अस्माकम्। वीरवत्- वीर्यवत्। शर्म- माङ्गळ्यम्। पाहि-  रक्ष॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **अस्मयुः** अस्मत्कामस्त्वं **नः** अस्माकं **विश्वा** विश्वानि **वसूनि** धनानि **ओजसा** बलेन सह **परि** **याहि** रक्षार्थं परिगच्छ । अपि च **नः** अस्माकं **वीरवत्** पुत्रवत् **शर्म** गृहं **पाहि** रक्ष ॥
@@ -166,7 +169,6 @@ Inclined toward us, encompass for us all goods with your strength. Protect for u
 <details><summary>Jamison Brereton Notes</summary>
 
 The opening of pāda a #pári no yāhi gets remixed into c #pāhi naḥ.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -192,10 +194,6 @@ Alle Güter hole für uns ein mit deiner Kraft, uns zugetan! Schirme unseren mä
 
 Behütend geh, uns holdgesinnt, mit Kraft um alle Güter uns, Schirm unser männerreiches Haus.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

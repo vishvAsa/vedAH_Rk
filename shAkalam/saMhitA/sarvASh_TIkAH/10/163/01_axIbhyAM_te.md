@@ -3,7 +3,6 @@ title = "001"
 devataa = "यक्ष्मघ्नं"
 RShiH = "विवृहा काश्यपः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विवृहा काश्यपः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 akṣī́bhyām ← ákṣ- (nominal stem)  
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अक्षीभ्याम्- चक्षुर्भ्याम्। ते- तव। नासिकाभ्याम्- नासाविवराभ्याम्। अक्षीभ्यां ते  नासिकाभ्यामित्यत्र नासिकाशब्दस्य तद्द्वारार्थो यथा। कर्णाभ्याम्- श्रोत्राभ्याम्। छुबुकादधि-  चुबुकादधि। मस्तिष्कात्- मस्तकस्य अन्तः स्थितान्मांसात्। जिह्वायाः- रसनायाः। शीर्षण्यं  यक्ष्मम्- राजयक्ष्माणम्। ते- तव। वि वृहामि- व्यपोहयामि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे यक्ष्मगृहीत **ते** तव **अक्षीभ्यां** चक्षुर्भ्यां यक्ष्मरोगं **वि** **वृहामि** उद्धारयामि । विश्लेषयामीत्यर्थः ॥ ' ई च द्विवचने ' ( पा. सू ७.१. ७७) इत्यक्षिशब्दस्येकारान्तादेशः । स चोदात्तः ॥ तथा **नासिकाभ्यां** घ्राणेन्द्रियाच्च **कर्णाभ्यां** श्रोत्राभ्यां च **छुबुकात्** चुबुकादोष्ठस्याधःप्रदेशाच्च ।
@@ -206,8 +209,6 @@ Aus deinem Augen, den Nasenlöchern, den Ohren, aus dem Gehirne und der Zunge tr
 Якшму головную – из мозга,  
 Из языка я вырываю у тебя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

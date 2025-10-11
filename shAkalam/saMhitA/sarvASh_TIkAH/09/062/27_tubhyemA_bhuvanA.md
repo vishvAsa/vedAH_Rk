@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कवे- क्रान्तदर्शिन्। सोम- रस। इमा भुवना- इमे लोकाः। तुभ्य- तुभ्यम्। तस्थिरे- तिष्ठन्ति।  सिन्धवः- मूलशख्निधाराः। तुभ्यम्- तवार्थे। अर्षन्ति- सरन्ति॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **कवे** क्रान्तकर्मन् **सोम** **तुभ्य** तुभ्यं तव **महिम्ने** **इमा** इमानि **भुवना** भुवनानि **तस्थिरे** तिष्ठन्ति । त्वामेव पुरस्कुर्वन्तीत्यर्थः। अपि च **सिन्धवः** नद्यः **तुभ्यम्** एव **अर्षन्ति** गच्छन्ति । त्वदाज्ञामेवानुपालयन्तीत्यर्थः ॥
@@ -188,10 +191,6 @@ Deiner Hoheit haben sich, o Seher Soma, diese Welten gefügt, für dich fließen
 
 Es standen, weiser Soma, dir die Welten hier zur Macht bereit, Es rinnen dir die Ströme zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

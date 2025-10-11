@@ -3,7 +3,6 @@ title = "004"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+बहूनाम्- अनेकेषाम्। एकः असि- एकः प्राणोसि। मन्यो- रुद्र। ईळितः- स्तुतः सन्।  विशंविशम्- प्रत्येकं भवदीयं मनुष्यम्। युधये- युद्धाय। सम्- सम्यक्। शिशाधि- तीक्ष्णीकुरु।  अकृत्तरुक्- अच्छिन्नप्रकाश। त्वया युजा- त्वद्योगेन। वयम्। द्युमन्तम्- दीप्तिमत्। घोषम्- हर  हर महादेवेत्यादिगर्जनम्। विजयाय। कृण्महे- कुर्मः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मन्यो** **ईळितः** स्तुतस्त्वम् **एकः** एव असहाय एव **बहूनां** शत्रूणाम् **असि** भवसि पर्याप्तो  हन्तुम् । अतः **विशंविशं** तां तामस्मद्विरोधिनीं प्रजां **युधये** युद्धाय **सं** **शिशाधि** सम्यक् । तीक्ष्णीकुरु । किंच हे **अकृत्तरुक्** अच्छिन्नदीप्ते **त्वया** **युजा** सहायेन **वयं** **द्युमन्तं** दीप्तिमन्तं **घोषं** सिंहनादवन्तं **विजयाय** विशिष्टजयार्थं **कृण्महे** कुर्मः ३ ॥
@@ -258,10 +261,6 @@ Einzig du bist von vielen angerufen, Manyu; mache jeden Clan zum Kampfe scharf! 
 
 Du wirst, als einz'ger unter vielen, angefleht; begeistre du zum Kampf, o Manju, Stamm für Stamm; Mit dir vereinigt, dessen Glanz untilgbar ist, erheben wir zum Siege lauten Jubelsang.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

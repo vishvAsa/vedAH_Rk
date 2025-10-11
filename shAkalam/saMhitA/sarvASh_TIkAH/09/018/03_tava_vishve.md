@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सजोषसः- सहृदयाः। विश्वे- सर्वे। देवासः- देवाः।  तव- भवतः। पीतिम्- अनुभूतिम्। आशते-  सेवन्ते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तव** **पीतिं** पानं **विश्वे** **देवासः** देवाः **सजोषसः** समानप्रीतयः सन्तः **आशत** प्राप्नुवन् ॥
@@ -188,8 +191,6 @@ Die Götter alle im Verein, sie haben deinen Trunk erlangt; Bei den Gelagen sche
 Получили твое питье.  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

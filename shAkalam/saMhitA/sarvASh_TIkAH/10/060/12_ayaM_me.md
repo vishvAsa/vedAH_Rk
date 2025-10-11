@@ -3,7 +3,6 @@ title = "012"
 devataa = "हस्तः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -169,12 +167,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। मे- मम। हस्तः- करः। भगवान्- सौभाग्यसम्पन्नः। अयम्- एषः। मे- मम  हस्तः। भगवत्तरः- सौभाग्यतरः। अयम्- एषः। मे- मम हस्तः। विश्वभेषजः- सर्वेषां  चिकित्सासाधनसर्वौषधिसम्पन्नः। अयम्- एष मे हस्तः। शिवाभिमर्शनः- मङ्गलस्पर्शः॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अनया बन्ध्वादयो लब्धजीवं सुबन्धुं पाणिभिरस्पृशन् । **अयं** **मे** **हस्तो** **भगवान्** यस्मात् सजीवं सुबन्धुं स्पृशति तस्मात् । तथा **अयं** **मे** हस्तः **भगवत्तरः** अतिशयेन भगवान् । तथा **अयं** **मे** हस्तः **विश्वभेषजः** जीवचिकित्सासाधनसवौंषधवान् तत्स्थानीयो वा । **अयं** **शिवाभिमर्शनः** मङ्गलस्पर्शनः । यतो जीवन्तं स्पृशत्यत इत्यर्थः ॥ ॥ २५ ॥ ॥ ४ ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -207,8 +208,6 @@ Heilvoll ist diese meine Hand, heilvoller noch die andre hier; Sie führt dir al
 Эта у меня всеисцеляющая,  
 (А) эта – благодатного касания
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

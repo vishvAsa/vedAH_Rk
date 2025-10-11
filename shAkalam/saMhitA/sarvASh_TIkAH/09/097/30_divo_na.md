@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "वसुक्रो वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसुक्रो वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -238,6 +236,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः अह्नां सर्गा न- सूर्यरश्मय इव। अससृग्रम्- सृष्टा भवन्ति। राजा न- रञ्जकः। धीरः। मित्रम्-  सुहृदमुपासकम्। न प्रमिनाति- न बाधते। क्रतुभिः- कर्मभिः। यतानः- उद्यतः सन्। अस्याः-  एतस्यै। विशे- प्रजायै। अजीतिम्- अपराभवम्। पितुः- जनकस्य। पुत्रः- सुतः। न- इव। आ  पवस्व- क्षर॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 दिवोन यथादिवोद्योतमानस्य आदित्यस्याह्नां सम्बन्धिनः सर्गारश्मयः अससृग्रं विसृ- ज्यन्ते तद्वत् सोमस्य सर्गाः सृज्यन्ते इतिसर्गाधाराः विसृज्यन्ते सृजेर्व्यत्ययेनकर्मार्थेलङि- बहुलञ्छन्दसीतिशस्यश्लुः झेरमादेशश्छान्दसः । धीरः प्राज्ञोराजा अयंसोमः मित्रं सखायं नप्रमिनाति नहिनस्ति क्रतुभिः कर्मभिर्यतानोयतमानः पुत्रः पितुर्न पितुर्यथा अपराभवं- करोति तद्वत् कर्मभिर्यतमानस्त्वं अस्यै विशे प्रजायै अजीतिं अपराजितिं अपराभवं आप वस्व आप्रापय यथा नपराजिताभवन्ति तथाकुर्वित्यर्थः ॥ ३० ॥
@@ -268,7 +271,6 @@ In b ná should be read as both the simile particle and the negation; see Oldenb
 Pādas b-c show a clever chaining of significant vocabulary. In b Soma is compared to a king who doesn’t violate his alliance, with mitrá- in its common noun usage. But d contains the part. yatāná- ‘taking one’s place, being put in place’, and √yat is an action esp. associated with the god Mitra. Cf., e.g., VII.36.2 jánaṃ ca mitró yatati “Mitra puts the people in their place” (sim. III.59.1). Although Mitra is not explicitly present here, the lexical continuity might evoke him. It is indeed possible that it is Mitra’s intentions (or those of the alliance itself) acdg. to which Soma takes his place, rather than “ours” as in the published translation
 
 The vs. ends with yet another term relating to social life, namely víś- ‘clan’; as king, Soma would exert himself on behalf of this social unit.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -304,8 +306,6 @@ Wie Himmelsströme sind geströmt die Strahlen, den Freund verschmähet nicht de
 Подстраивать к (нашим) желаниях, как сын – (к желаниям) отца.  
 Даруй, очищаясь, ненасилие этому племени!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

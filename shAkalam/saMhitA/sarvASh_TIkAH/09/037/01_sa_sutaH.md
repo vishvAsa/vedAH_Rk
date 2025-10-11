@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - रहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। सुतः- निष्पन्नः। वृषा- वर्षकः। देवयुः- देवकामः। सोमः- रसः। पीतये-  अनुभूतये। रक्षांसि- अधर्मशख्नीः। विघ्नन्- निरुद्ध्य। पवित्रे- शुद्धपात्रे प्रतीके। अर्षति-  गच्छति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** **सोमः** **पीतये** इन्द्रादिपानाय **सुतः** अभिषुतः **वृषा** वर्षणः सन् **पवित्रे** . **अर्षति** गच्छति । किं कुर्वन्। **रक्षांसि** **विघ्नन्’** **देवयुः** देवकामः स इत्यन्वयः ॥
@@ -169,10 +172,6 @@ Der Bulle Soma rinnt zum Trunke ausgepreßt in die Seihe, die Unholde vertreiben
 
 Der Soma rinnt zum Trunk gepresst hin auf die Seihe, er der Stier, Gespenster tödtend, Göttern hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

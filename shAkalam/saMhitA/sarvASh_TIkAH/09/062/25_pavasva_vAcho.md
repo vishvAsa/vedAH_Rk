@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - जमदग्निः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    सोम- रस। चित्राभिः- विचित्राभिः। ऊतिभिः- रक्षाशख्निभिः। विश्वानि काव्यानि- सर्वाणि  दर्शनानि। वाचः- मन्त्रांश्च। अभि- अभितः। पवस्व- क्षर॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **अग्रियः** मुख्यस्त्वं **चित्राभिः** पूजनीयैः **ऊतिभिः** रक्षणैः सह **वाचः** अस्मदीयाः स्तुतीः **अभि** **पवस्व** । एतदेव दर्शयति । **विश्वानि** सर्वाणि **काव्या** काव्यानि स्तुत्यात्मकानि वाक्यानि अभि पवस्वेति ॥ ॥ २८ ॥
@@ -152,8 +155,6 @@ toward all products of poetic skill.
 <details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou supply an intermediate infinitive to govern víśvāni kā́vyā: “um alle Sehergabe zu gewinnen” and “en vue de (nous procurer) tous pouvoirs-poétiques” respectively - on what basis is completely unclear to me. I see no reason why it can’t simply be a goal, as I’ve taken it. See also comm. ad IX.75.1.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -179,10 +180,6 @@ Läutere dich als Führer des Worts, o Soma, mit deinen wunderbaren Hilfen, um a
 
 Mit reichen Hülfen riesle du, des Liedes Führer, Soma, uns Die Dichtergaben alle zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नाभानेदिष्ठो मानवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+युवत्याम्। पितरि- जनके। कामम्- यथेच्छम्। कृण्वाने- कुर्वति सति। अभीके- तयोः समीपे।  मध्या- मध्ये। यत्- यदा। कर्त्वं- कर्म। अभवत्। तदा। वियन्ता- सङ्गतौ। सुकृतस्य योनौ-  पुण्यसदने। सानौ- सूच्छ्रितप्रदेशे।  मनानक्- अल्पम्। रेतः- वीर्यम्। जहतुः- त्यख्नवन्तौ॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कामं** यथेच्छं **कृण्वाने** कुर्वाणे **पितरि** प्रजापतौ **युवत्यां** दुहितर्युषसि दिवि वा । ‘ दिवमित्यन्ये ' इति हि ब्राह्मणं प्रदर्शितम् । **मध्या** तयोर्मध्येऽन्तरिक्षमध्ये वा **अभीके** समीपे **यत्** **कर्त्वं** कर्म **अभवत्** मिथुनीभावाख्यं तदानीं **मनानक्** अल्पं **रेतः** **जहतुः** त्यक्तवन्तौ । किं कुर्वाणाविति तत्राह। **वियन्तौ** परस्परमभिगच्छन्तौ । प्रजापतिना **सानौ** समुच्छ्रिते स्थाने **सुकृतस्य** यज्ञस्य **योनौ** **निषिक्तम्** आसीदित्यर्थः । ततो रुद्र उत्पन्न इत्यर्थः ॥
@@ -270,10 +273,6 @@ Als man mitten in der Arbeit war bei der Liebesbegegnung, da der Vater bei der J
 
 Was inzwischen zu thun war, als der Vater seine Lust an der jungen Tochter kühlte [das geschah]; sie beide liessen zusammentreffend eine kurze Zeit den Samen strömen, der sich auf die Fläche ergoss in dem Schooss des schönen Liebeswerkes (?).
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

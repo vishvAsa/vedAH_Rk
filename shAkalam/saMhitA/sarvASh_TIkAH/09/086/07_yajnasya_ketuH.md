@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - आकृष्टा माषाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञस्य- उपासनस्य दानस्य सङ्गतिकरणस्य। केतुः- प्रज्ञापकः। स्वध्वरः-  ध्वररहितशोभनकर्मयुख्नः। सोमः- रसः। पवते- क्षरति। देवानां निष्कृतम्- देवसदनम्। उप  याति- उपगच्छति। सहस्रधारः- अनन्तधारः। कोशम्- प्रतीकम्। परि अर्षति- गच्छति। वृषा-  वर्षकः। पवित्रम्- भाजनं प्रतीकम्। अत्येति- अतिक्रम्य च गच्छति। रोरुवत्- गर्जति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञस्य** **केतुः** प्रज्ञापकः **स्वध्वरः** शोभनयागः **सोमः** **पवते** पूयते अभिषूयते । तादृशः सोमः **देवानां** **निष्कृतं** संस्कृतं स्थानम् **उप** **याति** उपगच्छति । तदर्थं **सहस्रधारः** **कोशं** द्रोणकलशं **परि** **अर्षति** । ततस्तदर्थं **वृषा** सेक्तायं **रोरुवत्** शब्दयन् **पवित्रम्** अतिक्रम्य गच्छत्यधोदेशम् ॥
@@ -269,10 +272,6 @@ Soma, des Opfers Banner, läutert sich, den Gottesdienst verschönend; er geht z
 
 Schön feiernd wallt des Opfers Fahne flammenreich, und Soma geht zum Ort, wo er die Götter trifft; In tausend Strömen rieselt um die Kufe er, laut brüllend eilet durch das Somasieb der Stier.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

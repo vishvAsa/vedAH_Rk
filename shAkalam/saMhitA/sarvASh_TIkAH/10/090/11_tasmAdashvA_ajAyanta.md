@@ -3,7 +3,6 @@ title = "११ तस्मादश्वा अजायन्त"
 devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नारायणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ádadhuḥ ← √dhā- 1 (root)  
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। पुरुषम्- विराजमात्मानम्। व्यदधुः- कल्पितवन्तः। तदा। कतिधा- कतिभिः प्रकारैः।  व्यकल्पयन्- विविधं कल्पितवन्तः। अस्य- एतस्य। मुखम्- वदनम्। किम्। बाहू- करौ। कौ।  ऊरू। कौ। पादौ- चरणौ। कावुच्येते॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तस्मात्** पूर्वोक्ताद्यज्ञात् **अश्वा** **अजायन्त** उत्पन्नाः। तथा **ये** **के** **च** अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च उभयादतः ऊर्ध्वाधोभागयोरुभयोः दन्तयुक्ताः सन्ति तेऽप्यजायन्त। तथा **तस्मात्** यज्ञात् **गावः** च **जज्ञिरे** । किंच **तस्मात्** यज्ञात् **अजावयः** च **जाताः** ॥ ॥ १८ ॥
@@ -209,7 +212,6 @@ _________
 
 11पुनश्च पशुसृष्टिं प्रपञ्चयति - तस्मादेवाश्वा अजायन्त । ये के च ये केचिद् उभयादत उभयोः पार्श्वयोर् दन्ता येषां ते गर्दभादयश्च अजायन्त । 'छन्दसि च' इति दतृभावः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम् , नुमभावश्छान्दसः । गावश्च अजाश्च अवयश्च तस्माज्जाताः ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 </details>
@@ -242,8 +244,6 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 Что его рот, что руки,  
 Что бедра, что ноги называются?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

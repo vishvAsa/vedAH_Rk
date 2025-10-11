@@ -3,7 +3,6 @@ title = "003"
 devataa = "लिङ्गोक्तदेवताः (विष्णुत्वष्टृप्रजापतिसिनीवालीसरस्वत्यश्विनः) गर्भार्थाशीः"
 RShiH = "त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 aráṇī ← aráṇi- ~ aráṇī- (nominal stem)  
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्- यं गर्भमुद्दिश्य। अश्विना- श्वासनिश्वासेशनशख्निभूतौ। हिरण्ययी- हिरण्मय्यौ। अरणी-  अरण्युपलक्षितश्वासनिश्वासौ। निर्मन्थतः- मथनं कृतवन्तौ। तम्। दशमे। मासि- मासे। सूतवे-  प्रसवाय। ते- तव। गर्भम्। हवामहे- आह्वयामः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हिरण्ययी** हिरण्मय्यौ **अरणी** **यं** गर्भमुद्दिश्य **अश्विना** अश्विनौ देवौ **निर्मन्थतः** निर्मथितवन्तौ हे जाये **ते** तुभ्यं त्वदर्थं **तं** **गर्भं** **हवामहे** आह्वयामहे । **दशमे** **मासि** **सूतवे** प्रसोतुम् ॥ पद्दन् इत्यादिना मासशब्दस्य मास्भावः । सूते: **तुमर्थे** सेसेन् ' इति तवेन्प्रत्ययः ॥ ॥४२॥
@@ -200,8 +203,6 @@ Die Frucht, die dir das Ritterpaar hervorreibt mit dem goldnen Holz, Die wünsch
 Этот плод мы призываем для тебя,  
 Чтоб родила (ты его) на десятом месяце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

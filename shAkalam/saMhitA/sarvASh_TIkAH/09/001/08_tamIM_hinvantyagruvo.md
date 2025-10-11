@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मधुच्छन्दाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तमीम्- अमुमेनम्। अग्रुवः- सूक्ष्मा मूलशख्निधाराः। हिन्वन्ति- प्रेरयन्ति। बाकुरम्-  ज्वलन्तम्। त्रिधातु- भूर्भुवःसुवःस्थानम्। वारणम्- उत्तमम्। मधु- मधुरम्।  दृतिम्-  विदारणीयं रसभाजनं  रूपम्। दृणोतीति दृतिः। धमन्ति- रसार्थमभिषुण्वन्ति।  रसस्रवार्थमुपासनेन मर्मभेदनं कुर्वन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तमीम्** एनं सोमम् **अग्रुवः** अङ्गुलयः **हिन्वन्ति** अभिषवदेशं प्रति प्रेरयन्ति । प्रेरयित्वा च **बाकुरं** भासमानं **दृतिं** दृतिसदृशांशुमेनं सोमं **धमन्ति** अभिषुण्वन्ति । यद्यपि धमतिरभिषवकर्मा न भवति तथाप्यौचित्यादत्राभिषवपरो भविष्यति । तदेतत् सोमात्मकं **मधु** वस्तु **त्रिधातु** त्रिस्थानम् । द्रोणकलश आधवनीयः पूतभृदिति त्रिधातवः । **वारणं** शत्रूणां वारकं च भवति ॥
@@ -169,8 +172,6 @@ The second verse in the sUkta recited here already mentions the soma sitting in 
 
 The etymology of droNa from wooden=drUNa. Its described as ayohatam in the previous foot: fashioned with metal i.e., a chisel/hammer.
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -222,8 +223,6 @@ Die unvermählten senden ihn und sprühen auf den Lederschlauch Den starken drei
 Они надувают мехи бакуры,  
 (Они получают) трояко защищающую сладость.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

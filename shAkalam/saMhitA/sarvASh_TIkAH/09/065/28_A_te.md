@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। मयोभुवम्- आनन्दकरम्। वह्निम्- वाहकम्। पान्तम्- पालकम्। पुरुस्पृहम्- बहुप्रियम्।  दक्षम्- सामर्थ्यम्। अद्य- इदानीम्। आ- मर्यादया। आ- आभिमुख्येन। वृणीमहे-  वरयामः॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम यष्टारो वयं **ते** तव स्वभूतं **दक्षं** बलम् **अद्य** अस्मिन् यागदिने आभिमुख्येन **आ** **वृणीमहे** संभजामहे। कीदृशम्। **मयोभुवं** सुखस्य भावकं **वह्निं** धनादीनां प्रापकं **पान्तं** शत्रुभ्यो रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं काम्यमानं बलमिति ॥
@@ -178,10 +181,6 @@ Dein tüchtiges erfreuliches Wagenroß bitten wir uns heute aus, den vielbegehrt
 
 Wir wünschen heut uns deine Kraft, die schnell dahinfährt, Freude bringt, Die vielbegehrte, schützende,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

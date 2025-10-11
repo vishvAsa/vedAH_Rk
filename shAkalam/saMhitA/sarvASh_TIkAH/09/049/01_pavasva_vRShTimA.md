@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कविर्भार्गवः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवस्परि- चिदाकाशात्। नः- अस्मदर्थम्। अपामूर्मिं वृष्टिम्- जीवोदकतरङ्गमयवृष्टिम्। सु- सुष्ठु।  आ- समन्तात्। पवस्व- क्षर। अयक्ष्माः- आधिव्याधिरहिताः। बृहतीः- महतीः। इषः-  सदिच्छाः। पवस्व॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **दिवः** द्युलोकात् **वृष्टिं** **नः** अस्माकम् **आ** **पवस्व** समन्तात् क्षर । एतदेव दर्शयति । **अपाम्** उदकानाम् **ऊर्मिं** तरङ्गं दिवः **परि** आ पवस्व । अपि च **अयक्ष्माः** यक्ष्मरहितानि अनामयानि **बृहतीः** महान्ति **इषः** अन्नानि आ पवस्व ॥
@@ -193,10 +196,6 @@ Läutere uns fein Regen her, der Gewässer Welle vom Himmel, gesunde, große Spe
 
 O riesle Regen schnell herbei, vom Himmel uns des Wassers Flut, Heilsamen, reichen Labetrunk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

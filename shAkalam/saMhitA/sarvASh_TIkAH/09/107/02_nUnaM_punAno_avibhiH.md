@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नूनम्- निश्चयेन। पुनानः- पावयमानः। सुरभिंतरः- अतिशयेन सुगन्धः। अविभिः- रक्षाशख्निभिः।  परि स्रव- परितः क्षर। सुते- निष्पन्ने सति। त्वा- भवन्तम्। उत्तरम्- श्रेष्ठम्। अन्धसा- हव्येन।  श्रीणन्तः- मिश्रयन्तः। अप्सु- मूलशख्निधारासु। चित्- एव। मदामः- सन्तोषेण अनुभवामः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **अदब्धः** कैश्चिदप्यहिंसितः **सुरभिंतरः** अत्यन्तं सुगन्धिस्त्वं **नूनम्** इदानीं **पुनानः** पूयमानः सन् **अविभिः** अविवालकृतैः पवित्रैस्तेभ्यः **परि** **स्रव** परितः क्षर। **सुते** **चित्** अभिषुते सति **अन्धसा** सक्तुलक्षणेनान्नेन **गोभिः** गोविकारैः क्षीरैः क्षीरादिभिः **श्रीणन्तः** मिश्रयन्तो वयम् **उत्तरम्** उद्गततरम् **अप्सु** वसतीवरीषु संस्थितं त्वां **मदामः** मन्दामहे स्तुमः ॥
@@ -223,8 +226,6 @@ exhilarated by your stalk, while preparing you with cows as the higher  (oblatio
 <details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich of this vs. is intricately interwoven with constituents overlapping; see Oldenberg’s sensible treatment at loc. The initial loc. expression consists of suté cit … apsú, with tvā interspersed in modified 2nd position. This tvā is not to construed with the nearby verb madāma (pace Grassmann), because máda- without preverb is almost never construed with an acc.; here that verb goes with the instr. ándhasā. The tvā finally finds its governing verb form in the participle śrīṇántaḥ beginning pāda d; it is so distant from it, with parts of two different constituents in between, because it took Wackernagel’s position in the clause. The adj. úttaram at the very end of the vs. modifies it: the soma is “higher” or “better” at this point presumably because the mixing with milk, the last step depicted, improves it.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Dich klärend ströme durch des Widders Wolle nun, schönduftend, du untrüglich
 Как только (тебя) выжали в воды, мы опьяняемся соком,  
 Смещивая тебя, превосходного, с коровьим молоком.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

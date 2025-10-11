@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अप्रतिरथ ऐन्द्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    समृतेषु- गतिमत्सु। ध्वजेषु सत्सु। इन्द्रः- ईशनाधिदेवता। अस्माकम्- नो भवतु। अस्माकम्-  नः। याः- ये। इषवः- बाणाः। ताः- ते। जयन्तु। अस्माकम्- नः। वीराः। उत्तरे- उपरि।  भवन्तु- सन्तु। देवाः। हवेषु- आह्वानेषु। अस्मान्- नः। उ- एव। अवत- रक्षत॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्माकं** संबन्धिष्वेव **समृतेषु** परसेनां संप्राप्तेषु **ध्वजेषु** ध्वजवत्सु सैनिकेषु **इन्द्रः** रक्षिता भवतु । तथा **अस्माकं** **या** **इषवः** सन्ति **ताः** एव **जयन्तु** शत्रून् । तथा **अस्माकं** **वीराः** भटाः **उत्तरे** उपरि **भवन्तु** । हे **देवाः** **अस्माँ** **उ** अस्मानेव **अवत** रक्षत **हवेषु** संग्रामेषु ॥
@@ -258,10 +261,6 @@ Unser sei Indra, wann die Feldzeichen zusammentreffen. Unsere Pfeile, die sollen
 
 Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen, Und unsre Männer, die da Macht gewinnen; ihr Götter helft uns, wenn wir zu euch rufen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

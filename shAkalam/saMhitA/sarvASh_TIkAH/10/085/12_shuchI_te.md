@@ -3,7 +3,6 @@ title = "012"
 devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 cakré ← cakrá- (nominal stem)  
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यात्याः- गच्छन्त्याः। ते- तव। चक्रे। शुची- श्रोत्रे अतीन्द्रियश्रवणम्। व्यानः- व्यानाख्यप्राणः।  अक्षः- उभयरथचक्रच्छिद्रगामिकाष्ठामयः। आहतः- अभवत्। पतिम्- भर्तारं प्रति। प्रयती-  गच्छन्ती। मनस्मयम्- मनोमयम्। अनः- रथम्। सूर्या- सावित्री। आरोहत्- आरुरोह॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यात्याः** गच्छन्त्याः **ते** तव अनसः **चक्रे** चङ्क्रमणशीले रथाङ्गे **शुची** श्रोत्रे आस्ताम् । **व्यानः** तव व्यानो वायुः **अक्षः** । उभयरथचक्रच्छिद्रगामिनी या काष्ठा सा च रथस्य सर्वं भारं वहति । सोऽक्षो व्यानोऽभूत् । **मनस्मयं** मनोमयम् **अनः** शकटं **सूर्या** **पतिं** सोमं प्रति **प्रयती** प्रकर्षेण गच्छन्ती **आरोहत्** आरूढवती । पतिं प्रति जिगमिषोर्मनोरूपस्य रथस्य पत्युर्गुणश्राविणी श्रोत्रे एव चक्रे अभूतां व्यानो धारको वायुश्चेष्टकोऽक्षोऽभूदित्यर्थः ॥
@@ -213,8 +216,6 @@ Leuchtend waren deine beiden Räder als du fuhrst, eilend die hineingesteckte Ac
 В повозку, сотворенную из духа,  
 Взошла Сурья, отправляясь к супругу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

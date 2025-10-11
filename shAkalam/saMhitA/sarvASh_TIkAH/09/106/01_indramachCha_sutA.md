@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - अग्निष्चाक्षुषः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमे- एते। हरयः- आकर्षकाः सोमाः। श्रुष्टी- क्षिप्रम्। जाताः- उत्पन्नाः। इन्दवः- क्लेदनशीला  रसाः। स्वर्विदः- ज्योतिर्विदः। सुताः- निष्पन्नाः। इन्द्रम्- परमेश्वरम्। अच्छा- अभिलक्ष्य।  यन्ति- सरन्तु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **श्रुष्टी** । श्रुष्टीति क्षिप्रनाम । क्षिप्रं **जातासः** जाताः **इन्दवः** पात्रेषु क्षरन्तः **स्वर्विदः**। सर्वज्ञाः **हरयः** हरितवर्णाः **सुताः** अभिषुताः **इमे** सोमाः **वृषणं** कामानां सेक्तारम् **इन्द्रमच्छ** **यन्तु** अभिगच्छन्तु ॥
@@ -175,8 +178,6 @@ Let these pressed (soma drinks) go to Indra, the tawny ones to the bull, the dro
 <details><summary>Jamison Brereton Notes</summary>
 
 As Renou points out, the exact nuance of śruṣṭī́is hard to pinpoint, but Geldner’s recessive adverb “willig” does not seem sufficient. Renou also adduces II.3.9 śruṣṭī́… jāyate, similar to our śruṣṭī́jātā́saḥ. I interpr. both passages to mean that the right ritual birth happens because of a/the god’s attention to the process (Tvaṣṭar in II.3.9, Indra here).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -211,8 +212,6 @@ Zum Stiere Indra mögen hier die goldigen, gepressten gehn, Die Indutränke, Gla
 Соки сомы, к быку – буланые,  
 Охотно родившиеся, находящее небо!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

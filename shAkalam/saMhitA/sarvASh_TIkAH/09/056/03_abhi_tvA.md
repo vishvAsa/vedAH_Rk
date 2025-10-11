@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वा- त्वाम्। योषणो दश- दशदिग्वर्तिन्यो मूलशख्निधाराः। अभि- आभिमुख्येन। जारम्- प्रियम्।  कन्या- प्रिया। न- इव। अनूषत- अभिशब्दयन्ति। सोम- रस। सातये- लब्धये। मृज्यसे-  शोध्यसे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वा** त्वां याः **दश** दशसंख्याकाः **योषणः** अङ्गुलयः **कन्या** पितृमती कन्यका **जारं** **न** यथा प्रियमभिशब्दायते तद्वत् **अभि** **अनूषत** अभिशब्दायन्ते ताभिः **सातये** अस्माकं धनस्य लाभाय **मृज्यसे** इन्द्रार्थं शोध्यसे ॥
@@ -182,10 +185,6 @@ Dir riefen die zehn Frauen zu wie ein Mädchen ihrem Buhlen. Du wirst geputzt, o
 
 Zehn Jungfraun jauchzten jetzt dir zu, gleichwie dem Bräutigam die Braut, Sie läutern, Soma, dich um Gunst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

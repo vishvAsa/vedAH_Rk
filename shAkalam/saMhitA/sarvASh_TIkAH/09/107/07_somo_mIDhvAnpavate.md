@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसः। मीढ्वान्- सेख्ना। पवते- क्षरति। गातुवित्तमः- अतिशयेन मार्गज्ञः। ऋषिः- द्रष्टा।  विप्रः- मेधावी। विचक्षणः- विशेषदर्शी। त्वम्। कविः- क्रान्तदर्शी। अभवः। देववीतमः-  दिव्यानुभवः। सूर्यं- आत्मसूर्यम्। दिवि- चित्ताकाशे। आ रोहयः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मीढ्वान्** कामानां सेक्ता **सोमः** **पवते** क्षरति । कीदृशः । **गातुवित्तमः** अत्यन्तं मार्गस्य लम्भकः **ऋषिः** सर्वस्य प्रदर्शकः **विप्रः** मेधावी **विचक्षणः** विद्रष्टा । किंच **कविः** क्रान्तप्रज्ञः **त्वं** **देववीतमः** अत्यन्तं देवकामः **अभवः** भवसि । अपि च **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** प्रादुर्भावयसि ॥
@@ -220,7 +223,6 @@ You became the sage poet who best pursues the gods. You made the sun  mount in h
 <details><summary>Jamison Brereton Notes</summary>
 
 The two splvs ending the a and c pādas show a nice phonological relationship: (gātu-)vít-tama- and (deva-)vī́-tama, with interchange between long vowel + single cons. and short vowel + geminate in otherwise identical phonetic seequences, an effect reminiscent of MIA quantitative trade-offs.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -254,8 +256,6 @@ Der Soma rieselt huldvoll, schaffend freiste Bahn, der weise Sänger weiten Blic
 Ты стал поэтом, лучше всех приглашающий богов.  
 Ты поднял солнце на небо.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

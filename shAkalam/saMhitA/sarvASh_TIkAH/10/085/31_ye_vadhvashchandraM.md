@@ -3,7 +3,6 @@ title = "031"
 devataa = "यक्ष्मनाशनी दंपत्योः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 candrám ← candrá- (nominal stem)  
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। वध्वः- वध्वाः। चन्द्रम्- आह्लादकेन। वहतुम्- धनेन। जनात्- अस्मद्विरोधिनः। यक्ष्माः-  व्याधिभूता द्वेषदृष्टयः। अनु यन्ति- अनुगच्छन्ति। तान्- ताः। पुनः। यज्ञियाः- पूज्याः। देवाः।  यत आगताः- यस्मात् स्थानात् ता आगताः तत्र। नयन्तु॥३१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वध्वश्चन्द्रं** हिरण्यरूपं **वहतुं** **ये** यक्ष्माः व्याधयः **अनु** **यन्ति** प्राप्नुवन्ति **जनात्** अस्मद्विरोधिनः सकाशात् । यद्वा । जनाद्यमाख्यात् । **तान** **पुनः** **नयन्तु** प्रापयन्तु **यज्ञियाः** यज्ञार्हाः **देवाः** इन्द्रादयः । **यत** **आगताः** यस्मात्ते यक्ष्मा आगतास्तत्र तान्नयन्तु ॥
@@ -241,8 +244,6 @@ Die Krankheiten, welche von ihrem Stamme her dem glänzenden Zuge der Braut nach
 Пусть боги, достойные жертв, снова  
 Уведут их (туда), откуда они пришли!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

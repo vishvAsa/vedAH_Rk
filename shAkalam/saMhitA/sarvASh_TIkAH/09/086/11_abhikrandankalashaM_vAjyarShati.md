@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अभिक्रन्दन्- शब्दयन्। वाजी- तुरगभूतः। कलशम्- भाजनं प्रतीकम्। अर्षति- सरति। दिवः-  नभसः। पतिः- पालकः। शतधारः- अनन्तप्रवाहः। विचक्षणः- सूक्ष्मदर्शी। हरिः- आकर्षकः।  मित्रस्य- स्वसख्युरुपासकस्य। सदनेषु। सीदति- उपविशति। वृषा- वर्षकः। अविभिः-  रक्षाकरीभिः। सिन्धुभिः- जीवोदकधारैः। मर्मृजानः- शोधितो भवति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजी** वेजनवान् गमनवान् अश्वसदृशो वा सोमः **अभिक्रन्दन्** शब्दं कुर्वन् **कलशम्** अभि **अर्षति** गच्छति । कीदृशो वाजी । **दिवः** **पतिः** द्युलोकस्य स्वामी **शतधारः** शतसंख्याकधारः **विचक्षणः** विद्रष्टा । **हरिः** हरितवर्णो रसात्मकः सोमः **मित्रस्य** देवानां मित्रभूतस्य यज्ञस्य वा **सदनेषु** स्थानेषु **सीदति** पात्रेषु धृतः सन् । कीदृशो हरिः । **सिन्धुभिः** स्यन्दनसाधनैः **अविभिः** दशापवित्रच्छिद्रैः **मर्मृजानः** शोध्यमानः **वृषा** वर्षकः ॥
@@ -221,8 +224,6 @@ The fallow bay sits in the seats of Mitra, the bull constantly being  groomed by
 <details><summary>Jamison Brereton Notes</summary>
 
 I do not know why the seats are identified as those of Mitra. I doubt that Lüders is correct that it is only because Mitra’s seat is in highest heaven (210), much less that Mitra is at this stage in Vedic being identified with the sun (605).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -248,10 +249,6 @@ Dem Kruge entgegenwiehernd rinnt der Preisrenner, des Himmels Herr in hundert St
 
 Dem Trog entgegenwiehernd eilt das schnelle Ross in hundert Strömen leuchtend rings des Himmels Herr, In Mitra's Sitzen setzet sich das goldne Ross, der Hengst gereinigt von der Wolle und dem Strom.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

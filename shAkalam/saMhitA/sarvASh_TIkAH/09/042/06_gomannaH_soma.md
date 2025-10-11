@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। नः- अस्मदर्थम्। सुतः- निष्पादितः सन्। गोमत्- धेनुमतीः  ज्ञानवतीरित्याध्यात्मिके। वीरवत्- साधकवतीः। अश्वावत्- तुरगवतीः प्राणयुख्ना इत्याध्यात्मिके।  वाजवत्- हव्ययुख्नाः। बृहतीः- महतीः। इषः- सदिच्छाः। पवस्व- क्षर॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **सुतः** त्वं **नः** अस्मभ्यं **गोमत्** गोभिर्युक्तं **वीरवत्** बहुभिर्वीरैरुपेतम् **अश्वावत्** अश्वैर्युक्तं **वाजवत्** वाजैर्बलैः संग्रामैर्वोपेतं धनं **बृहतीरिषः** प्रभूतान्यन्नानि **पवस्व** । प्रयच्छेत्यर्थः ॥ ॥ ३२ ॥
@@ -174,10 +177,6 @@ Ausgepreßt läutere uns Besitz von Rindern, Söhnen, Rossen, Siegesgewinnen, gr
 
 O Soma, riesle Reichthum uns an Rind und Ross, an Helden zu, An Speis' und Trank, gepresster du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - कविः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। नृभिः- उपासकैः। इन्द्राय- परमेश्वराय। परि- परितः। सिच्यसे। नृचक्षाः- नृणां  चक्षुर्भूतः। ऊर्मिः- तरङ्गविशेषः। कविः- क्रान्तदर्शी। वने- आश्रिते। अज्यसे- सङ्गतो भवसि।  यातवे- गच्छते। पूर्वीः- प्राचीनाः। ते- तव। स्रुतयः- मार्गाः सन्ति। चमूषदः-  द्यावापृथिव्योर्मध्ये। हरयः- आकर्षणशख्निभूताः। अश्वाः- तव तुरगाः। सहस्रम्- बहवः।  सन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वम् **इन्द्राय** इन्द्रार्थं **नृभिः** नेतृभिर्ऋत्विग्भिः **परि** **षिच्यसे** अभिषूयसे । तथा हे सोम **नृचक्षाः** नृणां यष्टॄणामनुग्रहेण द्रष्टा **ऊर्मिः** प्रेर्यमाणः प्रवृद्धो वा **कविः** मेधावी च त्वं **वने** उदके **अज्यसे** प्रेर्यसे । **पूर्वीः** बह्व्यः **हि** **ते** **स्रुतयः** मार्गाश्छिद्राणि **सन्ति** **यातवे** यातुम् । अल्पस्य सोमस्य अपरिमितस्रुतिगमनासंभवात्तस्य बाहुल्यमाह । **चमूषदः** अभिषवणफलकयोः सीदतः **सहस्रम्** अपरिमिताः **अश्वाः** व्याप्ताः **हरयः** हरितवर्णा अंशवः सन्ति । अथवा । इन्द्राय परिषिच्यस इत्युक्तत्वादिन्द्रप्राप्तौ मार्गसाधनयोः सद्भाव उत्तरार्धेन प्रतिपादितः । ते पुरातन्यः सरण्यः सन्तीन्द्रं प्रति यातुम् । तथा सहस्रसंख्याका हरितवर्णा अश्वाश्च सन्ति। चमूषदस्तवेति ॥
@@ -268,8 +271,6 @@ The rt. noun compd mada-cyút- (on which see also above) is taken by Geldner as 
 Pāda b poses problems: what is the disjunction signaled by vā; where does the rel. cl. with yébhiḥ begin; what is the referent of yébhiḥ; how should dhánā be construed? Geldner starts the rel. cl. with yébhiḥ, leaving the disjunctive phrase dhánā vā in (or attached to) the main cl. Since there is nothing in that cl. with which to construe dhánā he must supply a verb parallel to dhanvantu: “… sollen rinnen … oder die Kampfpreise (gewinnen).” Sim. Klein, DGRV II.205. There is nothing objectionable about this solution - ‘win’ regularly takes dhána- as obj., and in fact soma or its equivalent is sometimes the subj. Cf., e.g., IX.65.9 … te … víśvā dhãnāni jigyúṣah “of you [presumably = soma] having won all the stakes” (though it’s worth noting that the exact half-vs. is found in VIII.14.6, applying to Indra). But nothing in the context invites or supports supplying a verb here. Renou’s solution is more economical, in using dhánā as an alternative subject for prá … dhanvantu, though running forth is less natural action for stakes to perform. Ober (II.248) also takes the disjunction as belonging to the main cl., but with dhánā as an alternate goal for the running drops: “… sollen vorwärts laufen oder hin zu den Siegespreisen.” All of them, Geldner (/Klein), Renou, and Ober start the rel. cl. with yébhiḥ and make its antecedent dhánā. By contrast, I take all of pāda b as the rel. cl. (the position of yébhiḥ is of course perfectly compatible with this), with dhánā a 2nd acc., of goal (rather like Ober), with junīmási. The antecedent of yébhiḥ is then the soma drops, which give us (and the horses) the energy to race to the prizes.
 
 Geldner, Renou, and Ober take c with d. This is certainly possible, but I prefer taking it with b, to express the potential hazards and dirty-dealing facing our horses in this race.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -306,8 +307,6 @@ Dem Indra wirst von Männern, Soma, du, gereicht, ins Holz geführt, ein weiser,
 Тысячу буланых коней у (тебя), пребывающих в сосудах.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -323,7 +322,7 @@ Dem Indra wirst von Männern, Soma, du, gereicht, ins Holz geführt, ein weiser,
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जो लोग परमात्मा की भक्ति में विश्वास करते हैं, परमात्मा उनके बल को अवश्यमेव बढ़ाता है अर्थात् उत्पत्ति स्थिति और संहाररूप परमात्मा की शक्तियें कर्मयोगियों की आज्ञापालन करने के लिये उपस्थित होती हैं ॥२॥
+भावार्थभाषाः -  जो लोग परमात्मा की भक्ति में विश्वास करते हैं, परमात्मा उनके बल को अवश्यमेव बढ़ाता है अर्थात् उत्पत्ति स्थिति और संहाररूप परमात्मा की शक्तियें कर्मयोगियों की आज्ञापालन करने के लिये उपस्थित होती हैं ॥२॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

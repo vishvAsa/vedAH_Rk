@@ -3,7 +3,6 @@ title = "007"
 devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसुकर्णो वासुक्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नीषोमा। वृषणा- वर्षकौ। पुरुप्रशस्ता- बहुधा स्तुतौ। वाजसातये- हव्यलब्धये। उप ब्रुवे-  स्तौमि। यौ। देवयज्यया- दिव्ययज्ञेन। वृषणः- वर्षका ऋत्विजः। ईजिरे- यजन्ति। ता- तौ।  नः- अस्मभ्यम्। त्रिवरूथं शर्म। वि- विशेषेण। यंसतः- प्रयच्छताम्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वृषणा वर्षणशीलौ **पुरुप्रशस्ता** बहुभिः प्रशस्तौ **अग्नीषोमा** अग्नीषोमौ **वाजसातये** अन्नलाभाय **उप** **ब्रुवे** अहमुपस्तौमि । पुनः **वृषणौ** इति आदरार्थम् । **यौ** देवौ **वृषणः** ऋत्विजः **देवयज्यया** । देवा इज्यन्तेऽत्रेति देवयज्या यज्ञः ।  ‘ छन्दसि निष्टर्क्य ' इति निपातितः । तेन **ईजिरे** यजन्ते हविर्भिः पूजयन्ति **ता** तौ प्रसिद्धौ **नः** अस्मभ्यं **त्रिवरूथं** त्रिष्कम्भं **शर्म** गृहं **वि** **यंसतः** विशेषेण प्रयच्छताम् ॥
@@ -258,10 +261,6 @@ Agni und Soma, den Bullenhaften, rede ich zu, um den Preis zu gewinnen, den beid
 
 Die Stiere, Agni, Soma, rufe ich herbei, die vielgerühmten Stiere, Labung zu empfahn, Die von den Stieren sind geehrt durch Gottesdienst; so reichet uns denn Schutzwehr, welche dreifach, schirmt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

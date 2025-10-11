@@ -3,7 +3,6 @@ title = "002"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 amba ← amba (nominal stem)  
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अम्ब- हे जनन्य ओषधयः। वः- युष्माकम्। धामानि। शतम्- प्रभूतानि। उत- अपि च। वः-  युष्माकम्। रुहः- प्ररोहः। सहस्रम्- इतोपि प्रभूतः। अध- अपि च। शतक्रत्वः- हे  प्रभूतकर्मयुख्नाः। मे- मम सम्बन्धिनम्। इमम्- एनम्। अगदम्- अरोगम्। कृत- कुरुत॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अम्ब** मातर ओषधयः **वः** युष्माकं **धामानि** स्थानानि जन्मानि वा **शतम्** अपरिमितानि । **उत** अपि च **वः** युष्माकं **रुहः** प्ररोहः प्रोद्गमः **सहस्रम्** अपरिमितः। **अध** अपि च हे **शतक्रत्वः** शतकर्माणः **यूयमिमं** **मे** मां मदीयं वा जनमामयग्रस्तम् **अगदम्** । गदो रोगः । तद्रहितं **कृत** कुरुत ॥
@@ -238,8 +241,6 @@ Ja hundertfach ist eure Art und tausendfach ist euer Wuchs; Mit hundert Kräften
 Так вы, стоумные,  
 Сделайте мне этого (человека) здоровым!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

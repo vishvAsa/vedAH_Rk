@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। यथा। तव- भवतः। स्तवः- मन्त्रः। यथा। अन्धसः जातम्- भवदर्थं  हव्याविर्भावः। तथा। प्रिये- भवत्प्रेमपात्रे। बर्हिषि- आसने। नि सदः- निषीद॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अन्धसः** अन्नरूपस्य **तव** संबन्धी **स्तवः** स्तवनं स्तोत्रं तथा **ते** तव **जातं** जन्म **यथा** प्रादुर्भूतमस्ति तथा त्वं **प्रिये** प्रीणयितरि **बर्हिषि** अस्मद्यागे **नि** **षदः** निषण्णो भव॥
@@ -201,10 +204,6 @@ Da ja dir der Lobpreis gebührt, o Saft, da ja die Geburt deines Tranks geschehe
 
 Da dein ist, Indu, alles Lob und dein was aus dem Kraut entquoll, So setz dich auf die liebe Streu,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अग्निस्तापसः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)
 _________
 **Morph**  
 aryamā́ ← áryaman- (nominal stem)  
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्मभ्यम्। अर्यमा- दानाधिदेवता। प्र यच्छतु। भगः- सौभाग्याधिदेवता। बृहस्पतिः-  मेधाधिदेवता। प्रयच्छतु। देवाः प्रयच्छन्तु। उत- अपि च। सूनृता- प्रियहितवाक्। देवी-  द्योतनशीला। नः- अस्मभ्यम्। रायः- दानयोग्यधनम्। प्रयच्छतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अर्यमा** अरीणां नियन्ता अर्याणां निर्माता वैतत्संज्ञो देवः **नः** अस्मभ्यं **प्र** **यच्छतु** धनम् । तथा **भगः** एतत्संज्ञको देवश्च **प्र** यच्छतु । **बृहस्पतिः** च **प्र** यच्छतु । सर्वे देवाः च **प्र** यच्छन्तु । **उत** अपि च **सूनृता** प्रियसत्यवाग्रूपा **देवी** देवनशीला सरस्वती **रायः** धनानि **नः** अस्मभ्यं **प्र** **ददातु** ॥ ‘ उडिदम्' इत्यादिना रायो विभक्तिरुदात्ता ॥
@@ -247,8 +250,6 @@ Es schenke Gut uns Arjaman, uns Bhaga, uns Brihaspati, Die Götter uns, und Sunr
 Боги, а также Суприта –  
 Богиня пусть дает нам богатства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

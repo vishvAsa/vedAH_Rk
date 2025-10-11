@@ -3,7 +3,6 @@ title = "010"
 devataa = "द्यावापृथिव्याविन्द्रश्च;द्यावापृथिव्यौ"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "पङ्क्त्युत्तरा"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्त्युत्तरा"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - पङ्क्त्युत्तरा
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,12 +28,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; line affected by realignment;; epic anuṣṭubh (525)  
-popular;; line affected by realignment;; epic anuṣṭubh (525)  
-popular;; line affected by realignment;; epic anuṣṭubh (525)  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
-popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
+popular;; line affected by realignment;; epic anuṣṭubh (525)  
+popular;; line affected by realignment;; epic anuṣṭubh (525)  
+popular;; line affected by realignment;; epic anuṣṭubh (525)  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
+popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 gā́m ← gáv- ~ gó- (nominal stem)  
@@ -272,6 +270,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। उशीनराण्याः- ओषधेः। अनः- शकटम्। आवहत्- वहति तम्। गाम्- गन्तारम्।  अनड्वाहम्- वृषभम्। इन्द्र- परमेश्वर। सम्- सम्यक्। ईरय- प्रेरय॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **सम्** न्वितिईरय संप्रेरय । किम् । **गां** गन्तारम् **अनड्वाहम्** अनोवहनसमर्थम् । **यः** अनड्वान् **आवहत्** आवहत्यस्मान्प्रति । किम् । **अनः** शकटम् । कस्य । **उशीनराण्याः** एतन्नामिकाया ओषधेः । ययार्तमनुलिम्पन्ति सोशीनराणी । भरतामित्यादि गतम् ॥ ॥ २३ ॥
@@ -316,8 +319,6 @@ O Indra, treibe den Zugstier an, welcher den Wagen der Frau vom Lande der Uçīn
 Пусть же совсем ничего не болит у тебя!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - द्यावापृथिव्यौ, द्यावापृथिव्याविन्द्रश्च
@@ -333,7 +334,7 @@ O Indra, treibe den Zugstier an, welcher den Wagen der Frau vom Lande der Uçīn
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा सबके शरीरों को चलानेवाले प्राण को प्रेरित करता है। प्रत्येक प्राणी भोगसृष्टि की कामना करता है। यदि कोई प्राणी असावधानता से भोगसृष्टि में पड़ता है, तो वह रोगी और दुःखी हो जाता है और अपनी सन्तान को भी दुःखी बनाता है। अतः सावधानी से भोगसृष्टि में विचरे ॥१०॥
+भावार्थभाषाः -  परमात्मा सबके शरीरों को चलानेवाले प्राण को प्रेरित करता है। प्रत्येक प्राणी भोगसृष्टि की कामना करता है। यदि कोई प्राणी असावधानता से भोगसृष्टि में पड़ता है, तो वह रोगी और दुःखी हो जाता है और अपनी सन्तान को भी दुःखी बनाता है। अतः सावधानी से भोगसृष्टि में विचरे ॥१०॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

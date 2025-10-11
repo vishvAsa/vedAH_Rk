@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मतीनाम्- मननानाम्। वृषा- वर्षकः। विचक्षणः- विशेषद्रष्टा। सोमः- रसः। पवते- क्षरति। अह्नः  उषसः दिवः- दैवप्रज्ञायाः। प्रतरीता- प्रवर्धयिता। सिन्धूनाम्- मूलशख्निधाराणाम्। क्राणा- कर्ता।  कलशान्- भाजनानि प्रतीकं वा। अवीवशत्- कामयते। इन्द्रस्य- परमेश्वरस्य। हार्दि- हृदि।  मनीषिभिः- मेधाविभिरुपासकैः। आविशन्॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **सोमः** **पवते** अभिषूयते । कीदृशः सोमः । **मतीनाम्** । मतयः स्तोतारः । तेषां **वृषा** वर्षकः कामानां **विचक्षणः** विद्रष्टा **अह्नः** **उषसो** **दिवः** द्युलोकस्यादित्यस्य वा **प्रतरीता** प्रवर्धयिता। किंच **सिन्धूनां** स्यन्दमानानामुदकानां **क्राणा** कर्ता ॥ करोतेः शानचि • बहुलं छन्दसि ' इति विकरणस्य लुक् । सुः। ‘सुपां सुलुक्' इत्याकारः ॥ **कलशानवीवशत्** कामयते प्रवेष्टुम् । किं कुर्वन् । **इन्द्रस्य** **हार्दि** हृदयम् **आविशन्** प्रविशन् **मनीषिभिः** स्तुत इति शेषः । यद्वा । व्यवहितमपि मनीषिभिरित्येतत् पवत इत्यनेन संबध्यते ॥
@@ -236,8 +239,6 @@ On krāṇā́see comm. ad I.58.3. In addition to the adv. sense (‘successfull
 
 should be made, but I make the opposite choice to Geldner’s. In the passage here I would supply ‘child’ as headnoun for síndhūnām and change the tr. to “Through his action, (the child) of the rivers …” There are several reasons for my change of heart besides a desire for consistency. For one thing krāṇā́is never elsewhere construed with a gen. For another, Soma is otherwise the sole subj. of ávīvaśat and doesn’t need any assistance in this action.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -262,10 +263,6 @@ Der Bulle der Gedanken läutert sich, der Weitschauende, der Soma, der Ausdehner
 
 Weitschauend rieselt Soma, der Gebete Herr, des Tags, des Morgens und des Himmels Förderer; Er liess der Krüge Ströme rauschen eifrig jetzt, in Indra's Bauch eindringend durch der Priester Werk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

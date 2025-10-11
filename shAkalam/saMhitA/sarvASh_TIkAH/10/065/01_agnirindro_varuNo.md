@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसुकर्णो वासुक्रः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्निः- पावकः सर्वभूतहितक्रतुः। इन्द्रः- ईशनाधिदेवता। वरुणः- ऋताधिदेवता। मित्रः-  स्नेहाधिदेवता। अर्यमा- सौशील्याधिदेवता। वायुः- प्राणः। पूषा- पोषक आत्मा। सरस्वती-  चोदनाधिदेवता। सजोषसः- सहृदयाः। आदित्याः- अखण्डप्रकृतिजाः। विष्णुः- सर्वव्यापी  सर्वान्तरात्मा। मरुतः- प्राणविशेषाः। बृहत् स्वः- द्यौः। सोमः- रसः। रुद्रः- वेगाधिदेवता।  अदितिः- अखण्डप्रकृतिः। ब्रह्मणस्पतिः- मेधाधिदेवता॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अग्न्यादय आदित्यादयः **बृहत्** बृहती **स्वः** द्यौश्च सोमादय एते देवाः **सजोषसः** संगताः सन्तोऽन्तरिक्षं स्वमहिम्नापूरयन्तीत्युत्तरेण संबन्धः ॥
@@ -254,10 +257,6 @@ Agni, Indra, Varuna, Mitra, Aryaman, Vayu, Pusan, Sarasvati einträchtig beisamm
 
 Vereint sei'n Agni, Indra, Mitra, Varuna, Arjaman, Vaju, Puschan und Sarasvati, Aditja's, Maruts, Vischnu und das hohe Licht, und Soma, Rudra, Aditi, Brihaspati.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

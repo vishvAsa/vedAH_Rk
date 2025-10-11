@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - उचथ्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। अव्ये- अव्यये। सानवि- उच्छ्रितप्रदेशे हृदि। एषि- गच्छसि। तदा। ते- तव। प्रसवे-  सृष्टौ। मखस्युवः- यज्ञकामाः। तिस्रो वाचः- ऋग्यजुःसामानि। उदीरते- उत्कृष्टतया जपन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव **प्रसवे** सति **मखस्युवः** यज्ञमिच्छतो यजमानस्य **तिस्रो** **वाचः** ऋग्यजुःसामात्मकानि त्रीणि वाक्यानि **उदीरते** उद्गच्छन्ति । कदेत्यत आह । **यत्** यदा **सानवि** व्युच्छ्रिते **अव्ये** अविभये पवित्रे **एषि** त्वं गच्छसि ।
@@ -192,10 +195,6 @@ Auf dein Geheiß erheben sich die drei eine Gabe heischenden Reden, wenn du auf 
 
 Bei deinem Keltern steigen auf drei Lieder im Triumphgesang, Wenn du zum wollnen Gipfel gehst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

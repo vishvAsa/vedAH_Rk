@@ -3,7 +3,6 @@ title = "005"
 devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ध्रुवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 dhruvám ← dhruvá- (nominal stem)  
@@ -202,6 +200,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तुभ्यम्। राजा वरुणः- ऋताधिदेवता। ध्रुवम्- स्थैर्यं ददातु। देवः- द्योतनशीला। बृहस्पतिः-  मेधाधिदेवता। ध्रुवम्- स्थैर्यं ददातु। ते- तुभ्यम्। इन्द्रश्च- ईशनाधिदेवता च। अग्निश्च- पावकः  सर्वभूतहितक्रतुश्च। ध्रुवम्- निश्चयेन। ध्रुवम्- स्थिरम्। राष्ट्रम्। धारयताम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे राजन् ते तव राष्ट्रं राजा राजमानो वरुणो ध्रुवं स्थिरं धारयतु। देवो दानदिगुणयुक्तो बृहस्पतिर्ध्रुवं धारयतु। इन्द्रश्चाग्निश्चोभावपि ते तव राष्ट्रम् ध्रुवं स्थिरं धारयताम्। इन्द्राग्न्योरुभयोरपेक्षया ध्रुवशब्दस्य द्विः प्रयोगः॥५॥
@@ -244,8 +247,6 @@ Fest mög dir König Varuna, und fest der Gott Brihaspati, Und fest dir Indra, A
 Твердо – пусть Индра и Агни  
 Укрепят твое господство – твердо!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

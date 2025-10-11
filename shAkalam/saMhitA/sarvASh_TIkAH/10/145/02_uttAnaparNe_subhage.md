@@ -3,7 +3,6 @@ title = "002"
 devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - इन्द्राणी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 súbhage ← subhága- (nominal stem)  
@@ -178,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत्तानपर्णे- ऊर्ध्वपर्णे। उन्नत एव धार्मिकभौमभोगः। सुभगे- सौभाग्यवति। देवजूते- देवप्रेरिते।  सहस्वति- सहनशीले। मे- मम। सपत्नीम्। स्वार्थशख्निमित्याध्यात्मिके। परा धम- परागमय।  मे- मम। पतिम्- भर्तारम्। केवलम्- ममैकवल्लभम्। कुरु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उत्तानपर्णे** उत्तानान्यूर्ध्वमुखानि पर्णानि पत्राणि यस्यास्तादृशि हे **सुभगे** सौभाग्यहेतुभूते हे **देवजूते** देवेन स्रष्ट्रा प्रेरिते हे **सहस्वति** अभिभवनवति ईदृशे हे पाठे **मे** मम **सपत्नीं** स्त्रियं **परा** **धम** परागमय । धमतिर्गतिकर्मा । **पतिं** च **मे** ममैव **केवलम्** असाधारणं **कुरु** ॥
@@ -220,8 +223,6 @@ Breitblättrige, glückselige, du gottgesandte, kräftige, Die Mitfrau blase mir
 Сдуй ты прочь мою соперницу,  
 Сделай мужа только моим!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

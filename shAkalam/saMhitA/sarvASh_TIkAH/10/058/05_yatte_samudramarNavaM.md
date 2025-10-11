@@ -3,7 +3,6 @@ title = "005"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 arṇavám ← arṇavá- (nominal stem)  
@@ -179,12 +177,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समुद्रमर्णवम्- सागरमनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्ते** **मनः** **अर्णवम्** अर्णांस्युदकानि तद्वन्तं **समुद्रं** मेघं वा **जगाम** **तत्** इति गतम् ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -215,8 +216,6 @@ Dein Geist, der in das wogende Gewässer in die Ferne ging, Der werde von uns he
 Мы его возвращаем тебе,  
 Чтоб он здесь пребывал (и) жил.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

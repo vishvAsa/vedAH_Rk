@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवित्रे- शोधके। कलशे- भाजने प्रतीके। आ सृजानः- आसृष्टः। दिव्येषु धामसु-  अध्यात्मभूमिकासु। सोम- रस। पवस्व- क्षर। इन्दो- क्लेदनशील। इन्द्रस्य- परमेश्वरस्य। जठरे-  हृदये। सीदन् वनस्य जठरे पुनानः, भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः स्तन्नबाधित  इत्यादिषु मन्त्रेषु जठरशब्दस्य मध्यभाग इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः। हूयमानः-  अस्माभिराहूतः। सीदन्- उपविशन्। कनिक्रदत्- शब्दितवान्। नृभिः- नेतृभिरुपासकैः। यतः-  नियमितः सन्। दिवि- चित्ताकाशे। सूर्यं- आत्मसूर्यम्। आरोहयः- आरोपितवान्॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **दिव्येषु** **धामसु** स्थानेषु । देवानां संबन्धिषूदरेष्वित्यर्थः । तेषु **पवस्व** क्षर । कीदृशः सन् । हे **इन्दो** दीप्त सोम **कलशे** **पवित्र** **आ** दशापवित्रे च । आ इति चार्थे । 'सृजानः सृज्यमानः । अत्र ‘ अग्निहोत्रं जुहोति यवागूं पचति' इतिवदार्थिकः क्रमोऽवगन्तव्यः । किंच **इन्द्रस्य** **जठरे** **सीदन्** जठरं गच्छन् **कनिक्रदत्** शब्दं कुर्वन् **नृभिः** नेतृभिर्ऋत्विग्भिः **यतः** परिगृहीतः । हुत इत्यर्थः । तथाभूतः सन् **दिवि** **सूर्यम्** **आरोहयः** प्रादुर्भूतमकरो: ॥
@@ -246,8 +249,6 @@ Sitting in the belly of Indra, ever roaring, guided by the men, you have  made t
 <details><summary>Jamison Brereton Notes</summary>
 
 Although the Pp. analyzes ā́rohayaḥ as containing an augment (ā́/ arohayaḥ), it could equally well have an injunc.: ā́/ rohayaḥ. The latter would fit better with the injunc. ví rocayat in 21a, just disc.; the former with the other augmented forms of this tṛca.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -279,10 +280,6 @@ Läutere dich, Soma, an den himmlischen Geburtstätten, in den Krug, auf die Sei
 
 O riesle, Soma, in den Himmelsstätten hell, entsandt, o Indu, in die Seihe zu dem Kelch; Laut wiehernd setzend dich in Indra's Bauch, gelenkt von Männern hobst die Sonn' zum Himmel du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

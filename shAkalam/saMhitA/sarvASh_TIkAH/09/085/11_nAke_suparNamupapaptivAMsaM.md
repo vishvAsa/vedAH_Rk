@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वेनो भार्गवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -179,6 +177,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नाके- आनन्दमयकोशमुद्दिश्य। उपप्तिवांसम्- उद्गच्छन्तम्। सुपर्णं- मुमुक्षाप्रतीकं पक्षिणम्। पूर्वीः-  प्राचीनाः। वेनानाम्- उपासकानाम्। गिरः- मन्त्राः। अकृपन्त- मण्डयन्ति। पनिप्नतम्- ५    शब्दयन्तम्। हिरण्ययम्- दीप्यमानम्। शकुनम्- मुमुक्षुम्। क्षामणि स्थितम्- सहनशीलम्।  शिशुम्- वत्सं रसम्। मतयः- ध्यानभावनानि। रिहन्ति- आस्वादयन्ति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नाके** द्युलोके वर्तमानं पश्चादुत्पतन्तं सोमं **वेनानाम्** अस्माकं संबन्धिन्यः **पूर्वीः** बह्व्यः **गिरः** स्तुतयः **उप** **अकृपन्त** उपकल्पन्ते । अभिष्टुवन्तीत्यर्थः । तं **शिशुं** शिशुवत् संस्कर्तव्यं सोमं **मतयः** स्तुतयः **रिहन्ति** लिहन्ति संस्पृशन्ति । प्राप्नुवन्तीत्यर्थः। कीदृशं शिशुम् । **पनिप्नतं** शब्दायन्तम् । पनतेर्यङ्लुगन्तात् शतरि अभ्यासस्य निगागम उपधालोपश्च । **हिरण्ययं** हिरण्मयं **शकुनं** पक्षिणं **क्षामणि** क्षमायां **स्थां** हविर्धाने स्थां वर्तमानम् ॥
@@ -207,8 +210,6 @@ The thoughts lick the child who always excites wonder, the golden bird  standing
 
 I would now take the pf. part. upapaptivā́ṃsam as explicitly anterior to the impf. akṛpanta: “the eagle that had flown to the vault.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -216,6 +217,7 @@ As noted in the published introduction, these four vss. treat the identification
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -248,8 +250,6 @@ Den Adler, der zur Himmelskuppel hinfliegt, erflehen viele Lieder der begier'gen
 Молитвы лижут замечательного ребенка,  
 Золотистую птицу, находящуюся на земле.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

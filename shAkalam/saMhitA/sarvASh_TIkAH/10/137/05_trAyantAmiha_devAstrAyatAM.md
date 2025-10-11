@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - विश्वामित्रः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 devā́ḥ ← devá- (nominal stem)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। अयम्- एष रोगी। अरपाः- अरोगः। असत्- भवति। तथा। देवाः। इह- अत्र।  त्रायन्ताम्- रक्षन्तु। मरुतां गणः- प्राणविशेषाः। त्रायताम्- रक्षन्तु। विश्वा भूतानि त्रायन्ताम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इह** अस्मिन् देशे सर्वे **देवाः** **त्रायन्ताम्** अस्मान् पालयन्ताम् । तथा **मरुतां** **गणः** संघः स **त्रायताम्** । **विश्वा** विश्वानि सर्वाण्यन्यानि च **भूतानि** भूतजातानि **त्रायन्ताम्** अस्मान् रक्षन्तु । **यथायम्** अस्मदीयः शरीरादिः **अरपाः** **असत्** पापरहितो भवति तथेत्यर्थः । रप इति पापनाम । नञा बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अस्तेर्लेट्यडागमः ।  ‘ याव द्यथाभ्याम् ' ( पा. सू. ८. १. ३६ ) इति निघाताभावः ॥
@@ -211,8 +214,6 @@ Die Götter mögen helfen hier, es helfe auch der Maruts Schar, Und alle Wesen i
 Да спасут все существа,  
 Чтобы был ты без повреждения!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

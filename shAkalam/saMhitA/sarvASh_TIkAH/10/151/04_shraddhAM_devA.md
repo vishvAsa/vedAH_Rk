@@ -3,7 +3,6 @@ title = "004"
 devataa = "श्रद्धा"
 RShiH = "श्रद्धा कामायनी"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - श्रद्धा कामायनी
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 devā́ḥ ← devá- (nominal stem)  
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रद्धाम्। यजमानाः- उपासकाः। देवाः। वायुगोपाः- प्राणगुप्ताः। उपासते। हृदय्या- हृदयस्थया।  आकूत्या- प्रज्ञया। श्रद्धां कुरु। श्रद्धया। वसु- चित्तवृत्तिस्तम्भम्। वसु स्तम्भे। विन्दते-  लभते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवा** **यजमाना** मनुष्याश्च **वायुगोपाः** वायुर्गोपा रक्षिता येषां ते तादृशाः सन्तः **श्रद्धां** देवीम् **उपासते** प्रार्थयन्ते । हृदय्यया । हृदये भवा हृदय्या। तथाविधया **आकूत्या** संकल्परूपया क्रियया **श्रद्धाम्** एव परिचरन्ति सर्वे जनाः । कुत इत्यत आह । यतः कारणात् **श्रद्धया** हेतुभूतया **वसु** धनं **विन्दते** लभते श्रद्धावाञ्जनः । तत इत्यर्थः ॥
@@ -207,8 +210,6 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 Веру – с сердечной склонностью.  
 С помощью веры находят добро.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। इन्द्रस्य- ईशनाधिदैवतस्य। राधसे- तृप्त्यै। विचर्षणे- सूक्ष्मदर्शिन्। शम्- मङ्गळम्।  पवस्व- क्षर। प्रजावत्- सन्ततियुख्नम्। रेतः। आ भर- अस्मदर्थमाहर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विचर्षणे** विद्रष्टः त्वम् **इन्द्रस्य** **राधसे** राधनाय संसिद्ध्यै **शं** सुखकरं रसं **पवस्व** क्षर । अपि चास्मभ्यं **प्रजावत्** पुत्राद्युपेतं **रेतः** उदकमन्नं वा **आ** **भर** आहर । प्रयच्छेत्यर्थः॥ ॥१७॥ ॥२॥
@@ -158,8 +161,6 @@ For the generosity of Indra, purify yourself as luck, o boundless Soma. Bring he
 <details><summary>Jamison Brereton Notes</summary>
 
 In addition to the chaining with the previous vs. (on which see immediately above), this vs. participates in other verbal echoes, as noted in the published introduction. The end of the 2nd pāda vicarṣaṇe forms a ring with vícarṣanim at the end of the 2nd pāda of vs. 1, and the last pāda, prajā́vad réta ā́bhara, is identical to the last pāda of the first vs. of the immediately preceding hymn, IX.59.1 prajā́vad rátnam ā́bhara, with the substitution of rétaḥ for rátnam. In our case the semen (rétaḥ) would be both the actual semen that produces offspring and the liquid soma that mimics it.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -185,10 +186,6 @@ Für Indra´s Freigebigkeit läutere dich recht, du ausgezeichneter Soma, bring 
 
 O thät'ger, riesle uns zum Heil, dem Indra, dass er Schatz verleih, Bring' Samen uns, der Kinder zeugt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    शुक्रासः- शुभ्राः। वयोजुवः- हव्यप्रेरकाः। हिन्वानासः- प्रेरिताः। न सप्तयः- अश्वा इव स्थिताः।  श्रीणानाः- श्रीयमाणाः। अप्सु- जीवोदकेषु। प्र मृञ्जत- प्रशोधिताः॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शुक्रासः** शुक्रा दीप्यमानाः **वयोजुवः** अन्नं प्रेरयन्तः । यद्यदपेक्ष्य देवेभ्यः सोमं प्रयच्छन्ति तत्तदपेक्षितं सोमो ददाति । ते सोमाः **श्रीणानाः** दधिक्षीरादिभिः श्रीयमाणाः सन्तः **अप्सु** वसतीवरीष्वेकधनासु च **मृञ्जत** ऋत्विग्भिः प्रमृज्यन्ते शोध्यन्ते । तत्र दृष्टान्तः । **हिन्वानासो** **न** सप्तयः । अश्वनामैतत् । यथाश्वा हिन्वानासो हिन्वानाः सादिभिः प्रेर्यमाणाः सन्तोऽप्सु तैरेव प्रशोधिता भवन्ति तद्वत् ॥
@@ -153,8 +156,6 @@ Being brought to readiness, they are groomed in the waters.
 
 On the relationship of vayojúvaḥ in pāda a and sáho júvaḥ in 18a, see comm. ad 18 above. Scarlatta (174) hesitates between act. and pass. meaning for this hapax rt. noun cmpd vayo-jū́-: “die Lebenskraft fördenden” / “von Kraft beschleunigten.” In the published translation I opt for an intrans. + instr. value: “speeding with vigor,” though I now think passive “sped by vigor” would be even better, on the basis of the clear pass. forms in context (hinvānā́saḥ … śrīṇānā́ḥ … mṛñjata) as well as a passage in the immediately preceding hymn, IX.64.16 prá hinvānā́saḥ ... dhiyā́jūtā́ḥ “Being impelled forth … sped by insightful thoughts,” with the passive ppl. jūtá-.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -179,10 +180,6 @@ Die Klaren, Krafterregenden eilen vorwärts wie angetriebene Gespanne; mit Milch
 
 Die hellen Kraft erregenden, wie angespornte Rosse sind Mit Milch gemischt in Flut geklärt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

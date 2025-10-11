@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    इन्द्रस्य- परमेश्वरस्य। देववीतये- दिव्यानुभवाय। पुनानः- पूयमानः सन्। द्युतानः- दीप्यमानः  सन्। वाजिभिः- बलवद्भिरुपासकैः। यतः- सङ्गृहीतः सन्। निष्कृतम्- स्थानम्। याहि-  गच्छ॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **द्युतानः** दीप्यमानः **वाजिभिः** बलिभिर्यजमानैः **यतः** संगृहीतः **देववीतये** यज्ञार्थं **पुनानः** पूयमानस्त्वम् **इन्द्रस्य** **निष्कृतं** स्थानं **याहि** गच्छ॥ ॥ ३८ ॥
@@ -168,10 +171,6 @@ Dich läuternd zur Götterladung geh an des Indra Treffort, leuchtend, von den P
 
 Gereinigt geh zum Göttermahl dahin, wo du den Indra triffst, Gelenkt von Priestern, strahlender!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

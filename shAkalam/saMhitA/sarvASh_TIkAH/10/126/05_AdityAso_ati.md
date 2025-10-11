@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "कुल्मलबर्हिषः शैलूषिरंहोमुग्वा वामदेव्यः"
 ChandaH = "उपरिष्टाद्बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उपरिष्टाद्बृहती"
 - ऋषिः - कुल्मलबर्हिषः शैलूषिरंहोमुग्वा वामदेव्यः
 - छन्दः - उपरिष्टाद्बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    आदित्यासः- अखण्डप्रकृतिजाः। अति स्रिधः- हिंसकानतीत्य नयन्तु। मरुद्भिः- प्राणविशेषैः।  उग्रम्- तीव्रम्। रुद्रम्- वेगाधिदैवतम्।  इन्द्रम्- ईशनाधिदैवतम्। अग्निम्- क्रत्वधिदैवतम्।  स्वस्तये- क्षेमाय। अति द्विषः- द्वेषभावनमतिक्रम्य गन्तुम्। हुवे- आह्वये॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आदित्यासो** ऽदितेः पुत्रावरुणादयो देवाः **स्रिधो** हिंसाकाञ् शत्रूनस्मानतिनयन्तु। मरुद्भिः पुत्रैः सहितमुग्रमुद्गूर्णतेजसं रुद्रमिन्द्रमग्निं च स्वस्तये क्षेमाय हुवेम। आह्वयेमहि। ह्वयतेराशीर्लुङि बहुलं छन्दसीति सम्प्रसारणम् । लिङ्याशिष्यङ्। आहूतास्तेऽस्मान्द्विषो द्वेष्ट नति नयन्तु॥५॥
@@ -210,7 +213,6 @@ An 8+8+8+8 syllabic core is decorated with a 4-syllabic pendant containing a con
 
 Aditya-s: heavenly, rudra-s atmospheric, vasu-s earthy functions: approximately (they do have other dimensions).
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -249,8 +251,6 @@ Aditja's dringen durch den Feind Varuna, Mitra, Arjaman, Den Rudra mit der Marut
 Грозного Рудру с Марутами хотим мы призывать,  
 Индру, Агни – на счастье – через проявления враждебности!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

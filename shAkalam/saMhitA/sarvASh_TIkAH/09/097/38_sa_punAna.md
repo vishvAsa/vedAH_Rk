@@ -3,7 +3,6 @@ title = "038"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -271,6 +269,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१४    सः- तादृशः। पुनानः- पूयमानो रसः। सूरे- सूर्ये। न धाता- संवत्सर इवेति सायणः। उप- तथा  इन्द्रे उपगच्छति। उभे रोदसी- द्यावापृथिव्यौ। अप्राः- आपूरयति। सः। वि आवः- तमांसि  विवृणोति। यस्य। प्रिया- प्रियस्य। प्रियसासः- प्रिया धाराः। ऊती- अस्मद्रक्षायै भवन्ति। सः।  धनम्- संपदम्। कारिणे- उपासकाय। न- संप्रति। प्र यंसत्- प्रयच्छतु॥३८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पुनानः पूयमानः ससोमः इन्द्रे उपगच्छति । तत्रदृष्टन्तः—सूरेन यथा सूर्ये धाता संवत्सरउपगच्छति । ससंवत्सरोविधातारम् । संवत्सरेणैवास्मैप्रजाःप्रजनयतीत्याम्नानात् । किञ्चोभेरोदसी द्यावापृथिव्यौ आप्राः स्वमहिम्ना आपूरयति । तथा ससोमः व्यावः स्व- तेजसा तमांसि विवृणोति । वृणोतेर्मन्त्रेघसेतिच्लेर्लुक् छन्दस्यपिदृश्यतेइत्यडागमः पूर्वपदा- दितिसइत्यस्यसांहितिकंषत्वम् । प्रिया षष्ठ्याआकारः प्रियस्य यस्यसोमस्य यद्वा प्रियाणि प्रयच्छतः यस्यसोमस्य प्रियसासः अत्यन्तं प्रियतमाधाराः ऊती रक्षणाय भवन्ति स तु क्षिप्रं अस्मभ्यं धनं प्रयंसत् प्रयच्छतु । यच्छतेर्लेटिसिप्यडागमः । तत्रदृष्टान्तः—कारिणेन यथा कारिणे च कृतकाय भृतिं प्रयच्छन्ति तद्वत् ॥ ३८ ॥
@@ -299,8 +302,6 @@ The word order in the 2nd clause of b, ví ṣá āvaḥ, is worth noting. Both 
 As Oldenberg suggests, in c priyā́is governed either directly or indirectly by the 2nd member of the cmpd. priya-sā́saḥ ‘winning dear things’: “those winning dear things (win) dear things.” The effect is rather like the type gaṇā́nām gaṇápati- “troop lord of troops” (II.23.1), though the means are different. As for priya-sā́saḥ, its stem is given as them. priya-sá- by Grassmann, and it would have the doubled nom. pl. ending familiar from devā́saḥ, etc. However, it seems possible (and in my opinion desirable) to interpr. it as belonging to a root noun -sā́-. The rt. noun nom. pl. to -ā-stems is ordinarily -āḥ, which is identical to the nom. sg. Though several cmpds in -sā́- do have this nom. pl. (dhanasā́ḥ VIII.3.15, X.65.10; sadāsā́ḥ IV.16.21, sahasrasā́ḥ X.64.6), the nom. sg. -sā́ḥ is far more common. In a passage like this, where there are no other nom. pl. forms to support the nom. pl. interpr. (as there are in the -sā́ḥ nom. pl. passages just cited), doubly marking the nom. pl. would make sense. Scarlatta (585) seems to be leaning in that direction, but doesn’t actually say so.
 
 Parallel to the dative kāríṇe ná “as if to a victor” in the simile, we can assume “to us” vel sim. in the frame. So Geldner
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
@@ -334,8 +335,6 @@ Er, hell entflammt, der Sonne gleichsam spendend, hat Erd' und Himmel nun erfül
 (Тот,) с чьей помощью приятные (достигают) очень приятных (благ).  
 Пусть же он вручит (нам) ставку, как победителю (в игре)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

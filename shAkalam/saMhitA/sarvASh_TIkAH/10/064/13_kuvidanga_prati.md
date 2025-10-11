@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - गयः प्लातः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -233,6 +231,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे प्राणविशेषाः। कुवित्- बहुवारम्। नः- अस्मान्। सजात्यस्य- यथा बान्धव्यस्य  विषयभूतान् कुरुथ तथा। प्रति बुबोधथ- जानीथ। नाभा- यज्ञे। अयं यज्ञो भुवनस्य नाभिरिति  श्रुतेः। यत्र। प्रथमम्- मुख्यतया। संनसामहे- सङ्गच्छेमहि। तत्र। नः- अस्माकम्। जामित्वम्-  बान्धव्यम्। अदितिः- अखण्डप्रकृतिः। दधातु- प्रयच्छतु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अङ्गेति सम्बुद्धौ। हे मरुतः यूयं नोऽस्मान्कुविद्बहुवारं प्रति बुबोधथ तथा प्रतिबुद्ध्यध्वम् । कुविच्छब्दयोगादनिघातः। यथा नोऽस्मान्सजात्यस्यास्य बान्धवस्य विषयभुतान्कुरुथ तथ जानीथ। ततो नाभा पृथिव्या नाभिस्थाने यत्र यस्मिन्नुत्तरवेदिलक्षणे देशे प्रथममेव सन्ननामहे हविषा यत्र सङ्गच्छेमहि तत्रैव देशेऽदितिर्देवानाम् माता नोऽस्माकं जमित्वं मनुष्यैः सह बान्धवं दधातु। विदधातु॥१४॥
@@ -267,10 +270,6 @@ Ganz gewiß werdet ihr Marut euch irgendwie dieser unserer Bekanntschaft erinner
 
 Wie ist es denn? o Maruts achtet nimmer ihr auf diese Stammverwandtschaft zwischen uns und euch? Im Heiligthum, wo wir zuerst uns liebend nahn, da setze die Verwandtschaft Aditi uns fest.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

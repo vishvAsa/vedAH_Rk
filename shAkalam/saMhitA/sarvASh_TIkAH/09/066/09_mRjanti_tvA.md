@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - शतं वैखानसाः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। रेभः- मन्त्रशब्दः। वने- आश्रिते। अज्यसे- सङ्गतो भवति तदा। अग्रुवः- सूक्ष्मा  मूलशख्निधाराः। त्वा- भवन्तम्। सम्- सम्यक्। जीरौ- स्तोत्रमये। स्वनि- मन्त्रध्वनियुख्ने।  अव्ये- सरणशीलरसस्य स्वस्थान एव रक्षाकरे उपलब्धिस्थाने । रसव्यञ्जके। रसस्य प्रवेशस्थाने।  रसतत्त्वस्य सुलभतया अवगमसाधनभूते। रसार्थयाचनसाधनभूते। रसक्रिये। रसावाप्तिसाधनभूते।  रसावरणे। रससंभख्नरि। रसवर्धके। वरणीये प्रतीके । मृजन्ति- शोधयन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **अग्रुवः** । अङ्गुलिनामैतत् । अजन्ति प्रक्षिपन्ति हवींष्यग्नाविति । यद्वा अगेर्गत्यर्थस्य । कर्मकरणार्थमितस्ततो गच्छन्तीति । अग्रुवोऽङ्गुलयोऽस्मदीयाः **जीरौ** पापानामभिभावुके क्षिप्रं कृते वा **स्वनि** **अधि** अधिकं शब्दायमाने **अव्ये** अविवालेन कृते पवित्रे **त्वा** त्वां तदा **सं** **मृजन्ति** सम्यक् शोधयन्ति । **यत्** यदा **रेभः** । ‘ रेभृ शब्दे । उदकमध्ये प्रक्षेपेण शब्दायमानस्त्वं **वने** वननीये वसतीवर्याख्य उदके **अज्यसे** अक्तः सिक्तो भवसि । तदा मृजन्तीत्यन्वयः ॥
@@ -196,7 +199,6 @@ The presence of ávye at the beg. of the pāda would set the audience’s expect
 
 In c I take rebháḥ … ajyáse as a pun, dependent on the literal sense of √ribh, which, rather than being ‘sing’ as it generally is glossed, is really ‘creak, rasp’. See comm. ad VI.3.6. Here Soma is as usual ‘anointed’ (ajyase) with milk, and in that regard he is identified as a rebhá-, a ritual officiant with a particular voice quality. But as disc. ad VI.3.6, in a TS passage √ribh is used for a squeaky wheel, and of course the way to fix such a wheel is to “grease” it (√añj). So the unmarked comparison here is “(as) a squeaky (wheel) is greased.”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -221,10 +223,6 @@ Es putzen dich gemeinsam die Jungfrauen in der Wollseihe im fließenden Wasser u
 
 Es reinigt dich der Jungfraun Schar im Strom, der durch die Wolle rauscht, Wenn man ins Holz dich Sänger führt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

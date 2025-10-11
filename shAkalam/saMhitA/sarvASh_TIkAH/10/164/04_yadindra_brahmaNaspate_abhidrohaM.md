@@ -3,7 +3,6 @@ title = "004"
 devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - प्रचेताः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। ब्रह्मणस्पते। यत्। अभिद्रोहम्। चरामसि- कृतवन्तः। तस्माद्रक्ष। नः- अस्मान्।  आङ्गिरसः- अङ्गनशीलः। प्रचेताः- प्रकृष्टज्ञानवान् वरुणः। द्विषताम्- द्वेषिणाम्। अंहसः- पापात्।  पातु- रक्षतु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** हे **ब्रह्मणस्पते** युवयोर्विषये **यत्** **अभिद्रोहम्** अभितो द्रोहकं पापं दुःस्वप्नकारणं **चरामसि** आचरामः कुर्मः तस्मादभिद्रोहादस्मात् रक्षतमिति शेषः । अपि च **आङ्गिरसः** अङ्गिरोभिः स्तोतृभिः सबान्धवः **प्रचेताः** प्रकृष्टज्ञानो वरुणश्च **द्विषतां** द्वेष्टॄणाम् **अंहसः** तत्कर्तृकादस्मद्विषयात्पापात् **नः** अस्मान् **पातु** रक्षतु । यद्वा । विभक्तिव्यत्ययः । आङ्गिरसमङ्गिरोगोत्रं प्रचेतसमृषिं नः । वचनव्यत्ययः । मां द्विषतामंहसः पातु । प्रकृतत्वादिन्द्र इति गम्यते ॥
@@ -203,8 +206,6 @@ Wenn wir, Indra, Brahmanaspati, eine Sünde begehen, so soll uns der vorsorgende
 Провидец из Ангирасов  
 Пусть защитит нас от притеснения ненавистников!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

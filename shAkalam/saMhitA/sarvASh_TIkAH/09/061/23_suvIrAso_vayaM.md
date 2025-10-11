@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मीढ्वः- आनन्दकर। सुवीरासः- वीर्यसंपन्नाः सन्तः। वयम्। धना- संपदः। जयेम। सोम- रस।  पुनानः- पवमानः सन्। नः- अस्माकम्। गिरः- मन्त्रान्। वर्ध- वर्धय॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवीरासः** सुवीराः कल्याणपुत्राः **वयम्** अमहीयव आङ्गिरसाः **धना** शत्रूणां धनानि **जयेम** । शत्रून् जित्वा तदीयानि धनानि स्वीकुर्यामेत्यर्थः । हे **मीढ्वः** सेक्तः **सोम** **पुनानः** पूयमानस्त्वं **नः** अस्माकं **गिरः** स्तुतिरूपा वाचश्च **वर्ध** वर्धय ॥
@@ -167,8 +170,6 @@ Becoming purified, strengthen our hymns.
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda c … vardha no gíraḥ “strengthen our hymns” is the reciprocal to vs. 14a tán íd vardhantu no gíraḥ “let our hymns strengthen just him.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -202,8 +203,6 @@ Lass heldenreich erbeuten uns, o gnäd'ger Soma, Siegespreis, Gereinigt segne un
 Очищаясь, усиль наши песни!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -214,7 +213,7 @@ Lass heldenreich erbeuten uns, o gnäd'ger Soma, Siegespreis, Gereinigt segne un
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (मीढ्वः) हे सुख की वर्षा करनेवाले ! (नः) हमारी (गिरः) वाक्शक्ति को (पुनानः) बढ़ाते हुए (वर्ध) हमको भी अभिनन्दित करिये, जिससे (सोम) हे स्वामिन् ! (वयम्) हम (सुवीरासः) सुन्दर वीरों से संगत होकर (धनम् जयेम) अनेक प्रकार की सम्पत्ति का लाभ करें॥२३॥
+पदार्थान्वयभाषाः -  (मीढ्वः) हे सुख की वर्षा करनेवाले ! (नः) हमारी (गिरः) वाक्शक्ति को (पुनानः) बढ़ाते हुए (वर्ध) हमको भी अभिनन्दित करिये, जिससे (सोम) हे स्वामिन् ! (वयम्) हम (सुवीरासः) सुन्दर वीरों से संगत होकर (धनम् जयेम) अनेक प्रकार की सम्पत्ति का लाभ करें॥२३॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

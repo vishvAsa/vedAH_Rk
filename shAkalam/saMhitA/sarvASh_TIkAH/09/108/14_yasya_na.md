@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "सतो बृहती"
 - ऋषिः - शक्तिः
 - छन्दः - सतो बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। यस्य- यं रसम्। इन्द्रः- ईशनाधिदेवता। पिबात्- पिबति। अनुभवति। यस्य-  यम्। मरुतः- प्राणविशेषाः। अर्यमणा- औदार्याधिदेवतया। भगः- सौभाग्याधिदेवता च।  अनुभवन्ति। येन। मित्रावरुणा- स्नेहाधिदेवतामृताधिदेवताञ्च। आ करामहे- अभिमुखीकुर्महे।  महसे- महत्यै। अवसे- रक्षायै। आ इन्द्रम्- ईशनाधिदैवतं अभिमुखीकुर्महे। स सुन्वे॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्मदीयं **यस्य** यं सोमम् **इन्द्रः** **पिबात्** पिबति । 'पा पाने'। लेट्याडागमः। यं च सोमं **मरुतः** पिबन्ति **वा** अपि च **अर्यमणा** एतन्नामकेन देवेन सह **भगः** देवः यं सोमं पिबति **येन** सोमेन **मित्रावरुणा** मित्रावरुणौ वयम् **आ** **करामहे** अभिमुखीकुर्महे तथा **महे** महते **अवसे** रक्षणाय येन च सोमेन **इन्द्रम्** अभिमुखीकुर्महे स सोमोऽभिषूयते ॥
@@ -244,7 +247,6 @@ great help.
 The nom., acc., voc., and gen. pl. of marút- do not fit any standard RVic cadence. It is not surprising then that though instr. marúdbhiḥ and dat./abl.
 
 marúdbhyaḥ are regularly found in cadences, the other forms are almost entirely absent. Pāda b has a nom. pl. in the cadence (made worse by the fact that the word is preceded by a light syllable, (yá)sya. VII.32.10 has the same sequence, also in a double yásya construction. Most of the few other cadential forms are found in dimeter vs. (e.g., VIII.3.21, VIII.7.30).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
@@ -278,8 +280,6 @@ Den unser Indra trinken soll, die Marutschar und Bhaga, nebst dem Arjaman, Durch
 Благодаря кому мы привлечем к себе Митру и Варуну,  
 Индру – для великой помощи:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

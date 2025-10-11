@@ -3,7 +3,6 @@ title = "008"
 devataa = "तिस्रो देव्यः सरस्वतीळाभारत्यः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 bhā́ratī ← bhā́ratī- (nominal stem)  
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- सोमसंबन्धिन्यः। सरस्वती- सरणशीला सूक्ष्मा वाक्। इळा- मन्त्रस्तुतिभूता स्थूला  वाक्। भारती- भरणशीला। मही- महती अदितिराधारभूता वाक्। तिस्रः। देवीः- देव्यः।  सुपेशसः- सुरूपिण्यः। नः- अस्माकम्। इमम्- एतम्। यज्ञम्- उपासनम्। आ गमन्-  आगच्छन्तु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **भारती** भारत्याख्या **सरस्वती** सरस्वत्याख्या च **मही** महती इळाख्या च **तिस्रः** **सुपेशसः** सुरूपाः **देवीः** देव्यः **नः** अस्माकं **पवमानस्य** सोमस्य संबन्धिनम् **इमं** **यज्ञं** प्रति **आ** **गमन्** आगच्छन्तु ॥
@@ -212,8 +215,6 @@ Des rieselnden Sarasvati, die grosse Ida, Bharati, Die drei geschmückten Götti
 богини  
 , прекрасно украшенные.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

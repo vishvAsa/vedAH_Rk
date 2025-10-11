@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। इन्दो- क्लेदक। सोम- रस। विश्वा द्युम्नानि- सर्वा विद्याः। आ भर- आहर।  सहस्रिणीः- प्रभूताः। इषः- इच्छाः। विदाः- लम्भय॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **पवमान** पूयमान **इन्दो** दीप्त त्वं **विश्वा** सर्वाणि बहुविधानि **द्युम्नानि** द्रविणानि **आ** **भर** आहर । **विदाः** लम्भय च **सहस्रिणीः** सहस्रसंख्याकानि **इषः** अन्नानि ॥
@@ -177,10 +180,6 @@ Alle Herrlichkeiten bring uns, du geläuterter Somasaft; verschaffe tausendfält
 
 O bringe alle Schätze her, o Soma, Indu, flammender, Verschaff uns tausendfaches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

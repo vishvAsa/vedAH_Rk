@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मृधः- हिंसकान्। अपघ्नन्- नाशयन्। पवसे- क्षरसि। सोम- रस। क्रतुवित्- अग्निः। मत्सरः-  हर्षवर्धनोसि। अदेवयुम्- अदेवकामम्। जनम्। नुदस्व- देवकामनायां प्रेरय॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **मत्सरः** मदकरो यस्त्वं **मृधः** हिंसकान् शत्रून् **अपघ्नन्** मारयन् **क्रतुवित्** अस्मभ्यं प्रज्ञां प्रयच्छन् **पवसे** क्षरसि स त्वम् **अदेवयुम्** अदेवकामं **जनं** राक्षसवर्गं **नुदस्व** प्रेरय ॥
@@ -177,10 +180,6 @@ Du läuterst dich, die Verächter vertreibend, Rat schaffend, o Soma, berauschen
 
 Den Feind verjagend rieselst du, berauschend, Soma, kräftigend, Verstoss die gottvergessne Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

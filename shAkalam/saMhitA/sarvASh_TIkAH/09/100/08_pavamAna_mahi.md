@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रेभसूनू काश्यपौ
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। चित्रेभिः- विचित्रैः। रश्मिभिः- चिद्रश्मिभिः। महि श्रवः- महतीं श्रुतिम्। यासि-  गच्छसि। शर्धं- वेगं कुर्वन्। दाशुषो गृहे- दायकस्य सदने। विश्वानि तमांसि- सर्वानन्धकारान्।  जिघ्नसे- बाधसे॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** **महि** महत् **श्रवः** श्रवणीयमन्तरिक्षं **चित्रेभिः** चित्रैर्नानाविधैश्चायनीयैर्वा **रश्मिभिः** परि **यासि** परिगच्छसि । तथा **शर्धन्** वेगं कुर्वंस्त्वं **दाशुषः** हविर्दत्तवतो यजमानस्य **गृहे** स्थित्वा **विश्वानि** सर्वाणि **तमांसि** तमोरूपाणि रक्षांसि **जिघ्नसे** हंसि । एवं द्यावापृथिव्योः वर्तस इत्यर्थः ॥
@@ -187,8 +190,6 @@ O self-purifying one, you drive to great fame with your brilliant rays. Vaunting
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. has nothing in common with its match, vs. 2, until the end, where the two d pādas are identical: víśvāni dāśúṣo gṛhé “all (things) in the house of the pious man.” The two pādas are adapted to two very different themes: in 2 ‘all’ modifies vásūni ‘goods’ (c), which Soma will make flourish in the house of the pious, whereas in 7 the context is darker: ‘all’ modifies támāṃsi ‘dark shades’, which Soma smashes away in the same location.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
@@ -222,8 +223,6 @@ O flammender, du gehst zu hohem Ruhm mit glänzenden Strahlen; kühn vertilgst d
 Бросая вызов, ты разбиваешь весь  
 Мрак в доме почитателя (твоего).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

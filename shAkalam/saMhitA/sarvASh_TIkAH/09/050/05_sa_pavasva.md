@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - उचथ्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदिन्तम- अतिशयेन तर्पक। इन्दो- क्लेदनकर। इन्द्राय पीतये- इन्द्रानुभूतये। अख्नुभिः- व्यञ्जकैः।  गोभिः- चित्किरणैः। अञ्जानः- व्यञ्जितः। सः- तादृशः। पवस्व- क्षर॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मदिन्तम** मादयितृतम **इन्दो** सोम **अक्तुभिः** अञ्जनसाधनभूतैः **गोभिः** गोविकारैः पयोभिः **अञ्जानः** अज्यमानः संस्क्रियमाणः **सः** त्वम् **इन्द्राय** इन्द्रस्य **पीतये** पानाय **पवस्व**
@@ -172,10 +175,6 @@ Läutere du dich, Berauschendster, mit der Kuhmilch als Salbe gesalbt, o Saft, f
 
 Hell riesle, du berauschendster, gesalbt mit Milch und hellem Glanz Zum Trunk dem Indra, Indusaft!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

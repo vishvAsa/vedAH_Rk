@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अग्निस्तापसः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)
 _________
 **Morph**  
 aryamáṇam ← áryaman- (nominal stem)  
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    अर्यमणम्- सौशील्याधिदैवतम्। बृहस्पतिम्- मेधाधिदैवतम्। इन्द्रम्- ईशनाधिदैवतम्। वातम्-  प्राणाधिदैवतम्। विष्णुम्- सर्वव्यापिनं परमात्मानम्। सरस्वतीम्- रसचोदयित्रीम्। वाजिनम्-  गतिमन्तम्। सवितारम्- प्रेरकमात्मानम्। दानाय। चोदय॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतः अर्यमादीन् देवान् **दानाय** धनप्रदानाय **चोदय** स्तुत्या प्रेरय । तथा **वातं** वायुं **विष्णुं** **सरस्वतीं** **वाजिनम्** अन्नवन्तं बलवन्तं वा **सवितारं** **च** दानाय प्रेरय ॥
@@ -192,8 +195,6 @@ Den Arjaman, Brihaspati und Indra treib' zum Schenken an; Den Wind, Vischnu, Sar
 Вату, Вишну, Сарасвати  
 И Савитара, приносящего награду!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतस्य- प्रकृतिनियतेः। योनिम्- सदने। सीदन्- उपविशन्। आ- आभिमुख्येन। यः। ते-  भवतः। ऊर्मिः। देवावीः- देवकामः सन्। पवित्रे- भाजने प्रतीके। आ- मर्यादया। पर्यक्षरत्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव **यः** **देवावीः** देवकामः **ऊर्मिः** तरङ्गः **ऋतस्य** यज्ञस्य **योनिं** स्थानम् **आ** **सीदन्** **पवित्रे** **पर्यक्षरत्** परिक्षरति तमूर्मिं सृजतीति पूर्वत्र संबन्धः ॥
@@ -166,7 +169,6 @@ Your wave which, pursuing the gods, has streamed around in the filter, sitting o
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. is entirely a rel. cl. and most comfortably adjoins vs. 10 (see comm. immed. above) - pace Lüders (603-4), who attaches 11 to 12.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -192,10 +194,6 @@ Deine Welle, die göttereinladend auf der Seihe umgeflossen ist und sich auf den
 
 Mit deiner Welle, die ins Sieb, die Götter speisend, niederrann, Sich setzend auf des Opfers Schooss,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

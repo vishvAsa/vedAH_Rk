@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। पुनानः- पवमानः सन्। सः- तादृशः। ईशानः- ईश्वरः सन्। विश्वतः- सर्वतः।  नः- अस्मभ्यम्। रयिम्- दानयोग्यसंपदम्। वीरवतीम्- वीर्ययुख्नम्। इषम्- सत्सङ्कल्पम्। आ  भर- आहर॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **विश्वतः** सर्वस्य जगतः **ईशानः** ईश्वरः **सः** अभिषुतः **पुनानः** पूयमानस्त्वं **नः** अस्मभ्यं **रयिं** धनं **वीरवतीं** पुत्राद्युपेतम् **इषम्** अन्नं च **आ** **भर** आहर ॥
@@ -168,7 +171,6 @@ Being purified, bring us wealth and refreshment consisting of heroes, while you 
 <details><summary>Jamison Brereton Notes</summary>
 
 Note the echo across the b-c pāda boundary: … íṣam / ī́śānaḥ …
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -202,8 +204,6 @@ So bring uns rieselnder herbei, o Soma, heldenreiches Gut Und Labung, herrschend
 (Ты,) способный (на это), о сома – со всех сторон!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -214,7 +214,7 @@ So bring uns rieselnder herbei, o Soma, heldenreiches Gut Und Labung, herrschend
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे विद्वन् ! (सः) वह आप (विश्वतः ईशानः) चारों ओर से अपना अधिकार जमाते हुए (नः पुनानः) हम लोगों को पवित्र करते हुए (वीरवतीम्) बड़े-बड़े वीरों से युक्त (इषम् रयिम्) अन्न-धनादि सम्पत्ति से (आ भर) अपने जनस्थानों को परिपूर्ण करिये॥६॥
+पदार्थान्वयभाषाः -  (सोम) हे विद्वन् ! (सः) वह आप (विश्वतः ईशानः) चारों ओर से अपना अधिकार जमाते हुए (नः पुनानः) हम लोगों को पवित्र करते हुए (वीरवतीम्) बड़े-बड़े वीरों से युक्त (इषम् रयिम्) अन्न-धनादि सम्पत्ति से (आ भर) अपने जनस्थानों को परिपूर्ण करिये॥६॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

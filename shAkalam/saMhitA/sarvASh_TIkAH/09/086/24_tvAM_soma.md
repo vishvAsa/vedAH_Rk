@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - पृश्नयोजाः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अवस्यवः- रक्षाकामाः। विप्रासः- मेधाविन उपासकाः। सोम- रस। पवमानम्- पुनानम्। त्वाम्-  भवन्तम्। स्वाध्यः- शोभनध्यानाः। अनु अमदन्- अनुमदन्ति। इन्दो- क्लेदनशील रस। त्वाम्-  भवन्तम्। विश्वाभिः- सर्वैः। मतिभिः- मननैः। परिष्कृतम्- मण्डितम्। दिवस्परि- चित्ताकाशे।  सुपर्णः- मुमुक्षा। पक्षी मुमुक्षाप्रतीकः। आभरत्- आहरत्॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **पवमानं** **त्वां** **स्वाध्यः** सुमतयः सुकर्माणो वा **विप्रासः** विप्रा मेधाविनः स्तोतारः **अवस्यवः** रक्षाकामाः **अनु** **अमदन** अनुष्टुवन्ति । हे **इन्दो** **त्वां** **सुपर्णः** श्येनः **आभरत्** आहरत् । **दिवस्परि** द्युलोकस्योपरि । द्युलोकादित्यर्थः । कीदृशं त्वाम् । **विश्वाभिर्मतिभिः** सर्वाभिः स्तुतिभिः **परिष्कृतम्** अलंकृतम् ॥
@@ -232,7 +235,6 @@ Both hemistichs open with a distracted 2nd sg. acc. pronoun (t u vā́m). The ac
 The impf. amadan in b is wrongly tr. as a present in the published translation: correct to “did … applaud.” This may continue the account of the Vala myth, with the “very attentive poets” being the Aṅgirases themselves. It seems unlikely that it is the first action of the soma-stealing myth found in c.
 
 Once again the Pp. analyzes ā́/ abharat, but the sequence could instead be ā́/ bharat with an injunc.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -264,10 +266,6 @@ Dir, wenn du dich läuterst, o Soma, jubelten die Redekundigen wohlgesinnt, um G
 
 Dir, Soma, jauchzten andachtsvoll die Sänger zu, nach deiner Gunst verlangend, dir, dem flammenden, Dich, Indu, trug der Adler von dem Himmel her, dich, der durch alle Lieder du verherrlicht wirst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

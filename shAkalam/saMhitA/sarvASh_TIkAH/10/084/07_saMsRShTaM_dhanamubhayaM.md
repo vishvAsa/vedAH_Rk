@@ -3,7 +3,6 @@ title = "007"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+संसृष्टम्- सम्यक् विसृष्टम्। समाकृतम्- सम्यगानीतम्। उभयम्- अभ्युदयनिःश्रेयसात्मकं धनम्।  वरुणश्च- ऋताधिदेवता च। मन्युः- रुद्रश्च। अस्मभ्यम्- नः। दत्ताम्- प्रयच्छताम्। शत्रवः- ३    आवरणाख्यरिपवः। हृदयेषु। भियम्- भयं। दधानाः- धारयन्तः। पराजितासः- पराजिताः। अप  नि लयन्ताम्- अपगच्छन्तु निलीना भवन्तु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **संसृष्टम्** अविभागमापन्नम् **उभयम्** उभयविधं **धनं** **समाकृतं** सम्यगानीतम् **अस्मभ्यं** **दत्ताम्** । कः । **वरुणश्च** देवः **मन्युः** च । **भियं** भयं **हृदयेषु** **दधानाः** **शत्रवः** अस्मद्विरोधिनः **पराजितासः** पराजिताः **अप** **नि** **लयन्तां** अपनिलीना भवन्तु ॥ ॥ १९॥ ॥ ६ ॥
@@ -244,10 +247,6 @@ Beiderlei Beute, die zusammengeraffte und zusammengetriebene, sollen uns Varuna 
 
 Es mögen schenken Varuna und Manju uns das aufgehäufte beiderseits erlangte Gut; Von Furcht beschlichen in den Herzen mögen nun besiegt die Feinde sich verkriechen weit hinweg.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

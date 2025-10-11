@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देववीतये- दिव्यानुभूतये। सुष्वाणः- निष्पादितः सन्। नः- अस्मदर्थम्। सहो जुवः- सहनशीलजः  सन्। न- संप्रति। वर्चसे- तेजसे। रूपम्। आ भर- आहर॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **देववीतये** देवपानाय देवानां कामाय वा **सुष्वाणः** अभिषूयमाणोऽभिषुतो भव त्वम् । **सहः** शत्र्वभिभवनसमर्थं बलं **जुवः** । जु इति गत्यर्थः। शत्रून् प्रति शीघ्रगमनं च । यद्वा । सर्वतो गमनशीलं बलं च । **न** इति चार्थे । **वर्चसे** ।  वर्च दीप्तौ । दीप्त्यै सर्वत्र प्रकाशनाय **रूपं** च **नः** अस्मभ्यम् **आ** **भर** आहर प्रयच्छ॥
@@ -182,7 +185,6 @@ The simile in b, rūpáṃ ná (or rūpáṃ ná várcase), is difficult to inte
 
 arises from the parallelism between vss. 17 and 18. In the former we ask Soma to bring material goods, esp. livestock. Here in pāda a we request abstract qualities, “strength and speed,” and I suggest that rūpáṃ ná “as if (in) physical form” is assimiliating them to the material goods of the previous vs. Renou’s alt. interpr., given at the end of his n., “apporte-nous force et vitesse, tel un objet-concret,” is similar and preferable to his more elaborate first interpr.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -207,10 +209,6 @@ Bring uns die Überlegenheit, o Soma, Schnelligkeit wie Schönheit unserem Ausse
 
 Gewandheit bringe her und Kraft wie Schönheit, Soma, uns zum Glanz Zum Göttermahle ausgepresst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

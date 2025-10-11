@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - प्रभूवसुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। वह्निः- वाहकः सन्। जागृविः- जागरूकः सन्। देववीः- देवकामः सन्। सोम-  रस। मधुश्चुतम्- मधुस्रावकम्। कोशम्- प्रतीकं पात्रं वा। अभि- आभिमुख्येन। अति- अतिक्रम्य  च। पवस्व- क्षर॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **स** **वह्निः** वाहकः **जागृविः** जागरूकः **देववीः** देवकामस्त्वं मधुश्चुतं मधुस्रावि **कोशं** दशापवित्रमतिक्रम्य **अभि** **पवस्व** द्रोणकलशं प्रति क्षर ॥
@@ -179,10 +182,6 @@ Als Wagenpferd, o Soma, wachsam, läutere du dich, die Götter einladend, durch 
 
 So riesle Götter labend du, o Soma, munter fahrend, durch Zum Becher der von Honig trieft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

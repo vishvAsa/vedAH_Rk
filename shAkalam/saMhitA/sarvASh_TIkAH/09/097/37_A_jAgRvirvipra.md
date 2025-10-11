@@ -3,7 +3,6 @@ title = "037"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। रथिरासः- शोभनगतिसंपन्नाः। सुहस्ताः- शोभनहस्तोपलक्षितशोभनकर्माणः। अध्वर्यवः-  ध्वररहितकर्माणः। निकामाः- नितरां कामयुख्नाः। मिथुनासः- दम्पतिभूता जनाः। यं - यं प्रेममयं  रसम्। सपन्ति- स्पृशन्ति। सः। सोमः। जागृविः- जागरणशीलः सन्। विप्रः- मेधावी। पुनानः-  पूयमानः सन्। ऋता मतीनाम्- सत्यसंबद्धमतीः। आ- आभिमुख्येन। चमूषु- भाजनेषु प्रतीकेषु।  असदत्- निषीदति॥३७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 जागृविर्जागरणशीलः ऋता सुपांसुलुगितिषष्ठ्याआकारः । ऋतानां सत्यानां मतीनां स्तुतीनां विप्रोज्ञाता ससोमः पुनानः पूयमानःसन् चमूषु चमसेष्वासदत् आसीदति । मिथुनासः परस्परंसङ्गताः निकामाः नितराङ्कामयमानाः रथिरासः यज्ञस्यनेतारः सुहस्ताः कल्याणपाणयः अध्वर्यवः पवित्रे यं सोमंसपन्ति स्पृशन्ति । षपसमवाये । सपतिःस्पृश- तिकर्मेतिनैरुक्ताः ॥ ३७ ॥
@@ -230,13 +233,10 @@ in -ā, this is not correct: Lanman (Noun infl., 335) considers them more freque
 
 The standard tr. also construe gen. pl. matīnā́m with ṛtā́, whatever sense they ascribe to ṛtā́, e.g., Geldner “die rechten Wege der Gedanken,” Lüders “zu den Wahrheiten der Gedanken.” They may be correct, and I could revise my tr. accordingly: “In accordance with the truth of the thoughts, Soma …” However, the association of vípra- with matí- is very strong - I just noted it in 35b in the previous tṛca, and the two words occur in the same pāda numerous times: I.82.2=VIII.25.24 víprā … matī́, I.86.2 víprasya … matīnā́m, II.24.13 vípraḥ … matī́, III.5.3 vípraḥ … matīnā́m, III.30.20=50.4 matíbhiḥ … víprāḥ, IV.3.16 matíbhir vípraḥ, V.80.1 víprāso matíbhiḥ, VII.78.2 víprāso matíbhiḥ, IX.63.21 matī́víprāḥ, IX.85.7 víprāṇāṃ matáyaḥ,
 
-
 > 107.24
 víprāso matíbhiḥ, X.6.5 víprāso matíbhiḥ, X.25.10 matíṃ víprasya, X.64.16 matíbhiḥ … vípraḥ, X.123.1 víprā matíbhiḥ; cf. also IX.71.3, X.11.6 vépate matī.
 
 I therefore construe matī̃nā́m with vípraḥ in the published translation, as a loosely descriptive gen. In cd the phrase mithunā́saḥ … adhvaryávaḥ is taken by Geldner (fld. by Renou) as referring to the pair (or presumably multiple pairs, given the pl.) of Adhvaryu and Hotar. Although at least I.83.2, which he adduces for this sense, does seem to refer to that pair of two priests, in the dual, I think the pl. here instead refers to rivalrous priests at competing sacrifices, which must be implicit in Geldner’s rendering, given the pl. They could be pairs of Adhvaryu and Hotar or (more likely in my opinion) just multiple Adhvaryus, each performing in a separate sacrifice.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
@@ -270,8 +270,6 @@ Der muntre Sänger Soma liess sich nieder zur Zeit des Betens flammend in die Sc
 (Тот,) кого почитают преданные пары,  
 Адхварью, колесничие с умелыми руками.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

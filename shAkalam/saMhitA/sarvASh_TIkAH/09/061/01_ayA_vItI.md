@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील रस। ते- तव। मदेषु- हर्षे। यः- य इन्द्रः। नवतीर्नव- प्रभूतबन्धनानि।  अवाहन्- विनाशितवान्। तस्मा इन्द्राय। अया वीती- अनयानुभूत्या। परि स्रव- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **अया** अनेन रसेन **वीती** वीत्या इन्द्रस्य भक्षणाय **परि** **स्रव** परिक्षर । कीदृशेन रसेनेत्यत आह । **ते** तव **यः** रसः **मदेषु** संग्रामेषु **नवतीर्नव** इति नवनवतिसंख्याकाश्च शत्रुपुरीः **अवाहन** जघान । अमुं सोमरसं पीत्वा मत्तः सन्निन्द्र उक्तलक्षणाः शत्रुपुरीर्जघानेति कृत्वा रसो जघानेत्युपचारः ॥
@@ -188,8 +191,6 @@ be registered. Presumably ayā́vītī́is gesturing towards the physical ritual
 
 The unnamed referent in the rel. cl. of bc is of course Indra; the “nine and ninety” are fortresses / strongholds, as in IV.26.3 … púraḥ … náva sākáṃ navatī́ḥ śámbarasya. This referent is postponed to the 2nd vs.: púraḥ opens vs. 2.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -221,8 +222,6 @@ So ströme nun zum Trunk für den, o Indu, der in deinem Rausch Die neunundneunz
 Который в опьянениях тобой, о сок,  
 Разбил девяносто девять
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अयास्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। मदाय- हर्षाय तृप्तये। कम्- आनन्दभूतम्। अरुणम्- सोमम्। त्वाम्- भवन्तम्।  वयम्। गोभिः- चित्किरणैः। अञ्ज्मः- व्यञ्जयामः। नः- अस्माकम्। राये- दानयोग्यसंपदे। दुरः-  द्वाराणि। वि वृधि- विवृतानि कुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे सोम यम् **अरुणम्** अरुणवर्णं **त्वां** **मदाय** मदार्थं **वयम्** अङ्गिरसायास्याः **गोभिः** गोविकारैः पयोभिः **अञ्ज्मः** वासयामः संस्कुर्मः। **कम्** इति पूरणम् । स त्वं **नः** अस्माकं **राये** धनाय **दुरः** द्वाराणि **वि** **वृधि** विवृतानि कुरु ॥
@@ -200,10 +203,6 @@ Und dich, den Rötlichen, salben wir mit Milch zum Rauschtrank. Öffne uns die T
 
 Und dich, den rothen, salben wir mit Milch zum Rausche, schliesse du Die Thore uns zum Reichthum auf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 adaduḥ ← √dā- 1 (root)  
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवाः- अमराः। पुनः। ददुः- अयच्छन्। उत- अपि च। मनुष्याः- मर्त्याः। पुनर्ददुः। सत्यं  कृण्वानाः- सत्यं कुर्वन्तः। राजानः- रञ्जकाः। ब्रह्मजायाम्- बृहस्पतिपत्नीं वाचम्। पुनः। ददुः-  प्रायच्छन्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 लाभहेतुमाह। देवा ब्रह्मजायां जुहूं बृहस्पतये पुनरददुः। वैशब्दः प्रसिद्धवाची। उताप्यर्थे। मनुश्युआ अपि पुनरददुः। एवं देवमनुष्यैः क्रुतं दानं सत्यं यथार्थं कृण्वानाः कुर्वाणाः राजानोऽपि पुनस्तस्मै ददुः। एवमव्यवहार्यनिमित्तं पापमपि व्यनाशयन्निति भावः॥६॥
@@ -231,8 +234,6 @@ Die Götter gaben sie zurück, und die Menschen gaben sie zurück; die Könige, 
 Цари, держащие (свое) слово,  
 Пусть отдают обратно жену брахману!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

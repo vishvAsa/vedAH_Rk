@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - सिकता निवावरी
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -245,6 +243,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सख्युः- सुहृदः। सखा न- सुहृदिव। इन्दुः- स्यन्दनशीलो रसः। इन्द्रस्य- परमेश्वरस्य।  निष्कृतम्- सदनम्। प्रो- प्रकर्षेण। अयासीत्- गच्छति। सङ्गिरम्- मन्त्रम्। न प्रमिनाति- न  हिनस्ति। युवतीभिः- तरुणीभिः प्रियाभिः। मर्य इव- प्रियस्तरुण इव। सोमः- रसाधिदेवता।  शतयाम्ना पथा- अनन्तगतियुख्नमार्गेण। कलशे- भाजने प्रतीके। समर्षति- सम्यक् गच्छति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दुः** सोमः **इन्द्रस्य** **निष्कृतं** स्थानमुदरं **प्रो** **अयासीत्** प्रैव गच्छति । गत्वा च **सखा** सखिभूतः सोमः **सख्युः** इन्द्रस्य **संगिरं** सम्यग्गिरणाधारभूतमुदरं **न** **प्र** **मिनाति** न हिनस्ति । किंच **मर्यइव** **युवतिभिः** मर्त्यो यथा युवतिभिः सह संगतो भवति तद्वदयमपि सोमः युवतिभिर्मिश्रणशीलाभिर्वसतीवरीभिरद्भिः सह **समर्षति** संगच्छतेऽभिषवकाले । पश्चात् **सोमः** **शतयाम्ना** अनेकयानसाधनच्छिद्रोपेतेन **पथा** मार्गेण दशापवित्रसंबन्धिनि **कलशे** द्रोणकलशे गच्छतीति शेषः । यद्वा एकमेव वाक्यम् । यथा मर्यो युवतिभिः सह संगच्छते एवं कलशे शतयाम्ना पथा संगच्छतेऽद्भिः॥
@@ -267,8 +270,6 @@ As a young blood rushes together with young women, so does Soma— into the tub,
 <details><summary>Jamison Brereton Notes</summary>
 
 Pāda b strikes me as the quotation of a well-known general truth or proverb, providing the basis for the particular action of pāda a: Soma cannot let Indra down, because (of the old saw) “a comrade …” It’s also worth noting that the other occurrence of saṃgír- (X.89.9) is also the obj. of prá √mī. Renou also adduces IV.25.7 ná … sakhyám índraḥ … sáṃ gṛṇīte “Indra does not agree to companionship (with …).”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
@@ -294,10 +295,6 @@ Der Saft hat sich auf den Weg zu Indra´s Treffort gemacht; der Freund bricht ni
 
 Zum Ort des Indra ist der Indu vorgeeilt, der Freund verschmähet seines Freundes Beifall nicht; So wie der Jüngling zu den jungen Mädchen, eilt zum Kelch der Soma hin auf tausendfachem Pfad.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

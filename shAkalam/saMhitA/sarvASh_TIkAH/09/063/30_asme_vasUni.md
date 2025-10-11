@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मे- अस्मभ्यम्। सोम- रस। इन्दो- क्लेदनशील। दिव्यानि। पार्थिवा- भौमानि। विश्वा-  सर्वाणि। वार्या- वरणीयानि। वसूनि- धनानि। धारय॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** दीप्त **सोम** **दिव्यानि** दिवि भवानि **पार्थिवा** पार्थिवानि पृथिव्यां जातानि च **विश्वानि** सर्वाणि **वार्या** वार्याणि वरणीयानि **वसूनि** **अस्मे** अस्मासु **धारय** प्रक्षिप ॥ ॥३५॥
@@ -180,10 +183,6 @@ Verleih uns Schätze, o Soma, himmlische, irdische, o Saft, alle wünschenswerte
 
 O Soma, theil' die Güter uns des Himmels und der Erde zu, O Indu, alle Herrlichkeit.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

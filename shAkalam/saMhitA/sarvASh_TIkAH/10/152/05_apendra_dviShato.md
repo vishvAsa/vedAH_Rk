@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शासो भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ápa ← ápa (invariable)  
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    इन्द्र- परमेश्वर। द्विषतः- द्वेषिणः। मनः- चित्तम्। अप- अप जहि। जिज्यासतः- अस्माकं  जीर्णतामिच्छतः। वधम्- जहि। मन्योः- भवन्मननसाधकस्य। वरीयः- उत्तमम्। शर्म- भद्रम्।  वि- विशेषेण। यच्छ- देहि। वधम्- हिंसाम्। यवय- पृथक्कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **द्विषतः** द्वेष्टुः शत्रोः **मनः** **अप** जहि । **जिज्यासतः** अस्माकं वयोहानिमिच्छतश्च **वधं** हननसाधनमायुधं च **अप** जहि । **मन्योः** शत्रुसंबन्धिनः क्रोधाच्चास्मान् रक्ष। **वरीयः** उरुतरं **शर्म** सुख विशेषेण **यच्छ** देहि। **वधं** शत्रुकृतं हननं च **यवय** अस्मत्तः पृथक्कुरु ॥ ॥१०॥
@@ -218,8 +221,6 @@ Wend' Indra ab des Hasseers Sinn, des Siegeslustigen Geschoss, Gewähr uns Schut
 Распространи защиту от (его) ярости!  
 Прогони подальше смертельное оружие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

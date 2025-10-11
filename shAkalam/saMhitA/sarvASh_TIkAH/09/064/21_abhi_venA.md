@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -106,6 +104,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वेनाः- कान्ताः। अभि- अभितः। अनूषत- स्तुवन्ति। प्रचेतसः- प्रज्ञासंपन्नाः। इयक्षन्ति-  उपासितुमिच्छन्ति। अविचेतसः- प्रज्ञारहिताः। मज्जन्ति- पतन्ति॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वेनाः** कान्ताः स्तोतारः **अभि** **अनूषत** सोममभिष्टुवन्ति । **प्रचेतसः** सुमतयः **इयक्षन्ति** यष्टुमिच्छन्ति च । **अविचेतसः** । विशिष्टमतयो विचेतसः । अविचेतसो विपरीतमतय इत्यर्थः । **मज्जन्ति** निमज्जन्ति । ये सोमं नाभिष्टुवन्ति न यजन्ति च ते नरके पतन्तीत्यर्थः ॥
@@ -127,7 +130,6 @@ The seekers have cried out to (him); the discerning wish to attain (him). The un
 <details><summary>Jamison Brereton Notes</summary>
 
 On vená- see comm. ad VIII.100.5.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
@@ -153,10 +155,6 @@ Die Seher haben ihm zugeschrieen, die Klugen streben ihm zu; die Tore sinken unt
 
 Die Freunde haben ihn gerühmt, die Weisen opfern ihm mit Lust, Zu Grunde geht der Thoren Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

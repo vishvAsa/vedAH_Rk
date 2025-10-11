@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। सोमासः- रसाः। परावति- दूरे। ये। अर्वावति- समीपे। ये वा। अदः- अस्मिन्।  शर्यणावति- शरकाण्डभूमाविति वैदिककोशः। सा भौमभोगप्रतीकभूता। सुन्विरे- निष्पन्नाः॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एतदादिभ्यामृग्भ्यामिन्द्रार्थं सर्वत्र सोमाभिषवोऽस्तीत्याह । **ये** **सोमासः** सोमाः **परावति** विप्रकृष्टेऽतिदूरे देशे **ये** वा **अर्वावति** अन्तिके देश इन्द्रार्थं **सुन्विरे** अभिषूयन्ते अभ्यषूयन्त **ये** **वा** **शर्यणावति** । कुरुक्षेत्रस्य जघनार्धे शर्यणावत्संज्ञकं मधुररसयुक्तं सोमवत्सरोऽस्ति । **अदः** अस्मिन् सरसि सुरसा ये सोमाः इन्द्रायाभिषूयन्ते तेऽस्माकमभिमतफलं प्रयच्छन्त्विति वक्ष्यमाणेन संबन्धः ॥
@@ -162,8 +165,6 @@ The first two pādas contain antonymic locations.
 
 The location in c is taken by Geldner/Renou as a place name, “in Śaryaṇāvat,” but a place descriptor seems preferable, given the other locative expressions in these vss. On the word see comm. ad VIII.6.39 and Thieme, Unters. p. 40 n. 2.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -188,10 +189,6 @@ Die Somasäfte, die in der Ferne, die in der Nähe ausgepreßt werden, und die d
 
 Die Somatränke, welche fern gepresst sind, oder in der Näh Und dort auf somareicher Flur,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

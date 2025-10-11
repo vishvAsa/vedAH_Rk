@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नाभानेदिष्ठो मानवः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तदित्- तत्रैव। परिषद्वानः- इन्द्रपरिचारकाः। अग्मन्- अगच्छन्। पुरु- पुरूणि। सदन्तः-  सीदन्तः। नार्षदम्- नृषु स्थितमावरणम्। बिभित्सन्- भेत्तुमैच्छन्। शुष्णस्य- शोषणभावनस्य।  पुरुप्रजातस्य- बहुधा मनसि जातस्य। यत् गुहा- यद्गूहितं तत्। संग्रथितम्- मर्म। अनर्वा-  साधारणप्राणातीत इन्द्रः। विदत्- ज्ञातवान्॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तदित्** तत्रैव **नु** क्षिप्रम् **अस्य** इन्द्रस्य **परिषद्वानः** परितो वर्तमानाः परिचारका रश्मयः **अग्मन्** प्रकाशनार्थमगच्छन् । **पुरु** पुरूणि कृत्रिमाणि **सदन्तः** सीदन्तोऽसुराः 'नार्षदं नृषदः पुत्रं **बिभित्सन्** भेत्तुमैच्छन् । किंचायं **शुष्णस्य** एतन्नामकस्यासुरस्य **पुरुप्रजातस्य** बहुप्रादुर्भावस्य **संग्रथितं** मर्मं **विदत्** वेत्ति । अयमिन्द्रः **यत्** असुरस्य दुर्ज्ञेयं मर्म **गुहा** गुहायां गोपितं तद्विदत्॥
@@ -257,10 +260,6 @@ Da kamen noch dessen Belagerer; viele Burgen belagernd wollten sie den Narsada z
 
 So sind nun seine Umlagerer gekommen, sich vielfach lagernd suchen sie den [Dämon] Nārschada zu zerspalten; der schrankenlose [vgl. Vers 5] vertheile des Çuschna zusammengehäuftes Gut, das im Versteck des vielfach sich erzeugenden ruht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

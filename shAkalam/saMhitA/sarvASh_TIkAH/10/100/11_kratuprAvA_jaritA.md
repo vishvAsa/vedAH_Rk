@@ -3,7 +3,6 @@ title = "011"
 devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - दुवस्युर्वान्दनः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य- इन्द्रस्य। सिख्नये- अनुभूतिप्राप्तये। दिव्यं ऊधः- अदितेरूध इति भावः। पूर्णम्। क्रतुप्रावाः-  स प्रज्ञापूरकः। शश्वताम्- शाश्वततत्त्वानाम्। जरिता- रसनिष्पादकः। अवः- रक्षकः। इन्द्रः-  परमेश्वरः। इत्- एव। सुतावताम्- रसवताम्। भद्रा- मङ्गळा। प्रमतिः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **क्रतुप्रावा** कर्मणां पूरकः । ‘ प्रा पूरणे'। आतो मनिन्” इत्यादिना वनिप् । **जरिता** स्तोता। यजमानं साधु सोमः कृत इति स्तौति । यद्वा । **शश्वतां** सर्वेषां जरयिता **इन्द्र** **इत्** इन्द्र एव **सुतावतां** सोमवतां यजमानानाम् **अवः** रक्षकः **भद्रा** भद्रया स्तुत्या **प्रमतिः** । **यस्य** इन्द्रस्य **सिक्तये** सेकाय पानाय **ऊधः** उद्धततरं द्रोणकलशं **पूर्णं** सोमेन पूर्णं भवति स एवावः स एव प्रमतिरिति ॥
@@ -245,10 +248,6 @@ Ein Sänger, der die Gedanken erfüllt, ist die Hilfe aller. Indra ist die gute 
 
 Ein Sänger, der den Geist erfüllt und allen hilft, ist Indra, und der gütig für den Opfrer sorgt, Sein Himmels-Euter ist zum Giessen angefüllt; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सद्यः- क्षणेन। पुरः- बन्धनानि वशमानीतवान्। इत्थाधिये- सत्यधारणायुख्नाय। दिवोदासाय-  देवसेवकाय। अध- अनन्तरम्। शम्बरम्- जडप्रतीकमेघघनम्। शम्बरशब्दो मेघनामसु पठितः।  त्यम्- तम्। तुर्वशं यदुम्- वेगवन्तं मनुष्यम्। यदुशब्दो मनुष्यनामसु पठितः।  वशमानीतवान्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सद्यः** एकस्मिन्नेवाह्नि **पुरः** शत्रूणां पुराणि सोमरसोऽवाहन् । **इत्थाधिये** सत्यकर्मणे **दिवोदासाय** राज्ञे **शम्बरं** शत्रुपुराणां स्वामिनम् **अध** अथ **त्यं** तं **तुर्वशं** तुर्वशनामकं राजानं दिवोदासशत्रुं **यदुं** यदुनामकं राजानं च वशमानयञ्च । अत्रापि सोमरसं पीत्वा मत्तः सन्निन्द्रः सर्वमेतदकार्षीदिति सोमरसे कर्तृत्वमुपचर्यते ॥
@@ -153,8 +156,6 @@ to avā́han in 1c, as the parallel IV.26.3 just cited demonstrates. But avā́h
 The third pāda of this vs. is radically incomplete, consisting only of a particle, a demon., and two acc. PNs: ádha tyáṃ turváśam yádum. On purely structural grounds, it would make sense to make these parallel to śámbaram in b, as objects of avā́han (in 1c).
 
 However, this structural argument runs into problems of mythological content. Although Turvaśa and Yadu are sometimes enemies of Indra (see, e.g., VII.19.2), at other times they are under Indra’s protection. In particular, in the Indra cycle from which IV.26.3 and IV.30.14, the parallels to our vss. 1-2ab, were cited above, T + Y are rescued by Indra: IV.30.17 utá tyā́turváśāyádū, … / índraḥ … apārayat “And Indra brought these two, T + Y, to the far shore,” just three vss. later than the smiting of Śambara. Note further that IV.30.17a is very like our pāda, a dimeter line with an introduction. disyllabic connective, a form of the demonstr. syá- / tyá-, and the two names, though with a dual dvandva turváśāyádū rather than two individual acc. sgs. On this basis, I’m afraid the simple solution of taking T + Y as further victims of Indra should be abandoned, in favor of supplying (or at least assuming) a positive verb to govern them, such as Geldner’s (n. 2c) “errettete” or Renou’s “sauva.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -187,8 +188,6 @@ Die Burgen all' und Çambara, dem frommen Divodasa hold, Und auch den Turvaça J
 Чья мысль так (жаждала этого), (убил) Шамбару,  
 А также (спас) Турвашу (и) Яду!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

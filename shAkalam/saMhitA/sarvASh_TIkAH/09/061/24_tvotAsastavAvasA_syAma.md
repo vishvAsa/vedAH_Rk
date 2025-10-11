@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अमहीयुः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    तव- भवतः। अवसा- रक्षया। त्वोतासः- रक्षिताः। वन्वन्तः- त्वां संभजन्तः। आमुरः-  वृत्रमारकाः। स्याम- भवेम। सोम- रस। व्रतेषु- अस्माकं प्रकृतिनियत्यनुस्यूतधर्मेषु। जागृहि-  बुद्ध्यस्व॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **तव** त्वदीयेन **अवसा** रक्षणेन **त्वोतासः** त्वया रक्षिताः सन्तः **वन्वन्तः** शत्रून् भजमानाः **आमुरः** तेषामभिमारकाः **स्याम** भवेम । **व्रतेषु** अस्माकं कर्मसु **जागृहि** प्रबुद्धो भव ॥
@@ -151,7 +154,6 @@ O Soma, be watchful over the commandments.
 Pāda a consists of the etymologically identical phrases tvótāsaḥ ‘aided by you’ and távā́vasā ‘with your help’, both containing forms of the 2nd sg. prn. and nominal forms of √av ‘help, aid’.
 
 Pāda b contains a curious verbal periphrasis, syā́ma vanvántaḥ “may we be combatting,” with opt. to √as as aux. plus the pres. act, part. to vanóti. This expression does not seem to be conveying anything different from the opt. to the same pres. stem, vanuyā́ma (5x), e.g., X.38.3 tváyā vayáṃ tā́n [śátrūn] vanuyāma “With you might we combat those (rivals).” As noted above, vratá- in this pāda may have been chosen to recall vṛtráphonologically, forming a faint ring with the √vṛ forms in 22 vṛtrā́ya … vavrivā́ṃsam. It may even be that jāgṛhi ‘be watchful’ evokes a form of √han, as in 20a jághnir vṛtrám; see also jahī́in 26b.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -184,8 +186,6 @@ Durch deine Hülfe, deinen Schutz lass schlagen die Verderber uns, Bewach', o So
 Да будем мы теми, кто преодолевает препятствия!  
 О сома, следи за заветами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

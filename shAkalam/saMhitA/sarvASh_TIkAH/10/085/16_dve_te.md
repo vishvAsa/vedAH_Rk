@@ -3,7 +3,6 @@ title = "016"
 devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 cakré ← cakrá- (nominal stem)  
@@ -200,6 +198,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूर्ये- सावित्रि। ते- तव। द्वे चक्त्रे- कालमहाकालभूते। कालः पक्षायनादिसंघातः।  महाकालस्तदतीतस्तद्वान्। ब्रह्माणः- मन्त्रयुख्नाः। ऋतुथा- यथाकालम्। विदुः- जानन्ति। अथ-  अपि च। एकम्। चक्रम्- महाकालाख्यं पक्षायनाद्यवयविनं तदतीतम्। यत्। गुहा- हृदयगुहायां  निहितम्। तदद्धातयः- मेधाविन इति यास्कः। इत्- एव। विदुः- जानन्ति। ॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथ स्वयमेव स्वात्मानं प्रति सूर्यां वदति । हे **सूर्ये** ते तव **द्वे** **चक्रे** प्रज्ञाते पुरा दृष्टे द्वे एव चन्द्रसूर्यात्मके **ऋतुथा** ऋतुषु विनिर्दिष्टे चक्रे **ब्रह्माणः** ब्राह्मणाः विदुः । **अथैकं** **चक्रं** तृतीयं संवत्सरात्मकं **गुहा** गुहायां निहितं **यत्** अस्ति **तदद्धातय** **इत्** । एतन्मेधाविनामसु पठितम् (नि. ३. १५, २१ ) । मेधाविन एव **विदुः** जानन्ति ॥
@@ -247,8 +250,6 @@ Zwei Räder deines Wagens, o Suriā, kennen die Brahmanen der Wahrheit gemäss; 
 А единственное колесо, которое сокрыто,  
 Его знают только мудрые.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

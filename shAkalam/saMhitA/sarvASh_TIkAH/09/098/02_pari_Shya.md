@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - अंबरीष ऋजिश्वा च
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्यः- सः। इन्दुः- हृदयस्पर्शी रसः। सुवानः- निष्पन्नः सन्। रथे- रथस्थः। न वर्म- कवचमिव।  अव्ययम्- सरणशीलरसस्य स्वस्थान एव रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्।  रसवर्धकम्। प्रतीकम्। परि अव्यत- परिव्ययति। द्रुणा- द्रोणकलशेन प्रतीकेन। अभि हितः।  धाराभिः- विच्छित्तिरहितप्रवाहैः। हियानः- प्रेरितः। अक्षाः- क्षरति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवानः** सूयमानः **स्यः** स सोमः **अव्ययम्** अविमयं पवित्रं **परि** पवते । तत्र दृष्टान्तः । **रथे** **न** यथा रथे स्थितः पुरुषः **वर्म** कवचम् **अव्यत** परिव्ययति । व्ययतेर्लुङि वर्णलोपछान्दसः । **अभि** **हितः** अभितः प्रेरितः यद्वा स्तोतृभिरभिष्टुतः सः **इन्दुः** सोमः **द्रुणा** द्रुममयेन द्रोणकलशेन **हियानः** । ‘हि गतौ वृद्धौ च'। तेन पूर्यमाणः सन् **धाराभिः** **अक्षाः** क्षरति । क्षरतेर्लुङि रूपम् ॥
@@ -219,8 +222,6 @@ The pāda-final avyáyam (a) and avyata (b) echo each other.
 
 The actual target of the simile in b, the nominative equivalent of Soma in the frame, is gapped, being represented only by the adjuncts ráthe and várma: “like (a man/warrior) on a chariot his armor.” In the published translation “a man” should be in parens.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -253,8 +254,6 @@ Gepresst, hat wie im Wagen er mit wollnem Panzer sich umhüllt, Entsandt zur Kuf
 Сок сомы, заключенный в дерево,  
 Потек струями, поторапливаемый (жрецами).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

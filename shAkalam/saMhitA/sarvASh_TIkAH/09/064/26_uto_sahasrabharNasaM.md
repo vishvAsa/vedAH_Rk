@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उतो- अपि च। सहस्रभर्णसम्- अनन्तभरणम्। मखस्युवम्- यज्ञकामम्। वाचम्- मन्त्रम्। इन्दो-  क्लेदनशील। सोम- रस। पुनानः- पूयमानः सन्। आ भर- आहर॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उतो** अपि च हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानस्त्वं **सहस्रभर्णसं** सहस्रभरणां **मखस्युवं** धनकामां **वाचम्** अस्मभ्यम् **आ** **भर** आहर ॥
@@ -182,10 +185,6 @@ Und bring uns die Tausend aufwiegende Rede, o Soma, die Belohnung erwartende, we
 
 Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, gereinigter!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

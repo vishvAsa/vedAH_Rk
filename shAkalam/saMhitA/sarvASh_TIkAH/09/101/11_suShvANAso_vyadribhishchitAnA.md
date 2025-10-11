@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "मनुः सांवरणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - मनुः सांवरणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गोः त्वचि अधि- चित्किरणसंबन्धिरूपे। अद्रिभिः- स्थैर्यप्रतीकैर्गिरिभिर्ग्रावभिः। सुवाणासः-  निष्पन्नाः। वि- विशेषेण। चितानाः- चेतनयुख्नाः। वसुविदः- संपद्विदः। अस्मभ्यम्- नः।  अभितः। इषम्- सदिच्छाम्। समस्वरन्- सम्यक् शब्दयन्ति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गोः** अनडुहः **अधि** **त्वचि** अधिषवणचर्मणि **चितानाः** ज्ञायमानाः **अद्रिभिः** ग्रावभिर्विविधं **सुष्वाणासः** सूयमानाः **वसुविदः** वसुनो लम्भका एते सोमाः **अस्मभ्यम्** **इषम्** अन्नम् **अभितः** **समस्वरन्** सम्यक् शब्दयन्ति । प्रयच्छन्तीति यावत् ॥
@@ -206,7 +209,6 @@ Both Geldner and Renou take the verbal idiom in cd as transitive, or at least co
 
 with an acc. of goal. See, e.g., IX.110.8 índram abhí … sám asvaran “ They cried out in unison towards Indra” (sim. IX.106.11, 67.9). The conversion of the preverb abhí into the adverbial abhítaḥ would not be responsible for transitivizing the idiom. Cf., e.g., X.27.8 hávā íd aryó abhítaḥ sám āyan “The cries of the Stranger came together from all sides.” I agree that íṣam is an unexpected goal for this idiom, but I think we have to live with it.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -238,8 +240,6 @@ Sie, von den Steinen ausgepresst, hellleuchtend auf der Rinderhaut, Sie rauschen
 Со всех сторон они прошумели нам вместе  
 Жертвенную усладу, (эти) находящие блага.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "023"
 devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - भिषगाथर्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 asi ← √as- 1 (root)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ओषधे। त्वम्। उत्तमा- श्रेष्ठा। असि- भवसि। तव। वृक्षाः- तरुशाखाः। उपस्तयः-  अधःशायिन्य एव। यः। अस्मान्- नः। अभिदासति- हिनस्ति। सः। उपस्तिरस्तु- अधःशायी  भवतु॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **ओषधे** सोमाख्ये **त्वम्** ओषधीनामन्यासाम्' **उत्तमासि** । **तव** **वृक्षाः** सर्वे **उपस्तयः** अधःशायिन एव । तथा सति **सः** **उपस्तिरस्तु** अधःशायी भवतु **योऽस्मान्** **अभिदासति** अभिहिनस्ति भ्रातृव्य इति ॥ ॥ ११ ॥
@@ -225,8 +228,6 @@ O Kraut, du bist der Oberherr; die Bäume sind dir unterthan; Und so sei uns auc
 Кто нам угрожает!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - औषधीस्तुतिः
@@ -242,7 +243,7 @@ O Kraut, du bist der Oberherr; die Bäume sind dir unterthan; Und so sei uns auc
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  लतारूप ओषधियों के वृक्ष सहारे हैं, जिनके ऊपर लताएँ चढ़ती हैं और फैलती हैं, ऐसे ही रोगियों का सहारा वैद्य होता है, जिसके सहारे वे स्वस्थ होते हैं और पुष्ट होते हैं ॥२३॥
+भावार्थभाषाः -  लतारूप ओषधियों के वृक्ष सहारे हैं, जिनके ऊपर लताएँ चढ़ती हैं और फैलती हैं, ऐसे ही रोगियों का सहारा वैद्य होता है, जिसके सहारे वे स्वस्थ होते हैं और पुष्ट होते हैं ॥२३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

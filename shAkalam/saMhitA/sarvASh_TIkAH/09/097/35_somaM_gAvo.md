@@ -3,7 +3,6 @@ title = "035"
 devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - पराशरः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१३    सोमम्- रसम्। धेनवः- प्रीणयित्र्यः। गावः- चिद्रश्मयः। वावशानाः- कामयमानाः सरन्ति।  सोमम्- रसम्। विप्राः- मेधाविनः। मतिभिः। पृच्छमानाः- जिज्ञासमानाः अभिगच्छन्ति।  अज्यमानः- सिच्यमानः। सुतः- निष्पन्नः। सोमः। पूयते- शोधितो भवति। सोमे- रसे। त्रिष्टुभा  अर्काः- मन्त्राः। संनवन्ते- सङ्गच्छन्ते॥३५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 धेनवः प्रीणयित्र्योगावः सोमं वावशानाः कामयमानाभवन्तिविप्रामेधाविनः स्तोतारः मतिभिः पृच्छमानाः पृच्छन्तोभवन्ति । अज्यमानः गोभिः सिच्यमानः सुतोभिषुतः सोमः ऋत्विग्भिः परिपूयते । तथा त्रिष्टुभः त्रिष्टुब्रूपाः अर्काः अस्माभिः क्रियमाणाः एतेमन्त्राः सोमे सन्नवन्ते सङ्गच्छन्ते ॥ ३५ ॥
@@ -225,8 +228,6 @@ Soma, pressed, is purified while being anointed [/driven]; to Soma the  chants, 
 <details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas of this vs. are variants of the last two of the previous vs. (34cd), with the repeated yanti of 34 gapped, and redistribution of some of the lexicon: the two participles in 34cd, prchámānāḥ and vāvaśānā́ḥ, switch positions, with each paired with a more natural subject (cows bellowing 35a, poets asking 35b), and the thoughts of 34d are relegated to the instr. in 35b with their producers, the viprā́ḥ, taking over the subject role in 35b, again a more natural configuration. We can consider 35ab as a complex poetic repair of 34cd.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
@@ -260,8 +261,6 @@ Zum Soma gehen rauschend hin die Kühe, zum Soma Sänger mit Gebeten flehend; Ge
 Сома, выжатый, очищается, когда его умащают.  
 В соме звучат (все) вместе песни, (стихи) триштубх.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

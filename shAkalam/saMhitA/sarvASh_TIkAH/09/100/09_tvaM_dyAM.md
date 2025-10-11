@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - रेभसूनू काश्यपौ
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -176,6 +174,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान रस। त्वम्। द्यां च- दिवं च। पृथिवीं च- भूमिं च। अति जभ्रिषे- अत्यन्तं  बिभर्षि। महित्वना- माहात्म्येन। द्रापिम्- द्रापणशख्निम्। प्रति अमुञ्चथाः- ससर्जिथ॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **महिव्रत** महाकर्मन् बहुविधकर्मन् सोम **त्वं** **द्यां** द्युलोकं च पृथिवीं **च** **अति** **जभ्रिष** अत्यन्तं बिभर्षि ।' डुभृञ् धारणपोषणयोः । तस्य छान्दसे लिटि सर्वविधीनां छन्दसि विकल्पितत्वादत्रेडागमः । अन्तरिक्षे सोमात्मनेति पृथिव्यां लतारूपेणेत्येवं लोकद्वयवर्तित्वम्। हे **पवमान** क्षरन् सोम त्वं **महित्वना** महत्त्वेन युक्तः सन् **द्रापिं** कवचं **प्रति** **अमुञ्चथाः** प्रतिमुञ्चसि संवृणोषि ॥ ॥ २८ ॥
@@ -198,7 +201,6 @@ You have fastened on your mantle in your greatness, self-purifying one.
 <details><summary>Jamison Brereton Notes</summary>
 
 The contents and phraseology of this vs. are furthest from its match, vs. 3, but as noted in the published translation, dyā́ṃ ca … pṛthivī́ṃ ca in 9ab recalls 3cd (vásūni) pā́rthivā divyā́ca “heavenly and earthly goods.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
@@ -233,8 +235,6 @@ Du hast dich, o weitherrschender, durch Erd' und Himmel ausgedehnt, Du zogst dir
 О Павамана, с (большим) великолепием.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -245,7 +245,7 @@ Du hast dich, o weitherrschender, durch Erd' und Himmel ausgedehnt, Du zogst dir
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (महिव्रत) हे बड़े व्रतवाले परमात्मन् ! (त्वं) आप (द्यां) द्युलोक (च) और (पृथिवीं) पृथिवीलोक को (अति जभ्रिषे) अत्यन्त ऐश्वर्यसम्पन्न बनाते हो। (पवमान) हे सबको पवित्र करनेवाले परमात्मन् ! (महित्वना) अपने महत्त्व से (द्रापिं) रक्षारूपी कवच से (प्रत्यमुञ्चथाः) आच्छादित करते हो॥९॥
+पदार्थान्वयभाषाः -  (महिव्रत) हे बड़े व्रतवाले परमात्मन् ! (त्वं) आप (द्यां) द्युलोक (च) और (पृथिवीं) पृथिवीलोक को (अति जभ्रिषे) अत्यन्त ऐश्वर्यसम्पन्न बनाते हो। (पवमान) हे सबको पवित्र करनेवाले परमात्मन् ! (महित्वना) अपने महत्त्व से (द्रापिं) रक्षारूपी कवच से (प्रत्यमुञ्चथाः) आच्छादित करते हो॥९॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

@@ -3,7 +3,6 @@ title = "024"
 devataa = "अग्निः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पवित्रो वसिष्ठो वोभौ वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- या। अर्चिवत्- तेजोयुख्ना। ते- तव। पवित्रम्- शोधकशख्निरस्ति। तेन- तया। नः-  अस्मान्। पुनीहिः- पावय। नः- अस्मान्। ब्रह्मसवैः- मन्त्रयुख्नोपासननिष्पन्नैः। पुनीहि-  शोधय॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने पवित्रं** शोधकम् **अर्चिवद्** अर्चिमत् - छन्दसीर इति मतुपो वत्वं - सौरादितेजोयुक्तं  
@@ -182,8 +185,6 @@ with the impulsions of sacred formulations purify us.
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. has both physical and conceptual purifying instruments: the flame-sieve of 23 and the bráhman- also introduced in 23, which, in the cmpd brahma-savá-, also provides a transition to Savitar and his impulsions in vs. 25.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
@@ -218,8 +219,6 @@ Welch lichtes Läutrungsnetz du hast, mit dem, o Agni, läutre uns, Mit Andachts
 О Агни, ею очисть нас!  
 Побуждениями священных слов очисть нас!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

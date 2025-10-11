@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। सः। अयम्- स एषः। पवित्रे- शुद्धे। दिवस्परि- चिदाकाशे। आ- आभिमुख्येन।  सिन्धोरूर्मा- हृत्समुद्रस्थभावनातरङ्गे। रघुयामा- अनायासगमनः। व्यक्षरत्- विशेषेण  प्रवहति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयं** **सः** सोमः **पवित्रे** **आ** सिच्यमान इति शेषः । **सिन्धोः** जलस्राविण्याः **ऊर्मा** ऊर्मौ संघाते **व्यक्षरत्** विविधं क्षरति । स इत्युक्तं क इत्याह । **यो** **दिवस्परि** द्युलोकस्योपरि **रघुयामा** लघुगमनो देवप्राप्तौ सोऽयमिति संबन्धः ॥
@@ -195,10 +198,6 @@ Er ist es, der in raschem Laufe vom Himmel in die Seihe, auf die Welle des Strom
 
 Er ist es, der in schnellem Lauf vom Himmel zu der Seihe hin In Stromes Welle niederrinnt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

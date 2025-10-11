@@ -3,7 +3,6 @@ title = "006"
 devataa = "असुनीतिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+असुनीते- प्राणनेत्रि। अस्मासु। चक्षुः- दर्शनेन्द्रियम्। पुनः। धेहि- देहि। प्राणम्। इह- अत्र।  नः- अस्मभ्यम्। भोगम्। धेहि। उच्चरन्तम्- नभसि चरन्तम्। सूर्यं- सवितारम्। ज्योक्- चिरम्।  पश्येम। अनुमते- अनुकूले। नः- अस्मान्। स्वस्ति- मङ्गळं यथा भवति तथा। मृळय-  आनन्दय॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **असुनीते** प्राणदायिनि देवि **अस्मासु** । अस्मदीये सुबन्धावित्यर्थः । **पुनः** **चक्षुः** प्रकाशकं नयनम् । ईक्षणसामर्थ्यमित्यर्थः। किंच **प्राणं** **पुनः** अस्मासु **धेहि** स्थापय । वयं च **ज्योक्** चिरम् **उच्चरन्तम्** उद्गच्छन्तं **सूर्यं** **पश्येम** । हे **अनुमते** देवि **स्वस्ति** अविनाशं यथा स्यात्तथा **नः** अस्मान् **मृळय** सुखय ॥
@@ -236,7 +239,6 @@ The purely vaidika prANapratiShThA mantra is the below triShTubh invoking the lu
 
 Interestingly, the tAntrika version, with roots in the pUrvAmnAya, invokes parA as prANa-shakti in conjunction with hamsAmbA-hamsAnandanAtha dyad. Most modern practitioners known to us perform a mishra version using both.
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -275,8 +277,6 @@ Gib wieder uns das Auge, Asunīti, den Odem wieder, schenke uns Genuss hier; Der
 Пусть мы долго видим, как восходит солнце!  
 О Анумати, помилуй нас на счастье!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

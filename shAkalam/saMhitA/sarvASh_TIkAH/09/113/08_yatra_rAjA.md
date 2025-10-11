@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 rā́jā ← rā́jan- (nominal stem)  
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। राजा- रञ्जकः। वैवस्वतः- शमदमाधिदेवता यमो भवति। यत्र। दिवः- चित्ताकाशस्य।  अवरोधनम्- निरोधो भवति। यत्र। अमूः- ताः। यह्वतीः- महत्यः। आपः- मूलशख्निधारा  विद्यन्ते। तत्र। माम्। अमृतम्- अमरणधर्माणम्। कृधि- कुरु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्र** यस्मिल्ँलोके वैवस्वतः विवस्वत्पुत्रः **राजा** भवति । **यत्र** च लोके **दिवः** आदित्यस्य **अवरोधनं** भूतानां प्रवेशनम् । किंच यत्र लोके यह्वती: महत्यः **अमूः** इमा गङ्गाद्याः **आपः**। तिष्ठन्ति । तत्र तादृशे लोके **माममृतं** मरणधर्मरहितं कृधि कुरु । मम देवत्वं प्रापयेत्यर्थः । ततः कारणात् **परि** **स्रव** ॥
@@ -243,8 +246,6 @@ where those youthfully exuberant waters are, there make me immortal. – O drop,
 <details><summary>Jamison Brereton Notes</summary>
 
 The standard view of avaródhanam is that it defines a closed or fortified place (Geldner “der verschlossene Ort des Himmels”; Renou “le rempart du ciel”; Doniger [133] “where heaven is enclosed”) - deriving ródhana- from √rudh ‘confine, hem in’. But I take it instead to the other √rudh (/ruh) ‘grow’ and interpr. it as ‘means of ascent’, exactly like róhaṇaṃ diváḥ in I.52.9 (q.v.). So my vision of heaven is a more welcoming place, that extends a ladder down for us to make the ascent.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
@@ -278,8 +279,6 @@ Wo König ist Vivasvats Sohn, und wo des Himmels Heiligthum, Wo ewig strömt des
 Там сделай меня бессмертным!  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

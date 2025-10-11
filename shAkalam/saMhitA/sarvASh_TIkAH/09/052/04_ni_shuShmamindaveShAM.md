@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - उचथ्यः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषाम्- एतेषाम्। जनानाम्- वृद्धानाम्। शुष्मम्- बलम्। यः। अस्मान्- नः। आदिदेशति।  पुरुहूत- बहुभिराहूत। तम्। नि- नितरां स्वीकुरु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पुरुहूत** बहुभिराहूत **इन्दो** सोम त्वं **यः** शुष्मो येषां शत्रुजनानां बलम् **अस्मान्** **आदिदेशति** बाधार्थमाह्वयति **एषां** शत्रुजनानां तं **शुष्मं** बलं **नि** न्यक् कुर्विति शेषः ॥
@@ -181,10 +184,6 @@ Halte, o Saft, die Wut dieser nieder, du Vielgerufener der Menschen, wer uns auc
 O Indu, solches Menschen Kraft o vielgerufner, schütt' herab, Der wider uns auf Unheil sinnt.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -195,7 +194,7 @@ O Indu, solches Menschen Kraft o vielgerufner, schütt' herab, Der wider uns auf
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (इन्दो) हे परमात्मन् ! (पुरुहूत) हे अखिल विद्वानों से स्तुति किये गये ! (एषाम् जनानाम् बलम् नि) इन विद्वानों के बलों को बढ़ाइये (यः अस्मान् आदिदेशति) जो कि आप हम लोगों का अनुशासन करते हैं॥४॥
+पदार्थान्वयभाषाः -  (इन्दो) हे परमात्मन् ! (पुरुहूत) हे अखिल विद्वानों से स्तुति किये गये ! (एषाम् जनानाम् बलम् नि) इन विद्वानों के बलों को बढ़ाइये (यः अस्मान् आदिदेशति) जो कि आप हम लोगों का अनुशासन करते हैं॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

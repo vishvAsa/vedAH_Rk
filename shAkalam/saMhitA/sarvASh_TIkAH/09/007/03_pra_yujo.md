@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रियः- मुख्यः। वृषा- वर्षकः। सत्यः। अध्वरः- ध्वररहितः सोमः। सुद्म अभि- यज्ञमभिलक्ष्य।  वने- वननीये हृदये। युजो वाचः- योगसंबन्धिश्रुतीः। प्र- प्रकर्षेण। चक्रत्- शब्दितवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एतदेव दर्शयति । **वृषा** कामानां वर्षकः **सत्यः** सत्यभूतः **अध्वरः** हिंसावर्जितः **अग्रियः** मुख्यः **सोमः** **सद्म** यज्ञगृहम् **अभि** प्रति **वने** उदके **युजः** युक्ताः **वाचः** **प्र** **अव** **चक्रदत्** अवक्रन्दति । शब्दान् करोतीत्यर्थः ॥
@@ -177,8 +180,6 @@ toward his seat: he is the real rite.
 <details><summary>Jamison Brereton Notes</summary>
 
 The phrase satyó adhvaráḥ, which I take as a separate nominal cl., but which can simply be another appositional nominative as most take it, must identify soma as, as it were, the embodiment of the ritual, the substance that must be present for the adhvaráḥ to occur.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -211,8 +212,6 @@ Voreilend dem gesellten Lied, laut wiehert in der Flut der Hengst, Das wahre Opf
 Бык ревет в деревянном сосуде.  
 Он (устремился) к (своему) месту, (эта) истинная жертва.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

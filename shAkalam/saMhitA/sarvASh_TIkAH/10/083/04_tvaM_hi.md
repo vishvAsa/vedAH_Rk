@@ -3,7 +3,6 @@ title = "004"
 devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - मन्युस्तापसः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    त्वम्। हि- खलु। मन्यो- रुद्र। अभिभूत्योजाः- परेषां जयशीलबलः। स्वयंभूः- स्वतःसिद्धः।  भामः- दीप्तः क्रुद्धो वा। अभिमातिषाहः- अहङ्कारनाशकः। विश्वचर्षणिः- सर्वद्रष्टा। सहुरिः-  सहनशीलः। सहावान्- शख्निमान्। अस्मासु। पृतनासु- युद्धेषु। ओजः- बलम्। धेहि-  धारय॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मन्यो** **त्वम्** **अभिभूत्योजाः** परेषामभिभावुकबलः **स्वयंभूः** स्वयमेवोत्पन्नः **भामः** क्रुद्धः **अभिमातिषाहः** । अभितो हिंसन्तीत्यभिमातयः शत्रवः । तेषामभिभविता । **विश्वचर्षणिः** सर्वेषां द्रष्टा **सहुरिः** सहनशीलः **सहावान्** सहनवान् ईदृशस्त्वम् **अस्मासु** **पृतनासु** संग्रामेषु **ओजः** बलं **धेहि** देहि ॥
@@ -211,10 +214,6 @@ Denn du, Manyu, von überlegener Stärke, bist der selbstgewordene, feindebezwin
 
 Denn deine Kraft ist unbezwinglich, Manju, selbsteigner Grimm bist du, den Feind bezwingend, Der ganzen Menscheit Sieger, Ueberwinder, leg in den Schlachten auf uns deine Stärke.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

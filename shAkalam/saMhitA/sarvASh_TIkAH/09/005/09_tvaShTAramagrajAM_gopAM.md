@@ -3,7 +3,6 @@ title = "009"
 devataa = "त्वष्टा"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agrajā́m ← agrajā́- (nominal stem)  
@@ -171,6 +169,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रजाम्- अग्रे जातम्। गोपाम्- पालकम्। पुरोयावानम्- पुरतो गच्छन्तम्। त्वष्टारम्-  तनूकरणम्। आ हुवे- आह्वये। इन्द्रः- परमेश्वरः। वृषा- वर्षकः। हरिः- आकर्षकः। प्रजापतिः-  जनानां पालकः। इन्दुः- क्लेदनकरः। पवमानः- पुनानः सोमः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अग्रजाम्** अग्रे जातं **गोपां** प्रजानां पालयितारं **पुरोयावानं** देवानां पुरस्ताद्गन्तारं **त्वष्टारं** देवम् **आ** **हुवे** अहमाह्वयामि यज्ञे । **हरिः** हरितवर्णः **पवमानः** **इन्दुः** सोमः **इन्द्रः** देवानामीश्वरः **वृषा** कामानां वर्षिता च **प्रजापतिः** प्रजानां पालयिता च भवतीति ।
@@ -222,8 +225,6 @@ Den Hüter Tvaschtar rufe ich, den erstgebornen Führer ihn, Indu ist Indra, Sti
 Капля – (это) Индра, бык золотистый.  
 Павамана – (это) Праджапати.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

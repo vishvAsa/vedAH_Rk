@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - कश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजिनः- अश्वभूताः प्राणभूता इति भावः। शुक्रासः- शुभ्राः शुद्धा इति भावः। सोमासः- रसाः।  गव्या- ज्ञानेच्छया। अश्वया- प्राणेच्छया। वीरया- वीर्येच्छया। आशवः- शीघ्राः। प्र- प्रकर्षेण।  असृक्षत- सृज्यन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजिनः** बलवन्तः **शुक्रासः** शुक्रा उज्ज्वला: **आशवः** वेगवन्तश्च **सोमासः** सोमाः **गव्या** गवेच्छया **अश्वया** अश्वेच्छया च **वीरया** पुत्रेच्छया च **प्र** **असृक्षत** ऋत्विग्भिः सृज्यन्ते ॥
@@ -150,8 +153,6 @@ In addition to the link to vs. 3 just mentioned, pāda c contains a clever echo 
 
 That earlier pāda ends with the neut. s-stem śávaḥ ‘strength’; 4c ends vīrayā́śávaḥ, to be analyzed as two words vīrayā́āśávaḥ “with a yen for heroes the swift ones,” the latter being the nom. pl. m. of the adj. āśú-. But the final + initial vowels have entirely coalesced, and given the accentuation of both words and the underlying long final vowel of the first word, they could have been split vīrayā́*śávaḥ with the latter entirely matching the independent sstem form in 2a.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -176,10 +177,6 @@ Die preisgewinnenden Renner wurden losgelassen, die Somasäfte, im Verlangen nac
 
 Voll Gier nach Rind und Ross und Mann sind Somatränke ausgeströmt, Die raschen, starken, glänzenden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

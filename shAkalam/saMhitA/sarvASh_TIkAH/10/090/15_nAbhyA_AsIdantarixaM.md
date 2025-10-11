@@ -3,7 +3,6 @@ title = "१५ नाभ्या आसीदन्तरिक्षं"
 devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - नारायणः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 āsan ← √as- 1 (root)  
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य पुरुषस्य। सप्त- सप्त छन्दांसि। परिधयः। त्रिः सप्त- द्वादश मासाः पञ्चर्तवस्त्रय इमे  लोका असावादित्य एकविंश इति तैत्तिरीयके। एत एव। समिधः कृताः- इन्धनसाधनभूताः। यत्-  यदा। देवाः। यज्ञम्- एवंविधमुपासनम्। तन्वानाः- विस्तृतवन्तः। तदा। पशुम्- द्रष्टारम्।  पुरुषम्- शारीरिकम्। अबध्नन्- सर्वेश्वराय पुरुषाय चित्ते निरोधं कृतवन्तः॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यथा चन्द्रादीन् प्रजापतेर्मनःप्रभृतिभ्योऽकल्पयन तथा **अन्तरिक्षादीन्** **लोकान्** प्रजापतेः नाभ्यादिभ्यो देवाः **अकल्पयन्** उत्पादितवन्तः । एतदेव दर्शयति । **नाभ्याः** प्रजापतेर्नाभेः **अन्तरिक्षमासीत्** । **शीर्ष्णः** शिरसः **द्यौः** **समवर्तत** उत्पन्ना। अस्य **पद्भ्यां** पादाभ्यां **भूमिः** उत्पन्ना। अस्य **श्रोत्रात्** **दिशः** उत्पन्नाः ॥
@@ -207,7 +210,6 @@ _________
 
 तथा सर्वान् लोकान् अकल्पयन् । 'दीर्घादटि समानपादे' इति रुत्वम् ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -245,8 +247,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 Когда боги, совершая жертвоприношение,  
 Привязали Пурушу как (жертвенное) животное.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

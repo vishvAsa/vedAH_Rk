@@ -3,7 +3,6 @@ title = "033"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 iyám ← ayám (pronoun)  
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+१०    इयम्- एषा। वधूः। सुमङ्गळीः- शोभनमङ्गळा। समेत- सङ्गच्छत। इमाम्- एताम्। पश्यत।  अस्यै- एतस्यै। सौभाग्यम्- सुमङ्गळम्। दत्त्वा। अथ- अनन्तरम्। अस्तम्- स्वस्वगृहम्। वि  परेतन- परागच्छत। अस्तं वि परेतनेति श्रुतेः वध्वा आशीर्वादार्थं अस्वैराः कुटुम्बिन एव सम्बोधिता  इति ज्ञायते॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इयं** **वधूः** **सुमङ्गलीः** शोभनमङ्गला । अतः **इमां** सर्वं आशीःकर्तारः **समेत** संगच्छत । तां **पश्यत** च । तां संगताश्च दृष्ट्वा **अस्यै** ऊढायै सौभाग्यं **दत्वाय** दत्त्वा **अथ** **अस्तम्** । गृहनामैतत् । स्वस्वसंबन्धिनं **वि** **परेतन** विविधं परागच्छत ॥
@@ -225,8 +228,6 @@ Schöngeschmückt ist diese Braut; kommt alle, beschauet sie; nachdem ihr dersel
 Пожелайте ей счастья  
 И разойдитесь восвояси!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

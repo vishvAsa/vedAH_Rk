@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे रसाः। विप्रयन्तः- मेधाकामाः। रोदसोः- द्यावापृथिव्योः। पृष्ठानि- उच्चकोटिस्थानानि।  व्यानशुः- व्याप्तवन्तः। उत- अपि च। इदम्- एतत्। उत्तमं रजः- श्रेष्ठं लोकम्। तेषामुच्चकोटिमिति  भावः। व्यानशुः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एते** सोमाः **रोदसो:** द्यावापृथिव्योः **पृष्ठानि** **विप्रयन्तः** विविधं गच्छन्तः **व्यानशुः** व्याप्नुवन्ति । **उत** अपि च **इदमुत्तमं** **रजः** द्युलोकं व्यानशुः । आहुतिद्वारेणेति भावः । रोदसोरित्यत्रान्तरिक्षोऽभिप्रेतः ॥
@@ -163,7 +166,6 @@ and this highest airy space.
 See remarks ad vs. 3.
 
 The part. viprayántaḥ presumably belongs to the lexeme ví-prá √i, but note that it could also be interpr. as belonging to a denom. *vipra-yá- ‘behave like [/seek] an inspired poet’, which would connect this vs. further with the poetic pervasion of vs. 3. The suggested denom. stem is not attested but could of course be easily formed, and I’m tolerably sure this pun was meant. Note vipāscítaḥ and vipā́, both in the matching vs. 3. I would now slightly alter the tr. to “going forth widely [/behaving like inspired poets].”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -199,8 +201,6 @@ Vorschreitend haben sie erreicht des Himmels und der Erde Höhn Und diesen höch
 Достигли поверхности двух половин мироздания,  
 А также этого высшего пространства.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

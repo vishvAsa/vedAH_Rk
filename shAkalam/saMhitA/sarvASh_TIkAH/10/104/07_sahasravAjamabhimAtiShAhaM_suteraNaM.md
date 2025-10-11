@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अष्टको वैश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रवाजम्- प्रभूतान्नम्। अभिमातिषाहम्- अहङ्काराभिभवितारम्। सुतेरणम्- रसे रममाणम्।  मघवानम्- सम्पद्वन्तम्। सुवृख्निम्- शोभनस्तुतिवेद्यम्। अप्रतीतम्- अप्रतिगतम्। इन्द्रम्- ३    परमेश्वरम्। गिरः- वाचः। उप भूषन्ति- मण्डयन्ति। जरितुः- रसनिष्पादकस्य। नमस्याः-  स्तुतयः। पनन्त- स्तुवन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रवाजम्** अपरिमितान्नमपरिमितबलं वा **अभिमातिषाहम्** अभिमातीनां सर्वतो हिंसकानां शत्रूणामभिभवितारं **सुतेरणम्** अभिषुते सोमे रममाणं **मघवानं** धनवन्तं **सुवृक्तिं** शोभनस्तुतिकम् **अप्रतीतं** युद्धेऽन्यैरप्रतिगतम् **इन्द्रं** **गिरः** स्तुतिरूपा वाचः **उप** **भूषन्ति** अलंकुर्वन्ति । तदेवाह। **जरितुः** स्तोतुः **नमस्याः** स्तुतयः **पनन्त** स्तुवन्ति ॥
@@ -202,10 +205,6 @@ Der tausend Siegespreise gewinnt, die Nachstellungen bemeistert, am Soma seine F
 
 Dem tausendstarken, der den Feind bewältigt, am Saft sich freut, dem mächt'gen, den man feiert, Dem unbesiegten Indra nahn die Lieder, des Sängers Ehrfurcht muss ihn hoch bewundern.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

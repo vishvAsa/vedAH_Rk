@@ -3,7 +3,6 @@ title = "006"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 - ऋषिः - तान्वः पार्थ्यः
 - छन्दः - प्रस्तारपङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। नः- अस्मान्। देवावश्विना- प्राणेशौ। शुभस्पती- शोभनपालकौ। मित्रावरुणा-  मित्रावरुणौ। धामभिः- स्वसदनैः। उरुष्यताम्- रक्षतम्। सः। महः- महतीम्। रायः- सम्पदम्।  एषते- प्राप्नोति। धन्वेव- मरुभूमिमिव। दुरिता- अघम्। अति- अतिक्रामति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **शुभस्पती** शुभस्योदकस्य पती **अश्विना** अश्विनौ **देवौ** **नः** अस्मान् **धामभिः** आत्मीयैः शरीरैः **उरुष्यतां** रक्षताम् । किंच **मित्रावरुणौ** आत्मीयैः शरीरैरुरुष्यतां रक्षताम् । यं यजमानं पुरुषममी देवा रक्षन्ति **सः** **महः** महान्ति **रायः** धनानि **एषते** आभिमुख्येन गच्छति प्राप्नोति । किंच **दुरिता** दुरितानि शीघ्रम् **अति** अतिगन्तातिक्रान्ता च भवति । तत्र दृष्टान्तः । **धन्वेव** । यथा पथिको निरुदकान् देशानतिक्रामति तद्वदित्यर्थः ॥
@@ -242,10 +245,6 @@ Und die beiden Götter Asvin, die Herren der Schönheit, Mitra und Varuna sollen
 
 Und die beiden Götter, die Açvinen, die Herrn des Glanzes und Mitra und Varuna mit ihren Scharen mögen uns hülfreich sein; zu grossem Reichthum dringt der [, dem sie helfen,] hin und durch Gefahren wie durch wüste Lande.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

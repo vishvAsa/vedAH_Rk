@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - पवित्रो वसिष्ठो वोभौ वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियम्- प्रेमभाजनम्। पनिप्नतम्- मन्त्रान् शब्दयन्तम्। स्तुत्यर्थे पनिशब्दः। युवानम्- तरुणम्।  आहुतीवृधम्- हव्यवर्धकं सोमम्। नमः- नमस्कारम्। बिभ्रतः- धारयन्। उप अगन्म-  आगच्छामः॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रियं** सर्वस्य प्रीणयितारं **पनिप्नतम्** अत्यन्तं शब्दायमानं **युवानं** तरुणम् **आहुतिवृधम्** आहुतिभिर्वर्धनीयं पवमानं वयं **नमः** हविर्नमस्कारं वा **बिभ्रतः** धारयन्तः सन्तः **उप** **अगन्म** उपगच्छेम । गमेर्लुङि ‘ मन्त्रे घस' ' इति च्लेर्लुकि सति ‘म्वोश्च' इति नकारः। पनिप्नतम् । पनेः स्तुत्यर्थस्य यङ्लुकि रूपम्। दाधर्ति दर्धर्ति' इति सूत्रे इतिकरणस्य प्रदर्शनार्थत्वादत्राभ्यासस्य निगागम उपधालोपश्च निपात्यते ॥
@@ -152,8 +155,6 @@ have we come, bearing homage.
 The hapax āhutī-vṛ́dh- could be either passive (as in the published translation, also Geldner) or act.
 
 ‘strengthening the oblation’ (Renou). Scarlatta (514) considers both possibilities and opts, weakly, for the former. Either could certainly work in context. The long final vowel -tī- is found only here, versus the standard ā́huti-. This can either be a metrical lengthening of the stem vowel, since *āhutĭ-vṛ́dham, with 3 (or actually 4) light syllables in a row, would produce an unacceptable cadence. Or it can be an instr. sg. to the -ti-stem (see inconclusive disc. in Scarlatta.), which would clinch the interpr. of the cmpd as passive ‘strengthened by the oblation’. I weakly favor the latter.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
 <details open><summary><h2>28-29 ...{Loading}...</h2></summary>
@@ -186,8 +187,6 @@ Dem lieben, wunderherrlichen dem Jüngling, der am Guss sich freut Sind Ehr' erw
 Юноше, усиливающемуся от возлияний,  
 Мы подошли, неся поклонение.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "ऊर्ध्वसद्मा"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "ककुप्"
 - ऋषिः - ऊर्ध्वसद्मा
 - छन्दः - ककुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देव- द्योतनशील। देवयुः- द्योतनकामः सन्। देवयुः- देवकामः सन्। इषस्पते- सदिच्छापालक।  द्युम्नम्- द्योतकम्। बृहत्- महत्। यशः। अभि- अभितः। दीदिहि- दीपय। मध्यमं कोशम्-  अन्नमानसयोर्मध्यस्थं प्राणमयकोशम्। वि युव- विशेषेण सद्भावनया मिश्रय। अथवा असद्भावनया  विगमय॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इषस्पते** अन्नस्य पते हे **देव** स्तोतव्य सोम **देवयुः** देवकामस्त्वं **द्युम्नं** द्योतमानं **बृहत्** प्रभूतं **यशः** अन्नमस्मभ्यम् **अभि** **दिदीहि** आभिमुख्येन प्रकाशय। प्रयच्छेत्यर्थः । आमन्त्रितस्याविद्यमानवत्त्वेन पादादित्वादनिघातः । किंच **मध्यमम्** अन्तरिक्षस्थितं **कोशं** मेघं **वि** **युव** वृष्ट्यर्थं विगमय विश्लेषय ॥
@@ -193,8 +196,6 @@ The impv. didīhí in b is accented because it follows the pāda-init. complex v
 The notion that “the middle bucket” (kóśa- madhyamá-) is the rain cloud goes back to Sāyaṇa. and makes good sense, esp. given the explicit rain in the next vs. (10c).
 
 It is possible that the impv. didīhí ‘illuminate’ in the first hemistich is meant to evoke lightning in this context, although it is not otherwise found in this usage, as far as I can tell.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
@@ -228,8 +229,6 @@ O Herr des Trankes, strahle her, die Götter liebend, Gut und grossen Glanz, o G
 Опустоши средний сосуд!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -240,7 +239,7 @@ O Herr des Trankes, strahle her, die Götter liebend, Gut und grossen Glanz, o G
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (द्युम्नम्) दीप्तिवाला (बृहत्, यशः) बड़े यशवाला (इषस्पते) हे ऐश्वर्य्यों के पति परमात्मन् ! (अभि, दिदीहि) आप हमको ऐश्वर्य्य प्रदान करें। (देवयुः) दीप्ति को प्राप्त (देव) दिव्यस्वरूप परमात्मन् ! (मध्यमम्, कोशम्) अन्तरिक्षकोश को (वि, युव) आप हमें विशेषरूप से समाश्रित करें॥९॥
+पदार्थान्वयभाषाः -  (द्युम्नम्) दीप्तिवाला (बृहत्, यशः) बड़े यशवाला (इषस्पते) हे ऐश्वर्य्यों के पति परमात्मन् ! (अभि, दिदीहि) आप हमको ऐश्वर्य्य प्रदान करें। (देवयुः) दीप्ति को प्राप्त (देव) दिव्यस्वरूप परमात्मन् ! (मध्यमम्, कोशम्) अन्तरिक्षकोश को (वि, युव) आप हमें विशेषरूप से समाश्रित करें॥९॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

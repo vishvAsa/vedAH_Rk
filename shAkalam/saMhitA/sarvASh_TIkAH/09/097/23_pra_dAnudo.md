@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "कर्णश्रुद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - कर्णश्रुद्वासिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+९    दानुदः- दात्रे दायकः। दिव्यः। दानुपिन्वः- दात्रे सेचकः। पिवि सेचने। ऋताय-  प्रकृतिनियतिभूतसत्यस्थायोपासकाय। ऋतम्- प्रकृतिनियतिभूतसत्यम्। सुमेधाः-  शोभनमेधासंपन्नः। पवते- क्षरति। वृजन्यस्य- बलस्य। धर्मा- धर्ता। भुवत्- अभवत्। राजा-  रञ्जकः। दशभिः- दशदिग्वर्तिभिः। रश्मिभिः- किरणैः। भूम- प्रभूतम्। प्र भारि- प्रधार्यते॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 दिव्योदिविभवः दानुदः दातृभ्योधनादीनान्दाता तदेवाह दानुपिन्वः पिविसेचने कर्मण्यणित्यण् दातृभ्यः कामानां रक्षयिता सुमेधाः शोभनप्रज्ञः सोमः ऋताय सत्यभूता- येन्द्राय तं सत्यभूतमात्मीयं रसम्पवते प्रकर्षेण क्षरति । राजा दीप्यमानः सोमः वृजन्यस्य साधुबलस्य धर्मा धारयिता भुवद्भवति । किञ्च दशभिः एतत्सञ्ज्ञकाभीरश्मिभिः कर्म- करणार्थमश्नुवानाभिः अङ्गुलिभिः भूम प्रभूतं प्रभारि प्रभार्यते चिणिरूपं ॥ २३ ॥
@@ -234,7 +237,6 @@ This vs. identifies Soma as ‘truth’ (ṛtám b) and also contains in c the p
 
 The ten reins are presumably the fingers of the presser, as is usual for ten anything in IX.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -244,6 +246,7 @@ habitual/generic, “is” will have to do.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -276,8 +279,6 @@ Des Himmels weiser Träufler, reichlich träufelnder ergiesst den heil'gen Saft 
 Он был поддерживателем (всего) общинного, (этот) царь.  
 Десятью поводьями он был принесен на землю.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

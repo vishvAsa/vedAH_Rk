@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - इन्द्रः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दासमार्यम्। विचाकशत्- पश्यन्। विचिन्वन्- अन्विष्यन्। अयम्- एषोहम्। एमि- आगच्छामि।  पाकसुत्वनः- रसनिष्पादकस्य रसम्। पिबामि- अनुभवामि। धीरम्- धारणाकुशलम्। अभि  चाकशम्- अभिपश्यामि॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अथेन्द्रो ब्रवीति । **विचाकशत्** पश्यन् यजमानान् **दासम्** उपक्षपयितारमसुरम् **आर्यम्** अपि च **विचिन्वन्** पृथक्कुर्वन् **अयम्** अहमिन्द्रः **एमि** यज्ञं प्रति गच्छामि। यज्ञं गत्वा च **पाकसुत्वनः** । पचतीति पाकः । सुनोतीति सुत्वा । हविषां पक्तुः सोमस्याभिषोतुर्यजमानस्य पाकेन विपक्वेन मनसा सोमस्याभिषोतुर्वा यजमानस्य संबन्धिनं सोमं **पिबामि** । तथा **धीरं** धीमन्तं यजमानम् **अभि** **अचाकशम्** अभिपश्यामि । योऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
@@ -192,7 +195,6 @@ Indrāṇī now says that this dead animal should be given to Vr̥ṣhākapi, es
 
 Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly. 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -229,10 +231,6 @@ Ich ziehe umher, Umschau haltend und zwischen Dasa und Arier scheidend. Nun trin
 
 Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich trinke den Soma dessen, der mit redlichem Sinne ihn braut, und beschaue [mit Wohlgefallen] den verständigen. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

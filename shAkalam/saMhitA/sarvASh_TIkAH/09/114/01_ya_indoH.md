@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "पङ्क्तिः"
 - ऋषिः - कश्यपः
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 índoḥ ← índu- (nominal stem)  
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- पुनानस्य। इन्दोः- क्लेदनशीलस्य रसस्य। यः। धामानि- स्थानानि। अनु अक्रमीत्-  अनुक्रामति अनुभवतीति भावः। यः। ते- तव। सोम- रस। मनः- चित्तम्। अविधत्- परिचरति।  तम्। सुप्रजाः। इति। आहुः- अवदन्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानस्य** पूयमानस्य **इन्दोः** सोमस्य **धामानि** स्थानानि द्रोण कलशादीनि यद्वा धामानि तेजांसि **यः** ब्राह्मणः **अनु** **अक्रमीत्** अनुक्रामति अनुगच्छति **तं** जनं **सुप्रजाः** शोभनप्रजननः कल्याणपुत्रादिप्रजायुक्त इत्याहुः । ‘नित्यमसिच् प्रजामेधयोः' इत्यसिच् समासान्तः । यः सौममभिषुणोति स पुत्रादियुक्तो भवतीत्यर्थः । किंच हे **सोम** **यः** मनुष्यः **ते** त्वदर्थं **मनः** **अविधत्** करोति । यद्वा । ते त्वदीयं मनोऽविधत् परिचरति । विधतिः परिचरणकर्मा। तमपि कल्याणजननमित्याहुः । तस्मात्त्वं **परि** **स्रव** ॥
@@ -277,8 +280,6 @@ Wer nach den Bräuchen des rieselnden Soma wandert, den nennt man »reich an tre
 Кто, о сома, посвятил тебе (свою) мысль.  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

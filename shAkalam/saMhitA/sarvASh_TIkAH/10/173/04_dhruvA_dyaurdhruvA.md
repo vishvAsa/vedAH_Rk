@@ -3,7 +3,6 @@ title = "004"
 devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - ध्रुवः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 dhruvā́ ← dhruvá- (nominal stem)  
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    ध्रुवा- स्थिरम्। द्यौः- नभः। ध्रुवा- स्थिरा। पृथिवी- भूमिः। इमे- एते। पर्वताः- गिरयः।  ध्रुवासः- स्थिराः। ध्रुवम्- स्थिरम्। विश्वम्- सर्वम्। इदम्- एतत्। जगत्- भुवनम्। अयम्-  एषः। विशाम्- प्रजानाम्। ध्रुवः- स्थिरः। राजा- नृपः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 द्यौर्ध्रुवा स्थिरा भवति। पृथिवी च ध्रुवा स्थिरा भवति। इमे द्रुश्यमानाः पर्वता महीधराश्च ध्रुवासः स्थिराः। इदं विश्वं सर्वं जगद्ध्रुवं स्थिरं भवति। एवमेवायं विशां प्रजानां राजा स्वामी सन् ध्रुवः स्थिरो भवतु॥४॥
@@ -231,8 +234,6 @@ Fest steht der Himmel, fest die Erd' und fest stehn diese Berge hier; Fest steht
 Тверд весь этот мир,  
 Тверд этот царь племен.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

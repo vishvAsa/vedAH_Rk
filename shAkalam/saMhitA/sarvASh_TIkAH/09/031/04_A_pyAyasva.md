@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ प्यायस्व। सोम- रस। ते- भवन्तम्। विश्वतः- सर्वतः। वृष्ण्यम्- वर्षकं बलम्। समेतु- सङ्गतं  भवतु। सङ्गथे- सङ्गतिकरणे। वाजस्य- अन्नार्थम्। भव॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं वायुभिरद्भिश्च **आ** **प्यायस्व** प्रवृद्धो भव । **ते** त्वां **विश्वतः** **वृष्ण्यं** वर्षयोग्यं , बलं **समेतु** संगच्छताम् । **संगथे** संग्रामे **वाजस्य** अन्नस्य प्रापकः **भव** ॥
@@ -166,7 +169,6 @@ _______________________
 आप्यायस्व समेतु त इति गायत्री ॥ इयञ्चाग्निकाण्डे 'मा नो हिंसीत्' इत्यत्र व्याख्यास्यते यत्राम्नायते । हे सोम आप्यायस्व वर्धस्व त्वत्प्रसादात् विश्वतः वृष्ण्यं शुक्लं समेतु समागच्छतु । भव च वाजस्यान्नस्य सङ्गथे सङ्गमनायैवेति ॥
 
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -190,7 +192,6 @@ From all sides, O Soma;
 Be strong in the gathering of might.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 Soma, wax great. From every side may vigorous powers unite in thee:  
@@ -213,8 +214,6 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 Со всех сторон твоя бычья сила, о сома!  
 Будь на месте стечения наград!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - भृगुर्वारुणिर्जमदग्निर्वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अन्तरिक्षेण- प्राणमयेन कोशेन। यातवे- चरितुम्। राजा- सोमो रसः। पवमानः- पुनानः सन्।  मनावधि- ज्ञानपूर्णहृदये। मन ज्ञाने। मेधाभिः। ईयते- गच्छति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मनौ** मनुष्ये यागं कुर्वाणे सति । यद्वा । मनावधि । मनुर्मन्तव्यो यज्ञः । तस्मिन् **पवमानः** पूयमानः पुनानो वा **राजा** । राजशब्देन सोमोऽभिधीयते । सोमं राजानमक्रीणन् ' (ऐ. ब्रा. १.२७) इत्यादिषु दृष्टत्वात् । स राजा **मेधाभिः** स्तुतिभिः सह **ईयते** गच्छति । किमर्थम् । **अन्तरिक्षेण** आकाशमार्गेण द्रोणकलशं प्रति **यातवे** यातुम् । द्रोणाभिगमनकाले हि स्तोतृभिः स्तूयते खलु ॥
@@ -151,8 +154,6 @@ take it to √yā/ī ‘speed’ (so also Sāyaṇa., who glosses gacchati). In 
 
 śatagvínam gávām póṣam, lit. “thriving of cattle that possesses hundredfold cattle” (vel sim.), redundantly codes the cattle twice (-gvínam gávām).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -177,10 +178,6 @@ Der König zieht durch die dichterischen Gedanken geläutert unter Manu aus, um 
 
 Durch Lieder wird der flammende, beim Menschen angefleht, der Fürst, Zu gehen durch den Raum der Luft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - बृहन्मतिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -121,6 +119,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समीचीनाः- सङ्गताः। अनूषत- स्तुवन्ति। हरिम्- आकर्षकम्। अद्रिभिः- ग्रावभिः जडप्रतीकैः।  हिन्वन्ति- प्रेरयन्ति। ऋतस्य यौनौ- ऋतसदने। सीदत- हे सोमा निषीदत॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **समीचीनाः** सम्यगञ्चिताः संगताः स्तोतारः **अनूषत** स्तुवन्ति । किंच सोमं **हरिं** हरितवर्णं **हिन्वन्ति** प्रेरयन्ति गमयन्ति **अद्रिभिः** ग्रावभिः । यस्मादेवं तस्मात् **ऋतस्य** यज्ञस्य **योनौ** स्थाने **सीदत** निषण्णा भवत हे देवाः ॥ ॥ २९ ॥
@@ -163,10 +166,6 @@ Vereint haben sie gesungen; den Falben treiben sie mit den Steinen zum Laufe. Se
 
 Vereinigt haben sie gejauchzt, durch Steine spornen sie das Ross; Nun setzt euch in des Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

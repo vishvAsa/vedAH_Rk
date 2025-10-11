@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - शासो भारद्वाजः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292);; repeated line  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 indra ← índra- (nominal stem)  
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। नः- अस्माकम्। मृधः- युद्धकारिणः। वि- विशेषेण। जहि- नाशय। पृतन्यः-  युद्धमिच्छतः। नीचा यच्छ- अधः पातय। यः। अस्मान्- नः। अभिदासति- उपक्षपयति। तम्।  अधरम्- अधमम्। तमः- अन्धकारम्। गमय॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **नः** अस्माकं **मृधः** संग्रामकारिणः शत्रून् **वि** **जहि** विनाशय । तथा **पृतन्यतः** पृतना: सेना आत्मन इच्छतो युयुत्समानानपि **नीचा** **यच्छ** । नीचीनमवाङ्मुखं यच्छ। गमय । **यः** शत्रुः **अस्मान्** **अभिदासति** अभित उपक्षपयति तम् **अधरं** निकृष्टं **तमः** अन्धकारं मरणलक्षणं **गमय** प्रापय ॥
@@ -218,8 +221,6 @@ Zerschlage, Indra, unsern Feind, wirf nieder, die, uns kämpfend nahn, Wer uns v
 Кто нам угрожает,  
 Отправь (того) в нижний мрак!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

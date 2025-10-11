@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - अवत्सारः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। स्वर्विदः- स्वर्गविदे उपासकाय। जायमानः- प्रादुर्भूतः। महान्- महात्मा।  अभवः। इन्दो- हृदयस्पर्शिन्। विश्वान्- सर्वान्। अभि- अभितः। इत्- एव। असि- भवसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम त्वं **स्वः** सर्वं **विदः** यजमानाय प्रयच्छ । अपि च **जायमानः** प्रादुर्भवन्नेव **महान्** पूजनीयः **अभवः** असि । किंच हे **इन्दो** सोम त्वं **विश्वानित्** सर्वानेव शत्रून् **अभि** **असि** तेजसाभिभवसि ॥ ॥ १६ ॥
@@ -196,10 +199,6 @@ Pavamana, finde das Sonnenlicht! Bei deiner Geburt wardst du der Große. Du Saft
 
 Verleibe Glanz, o flammender, kaum erst geboren warst du gross, Ja, alle überragest du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

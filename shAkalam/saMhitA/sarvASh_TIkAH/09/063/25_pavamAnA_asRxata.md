@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - निध्रुविः काश्यपः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वानि- सर्वाणि। काव्या- दर्शनानि प्रति। शुक्रासः- शुद्धाः। इन्दवः- क्लेदनकराः। पवमानाः-  पुनानाः। सोमाः- रसाः। असृक्षत- सृज्यन्ते॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शुक्रासः** उज्ज्वलाः **इन्दवः** दीप्ताः **पवमानाः** क्षरन्तः **सोमाः** **विश्वानि** **काव्या** काव्यानि स्तोत्राणि **अभि** असृक्षत सृज्यन्त ऋत्विग्भिः ॥ ॥ ३४ ॥
@@ -163,10 +166,6 @@ Die sich läuternden Soma´s, die klaren Säfte haben sich ergossen, alle Feinde
 
 Die Soma's haben, hell entflammt, als lichte Tropfen ausgeströmt Die Sehergaben allesammt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
