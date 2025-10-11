@@ -3,7 +3,6 @@ title = "001"
 devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -169,6 +167,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित्यासः- हे अखण्डप्रकृतिजाः। अदितयः- अखण्डिताः। स्याम- भवेम। देवत्रा- देवेषु। पूः-  यत्पालनमस्ति तत्। वसवः- हे शरण्याः। मर्त्यत्रा- मनुष्येषु च भवेत्। मित्रावरुणा- हे  मित्रावरुणौ। सनन्तः- सम्भजन्तः। सनेम- युवाभ्यां दत्तं सम्भजेमहि। द्यावापृथिवी-  द्यावापृथिव्योः। भवन्तः- सन्तः। भवेम- क्षेमयुख्नाः स्याम॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **आदित्यासः** आदित्या देवाः ॥ व्यत्ययेनाद्युदात्तत्वाभावः ॥ यद्वा । आदित्यानामिमा आदित्याः ॥ तस्येदम् ' इत्यर्थे प्राग्दीव्यतीयो ण्यप्रत्ययः ॥ आदित्यानां शेषभूता वयम् **अदितय** अखण्डनीयाः **स्याम** भवेम । **देवत्रा** देवेषु **वसवः** वासका देवा युष्मदीयं **पूः** पालनं **मर्त्यत्र** मनुष्येष्वस्मासु भवतु । हे **मित्रावरुणा** मित्रावरुणौ **सनन्तः** युवां संभजन्तो वयं **सनेम** युवाभ्य दत्तं धनं संभजेमहि । हे **द्यावापृथिवी** द्यावापृथिव्यौ युवयोः प्रसादात् वयं **भवन्तः** भवेम भूतिमन्तः स्याम ॥
@@ -184,7 +187,7 @@ _________
 
 <details><summary>Jamison Brereton</summary>
 
-We would be offenseless (áditi) sons of Aditi, and a fortress among gods  and mortals, o Vasus.  
+We would be offenseless (áditi) sons of Aditi, and a fortress among gods  and mortals, o Vasus.  
 Winning (this) we would win, o Mitra and Varuṇa. Becoming (this) we  would become greater, o Heaven and Earth.
 </details>
 
@@ -211,8 +214,6 @@ Wir möchten frei sein, gütige Aditja's, gleich fester Burg bei Göttern und be
 Добиваясь, о Митра-Варуна, мы хотим добиться!  
 Существуя, о Небо-и-Земля, мы хотим процветать!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

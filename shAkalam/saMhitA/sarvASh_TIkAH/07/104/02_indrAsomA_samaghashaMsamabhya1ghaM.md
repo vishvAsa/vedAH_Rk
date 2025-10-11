@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसिष्ठः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रासोमा- इन्द्रासोमौ। अघशंसम्- अनर्थशंसकम्। अघम्- पापम्। अभि- अभिभवतम्। तपुः-  तापकं रक्षः। अग्निवान् चरुः- अग्नितप्तश्चरुः। इव। ययस्तु- आयस्यतु आयासं प्राप्नोतु।  उपक्षीयताम्। ब्रह्मद्विषे- ऋषिद्वेष्ट्रे। क्रव्यादे- मांसभक्षिणे। घोरचक्षसे- घोरदर्शनाय। किकीदिने-  किमिदानीमिति चरते। अनवायम्- अव्यवायमनवयवं यथा भवति तथा। द्वेषः- द्वेषम्। धत्तम्-  धारयतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्रासोमौ **अघशंसम्** अघस्यानर्थस्य शंसितारम् **अघम्** आगत्य हन्तारं राक्षसं **सं** सहैव । **अभि** इति श्रुतेर्योग्यक्रियाध्याहारः । अभिभवतम् । स च **तपुः** युवयोस्तेजसा तप्यमानो राक्षसः **अग्निवानिव** अग्नियुक्तोऽग्नौ प्रक्षिप्तः **चरुः** इव **ययस्तु** । ‘ यसु प्रयत्ने'। केवलोऽप्ययमाङ्पूर्वार्थो द्रष्टव्यः । आयस्यतु आयासं प्राप्नोतु । उपक्षीयतामित्यर्थः । अपि च **ब्रह्मद्विषे** ब्राह्मणेभ्योऽस्मभ्यं द्वेष्ट्रे **क्रव्यादे** क्रव्यं मांस भक्षयित्रे **घोरचक्षसे** घोरदर्शनाय परुषभाषिणे वा **किमीदिने** किमिदानीमिति चरते पिशुनाय **द्वेषः** द्वेष्यभावम् **अनवायम्** अव्यवायमनवयवं नैरन्तर्येण यथा भवति तथा **धत्तं** दत्तम् ॥
@@ -254,7 +257,7 @@ Geldner’s cited parallel, VI.62.8, where tápur aghám belong together, seems 
 
 See also V.3.7, where aghám is used as a weapon against an agháśaṃsa-: ádhī́d aghám agháśaṃse dadhāta “set evil upon him, the speaker of evil.” The simile particle iva in the simile carúr agnivā́m̐iva is postposed, but such late placement of simile markers is not uncommon in the RV.
 
-The hapax anavāyá- is unclear. Oldenberg approvingly cites Bergaigne’s gloss ‘qu'on ne peut détourner par des supplications’, and this interpr. seems to inform most subsequent tr., including mine. But this interpr. should rest on the lexeme now understood to be áva √yā ‘appease’, and I do not see how the morphology would work. √yā has a zero-grade ī, but no ay- forms -- but (an-)avāya- can only be broken down into ava+ay-a, containing no elements of √yā/ī. AiG fails to treat this form. Renou (EVP XVI.114) tries briefly to get it from áva √ī, but decides that áva √i is “simpler.” This is certainly the case morphologically, but the semantics are harder: áva is not a particularly common preverb with √i and when it appears, the lexeme generally means ‘go down’ (with ‘down’ the physical direction), occasionally more generally ‘go away’. Renou cites V.49.5 ávaitu ábhvam, claiming that the verb there means ‘céder’, thus allowing our form to means ‘qui ne cède pas’. But I do not see a ‘cede’ sense in that passage, just ‘go away’. This is, in fact, the interpr. found in RIVELEX (I.181), which glosses the stem anavāyá- as ‘nicht weggehend’ -- ‘not going away’ (metaphorically ‘nicht vergehend, verbleibend’, 181 n. 1) and analyses as a “Verbales Rektionskompositum/Dete←r&gt;minativkompositum” an- + avāya- ‘weggehend’ (← áva + √ay1
+The hapax anavāyá- is unclear. Oldenberg approvingly cites Bergaigne’s gloss ‘qu'on ne peut détourner par des supplications’, and this interpr. seems to inform most subsequent tr., including mine. But this interpr. should rest on the lexeme now understood to be áva √yā ‘appease’, and I do not see how the morphology would work. √yā has a zero-grade ī, but no ay- forms -- but (an-)avāya- can only be broken down into ava+ay-a, containing no elements of √yā/ī. AiG fails to treat this form. Renou (EVP XVI.114) tries briefly to get it from áva √ī, but decides that áva √i is “simpler.” This is certainly the case morphologically, but the semantics are harder: áva is not a particularly common preverb with √i and when it appears, the lexeme generally means ‘go down’ (with ‘down’ the physical direction), occasionally more generally ‘go away’. Renou cites V.49.5 ávaitu ábhvam, claiming that the verb there means ‘céder’, thus allowing our form to means ‘qui ne cède pas’. But I do not see a ‘cede’ sense in that passage, just ‘go away’. This is, in fact, the interpr. found in RIVELEX (I.181), which glosses the stem anavāyá- as ‘nicht weggehend’ -- ‘not going away’ (metaphorically ‘nicht vergehend, verbleibend’, 181 n. 1) and analyses as a “Verbales Rektionskompositum/Dete←r>minativkompositum” an- + avāya- ‘weggehend’ (← áva + √ay1
 
 -). This must be the correct analysis, though I am sorry to
 abandon the richer semantics of a derivation from áva √yā. My published translation ‘unrelenting’ can still probably stand, as a strengthened expression of ‘not going away’. (Note in passing that RIVELEX I.394 [s.v. ay1
@@ -286,8 +289,6 @@ Den Bösewicht verbrühe selbst des Frevels Glut o Indra-Soma, wie der Topf, der
 Ненавистнику молитвы, пожирателю сырого мяса с грозным взглядом,  
 Кимидину даруйте неистощимую ненависть!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

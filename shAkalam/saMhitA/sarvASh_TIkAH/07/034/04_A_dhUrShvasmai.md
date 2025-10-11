@@ -3,7 +3,6 @@ title = "004"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - वसिष्ठः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मै- इन्द्राय। धूर्षु- रथधूर्षु। अश्वान्- प्राणतुरगान्। आ दधात- धारयत। इन्द्रः। वज्री-  वज्रपाणिः। न- च। हिरण्यबाहुः- सुवर्णपाणिः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्मै** । षष्ठ्यर्थे चतुर्थी । अस्येन्द्रस्यागमनाय **अश्वान्** **धूर्षु** रथस्य **आ** **दधात**। **इन्द्रो** **न** । नेति चार्थे। इन्द्रः **वज्री** वज्रवान् **हिरण्यबाहुः** हिरण्यहस्तश्च भवति ॥ षोडशिनि शस्यमानत्वादस्या ऐन्द्रत्वं गम्यते । ‘आ धूर्ष्वस्मै ' इत्यत्र ‘अस्मै ' इत्यस्य पदस्यानुदात्तत्वं पूर्वस्यामिन्द्रस्य प्रकृतत्वात् । अत एव पूर्वाप्यैन्द्रीति विज्ञायते । पूर्वस्यामप्यृचि ‘अस्मै ' इत्यत्रानुदात्तत्वमल्पीयोऽर्थतरमनुदात्तमिति । तथा च यास्कः - ‘ अस्येति चोदात्तं प्रथमादेशेऽनुदात्तमन्वादेशे तीव्रार्थतरमुदात्तमल्पीयोऽर्थतरमनुदात्तम् ' (निरु. ४. २५) इति । अल्पीयस्त्वं चेदंशब्दप्रवृत्तिनिमित्तस्य संनिधानस्य दूरस्थत्वेनेत्यवगन्तव्यम् ॥
@@ -159,7 +162,6 @@ Once again both Geldner and Renou take asmai as referring to the sacrifice. They
 dádhāta in a: in other words, “put the horses to the chariot pole, as Indra (does/did).” This seems unnec. Oldenberg’s view that the asmai refers to Savitar, who is then the subj.
 
 of the 2nd hemistich, is far more plausible. Although híraṇya-bāhu- is found only here in the RV, the very similar híraṇya-pāṇi- ‘having gold hands’ is used a number of times of Savitar, and the uncompounded phrase bāhū́… hiraṇyáyā is used of Savitar’s arms in nearby VII.45.2 (also VI.71.1, 5), as Oldenberg points out. Since Tvaṣṭar fashions the mace for Indra in I.32.2, calling him vajrín- here is perfectly sensible.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -191,8 +193,6 @@ Setzt an die Deichsel – ihm seine Rosse, wie Indra blitzet – mit goldnem Arm
 Словно Индра, громовержец златорукий!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -208,12 +208,12 @@ Setzt an die Deichsel – ihm seine Rosse, wie Indra blitzet – mit goldnem Arm
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे कन्याओ ! तुम (अस्मै) इस विद्याग्रहण करने के लिये (धूर्षु) रथों के आधार धुरियों में (अश्वान्) घोड़े और (हिरण्यबाहुः) जिसकी भुजाओं में दान के लिये हिरण्य विद्यमान उस (वज्री) शस्त्र अस्त्रों से युक्त (इन्द्रः) सूर्यतुल्य राजा के (न) समान ब्रह्मचर्य को (आ, दधात) अच्छे प्रकार धारण करो ॥४॥
+पदार्थान्वयभाषाः -  हे कन्याओ ! तुम (अस्मै) इस विद्याग्रहण करने के लिये (धूर्षु) रथों के आधार धुरियों में (अश्वान्) घोड़े और (हिरण्यबाहुः) जिसकी भुजाओं में दान के लिये हिरण्य विद्यमान उस (वज्री) शस्त्र अस्त्रों से युक्त (इन्द्रः) सूर्यतुल्य राजा के (न) समान ब्रह्मचर्य को (आ, दधात) अच्छे प्रकार धारण करो ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जैसे सारथी घोड़ों को रथ में जो़ड़ कर नियम से चलाता है, वैसे कन्या आत्मा अन्तःकरण और इन्द्रियों को विद्या की प्राप्ति से व्यवहार में निरन्तर जोड़ कर नियम से चलावें ॥४॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । जैसे सारथी घोड़ों को रथ में जो़ड़ कर नियम से चलाता है, वैसे कन्या आत्मा अन्तःकरण और इन्द्रियों को विद्या की प्राप्ति से व्यवहार में निरन्तर जोड़ कर नियम से चलावें ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "003"
 devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -236,6 +234,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूर्यस्य। उदिता- उदये। याः। प्राचीनम्- सूर्यस्य प्राग्देशं प्रत्युदयन्ति। तानि- ताः। बहुलानि-  प्रभूताः। अहानि- उषासः। आसन्- अभवन्। यतः- यैस्तेजोभिः। परि ददृक्षे- परि दृश्यसे। तैः।  जार इवाचरन्ती- रात्रेर्जरयितरि सूर्ये सञ्चरसि। न पुनर्यतीव- सूर्यं त्यत्तवा न सञ्चरसि। आत्माश्रिता  समाधिरित्याध्यात्मिके॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे उषः **तानीत्** तान्येव तव तेजांसि **बहुलानि** **अहानि** **आसन्** । उषःप्रकाशयुक्तस्यैव कालस्याहःशब्दव्यवहारात् । तानीत्युक्तं कानीत्याह। **या** यानि **सूर्यस्य** **उदिता** उदितावुदये सति **प्राचीनं** तस्य प्राग्देशं प्रत्युदयन्ति । यद्वा सूर्यस्य प्राचीने देशे या यान्युदितोदितानि तानीत्यर्थः । .. हे **उषः** **यतः** यैश्च तेजोभिः **परि** **ददृक्षे** दृश्यसे त्वम् । **जारइव** पत्याविव **आचरन्ती** समीपे संचरन्ती साध्वी नारीव जारे रात्रेर्जरयितरि सूर्ये संचरन्ती त्वं दृश्यते। यथा लोके दुष्टं भ्रमणशीलमपि पतिमत्यज्यैव साध्वी संचरति तद्वत् तमविमुञ्चती त्वमित्यर्थः। **न** **पुनर्यतीव** यती पतिं परित्यज्येतस्ततः संचरन्ती व्यभिचारिणीव सूर्यमपरित्यजन्ती त्वम् । पुनरित्यर्थं वैलक्षण्यद्योतनार्थः । एवं यैस्तेजोभिर्युक्ता परिदृश्यसे तान्येवाहान्यासन्निति संबन्धः ॥
@@ -267,8 +270,6 @@ Despite the straightforward, indeed ballad-like opening (“those were the days 
 Although I realize that this is a very fussy solution, I cannot see any other way to deal with the troublesome prācī́nam. And it is, after all, an omphalos vs., where perturbations are common. Strictly speaking, my tr. fails to render both subordinators as such: “thence” should be “whence.” But the tr. is hard enough to parse as it is.
 
 The contrastively paired similes, “like (a maiden) faring forth to her lover, not like one going (home) again” (jārá ivā́cárantī … ná púnar yatī́va), are well understood by the standard comm. and nicely indicate that Dawn dawns with as much speed as she can muster, eager for reunion with her lover, rather than lingering like one reluctantly leaving a tryst. For the first cf. I.123.9 … yóṣā ná ... niṣkr̥tám ācárantī “going to the appointed place like a maiden to a rendezvous,” also of Dawn (see also VI.75.4 in the weapon hymn). The iva is wrongly placed in the 2nd simile, but the poet had too many elements to fit in as it was.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -302,8 +303,6 @@ Es waren zahlreich diese Tageshellen im Ost erscheinend bei der Sonne Aufgang, V
 Откуда ты показалась, словно (женщина),  
 Приближающаяся к любовнику, о Ушас, а не как снова уходящая (от него).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

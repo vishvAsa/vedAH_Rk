@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पक्थासः- हृदयपाचकाः। भलानसः- भद्रमुखा इति सायणः। अनिनासः- प्रवृद्धाः। शिवासः-  मङ्गळाः। विषाणिनः- शृङ्गिणः।  वृषभा उपासकाः। तेभ्यः। सधमाः- सह मादक इन्द्रः। आर्यस्य-  आर्यशीलस्य। गव्या- गोसमूहं चिद्रश्मिसमूहम्। तृत्सुभ्यः- आवरणबाधकेभ्यः। ऋषिभ्यः।  श्वित्यञ्चो यत्र नमसा कपर्दिनो धिया धीवन्तो असपन्त तृत्सवः इति श्रुतेः। आ अनयत्। अजगन्-  लेभे। युधा- युद्धेन। नॄन्- वीरान्। जघान॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पक्थासः** पक्था हविषां पाचकाः **भलानसः** भद्रमुखाः । भलेति भद्रवाची । **अलिनासः** अलिनाः । तपोभिरप्रवृद्धा इत्यर्थः । **विषाणिनः** कण्डूयनार्थं कृष्णविषाणहस्ताः । दीक्षिता इत्यर्थः । **शिवासः** शिवाः यागादिना सर्वस्य लोकस्य शिवकराः । यागेन हि शिवं भवति लोकस्य । **आ** **भनन्त** अभिष्टुवन्ति तमिन्द्रम् । भनतिः शब्दकर्मा ‘नौति भनति' इति शब्दकर्मसु पाठात् । **यः** इन्द्रः **सधमाः** । सोमपानेन सह माद्यतीति सधमादः । सधमाद एव सधमाः । **आर्यस्य** कर्मशीलस्य **गव्या** गोसंघान् **तृत्सुभ्यः** हिंसकेभ्यः **आ** **अनयत्** । **अजगन्** अजगत् स्वयं च गोसंघान् लेभे । **युधा** युद्धेन तान् नॄन्’ शत्रून् जघान चेति शेषः ॥
@@ -235,7 +238,7 @@ bhananti and mid. 3rd pl. injunc. bhananta in adjacent vss. in the same metrical
 
 The l’s of the names bhalānás- and álina- and the unmotivated retroflex -ṣ- in viṣāṇín- suggest peoples outside of the Ārya mainstream, although of course they could also show the kinds of deliberate phonological deformation found elsewhere in the hymn. It’s possible that bhalānás- reflects a form of √bhṛ, hence my ‘raiders’. It is not clear whether śivā́saḥ should be interpr. as the usual adj. (‘kindly’) or as the name of another group of fighters. The published translation reflects the former (flg. Schmidt), but I am now inclined to consider the latter more likely, primarily because it’s not phonologically outlandish. In this case I’d tr. “The Pakthas and the Bhalānases spoke out, and the Alinas and the Viṣānins -- (all) ‘kindly’ --” This would be a sarcastic aside about the martial forces ranged against us.
 
-If we accept the Schmidt/Witzel distribution of the allegiances of the various named forces, those named in ab are complaining about the defection of the sadhamā́d- who led them to the battle but has now gone over to the Tṛtsu (/Sudās) side and has turned to attack the nṝ̥́n (‘superior men’), by which they mean themselves. The sadhamā́d- is most likely Indra, and so losing him as an ally would be a serious blow.
+If we accept the Schmidt/Witzel distribution of the allegiances of the various named forces, those named in ab are complaining about the defection of the sadhamā́d- who led them to the battle but has now gone over to the Tṛtsu (/Sudās) side and has turned to attack the nṝ̥́n (‘superior men’), by which they mean themselves. The sadhamā́d- is most likely Indra, and so losing him as an ally would be a serious blow.
 
 On the unexpected form sadhamā́s, if the nom. sg. to sadhamā́d-, see Scarlatta (381) with lit. I think it unlikely that it’s an acc. pl., a possibility Oldenberg considers by assigning it to a diff. root. As noted above (vs. 6) with regard to puroḷā́s, the rhyme with king Sudās may have played a part.
 
@@ -265,8 +268,6 @@ Ihm jauchzten zu die Pakther und Bhalanas, die Aliner, die holden Säbeltrager, 
 Сотрапезник ария, который привел (подкрепления),  
 Из желания коров для тритсу отправился с боем к мужам.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

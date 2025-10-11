@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। नव नवतिम्- प्रभूतानि। पुरः- बन्धनानि। च। सद्यः- क्षणेन। विदारितवान्। तदा।  तव- ते। वज्रहस्त- वज्रपाणे। तानि। च्यौत्नानि- बलानि कीर्तितव्यानि। निवेशने- प्रविश्य  जयप्राप्त्यै। शततमा- शततमं बन्धनं पुरम्। अविवेषीः- व्याप्नोः। वृत्रम्- आवरणम्। च। अहन्-  नाशितवान्। नमुचिम्- न मुञ्चन्तम्। उत- अपि च। अहन्- नाशितवान्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वज्रहस्त** **तव** **च्यौत्नानि** बलानि **तानि** तादृशानि । **यत्** यदा त्वं शम्बरस्य **नव** **नवतिं** **च** **पुरः** **सद्यः** युगपदेव विदारितवानसीति शेषः । तदा **निवेशने** निवेशनार्थं **शततमा** शततमीं पुरम् **अविवेषीः** व्याप्नोः । **वृत्रं** **च** **अहन्** । **उत** अपि च **नमुचिम्** **अहन्** ॥ ॥ २९ ॥
@@ -254,7 +257,7 @@ I prefer to accent it and thus allow it to be the verb of the yád clause beginn
 
 In either case śatatamā́is a problem. Everyone wants it to be the 100th thing (probably púr- ‘fortification’) that Indra destroys (after the 99 in b). Grassmann suggests reading śatatamā́m, which would provide the desired feminine accusative (agreeing with púr-), but among other things would damage the meter (since, s.v. viṣ, he is still reading an augmented aviveṣīḥ). Geldner suggests that it [what is unspecified, presumably the sandhi agglomeration] is to be dissolved (“aufzulösen”) into masc. śatatamám, and the 100th thing that Indra destroys is Śambara himself. He makes no mention of meter, though this dissolution would cause the same metrical problem. Oldenberg suggests 16 supplying neut. pl. cyautnā́ni (without translating), but I don’t see how an ordinal “hundredth” can qualify all hundred items in the plural. There is a much simpler solution: to take śatatamā́as a feminine instrumental with the old ending -ā.
 
-Although Oldenberg claims (in arguing against Grassmann) that the fem. stem should be śatatamī́-, this is simply wrong. See AiG II.2 §457, which establishes -ā as the rule and -ī as the rare exception. Cf. for -tama-stems purutámā- of Uṣas and mātŕ̥tamā-, and for ordinals the well-attested feminine prathamā́-. Or, if Geldner is correct that the reference is to Śambara himself, śatatamā́can be a masculine instr. sg. In either case the text can stand as it is, with no metrical or sandhi problems, and the syntax can be rescued.
+Although Oldenberg claims (in arguing against Grassmann) that the fem. stem should be śatatamī́-, this is simply wrong. See AiG II.2 §457, which establishes -ā as the rule and -ī as the rare exception. Cf. for -tama-stems purutámā- of Uṣas and mātŕ̥tamā-, and for ordinals the well-attested feminine prathamā́-. Or, if Geldner is correct that the reference is to Śambara himself, śatatamā́can be a masculine instr. sg. In either case the text can stand as it is, with no metrical or sandhi problems, and the syntax can be rescued.
 
 Geldner takes nivéśane in c as ‘at evening’. The word generally means ‘causing to settle down’ (the usual association of -ana-nominals with the transitive-causative áya-formations) or, as a noun, ‘settling down’, and is sometimes associated with Savitar’s bringing the world to rest in the evening (IV.53.6, I.35.1, VI.71.2), an association that must have led to Geldner’s tr. But the word never otherwise means ‘evening’. I read it with its full lexical value, but with a sinister edge. “Bringing them to rest” is a euphemism like ásvāpayaḥ ‘you put to sleep’ in 4d. Oldenberg mentions the “going to rest” possibility, but opts instead for “in the dwelling place (of the enemy).” Again, there seems to me no reason for this attenuation of the meaning.
 
@@ -287,8 +290,6 @@ O Blitzesträger, das sind deine Thaten, dass du zerstörtest neunundneunzig Bur
 И убил ты Вритру, а также убил Намучи.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -304,7 +305,7 @@ O Blitzesträger, das sind deine Thaten, dass du zerstörtest neunundneunzig Bur
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (वज्रहस्त) हाथ में वज्र रखनेवाले ! जैसे (तव) आपके (तानि) वे (च्यौत्नानि) बल हैं अर्थात् सूर्य (यत्) जो (नवनवतिम्) निन्यानवे (पुरः) मेघरूपी शत्रुओं की नगरी उनको (सद्यः) शीघ्र (अहन्) हनता (च) और (निवेशने) जिसमें निवास करते हैं उस स्थान में (शततमा) अतीव सैकड़ों को (उत) और (नमुचिम्) जो अपने रूप को नहीं छोड़ता उस (वृत्रम्) आच्छादन करनेवाले मेघ को (च) भी (अहन्) मारता, वैसे आप (अविवेषीः) व्याप्त हूजिये अर्थात् सेना जनों को प्राप्त होकर शत्रुबलों को प्राप्त हूजिये ॥५॥
+पदार्थान्वयभाषाः -  हे (वज्रहस्त) हाथ में वज्र रखनेवाले ! जैसे (तव) आपके (तानि) वे (च्यौत्नानि) बल हैं अर्थात् सूर्य (यत्) जो (नवनवतिम्) निन्यानवे (पुरः) मेघरूपी शत्रुओं की नगरी उनको (सद्यः) शीघ्र (अहन्) हनता (च) और (निवेशने) जिसमें निवास करते हैं उस स्थान में (शततमा) अतीव सैकड़ों को (उत) और (नमुचिम्) जो अपने रूप को नहीं छोड़ता उस (वृत्रम्) आच्छादन करनेवाले मेघ को (च) भी (अहन्) मारता, वैसे आप (अविवेषीः) व्याप्त हूजिये अर्थात् सेना जनों को प्राप्त होकर शत्रुबलों को प्राप्त हूजिये ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

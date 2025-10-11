@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (७.००३.१०)॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एषा ऋक् प्राक् व्याख्याता ॥ १० ॥प्राग्नये तवस इति नवर्चं पञ्चमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वानराग्निदेवताकं तथाचानुक्रान्तं-प्राग्नये नव वैश्वानरीयं त्विति विनियोगो लैङ्गिकः ।
@@ -273,8 +276,6 @@ Dies schöne Glück, o Agni, strahle her uns; lass uns erlangen weisheitsvolle E
 Да будут все блага певцам и восхвалителям!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (७.०६०.१२)॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयन्देतेतिसप्तमीगता ॥ ७ ॥उत्सूर्यइति षळृचं सप्तमं सूक्तं अत्रानुक्रमणिका-उत्सूर्यः षळाद्यास्तिस्रः सौर्यइति वसिष्ठऋषिः त्रिष्टुप् छन्दः आद्यास्तिस्रः सूर्यदेवत्याः शिष्टामित्रावरुणदेवत्याः सूक्तविनियोगोलैङ्गिकः ।
@@ -258,8 +261,6 @@ Dies Priesterwerk ist euch vollbracht, o Götter, bei diesen Opfern, Varuna und 
 Переправьте нас через все трудности!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

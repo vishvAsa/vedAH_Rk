@@ -3,7 +3,6 @@ title = "012"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - वसिष्ठः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वासु- सर्वासु। विक्षु- प्रजासु। अस्मान्- नः। अविष्ट- रक्षत। शंसं निनित्सोः-  निन्दितुमिच्छतः। अद्युम्- अदीप्तिम्। कृणोत- कुरुत॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं द्वृचो दैवः । हे देवाः **अस्मान्** **विश्वासु** सर्वासु **विक्षु** प्रजासु । अविष्ट उ इति समुदितम् **अविष्टो** इति । अविष्ट रक्षत। **शंसं** निनित्सोः निन्दितुमिच्छतः शत्रोः **अद्युम्** अदीप्तिं **कृणोत** कुरुत च ॥
@@ -153,8 +156,6 @@ render harmless the “laud” of him who wishes to scorn.
 The hapax ádyu- has been variously analyzed and rendered: e.g., Sāyaṇa. adīpti- ‘non-shining’, reflected in Grassmann’s ‘glanzlos’ and probably Renou’s ‘sans éclat’; Oldenberg ‘excluded from heaven’. But Geldner’s (n. 12b) comparison of Oldenberg Avestan aidiiu- (YH 2x, plus a YA rep.) ‘harmless’ is surely correct and is accepted by EWA, etc. For disc., with earlier lit., see Narten, YH 280-81.
 
 Our half-verse ádyuṃ kṛṇota śáṃsaṃ ninitsóḥ is nearly identical to VII.25.2c āré táṃ śáṃsaṃ kṛṇuhi ninitsóḥ, though in a different meter (our two 5-syl. pādas of Dvipadā versus Triṣṭubh). To accommodate the meter the verb and object had to be flipped and a different predicate supplied. This metrically driven modification procedure is instructive.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
@@ -185,8 +186,6 @@ O unterstützt uns – in allen Häusern; nicht macht uns brennend – den Spott
 Поддержите нас во всех племенах!  
 Сделайте лишенной блеска речь желающего осрамить!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

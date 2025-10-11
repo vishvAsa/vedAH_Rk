@@ -3,7 +3,6 @@ title = "002"
 devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसिष्ठः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ। हि- खलु। क्षम्यस्य- भौमस्य। जन्मनः। क्षयेण- ऐश्वर्येण। दिव्यस्य-  दिव्यजन्मनः। साम्राज्येन- ऐश्वर्येण। चेतति- ज्ञायते। अवन्तीः- तर्पयन्तीः। नः- अस्मान्।  अवन्- तर्पयन्। दुरः- दुर्याणि अस्मद्गृहाणि। उप चर। रुद्र। नः- अस्माकम्। जासु- प्रजासु।  अमीवः- रोगमकुर्वन्। भव॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **हि** स खलु रुद्रो देवः **क्षम्यस्य** । क्षमायां पृथिव्यां भवः। तस्य **जन्मनः** जनस्य **क्षयेण** ऐश्वर्येण **चेतति** प्रज्ञायते । **दिव्यस्य** जनस्य च **साम्राज्येन** ऐश्वर्येण प्रज्ञायते । शेषः प्रत्यक्षकृतः । हे **रुद्र** देव त्वं च **अवन्तीः** त्वां स्तोत्रैस्तर्पयन्तीः **नः** अस्मदीयाः प्रजाः **अवन्** पालयन् **दुरः** दुर्याणि अस्मदीयानि गृहाणि **उप** **चर** उपगच्छ। किंच त्वं **नः** अस्मदीयासु प्रजासु **अनमीवः** । अमीवा रोगः । तामकुर्वन् **भव** ॥
@@ -249,8 +252,6 @@ For in consequence of his dwelling place he takes cognizance of the  earthly rac
 
 The complementary etymological and morphological figure ávann ávantīḥ is noteworthy, but I have no idea what “helping/helpful doors”(ávantīr dúraḥ) are or do. Perhaps it is an indirect way to refer to the sacrificial offerings humans make to help the gods, in return for the help (etc.) they receive from the gods, in this case Rudra. As Renou suggests ad loc. (EVP XV.161), “dúraḥ … s’oriente vers «maison»” and the emphasis in this vs. and the next on the protection of our children and offspring may have invited this allusion to the house.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -258,6 +259,7 @@ devayántaḥ in 1ab with 3rd ps. referent (see the 3rd pl. verb ákṛṇvata) 
 
 [VII.48 JPB]</details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -292,8 +294,6 @@ Denn er nimmt wahr vom hohen Throne seines Reichs des irdischen Geschlechtes und
 Благожелательный к благожелательному нашему дому подходи!  
 Не поражай болезнью наших потомков!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

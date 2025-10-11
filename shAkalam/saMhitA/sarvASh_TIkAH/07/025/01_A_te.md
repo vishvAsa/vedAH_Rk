@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्र- उद्गूर्ण। इन्द्र। महः- महतः। ते- तव। समन्यवः- समननाः सक्रोधा वा। सेनाः। आ-  समन्तात्। समरन्त- सङ्गताः। नर्यस्य- नरहितस्य। ते। बाह्वोः- भुजयोः। दिद्युत्- त्वत्प्रहरणम्।  पताति- पतति। ते- तव। मनः- चित्तम्। विष्वद्र्यक्- सर्वत्र गन्तृ सत्। मा। वि चारीत्- विविधं  चरतु। एकाग्रेण भवत्विति भावः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उग्र** उद्गूर्ण ओजस्विन् **इन्द्र** **यत्** यदा **समन्यवः** । समो मन्युरभिमानो वासां ताः समन्यवः । **सेनाः** **समरन्त** युध्यन्ते संगच्छन्ते वा तदा **नर्यस्य** नरहितस्य **महः** महतः । **ते** तव **बाह्वोः** स्थिता **दिद्युत्** आयुधम् । **दिद्युत्** हेतिः' इति वज्रनामसु पाठात् । **ऊती** ऊत्यै अस्मद्रक्षायै **आ** **पताति** आपततु । तव **विष्वद्र्यक्** विष्वग्गन्तृ **मनः** च **मा** **वि** चारीत् अस्मास्वेव स्थिरं भवतु ॥
@@ -274,7 +277,6 @@ WHEN with thy mighty help, O potent Indra, the armies rush together in their fur
 When from the strong man's arm the lightning flieth, let not the mind go forth to side with others.
 </details>
 
-
 <details><summary>Keith</summary>
 
 Hitherward be thy might with aid, O dread Indra,  
@@ -282,7 +284,6 @@ What time the armies meet in combat,
 And the arrow flieth from the arms of the strong men;  
 Let not thine [2] anger spread on every side.
 </details>
-
 
 <details><summary>Geldner</summary>
 
@@ -301,8 +302,6 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 Вылетит стрела из рук мужественного –  
 Да не разбредется твоя мысль во все стороны!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

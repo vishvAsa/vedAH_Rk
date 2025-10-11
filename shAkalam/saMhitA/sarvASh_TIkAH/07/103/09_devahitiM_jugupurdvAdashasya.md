@@ -3,7 +3,6 @@ title = "009"
 devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवहितिम्- देवविधानम्। द्वादशस्य- द्वादशमासात्मकस्य संवत्सरस्य। जुगुपुः- ररक्षुः। नरः-  नेतारः। एते- इमे। ऋतुम्- वसन्तादिकम्। न। प्र मिनन्ति- प्रहिंसन्ति। प्रावृषि आगतायाम्- वर्षाकाले। संवत्सरे। घर्माः तप्ताः- घर्मकाले उष्णतप्ताः। विसर्गं- बिलादुद्गमनम्। अश्नुवते-  प्राप्नुवन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 नरोनेतारएते मण्डूकाः देवहितिं देवैः कृतं विधानं अस्यर्तोरयं धर्मइत्येवं रूपं जुगुपुर्गोपायन्ति काले काले रक्षन्ति अतएव द्वादशस्य द्वादशमासात्मकस्य संवत्सरस्य ऋतुं तं तं वसन्तादिकं नप्रमिनन्ति न हिंसन्ति पर्जन्यस्तुतेरनुमोदनेन तत्तत्काले वृष्टिहेतवोभवन्ती- त्यर्थः । संवत्सरे सम्पूर्णे प्रवृषि वर्षर्तौ आगतायामागते सति घर्माः पूर्वं घर्मकाले वर्तमानास्तप्ताः तापेन पीडिताः सम्प्रति विसर्गं विसर्जनं बिलान्मोचनं अश्नुवते प्राप्नुवन्ति ॥ ९ ॥
@@ -225,8 +228,6 @@ The year-long preparation for the Pravargya rite is again emphasized here in the
 In b the ná is potentially ambiguous. The first reading is no doubt the negative: the ritualists/frogs do not fail to observe the proper ritual calendar. The VP ná (…) (prá) minanti is quite common (e.g., II.24.12, III.28.4, X.10.5). But ná could also be a simile marker in the phrase náro ná, for, after all, the subjects are frogs, compared to men. Since ná occupies the fifth syllable of the pāda, either reading is compatible with its position: an early caesura, followed by ná, for the negative reading; a late caesura, preceded by ná, for the simile.
 
 The final pāda of the vs. is the ritual climax: the gharmá-drinks, heated on the fire, bubble up and overflow their vessel, as milk does when it’s been left too long on the stove. The “obtain their own release” (aśnuvate visargám, note the middle verb), a phrase rendered rather generically by many tr. (e.g., Doniger “the hot fires come to an end”; Maurer “the heated receptacles get emptied out”), is in my view a rendering of the dramatic moment when the bubbling mass boils over. I further suggest that its analogue in the natural world is the female frog’s release of her masses of eggs (up to 2000+ in some species), which are fertilized by the male as they are released - which must be a visually striking event. It may also refer to the practice of some frogs of making a “foam nest” in which to deposit the eggs, liquid albumen whipped up by the frog’s hind legs into a “dense light foam” -- a process that also might appear like milk boiling over.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -265,8 +266,6 @@ Des zwölfgetheilten heil'ge Ordnung wahrend, versäumen nie die rechte Zeit die
 Когда через год приходит время дождей,  
 Пылающий зной приходит к концу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

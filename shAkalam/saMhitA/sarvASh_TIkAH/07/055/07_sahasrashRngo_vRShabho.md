@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 sahásraśr̥ṅgaḥ ← sahásraśr̥ṅga- (nominal stem)  
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रशृङ्गः- अनन्तरश्मिः। वृषभः- वर्षकः सूर्यः। यः। समुद्रात्- अर्णवादन्तरिक्षाद्वा। उदाचरत्-  उदागच्छति। तेन। सहस्येन- शख्निमता। वयम्। जनान्। नि- नितराम्। स्वापयामसि-  स्वापयामः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रशृङ्गः** सहस्रकिरणः **वृषभः** कामानां वर्षिता **यः** सूर्यः **समुद्रात्** अम्बुधेः सकाशात् **उदाचरत्** उदागच्छति सहस्येन अभिभवित्रा **तेन** सूर्येण **वयं** स्तोतारः **जनान्** सर्वान् **नि** **ष्वापयामसि** नितरां स्वापयामः ॥
@@ -203,8 +206,6 @@ Der Stier, der tausend Strahlen wirft, der aus dem Meere stieg empor, durch dies
 Мы усыпляем людей.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -225,7 +226,7 @@ Der Stier, der tausend Strahlen wirft, der aus dem Meere stieg empor, durch dies
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जहाँ सूर्य की किरणों का स्पर्श सब ओर से हो और जो बल का अधिक बढ़ानेवाला घर हो, उसके शुद्ध होने में सब को सुलावें और हम लोग भी सोवें ॥७॥
+भावार्थभाषाः -  हे मनुष्यो ! जहाँ सूर्य की किरणों का स्पर्श सब ओर से हो और जो बल का अधिक बढ़ानेवाला घर हो, उसके शुद्ध होने में सब को सुलावें और हम लोग भी सोवें ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

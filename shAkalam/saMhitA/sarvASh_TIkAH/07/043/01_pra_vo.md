@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येषाम्। विप्राः- विप्राणां मेधाविनाम्। असमानि- अनुपमानि। ब्रह्माणि- उपासनानि मन्त्रा वा।  वनिनः- तरोः। शाखाः। न- इव। विष्वक्- सर्वत्र। वियन्ति- गच्छन्ति। ते। देवयन्तः-  देवकामाः। वः- यूयम्। यज्ञेषु। द्यावा पृथिवी- द्यावापृथिव्यौ। वः- युष्मान्। इषध्यै- प्राप्तुम्।  नमोभिः- नमस्कारैः। प्र- प्रकर्षेण। अर्चन्- पूजयन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवयन्तः** देवान् कामयमानाः विप्राः **यज्ञेषु** **नमोभिः** स्तुतिभिर्हविर्भिर्वा **वः** युष्मान् **इषध्यै** अभिप्राप्तुं **प्र** **अर्चन्** प्रार्चयन्ति प्रकर्षेण स्तुवन्ति । **द्यावा** दिवं च **पृथिवी** भूमिं च प्रस्तुवन्ति । **येषां** विप्राणां मेधाविनां **ब्रह्माणि** स्तोत्राणि **वनिनो** **न** **शाखाः** वृक्षस्य शाखा इव **विष्वक्** विश्वतः **वियन्ति** विशेषेण गच्छन्ति । ते **विप्राः** प्रार्चन्निति पूर्वेण संबन्धः ॥
@@ -244,8 +247,6 @@ The verb viyánti in d is ambiguous. With the Pp., Grassmann, etc., it may be ta
 
 Because of the connections between the preceding hymn VII.42 and this one, I favor the latter affiliation on the basis of (prá) vetu in VII.42.1b, but ví √i is certainly not excluded -- and might make slightly better sense with the simile. The tr. might then alternatively read “go apart” for “go questing.” On the other hand, I like the idea of formulations going in quest of divine response and rewards, an interpr. encouraged by the prá lexemes (like prá … etu in the next pāda, 2a).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -278,8 +279,6 @@ Bei euren Opfern preisen nun die Frommen mit Ehrfurcht Erd' und Himmel, sie zu l
 (Поэты,) чьи несравненные вдохновенные священные слова,  
 Расходятся во все стороны, словно ветви дерева.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

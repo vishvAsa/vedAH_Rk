@@ -3,7 +3,6 @@ title = "009"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वसिष्ठः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रिशादसः- शत्रुबाधकाः। सान्तपनाः- सन्तापकाः। मरुतः। युष्माकोती- भवतां रक्षया। इदम्-  एतत्। हविः। जुजुष्टन- सेवध्वम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सांतपनाः** शत्रूणां संतापका हे **मरुतः** **इदं** प्रत्यक्षेणोपलभ्यमानं **हविः** युष्मभ्यं कल्पितमिति शेषः । हे **रिशादसः** रिशतां हिंसतामसितारो रिशानामत्तारो वा यूयं **युष्माक** युष्माकम् **ऊती** ऊत्या रक्षया **तत्** तादृशं हविः **जुजुष्टन** सेवध्वम् ॥ ‘गृहमेधासः' इति गृहमेधीयस्य हविषोऽनुवाक्या । सूत्रितं च -- ‘गृहमेधास आगत प्र बुध्न्या व ईरते महांसि' (आश्व. श्रौ. २. १८) इति ॥
@@ -150,8 +153,6 @@ You descendants of the scorcher, Maruts, enjoy this oblation here. (Come here) w
 
 With the standard tr., I supply “come” in c, anticipating ā́gata in 10a.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -159,6 +160,7 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -191,8 +193,6 @@ O Maruts, diesen Opferguss geniesset, die ihr Warmes liebt, Feindtilger ihr, nac
 Наслаждайтесь этим возлиянием!  
 (Приходите) с вашей поддержкой, о заботящиеся о чужом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

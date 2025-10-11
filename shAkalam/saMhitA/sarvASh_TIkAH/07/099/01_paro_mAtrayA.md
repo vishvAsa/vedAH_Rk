@@ -3,7 +3,6 @@ title = "001"
 devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -28,7 +26,6 @@ ChandaH = "त्रिष्टुप्"
 उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वम् ।  
 प॒र॒मस्य॑ वित्से ॥ 16 ॥
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -235,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मात्रया परः- परस्ताद्वर्तमानया अपरिमितया। तन्वा। वृधान- वर्धमान। ते- तव। महित्वम्-  माहात्म्यम्। न। अन्वश्नुवन्ति- अनुव्याप्नुवन्ति। पृथिव्याः- भूम्या आरभ्य। उभे रजसी-  भूमिमन्तरिक्षम्। ते- तव। विुद्म- जानीमः। देव- द्योतनशील। विष्णो- सर्वव्यापिन्।  अन्तर्यामिन्। त्वमेव। परमस्य- तृतीयं नभः। वित्से- जानासि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पर इति सकारान्तं परस्तादित्यस्यार्थे । परशब्दाच्छान्दसोऽसिप्रत्ययः ‘परो दिवा पर एना पृथिव्या ' (ऋ. सं. १०. ८२.५) इति यथा। मात्रयेति व्यत्ययेन तृतीया। **मात्रया** **परः** परस्ताद्वर्तमानयापरिमितया **तन्वा** शरीरेण **वृधान** वर्धमान हे विष्णो **ते** तव **महित्वं** महत्त्वं **न** **अन्वश्नुवन्ति** नानुव्याप्नुवन्ति । त्रैविक्रमसमये यत्तव माहात्म्यं तत्सर्वैरपि जनैर्ज्ञातुं न शक्यत इत्यर्थः । **ते** तव **उभे** **रजसी** उभौ लोकौ **पृथिव्याः** आरभ्य पृथिवीमन्तरिक्षं च **विद्म** जानीमः । वयं चक्षुषोपलभामहे नान्यत् । हे **देव** द्योतमान **विष्णो** **त्वम्** एव **परमस्य** स्वर्गादेरुकृष्टलोकस्य । द्वितीयार्थे षष्ठी। परमं लोकं **वित्से** जानासि । अतस्तव महत्त्वं न केनापि व्याप्तुं शक्यमिति भावः ॥
@@ -269,7 +271,6 @@ Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems
 
 As Renou points out, both the case of the complement (acc. versus gen.) and the voice (act. versus mid.) differ between 1st pl. vidma in c and 2nd sg. vitse in d. The middle voice of vitse makes sense, since Viṣṇu knows his own farthest realm; the variation in case is harder to account for. Perhaps the two earthly realms are subjects of direct knowledge, while the farthest realm is something even Viṣṇu only knows of.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -303,8 +304,6 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 Ты, о бог Вишну, знаешь высшее (пространство).
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विष्णुः
@@ -320,7 +319,7 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जीव केवल प्रत्यक्ष से लोकों को जान सकता है। सम्पूर्ण ब्रह्माण्डों का ज्ञाता एकमात्र परमात्मा है। तन्मात्रा कथन करना यहाँ प्रकृति के सूक्ष्म कार्य्यों का उपलक्षणमात्र है। तात्पर्य यह है कि प्रकृति उसके शरीरस्थानी होकर उस परमात्मा के महत्त्व को बढ़ा रही है, या यों कहो कि प्रकृत्यादि सब पदार्थ उस परमात्मा के एकदेश में हैं और वह असीम अर्थात् अवधिरहित है ॥१॥
+भावार्थभाषाः -  जीव केवल प्रत्यक्ष से लोकों को जान सकता है। सम्पूर्ण ब्रह्माण्डों का ज्ञाता एकमात्र परमात्मा है। तन्मात्रा कथन करना यहाँ प्रकृति के सूक्ष्म कार्य्यों का उपलक्षणमात्र है। तात्पर्य यह है कि प्रकृति उसके शरीरस्थानी होकर उस परमात्मा के महत्त्व को बढ़ा रही है, या यों कहो कि प्रकृत्यादि सब पदार्थ उस परमात्मा के एकदेश में हैं और वह असीम अर्थात् अवधिरहित है ॥१॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "019"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमे- एते। मरुतः- वाताः। तुरम्- त्वरमाणं साधकम्। रमयन्ति। इमे। सहसः सहसः-  बलिनामपि बलिनः। आ नमन्ति- नमयन्ति। इमे। शंसम्- स्तोतारम्। वनुष्यतः- हिंसकात्।  नि- नितराम्। पान्ति- रक्षन्ति। गुरु- बृहत्। द्वेषः- द्वेषम्। अररुषे- लोभिने। दधन्ति-  यच्छन्ति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इमे** ईदृशः **मरुतः** **तुरं** कर्मसु क्षिप्रवन्तं यजमानं **रमयन्ति** क्रीडयन्ति । **इमे** मरुतः **सहः** सहसा बलेन **सहसः** बलवतो जनान् **आ** **नमन्ति** । **इमे** मरुतः **वनुष्यतः** हिंसकात् पुरुषात् **शंसं** शंसकं स्तोतारं **नि** **पान्ति** नितरां पालयन्ति । **अररुषे** हविरप्रयच्छते जनाय **गुरु** महत् **द्वेषः** अप्रियं **दधन्ति** कुर्वन्ति ॥
@@ -241,8 +244,6 @@ As was noted above, this vs. contains three examples of the near-deictic imé, o
 Both Geldner and Renou follow the Pp. reading sáhasaḥ. Renou interpr. it rather loosely as an abl., whereas Geldner takes it as a gen. and as if it were the differently accented poss.
 
 adj. *sahásaḥ (“die Gewalt des Gewaltigen”), without comment. Oldenberg suggests that the better reading is dat. sáhase and cites passages containing ā́√nam with the dat. I follow this interpr.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details open><summary><h2>18-19 ...{Loading}...</h2></summary>
@@ -276,8 +277,6 @@ Den raschen bringen sie zum Stehn, die Maruts, sie beugen jede Kraft durch eigne
 Они защищают речь от завистника.  
 Не дающего (ничего) они обрекают на (свою) тяжелую враждебность.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

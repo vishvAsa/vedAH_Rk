@@ -3,7 +3,6 @@ title = "003"
 devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवः- द्योतकः। एषः- अयं विष्णुः। महित्वा- स्वमाहात्म्येन। शतर्चसम्- अनन्तप्रकाशाम्।  पृथिवीम्- भूमिम्। त्रिः- त्रिधा। वि चक्रमे- विक्रान्तवान्। विष्णुः। तवसस्तवीयान्- प्रवृद्धेषु  प्रवृद्धः। अस्तु- भवतु। अस्य- एतस्य। स्थविरस्य- प्रवृद्धस्य। नाम। त्वेषम्- दीप्तम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रील्ँलोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
@@ -255,11 +258,10 @@ Oldenberg posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi s
 
 Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
 
 </details>
 </div>
@@ -289,8 +291,6 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 Ведь имя этого могучего – внушающее ужас.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विष्णुः
@@ -301,7 +301,7 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तियुक्त उक्त परमात्मा (एतां) इस (पृथिवीं) पृथिवी को (त्रिः) तीन प्रकार से (विचक्रमे) रचता है, (शतर्चसं) जिस पृथिवी में सैकड़ों प्रकार की (अर्चिः) ज्वालायें हैं, (महित्वा) जिसका बहुत विस्तार है और इस(स्थविरस्य) प्राचीन पुरुष का नाम इसीलिये (विष्णुः) विष्णु है, क्योंकि (तवसः, तवीयान्) यह तेरा स्वामी है, इसलिये इसका नाम विष्णु है अथवा यह सर्वव्यापक होने से सर्वस्वामी है, इसलिये इसका नाम विष्णु है॥३॥
+पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तियुक्त उक्त परमात्मा (एतां) इस (पृथिवीं) पृथिवी को (त्रिः) तीन प्रकार से (विचक्रमे) रचता है, (शतर्चसं) जिस पृथिवी में सैकड़ों प्रकार की (अर्चिः) ज्वालायें हैं, (महित्वा) जिसका बहुत विस्तार है और इस(स्थविरस्य) प्राचीन पुरुष का नाम इसीलिये (विष्णुः) विष्णु है, क्योंकि (तवसः, तवीयान्) यह तेरा स्वामी है, इसलिये इसका नाम विष्णु है अथवा यह सर्वव्यापक होने से सर्वस्वामी है, इसलिये इसका नाम विष्णु है॥३॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

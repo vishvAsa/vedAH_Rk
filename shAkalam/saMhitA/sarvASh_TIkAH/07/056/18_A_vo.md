@@ -3,7 +3,6 @@ title = "018"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सत्राचीम्- सर्वत्र गतिशीलम्। रातिम्- तव दानम्। गृणानः- स्तुवन्। मरुतः। वः- युष्माकम्।  होता- आह्वाता। सत्तः- निषण्णः सन्। वः- युष्मान्। आ जोहवीति- आह्वयति। यः। ईवतः-  प्रपन्नस्य। वृषणः- वर्षकः। गोपाः- पालकः। अस्ति- भवति। सः। अद्वयावी- अवञ्चकः। वः-  युष्मान्। उक्थैः- मन्त्रैः। हवते- आह्वयति॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुतः** **सत्त:** होतृषदने निषण्णोऽस्मदीयः **होता** **सत्राचीं** सर्वतो गमनशीलं **रातिं** त्वदीयं दानं **गृणानः** स्तुवन् **वः** युष्मान् **आ** **जोहवीति** भृशमाह्वयति । हे **वृषणः** कामानां वर्षितारो मरुतः **यः** होता **ईवतः** गच्छतः व्यापारवतो यजमानस्य **गोपाः** **अस्ति** युष्मदाह्वाननिमित्तेन रक्षको भवति **सः** होता **अद्वयावी** मायारहितः सन् **वः** युष्मान् **उक्थैः** स्तोत्रैः **हवते** स्तौति ॥
@@ -251,8 +254,6 @@ In c both Geldner and Renou supply ‘sacrificer’ with gen. ī́vataḥ ‘suc
 
 gopā́- ‘herdsman’ is regularly construed with ṛtásya ‘truth’ (e.g., I.163.5, III.10.2), so perhaps that phrase is meant, anticipating ádvayāvī ‘without duplicity’ in d. Note that the gopā́- is also ádabdha-/ ádabhya- ‘undeceivable’ (e.g., II.9.6, X.25.7).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details open><summary><h2>18-19 ...{Loading}...</h2></summary>
 
@@ -277,10 +278,6 @@ Der Hotri erfleht, nachdem er sich gesetzt hat, preisend eure vereinte Gabe, ihr
 
 Euch ruft herbei der Priester auf dem Sitze, und preist euch an die mannichfache Gabe; Auch er, der solchen Mann beschützt, o Helden, er ruft euch an mit Sprüchen ohne Falschheit.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

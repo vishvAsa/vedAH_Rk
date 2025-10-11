@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - वसिष्ठः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणबाधक। त्वम्। वर्म- कवचम्। असि- भवसि। सप्रथः- पृथुः। पुरोयोधः-  अस्माकं पुरतोऽस्मदर्थं शत्रुभिर्योद्धा। त्वया युजा- त्वद्योगेन। प्रति ब्रुवे- शत्रून् प्रतिवदामि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** शत्रूणां हिंसकेन्द्र **त्वं** **वर्म** अस्माकं कवचम् **असि** । कवचवद्रक्षकोऽसीत्यर्थः । **सप्रथः** सर्वतः पृथुश्चासि । **पुरोयोधश्च** पुरो योद्धा चासि । **त्वया** **युजा** त्वया सहायेन **प्रति** **ब्रुवे** शत्रून् प्रतिब्रवीमि । प्रतिहन्मीत्यर्थः ॥ ॥ १५ ॥
@@ -174,7 +177,6 @@ You are armor of broad extent and a fighter in the front, o Vr̥tra-smasher. Wit
 <details><summary>Jamison Brereton Notes</summary>
 
 On the basis of VIII.92.32 tváyéd indra yujā́vayám, práti bruvīmahi spṛ́dhaḥ “With you as yokemate, we would respond to the challengers,” I supply ‘challenger’ here.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
@@ -206,8 +208,6 @@ Du bist ein weiter Panzer uns, und Führer, der du Feinde schlägst; Zu dir, dem
 И передовой боец, о убийца Вритры.  
 С тобой как с союзником я защищаюсь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

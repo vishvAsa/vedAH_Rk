@@ -3,7 +3,6 @@ title = "001"
 devataa = "वास्तोष्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -256,6 +254,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वास्तोष्पते- गृहपालक देव। अस्मान्- नः। प्रतिजानीहि- बुद्ध्यस्व। नः- अस्माकम्। स्वावेशः-  शोभननिवासः। अनमीवः- आरोग्यकरः। भव। यत्। त्वा- त्वां प्रति। ईमहे- याचामहे। तत्।  नः- अस्मभ्यम्। जुषस्व- प्रयच्छ। नः- अस्मभ्यम्। द्विपदे- मनुष्येभ्यः। चतुष्पदे- पशुभ्यश्च।  शम्- शान्त्यै। भव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वास्तोष्पते** गृहस्य पालयितर्देव त्वम् **अस्मान्** त्वदीयान् स्तोतॄनिति **प्रति** **जानीहि** प्रबुध्यस्व । तदनन्तरं **नः** अस्माकं **स्वावेशः** शोभननिवेशः **अनमीवः** अरोगकृच्च **भव** । किंच वयं **त्वा** त्वां **यत्** धनम् **ईमहे** याचामहे त्वमपि **तत्** धनं **नः** अस्मभ्यं **प्रति** **जुषस्व** प्रयच्छ । अपि च **नः** अस्माकं **द्विपदे** पुत्रपौत्रादिजनाय **शं** सुखकरः **भव** । **चतुष्पदे** अस्मदीयाय गवाश्वादिवर्गाय च **शं** सुखकरो भव ॥
@@ -284,7 +287,6 @@ two-footed, weal for our four-footed.
 <details><summary>Jamison Brereton Notes</summary>
 
 On práti √jñā see comm. ad III.45.4.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -318,8 +320,6 @@ O Wohnungsherr, erkenn uns als die deinen, schaff guten Eingang uns, entfern die
 О чем мы тебя просим, обрадуй нас этим!  
 Да будет счастье нашим двуногим, счастье четвероногим!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

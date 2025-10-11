@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। तव- ते। प्रणीती- प्रकर्षनीत्या। जोहुवानान्- स्तुवतः। नॄन्- मनुष्यान्। रोदसी-  द्यावापृथिव्यौ। सं निनेथ- सम्यक् नयसि। महे- महते। क्षत्राय- क्षत्रियधर्माय। शवसे- बलाय।  जज्ञे- जातः। हि- खलु। अतूतुजिम्- अदातारम्। चित्- एव। तूतुजिः- दाता सन्। अशिश्नत्-  हिनस्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** यत् यस्त्वं **तव** **प्रणीती** प्रणीत्या प्रणयनेन **जोहुवानान्** भृशं स्तुवतः **नॄन्** **रोदसी** द्यावापृथिव्यौ **सं** **निनेथ** संगमयसि । दिवि पृथिव्यां च स्तोतॄन् प्रतिष्ठापयसीत्यर्थः । स त्वं **महे** महते **क्षत्राय** धनाय । रयिः क्षत्रम्' इति धननामसु पाठात् । **शवसे** बलाय च । यजमानेभ्यो महद्धनं बलं च दातुमित्यर्थः । **जज्ञे** जज्ञिषे। **हि** इति हेत्वर्थे । यत एवमतः कारणात् **अतूतुजिम्** अदातारमयजमानं **तूतुजः** दाता यजमानः **अशिश्नत्** । श्नथतिर्हिंसाकर्मा । तस्माल्लडर्थे लुङ्। हिनस्ति । **चित्** इत्येवकारार्थे ॥
@@ -258,7 +261,7 @@ I take ab as dependent on the previous verse, 2d, describing Indra’s cosmogoni
 
 The position of yád in this dependent clause is somewhat disturbing. It occurs in Wackernagel’s position in the second pāda (b), but the a-pāda is part of this same clause and is intimately interwoven with the elements in pāda b: note esp. the acc. pl.
 
-jóhuvānān, which modifies nṝ́n, the third word in b. Although superficially late position of subordinating elements is not uncommon in the RV (see, e.g., hí in pāda c), what precedes is generally syntactically unified, belonging to a single constituent (as in pāda c), but this is not true of the assorted material found in pāda a. I have no explanation.
+jóhuvānān, which modifies nṝ́n, the third word in b. Although superficially late position of subordinating elements is not uncommon in the RV (see, e.g., hí in pāda c), what precedes is generally syntactically unified, belonging to a single constituent (as in pāda c), but this is not true of the assorted material found in pāda a. I have no explanation.
 
 For the oppositional pun in sám … ninétha, standing for ví (… ninétha), see the published introduction. As I explained there, since sám and ví are preverbs of opposite 32 meaning that frequently pattern together, the sám here evokes the ví of the lexeme ví √hvā earlier in the hymn (with √hvā present here in the intensive part. jóhuvānān) and the various expressions of Indra’s pushing apart the two world-halves. E.g., nearby VII.23.3c ví bādhiṣṭa syá ródasī mahitvā́(I.51.10, VI.29.5, etc.). These associations would prompt the audience to take “bring together” as standing for “push apart,” in the standard mythology of Indra.
 
@@ -288,8 +291,6 @@ Als leitend du, wie Männer, die dich rufen, zusammenführtest, Indra, beide Wel
 Ведь он родился для великой власти, для высшей силы -  
 (То) быстрый столкнул совсем небыстрого.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

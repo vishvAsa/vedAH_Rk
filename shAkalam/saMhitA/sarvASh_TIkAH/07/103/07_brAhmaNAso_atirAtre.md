@@ -3,7 +3,6 @@ title = "007"
 devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। प्रावृषीणम्- वर्षाकालभवमहः। बभूव- भवति तदा। मण्डूकाः- हे मण्डूका यूयम्।  अतिरात्रे- रात्रिमतीत्य च। सोमे- सोमोपासने। ब्राह्मणासः- मन्त्रविदः। न- वदन्तीव। पूर्णं सरः प्रति रात्रौ। अभितः। वदन्तः- ब्रुवन्तः। संवत्सरस्य। अहः- दिवसेपि। परि- परितः। स्थ-  भवथ॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 रात्रिमतीत्य वतन्ते इत्यतिरात्रः अतिरात्रे न सोमे । यथा अतिरात्राख्ये सोमयागे ब्राह्मणासो ब्राह्मणाः रात्रौ स्तुतशस्त्राणि पर्यायेण शंसन्ति हे मण्डूकाः द्वितीयोनशब्दः सम्प्रत्यर्थे न सम्प्रति पूर्णं सरः अभितः सर्वतः तथा वदन्तः रात्रौ शब्दं कुर्वाणायूयं तदहः तद्दिनं परिष्ठ परितः सर्वतोभवथ यदहः प्रावृषीणं प्रावृषेण्यं प्रावृषिभवं बभूव तस्मिन्नहनि सर्वतोवर्तमानाभवथेत्यर्थः ॥ ७ ॥
@@ -246,8 +249,6 @@ marking the rainy season.
 The first ritual application is that of the Atirātra or “Overnight” soma ritual. Frogs are generally nocturnal; they are active during the day only if the weather is rainy or very humid. So, the first signal to humans of the frogs’ emergence from estivation would be the sound of the nocturnal frog chorus when the rain supplied them with the impetus to emerge. Hence they are compared to brahmins at an Overnight ritual speaking around a soma vessel configured as a pond.
 
 The similes are complexly intertwined: the frogs are compared to brahmins, but those hypothetical brahmins are then implicitly compared to frogs around a pond - in other words to the original target of comparison.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -287,8 +288,6 @@ Wie Priester bei dem übernächt'gen Soma rings um die volle Kufe lustig singen,
 Который бывает предвестником дождей.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मण्डूकाः
@@ -309,7 +308,7 @@ Wie Priester bei dem übernächt'gen Soma rings um die volle Kufe lustig singen,
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  उक्त मन्त्र में परमात्मा ने वर्षाकाल में वैदिकोत्सव के मनाने का उपदेश किया है कि हे मनुष्यों ! तुम वर्षाऋतु में प्रकृति के विचित्र दृश्य को देख कर वैदिक सूक्तों से उपासना करो और सोमादि यज्ञों द्वारा ब्रह्मोत्सवों को मनाओ। विचित्र बात है कि जिस जाति के धर्मपुस्तक में यह उपदेश था, उस जाति में इस भाव को छोड़कर अन्य सब प्रकार के उत्सव वर्षाऋतु में मनाये जाते हैं, किन्तु वैदिकोत्सव कोई नहीं मनाया जाता, इससे हानिप्रद बात और क्या हो सकती है ॥७॥
+भावार्थभाषाः -  उक्त मन्त्र में परमात्मा ने वर्षाकाल में वैदिकोत्सव के मनाने का उपदेश किया है कि हे मनुष्यों ! तुम वर्षाऋतु में प्रकृति के विचित्र दृश्य को देख कर वैदिक सूक्तों से उपासना करो और सोमादि यज्ञों द्वारा ब्रह्मोत्सवों को मनाओ। विचित्र बात है कि जिस जाति के धर्मपुस्तक में यह उपदेश था, उस जाति में इस भाव को छोड़कर अन्य सब प्रकार के उत्सव वर्षाऋतु में मनाये जाते हैं, किन्तु वैदिकोत्सव कोई नहीं मनाया जाता, इससे हानिप्रद बात और क्या हो सकती है ॥७॥
 </details>
 
 <details><summary>आर्यमुनि (सं) - विषयः</summary>

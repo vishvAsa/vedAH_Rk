@@ -3,7 +3,6 @@ title = "005"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "द्विपदा विराट्"
 - ऋषिः - वसिष्ठः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञं प्रति। प्र स्थात- प्रस्थानं कुरुत। पत्मन्- मार्गे। त्मना- स्वतः। यातेव- गन्तेव। हिनोत-  गच्छत॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यज्ञस्तुतिरियम् । हे जनाः **यज्ञम्** **अभि** **प्र** **स्थात** अभिक्रमत । **अहेव** इति पूरणौ । अपि च **पत्मन्** पत्मनि यज्ञमार्गे **त्मना** स्वयमेव **यातेव** गन्तेव **हिनोत** गच्छत । ' हि गतौ' इति धातुः ॥
@@ -165,8 +168,6 @@ Like a (chariot-)driver in flight, spur it on by yourself.
 
 sá śardhad aryó víṣuṇasya jantóḥ, where the second phrase shows (or at least strongly suggests) that aryáḥ is gen. sg. On the phrase see Thieme (Fremdling 54-55).
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -174,6 +175,7 @@ Note the chiasmic verb sequence 4b dádhāta [… 5a sthāta] ... 5d tmánā hin
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -204,8 +206,6 @@ Wohlan, so kommt denn – herbei zum Opfer, im Fluge fahrend, – beeilt euch se
 Сами поторапливайте (ее), словно ездок в пути!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -216,17 +216,17 @@ Wohlan, so kommt denn – herbei zum Opfer, im Fluge fahrend, – beeilt euch se
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
-फिर कन्याजन कैसे विद्या को बढ़ावें, इस विषय को अगले मन्त्र में कहते हैं ॥
+फिर कन्याजन कैसे विद्या को बढ़ावें, इस विषय को अगले मन्त्र में कहते हैं ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे कन्याओ ! तुम विद्याप्राप्ति के लिये (अहेव) दिनों के समान (यज्ञम्) पढ़ने-पढ़ाने रूप यज्ञ के (अभि, प्र, स्थात) सब ओर से जाओ (त्मना) अपने से (पत्मन्) मार्ग में (यातेव) जाते हुए के समान (हिनोत) बढ़ाओ ॥५॥
+पदार्थान्वयभाषाः -  हे कन्याओ ! तुम विद्याप्राप्ति के लिये (अहेव) दिनों के समान (यज्ञम्) पढ़ने-पढ़ाने रूप यज्ञ के (अभि, प्र, स्थात) सब ओर से जाओ (त्मना) अपने से (पत्मन्) मार्ग में (यातेव) जाते हुए के समान (हिनोत) बढ़ाओ ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे कन्याओ ! जैसे दिन अनुकूल क्रम से जाते और आते हैं और जैसे बटोही जन नित्य चलते हैं, वैसे ही अनुकूल क्रम से विद्याप्राप्ति मार्ग से विद्याप्राप्तिरूप यज्ञ को बढ़ाओ ॥५॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे कन्याओ ! जैसे दिन अनुकूल क्रम से जाते और आते हैं और जैसे बटोही जन नित्य चलते हैं, वैसे ही अनुकूल क्रम से विद्याप्राप्ति मार्ग से विद्याप्राप्तिरूप यज्ञ को बढ़ाओ ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

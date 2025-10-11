@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित्याः- अखण्डप्रकृतिजाः। रुद्राः- द्रवणाधिदेवताः। वसवः- सम्पद्दायकाः। इदम्- एतम्।  नवीयः- अभिनवम्। क्रियमाणम्। ब्रह्म- मन्त्रमुपासनं वा। जुषन्त- सेवन्ताम्। दिव्याः- नभोजाः।  पार्थिवासः- भौमाः। गोजाताः- रश्मिजाताः। उत- अपि  च। ये अन्ये। यज्ञियासः-  यज्ञसम्बन्धिनः। ते। नः- अस्मान्। शृण्वन्तु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नवीयः** नवतरमस्माभिः **क्रियमाणम्** **इदं** **ब्रह्म** स्तोत्रम् **आदित्याः** दिव्याः। ‘अदितिर्द्यौः ' (ऋ. सं. १. ८९. १०) इति श्रुतेः । रुद्राः आन्तरिक्षाः **वसवः** पार्थिवाश्च **जुषन्त** जुषन्तां सेवन्ताम् । अन्ये **दिव्याः** दिवि भवाः **पार्थिवासः** पार्थिवाः **गोजाताः** गोः पृश्नेर्जाताः ।  ‘नाको गौः' इति साधारणनामसु पाठात् । **उत** अपि च **ये** **यज्ञियासः** यज्ञार्हास्ते सर्वेऽपि **नः** अस्माकं हवं **शृण्वन्तु** ॥
@@ -234,8 +237,6 @@ Let them hear us—the Heavenly ones, the Earthly ones, the Cow-Born  ones, and 
 The first hemistich refers, as often, to the hymn just concluding, with particular insistence on its absolute currency in the present moment, as shown by the 50 pres. participle and the comparative adj. ‘newer’: idám bráhma kriyámānaṃ návīyaḥ “this sacred formulation being made anew.” Who the “cow-born ones” are is debated (see, e.g., Geldner, Renou, and the long n. by Bloomfield [RV Rep. 316-17]), a question I confess to finding not very interesting, perhaps because the longueurs of this hymn have dulled my senses.
 
 The last phrase of 14, the afterthought nominal rel. cl. utá yé yajñíyāsaḥ, is probably meant to include all stray divinities and cosmic or natural elements that don’t fall under the first three categories (heavenly, earthly, cow-born) but might deserve worship. It might be better rendered “and those (others) who are worthy of the sacrifice.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
@@ -270,8 +271,6 @@ Aditja's, Rudra's und die Vasu's mögen dies neugemachte Andachtslied geniessen,
 А также (те,) достойные жертв, что рождены от коровы!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -287,12 +286,12 @@ Aditja's, Rudra's und die Vasu's mögen dies neugemachte Andachtslied geniessen,
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वानो ! जो आप लोग (आदित्याः) अड़तालीस वर्ष प्रमाण से ब्रह्मचर्य सेवन से विद्या पढ़े हुए हों वा (रुद्राः) चवालीस वर्ष प्रमाण ब्रह्मचर्य से विद्या पढ़े हुए हों वा (वसवः) चालीस वर्ष परिमाण जिसका है ऐसे ब्रह्मचर्य्य से विद्या पढ़े हुए हैं वा (दिव्याः) शुद्ध मनोहर गुण आदि में प्रसिद्ध वा (पार्थिवासः) पृथिवी में विदित वा (गोजाताः) सुशिक्षित वाणी से उत्पन्न हुए (उत) और (ये) जो (यज्ञियासः) यज्ञ सम्पादन करनेवाले हैं वे (नः) हम लोगों के लिये (इदम्) इस प्रत्यक्ष (नवीयः) अत्यन्त नवीन (क्रियमाणम्) वर्त्तमान में सिद्ध होते हुए (ब्रह्म) बहुत धन वा अन्न को (जुषन्त) सेवें और हम लोगों का पढ़ा हुआ (शृण्वन्तु) सुनें ॥१४॥
+पदार्थान्वयभाषाः -  हे विद्वानो ! जो आप लोग (आदित्याः) अड़तालीस वर्ष प्रमाण से ब्रह्मचर्य सेवन से विद्या पढ़े हुए हों वा (रुद्राः) चवालीस वर्ष प्रमाण ब्रह्मचर्य से विद्या पढ़े हुए हों वा (वसवः) चालीस वर्ष परिमाण जिसका है ऐसे ब्रह्मचर्य्य से विद्या पढ़े हुए हैं वा (दिव्याः) शुद्ध मनोहर गुण आदि में प्रसिद्ध वा (पार्थिवासः) पृथिवी में विदित वा (गोजाताः) सुशिक्षित वाणी से उत्पन्न हुए (उत) और (ये) जो (यज्ञियासः) यज्ञ सम्पादन करनेवाले हैं वे (नः) हम लोगों के लिये (इदम्) इस प्रत्यक्ष (नवीयः) अत्यन्त नवीन (क्रियमाणम्) वर्त्तमान में सिद्ध होते हुए (ब्रह्म) बहुत धन वा अन्न को (जुषन्त) सेवें और हम लोगों का पढ़ा हुआ (शृण्वन्तु) सुनें ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यों को चाहिये कि धार्मिक विद्वानों को बुलाय सत्कार कर अन्नादिकों से अच्छे प्रकार तृप्त कर अपना पढ़ा अच्छे प्रकार सुना, शेष इन से सुनें, जिससे भ्रमरहित सब हों ॥१४॥
+भावार्थभाषाः -  मनुष्यों को चाहिये कि धार्मिक विद्वानों को बुलाय सत्कार कर अन्नादिकों से अच्छे प्रकार तृप्त कर अपना पढ़ा अच्छे प्रकार सुना, शेष इन से सुनें, जिससे भ्रमरहित सब हों ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

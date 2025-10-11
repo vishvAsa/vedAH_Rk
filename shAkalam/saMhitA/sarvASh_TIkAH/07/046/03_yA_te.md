@@ -3,7 +3,6 @@ title = "003"
 devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसिष्ठः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -239,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+या। ते- तव। दिद्युत्- हेतिः। दिवस्परि- अन्तरिक्षे। अवसृष्टा। क्ष्मया- भूमौ। चरति। सा। नः-  अस्मान्। परि वृणख्नु- वर्जयतु। स्वपिवात- स्वाप्तवचनेति यास्कः। ते- तव। सहस्रम्- प्रभूतानि।  भेषजा- भेषजान्यौषधानि। नः- अस्माकम्। तोकेषु तनयेषु- सन्ततिषु। मा। रीरिषः- हिंसां  कृथाः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे रुद्र **ते** वैधुतात्मनस्तव संबन्धिनी **दिवस्परि** अन्तरिक्षसकाशात् **अवसृष्टा** विमुक्ता **या** **दिद्युत्** अशनिरूपा हेतिः **क्ष्मया** क्षित्या क्षितौ वा **चरति** वर्तते **सा** दिद्युत् **नः** अस्मान् **परि** **वृणक्तु** परित्यजतु । अपि च हे **स्वपिवात** **ते** तव **सहस्रं** बहूनि **भेषजा** भेषजानि यान्यौषधानि सन्ति तान्यस्मभ्यं प्रयच्छेति शेषः । **नः** अस्माकं **तोकेषु** पुत्रेषु **तनयेषु** च **मा** **रिरिषः** हिंसां मा कृथाः ॥
@@ -267,8 +270,6 @@ divás in the sense of ‘from’ (note the close sandhi divás pári); the seco
 I take the hapax voc. svapivāta to the lexeme ápi √vat, which I interpr. after the manner of Tichy. See comm. ad I.128.2. The intimacy implied by this lexeme (‘be/make familiar/intimate’) is appropriate to the focus on the household disc. above.
 
 My tr. “o you who are our familiar” does not represent the su-, but it is difficult to incorporate it without making an already heavy tr. even more so.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -305,8 +306,6 @@ Der Blitz, den du vom Himmel niederstürzen lässt, der auf die Erde dringet, de
 Не повреди нас в продолжении рода!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रुद्रः
@@ -327,7 +326,7 @@ Der Blitz, den du vom Himmel niederstürzen lässt, der auf die Erde dringet, de
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जिस राजा का न्यायप्रकाश सर्वत्र प्रदीपता है, वही सबको अधर्माचरण से रोक सकता है, जिसके राज्य में हजारों दूत और चार गुप्तचर मुखवर वैद्यजन विचरते हैं, उसकी थोड़ी भी राज्य की हानि नहीं होती है ॥३॥
+भावार्थभाषाः -  जिस राजा का न्यायप्रकाश सर्वत्र प्रदीपता है, वही सबको अधर्माचरण से रोक सकता है, जिसके राज्य में हजारों दूत और चार गुप्तचर मुखवर वैद्यजन विचरते हैं, उसकी थोड़ी भी राज्य की हानि नहीं होती है ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

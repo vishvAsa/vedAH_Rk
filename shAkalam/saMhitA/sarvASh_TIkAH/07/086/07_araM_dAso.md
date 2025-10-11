@@ -3,7 +3,6 @@ title = "007"
 devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दासः- सेवकः। न- इव। मीळ्हुषे- वर्षकाय। अहम्। देवाय- द्योतनशीलाय। भूर्णये- लोकभर्त्रे।  अनागाः- अपापः। अरं कराणि- परिचर्यां करवाणि। अर्यः- आर्यशीलः। देवः- वरुणः। अचितः-  अज्ञानिनोपि। अचेतयत्- ज्ञाने प्रबोधयति। गृत्सम्- स्तोतारम्। राये- सम्पदे। कवितरः-  क्रान्तदर्शी सन्। जुनाति- प्रेरयति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 मीह्ळुषे सेक्रे कामानां वर्षित्रे भूर्णये जगतोभर्त्रे देवाय दानादिगुणयुक्ताय वरुणाय अनागाः तत्प्रसादात् अपापः सन्नहं अरं अलं पर्याप्तं कराणि परिचरणं करवाणि दासोन यथा भृत्यः स्वामिने सम्यक्परिचरति तद्वत् अर्यः स्वमी सच देवः अचितः अजानतोस्मान् अचेत- यत् चेतयत् प्रज्ञापयतु गृत्सं स्तोतारञ्च कवितारः प्राज्ञतरोदेवः राये धनाय धनप्राप्त्यर्थं जुनाति जुनातु प्रेरयतु ॥ ७ ॥
@@ -223,6 +226,11 @@ _________
 Like a servant, I will give satisfaction to the generous (master); freed  from offense, I (will give satisfaction) to the ardent one.  
 The civilizing god [=Varuṇa] made those without understanding to  
 understand; the better sage poet [=Vasiṣṭha] speeds his clever (patron)  [=Varuṇa] to riches.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+7b - ‘god’ omitted à “to the ardent god” ____ 110 Renou treats VII.90-92 in EVP XV.105-9.
 </details>
 
 <details><summary>Griffith</summary>
@@ -248,8 +256,6 @@ Dem Knechte gleich will ich dem gnäd'gen dienen, Von Schuld befreit dem eifervo
 Благородный бог вразумил неразумных.  
 Сметливого еще более умный (бог) подгоняет к богатству.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

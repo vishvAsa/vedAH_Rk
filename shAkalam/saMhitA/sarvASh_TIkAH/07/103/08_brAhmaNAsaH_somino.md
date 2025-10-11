@@ -3,7 +3,6 @@ title = "008"
 devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -208,6 +206,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+परिवत्सरीणम्- सांवत्सरिकम्। ब्रह्म- मन्त्रम्।  कृण्वन्तः- कुर्वन्तः। सोमिनः- रसनिष्पादकाः।  ब्राह्मणाः- उपासकाः। वाचम्। अक्रत- अकुर्वन्। अध्वर्यवः- ध्वररहितकर्मकामाः। घर्मिणः-  उष्णयुख्नाः। सिष्विदानाः- स्विद्यन्तः। कठिनकर्मपरा इति भावः। गुह्याः- अबहिष्कृताः। के चित्।  न- इव। आविर्भवन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सोमिनः सोमयुक्ताः परिवत्सरीणं सांवत्सरिकं गावामयनिकं ब्रह्मस्तुतशस्त्रात्मकं कृण्वन्तः कुर्वन्तो ब्राह्मणासः लुप्तोपममेतत् ब्राह्मणाइव वाचं शब्दं अक्रत अकृषत इमे मण्डूकाः अपिच घर्मिणो घर्मेण प्रव् अर्ग्येण चरन्तः अध्वर्यवः अध्वरस्य नेतारः ऋत्विजइव सिष्विदानाः स्विद्यद्गात्राः गुत्द्याः घर्मकाले बिले निगूढाः केचित् केचन मण्डूकाः न सम्प्रति वृष्टौ सत्यां आविर्भवन्ति जायन्ते ॥ ८ ॥
@@ -238,8 +241,6 @@ ritual), sweating, become visible; none are hidden.
 But as the day dawns, the frogs become visible, with their drive to mate overriding any instinct to flee or conceal themselves. This visibility is insistently conveyed by “[they] become visible; none are hidden” (āvír bhavanti gúhyā ná ké cit).
 
 The frogs are compared to two different kinds of priests: brahmins (7a, 8a), who are here responsible for ritual speech, and Adhvaryus (8c), the priests who do the physical labor in Vedic ritual. They are “sweating” (siṣvidānā́ḥ): sweat is a sign of hard ritual labor in Indo-Iranian religious terminology (see my 2011 [2015] “Avestan xšuuīd: A Relic of Indo-Iranian Ritual Vocabulary,” Bulletin of the Asia Institute 25: 19-29). Here, once again the image does double duty -- the frogs would be covered with water drops from the rains, but they are also compared to the hard-working priests officiating at the Pravargya ritual. The Pravargya is an especially sweatinducing ritual, since it involves a hot milk drink (gharmá-), which must be tended as it is heated over the fire. Other features of the Pravargya conform to aspects of the hymn: there is a year-long dīkṣā (period of consecration for the sacrificer), reflected 137 in both 1a (saṃvatsaráṃ śaśayānā́ḥ “lying for a year”) and 8b (bráhma kṛṇvántaḥ parivatsarī́ṇam “creating their yearly sacred formulation”); this dīkṣā involves a taboo on water or moisture of any kind. But the most crucial intersection between the Pravargya and frog behavior is found in the next vs. Note in passing the non-etym. figure vā́cam akrata bráhma kṛṇvántaḥ with two forms of √kṛ governing two words for speech, with the subject, brāhmaṇā́saḥ in a derivational relationship to the 2nd form of speech.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -278,8 +279,6 @@ Wie somatrunkne Priester schreien laut sie, wenn sie ihr jährliches Gebet verri
 Адхварью, готовящие горячее молоко, в испарине –  
 (Все) стали явными, никто не (остался) скрытым.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

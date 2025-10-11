@@ -3,7 +3,6 @@ title = "004"
 devataa = "वसिष्ठपुत्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नरः- हे नेतारो वसिष्ठाः। वः- युष्माकम्। ब्रह्मणा- मन्त्रेणोपासनेन वा। पितॄणाम्-  अस्मत्पूर्वपुरुषाणामस्मदाचार्याणां वा। जुष्टी- प्रीतिः। अक्षम्- रथाक्षम्। अव्ययम्- व्ययामि  चालयामीत्यर्थः। न- मा। किल। रिषाथ- क्षीणा भवथ। लक्ष्यप्रापकगतिप्रतीकरथे  लक्ष्योन्मुखप्रयाणं सुखेन भवत्वित्यत्रेदं प्रार्थनम्। वसिष्ठाः- हे चित्तवृत्तिस्तम्भकराः। इन्द्रे।  शक्वरीषु ऋक्षु। बृहता रवेण- बृहत्साम्ना। शुष्मम्- बलम्। आदधात- धारयत॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरः** **वः** युष्मदीयेन **ब्रह्मणा** स्तोत्रेण **पितॄणां** **जुष्टी** प्रीतिर्भवति । पितॄणामित्यनेन पारोक्ष्येण वसिष्ठस्यैव कीर्तनम् । अहं प्रीतो भवामीत्यर्थः । अथेदानीं स्वमाश्रमं गन्तुमुद्यतोऽहम् **अक्षं** रथस्याक्षम् **अव्ययं** व्ययामि । लडर्थे लङ् । चालयामीत्यर्थः । यूयं **न** **किल** **रिषाथ** न च क्षीणा भवथ हे **वसिष्ठाः** **यत्** यस्मात् **शक्वरीषु** ऋक्षु **बृहता** श्रेष्ठेन **रवेण** साम्ना **इन्द्रे** **शुष्मं** बलम् **अदधात** अधारयत ॥
@@ -241,7 +244,7 @@ impetuous force in Indra, o Vasiṣṭhas.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Geldner appears to be right that this vs. is also Indra’s speech. He picks up the bráhmaṇā vaḥ from 3d in pāda a and also addresses them as ‘superior men’ (voc. naraḥ), just as he spoke about the superior men (acc. nṝ́n) in 1c.
+Geldner appears to be right that this vs. is also Indra’s speech. He picks up the bráhmaṇā vaḥ from 3d in pāda a and also addresses them as ‘superior men’ (voc. naraḥ), just as he spoke about the superior men (acc. nṝ́n) in 1c.
 
 Geldner takes pitṝṇā́m with both júṣṭī and bráhmaṇā; I doubt the first, as does Oldenberg
 
@@ -278,8 +281,6 @@ O Männer, um der Liebe und des Gebetes eurer Väter willen, hab ich die Achse e
 Вы придали Индре мужество, о Васиштхи.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त एव
@@ -300,7 +301,7 @@ O Männer, um der Liebe und des Gebetes eurer Väter willen, hab ich die Achse e
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो मनुष्य अपनी शक्ति को बढ़ा के दुष्टों को मार धन की वृद्धि से सब के अर्थ जो नष्ट नहीं, उस सुख को प्रीति से बढ़ाते, वे बड़ी कीर्ति को पाते हैं ॥४॥
+भावार्थभाषाः -  जो मनुष्य अपनी शक्ति को बढ़ा के दुष्टों को मार धन की वृद्धि से सब के अर्थ जो नष्ट नहीं, उस सुख को प्रीति से बढ़ाते, वे बड़ी कीर्ति को पाते हैं ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "विराट्"
 - ऋषिः - वसिष्ठः
 - छन्दः - विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्र- उद्गूर्ण। दस्म- दर्शनीय। मन्यमानस्य- उपासकेन ध्यातस्य। ते- तव। महिमानम्-  माहात्म्यम्। नु चित्- केचन। नु- क्षिप्रम्। न उदश्नुवन्ति- न प्राप्नुवन्ति। इन्द्र। न वीर्यं प्राप्नुवन्ति।  न राधः संसिद्धिं प्राप्नुवन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दस्म** दर्शनीय **मन्यमानस्य** स्तूयमानस्य **ते** तव **महिमानम्** । नू चिदिति प्रतिषेधार्थः । **नु** क्षिप्रं **नू** **चित्** **उदश्नुवन्ति** केचन न प्राप्नुवन्ति । हे **उग्र** उद्गूर्ण **ते** तव **राधः** धनं **न** उदश्नुवन्ति ॥
@@ -217,7 +220,6 @@ nor to your heroism, Indra, nor to your generosity—
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner seems to take the participle mányamānasya as a functional reflexive ‘think oneself to be’, with the added sense of self-conceit (“der du dir darauf etwas einbildest”). Although I would certainly not ascribe to Indra excessive modesty, in this context, where the poet is emphasizing the poets’ inability to capture all of Indra’s greatness, I think it unlikely that he is focusing on Indra’s egotism. I instead take the participle in a passive sense ‘be thought to be’, as sometimes elsewhere - pace Kulikov (339-40), who follows Gotō. 26
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -251,8 +253,6 @@ Niemals erreichen andre deine Grösse, o vielgerühmter, wunderbarer, starker, N
 Ни мужества твоего, о Индра, ни щедрости!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -268,12 +268,12 @@ Niemals erreichen andre deine Grösse, o vielgerühmter, wunderbarer, starker, N
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (दस्म) दुःख के विनाशनेवाले (उग्र) तेजस्वी (इन्द्र) परमैश्वर्ययुक्त राजा ! (मन्यमानस्य) माननीय के माननेवाले (ते) आपके (महिमानम्) बड़प्पन को (नु) शीघ्र सज्जन (उत्, अश्नुवन्ति) उन्नति पहुँचाते हैं उनके विद्यमान होते (ते) आपके (वीर्यम्) पराक्रम को शत्रुजन नष्ट (न) न कर सकते हैं (चित्) और (न) न वहाँ (नु) शीघ्र (राधः) धन ले सकते हैं ॥८॥
+पदार्थान्वयभाषाः -  हे (दस्म) दुःख के विनाशनेवाले (उग्र) तेजस्वी (इन्द्र) परमैश्वर्ययुक्त राजा ! (मन्यमानस्य) माननीय के माननेवाले (ते) आपके (महिमानम्) बड़प्पन को (नु) शीघ्र सज्जन (उत्, अश्नुवन्ति) उन्नति पहुँचाते हैं उनके विद्यमान होते (ते) आपके (वीर्यम्) पराक्रम को शत्रुजन नष्ट (न) न कर सकते हैं (चित्) और (न) न वहाँ (नु) शीघ्र (राधः) धन ले सकते हैं ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे राजन् ! आप अच्छी परीक्षा कर सुपरीक्षित, धार्मिक, शूर, विद्वान् जनों को अपने निकट रक्खें तो कोई भी शत्रुजन आपको पीड़ा न दे सके, सदा वीर्य और ऐश्वर्य से बढ़ो ॥८॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे राजन् ! आप अच्छी परीक्षा कर सुपरीक्षित, धार्मिक, शूर, विद्वान् जनों को अपने निकट रक्खें तो कोई भी शत्रुजन आपको पीड़ा न दे सके, सदा वीर्य और ऐश्वर्य से बढ़ो ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "004"
 devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- अमी। देवानाम्। सधमादः- सह मादकाः। आसन्- अभवन्। ऋतवानः-  प्रकृतिनियतिभूतसत्ययुख्नाः। कवयः- क्रान्तदर्शिनः। पूर्व्यासः- पुराणाः। गूळ्हम्- अन्तर्हितम्।  ज्योतिः- ज्ञानप्रकाशम्। पितरः- अस्मदाचार्याः। अन्वविन्दन्- लेभिरे। सत्यमन्त्राः। उषासम्-  ज्ञानोदयदेवताम्। अजनयन्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त** **इत्** तेऽङ्गिरस एवर्षीणां मध्ये **देवानां** **सधमादः** सह माद्यन्तः **आसन्** अभवन् । त इत्युक्तं क इत्याह । ये **ऋतावानः** सत्यवन्तः **कवयः** अनूचानाः। ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. ३८) इति श्रुतेः । **पूर्व्यासः** पूर्वकालीनाः **पितरः** पालयितारः सर्वस्याङ्गिरसः **गूळ्हं** तमसावृतं **ज्योतिः** सौर्यं तेजः **अन्वविन्दन्** लब्धवन्तो मन्त्रसामर्थ्यात् ते **सत्यमन्त्राः** सत्यस्तुतयः सन्तः **उषासम्** उषसम् **अजनयन्** प्रादुरकुर्वन् । ‘तुरीयेण ब्रह्मणाविन्ददत्रिः' (ऋ. सं. ५. ४०. ६) **अत्रयस्तमन्चविन्दन्'** (ऋ. सं. ५. ४०.९) इति निगमौ । अत्राङ्गिरसां स्तुत्योषस एव स्तुतिर्ज्ञातव्या ॥
@@ -229,8 +232,6 @@ The Fathers discovered the hidden light. With their mantras that come  true, the
 Although this vs. begins in the same way as vs. 3, the syntax is quite straightforward, with no dependent clauses and the Fathers as subject throughout.
 
 Once again we might consider this an example of poetic repair, given the syntactic difficulties the previous vs. posed.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -264,8 +265,6 @@ Da waren es der Götter Tischgenossen, die frommgesinnten Seher alter Zeiten; Di
 Отцы нашли спрятанный свет.  
 Они, чьи слова истинны, породили Ушас.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

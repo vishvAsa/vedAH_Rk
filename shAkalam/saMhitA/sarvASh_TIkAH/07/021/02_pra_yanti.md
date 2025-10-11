@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञम्। प्र यन्ति- यष्टारः प्रकर्षेण गच्छन्ति। बर्हिः- दर्भासनम्। विपयन्ति- स्तृणन्ति। सोममादः-  रसनिष्पादिकाः। विदथे- यज्ञे। दुध्रवाचः- दुर्धरमन्त्रवाचो भवन्ति। नृषाचः- नृसङ्गताः। वृषणः-  वर्षकाः। दूरउपब्दः- दूरशब्दाः। यशसः- यशस्विनः। गृभात्- गृहात्। नि भियन्ते- ध्रियन्ते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञं** **प्र** **यन्ति** यष्टारः **बर्हिः** च **विपयन्ति** स्तृणन्ति । विपिः स्तरणकर्मा । **विदथे** यज्ञे **सोममादः** ग्रावाणश्च **दुध्रवाचः** दुर्धरवाचः भवन्ति । अपि च **यशसः** यशस्विनः **दूरउपब्दः** । दूर उपब्दिः शब्दो येषां ते दूरउपब्दः । **नृषाचः** । नॄन्नेतॄनृत्विजः सचन्त इति नृषाचः । **वृषणः** ग्रावाणः **गृभात्** गृहात् । गृहमध्यमग्रावा' । तस्मात् । **आ** इति चार्थे । **नि** **भ्रियन्ते** अभिषववेलायां निगृह्यन्ते । **उ** इति पूरणः ॥
@@ -226,7 +229,7 @@ The glorious ones are carried down from their handler—the bulls whose  trampli
 
 <details><summary>Jamison Brereton Notes</summary>
 
-it refers to some sort of negatively viewed plant (a parasitic plant, acdg. to Grassmann; see also EWA s.v.), neither of which is helpful here. I think it better to start with the root √vand ‘praise, extol’ and give it a negative twist appropriate to the context, hence my ‘sycophant’: praise gone wrong. A similar negative interpretation is needed for the usually positive term vedyā́- in the same phrase. Why vándanā is neuter and not masculine isn’t clear to me; perhaps a better tr. would be “sycophancy, sycophantic (words).” With sorcerers and flatterers in this first hemistich we then have two different ways in which rtḁ́ can be undermined within our own community, while the arí- ‘stranger’ whose ways are contrary to ours and the phallusworshippers in the second hemistich represent external threats to ṛtá-.
+it refers to some sort of negatively viewed plant (a parasitic plant, acdg. to Grassmann; see also EWA s.v.), neither of which is helpful here. I think it better to start with the root √vand ‘praise, extol’ and give it a negative twist appropriate to the context, hence my ‘sycophant’: praise gone wrong. A similar negative interpretation is needed for the usually positive term vedyā́- in the same phrase. Why vándanā is neuter and not masculine isn’t clear to me; perhaps a better tr. would be “sycophancy, sycophantic (words).” With sorcerers and flatterers in this first hemistich we then have two different ways in which rtḁ́ can be undermined within our own community, while the arí- ‘stranger’ whose ways are contrary to ours and the phallusworshippers in the second hemistich represent external threats to ṛtá-.
 
 In c víṣuṇa- ordinarily means ‘variable, various’, which here shades into ‘variant’ and, with the negative reading prevailing in this verse, ‘contrary’.
 
@@ -256,8 +259,6 @@ Sie gehn zum Opfer, dass die Streu erzittert, berauscht vom Soma, lallend beim G
 Блистательные откладываются, пока (их снова не) возьмут,  
 Далеко ревущие быки, следующие за мужами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

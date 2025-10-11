@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 proṣṭheśayā́ḥ ← proṣṭheśayá- (nominal stem)  
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रोष्ठेशयाः- प्राङ्गणे शयानाः। वह्येशयाः- वाहने शयानाः। याः। तल्पशीवरीः- तल्पशयाः। ताः।  नारीः- नार्यः। स्त्रियः। याः। पुण्यगन्धाः- सुगन्धाः। ताः। सर्वाः। स्वापयामसि-  स्वापयामः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **याः** यादृश्यः **नारीः** नार्यः स्त्रियः **प्रोष्ठेशयाः** प्राङ्कणे' शयानाः । याः **वह्येशयाः** । वह्यं वाहनम् । तस्मिन् शयानाः । याः **तल्पशीवरी:** तल्पशयाः। **याः** **स्त्रियः** पुण्यगन्धाः मङ्गल्यगन्धाः। **ताः** तादृशीः **सर्वाः** स्त्रीः **स्वापयामसि** वयं निद्रां कारयामः ॥ ॥ २२ ॥ ॥ ३ ॥
@@ -214,8 +217,6 @@ Die Frauen, die auf Bänken ruhn, auf Sänften und auf weichem Bett, Die Jungfra
 Благоуханные женщины –  
 Всех их мы усыпляем.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

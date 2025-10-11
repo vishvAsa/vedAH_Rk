@@ -3,7 +3,6 @@ title = "003"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "बृहती"
 - ऋषिः - वसिष्ठः
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -172,6 +170,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकं मध्ये। चरमम्। चन- अपि। वसिष्ठः- ऋषिः। नहि परिमंसते- न वर्जयित्वा स्तौति।  सुते- रसे निष्पन्ने। सचा- युगपत्। अस्माकम्। अद्य- इदानीम्। विश्वे- सर्वे। मरुतः। कामिनः-  इच्छन्तः। पिबत- रसमनुभवत॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वसिष्ठः** ऋषिः **वः** युप्माकं मध्ये **चरमं** **चन** अवरमपि **नहि** **परिमंसते** वर्जयित्वा न स्तौति । किंतु सर्वानेव युष्मान् स्तौतीत्यर्थः । **अद्य** अस्मिन् दिने **अस्माकम्** अस्मदीये **सुते** सोमेऽभिषुते सति हे **मरुतः** **कामिनः** सोमं कामयमानाः **विश्वे** यूयं **सचा** संगत्य **पिबत** पानं कुरुत ॥
@@ -198,7 +201,6 @@ This vs. plays on the common contrast, also found earlier in this Marut cycle, b
 On sácā as loc. absol. marker, see comm. ad IV.31.5.
 
 I have rendered the nom. pl. kāmínaḥ as an adverb (avidly) to avoid the somewhat heavy ‘having desire (for it)’.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -233,8 +235,6 @@ Denn auch den letzten unter euch versäumet ja Vasischtha nicht, O Maruts trinke
 Пейте все, у кого есть желание!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -250,7 +250,7 @@ Denn auch den letzten unter euch versäumet ja Vasischtha nicht, O Maruts trinke
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे विद्वानो (कामिनः) कामना करनेवाले (विश्वे) सम्पूर्ण (मरुतः) मनुष्य ! आप लोग (सचा) सम्बन्ध से (अद्य) इस समय (अस्माकम्) हम लोगों के (सुते) उत्पन्न हुए बड़ी ओषिधियों के रस में रस को (पिबत) पीवें जिससे (वः) आप लोगों के (चरमम्) अन्तवाले को (चन) भी (वसिष्ठः) अतिशय वसानेवाला (नहि) नहीं (परिमंसते) त्यागने योग्य वा विरुद्ध परिणाम को प्राप्त होता है ॥३॥
+पदार्थान्वयभाषाः -  हे विद्वानो (कामिनः) कामना करनेवाले (विश्वे) सम्पूर्ण (मरुतः) मनुष्य ! आप लोग (सचा) सम्बन्ध से (अद्य) इस समय (अस्माकम्) हम लोगों के (सुते) उत्पन्न हुए बड़ी ओषिधियों के रस में रस को (पिबत) पीवें जिससे (वः) आप लोगों के (चरमम्) अन्तवाले को (चन) भी (वसिष्ठः) अतिशय वसानेवाला (नहि) नहीं (परिमंसते) त्यागने योग्य वा विरुद्ध परिणाम को प्राप्त होता है ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

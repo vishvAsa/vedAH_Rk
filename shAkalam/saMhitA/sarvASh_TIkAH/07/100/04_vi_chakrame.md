@@ -3,7 +3,6 @@ title = "004"
 devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मनुषे- मनुष्याय। दशस्यन्- यच्छन्। क्षेत्राय- भूमिकाप्राप्त्यै। एताम्- इमाम्। पृथिवीम्- भूमिम्।  विष्णुः। वि चक्रमे- विक्रान्तवान्। अस्य- एतस्य विष्णोः कल्याणगुणान्। कीरयः- कीर्तयन्तः।  जनासः- जनाः। ध्रुवासः- नित्याः स्थिराः। सुजनिमा- सुष्ठ्वाविर्भूतः। उरुक्षितिम्-  विस्तारभूमिकां स्वविक्रमेण। चकार- अकरोत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रील्ँलोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
@@ -243,12 +246,10 @@ By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free
 
 -- in the rest of the vs. As Geldner points out (n. 4c), asya can refer either to Viṣṇu or to Manu, although in actuality this may not matter. It may be an instance of “trickle-down” ownership: Viṣṇu makes a dwelling place for Manu, and in turn Manu’s people also get firmly planted. Or, Manu and the people may both be under Viṣṇu’s auspices.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
 
 </details>
 </div>
@@ -278,8 +279,6 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 Он, вызывающий счастливое рождение, создал обширное место поселения.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विष्णुः
@@ -295,7 +294,7 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (विष्णुः) व्यापक पमेश्वर ने (मनुषे) मनुष्य के (क्षेत्राय) अभ्युदय (दशस्यन्) देने के लिये (पृथिवीम्,एतां) इस पृथिवी को (विचक्रमे) रचा, जिससे (अस्य) इस परमात्मा के कीर्तन करनेवाले (जनासः) भक्त लोग (धुवासः) दृढ़ हो गए, क्योंकि (उरुक्षितिं) इस विस्तृत क्षेत्ररूप पृथिवी को (सुजनिमा) सुन्दर प्रादुर्भाववाले ब्रह्माण्डपति परमात्मा ने (चकार) रचा है॥४॥
+पदार्थान्वयभाषाः -  (विष्णुः) व्यापक पमेश्वर ने (मनुषे) मनुष्य के (क्षेत्राय) अभ्युदय (दशस्यन्) देने के लिये (पृथिवीम्,एतां) इस पृथिवी को (विचक्रमे) रचा, जिससे (अस्य) इस परमात्मा के कीर्तन करनेवाले (जनासः) भक्त लोग (धुवासः) दृढ़ हो गए, क्योंकि (उरुक्षितिं) इस विस्तृत क्षेत्ररूप पृथिवी को (सुजनिमा) सुन्दर प्रादुर्भाववाले ब्रह्माण्डपति परमात्मा ने (चकार) रचा है॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

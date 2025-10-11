@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्राबृहस्पती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (७.०९७.१०)॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 व्याख्यातेयम् । अक्षरार्थस्तु । हे **बृहस्पते** त्वं च **इन्द्रश्च** युवां दिव्यस्य **पार्थिवस्य** चोभयविधस्य धनस्येश्वरौ भवथः । तौ युवां **स्तुवते** स्तोत्रे धनं दत्तमिति ॥ ॥ २३ ॥
@@ -263,8 +266,6 @@ Ihr beide ja, Brihaspati und Indra, besitzt das Gut des Himmels und der Erde; de
 Дайте богатство восхвалителю, даже если тот слаб!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

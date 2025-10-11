@@ -3,7 +3,6 @@ title = "001"
 devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित्यानाम्- अखण्डप्रकृतिजानाम्। नूतनेन- अभिनवेन। अवसा- रक्षणेन। शन्तमेन- शङ्करेण।  शर्मणा- गृहेण। सक्षीमहि- सङ्गच्छेमहि। तुरासः- त्वरमाणा देवाः। श्रोषमाणाः- शृण्वन्तः।  इमम्- एतम्। यज्ञम्। अनागास्त्वे- अनपराधत्वे। अदितित्वे- अखण्डे। दधतु- स्थापयन्तु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आदित्यानाम्** अदितेः पुत्राणामेतत्संज्ञकानां देवानाम् **अवसा** रक्षणेन । तद्धेतुभूतेनेत्यर्थः । **नूतनेन** अद्यतनेन **शंतमेन** । शं सुखम्। अतिशयेन तत्करणेन **शर्मणा** । शर्मेति गृहनामैतत् । गृहेण **सक्षीमहि** वयं संगच्छेमहि । **तुरासः** तुरास्त्वरिता आदित्याः **श्रोषमाणाः** अस्मदीयानि स्तोत्राणि शृण्वन्तः **यज्ञं** यष्टारम् **इमं** जनम् **अनागास्त्वे** अनपराधत्वे च **अदितित्वे** अदीनत्वे च **दधतु** स्थापयन्तु ॥
@@ -185,7 +188,7 @@ _________
 
 <details><summary>Jamison Brereton</summary>
 
-We would be accompanied by the present help of the Ādityas and by  their most luck-bringing protection. Let the overpowering ones establish this sacrifice in guiltlessness and in  offenselessness (adititvá), listening (to us).
+We would be accompanied by the present help of the Ādityas and by  their most luck-bringing protection. Let the overpowering ones establish this sacrifice in guiltlessness and in  offenselessness (adititvá), listening (to us).
 </details>
 
 <details><summary>Griffith</summary>
@@ -211,8 +214,6 @@ Wir möchten theilhaft sein der neusten Hülfe, des segensreichsten Schutzes der
 Пусть сильные (боги) поместят эту жертву  
 В безгрешность, в несвязность (с виной), услышав (их)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

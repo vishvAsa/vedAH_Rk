@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे प्राणविशेषाः। वसवः- शरण्याः। यः। दुर्हृणायुः- अशोभनं क्रुध्यन्। तिरः-  तिरस्कर्तव्यः। नः- अस्माकम्। चित्तानि- मनांसि। अभि जिघांसति- हन्तुमिच्छति। यः। द्रुहः  पाशान्- द्रोहपाशान्। प्रति मुचिष्ट- अस्मासु मुञ्चति। बध्नातीत्यर्थः। तम्। तपिष्ठेन- शत्रुतापकेन।  हन्मना- हननसाधनेन प्रहरणेन। हन्तन- बाधयत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वसवः** प्रशस्या हे **मरुतः** **नः** अस्मदीयानि **चित्तानि** **दुर्हृणायुः** अशोभनं क्रुध्यन् **तिरः** सर्वैस्तिरस्कृतः **यः** जनः **अभि** **जिघांसति** आभिमुख्येन हन्तुमिच्छति **सः** जनः **द्रुहः** पापानां द्रोग्धुर्वरुणस्य **पाशान्** अस्मासु **प्रति** **स** **मुचीष्ट** बध्नीयात् । यूयं **तं** जनं **तपिष्ठेन** तप्तृतमेन **हन्मना** हननसाधनेनायुधेन **हन्तन** हत हिंस्त ॥
@@ -241,7 +244,6 @@ may he be fastened to the fetters of deceit. With your most scorching  stroke st
 <details><summary>Jamison Brereton Notes</summary>
 
 tiráś cittā́ni is a striking expression, without obvious parallels. In interpreting it, we can begin by noting that tiráś cid is a reasonably frequent pāda opening (IV.29.1, V.75.7, VIII.33.14, 51.9, 66.12), including in the next hymn, VII.60.6. Although I toyed with the possibility of reading tiráś cit tā́ni here, with the neut. pl. prn., this does not seem to be productive. However, the fact that tiráś cid is a formulaic expression may help account for the fact that our tiráś cittā́ni seems to be only loosely connected syntactically to the rest of the clause. Geldner takes the expression as meaning “against/contrary to expectation” (wider Erwartung), but I’m not at all sure that tiráḥ can mean ‘against’ (though see X.171.4 devā́nāṃ cit tiró váśam “even 96 athwart the will of the gods”). And in any case we would surely want to punish someone who tried to kill us, whether we expected him to or not. Renou’s “en croisant (nos) pensées” is better; I have adapted an English idiom “cross-purposes,” which is practically a calque on the Skt. phrase. Here it reflects the hostility between the would-be attacker and “us.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -277,8 +279,6 @@ Wer grimmig zürnend uns zu schlagen trachtet, o gute Maruts, ehe wir's nur dach
 Убейте его раскаленнейшим ударом!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -294,7 +294,7 @@ Wer grimmig zürnend uns zu schlagen trachtet, o gute Maruts, ehe wir's nur dach
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (वसवः) वास करानेवाले (मरुतः) मनुष्यो ! (यः) जो (दुर्हृणायुः) दुष्ट विचारवाला (नः) हम लोगों के (चित्तानि) अन्तःकरणों को (अभि) सम्मुख (जिघांसति) मारने की इच्छा करता है (सः) वह (द्रुहः) द्रोह करनेवाले (पाशान्) बन्धनों को प्राप्त कराता है (तम्) उसको हम लोगों के (प्रति) प्रति (मुचीष्ट) छोड़िये (तपिष्ठेन) और अत्यन्त तप्त (हन्मना) हनन से उसको (तिरः, हन्तन) तिरछा मारिये ॥८॥
+पदार्थान्वयभाषाः -  हे (वसवः) वास करानेवाले (मरुतः) मनुष्यो ! (यः) जो (दुर्हृणायुः) दुष्ट विचारवाला (नः) हम लोगों के (चित्तानि) अन्तःकरणों को (अभि) सम्मुख (जिघांसति) मारने की इच्छा करता है (सः) वह (द्रुहः) द्रोह करनेवाले (पाशान्) बन्धनों को प्राप्त कराता है (तम्) उसको हम लोगों के (प्रति) प्रति (मुचीष्ट) छोड़िये (तपिष्ठेन) और अत्यन्त तप्त (हन्मना) हनन से उसको (तिरः, हन्तन) तिरछा मारिये ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

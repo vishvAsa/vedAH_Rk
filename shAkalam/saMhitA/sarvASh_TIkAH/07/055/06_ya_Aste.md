@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ā́ste ← √ās- (root)  
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। जनः- चोरजनः। आस्ते- अत्र तिष्ठति। चरति। नः- अस्मान्। पश्यति। तेषाम्। अक्षाणि-  इन्द्रियाणि। हे सारमेय त्वया। सम्- सम्यक्। हन्मः। यथा। इदम्- अयम्। हर्म्यं- प्रासादः।  मौनेन भवति तथा सर्वे स्वपन्तु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** जनः **आस्ते** अस्मिन् प्रदेशे तिष्ठति **यश्च** **चरति** गच्छति **यश्च** **जनः** **नः** अस्मान् **पश्यति** एवंभूतानां **तेषां** जनानाम् **अक्षाणि** इन्द्रियाणि **सं** **हन्मः** संहनाम । संहतिर्निमीलनम् । निमीलयामेत्यर्थः । **इदं** प्रत्यक्षेणोपलभ्यमानं **हर्म्यं** प्रासादादिस्थावरात्मकं वस्तुजातं **यथा** निश्चलं भवति **तथा** इमे सर्वे जना निश्चला भवन्त्वित्यर्थः ॥
@@ -263,8 +266,6 @@ Wer sitzet, und wer sich bewegt, und auch wer stehend uns erblickt, Die Augen de
 Как (закрываем) этот дом.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -285,7 +286,7 @@ Wer sitzet, und wer sich bewegt, und auch wer stehend uns erblickt, Die Augen de
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । मनुष्यों को ऐसे घर बनाने चाहियें, जिन में सब ऋतुओं में निर्वाह हो, सब सुख, बड़े और बाहरवाले जन गृहस्थों को सहसा न देखें और न घरवाले बाहरवालों को देखें ॥६॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । मनुष्यों को ऐसे घर बनाने चाहियें, जिन में सब ऋतुओं में निर्वाह हो, सब सुख, बड़े और बाहरवाले जन गृहस्थों को सहसा न देखें और न घरवाले बाहरवालों को देखें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

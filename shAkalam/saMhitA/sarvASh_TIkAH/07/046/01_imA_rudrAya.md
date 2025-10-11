@@ -3,7 +3,6 @@ title = "001"
 devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "जगती"
 - ऋषिः - वसिष्ठः
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्थिरधन्वने- दृढचापाय। क्षिप्रेषवे- शीघ्रबाणाय। स्वधाव्ने- आत्मवते। अषाळ्हाय- असह्याय।  सहमानाय- शख्निमते। वेधसे- विदुषे। तिग्मायुधाय- तीक्ष्णप्रहरणाय। देवाय- द्योतनशीलाय।  रुद्राय। इमाः- एताः। नः- अस्माकम्। गिरः- वाचः। भरत- धारयत। नः- अस्मान्।  शृणोतु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अस्मदीयाः स्तोतारः यूयम् **इमाः** **गिरः** स्तुतीः **रुद्राय** एतन्नामकाय **देवाय** **भरत** धारयत । कीदृशाय । **स्थिरधन्वने** दृढधनुष्काय **क्षिप्रेषवे** शीघ्रगामिबाणाय स्वधाव्ने अन्नवते **अषाळ्हाय** केनाप्यनभिभूताय **सहमानाय** शत्रूणामभिभवित्रे **वेधसे** विधात्रे **तिग्मायुधाय** तीक्ष्णास्त्राय । एवंभूताय रुद्राय स्तुतीः भरत । स च रुद्रः **नः** अस्मदीयाः स्तुतीः **शृणोतु** ॥
@@ -217,7 +220,6 @@ to the unvanquishable, vanquishing adept whose weapons are sharp. Let  him hear 
 <details><summary>Jamison Brereton Notes</summary>
 
 I have deliberately omitted to tr. the 2nd enclitic vaḥ, found in c.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -253,8 +255,6 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 Да услышит он нас!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रुद्रः
@@ -275,7 +275,7 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो दुष्टों के शिक्षा देनेवाले, शस्त्र और अस्त्रवेत्ता, सहनशील, युद्धकुशल विद्वान् हैं, उनको सर्वदैव धनुर्वेद पढ़ाने से और उसके अर्थ से भरी हुई वक्तृता से विद्वान् जन अत्यन्त उत्साह दें और जो सेनापति है, वह प्रजास्थ पुरुषों की वाणी सुने ॥१॥
+भावार्थभाषाः -  जो दुष्टों के शिक्षा देनेवाले, शस्त्र और अस्त्रवेत्ता, सहनशील, युद्धकुशल विद्वान् हैं, उनको सर्वदैव धनुर्वेद पढ़ाने से और उसके अर्थ से भरी हुई वक्तृता से विद्वान् जन अत्यन्त उत्साह दें और जो सेनापति है, वह प्रजास्थ पुरुषों की वाणी सुने ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

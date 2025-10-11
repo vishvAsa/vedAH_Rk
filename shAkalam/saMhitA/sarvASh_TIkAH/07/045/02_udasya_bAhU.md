@@ -3,7 +3,6 @@ title = "002"
 devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -235,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य। सवितुः। बाहू- भुजौ। शिथिरा- शिथिलितौ। प्रसारिताविति भावः। बृहन्ता-  बृहन्तौ। हिरण्यया- सुवर्णमयौ। दिवः- नभसः। अन्तान्- पर्यन्तम्। उत्- ऊर्ध्वौ सन्तौ।  अनष्टाम्- व्याप्नुवताम्। नूनम्- निश्चयेन। सः- तादृशस्य। अस्य- एतस्य। महिमा- माहात्म्यम्।  पनिष्ट- स्तूयते। सूरः- विद्वान्। चित्- अपि। अस्मै- एतस्मै सवित्रे। अपस्याम्-  कर्मेच्छामनुग्रहेच्छाम्। अनु दात्- अनुददातु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शिथिरा** शिथिलौ दानार्थं प्रसारितौ **बृहन्ता** बृहन्तौ महान्तौ **हिरण्यया** हिरण्ययौ सुवर्णमयौ **अस्य** सवितुः संबन्धिनौ **बाहू** हस्तौ **दिवः** अन्तरिक्षस्य **अन्तान्** पर्यन्तान् **उत्** **अनष्टाम्** ऊर्ध्वौ सन्तौ व्याप्नुवताम् । **नूनम्** अद्य **अस्य** ईदृग्भूतस्य सवितुः **सः** तादृशः **महिमा** महत्त्वं **पनिष्ट** अस्माभिः स्तूयते । **सूरश्चित्** सूर्योऽपि **अस्मै** सवित्रे **अपस्यां** कर्मेच्छाम् **अनु** **दात्**  अनुददातु ॥
@@ -265,8 +268,6 @@ Both Geldner and Renou take the aor. injunc. paniṣṭa in c as modal, but the 
 injunc. ánu dāt in d as general pres. (e.g., “Jetzt sei … gepriesen; … ordnet …”). But there is no reason that the first needs to be assigned modal value: the temporal adv.
 
 nūnám can instead draw attention to an immediate past action (“has [just] been wondered at”). And it seems preferable, if contextually possible, to take the two adjacent aor. injunctives in the same value.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -300,8 +301,6 @@ Zum Himmelsende reichten seine Arme, die goldenen, die schlanken, die erhabnen; 
 Пусть сейчас это его величие вызовет восхищение!  
 Даже солнце уступает ему (свою) работу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 mātā́ ← mātár- (nominal stem)  
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+माता- जननी। सस्तु- स्वपतु। पिता- जनकः। सस्तु- स्वपतु। श्वा- शुनकः। सस्तु। विश्पतिः-  जनपालकः। सस्तु। सर्वे ज्ञातयः- बान्धवाः। ससन्तु- स्वपन्तु। अयम्- एषः। जनः। अभितः।  सस्तु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सारमेय माता त्वदीया जननी **सस्तु** स्वपतु । **पिता** च **सस्तु**। **श्वा** सारमेयो भवान् **सस्तु** । **विश्पतिः** जामाता यद्वा विशां जनानां पालको गृही **सस्तु** । **सर्वे** **ज्ञातयः** बन्धवोऽपि **ससन्तु** स्वपन्तु । **अभितः** परितः स्थितः **अयम्** अपि सर्वः **जनः** **सस्तु** स्वपतु ॥
@@ -234,8 +237,6 @@ Die Mutter schlaf, der Vater schlaf, es schlafe Hund und Hausherr auch, Es schla
 Пусть спять все родные,  
 Пусть спит вокруг этот род!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

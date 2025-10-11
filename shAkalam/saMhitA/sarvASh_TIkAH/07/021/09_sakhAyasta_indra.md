@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। विश्वह- सर्वदा। ते- तव। सखायः- मित्राणि। स्याम- भवेम। तरुत्र- तारक। महिना-  माहात्म्येन। नमोवृधासः- त्वत्प्रणामवर्धका भवेम। ते- तव। अवसा- रक्षया। समीके- समरे।  अर्यः- अरेः। अभीतिम्- अभिगमनम्। वनुषाम्- हिंसकानाम्। शवांसि- बलानि। वन्वन्तु-  यजमाना हिंसन्तु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** तव **नमोवृधासः** नमसा स्तुत्या हविषा वा वर्धयितारो वयं **विश्वह** सर्वदा **सखायः** **स्याम** भवेम । **महिना** महिम्ना **तरुत्र** अत्यन्तं तारकेन्द्र **ते** तव **अवसा** रक्षणेन **समीके** संग्रामे **अर्यः** **अभीतिम्** अभिगमनं **वनुषां** हिंसकानां **शवांसि** बलानि च **वन्वन्तु** स्तोतारो हिंसन्तु ॥
@@ -227,8 +230,6 @@ With your help in the encounter, may they combat the attack of the  stranger, th
 <details><summary>Jamison Brereton Notes</summary>
 
 vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presumably derived from the originally separate roots van ‘win, vanquish’ and vani ‘love, desire’, but since these roots have become synchronically entangled, the pair presents itself like an etymological figure, like I.132.1=VIII.40.7 vanuyā́ma vanuṣyátaḥ “may we win against those who seek to win.”
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
@@ -263,8 +264,6 @@ Wir seien stets, o Indra, deine Freunde, Anbetung übend eifervoll, o Helfer; Be
 Нападение врага, силы завистников!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -280,12 +279,12 @@ Wir seien stets, o Indra, deine Freunde, Anbetung übend eifervoll, o Helfer; Be
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (तरुत्र) दुःख से तारनेवाले (इन्द्र) राजा ! (नमोवृधासः) अन्न के बढ़ाने वा अन्न से बढ़े हुए हम लोग (महिना) बड़प्पन से (विश्वह) सब दिनों (ते) आपके (सखायः) मित्र (स्याम) हों जो (ते) आपके (समीके) समीप में (अवसा) रक्षा आदि से (अभीतिम्) अभय और (वनुषाम्) मंगता जनों के (शवांसि) बलों को (वन्वन्तु, स्म) ही मांगे (अर्यः) वैश्यजन आप इनके इस पदार्थ को धारण करो ॥९॥
+पदार्थान्वयभाषाः -  हे (तरुत्र) दुःख से तारनेवाले (इन्द्र) राजा ! (नमोवृधासः) अन्न के बढ़ाने वा अन्न से बढ़े हुए हम लोग (महिना) बड़प्पन से (विश्वह) सब दिनों (ते) आपके (सखायः) मित्र (स्याम) हों जो (ते) आपके (समीके) समीप में (अवसा) रक्षा आदि से (अभीतिम्) अभय और (वनुषाम्) मंगता जनों के (शवांसि) बलों को (वन्वन्तु, स्म) ही मांगे (अर्यः) वैश्यजन आप इनके इस पदार्थ को धारण करो ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो धार्मिक राजा से नित्य मित्रता करने की इच्छा करते हैं, वे बड़प्पन से सत्कार पाते हैं, जो प्रजा को अभय देते हैं, वे प्रतिदिन बलिष्ठ होते हैं ॥९॥
+भावार्थभाषाः -  जो धार्मिक राजा से नित्य मित्रता करने की इच्छा करते हैं, वे बड़प्पन से सत्कार पाते हैं, जो प्रजा को अभय देते हैं, वे प्रतिदिन बलिष्ठ होते हैं ॥९॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

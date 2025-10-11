@@ -3,7 +3,6 @@ title = "007"
 devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (७.७.७)॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयमृक् प्रागेव व्याख्याता ॥ ७ ॥अबोधिजारइति षळृचं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं अबोधिषळित्यनुक्रान्तं प्रातरनुवाकाश्विनशस्त्रयोर्दशसूक्तमध्ये उक्तोविनियोगः ।
@@ -255,8 +258,6 @@ Nun flehn zu dir, o Agni, wir Vasischtha's, o Sohn der Kraft, der Güter du besi
 Ты добыл жертвенную усладу для певцов (и их) щедрых покровителей.  
 Защищайте вы нас всегда (своими) милостями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
