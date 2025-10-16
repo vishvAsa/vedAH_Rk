@@ -4,6 +4,12 @@ unicode_script = "devanagari"
 
 +++
 
+Source: [TW](https://archive.org/details/aqxM_aitareya-brahmanam-edited-by-kashinath-shastri-1977-pune-anandashram-press)
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.486801)
+Source: [TW](https://archive.org/details/aitareya-brahmanam-sayana-vol-ii)
+
+
 आनन्दाश्रमसंस्कृतग्रन्थावलिः। 
 
 ग्रन्थाङ्कः ३२. ऐतरेयब्राह्मणम्। 

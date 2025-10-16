@@ -3,6 +3,10 @@ title = "+Haug"
 
 +++
 
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.104263/page/n5/mode/2up)
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.104262)
+
 The Sacred Books of the Hindus  
 Translated by various Sanskrit Scholars  
 - AND Edited by Major B. D. Basu, I. M. S. (Retired)    
