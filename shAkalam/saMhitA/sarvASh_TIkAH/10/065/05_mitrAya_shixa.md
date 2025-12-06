@@ -232,8 +232,24 @@ _________
 
 <details><summary>सायण-भाष्यम्</summary>
 
-**दाशुषे** धनानि स्तोतृभ्यः प्रयच्छते **मित्राय** **वरुणाय** च **शिक्ष** हवींषि प्रयच्छ । शिक्षतिर्दानकर्मा । **सम्राजा** सम्राजौ सर्वस्य **या** यौ मित्रावरुणौ **मनसा** अन्तःकरणेनापि **न** **प्रयुच्छतः** न प्रमाद्यतः किमुत बाह्येन व्यापारेण ।  ‘ युच्छ प्रमादे '। भौवादिकः । **ययोः** मित्रावरुणयोः **बृहत्** महत् **धाम** शरीरं **धर्मणा** आत्मीयेन लोकप्रकाशनादिलक्षणेन कर्मणा **रोचते** सम्यग्दीप्यते । **ययोः** च नाधसी । णाधृ याच्ञोपतापैश्वर्याशीःषु '। याचमाने **उभे** **रोदसी** द्यावापृथिव्यौ **वृतौ** वर्तमाने भवतः । यद्वा । नाधसी देवमनुष्यैः समृद्धे द्यावापृथिव्यौ तयोर्वृतौ वर्तमाने भवतः । तदधीने भवत इत्यर्थः ॥ ॥ ९ ॥
+**दाशुषे** धनानि स्तोतृभ्यः प्रयच्छते **मित्राय** **वरुणाय** च **शिक्ष** हवींषि प्रयच्छ । शिक्षतिर्दानकर्मा । **सम्राजा** सम्राजौ सर्वस्य **या** यौ मित्रावरुणौ **मनसा** अन्तःकरणेनापि **न** **प्रयुच्छतः** न प्रमाद्यतः किमुत बाह्येन व्यापारेण ।  ‘ युच्छ प्रमादे '। भौवादिकः । **ययोः** मित्रावरुणयोः **बृहत्** महत् **धाम** शरीरं **धर्मणा** आत्मीयेन लोकप्रकाशनादिलक्षणेन कर्मणा **रोचते** सम्यग्दीप्यते । **ययोः** च **नाधसी** । णाधृ याच्ञोपतापैश्वर्याशीःषु '।  
+याचमाने **उभे** **रोदसी** द्यावापृथिव्यौ **वृतौ** वर्तमाने भवतः । यद्वा ।  
+**नाधसी** देवमनुष्यैः समृद्धे द्यावापृथिव्यौ तयोर् वृतौ वर्तमाने भवतः । तदधीने भवत इत्यर्थः ॥ ॥ ९ ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The dual word nAdhasI occurs only once in the entire shruti in the R^ik of the vAsiShTha vasukarNa to mitravaruNA (RV 10.65.05).
+
+Following the German Sanskritist Geldner most white indologists have interpreted it as "two protective armies," i.e., the two halves of the universe (rodasI) are like armies bringing the aid of mitra and varuNa. 
+
+sAyaNa takes a very different route. To paraphrase him approximately: "not lacking, not deficient" -- in sacrifices, in prosperity, in royal power, and in blessings.  
+
+Thus, nAdhasI is the two, heaven and earth, filled and prospering with gods and humans, both hemispheres being encompassed by mitra and varuNa.  
+
+Despite the apparent meaning of nAdhas (help), we suspect sAyaNa might have captured some aspect of the original meaning.
+</details>
+
 
 <details><summary>Wilson</summary>
 
