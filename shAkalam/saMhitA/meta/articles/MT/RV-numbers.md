@@ -26,3 +26,12 @@ Some of the tripartation of the demonic is shared with the Greek exemplars like 
 
 The 7 heads of bR^ihaspati parallels the 7-headed chant mentioned more than once in the RV. Sometimes it is called the 7-headed 3-fold chant. This metaphor is not entirely clear to me but perhaps refers to the sAman with its 7 tones?
 
+## Indra multiples
+In the R^igveda, indra is mentioned 2 or more times by that name in the same verse on 96 occasions.  While all kavi clans tend to do it, bharadvAja-s and kANva-s of the a~Ngirasa clan are particularly prone to repeating the name of indra in the same verse.
+
+In contrast, varuNa is mentioned 2 or more times in the same verse only on 7 occasions. indra is almost always the only god mentioned in the verse; when varuNa is repeated, he is almost always named with other gods, e.g.:
+
+> tan na indras tad varuNas tad agnis  
+tad aryamA tat savitA chano dhAt |  
+tan no mitro varuNo mAmahantAm  
+aditiH sindhuH pR^ithivI uta dyauH ||
