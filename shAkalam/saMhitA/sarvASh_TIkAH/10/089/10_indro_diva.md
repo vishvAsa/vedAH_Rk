@@ -250,6 +250,16 @@ _________
 **दिवः** द्युलोकस्य **इन्द्रः** **ईशे** ईष्टे **पृथिव्याः** भूमेरपि **इन्द्रः** ईशे ईश्वरो भवति । **अपाम्** उदकानामपि **इन्द्रः** ईश्वरो भवति । **पर्वतानां** मेघानामपि **इन्द्रः** ईश्वरो भवति । **वृधां** वृद्धानामपि **इन्द्रः** एवेश्वरः । **मेधिराणां** प्राज्ञानामपि **इन्द्रः** एव ईश्वरो भवति । किंच **इन्द्रः** **क्षेमे** लब्धस्य धनस्य परिपालने **हव्यः** ह्वातव्यः **योगे** अलब्धस्य धनस्य लाभेऽपि **इन्द्रः** एव ह्वातव्यो भवति ॥ ॥ १५ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+
+indra rules the sky, indra rules the earth,   
+indra verily [rules] the waters, indra [rules] the mountains,  
+indra rules the strong, indra also rules the wise  
+indra must be invoked in peace and in clashes -- indra.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 _________
