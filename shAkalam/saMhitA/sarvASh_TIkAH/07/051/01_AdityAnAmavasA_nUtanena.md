@@ -178,6 +178,23 @@ _________
 **आदित्यानाम्** अदितेः पुत्राणामेतत्संज्ञकानां देवानाम् **अवसा** रक्षणेन । तद्धेतुभूतेनेत्यर्थः । **नूतनेन** अद्यतनेन **शंतमेन** । शं सुखम्। अतिशयेन तत्करणेन **शर्मणा** । शर्मेति गृहनामैतत् । गृहेण **सक्षीमहि** वयं संगच्छेमहि । **तुरासः** तुरास्त्वरिता आदित्याः **श्रोषमाणाः** अस्मदीयानि स्तोत्राणि शृण्वन्तः **यज्ञं** यष्टारम् **इमं** जनम् **अनागास्त्वे** अनपराधत्वे च **अदितित्वे** अदीनत्वे च **दधतु** स्थापयन्तु ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+With the fresh aid of the Aditya-s,  
+We wish for the most benevolent protection.  
+In sinlessness, and in unbrokenness*, may mighty ones  
+place this sacrifice, having heard [our invocation].
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+vasiShTha creates the abstract word "adititva" from the name of the goddess aditi. It occurs only a single time in the RV (the same verse is also repeated in the maitrAyaNIya and taittirIya saMhitA-s). Some understand this as wholeness, unbrokenness or unboundedness. 
+
+However, it could also mean the lap of aditi -- the state of aditi-ness -- which is equated with the sacrificial altar as per the taittirIya shruti.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 _________
