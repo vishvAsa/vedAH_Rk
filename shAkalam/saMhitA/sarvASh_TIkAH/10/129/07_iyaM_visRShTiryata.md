@@ -271,7 +271,7 @@ _________________
 _________
 **English translation:**  
 
-“He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
+“He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is its superintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
 _________
 **Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
