@@ -204,6 +204,38 @@ _________
 सरस्वती देवतारूपेण नदीरूपेण च वर्तते । देवतारूपा स्तुता । अधुनानया नदीरूपां सरस्वतीं स्तौति । **इयं** नदीरूपा सरस्वती शुष्मैः शोषकैरात्मीयैर्बलैः **तविषेभिः** महद्भिः **ऊर्मिभिः** तरङ्गैः।  **गिरीणां** पर्वतानां तीरसंबद्धानां **सानु** सानूनि **अरुजत्** भनक्ति । **बिसखाइव** । बिसं खनतीति बिसखाः । स यथा बिसार्थं पङ्कं रुजति तद्वत् । तां **सरस्वतीं** पारावतघ्नीं परावति दूरदेशे विद्यमानस्यापि वृक्षादेर्हन्त्रीं **सुवृक्तिभिः** स्तुतिभिः **धीतिभिः** कर्मभिश्च **अवसे** रक्षणार्थम् **आ** **विवासेम** परिचरेम । यद्वा । पारावतघ्नीं पारावारे परार्वाची तीरे । तयोर्घातिनीम् । उक्तं च--- ‘पारावतघ्नीं पारावारघातिनीम् ' ( निरु. २. २४) इति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+She, like a lotus-grubbing sow with her furious attacks,  
+broke the summits of the mountains with powerful waves.  
+the slayer of the hostile distant folks for aid, with well-composed*  
+hymns we bring close sarasvatI.  
+[*literally well-plaited or well-woven]
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We take this to be the first expression in our tradition of imagery that later took a full form as the goddess vArAhI:
+
+In addition to being described as a sow, sarasvatI here conceived in a ferocious form -- 
+not only does she impetuously break down mountains  
+but in the same vein she is called the slayer of foreign foes. 
+
+In this sense she closely mirrors vArAhI who is called upon in her famous tAntrika incantation to strike the evil doers.  
+
+Notably, in the one of the foundational reflexes of the mAtR^ikA myth, vArAhI is seen as an emanation of mahAsaravatI and pulverizes the daitya-s with her snout and tusks much like the account of sarasvatI in the above incantation. 
+
+Indeed, in our syncretic lineage this R^ik is taken to be the vaidika mantra of vArAhI. Interestingly, in the AShTamAtR^ikA-pUjA the gAyatrI for the arghya to vArAhI goes thus:
+
+> OM prAjApatyAyai vidmahe |  
+> gadAhastAyai dhImahi |  
+> tanno vArAhI prachodayAt |
+
+Here, she is called prAjApatyA which in the later tradition means sarasvatI.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 _________
