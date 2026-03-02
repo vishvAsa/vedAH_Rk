@@ -451,7 +451,7 @@ The Bhashya on the seventh Rik is not found in any of the Mss. which merely read
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-अन्योऽपि स्याद् एव नऩ्-जीयर्-सतीर्थः।
+अन्योऽपि स्याद् एव नऩ्-जीयर्-सतीर्थः। कूरनारायणमुनिर् इति केचित्। 
 </details> 
 
 > श्री-महा-लक्ष्मि-दासीये  
