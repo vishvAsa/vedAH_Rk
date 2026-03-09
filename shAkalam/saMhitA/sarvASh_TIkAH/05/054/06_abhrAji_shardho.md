@@ -232,13 +232,19 @@ _________
 
 <details><summary>रङ्गनाथः</summary>
 
-वेधसः- विधायकाः। मरुतः। शर्धः- भवतां गणः। अभ्राजि- भ्राजते। अर्णसम्-  उदकवर्धितमुदकाकर्षकं वा। प्रकृतिशक्तिधाराजनितं तद्वर्धकमित्याध्यात्मिके। वृक्षम्- तरुम्।   भौमभोगमित्याध्यात्मिके। कम्पनेव- कम्पकाः सन्तः। मोषथ- ताडयथ। आध्यात्मिके  भौमभोगवासनं विगमयथेति भावः। अध- अपि च। नः- अस्मभ्यम्। सजोषसः- समानप्रीतयः।  अरमतिम्- विरक्तिं प्रति। यन्तम्- सरन्तमध्यात्मसाधकम्। सुगम्- शोभनमार्गेण। अनु नेषथ-  अनुनयथ॥६॥
+वेधसः- विधायकाः। मरुतः। शर्धः- भवतां गणः। अभ्राजि- भ्राजते। अर्णसम्-  उदकवर्धितमुदकाकर्षकं वा। प्रकृतिशक्तिधाराजनितं तद्वर्धकमित्याध्यात्मिके। वृक्षम्- तरुम्।   भौमभोगमित्याध्यात्मिके। कम्पनेव- कम्पकाः सन्तः +++(दुष्टः पाठः??)+++। मोषथ- ताडयथ। आध्यात्मिके  भौमभोगवासनं विगमयथेति भावः। अध- अपि च। नः- अस्मभ्यम्। सजोषसः- समानप्रीतयः।  अरमतिम्- विरक्तिं प्रति +++(←स्वरः??)+++। यन्तम्- सरन्तमध्यात्मसाधकम्। सुगम्- शोभनमार्गेण। अनु नेषथ-  अनुनयथ॥६॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वेधसः** वृष्टेर्विधातारो हे **मरुतः** **शर्धः** भवतां गणम् **अभ्राजि** भ्राजते । **यत्** यस्मात् **अर्णसम्** उदकवन्तं **वृक्षम्** । वृश्च्यते विदार्यत इति वृक्षो मेघः । तं **मोषथ** ताडयथेत्यर्थः । **कपनेव**। इवेत्यनर्थकः । कम्पनाः सन्तः । यद्वा । कपनाः कृमयो वृक्षं घुणादयः । ते यथा मुष्णन्ति तद्वत् । **अध** अपि च । **स्म** इति पूरणः । **नः** अस्मान् । मामित्यर्थः । हे **सजोषसः** युष्मासु परस्परं समानप्रीतयो यूयम् **अरमतिम्** आरमणं धनादिकं प्रति **यन्तं** 'गच्छन्तम् **अनु** **नेषथ** अनुक्रमेण नयथ **सुगं** सुगमनं मार्गम् । तत्र दृष्टान्तः । **चक्षुरिव** । तद्यथा मार्गप्रदर्शनेन नायकं भवति तद्वत् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The marut-s are said to "ravage a tree like a caterpillar (kapana)." It is the only time this word is used in the shruti TMK.
+</details>
+
 
 <details><summary>Wilson</summary>
 
@@ -257,9 +263,7 @@ Then in concert you will lead Proper Thinking [/Aramati] to us along  an easy wa
 
 <details><summary>Jamison Brereton Notes</summary>
 
-My interpr. follows that of Narten (Sig.Aor. 195-96), with the first pāda consisting of the yád clause, the 2nd the main cl. Both Geldner and Renou take the first part of pāda a as the main cl., with the dependent clause starting with yád. Although yád is better positioned in their interpr. than in Narten’s, they must make arṇasám an obj.
-
-of móṣathā (in unconvincing fashion) and the sequence of tense/mood is badly off: aug. aor. ábhrāji … aor. subjunctive móṣathā, lit., “it has flashed when you will steal …” Geldner simply renders the subjunctive as a preterite, while Renou’s parenthesis in “vous dérob(i)ez” is masterfully evasive even for him.
+My interpr. follows that of Narten (Sig.Aor. 195-96), with the first pāda consisting of the yád clause, the 2nd the main cl. Both Geldner and Renou take the first part of pāda a as the main cl., with the dependent clause starting with yád. Although yád is better positioned in their interpr. than in Narten’s, they must make arṇasám an obj. of móṣathā (in unconvincing fashion) and the sequence of tense/mood is badly off: aug. aor. ábhrāji … aor. subjunctive móṣathā, lit., “it has flashed when you will steal …” Geldner simply renders the subjunctive as a preterite, while Renou’s parenthesis in “vous dérob(i)ez” is masterfully evasive even for him.
 
 As I just said, I am not happy with the position of yád in Narten’s/my interpr., since it follows both the verb and part of the subject (plus a voc., but that doesn’t count). There is another possibility, that yád functions here as a sort of izafe, connecting śárdhaḥ and arṇasám: “the troop, which is a flood.” In this case ábhrāji would be a main-cl. verb, and the two pādas, a and b, would be syntactically unconnected: “The troop that is a flood has flashed; you will plunder …” arṇasá- is a hapax. Narten takes it as an adjectival deriv. of árṇas- ‘flood’, but it could have been (re-)substantivized as ‘flood’.
 
@@ -267,9 +271,7 @@ The point of comparison in b between the Maruts and the caterpillar is that viol
 
 The sequence vṛkṣáṃ kap(anéva) is oddly reminiscent of Vṛṣākapi, the randy monkey in X.86, but this must be accidental.
 
-In the published translation the voc. sajoṣasaḥ is not rendered as a voc., since the Engl.
-
-would be awkward.
+In the published translation the voc. sajoṣasaḥ is not rendered as a voc., since the Engl. would be awkward.
 
 The s-aor. subj. neṣathā ‘you will lead’ is particularly appropriate to the obj.
 
