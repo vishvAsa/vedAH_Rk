@@ -35,3 +35,17 @@ RV_7 0.029
 RV_8 0.030
 RV_9 0.034
 RV_10 0.021
+
+## Common Animals
+
+| Animal | Count |
+|---|---|
+| Ass | 8 |
+| Elephant | 6 |
+| Camel | 5 |
+| Peacock | 3 |
+| Wolf | 23 |
+| Lion | 21 |
+| Dog | 20 |
+| Hog | 11 |
+| Tiger | 0 |
