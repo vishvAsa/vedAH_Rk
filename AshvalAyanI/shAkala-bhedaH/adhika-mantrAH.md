@@ -2,6 +2,8 @@
 title = "अधिक-मन्त्राः"
 +++
 [[TODO: परिष्कार्यम्]]
+Source: [TW](https://archive.org/details/AdditionalRksInAshvalAyanaSamhitAEnglishHindiChaubey)
+
 ## 01.191
 
 
