@@ -9,3 +9,9 @@ unicode_script = "devanagari"
 खिलत्वात् ऋग्वेदेऽपि निर्दिष्टः स्वरः न निर्धारित इव भाति । (पाठभेदाः श्रूयन्ते)
 काशीकर महाभागैः स्वीय मुद्रणे बहुकोशसमीक्षापुरस्सरं वैविध्यमेव दृश्यत इति कथितम्।
 वैदिकसंशोधनमण्डलस्य खिलभागे पश्यन्तु ।
+
+## maNDala-aShTka map
+(varga missing.)  
+Source: [TW](https://shaivam.org/veda/rigveda-shakala-mandala-ashtaka-mapping/?utm_source=copilot.com#gsc.tab=0)
+
+<div class="spreadsheet" src="maNDala-aShTaka.tsv" fullHeightWithRowsPerScreen=8> </div>  
