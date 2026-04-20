@@ -215,5 +215,3 @@ unicode_script = "devanagari"
 </details>
 </div>
 
-॥ ॐ नमो नारा॑यणा॒य ॥
-
