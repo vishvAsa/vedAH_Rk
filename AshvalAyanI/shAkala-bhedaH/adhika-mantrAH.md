@@ -5,8 +5,375 @@ title = "अधिक-मन्त्राः"
 -[[TODO: परिष्कार्यम्]]
 -Source: [TW](https://archive.org/details/AdditionalRksInAshvalAyanaSamhitAEnglishHindiChaubey)
 
+## 01.191
 
--
+
+<details><summary>मूलम्</summary>
+
+मा [[बिभेर्न|बिभेर्मा]] मरि॑ष्यसि॒ परि॑ त्वा [[पामि|पाति]] स॒र्वतः॑ ।
+घ॒नेन॑ हन्मि वृ॒श्चिक॑म॒हिं द॒ण्डेना॑ग॒तम् ॥ १७ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Do not be afraid of being bitten; you will not die. I protect you from all sides. I kill with weapon the scorpion (*vṛścika*) and with stick the serpent who have come here.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+डरो मत तुम नहीं मरोगे, तुम्हारी चारों तरफ से रक्षा करता हूँ। बिच्छु को कठोर पत्थर से मारता हूँ, (तथा) आये हुये सर्प को डण्डे से मारता हूँ।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+आदित्य॒रथो॑वे॒गेन॒ विष्णो॑र्बाहुब॒लेन॑ च ।
+ग॒रुड॑प॒क्षनिपा॒तेन॒ भूमिं॑ गच्छ [[महायशः|महद्यशः]] ॥ १८ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+You, the possessor of great glory, go to the earth with the speed of the chariot of the Sun; with the power of the hands of Viṣṇu and with flapping of wings of Garuḍa.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+महान् यशस्वी (तुम) सूर्य के रथ की वेग से, विष्णु की भुजाओं के बल से तथा गरुड के पंख के गिरने की शीघ्र गति से भूमि पर जाओ।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+ग॒रुड॑स्य जा॒तमा॒त्रेण॒ त्रयो॑ लो॒काः प्र॒कम्पि॑ताः ।
+प्र॒कम्पि॑ता म॒ही सर्वा॑ स॒शैल॑व॒नका॑न॒ना ॥ १९ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The three regions trembled verily with the birth of Garuda; the entire earth quivered along with all the mountains, the forests, and the gardens.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+गरुड के उत्पन्न होने मात्र से तीनों लोक प्रकम्पित हो गये, सम्पूर्ण महती पृथिवी पर्वत, जंगल तथा उपवनों सहित प्रकम्पित हो गई।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+ग॒गनं॑ न॒ष्टच॒न्द्राकं॒ ज्योति॑र्धं न प्र का॒शते ।
+दे॒वता॑ भयभी॒ताश्च॒ मारु॑तो न प्लवा॒यते [[मारुतो न प्लवायत्यो नमोः|मारुतो न प्लवायते नमोः]] ॥ २० ॥ * [१९]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The sky (became) bereft of the moon and the sun; the luminous world does not shine; the gods became terrified; the wind does not blow; the wind does not blow. A Salute to (that state of existence).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+चन्द्र और सूर्य के प्रकाश से रहित आकाश प्रकाशित नहीं हो रहा है, देवता भयभीत हो गये हैं, प्रचण्ड मरुद्गण भी प्रवाहित नहीं हो रहे हैं; प्रचण्ड मरुद्गण भी प्रकाशित नहीं हो रहे हैं। (उस अवस्था को) मैं नमस्कार करता हूँ।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+भोः सर्प॑ भ॒द्र [[भद्रं|भद्रं]] ते॑ दू॒रं ग॑च्छ महाय॒शः ।
+ज॒नमे॒जय॑स्य य॒ज्ञान्ते॑ आस्तीकव॒चनं॑ स्म॒र ॥ २१ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O gentle serpent, good be to you; (you) the possessor of great glory, (please) do go away; you remember the words of Āstīka Muni, (uttered) at the end of (Serpent)-sacrifice of Janamejaya.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+कल्याणकारी सर्प, तुम्हारा कल्याण होवे; महान् यशस्वी तुम दूर चले जाओ। जनमेजय के सर्पयज्ञ के अन्त में कहे गये आस्तीकमुनि के वचन का स्मरण करो।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+आ॒स्तीकव॒चनं॑ श्रु॒त्वा यः सर्पो॑ न नि॒वर्त॑ते ।
+श॒तधा॑ भिद्यते [[मुर्ध्नि|मूर्ध्नि]] शिं॑शवृक्षफ॒लं यथा॑ ॥ २२ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The serpent, who having heard the name of Āstīka Muni, does not go back, his head is broken into hundreds of pieces like the fruit of *śiṃśa* (*śiṃśapa*) tree.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+आस्तीकमुनि के वचन को सुनकर जो सर्प वापस नहीं लौट जाता, उसका शिर शिंशवृक्ष के फल की तरह सैकड़ों भागों में खण्डित हो जाता है।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+यो ज॒रत्का॑रुणा जा॒तो [[रर्जन्|ररक्ष]] क॒न्यां म॑हाय॒शः ।
+तस्य॑ [[सर्पार्प|सर्प]] भ॒द्रं ते॑ दू॒रं ग॑च्छ म॑हाय॒शः ॥ २३ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+He, who is born of Jaratkāru, and (who) is possessor of high glory, if he bites a girl, O serpent, you, as such, would be deprived of welfare (so, you), the possessor of high glory, go afar.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जो जरत्कारु से उत्पन्न हुआ है तथा जो महान् यशस्वी है, वह (यदि) कन्या को डसता है, ऐसे तुम्हारा कल्याण तुमसे अलग हो जायेगा। (इसलिये) महान् यश वाले तुम दूर चले जाओ।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+अ॒सितं॑ चा॒र्थसि॑द्धिं च सु॒नीतिं॑ चापि॒ यः स्म॒रेत् ।
+दिवा॑ वा॒ यदि॑ वा रा॒त्रौ नास्ति॑ सर्पभ॒यं [[हरेत्|तस्य]] ॥ २४ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Whosoever remembers Asiti, Arthasiddhi and Sunīti by day or night, there is no fear to him of a serpent.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जो कोई (व्यक्ति) असिति, अर्थसिद्धि तथा सुनीति का स्मरण दिन में या रात्रि में करता है, उसको सर्प का भय नहीं हो सकता।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+[[अगस्ती|अगस्ति]]र्माध॒व[[रचैव|श्चैव]] मुचु॒कुन्दो॑ म॒हामु॑निः ।
+क॒पिलो॑ मुनि॒[[र्गास्तीकः|रास्तीकः]] प॒ञ्चैते॑ सुखशा॒यिनः॑ ॥ २५ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Agasti, Mādhava, Mahāmuni, Mucukunda, Kapilamuni and Āstīka, these five have happy sleep.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+अगस्ति, माधव, महामुनि मुचुकुन्द, कपिलमुनि और आस्तीक ये पांच सर्वदा सुखपूर्वक सोने वाले हैं।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+[[नर्मदाये|नर्मदायै]] नमः॑ प्रा॒तर्न॒र्मदा॑यै॒ नमो॑ नि॒शि ।
+नमो॑ऽस्तु न॒र्मदे॒ तुभ्यं॑ त्राहि॑ मां वि॒षस॑र्प॒तः ॥ २६ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Salutation (be) to the Narmadā in the morning; salutation (be) to the Narmadā in the night. O Narmadā, salutation be to you; protect me from the poison of the serpent.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+नर्मदा को प्रातःकाल नमस्कार करता हूँ; नर्मदा को रात्रिकाल में नमस्कार करता हूँ। (इसलिये) हे नर्मदे, तुम्हारे लिये मेरा सदा नमस्कार हो; विषैले सर्प से (तुम) मेरी रक्षा करो।
+</details>
+
+---
+
+## 02.44
+
+
+<details><summary>मूलम्</summary>
+
+भ॒द्रं व॑द [[दविणतो|दक्षिणतो]] भ॒द्रं[[मुत्तरतो|मुत्तरतो]] [[वंद|वद]] ।
+भ॒द्रं पु॒रस्ता॑न्नो व॒द भ॒द्रं प॒श्चात्क॑पिञ्जल ॥ १ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Kapinjala, speak auspicious words from the south; speak auspicious words from the north; speak auspicious words from the fore, and speak auspicious words from the back.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे कपिञ्जल, दक्षिण की ओर से कल्याणकारी शुभ शब्द बोलो, उत्तर की ओर से कल्याणकारी शुभ शब्द बोलो, तथा पीछे से कल्याणकारी शुभ शब्द बोलो।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+भ॒द्रं व॑द पु॒त्र[[भ॒द्रं|भ॒द्रं]] व॑द गृ॒हेषु॑ च ।
+भ॒द्रम॒स्माकं॑ वद भ॒द्रं नो॒ अभ॑यं वद ॥ २ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O Kapinjala) speak auspicious words with sons; and speak auspicious words in the houses; speak auspicious words for us; speak for us the auspicious words of fearlessness.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे कपिञ्जल) पुत्रों सहित कल्याणकारी शुभ शब्द हमारे लिये बोलो, हमारे लिये कल्याणकारी शब्द (बोलो), भयरहित (होने का शब्द) हमारे लिये बोलो।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भ॒द्रमध॑स्तान्नो वद भ॒द्रमुप॑रिष्टाद्वद । [[भ॒द्रंभ॒द्रं नु आ व॑द|भ॒द्रं भ॒द्रं न आ व॑द]] भ॒द्रं नः॑ स॒र्वतो॑ वद ॥ ३ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Speak auspicious words for us from below; speak auspicious words from above; speak for us all auspicious words; speak for us auspicious words from all sides.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे कपिञ्जल,) नीचे से हमारे लिये कल्याणकारी शुभ शब्द बोलो; ऊपर से हमारे लिये कल्याणकारी शुभ शब्द बोलो; हमारे लिये हर प्रकार का कल्याणकारी शुभ वचन चारों तरफ से बोलो; हमारे लिये कल्याणकारी शुभ शब्द सभी ओर से बोलो।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+अ॒सप॒त्नं पु॒रस्ता॑[[नः|न्नः]] शि॒वं [[दविणतस्कृधि|द॑क्षिणतस्कृधि]] ।
+अभ॑यं स॒ततं॑ प॒श्चाद् भ॒द्रमुत्त॑रतो गृ॒हे ॥ ४ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(Speak) about absence of enmity for us from the fore; make auspicious sounds from the south; (speak) always about absence of fear from the back and auspicious words from the north in our house.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे कपिञ्जल,) सामने से हमारे लिये शत्रुरहित (होने का शब्द) करो, दक्षिण की ओर से हमारे लिये मङ्गलकारी (शब्द) करो; पश्चिम की ओर से निरन्तर भयरहित होने का (शब्द बोलो), उत्तर की ओर से कल्याणकारी शुभ (शब्द) हमारे घर में (बोलो)।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+यौव॑नानि महयसि॒ जिग्यु॑षामिव दुन्दुभिः ।
+श॒कुन्त॑क प्रदक्षि॒णं श॒तप॑त्राभि नो॑ वद ॥ ५ ॥ * [ १३ ] (४)
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Bird of omen (Śakuntaka), you enhance the youthhood (of our persons) as the battle-drum (inspires) the aspirers of victory. O Śakuntaka, O possessor of hundred wings, speak auspicious words for us from all directions clockwise.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे शकुन्तक), (हमारे लोगों की) युवावस्था को तुम बढ़ाते हो, जैसे दुन्दुभि विजय की इच्छा रखने वाले (सैनिकों) के (उत्साह) को। हे सौ पंख वाले शकुन्तक, चारों तरफ से प्रदक्षिण क्रम से हमारे लिये (कल्याणकारी शब्द) बोलो।
+</details>
+
+---
+
+## 05.44
+
+
+<details><summary>मूलम्</summary>
+
+जा॒गर्षि॒ त्वं भुव॑ने जा॒तवे॑दो जा॒गर्षि॒ यत्र॑ य॒जते॑ ह॒विष्मा॑न् ।
+इ॒दं ह॒विः श्र॒द्दधा॑नो जु॒होमि॒ तेन॑ पा॒सि गुह्यं॒ नाम॑ गो॒णाम् ॥ १६ ॥ * [ २५ ] (३)
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Jātavedas, the knower of the wealth, you (always) keep awake in the region; (you) keep awake where the sacrificer offers (the oblations). I, having faith in you, offer this oblation; verily with that you protect the hidden name i.e. the nourishing property of the cows.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे समस्त उत्पन्न पदार्थ को जानने वाले अग्नि, तुम सम्पूर्ण भुवन में सदैव जागते रहते हो, जहाँ (भी) हविः प्रदान करने वाला यजमान तुम्हें हविः प्रदान करता है। श्रद्धाभाव से युक्त मैं यह हविः तुम्हारे लिये समर्पित करता हूँ; उसी से तुम सम्पूर्ण गायों (पोषणकारी तत्त्वों) के अन्दर निहित (पोषक) तत्त्वों की रक्षा करते हो।
+</details>
+
+---
+
+## 05.49
+
+
+<details><summary>मूलम्</summary>
+
+सू॒क्तान्ते॑ तृ॒णान्य॒ग्नावप्ये॑ वोद॒केऽपि॑ वा ।
+यत्स्तु॒णै॑र॒ध्यय॑नं॒ तद॑र्थी॒तं भ॑वति ध्रु॒वम् ॥ ६ ॥ * [ ३ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The study with offering *kuśa* (grass) in the fire or in the water at the end of a *sūkta*, is knowledge indeed. That study verily becomes knowledge by expansion (of what has been studied).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+सूक्त (अध्ययन) के अन्त में कुशाओं को अग्नि या जल में डालकर जो अध्ययन किया जाता है, वह निश्चित ही अध्ययन की परिपूर्णता के लिये होता है।
+</details>
+
+---
+
+## 05.51
+
+
+<details><summary>मूलम्</summary>
+
+स्व॒स्त्यय॑नं ता॒र्क्ष्यमरि॑ष्टनेमिं म॒हद्भूतं॑ वा॒यसं॑ दे॒वता॑नाम् ।
+अ॒सुर॒घ्नमिन्द्र॑सखं स॒मन्तु॑ बृह॒द्यशो॑ ना॒वमि॑व रुहेम ॥ १६ ॥ *
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The Tārkṣya (the Garuḍa or Viṣṇu), having auspicious movement and the felly of whose wheel (*nemi*) is unhurt, (who is) the most powerful Being, (who is) a large bird of gods, (who is) the killer of demons (darkness), who has Indra as his ally in the battlefields and who is the possessor of great glory, we ride (depend) on him as if (he is) a boat.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+कल्याणकारी ढंग से गन्तव्य तक पहुँचाने वाले, जिसके रथ की परिधि कभी हिंसित नहीं होती, महान् सत्त्व वाले, असुरों को नष्ट करने वाले, इन्द्र जिसके मित्र हैं, तथा जो महान् यश वाले हैं, उस देवताओं के पक्षी गरुड (विष्णु) पर हम नाव की तरफ आरूढ (आश्रित) हों।
+</details>
+
+---
+
+
+<details><summary>मूलम्</summary>
+
+अं॑होमुच॒मङ्गिरसं॑ गयं॑ च स्व॒स्त्यात्रे॒यं मन॑सा च ता॒र्क्ष्यम् ।
+प्रयत॑पाणिः श॒रणं॑ प्र प॑द्ये स्व॒स्ति सं॒बाधेष्धभ॑यं नो अस्तु ॥ १७ ॥ * [ ७ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+With folded hands, I surrender (myself) with my whole heart and mind to Tārkṣya (i.e. Viṣṇu), the remover of all sins, the most vital essence of the body, the ultimate goal of life, and the protector from all sides. Let welfare and absence of fear be for us in all confrontations.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+समस्त पापों से मुक्त करने वाले, शरीर के प्रत्येक अंग में रस रूप में विद्यमान सबके परम गन्तव्य, अत्रिवंशियों का कल्याण करने वाले तार्क्ष्य (विष्णु) की शरण में मन से दोनों हाथ फैलाकर जाता हूँ। समस्त बाधाओं में हमारा कल्याण हो तथा हमें किसी प्रकार का भय न हो।
+</details>
+
+---
+
+## 05.84
 
 
 <details><summary>मूलम्</summary>
@@ -3721,7 +4088,9 @@ Our salutation to *brahman*; salutation to Agni; (salutation) to the Earth; salu
 ==End of Additional Mantras Translation==
 
 
--## 01.191
+
+## 01.191
+
 
 <details><summary>मूलम्</summary>
 
@@ -4973,5 +5342,1037 @@ All the seers, desirous of going to heaven, performed penance. But because of be
 
 स्वर्ग जाने की इच्छा वाले सभी ऋषियों ने तपस्या की, किन्तु प्रत्येक प्रकार की तपस्या से श्रेष्ठ पावमानी ऋचाओं का जप करना चाहिये ।
 </details>
+
+<details><summary>मूलम्</summary>
+
+पा॒व॒मा॒नं परं॒ ब्रह्म॒ ये पठ॑न्ति मनी॒षिणः॑ ।
+स॒प्त जन्म॑ भवे॒द् विप्रो॑ धना॒ढ्यो वे॑दपार॒गः ॥ १८ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The wise ones, who read the *Pāvamāna (Sūkta/Maṇḍala*), the great *Brahman*, become enlightened (*vipra*), up to their seven births, prosperous and having gone through the study of the Veda up to the end.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(इस) पवमान (सूक्त/मण्डल) रूप परम ब्रह्म का जो मनीषी सदा पाठ करते हैं, वे सात जन्म तक विप्र, धनी तथा वेद का अन्त तक पारायण करने वाले होते हैं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+दशोत्त॑राण्यृ॒चां चै॒तत्पा॑वमा॒नीः श॒तानि॒ षट् ।
+ए॒तज्जुह्व॒ञ्जप॑श्चै॒व घो॒रं मृ॑त्युभ॒यं ज॑येत् ॥ १९ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+A person, offering oblations, and reciting the *pāvamānī ṛks* six hundred and ten in number conquers the fear of death.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+दश अधिक छः सौ (६१०) इन पावमानी ऋचाओं से आहुतियां प्रदान करता हुआ, तथा जप करता हुआ व्यक्ति घोर मृत्यु के भय को जीत जाता है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+पा॒व॒मा॒नं परं॒ ब्रह्म॑ शु॒क्रं ज्योतिः॑ स॒ना॒तन॑म् ।
+ऋषीँस्तस्योप॑ तिष्ठेत क्षी॒रं स॒र्पिर्मधूद॒कम् ॥ २० ॥  [ २२ ] [५]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(One who meditates upon) the *pāvamāna* (*sūkta*), the great prayer, the lustrous, shining and the eternal, the milk, clarified butter, honey and water (offered by him), reach the seers.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+यह पवमान (मण्डल) परं ब्रह्म है, तथा प्रकाशमान सनातन ज्योति है । (जो इसका पारायण करता है) । उसका दूध, घृत, मधु तथा जल ऋषियों के पास पहुँचता है ।
+</details>
+
+## 09.115
+
+
+<details><summary>मूलम्</summary>
+
+यत्र॒ तत्प॑र॒मं प॒दं विष्णो॑र्लो॒के म॑ही॒यते॑ ।
+दे॒वैः सुकृ॑तकर्मभि॒स्तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ १ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where that Supreme abode of Viṣṇu is exalted in the space by the Gods and by the doers of meritorious deeds, they make me immortal; O Soma! flow forth for Indra.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ वह विष्णु का परम पद सर्वोच्च लोक में देवताओं तथा शुभ-कर्म करने वाले मनुष्यों के द्वारा प्रशंसित है, वहाँ हे सोम, मुझे अमृतत्व को प्राप्त कराओ तथा इन्द्र के लिये चारों तरफ से निरन्तर प्रवाहित होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र॒ तत्प॑रमा॒व्यं॑ भू॒ताना॒मधि॑पतिः ।
+भा॒व॒भा॒वी च॒ योगी॑श्च॒ तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ २ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where there is that Supreme refuge, (where) the Lord of all beings, the appreciator of feelings or sentiments (resides) and (to where) the contemplative saints (go), they make me immortal; O Soma! flow forth for Indra.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ पर सर्वश्रेष्ठ (आत्माओं का) आश्रय है; (जहाँ) सभी प्राणियों के स्वामी हैं; (जहाँ) भावनाओं से प्रभावित होने वाले तथा योगी हैं; वहाँ हे सोम मुझे अमृतत्व को प्राप्त कराओ तथा इन्द्र के लिये चारों तरफ से सदा प्रवाहित होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र॑ दे॒वा म॒हात्मा॑नः॒ सेन्द्रा॑श्च सम॒रुद्ग॑णाः ।
+ब्र॒ह्मा च॒ यत्र॒ विष्णु॑श्च॒ तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ ३ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where do reside the gods, the great souls along with Indra and the band of Maruts, where (do reside) Brahmā and Viṣṇu, there make me immortal; O Soma! flow forth for Indra.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ पर इन्द्र-सहित तथा मरुद्गण-सहित सभी देव तथा महात्मा लोग हैं; जहाँ ब्रह्मा तथा विष्णु हैं; वहाँ हे सोम, मुझे अमृतत्व प्रदान करो तथा इन्द्र के लिये चारों तरफ से निरन्तर प्रवाहित होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र॑ लोक्या॑स्तनू॒त्यजा॑: श्र॒द्धया॒ तप॑सा जि॒ताः ।
+तेज॑श्च॒ यत्र॒ ब्रह्म॑ च॒ तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ ४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where meritorious persons, risking their lives attain that abode by observing reverence and penance; where there is brilliance and the *Brahman* (prayer); there make me immortal; O Soma! flow forth for Indra.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ शरीर का परित्याग करने वाले लोगों ने श्रद्धा और तप से उस स्थान को प्राप्त किया है; जहाँ तेज और ब्रह्म है; वहाँ हे सोम, मुझे अमृतत्व प्रदान करो तथा इन्द्र के लिये चारों तरफ से निरन्तर प्रवाहित होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र॒ गङ्गा॑ च य॒मुना॒ यत्र॒ प्राची॒ सर॑स्वती ।
+यत्र॑ सो॒मेश्व॑रो दे॒वस्तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ ५ ॥  [ २८ ] (५)
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where there are Gaṅgā and Yamunā rivers; where the Sarasvatī flows towards the east; where there is Lord Someśvara; there make me immortal; O Soma, flow forth for Indra.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ गंगा और यमुना (प्रवाहित होती हैं); जहाँ पूर्व की ओर सरस्वती (प्रवाहित हो रही) है; जहाँ सोमेश्वर देव हैं; वहाँ हे सोम, मुझे अमृतत्व प्रदान करो तथा इन्द्र के लिये चारों तरफ से निरन्तर प्रवाहित होवो ।
+</details>
+
+## 10.9
+
+
+<details><summary>मूलम्</summary>
+
+स॒स्रुषी॒स्तद॑पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑ । 
+वरे॑ण्यक्रतुर॒हमा दे॒वीरव॑से हुवे ॥ १० ॥  [ ५ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Having excellent intelligence, I invoke for our protection the goddesses (waters) which are ever-flowing, having it as their mission, and ever-flowing in the day and the night.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+श्रेष्ठ बुद्धि वाला मैं, सदा प्रवाहित होते रहना ही जिनका कर्म है, उन सदा दिन-रात प्रवाहित होने वाली जल-देवियों का अपनी रक्षा के लिये आह्वान करता हूँ ।
+</details>
+
+## 10.75
+
+
+<details><summary>मूलम्</summary>
+
+सि॒ता॒सि॒ते स॒रिते॒ यत्र॑ सं॒गे तत्रा॑प्लु॒तासो॒ दिवमु॒त्प॑तन्ति ।
+ये वै त॒न्वं॑ १ वि सृ॒जन्ति॒ धीरा॒स्ते वै ज॒नासो॑ अमृत॒त्वं भ॑जन्ते ॥ ६ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Where the two rivers white (Gaṅgā) and black (Yamunā) flow forth together, there taking bath, persons go to heaven. The wise ones, who give up their body there, verily those men attain immortality.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जहाँ सफेद जल वाली (गंगा) तथा कृष्ण जल वाली (यमुना) एक साथ (संगम रूप में प्रवाहित होती) हैं, वहाँ स्नान करने वाले स्वर्ग प्राप्त करते हैं । जो बुद्धिमान वहाँ (संगम पर) शरीर का त्याग करते हैं, वे ही व्यक्ति अमृतत्व को प्राप्त करते हैं ।
+</details>
+
+## 10.85
+
+
+<details><summary>मूलम्</summary>
+
+अ॒वि॒ध॒वा भ॑व व॒र्षाणि॑ श॒तं साग्रं॒ तु सु॑व्र॒ता ।
+ते॒ज॒स्वी च॑ यश॒स्वी च॒ धर्म॑पत्नी॒ पति॑व्रता ॥ ४८ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O bride!) be not a widow for hundred years; devoted to your husband be ahead in observing common duties, illustrious, glorious, (as a) guardian of *dharma*.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे वधू! सौ वर्ष तथा उसके आगे भी तुम सौभाग्यवती, सुन्दर व्रत वाली, तेजस्विनी, यशस्विनी, धर्म का पालन करने वाली तथा पतिव्रता होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज॒नय॑द् ब॒हु॒पुत्रा॑णि॒ मा च॑ दुः॒खं ल॑भे॒त् क्व॑ चि॑त् ।
+भ॒र्ता ते॑ सोम॒पा नित्यं॒ भवे॑द्धर्मप॒राय॑णः ॥ ४९ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O bride!) giving birth to many sons, may you never get any problems in life; may your husband always be the protector of Soma, and devoted to his duty.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे वधू,) तुम अनेक पुत्रों को जन्म देती हुई कभी भी दुःख को प्राप्त न होवो । सोमयज्ञ का सम्पादन करता हुआ तुम्हारा पति नित्य धर्म का आचरण करने वाला होवे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ष्टपु॑त्रा भव॒ त्वं च॑ सु॒भगा॑ च॒ पति॑व्रता ।
+भ॒र्तुश्चै॒व पि॒तुर्भ्रा॒तुर्हृ॑दयान॒न्दिनी॒ सदा॑ ॥ ५० ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O bride!), you be the mother of eight sons, fortunate, devoted to your husband; and (you) always be comforting to the father and brother of your husband.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे वधू,) तुम सुन्दर सौभाग्य वाली आठ पुत्रों को जन्म देने वाली तथा पातिव्रत्य धर्म का पालन करने वाली होवो । अपने पति के पिता (श्वसुर) तथा भाई (देवर) के हृदय को सदा आनन्द देने वाली होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑स्य तु यथे॑न्द्रा॒णी श्री॑ध॒रस्य॒ यथा॑ श्रि॒या ।
+श॒ङ्क॒रस्य॒ यथा॑ गौ॒री त॒द्भर्तु॒रपि॑ भ॒र्तरि ॥ ५१ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+As Indrāṇī (was very much dear) to Indra, Śrī and Lakṣmī to Viṣṇu and Gaurī to Śaṅkara, (O bride, you be dear to your husband); even more than they were (to their husbands).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जिस प्रकार इन्द्र के लिये इन्द्राणी, विष्णु के लिये श्री तथा लक्ष्मी एवं शंकर के लिये गौरी थीं, उनसे भी अधिक अपने पति के प्रति प्रेम करने वाली होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रे॒र्यथान॑सूया॒ स्याद् वसि॑ष्ठ॒स्याप्य॑रुन्ध॒ती ।
+कौ॒शिक॑स्य॒ यथा॒ सती॒ तथा॒ त्वमपि॑ भ॒र्तरि॑ ॥ ५२ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+As Anasūyā was (dear) to Atri, Arundhatī to Vasiṣṭha and Satī to Kauśika (Viśvāmitra); likewise you be (dear) to your husband.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जिस प्रकार अत्रि ऋषि की पत्नी अनसूया थी, वसिष्ठ की पत्नी अरुन्धती थी, विश्वामित्र की पत्नी सती थी, वैसे ही तुम अपने पति के लिये होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध्रु॒वैधि॒ पोष्या॒ मयि॒ मह्यं॑ त्वादा॒द् बृह॒स्पतिः॑ ।
+मया॒ पत्या॑ प्र॒जाव॑ती॒ सं जी॑व श॒रदः॑ श॒तम् ॥ ५३ ॥  [ २१ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O wife,) be stable, you are always to be nurtured by me. The Bṛhaspati has given you to me; (you be) giver of birth to progeny with me (your) husband. You live long together (with me) for hundred years.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे वधू,) मेरे द्वारा सदा पोषण के योग्य तुम मेरे प्रति सदा अटल होवो। बृहस्पति ने तुमको मुझे प्रदान किया है । मुझ पति के द्वारा तुम सुन्दर सन्तान वाली होवो तथा सौ वर्ष तक एक साथ जीवो ।
+</details>
+
+
+## 10.95
+
+
+<details><summary>मूलम्</summary>
+
+उद॑पप्ताम वस॒तेर्वयो॑ यथा रि॒णन्त्वा भृग॑वो मन्य॑मानाः ।
+पुरू॑रवः॒ पुन॒रस्तं॒ परे॒ह्या मे॒ मनो॑ देवज॒ना अयां॑सुः ॥ १९ ॥  [ ४ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I have flown away as a bird from its nest; (lest) the Bhṛgus kill you thinking themselves superior; O Purūravas, go back to your house; the gods have overpowered my mind.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+मैं दूर उड़ चुकी हूँ, जैसे पक्षी अपने घोंसले से; भृगु लोक अपने को बड़ा मानते हुए तुमको कहीं हिंसित न कर दें, (इसलिये) हे पुरूरवा, तुम पुनः अपने घर लौट जाओ; देवजनों ने मेरे मन को अभिभूत कर दिया है।
+</details>
+
+## 10.97
+
+
+<details><summary>मूलम्</summary>
+
+यच्च॑ कृ॒तं यदकृ॑तं॒ यदेन॑श्चकृ॒मा व॒यम् ।
+ओष॑धय॒स्तस्मा॑त्पान्तु दुरि॒तादेन॑स॒स्परि॑ ॥ २४ ॥  [ ११ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+What has been done and what not done; whatever sin we have committed; may the herbs protect from the wrong-doing and take us out from the sin.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जो कुछ (मेरे द्वारा) किया गया है अथवा (अभी) नहीं किया गया है, और जिस पाप को हमने किया है, ओषधियाँ उन दुष्कर्मों से मेरी रक्षा करें और उस पाप से पार करें ।
+</details>
+
+## 10.103
+
+
+<details><summary>मूलम्</summary>
+
+अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒भ्यैति॑ न॒ ओज॑सा॒ स्पर्ध॑माना ।
+तां गू॑हत॒ तम॒साप॑व्रतेन॒ यथा॒मीषा॑म॒न्यो अ॒न्यं न जाना॑त् ॥ १४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Maruts, this army of others (enemies), which comes to us fighting with a view to conquering us by power, you hide it with darkness by making it inactive, so that none among them could know each other.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे मरुतो, दूसरे शत्रुओं की जो यह सेना अपनी शक्ति से हमारे साथ स्पर्धा करती हुई हमारी ओर आ रही है, उसको तुम निष्क्रिय बनाते हुए अन्धकार में छिपा दो, ताकि उनमें एक-दूसरे को न जान सके ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्धा अ॒मित्रा॑ भवतशी॒र्षाणो॒ अह॑य इव ।
+तेषां॑ वो अ॒ग्निद॑ग्धाना॒मिन्द्रो॑ हन्तु वरं॑वरम् ॥ १५ ॥  [ २३ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(O enemies), be blind and friendless like hoodless serpents. Let Indra kill the chieftains among you who have been burnt with fire.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे शत्रुओ) तुम लोग शिररहित सर्प की तरह अन्धे तथा मित्ररहित हो जावो । अग्नि से जले हुये तुम लोगों में से जो-जो बड़ा योद्धा है, उसको इन्द्र मारे ।
+</details>
+
+## 10.106
+
+
+<details><summary>मूलम्</summary>
+
+ह॒विर्भि॒रेके॒ स्व॑रि॒तः सच॑न्ते सु॒न्वन्त॒ एके॒ सव॑नेषु॒ सोमा॑न् ।
+शची॒र्मद॑न्त उ॒त दक्षि॑णाभि॒र्नेज्जि॒ह्माय॑न्त्यो॒ नर॑कं॒ पता॑म ॥ १२ ॥  [ २ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Some go to heaven from here by offering oblations (to the gods); some others press Soma in the (morning, midday and evening) with a desire to go to heaven; some others praising (the gods) with *mantras* (*ṛks, yajus* and *sāmans*) and giving sacrificial fee (to the *ṛtviks*) go to heaven; lest we by committing sin go down to hell.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+कुछ लोग (देवताओं को) हवि: प्रदान कर यहाँ से स्वर्ग को प्राप्त करते हैं; कुछ दूसरे लोग, सोमयागों में (इन्द्र को) सोम प्रदान कर शची को आनन्दित करते हुये (स्वर्ग प्राप्त करते हैं), और दूसरे यज्ञ में दक्षिणादि देकर (स्वर्ग प्राप्त करते हैं)। (इन तीनों कर्मों से वंचित) हम लोग निन्दित कर्म करते हुये कहीं नरक को न प्राप्त होवें ।
+</details>
+
+## 10.128
+
+
+<details><summary>मूलम्</summary>
+
+आ रा॑त्रि॒ पार्थि॑वं॒ रजः॑ पि॒तुर॑प्रायि॒ धाम॑भिः ।
+दि॒वः सदां॑सि बृह॒ती वि ति॑ष्ठस॒ आ त्वे॒षं व॑र्तते॒ तमः॑ ॥ १ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Night (*rātri*), the terrestrial region has been filled with the power and might of the Father (*dyaus*). You have spread forth high unto the seats of heaven. The darkness, striking with fear, spreads everywhere.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे रात्रि, यह पृथिवीलोक पिता (द्यौ) के बल से चारों तरफ से व्याप्त है । तुम द्युलोक के सभी स्थानों को ऊंचाई तक व्याप्त कर स्थित हो । दीप्तिमान आकाश तक अन्धकार फैला है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये ते॑ रात्रि नृ॒चक्ष॑सो॒ युक्ता॑सो नव॒तिर्नव॑ ।
+अ॒शी॒तिः स॒न्त्व॒ष्टा उ॒तो ते॑ स॒प्त स॑प्त॒तिः ॥ २ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Night, your watching men (gods) who are engaged in looking after the mankind are ninety-nine, eighty-eight, and seventy-seven in number.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे रात्रि, मनुष्यों को देखने वाले देव, जो तुम्हारे द्वारा नियुक्त हैं, वे निन्यानब्बे (९९), अट्ठासी (८८) तथा सतहत्तर (७७) संख्या में हैं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+रात्रीं॒ प्र प॑द्ये ज॒ननीं॑ सर्वभूतनि॒वेश॑नीम् ।
+भ॒द्रां भग॑वतीं कृ॒ष्णां वि॒श्वस्य॑ जग॒तो निशा॑म् ॥ ३ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I approach the Night, the mother, bringing rest to all beings, the auspicious one, possessing good fortune, dark and the sleeping place of all moving ones.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+सभी प्राणियों को आश्रय देने वाली माता, कल्याण करने वाली तथा सम्पूर्ण जगत् को सुलाने वाली कृष्णवर्णा भगवती रात्रि की शरण में आता हूँ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सं॒वेश॑नीं सं॑यम॒नीं ग्र॑हनक्षत्रमा॒लिनी॑म् ।
+प्रप॑न्नो॒ ऽहं शि॒वां रात्रीं॒ भद्रे॑ पा॒रम॑शीमहि ॥ ४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I have come to the auspicious Night, (who is) causing (all) to rest, controlling all, and putting on the garland of constellations and stars. O auspicious one, may we cross your boundary.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+सबको निवास देने वाली, सबका सम्यक् प्रकार से एक साथ नियन्त्रण करने वाली, ग्रहों एवं नक्षत्रों की माला धारण करने वाली तथा सबका कल्याण करने वाली रात्रि की शरण में उपस्थित हूँ । हे सबका कल्याण करने वाली (रात्रि), मैं तुमको पार करूँ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+दु॒र्गेषु॒ विष॑मे घो॒रे सं॑ग्रा॒मे रि॑पुसंक॒टे । 
+अ॒ग्नि॒चो॒र॒नि॒पा॒तेषु॑ सर्वग्रहनिवार॒णे ॥ ५ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+In impassable (places), in uneven, terrible battlefield, in the attacks of fire and thieves and in removing the ill effects of all the planets (we approach Durgā).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+दुर्गमनीय, ऊबड़-खाबड़ स्थानों में, घोर संग्राम में, शत्रु संकट में, अग्नि एवं चोरों से प्राप्त संकट में, तथा सभी ग्रहों के बुरे प्रभावों के निवारण में (हम दुर्गा की शरण में आते हैं) ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+दु॒र्गेषु॒ विष॑मेषु॒ त्वं सं॑ग्रा॒मेषु॒ वने॑षु च ।
+नम॑स्कृ॒त्वा प्र प॑द्यन्ते॒ तेषां॑ नो॒ अभ॑यं कुरु ॥ ६ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Durgā, the persons who approach you offering their salutations to you in impassable, uneven, battlefields and forests, you grant fearlessness to them and to us.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+दुर्गम स्थानों में, विषम परिस्थितियों में, युद्धों में तथा जंगलों में (जो तुम्हें) नमस्कार करके तुम्हारी शरण में जाते हैं, उनको तथा हमें भयरहित करो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒दि॒त्यव॑र्णां॒ तप॑सा॒ ज्वल॑न्तीं वैरोच॒नीं चन्द्र॑सहस्रदीप्तिम् ।
+दे॒वीं कु॑मा॒रीमृषि॑पूजितां॒ तां तां दु॒र्गमा॑तां शर॒णं प्र प॑द्ये ॥ ७ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I approach, for protection, the mother Durgā, possessing colour of the sun, shining with penance, belonging to the sun, having the brilliance of thousands of moons, the goddess, the celibate, and worshipped by the seers.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+आदित्य के समान वर्ण वाली, तप से प्रदीप्त, सूर्य सदृश विविध प्रकाश वाली, हजारों चन्द्रमा की कान्ति वाली, सदा कुमारी रहने वाली तथा ऋषियों द्वारा पूजित, ऐसी देवी दुर्गा माता की शरण में उपस्थित होता हूँ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षी॒रेण॑ स्नापि॒ता दु॒र्गा च॒न्दने॒नानु॑लेपि॒ता ।
+बै॒ल्व॒प॒त्र॒कृ॒तामा॑ला॒ नमो॑ दु॒र्गे॒ नमो नमः॑ ॥ ८ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Durgā has been bathed with milk, besmeared with sandal, adorned with the garland of *bilva*-leaves. O Durgā, I bow down to you; I bow down.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जो दूध से स्नान कराई गई है, जिसका चन्दन से अनुलेप किया गया है, जिसने बिल्व-पत्रों की माला धारण की है, ऐसी हे दुर्गा, तुम्हें बार-बार नमस्कार है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒र्व॒भू॒त॒पि॒शा॒चेभ्यः॑ सर्वशत्रुसरीसृ॒पैः ।
+दे॒वेभ्यो॒ मानु॑षेभ्यश्चो॒भयेभ्यो मा॒भि र॑क्षताम् ॥ ९ ॥  [ १५ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Durgā, protect me from all sides from all the *bhūtas* and *piśācas* (evil spirits), all enemies including serpents and both divine and human beings.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे दुर्गा, सभी भूत-पिशाचों से, रेंगकर चलने वाले सर्पादि सभी शत्रुओं से, देव (प्रकोपों) से, मनुष्यकृत बाधाओं से तथा दोनों से उत्पन्न बाधाओं से मेरी रक्षा करो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒ग्वे॒दे स्तु॒तया॑ दे॒वी काश्य॑पेनो॒दाहृ॑ता ।
+जा॒तवे॑दप्रभा गौ॒री जा॒तवे॑दसे सुनवाम॒ सोम॑म् ॥ १० ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Because of being praised in the *Ṛgveda*, the Goddess Gaurī, having the brilliance of fire, has been referred to by Kāśyapa. May we press the Soma for Jātavedas Agni.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+ऋग्वेद में जो देवी स्तुति की गई है, जो काश्यप के द्वारा उदाहृत है, वह गौरी अग्नि की प्रभावली है; उस जातवेदस्-रूपा देवी के लिये हम सोम का सवन करें ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒रा॒सु॒रैर्द्वि॑जव॒रैः पि॑शाचासुरराक्ष॒सैः ।
+अ॒रा॒ति॒भ॒यमुत्प॑न्नमरातीय॒तो नि द॑हाति॒ वेदः॑ ॥ ११ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The fear caused by the enemies, by the gods, demons, brāhmaṇas; (and also by) *piśācas*, *asuras* and *rākṣasas*; may (Jātavedas) consume the wealth of those who have enmity against us.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+सुर, असुर, द्विज, पिशाच, असुर तथा शत्रुओं के द्वारा जो भय उत्पन्न है, उन सभी शत्रुता करने वालों के धन को अग्नि जलावे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+रा॒ज॒द्वा॒रे प॒थे घो॒रे सं॑ग्रा॒मेषु च॒ गौत॑मी ।
+सर्वं॑ रक्षतु दुरि॒तं स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ॥ १२ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+May Gautamī protect us from all evils, whether at the door of the king, (or) on the terrible path, (or) in the battlefields. May he (the Jātavedas Agni) make us cross over all the difficulties.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+राजा के घर पर, रास्ते में, घोर संग्राम में जो कुछ दुष्कर्म हुआ है; उससे गौतमी मेरी रक्षा करे । वह जातवेदस् (अग्नि) हमें सभी विपत्तियों से पार करे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒हद्भ॑ये समुत्प॒न्ने स्म॒रन्ति॑ च जपन्ति च ।
+सर्वं॑ तारयते॑ दु॒र्गा ना॒वेव॒ सिन्धुं॑ दुरि॒तान्य॒ग्निः ॥ १३ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(The persons) who remember and chant the praises of Goddess Durgā at the commencement of any great fear, she makes them cross over all the difficulties. The Jātavedas Agni makes one cross over the evil-doings as someone crosses over a river by a boat.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+किसी भी महान् भय के उत्पन्न होने पर जो व्यक्ति दुर्गा का स्मरण करते हैं तथा जप करते हैं, दुर्गा उनको सभी प्रकार के भय से पार करती है; अग्नि सभी दुष्कृतों से पार करता है जैसे नाव से नदी ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+य इ॒मं स्तवं॑ दु॒र्गायाः॑ शृ॒ण्वन्ति॑ च॒ पठ॑न्ति च ।
+त्रि॒षु लो॒केषु॑ वि॒ख्यातं॑ त्रि॒षु लो॒केषु॑ पूजि॒तम् ॥ १४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Whosoever hear and read the praise of Durgā, he becomes well known in the three *lokas*; and he is also worshipped throughout the three *lokas*.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जो व्यक्ति दुर्गा के इस स्तवन को सुनता है तथा पढ़ता है, वह तीनों लोकों में विख्यात होता है तथा तीनों लोकों में पूजा जाता है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒पु॒त्रो ल॑भते पु॒त्रान् ध॒नही॑नो॒ धनं॑ लभेत् ।
+अ॒च॒क्षुर्ल॑भते॒ चक्षु॑र्ब॒द्धो मु॑च्येत बन्ध॑नात् ॥ १५ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The son-less (person) gets sons; the wealthless (person) gets wealth; the blind gets eyesight, and the captive gets freedom from bondage.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+पुत्रहीन व्यक्ति पुत्र प्राप्त करता है; निर्धन धन प्राप्त करता है; दृष्टिहीन दृष्टि प्राप्त करता है; बन्धनयुक्त व्यक्ति बन्धन से मुक्त होता है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्या॒धि॒तो मु॑च्यते॒ रोगा॑दरो॒गी श्रित॑माप्नुयात् ।
+स॒र्वं कामं॒ त्वं द॑दासि॒ नारा॑यणि॒ नमो॑ ऽस्तु ते । कात्या॑यनि॒ नमो॑ ऽस्तु ते ॥ १६ ॥  [ १६ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+One, afflicted with disease, gets freedom from disease, and the diseaseless person gets prosperity. O Nārāyaṇī, you fulfil all desires. My salutation to you; O Kātyāyanī, my salutation to you.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+रोगी रोग से मुक्त होता है; नीरोग व्यक्ति धन प्राप्त करता है; हे (दुर्गा) तुम सभी कामनाओं की पूर्ति करती हो; हे नारायणी, तुम्हें नमस्कार है; हे कात्यायनी, तुम्हें नमस्कार है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+के॒शी वै स॑र्वभू॒तानां॑ पञ्च॒मीति॑ च॒ नाम॑ च ।
+सा मां सामेति॒ वै दे॒वी स॒र्वतः॒ परि॑ रक्षति स॒र्वतः॒ परि॑ रक्ष॒त्यों नमः॑ ॥ १७ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Verily Devī is *keśī* (having rays) for all beings and she bears the name of *pañcamī*. She is verily *sāman* being ‘सा मां’ ‘she for me’. As such, the Goddess protects me from sides; Protects from all sides; My salutation to her.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(वह देवी) सभी प्राणियों को प्रकाश देने वाली (केशी) तथा पञ्चमी नाम वाली है “वह मुझे" (सा मां) इस रूप में वह देवी "सामन्" रूपा है । (वह) सभी प्रकार से रक्षा करती है; वह सभी प्रकार से रक्षा करती है । उस देवी को नमस्कार है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्तोष्या॑मि॒ प्रय॑तो दे॒वीं शर॑ण्यां बह्वृ॒चप्रि॑याम् ।
+स॒हस्र॑संमितां दु॒र्गां॑ जा॒तवे॑दसे सुनवाम॒ सोम॑म् ॥ १८ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Having become purified, I shall praise the Goddess Durgā, who is the shelter for all, beloved to the *bahvṛcas* (the Ṛgvedins) and equal to thousands. I may press Soma for Jātavedas.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+पवित्र होकर उस देवी की, जो सबको शरण प्रदान करने वाली है, ऋग्वेदियों को प्रिय है तथा अनेक रूप वाली (सहस्रसंमिता) है, उस दुर्गा की मैं स्तुति करूँगा । जातवेदस् अग्नि के लिये हम सोम का सवन करें ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+शान्त्य॑र्थं॒ तद् द्वि॑जाती॒नामृषि॑भिः समु॒पाश्रि॑ता ।
+ऋ॒ग्वे॒दे त्वं समुत्प॒न्नारा॑ती॒यतो॒ नि द॑हाति॒ वेदः॑ ॥ १९ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(The Goddess) is worshipped by the seers with a view to bringing welfare for all (the twice-borns *dvijas*). (O Goddess,) you have got your birth in the *Ṛgveda*. (May the Goddess) consume the wealth of those who have enmity with us.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+द्विजों की शान्ति के लिये ऋषियों के द्वारा उस देवी की उपासना की गई थी । (हे देवी), तुम ऋग्वेद में उत्पन्न हुई थी । जातवेदस् अग्नि शत्रुता करने वालों के धन को जलावे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये त्वां देवि प्र॒पद्य॑न्ते ब्रा॒ह्मणा॑ हव्य॒वाह॑नीम् ।
+अ॒वि॒द्यो ब॑हुवि॒द्यो वा स नः॑ पर्ष॒दति॑ दु॒र्गाणि॑ विश्वा॑ ॥ २० ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Goddess, the brāhmaṇas, whether illiterate or very learned, who approach you, the oblation-bearer, (you protect them); May she make us all cross over all the difficulties.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे देवी, जो ब्राह्मण, चाहे विद्याहीन हो या जो बहुत विद्वान् हो, हव्य का वहन करने वाली तुम्हारी शरण में जाता है, (वह सभी बाधाओं से मुक्त हो जाता है) । वह अग्नि सम्पूर्ण दुर्गम बाधाओं से हमें पार करे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒ग्निव॑र्णां॒ तप॑सा॒ ज्वल॑न्तीं वैरो॒चनीं क॑र्मफ॒लेषु॒ जु॒ष्टा॑म् ।
+दु॒र्गां॑ दे॒वीं श॑र॒णम॒हं प्र प॑द्ये॒ सुत॑रसि॒ तर॑से॒ नमः॒ सुत॑रसि॒ तर॑से॒ नमः॑ ॥ २१ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I approach for shelter that Goddess Durgā, possessing the colour of Agni, shining with penance, belonging to the sun, and the lover of the fruits of action. O well-crosser (Goddess), salutation to you, who makes one cross over (the worldly troubles). O well-crosser, salutation to you, who make one cross over (the worldly troubles).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+अग्नि के समान वर्ण वाली, तप से (सूर्य के समान) सदा प्रज्ज्वलित रहने वाली, कर्म फलों में प्रेम रखने वाली, उस दुर्गा की शरण में मैं जाता हूँ । हे अच्छी प्रकार से पार करने वाली, तुझे पार करने वाली के लिये नमस्कार है; हे अच्छी प्रकार से पार करने वाली, तुझे पार करने वाली के लिये नमस्कार है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+दु॒र्गा दु॒र्गेषु॒ स्थाने॑षु॒ शं नो॑ दे॒वीर॒भिष्ट॑ये ।
+इ॒मं दु॒र्गास्त॑वं पुण्यं॒ रात्रौ॑रात्रौ॒ सदा॒ पठे॑त् ॥ २२ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+One should always read the meritorious praise of Durgā, viz. *śaṃ no devī abhiṣṭaye*, every night at the places of Durgā.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+सभी दुर्गा-स्थानों पर "शं नो देवीरभिष्टये" इस पवित्र दुर्गास्तवन का प्रत्येक रात्रि सदा पाठ करना चाहिये ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+रात्रिः॑ कुशि॒कः सौ॑भ॒रो रा॑त्रिस्त॒वं गा॑य॒त्री ।
+रा॒त्री॒सू॒क्तं ज॑पे॒न्नित्यं॑ तत्का॒लमुप॑ पद्यते ॥ २३ ॥  [ १७ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+*Rātri*, the night (is the deity); Kuśika Saubhara (is the seer); *Rātri-stava* (is the *sūkta*); *Gāyatrī* (is the metre); one should chant the *Rātri-sūkta* daily; it gives its fruit immediately.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(इस सूक्त की देवता) रात्रि, (ऋषि) कुशिक सौभर, (इसमें) रात्रि की स्तुति तथा गायत्री छन्द है । इस रात्रि-सूक्त का नित्य जप करना चाहिये । (इससे) इसका तत्काल फल प्राप्त होता है ।
+</details>
+
+## 10.129 (128)
+
+
+<details><summary>मूलम्</summary>
+
+अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः ।
+इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे जु॑षस्वा॒स्य कु॑र्मो हरिवो मे॒दिनं॑ त्वा ॥ १० ॥  [ १९ ] (१०)
+</details>
+
+<details><summary>Chaubey En</summary>
+
+We invoke Indra from afar towards us, who is the conqueror of cows, conqueror of wealth and the conqueror of horses. O possessor of swift-going horses, listen to this sacrifice of ours in this invocation. We make you our companion.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+वहाँ से इन्द्र को, जो गायों को जीतने वाला, धन को जीतने वाला तथा जो अश्व को जीतने वाला है, हम अपनी ओर बुलाते हैं । हमारे आह्वान करने पर इस यज्ञ को स्वीकार करो । हे शीघ्र दौड़ने वाले हरि-संज्ञक अश्वों वाले इन्द्र, हम तुम्हें यहाँ शक्तिशाली बनाते हैं ।
+</details>
+
+## 10.130
+
+
+<details><summary>मूलम्</summary>
+
+आ॒यु॒ष्यं॑ वर्च॒स्यं॑ रा॒यस्पोष॒मौद्भि॑दम् ।
+इ॒दं हिर॑ण्यं॒ वर्च॑स्व॒ज्जैत्रा॒या वि॑शतादु॒ माम् ॥ १ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+May this gold, which is the preservative of life, bestowing vital power, supporting wealth, breaking through the earth and accompanied by vigour, come to me for my victory.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+आयुष्य प्रदान करने वाला, वर्चस्वी बनाने वाला, धन की पुष्टि प्रदान करने वाला, पृथिवी के अन्दर से निकलने वाले वर्चस् से युक्त यह हिरण्य विजय के लिये मेरे पास आवे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒च्चैर्वा॒जि पृ॑तना॒षाट् स॑भासा॒हं ध॑नञ्ज॒यम् ।
+स॒र्वाः सम॑ग्रा॒ ऋद्ध॑यो॒ हिर॑ण्ये॒ ऽस्मिन्त्स॒माहि॑ताः ॥ २ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+All the prosperities — high-up in strength, victory in the battle, victory in the assembly, and conquering of the wealth — are placed in this gold.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+शक्ति में सर्वोच्चता, युद्ध में विजय, सभा में विजय, धन की विजय — ये सम्पूर्ण समृद्धियाँ, इस हिरण्य में समाविष्ट हैं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+शु॒नम॒हं हिर॑ण्यस्य पि॒तुर्माने॑व जग्रभ । 
+तेन॑ मां सूर्य॑त्वचमकरं पू॒रुषु॑ प्रि॒यम् ॥ ३ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+I have taken possession of the auspicious gold as the prestige of (my) father. With that I have made my body with shining skin like sun, lovely among the clan of Pūrus (to look at).
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+मैंने कल्याणकारी हिरण्य को अपने पिता के सम्मान की तरह ग्रहण किया है; उसके द्वारा मैंने अपने शरीर को सूर्य की तरह चमकने वाला तथा पूरुवंशियों में प्रिय बनाया है ॥ ३ ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒म्राजं॑ च वि॒राजं॑ चाभि॒ष्टिर्या च॑ मे ध्रु॒वा ।
+ल॒क्ष्मी रा॒ष्ट्रस्य॒ या मुखे॒ तया॒ मामि॑न्द्र॒ सं सृ॑ज ॥ ४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The kingship, sovereignty and the protection (of Indra) which is my stability, and the Lakṣmī, i.e. the glory, which is in the mouth of a nation, with that O Indra, make me united.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+साम्राज्य, सार्वभौम शासन तथा (इन्द्र का) संरक्षण, जो मेरी स्थिरता है, (तथा) लक्ष्मी जो राष्ट्र के मुख में है, हे इन्द्र, उस (लक्ष्मी) के साथ हमें संयुक्त करो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं जज्ञे अधि॒ मर्त्ये॑षु ।
+य ए॑न॒द् वेद॒ स इदे॑नदर्हति ज॒रामृ॒त्यु॑ भवति॒ यो बि॒भर्ति॑ ॥ ५ ॥  [ २० ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+The gold, born of Agni, has been born as immortal among the mortals; who knows it, verily he worships it; who bears it, his death comes not before old age.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+अग्नि से उत्पन्न जो हिरण्य है, वह मानो मनुष्यों में अमृत के रूप में उत्पन्न हुआ है; जो उसको जानता है, वही उसको (रखने) के योग्य है; जो उसको धारण करता है, वृद्धावस्था में ही मृत्यु को प्राप्त होने वाला होता है (पहले नहीं) ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्वेद॒ राजा॒ वरु॑णो॒ यदु दे॒वी सर॑स्वती ।
+इन्द्रो॒ यद् द॑स्यु॒हा वेद॑ तन्मे॒ वर्च॑स॒ आयु॑षे ॥ ६ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+That which knows the King Varuṇa, which knows the Goddess Sarasvatī, which knows Indra, the killer of demons, may that (gold) be for my vital power and longevity.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+जिस (हिरण्य) को राजा वरुण जानता है, जिसको देवी सरस्वती जानती है, दस्युओं का वध करने वाला इन्द्र जिसको जानता है, वह (हिरण्य) मेरे वर्चस् तथा आयुष्य के लिये होवे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तद्रक्षां॑सि॒ न पि॑शा॒चास्त॑रन्ति दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३तत् ।
+यो बि॒भर्ति॑ दाक्षाय॒णं हिर॑ण्यं॒ स दे॒वेषु॑ कृणुते दी॒र्घमायुः॑ ।
+स म॑नु॒ष्ये॑षु कृणुते दी॒र्घमायुः॑ ॥ ७ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Neither the *rākṣasas*, the demons, nor the *piśācas*, the devourers overpower it, because it is the first-born strength of the gods. Whosoever bears the *dākṣāyaṇahiraṇya*, he enjoys his longevity among the gods; he attains longevity among the men.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+उस (हिरण्य) को न तो राक्षस और न ही पिशाच अभिभूत कर सकते हैं, क्योंकि देवताओं का वह प्रथम उत्पन्न बल है । जो दाक्षायण-हिरण्य को धारण करता है, वह देवों में अपनी आयु को दीर्घ बनाता है, वह मनुष्यों में अपनी आयु को दीर्घ बनाता है ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदाब॑ध्नन् दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः ।
+तन्म॒ आ ब॑ध्नामि श॒तशा॑रदा॒यायु॑ष्माञ्ज॒रद॑ष्टिर्य॒थास॑म् ॥ ८ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+When with auspicious mind the sons of Dakṣa (dexterous priests) bound the *dākṣāyaṇa-hiraṇya* for the King Śatānīka (one having 100 armies); verily that (gold) I put on me for hundred years, so that I may have long life attaining old age.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+दक्ष के पुत्रों (निपुण-पुरोहितों) ने सुन्दर मन से जिस दाक्षायण-हिरण्य को शतानीक के लिये बाँधा था, उसी को मैं अपने सौ वर्षों तक जीवित रहने के लिये बाँधता हूँ, जिससे मैं वृद्धावस्था तक जीने वाली दीर्घ आयु को धारण करने वाला बनूं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+घृ॒तादुल्लु॑प्तं॒ मधु॑मत् सु॒वर्णं॑ धनञ्ज॒यं ध॒रुणं॑ धारयि॒ष्णुम् ।
+ऋ॒णक् स॒पत्ना॒नध॑राँश्च कृ॒ण्वदा रो॑ह॒ मां म॑ह॒ते सौभ॑गाय ॥ ९ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+May the gold, drawn forth from the clarified butter, full of mead, conquering wealth, the supporter and capable of bearing, drive off foes and cause them to go down. (O gold), mount on me for the great good fortune.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+घृत से निकला हुआ, मधु से युक्त, धन को जीतने वाला, दृढ़ता से धारण करने वाला तथा सदा धारण करने की इच्छा वाला (हिरण्य) है, वह शत्रुओं को नष्ट करे तथा नीचे धकेले । (हे हिरण्य,) मेरे महान् सौभाग्य के लिये मेरे शरीर में आरूढ होवो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रि॒यं मा॑ कुरु दे॒वेषु॑ प्रि॒यं राज॑सु मा कुरु ।
+प्रि॒यं वि॒श्वेषु॑ गो॒प्त्रेषु॒ मयि॑ धेहि रु॒चा रुच॑म् ॥ १० ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O gold, make me dear among the gods; make me dear among the kings; make me dear among all the protectors. (O gold), put in me the lustre with brightness.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+(हे हिरण्य,) देवताओं में मुझे प्रिय बनाओ; राजाओं में मुझे प्रिय बनाओ; सभी रक्षकों में मुझे प्रिय बनाओ । (हे हिरण्य,) दीप्ति से दीप्तिमान (स्वर्ण) मेरे में धारण कराओ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निर्येन॑ वि॒राज॑ति॒ सूर्यो॒ येन॑ वि॒राज॑ति ।
+वि॒राड् येन॑ वि॒राज॑ति॒ तेना॒स्मान् ब्र॑ह्मणस्पते वि॒राजं॑ स॒मिधं॑ कुरु ॥ ११ ॥  [ २१ ]
+</details>
+
+<details><summary>Chaubey En</summary>
+
+With which Agni shines forth, with which the sun shines forth, and with which *virāṭ* shines forth; O Brahmaṇaspati (the Lord of Prayer), with that lustre make us sovereign and inspired.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+अग्नि जिससे सुशोभित होता है; सूर्य जिससे सुशोभित होता है, विराट् जिससे सुशोभित होता है, उस तेज से हे ब्रह्मणस्पति, मुझे विशिष्ट रूप से सुशोभित होने वाला तथा प्रज्ज्वलित बनाओ ।
+</details>
+
+## 10.145
+
+
+<details><summary>मूलम्</summary>
+
+हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि ।
+उ॒त ह्र॒दो हि नो॒ भुवो॒ ऽग्निर्द॑दातु भे॒षजम् ।
+शी॒तह्र॑दो हि नो॑ भुवो॒ ऽग्निर्द॑दातु भे॒षजम् ॥ १ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O House, we enwrap you from all sides with outer skin of the snow; and you be a pond for us; let Agni give us medicament; be (like) a cooler pond for us; let Agni give us medicament.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे गृह, हिम की पतली परत से तुमको चारों तरफ से आवेष्टित करता हूँ; तुम हमारे लिये एक सरोवर (के समान शीतल) होवो; अग्नि अपनी औषधि प्रदान करे; तुम हमारे लिये सरोवर होवो । अग्नि अपनी औषधि प्रदान करे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्ति॒काद॒ग्निर॑भवद्दु॒र्वादः॒ शिशु॒रााग॑मत् । 
+अजा॑तपुत्रपुत्राया॒ हृद॑यं॒ मम॑ दू॒य॒ते॒ ॥ २ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Let Agni be in vicinity; let child, speaking inexplicit words, come (here). Having given no birth to a child my heart is distressed.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+अग्नि समीप में रहे; तुतले शब्द करने वाला शिशु हमारे घर में हो; जिसको कोई पुत्र उत्पन्न नहीं हुआ, उस माता का मेरा हृदय अत्यन्त पीड़ित हो रहा है।
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒पु॒लं वनं॑ ब॒ह्वा॑का॒शं चर॑ जातवेदः॒ कामा॑य ।
+मां च॒ रक्ष॑ पु॒त्राँश्च॑ शर॒णमु॒भौ तव॑ ॥ ३ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Jātavedas Agni, move as per your will in the vast forest, having a large sky. Protect me and my sons; both of us are in your shelter.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे जातवेदस् अग्नि, विशाल आकाश से व्याप्त विस्तृत वन में तुम अपनी इच्छानुसार विचरण करो; मेरी रक्षा करो और मेरे पुत्रों की रक्षा करो; हम दोनों तुम्हारी शरण में हैं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+पिङ्गा॑क्ष॒ लोहि॑तग्रीव॒ कृष्ण॑वर्ण नमो॑ ऽस्तु ते ।
+अ॒स्मन्नि ब॑र्हीरस्यो॒नं सा॑गरस्यो॒र्मयो॑ यथा ॥ ४ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+O Agni, the red-eyed, the red-necked, and the black-coloured, (my) salutation be to you; you remove away its deficiency from us like the waves of the ocean.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+हे रक्त वर्ण के नेत्र वाले, हे लाल वर्ण की गर्दन वाले, हे कृष्ण वर्ण (के धूम) वाले, तुम्हें नमस्कार है । इस गृह की जो न्यूनता है, उसे हमसे अलग कर नष्ट करो, जिस प्रकार सागर की लहरें (अवांछित वस्तुओं को) दूर फेंकती हैं ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रः॑ क्ष॒त्रं द॑दातु॒ वरु॑ण॒स्तमभि॑ षिञ्चतु ।
+शत्र॑वो नि॒धनं॑ यान्तु॒ जयं॒ त्वं ब्रह्म॑तेजसा ॥ ५ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+Let Indra give shelter (to you); let Varuṇa sprinkle water from all sides. Your enemies go to death and you get victory (over them) with the power of prayer.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+इन्द्र शक्ति प्रदान करे, वरुण उसको अभिषिञ्चित करे, तुम्हारे शत्रु विनाश को प्राप्त हों; तुम अपने ब्रह्मतेज से विजय प्राप्त करो ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+क॒पि॒लज॑टीं सर्व॑भक्षं चा॒ग्निं प्र॒त्यक्ष॑दैवतम् ।
+व॒रु॒ण॒व॒शाँ ह्य॑१ग्निर्मम॑ पु॒त्राँश्च॑ रक्षतु ॥ ६ ॥ 
+</details>
+
+<details><summary>Chaubey En</summary>
+
+(I take) Agni, having brownish hair and all-devouring as the visible god. Let Agni protect my sons, captured by Varuṇa.
+</details>
+
+<details><summary>Chaubey हि</summary>
+
+पाण्डु वर्ण की जटा वाला तथा सब कुछ खाने वाला अग्नि ही प्रत्यक्ष देवता है; वरुण के पाश में फँसे मेरे पुत्रों की अग्नि रक्षा करे ।
+</details>
+
 
 
