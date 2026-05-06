@@ -1422,7 +1422,7 @@ Whatever cruel sins, I have accrued through purchase and sale, sexual defilement
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑वधात्सुरा॒पाना॑त्सुव॒र्णस्ते॑याद्वृषलीमिथुनसंग॒मात् ।  
-गु॒रोर्दा॑राभिगम॒नाच्च तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ५ ॥  [ १९ ]
+गु॒रोर्दा॑राभिगम॒नाच्च॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ५ ॥  [ १९ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1752,7 +1752,7 @@ A person, offering oblations, and reciting the *pāvamānī ṛks* six hundred a
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नं परं॒ ब्रह्म॑ शु॒क्रं ज्योतिः॑ स॒ना॒तन॑म् ।  
-ऋषीँस्तस्योप॑ तिष्ठेत क्षी॒रं स॒र्पिर्मधूद॒कम् ॥ २० ॥  [ २२ ] [५]
+ऋषीँस्तस्योप॑ तिष्ठेत क्षी॒रं स॒र्पिर्मधू॑द॒कम् ॥ २० ॥  [ २२ ] [५]
 </details>
 
 <details><summary>Chaubey En</summary>
