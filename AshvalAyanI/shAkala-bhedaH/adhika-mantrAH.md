@@ -509,7 +509,7 @@ O Jātavedas (the Fire-god), bring to me the Lakṣmī, who is never to leave me
 
 <details><summary>मूलम्</summary>
 
-अ॒श्व॒पू॒र्वां र॑थम॒ध्यां ह॒स्तिनादप्रमो॒दिनी॑म् ।  
+अ॒श्व॒पू॒र्वां र॑थम॒ध्यां ह॑स्तिनादप्रमो॒दिनी॑म् ।  
 श्रियं॑ दे॒वीमुप॑ ह्वये॒ श्रीर्मा॑ दे॒वी जु॑षताम् ॥ ३ ॥
 </details>
 
@@ -620,7 +620,7 @@ May he, whose friends are gods, and his glory, with precious gems, come to me. I
 <details><summary>मूलम्</summary>
 
 क्षु॒त्पि॒पा॒साम॑लां ज्ये॒ष्ठामल॑क्ष्मीं नाशया॒म्यह॑म् ।  
-अभू॑ति॒मस॑मृद्धिं च॒ सर्वां॒ निर्णु॑द मे गृहा॑त् ॥ ८ ॥
+अभू॑ति॒मस॑मृद्धिं च॒ सर्वां॒ निर्णु॑द मे॒ गृहा॑त् ॥ ८ ॥
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1378,7 +1378,7 @@ Whatever (sins) have been committed by me by disobeying the words of my parents,
 <details><summary>मूलम्</summary>
 
 क्र॒य॒वि॒क्र॒याद्यो॑निदो॒षाद् भ॒क्ष्याद्भोज्या॑त्प्रतिग्र॒हात् ।  
-असं॑भोजना॒च्चापि॑ नृशंसं॒ तत्पा॑वमानीभि॑रहं पु॑नामि ॥ ३ ॥ 
+असं॑भोजना॒च्चापि॑ नृशंसं॒ तत्पा॑वमा॒नीभि॑रहं पु॑नामि ॥ ३ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1422,7 +1422,7 @@ Whatever cruel sins, I have accrued through purchase and sale, sexual defilement
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑वधात्सुरा॒पाना॑त्सुव॒र्णस्ते॑याद्वृषलीमिथुनसंग॒मात् ।  
-गुरोर्दा॑राभिगम॒नाच्च तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ५ ॥  [ १९ ]
+गु॒रोर्दा॑राभिगम॒नाच्च तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ५ ॥  [ १९ ]
 </details>
 
 <details><summary>Chaubey En</summary>
