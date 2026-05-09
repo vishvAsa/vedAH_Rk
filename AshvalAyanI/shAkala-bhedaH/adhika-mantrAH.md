@@ -212,7 +212,7 @@ Agasti, Mādhava, Mahāmuni, Mucukunda, Kapilamuni and Āstīka, these five have
 <details><summary>मूलम्</summary>
 
 नर्म॑दायै॒ नमः॑ प्रा॒तर्नर्म॑दायै॒ नमो॒ निशि॑ ।  
-नमो॑ ऽस्तु नर्मदे तुभ्यं॑ त्रा॒हि मां वि॑ष॒सर्प॑तः ॥ २६ ॥ 
+नमो॑ ऽस्तु नर्मदे॒ तुभ्यं॑ त्रा॒हि॒ मां वि॑ष॒सर्प॑तः ॥ २६ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -973,7 +973,7 @@ Neither anger nor envy, neither greed nor evil thought come to the worshippers, 
 
 <details><summary>मूलम्</summary>
 
-विष्णु॑पत्नीं क्ष॒मां दे॒वीं मा॑ध॒वीं मा॑धव॑प्रियाम् ।  
+विष्णु॑पत्नीं क्ष॒मां दे॒वीं मा॑ध॒वीं [[??]]मा॒धव॑प्रियाम् ।  
 ल॒क्ष्मीं प्रि॒यस॑खीं दे॒वीं नमा॑म्यच्युत॒वल्ल॑भाम् ॥ ८ ॥ 
 </details>
 
@@ -994,7 +994,7 @@ I bow to the Goddess Lakṣmī, the consort of Viṣṇu, Kṣamā (the Earth), 
 
 <details><summary>मूलम्</summary>
 
-म॒हा॒ल॒क्ष्मीं च॑ विद्महे॒ विष्णु॑पत्नीं च धीमहि । तन्नो॑ ल॒क्ष्मीः॒ प्र चो॑दयात् ॥ ९ ॥ 
+म॒हा॒ल॒क्ष्मीं च॑ विद्महे॒ विष्णु॑पत्नीं च धीमहि । तन्नो॑ ल॒क्ष्मीः प्र चो॑दयात् ॥ ९ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1015,7 +1015,7 @@ May we know the Mahālakṣmī and meditate upon the consort of Viṣṇu; may t
 
 <details><summary>मूलम्</summary>
 
-श्री॒र्वर्च॑स्व॒मा॒युष्य॑ १ मारो॑ग्य॒मावि॑धा॒त्पव॑मानं महीयते ।  
+श्री॒र्वर्च॑स्व॒मा॒युष्य॑ १[[??]] मारो॑ग्य॒मावि॑धा॒त्पव॑मानं महीयते ।  
 धा॒न्यं॑ १ धनं॒ पशुं॑ बहुपुत्रला॒भं श॒तसं॑वत्सरं दी॒र्घमायुः॑ ॥ १० ॥  [ ३८ ]
 </details>
 
@@ -1108,7 +1108,7 @@ This body — consisting of the heart, the back, the two palms, the two arms, th
 <details><summary>मूलम्</summary>
 
 स्वप्न स्वप्नाधि॒कर॑णे॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म् ।  
-आ॒सू॒र्यम॒न्यान्त्स्वा॑पय॒ ह्य॒द्य॑ १ हं जा॑गृ॒यामि॑ह ॥ १ ॥ 
+आ॒सू॒र्यम॒न्यान्त्स्वा॑पय॒ ह्य॒द्य॑ १[[??]] हं जा॑गृ॒यामि॑ह ॥ १ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1378,7 +1378,7 @@ Whatever (sins) have been committed by me by disobeying the words of my parents,
 <details><summary>मूलम्</summary>
 
 क्र॒य॒वि॒क्र॒याद्यो॑निदो॒षाद् भ॒क्ष्याद्भोज्या॑त्प्रतिग्र॒हात् ।  
-असं॑भोजना॒च्चापि॑ नृशंसं॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ३ ॥ 
+असं॑भोजना॒च्चा॒पि॑ नृशंसं॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ३ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1841,7 +1841,7 @@ Where do reside the gods, the great souls along with Indra and the band of Marut
 
 <details><summary>मूलम्</summary>
 
-यत्र॑ लोक्या॑स्तनू॒त्यजा॑: श्र॒द्धया॒ तप॑सा जि॒ताः ।  
+यत्र॑[[??]] लोक्या॑स्तनू॒त्यजा॑: श्र॒द्धया॒ तप॑सा जि॒ताः ।  
 तेज॑श्च॒ यत्र॒ ब्रह्म॑ च॒ तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥ ४ ॥ 
 </details>
 
@@ -1957,7 +1957,7 @@ Where the two rivers white (Gaṅgā) and black (Yamunā) flow forth together, t
 
 <details><summary>मूलम्</summary>
 
-ज॒नय॑द् ब॒हु॒पुत्रा॑णि॒ मा च॑ दुः॒खं ल॑भे॒त् क्व॑ चि॑त् ।  
+ज॒नय॑द् ब॒हु॒पुत्रा॑णि॒ मा च॑ दुः॒खं ल॑[[??]]भे॒त् क्व॑ चि॑त् ।  
 भ॒र्ता ते॑ सोम॒पा नित्यं॒ भवे॑द्धर्मप॒राय॑णः ॥ ४९ ॥ 
 </details>
 
@@ -2253,7 +2253,7 @@ I approach the Night, the mother, bringing rest to all beings, the auspicious on
 
 <details><summary>मूलम्</summary>
 
-सं॒वेश॑नीं सं॑यम॒नीं ग्र॑हनक्षत्रमा॒लिनी॑म् ।  
+सं॒वेश॑नीं[[??]] सं॑यम॒नीं ग्र॑हनक्षत्रमा॒लिनी॑म् ।  
 प्रप॑न्नो॒ ऽहं शि॒वां रात्रीं॒ भद्रे॑ पा॒रम॑शीमहि ॥ ४ ॥ 
 </details>
 
@@ -3099,7 +3099,7 @@ Let Indra give shelter (to you); let Varuṇa sprinkle water from all sides. You
 
 <details><summary>मूलम्</summary>
 
-याव॑दादि॒त्य॒स्तप॑ति॒ याव॑द् भ्राज॑ति च॒न्द्रमाः॑ ।  
+याव॑दादि॒त्य॒स्तप॑ति॒ याव॑[[??]]द् भ्राज॑ति च॒न्द्रमाः॑ ।  
 याव॒द् वातः॑ प्र॒वाय॑ति॒ ताव॑ज्जीव॒ तया॑ स॒ह ॥ ७ ॥ 
 </details>
 
@@ -3851,7 +3851,7 @@ Whosoever knows Mahādeva as Supreme Lord (*puruṣottama*); who is every thing 
 
 <details><summary>मूलम्</summary>
 
-यो॒३सौ सर्वे॑षु॒ वेदे॑षु॒ प॒ठ्य॒ते॒ ह्य॑१ज ई॑श्व॒रः ।
+यो॒३सौ सर्वे॑षु॒ वेदे॑षु॒ प॒ठ्य॒ते॒ ह्य॑१[[??]]ज ई॑श्व॒रः ।
 अ॒का॒यो निर्गु॒णो ऽध्या॒त्मा तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ २३ ॥ 
 </details>
 
@@ -4010,7 +4010,7 @@ May those cows, whose udder is four-holed, full of honey and clarified butter; f
 <details><summary>मूलम्</summary>
 
 उप॒ मैतु॑ मयो॒भुवः॒ ऊर्जं॒ चौज॑श्च॒ बिभ्र॑तीः ।
-दुहा॑ना अक्षि॒तं पयो॒ मयि॑ गो॒ष्ठे॒ नि व॑र्तध्वं॒ यथा॑ भवा॑न्युत्त॒मः ॥ ६ ॥  [ ३९ ]
+दुहा॑ना अक्षि॒तं पयो॒ मयि॑ गो॒ष्ठे॒ नि व॑र्तध्वं॒ यथा॑[[??]] भवा॑न्युत्त॒मः ॥ ६ ॥  [ ३९ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -4216,7 +4216,7 @@ Let each of you know together each one’s minds; we think together the intentio
 
 तच्छं॒योरा वृ॑णीमहे गा॒तुं य॒ज्ञाय॑ गा॒तुं य॒ज्ञप॑तये । 
 दैवी॑ स्व॒स्तिर॑स्तु नः स्व॒स्तिर्मानु॑षेभ्यः ।
-ऊ॒र्ध्वं॑ जि॑गातु॒ भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं॒ चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
+ऊ॒र्ध्वं॑ जि॑गातु॒ भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
 </details>
 
 <details><summary>Chaubey En</summary>
