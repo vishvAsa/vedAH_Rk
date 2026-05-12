@@ -1444,7 +1444,7 @@ Whatever (sins I have committed) through killing of a brāhmaṇa, drinking of w
 <details><summary>मूलम्</summary>
 
 बा॒ल॒घ्नान्मा॑तृपितृव॒धाद् भूमि॑तस्करात्सर्ववर्णगमनमिथुनसंग॒मात् ।  
-पा॒पेभ्य॑श्च प्र॒तिग्रहा॑त्स॒द्यः प्र ह॑रन्ति॒ सर्व॑दुष्कृतं॒ तत्पा॑वमा॒नीभि॑रहं पु॑नामि ॥ ६ ॥ 
+पा॒पेभ्य॑श्च प्र॒तिग्रहा॑त्स॒द्यः प्र ह॑रन्ति॒ सर्व॑दुष्कृतं॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ६ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1511,7 +1511,7 @@ Whatever (oblation) wrongly offered, whatever wrongly studied and whatever sins 
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॒ योन॑यो॒ ऽमृत॑स्य॒ धाम॒ सर्वा॑ दे॒वेभ्यः॒ पुण्य॑गन्धाः ।  
-ता न॒ आपः॒ प्र व॑हन्तु पा॒पं शु॒द्धो ग॑च्छामि सुकृता॑मु लो॒कं
+ता न॒ आपः॒ प्र व॑हन्तु पा॒पं शु॒द्धो ग॑च्छामि सु॒कृता॑मु लो॒कं
 तत्पावमा॒नीभिर॒हं पु॑नामि ॥ ९ ॥ 
 </details>
 
@@ -2001,7 +2001,7 @@ Where the two rivers white (Gaṅgā) and black (Yamunā) flow forth together, t
 
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्य तु यथे॑न्द्रा॒णी श्री॑ध॒रस्य॒ यथा॑ श्रि॒या ।  
+इन्द्र॑स्य तु॒ यथे॑न्द्रा॒णी श्री॑ध॒रस्य॒ यथा॑ श्रि॒या ।  
 श॒ङ्क॒रस्य॒ यथा॑ गौ॒री त॒द्भर्तु॒रपि॑ भ॒र्तरि ॥ ५१ ॥ 
 </details>
 
@@ -2069,7 +2069,7 @@ As Anasūyā was (dear) to Atri, Arundhatī to Vasiṣṭha and Satī to Kauśik
 
 <details><summary>मूलम्</summary>
 
-उद॑पप्ताम वस॒तेर्वयो॑ यथा रि॒णन्त्वा भृग॑वो मन्य॑मानाः ।  
+उद॑पप्ताम वस॒तेर्वयो॑ यथा रि॒णन्त्वा॒ भृग॑वो मन्य॑मानाः ।  
 पुरू॑रवः॒ पुन॒रस्तं॒ परे॒ह्या मे॒ मनो॑ देवज॒ना अयां॑सुः ॥ १९ ॥  [ ४ ]
 </details>
 
@@ -2140,7 +2140,7 @@ O Maruts, this army of others (enemies), which comes to us fighting with a view 
 <details><summary>मूलम्</summary>
 
 अ॒न्धा अ॒मित्रा॑ भवतशी॒र्षाणो॒ अह॑य इव ।  
-तेषां॑ वो अ॒ग्निद॑ग्धाना॒मिन्द्रो॑ हन्तु वरं॑वरम् ॥ १५ ॥  [ २३ ]
+तेषां॑ वो अ॒ग्निद॑ग्धाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥ १५ ॥  [ २३ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -2496,7 +2496,7 @@ Whosoever hear and read the praise of Durgā, he becomes well known in the three
 <details><summary>मूलम्</summary>
 
 अ॒पु॒त्रो ल॑भते पु॒त्रान् ध॒नही॑नो॒ धनं॑ लभेत् ।  
-अ॒च॒क्षुर्ल॑भते॒ चक्षु॑र्ब॒द्धो मु॑च्येत बन्ध॑नात् ॥ १५ ॥ 
+अ॒च॒क्षुर्ल॑भते॒ चक्षु॑र्ब॒द्धो मु॑च्येत॒ बन्ध॑नात् ॥ १५ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -2606,7 +2606,7 @@ Having become purified, I shall praise the Goddess Durgā, who is the shelter fo
 <details><summary>मूलम्</summary>
 
 ये त्वां देवि प्र॒पद्य॑न्ते ब्रा॒ह्मणा॑ हव्य॒वाह॑नीम् ।  
-अ॒वि॒द्यो ब॑हुवि॒द्यो वा स नः॑ पर्ष॒दति॑ दु॒र्गाणि॑ विश्वा॑ ॥ २० ॥ 
+अ॒वि॒द्यो ब॑हुवि॒द्यो वा॒ स नः॑ पर्ष॒दति॑ दु॒र्गाणि॑ विश्वा॑ ॥ २० ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -2764,7 +2764,7 @@ All the prosperities — high-up in strength, victory in the battle, victory in 
 <details><summary>मूलम्</summary>
 
 शु॒नम॒हं हिर॑ण्यस्य पि॒तुर्माने॑व जग्रभ ।  
-तेन॑ मां सूर्य॑त्वचमकरं पू॒रुषु॑ प्रि॒यम् ॥ ३ ॥ 
+तेन॑ मां॒ सूर्य॑त्वचमकरं पू॒रुषु॑ प्रि॒यम् ॥ ३ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -2968,7 +2968,7 @@ With which Agni shines forth, with which the sun shines forth, and with which *v
 
 हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि ।  
 उ॒त ह्र॒दो हि नो॒ भुवो॒ ऽग्निर्द॑दातु भे॒षजम् ।  
-शी॒तह्र॑दो हि नो॑ भुवो॒ ऽग्निर्द॑दातु भे॒षजम् ॥ १ ॥ 
+शी॒तह्र॑दो॒ हि नो॑ भुवो॒ ऽग्निर्द॑दातु भे॒षजम् ॥ १ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3033,7 +3033,7 @@ O Jātavedas Agni, move as per your will in the vast forest, having a large sky.
 
 <details><summary>मूलम्</summary>
 
-पिङ्गा॑क्ष॒ लोहि॑तग्रीव॒ कृष्ण॑वर्ण नमो॑ ऽस्तु ते ।  
+पिङ्गा॑क्ष॒ लोहि॑तग्रीव॒ कृष्ण॑वर्ण॒ नमो॑ ऽस्तु ते ।  
 अ॒स्मन्नि ब॑र्हीरस्यो॒नं सा॑गरस्यो॒र्मयो॑ यथा ॥ ४ ॥ 
 </details>
 
@@ -3077,8 +3077,8 @@ Let Indra give shelter (to you); let Varuṇa sprinkle water from all sides. You
 
 <details><summary>मूलम्</summary>
 
-क॒पि॒लज॑टीं सर्व॑भक्षं चा॒ग्निं प्र॒त्यक्ष॑दैवतम् ।  
-व॒रु॒ण॒व॒शाँ ह्य॑१ग्निर्मम॑ पु॒त्राँश्च॑ रक्षतु ॥ ६ ॥ 
+क॒पि॒लज॑टीं॒ सर्व॑भक्षं चा॒ग्निं प्र॒त्यक्ष॑दैवतम् ।  
+व॒रु॒ण॒व॒शाँ ह्य॑१ग्नि॒र्मम॑ पु॒त्राँश्च॑ रक्षतु ॥ ६ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3190,7 +3190,7 @@ The Angirases (have given) me the intelligence; the seven great seers have given
 <details><summary>मूलम्</summary>
 
 मे॒धां मे॒ वरु॑णो॒ राजा॑ मे॒धां दे॒वी सर॑स्वती ।  
-मे॒धां मे॑ अ॒श्विनौ॑ दे॒वावा ध॑त्तां पुष्क॑रस्रजा ॥ २ ॥ 
+मे॒धां मे॑ अ॒श्विनौ॑ दे॒वा॒वा ध॑त्तां॒ पुष्क॑रस्रजा ॥ २ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3234,7 +3234,7 @@ The intelligence which is in *apsarases* (the heavenly female divinities), in *g
 <details><summary>मूलम्</summary>
 
 यन्मे॒ नोक्तं प्र द्र॑वतां॒ शके॑यं॒ यद॑नुब्रु॒वे ।  
-निशा॑मितं॒ नि शा॑महै॒ मयि॑ श्रु॒तं स॒ह व्र॒तेन॑ भूयासं॒ ब्रह्म॑णा सं ग॑मेमहि ॥ ४ ॥ 
+निशा॑मितं॒ नि शा॑महै॒ मयि॑ श्रु॒तं स॒ह व्र॒तेन॑ भूयासं॒ ब्रह्म॑णा॒ सं ग॑मेमहि ॥ ४ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3478,7 +3478,7 @@ May I be the possessor of intelligence, the possessor of good mind, the possesso
 <details><summary>मूलम्</summary>
 
 सु॒षा॒र॒थिरश्वा॑निव॒ यन्म॑नु॒ष्या॑न्नेनी॒यते॒ ऽभी॑शुभिर्वा॒जिन॑ इव ।
-हृ॒त्प्रति॑ष्ठं यद॑जि॒रं जवि॑ष्ठं॒ तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ ६ ॥ 
+हृ॒त्प्रति॑ष्ठं॒ यद॑जि॒रं जवि॑ष्ठं॒ तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ ६ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3786,7 +3786,7 @@ Which is adorned with cows (*go*=organs), with wealth, with longevity, with the 
 <details><summary>मूलम्</summary>
 
 प्रय॑तः प्रण॒वो नित्यं॑ पर॒मं पु॑रुषोत्त॒मम् ।
-ॐका॑रं पर॑मा॒त्मानं॒ तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ २० ॥  [ ३० ]
+ॐका॑रं॒ पर॑मा॒त्मानं॒ तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ २० ॥  [ ३० ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3963,7 +3963,7 @@ The brāhmaṇas, who meditate upon this *Śivasaṅkalpa-sūkta*, will attain t
 <details><summary>मूलम्</summary>
 
 त्र्य॑म्बकं यजामहे सुग॒न्धिं पु॑ष्टि॒वर्ध॑नम् ।
-उ॒र्वा॒रु॒कमि॑व बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मा ऽमृता॑त् ।
+उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मा॒ ऽमृता॑त् ।
 तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ २८ ॥  [ ३१ ]
 </details>
 
@@ -3988,7 +3988,7 @@ We worship Lord Śiva, the three-eyed, full of fragrance, and the enhancer of su
 <details><summary>मूलम्</summary>
 
 यासा॒मूध॒श्चतु॑र्बिलं॒ मधोः॑ पू॒र्णं घृ॒तस्य॑ च ।
-ता नः॑ सन्तु पय॑स्वतीर्ब॒ह्वीर्गो॒ष्ठे घृ॒ताच्यः॑ ॥ ५ ॥ 
+ता नः॑ सन्तु॒ पय॑स्वतीर्ब॒ह्वीर्गो॒ष्ठे घृ॒ताच्यः॑ ॥ ५ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -4125,7 +4125,7 @@ We invoke Agni, occupying the foremost rank, with laudations. May he bring us sa
 
 <details><summary>मूलम्</summary>
 
-सं॒ज्ञान॑मुशना॑ वदत् सं॒ज्ञानं॒ वरु॑णो वदत् ।
+सं॒ज्ञान॑मु॒शना॑ वदत् सं॒ज्ञानं॒ वरु॑णो वदत् ।
 सं॒ज्ञान॒मिन्द्र॑श्चा॒ग्निश्च॑ सं॒ज्ञानं॑ सवि॒ता व॑दत् ॥ १ ॥ 
 </details>
 
@@ -4216,7 +4216,7 @@ Let each of you know together each one’s minds; we think together the intentio
 
 तच्छं॒योरा वृ॑णीमहे गा॒तुं य॒ज्ञाय॑ गा॒तुं य॒ज्ञप॑तये । 
 दैवी॑ स्व॒स्तिर॑स्तु नः स्व॒स्तिर्मानु॑षेभ्यः ।
-ऊ॒र्ध्वं॑ जि॑गातु भेष॑जं शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
+ऊ॒र्ध्वं॑ जि॑गातु भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं॒ चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -4262,7 +4262,7 @@ The oblation which causes (enemies) handless, and destroys their army in the pat
 <details><summary>मूलम्</summary>
 
 परि॒ वर्त्मा॑न्येषा॒मिन्द्रः॑ पू॒षा च॒ सस्र॑तुः ।
-तेषां॑ वो अ॒ग्निद॑ग्धानाम॒ग्निगू॑ळ्हाना॒मिन्द्रो॑ हन्तु वरं॑वरम् ॥ २ ॥ 
+तेषां॑ वो अ॒ग्निद॑ग्धानाम॒ग्निगू॑ळ्हाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥ २ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
