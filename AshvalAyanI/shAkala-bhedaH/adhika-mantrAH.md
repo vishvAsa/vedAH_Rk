@@ -36,7 +36,7 @@ Do not be afraid of being bitten; you will not die. I protect you from all sides
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्य॒र॒थ॒वे॒गेन॒ विष्णो॑र्बाहुब॒लेन॑ च ।  
-ग॒रु॒ळ॒प॒क्ष॒नि॒पाते॑न भूमिं॑ गच्छ म॒हाय॑शाः ॥ १८ ॥ 
+ग॒रु॒ळ॒प॒क्ष॒नि॒पाते॑न॒ भूमिं॑ गच्छ म॒हाय॑शाः ॥ १८ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
