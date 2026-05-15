@@ -1512,7 +1512,7 @@ Whatever (oblation) wrongly offered, whatever wrongly studied and whatever sins 
 
 ऋ॒तस्य॒ योन॑यो॒ ऽमृत॑स्य॒ धाम॒ सर्वा॑ दे॒वेभ्यः॒ पुण्य॑गन्धाः ।  
 ता न॒ आपः॒ प्र व॑हन्तु पा॒पं शु॒द्धो ग॑च्छामि सु॒कृता॑मु लो॒कं
-तत्पा॑वमा॒नीभिर॒हं पु॑नामि ॥ ९ ॥ 
+तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ९ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
