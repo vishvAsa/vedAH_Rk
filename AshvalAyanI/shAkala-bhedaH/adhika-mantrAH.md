@@ -30,7 +30,7 @@ Do not be afraid of being bitten; you will not die. I protect you from all sides
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यरथवेगे᳓न वि᳓ष्णोर्बाहुबले᳓न च ।  
-गरुळपक्ष᳓निपा᳓तेन᳓ भू᳓मिं गच्छ महा᳓यशाः ॥ १८ ॥
+गरुळपक्षनिपा᳓तेन भू᳓मिं गच्छ महा᳓यशाः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -206,7 +206,7 @@ Agasti, Mādhava, Mahāmuni, Mucukunda, Kapilamuni and Āstīka, these five have
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓र्मदायै न᳓मः प्रात᳓र्न᳓र्मदायै न᳓मो नि᳓शि ।  
-न᳓मो ऽस्तु᳓ न᳓र्म᳓दे᳓ तु᳓भ्यं त्राहि᳓ मां᳓ विषस᳓र्पतः ॥ २६ ॥
+न᳓मो ऽस्तु नर्मदे तु᳓भ्यं त्राहि᳓[[??]] मां᳓ विषस᳓र्पतः ॥ २६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,7 +503,7 @@ O Jātavedas (the Fire-god), bring to me the Lakṣmī, who is never to leave me
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अश्वपूर्वां᳓ रथमध्यां᳓ हस्ति᳓ना᳓द᳓प्र᳓मोदि᳓नीम् ।  
+अश्वपूर्वां᳓ रथमध्यां᳓ हस्तिनादप्रमोदि᳓नीम् ।  
 श्रि᳓यं देवी᳓मु᳓प ह्वये श्री᳓र्मा देवी᳓ जुषताम् ॥ ३ ॥
 </details>
 
@@ -614,7 +614,7 @@ May he, whose friends are gods, and his glory, with precious gems, come to me. I
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुत्पिपासा᳓मलां ज्येष्ठा᳓म᳓लक्ष्मीं नाशयाम्य᳓हम् ।  
-अ᳓भूतिम᳓समृद्धिं च स᳓र्वां नि᳓र्णुद᳓ मे᳓ गृ᳓हात् ॥ ८ ॥
+अ᳓भूतिम᳓समृद्धिं च स᳓र्वां नि᳓र्णुद मे गृ᳓हात् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -923,7 +923,7 @@ Agni is (called) wealth; wind is (called) wealth; sun is (called) wealth; Vasu i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै᳓नते᳓य᳓ सो᳓मं पिब सो᳓मं पिबतु वृत्रहा᳓ ।  
+वै᳓नतेय सो᳓मं पिब सो᳓मं पिबतु वृत्रहा᳓ ।  
 सो᳓मं ध᳓नस्य सोमि᳓नो म᳓ह्यं ददातु सोमि᳓नः ॥ ६ ॥
 </details>
 
@@ -967,7 +967,7 @@ Neither anger nor envy, neither greed nor evil thought come to the worshippers, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णुपत्नीं क्षमां᳓ देवीं᳓ माधवीं᳓ माध᳓वप्रियाम् ।  
+वि᳓ष्णुपत्नीं क्षमां᳓ देवीं᳓ माधवीं᳓ [[??]]माध᳓वप्रियाम् ।  
 लक्ष्मीं᳓ प्रिय᳓सखीं देवीं᳓ न᳓माम्यच्युतव᳓ल्लभाम् ॥ ८ ॥
 </details>
 
@@ -1009,7 +1009,7 @@ May we know the Mahālakṣmī and meditate upon the consort of Viṣṇu; may t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्री᳓र्व᳓र्चस्वमायु᳓ष्य १ मा᳓रोग्यमा᳓विधात्प᳓वमानं महीयते ।  
+श्रीर्व᳓र्चस्वमा᳓युष्य᳙१मा᳓रोग्यमा᳓विधात्प᳓वमानं महीयते ।  
 धान्यं᳙ १ धनं प᳓शुं बहुपुत्रलाभं᳓ शत᳓संवत्सरं दीर्घ᳓मा᳓युः ॥ १० ॥  [ ३८ ]
 </details>
 
@@ -1033,7 +1033,7 @@ May the Śrī bestow upon us the vital power, longevity and freedom from disease
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓क्षुश्च श्रो᳓त्रं च᳓ म᳓नश्च वा᳓क् च प्राणापानौ᳓ दे᳓हं इदं᳓ श᳓री᳓रम् ।  
+च᳓क्षुश्च श्रो᳓त्रं च म᳓नश्च वा᳓क् च प्राणापानौ᳓ दे᳓हं इदं᳓ शरी᳓रम् ।  
 द्वौ᳓ प्रत्य᳓ञ्चावनुलोमौ᳓ विसर्गा᳓वेतं᳓ तं मन्ये द᳓शयन्त्रमु᳓त्समम् ॥ २५ ॥
 </details>
 
@@ -1102,7 +1102,7 @@ This body — consisting of the heart, the back, the two palms, the two arms, th
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓प्न᳓ स्व᳓प्ना᳓धिक᳓रणे स᳓र्वं नि᳓ ष्वापया ज᳓नम् ।  
-आसूर्य᳓मन्या᳓न्त्स्वापय ह्यद्य᳙ १ हं᳓ जागृ᳓या᳓मिह ॥ १ ॥
+आसूर्य᳓मन्या᳓न्त्स्वापय ह्यद्या᳙१हं᳓ जागृयामिह᳓ ॥ १ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1372,7 +1372,7 @@ Whatever (sins) have been committed by me by disobeying the words of my parents,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रयविक्रया᳓द्योनिदोषा᳓द् भक्ष्या᳓द्भो᳓ज्यात्प्रतिग्रहा᳓त् ।  
-अ᳓संभोजनाच्चा᳓पि नृशंसं त᳓त्पाव᳓मा᳓नी᳓भिर᳓हं᳓ पुनामि ॥ ३ ॥
+अ᳓संभोजनाच्चा᳓पि नृशंसं त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1394,7 +1394,7 @@ Whatever cruel sins, I have accrued through purchase and sale, sexual defilement
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोघ्ना᳓त्त᳓स्करत्वात्स्त्रीवधा᳓द्य᳓च्च कि᳓ल्बिषम् ।  
-पापकं᳓ च च᳓रणेभ्यस्त᳓त्पाव᳓मा᳓नी᳓भिर᳓हं᳓ पुनामि ॥ ४ ॥
+पापकं᳓ च च᳓रणेभ्यस्त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1416,7 +1416,7 @@ Whatever cruel sins, I have accrued through purchase and sale, sexual defilement
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मवधात्सुरापा᳓नात्सुवर्ण᳓स्तेयाद्वृषलीमिथुनसंगमा᳓त् ।  
-गु᳓रो᳓र्दाराभिगमना᳓च्च᳓ त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ५ ॥  [ १९ ]
+गुरो᳓र्दाराभिगमना᳓च्च त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ५ ॥  [ १९ ]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1438,7 +1438,7 @@ Whatever (sins I have committed) through killing of a brāhmaṇa, drinking of w
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालघ्ना᳓न्मातृपितृवधा᳓द् भू᳓मितस्करात्सर्ववर्णगमनमिथुनसंगमा᳓त् ।  
-पापे᳓भ्यश्च प्रति᳓ग्र᳓हात्सद्यः᳓ प्र᳓ हरन्ति स᳓र्वदुष्कृतं त᳓त्पावमानी᳓भिर᳓हं᳓ पुनामि ॥ ६ ॥
+पापे᳓भ्यश्च प्रति᳓ग्र᳓हात्सद्यः᳓ प्र᳓ हरन्ति स᳓र्वदुष्कृतं त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1504,8 +1504,8 @@ Whatever (oblation) wrongly offered, whatever wrongly studied and whatever sins 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य यो᳓नयो ऽमृ᳓तस्य धा᳓म स᳓र्वा देवे᳓भ्यः पु᳓ण्यगन्धाः ।  
-ता᳓ न आ᳓पः प्र᳓ वहन्तु पापं᳓ शुद्धो᳓ गच्छा᳓मि᳓ सु᳓कृ᳓तामु लोकं᳓
-त᳓त्पा᳓व᳓मानी᳓भि᳓रहं᳓ पुनामि ॥ ९ ॥
+ता᳓ न आ᳓पः प्र᳓ वहन्तु पापं᳓ शुद्धो᳓ गच्छामि सुकृ᳓तामु लोकं᳓
+त᳓त्पावमानी᳓भिरहं᳓ पुनामि ॥ ९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1746,7 +1746,7 @@ A person, offering oblations, and reciting the *pāvamānī ṛks* six hundred a
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पावमानं᳓ प᳓रं ब्र᳓ह्म शुक्रं᳓ ज्यो᳓तिः सनात᳓नम् ।  
-ऋ᳓षीँ᳓स्त᳓स्यो᳓प तिष्ठेत क्षीरं᳓ सर्पि᳓र्म᳓धू᳓दक᳓म् ॥ २० ॥  [ २२ ] [५]
+ऋ᳓षीँ᳓स्त᳓स्यो᳓प तिष्ठेत क्षीरं᳓ सर्पि᳓र्म᳓धूदक᳓म् ॥ २० ॥  [ २२ ] [५]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1995,14 +1995,14 @@ Where the two rivers white (Gaṅgā) and black (Yamunā) flow forth together, t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓न्द्रस्य᳓ तु᳓ य᳓थेन्द्राणी᳓ श्रीधर᳓स्य य᳓था श्रिया᳓ ।  
-शङ्कर᳓स्य य᳓था गौरी᳓ तद्भ᳓र्तुर᳓पि भर्त᳓रि᳓ ॥ ५१ ॥
+इ᳓न्द्रस्य॒ तु᳓ य᳓थेन्द्राणी᳓ श्रीधर᳓स्य य᳓था श्रिया᳓ ।  
+शङ्कर᳓स्य य᳓था गौरी᳓ तद्भ᳓र्तुर᳓पि भर्त᳓रि ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्य तु॒ यथे॑न्द्रा॒णी श्री॑ध॒रस्य॒ यथा॑ श्रि॒या ।  
-श॒ङ्क॒रस्य॒ यथा॑ गौ॒री त॒द्भर्तु॒रपि॑ भ॒र्तरि ॥ ५१ ॥ 
+इन्द्र॑स्य॒ तु यथे॑न्द्रा॒णी श्री॑ध॒रस्य॒ यथा॑ श्रि॒या ।  
+श॒ङ्क॒रस्य॒ यथा॑ गौ॒री त॒द्भर्तु॒रपि॑ भ॒र्तरि॑ ॥ ५१ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -2063,7 +2063,7 @@ As Anasūyā was (dear) to Atri, Arundhatī to Vasiṣṭha and Satī to Kauśik
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓दपप्ताम वसते᳓र्व᳓यो यथा रिण᳓न्त्वा᳓ भृ᳓गवो᳓ म᳓न्यमानाः ।  
+उ᳓दपप्ताम वसते᳓र्व᳓यो यथा रिण᳓न्त्वा भृ᳓गवो᳓ म᳓न्यमानाः ।  
 पु᳓रूरवः पु᳓नर᳓स्तं प᳓रेह्या᳓ मे म᳓नो देवजना᳓ अ᳓यांसुः ॥ १९ ॥  [ ४ ]
 </details>
 
@@ -2134,7 +2134,7 @@ O Maruts, this army of others (enemies), which comes to us fighting with a view 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्धा᳓ अमि᳓त्रा भवतशीर्षा᳓णो अ᳓हय इव ।  
-ते᳓षां वो अग्नि᳓दग्धानामि᳓न्द्रो ह᳓न्तु᳓ व᳓रंवरम् ॥ १५ ॥  [ २३ ]
+ते᳓षां वो अग्नि᳓दग्धानामि᳓न्द्रो हन्तु व᳓रंवरम् ॥ १५ ॥  [ २३ ]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2247,7 +2247,7 @@ I approach the Night, the mother, bringing rest to all beings, the auspicious on
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संवे᳓शनीं᳓ संयमनीं᳓ ग्रहनक्षत्रमालि᳓नीम् ।  
+संवे᳓शनीं᳓[[??]] संयमनीं᳓ ग्रहनक्षत्रमालि᳓नीम् ।  
 प्र᳓पन्नो ऽहं᳓ शिवां᳓ रा᳓त्रीं भ᳓द्रे पार᳓मशीमहि ॥ ४ ॥
 </details>
 
@@ -2490,7 +2490,7 @@ Whosoever hear and read the praise of Durgā, he becomes well known in the three
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपुत्रो᳓ लभते पुत्रा᳓न् धन᳓हीनो ध᳓नं लभेत् ।  
-अचक्षु᳓र्लभते च᳓क्षुर्बद्धो᳓ मुच्ये᳓त᳓ ब᳓न्धनात् ॥ १५ ॥
+अचक्षु᳓र्लभते च᳓क्षुर्बद्धो᳓ मुच्येत ब᳓न्धनात् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2600,7 +2600,7 @@ Having become purified, I shall praise the Goddess Durgā, who is the shelter fo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ त्वां᳓ दे᳓वि᳓ प्रप᳓द्यन्ते ब्राह्म᳓णा हव्यवा᳓हनीम् ।  
-अविद्यो᳓ बहुविद्यो᳓ वा᳓ स᳓ नः पर्षद᳓ति दुर्गा᳓णि वि᳓श्वा ॥ २० ॥
+अविद्यो᳓ बहुविद्यो᳓ वा स᳓ नः पर्षद᳓ति दुर्गा᳓णि वि᳓श्वा ॥ २० ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2758,7 +2758,7 @@ All the prosperities — high-up in strength, victory in the battle, victory in 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुन᳓महं᳓ हि᳓रण्यस्य पितु᳓र्मा᳓नेव जग्रभ ।  
-ते᳓न मां᳓ सू᳓र्यत्वचमकरं पूरु᳓षु प्रिय᳓म् ॥ ३ ॥
+ते᳓न मां सू᳓र्यत्वचमकरं पूरु᳓षु प्रिय᳓म् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2961,7 +2961,7 @@ With which Agni shines forth, with which the sun shines forth, and with which *v
 
 हिम᳓स्य त्वा जरा᳓युणा शा᳓ले प᳓रि व्ययामसि ।  
 उत᳓ ह्रदो᳓ हि᳓ नो भु᳓वो ऽग्नि᳓र्ददातु भेष᳓ज᳓म् ।  
-शीत᳓ह्रदो᳓ हि᳓ नो भुवो ऽग्नि᳓र्ददातु भेष᳓ज᳓म् ॥ १ ॥
+शीत᳓ह्रदो हि᳓ नो भुवो ऽग्नि᳓र्ददातु भेष᳓ज᳓म् ॥ १ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3027,7 +3027,7 @@ O Jātavedas Agni, move as per your will in the vast forest, having a large sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि᳓ङ्गाक्ष लो᳓हितग्रीव कृ᳓ष्णव᳓र्ण᳓ न᳓मो ऽस्तु ते ।  
+पि᳓ङ्गाक्ष लो᳓हितग्रीव कृ᳓ष्णवर्ण न᳓मो ऽस्तु ते ।  
 अस्म᳓न्नि᳓ बर्हीरस्योनं᳓ सागरस्योर्म᳓यो यथा ॥ ४ ॥
 </details>
 
@@ -3071,8 +3071,8 @@ Let Indra give shelter (to you); let Varuṇa sprinkle water from all sides. You
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कपिल᳓जटीं᳓ स᳓र्वभक्षं चाग्निं᳓ प्रत्य᳓क्षदैवतम् ।  
-वरुणवशाँ᳓ ह्य१ग्नि᳓र्म᳓म पुत्राँ᳓श्च रक्षतु ॥ ६ ॥
+कपिल᳓जटीं स᳓र्वभक्षं चाग्निं᳓ प्रत्य᳓क्षदैवतम् ।  
+वरुणवशाँ᳓ ह्य् अ᳙१ग्निर्म᳓म पुत्राँ᳓श्च रक्षतु ॥ ६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3093,7 +3093,7 @@ Let Indra give shelter (to you); let Varuṇa sprinkle water from all sides. You
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या᳓वदादित्य᳓स्त᳓पति या᳓वद् भ्रा᳓जति चन्द्र᳓माः ।  
+या᳓वदादित्यस् त᳓पति या᳓वद् भ्रा᳓जति चन्द्र᳓माः ।  
 या᳓वद् वा᳓तः प्रवा᳓यति ता᳓वज्जीव त᳓या सह᳓ ॥ ७ ॥
 </details>
 
@@ -3184,7 +3184,7 @@ The Angirases (have given) me the intelligence; the seven great seers have given
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेधां᳓ मे व᳓रुणो रा᳓जा मेधां᳓ देवी᳓ स᳓रस्वती ।  
-मेधां᳓ मे अश्वि᳓नौ देवा᳓वा᳓ धत्तां᳓ पु᳓ष्करस्रजा ॥ २ ॥
+मेधां᳓ मे अश्वि᳓नौ देवा᳓वा᳓ धत्तां पु᳓ष्करस्रजा ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3228,7 +3228,7 @@ The intelligence which is in *apsarases* (the heavenly female divinities), in *g
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्मे नो᳓क्तं᳓ प्र᳓ द्रवतां श᳓केयं य᳓दनुब्रुवे᳓ ।  
-नि᳓शामितं नि᳓ शामहै म᳓यि श्रुतं᳓ सह᳓ व्रते᳓न भूयासं ब्र᳓ह्मणा᳓ सं᳓ गमेमहि ॥ ४ ॥
+नि᳓शामितं नि᳓ शामहै म᳓यि श्रुतं᳓ सह᳓ व्रते᳓न भूयासं ब्र᳓ह्मणा सं᳓ गमेमहि ॥ ४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3472,7 +3472,7 @@ May I be the possessor of intelligence, the possessor of good mind, the possesso
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषारथि᳓र᳓श्वानिव य᳓न्मनुष्या᳙न्नेनीय᳓ते ऽभी᳙शुभिर्वाजि᳓न इव ।
-हृत्प्र᳓तिष्ठं᳓ य᳓दजिरं᳓ ज᳓विष्ठं त᳓न्मे म᳓नः शिव᳓सङ्कल्पमस्तु ॥ ६ ॥
+हृत्प्र᳓तिष्ठं य᳓दजिरं᳓ ज᳓विष्ठं त᳓न्मे म᳓नः शिव᳓सङ्कल्पमस्तु ॥ ६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3780,7 +3780,7 @@ Which is adorned with cows (*go*=organs), with wealth, with longevity, with the 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓यतः प्रणवो᳓ नि᳓त्यं परमं᳓ पुरुषोत्तम᳓म् ।
-ॐका᳓रं᳓ प᳓रमात्मा᳓नं त᳓न्मे म᳓नः शिव᳓सङ्कल्पमस्तु ॥ २० ॥  [ ३० ]
+ॐका᳓रं प᳓रमात्मा᳓नं त᳓न्मे म᳓नः शिव᳓सङ्कल्पमस्तु ॥ २० ॥  [ ३० ]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3956,7 +3956,7 @@ The brāhmaṇas, who meditate upon this *Śivasaṅkalpa-sūkta*, will attain t
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्य᳙म्बकं यजामहे सुगन्धिं᳓ पुष्टिव᳓र्धनम् ।
-उर्वारुक᳓मिव᳓ ब᳓न्धनान्मृत्यो᳓र्मुक्षीय मा᳓ ऽमृ᳓तात् ।
+उर्वारुक᳓मिव ब᳓न्धनान्मृत्यो᳓र्मुक्षीय मा ऽमृ᳓तात् ।
 त᳓न्मे म᳓नः शिव᳓सङ्कल्पमस्तु ॥ २८ ॥  [ ३१ ]
 </details>
 
@@ -3982,7 +3982,7 @@ We worship Lord Śiva, the three-eyed, full of fragrance, and the enhancer of su
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓सामू᳓धश्च᳓तुर्बिलं म᳓धोः पूर्णं᳓ घृत᳓स्य च ।
-ता᳓ नः स᳓न्तु᳓ प᳓यस्वतीर्बह्वी᳓र्गोष्ठे᳓ घृता᳓च्यः ॥ ५ ॥
+ता᳓ नः सन्तु प᳓यस्वतीर्बह्वी᳓र्गोष्ठे᳓ घृता᳓च्यः ॥ ५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4119,7 +4119,7 @@ We invoke Agni, occupying the foremost rank, with laudations. May he bring us sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संज्ञा᳓नमु᳓श᳓ना वदत् संज्ञा᳓नं व᳓रुणो वदत् ।
+संज्ञा᳓नमुश᳓ना वदत् संज्ञा᳓नं व᳓रुणो वदत् ।
 संज्ञा᳓नमि᳓न्द्रश्चाग्नि᳓श्च संज्ञा᳓नं सविता᳓ वदत् ॥ १ ॥
 </details>
 
@@ -4209,14 +4209,14 @@ Let each of you know together each one’s minds; we think together the intentio
 
 त᳓च्छंयो᳓रा᳓ वृणीमहे गातुं᳓ यज्ञा᳓य गातुं᳓ यज्ञ᳓पतये । 
 दै᳓वी स्वस्ति᳓रस्तु नः स्वस्ति᳓र्मा᳓नुषेभ्यः ।
-ऊर्ध्वं᳙ जिगा᳓तु᳓ भे᳓षजं᳓ शं᳓ नो अस्तु द्विप᳓दे शं᳓ च᳓तुष्पदे ॥ ५ ॥  [ ५८ ]
+ऊर्ध्वं᳙ जिगातु भे᳓षजं शं᳓ नो अस्तु द्विप᳓दे शं᳓ च᳓तुष्पदे ॥ ५ ॥  [ ५८ ]
 </details>
 
 <details><summary>मूलम्</summary>
 
 तच्छं॒योरा वृ॑णीमहे गा॒तुं य॒ज्ञाय॑ गा॒तुं य॒ज्ञप॑तये । 
 दैवी॑ स्व॒स्तिर॑स्तु नः स्व॒स्तिर्मानु॑षेभ्यः ।
-ऊ॒र्ध्वं॑ जि॑गातु भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
+ऊ॒र्ध्वं॑ जि॑गातु॒ भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -4256,7 +4256,7 @@ The oblation which causes (enemies) handless, and destroys their army in the pat
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रि व᳓र्त्मान्येषामि᳓न्द्रः पूषा᳓ च स᳓स्रतुः ।
-ते᳓षां वो अग्नि᳓दग्धानामग्नि᳓गूळ्हानामि᳓न्द्रो ह᳓न्तु᳓ व᳓रंवरम् ॥ २ ॥
+ते᳓षां वो अग्नि᳓दग्धानामग्नि᳓गूळ्हानामि᳓न्द्रो हन्तु व᳓रंवरम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
