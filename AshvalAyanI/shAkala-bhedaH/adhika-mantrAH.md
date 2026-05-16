@@ -1378,7 +1378,7 @@ Whatever (sins) have been committed by me by disobeying the words of my parents,
 <details><summary>मूलम्</summary>
 
 क्र॒य॒वि॒क्र॒याद्यो॑निदो॒षाद् भ॒क्ष्याद्भोज्या॑त्प्रतिग्र॒हात् ।  
-असं॑भोजना॒च्चा॒पि॑ नृशंसं॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ३ ॥ 
+असं॑भोजना॒च्चापि॑ नृशंसं॒ तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ३ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -1512,7 +1512,7 @@ Whatever (oblation) wrongly offered, whatever wrongly studied and whatever sins 
 
 ऋ॒तस्य॒ योन॑यो॒ ऽमृत॑स्य॒ धाम॒ सर्वा॑ दे॒वेभ्यः॒ पुण्य॑गन्धाः ।  
 ता न॒ आपः॒ प्र व॑हन्तु पा॒पं शु॒द्धो ग॑च्छामि सु॒कृता॑मु लो॒कं
-तत्पावमा॒नीभिर॒हं पु॑नामि ॥ ९ ॥ 
+तत्पा॑वमा॒नीभि॑र॒हं पु॑नामि ॥ ९ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3190,7 +3190,7 @@ The Angirases (have given) me the intelligence; the seven great seers have given
 <details><summary>मूलम्</summary>
 
 मे॒धां मे॒ वरु॑णो॒ राजा॑ मे॒धां दे॒वी सर॑स्वती ।  
-मे॒धां मे॑ अ॒श्विनौ॑ दे॒वा॒वा ध॑त्तां॒ पुष्क॑रस्रजा ॥ २ ॥ 
+मे॒धां मे॑ अ॒श्विनौ॑ दे॒वावा ध॑त्तां॒ पुष्क॑रस्रजा ॥ २ ॥ 
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -3851,7 +3851,7 @@ Whosoever knows Mahādeva as Supreme Lord (*puruṣottama*); who is every thing 
 
 <details><summary>मूलम्</summary>
 
-यो॒३सौ सर्वे॑षु॒ वेदे॑षु॒ प॒ठ्य॒ते॒ ह्य॑१॒ज ई॑श्व॒रः ।
+यो॒३सौ सर्वे॑षु॒ वेदे॑षु॒ प॒ठ्यते॒ ह्य॑१॒ज ई॑श्व॒रः ।
 अ॒का॒यो निर्गु॒णो ऽध्या॒त्मा तन्मे॒ मनः॑ शि॒वस॑ङ्कल्पमस्तु ॥ २३ ॥ 
 </details>
 
@@ -4010,7 +4010,7 @@ May those cows, whose udder is four-holed, full of honey and clarified butter; f
 <details><summary>मूलम्</summary>
 
 उप॒ मैतु॑ मयो॒भुवः॒ ऊर्जं॒ चौज॑श्च॒ बिभ्र॑तीः ।
-दुहा॑ना अक्षि॒तं पयो॒ मयि॑ गो॒ष्ठे॒ नि व॑र्तध्वं॒ यथा॒ भवा॑न्युत्त॒मः ॥ ६ ॥  [ ३९ ]
+दुहा॑ना अक्षि॒तं पयो॒ मयि॑ गो॒ष्ठे नि व॑र्तध्वं॒ यथा॒ भवा॑न्युत्त॒मः ॥ ६ ॥  [ ३९ ]
 </details>
 
 <details><summary>Chaubey En</summary>
@@ -4216,7 +4216,7 @@ Let each of you know together each one’s minds; we think together the intentio
 
 तच्छं॒योरा वृ॑णीमहे गा॒तुं य॒ज्ञाय॑ गा॒तुं य॒ज्ञप॑तये । 
 दैवी॑ स्व॒स्तिर॑स्तु नः स्व॒स्तिर्मानु॑षेभ्यः ।
-ऊ॒र्ध्वं॑ जि॑गातु भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं॒ चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
+ऊ॒र्ध्वं॑ जि॑गातु भेष॑जं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥ ५ ॥  [ ५८ ]
 </details>
 
 <details><summary>Chaubey En</summary>
