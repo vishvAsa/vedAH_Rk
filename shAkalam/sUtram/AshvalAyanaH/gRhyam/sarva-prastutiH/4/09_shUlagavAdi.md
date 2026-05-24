@@ -67,7 +67,7 @@ title = "०९ शूलगवादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कल्माषमित्येके ५
+कल्माषम् इत्येके ५
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -84,7 +84,7 @@ title = "०९ शूलगवादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामं कृष्णमालोहवांश्चेत् ६
+कामं कृष्णम् आलोहवांश् चेत् ६
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -99,7 +99,7 @@ title = "०९ शूलगवादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रीहियवमतीभिरद्भिरभिषिच्य ७
+व्रीहि-यवमतीभिर् अद्भिर् अभिषिच्य ७
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -193,7 +193,7 @@ title = "०९ शूलगवादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्द्ध्वमर्धरात्रात् । उदित इत्येके १३
+ऊर्ध्वम् अर्ध-रात्रात् । उदित इत्येके १३
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -389,7 +389,11 @@ title = "०९ शूलगवादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्तरतोऽग्नेर्दर्भवीतासु कुशसूनासु वा शोणितं निनयेच्छ्वासिनीर्घोषिणीर्विचिन्वतीः समश्नुतीः सर्पा एतद्वोऽत्र तद्धरध्वमिति २५
+उत्तरतोऽग्नेर्दर् भवीतासु कुश-सूनासु वा शोणितं निनयेच्  
+
+> छ्वासिनीर् घोषिणीर् विचिन्वतीः समश्नुतीः सर्पा एतद्वोऽत्र तद् धरध्वम् 
+
+इति २५
 </details>
 
 
@@ -489,7 +493,7 @@ all exaltations belong to him;
 
 <details><summary>Oldenberg</summary>
 
-- to a sacrificer who knows that, he gives joy.
+\- to a sacrificer who knows that, he gives joy.
 </details>
 
 
@@ -537,7 +541,8 @@ all exaltations belong to him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्य ग्राममाहरेयुरभिमारुको हैष देवः प्रजा भवतीति ३३
+नास्य ग्रामम् आहरेयुर्  
+अभिमारुको हैष देवः प्रजा भवतीति ३३
 </details>
 
 
@@ -575,7 +580,7 @@ all exaltations belong to him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नियोगात्तु प्राश्नीयात्स्वस्त्ययन इति ३५
+नियोगात्तु प्राश्नीयात् स्वस्त्ययन इति ३५
 </details>
 
 
@@ -687,7 +692,9 @@ all exaltations belong to him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशूनामुपताप एतमेव देवं मध्ये गोष्ठस्य यजेत् ४१
+पशूनाम् उपताप  
+एतम् एव देवं  
+मध्ये गोष्ठस्य यजेत् ४१
 </details>
 
 
@@ -705,7 +712,7 @@ all exaltations belong to him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थालीपाकं सर्वहुतम् ४२
+स्थाली-पाकं सर्वहुतम् ४२
 </details>
 
 
