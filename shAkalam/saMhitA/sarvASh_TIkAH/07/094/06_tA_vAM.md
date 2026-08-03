@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ वां गीर्भि꣡र् विपन्य꣡वः  
-प्र꣡यस्वन्तो हवामहे  
-मेध꣡साता सनिष्य꣡वः
+ता᳓ वां गीर्भि᳓र् विपन्य᳓वः  
+प्र᳓यस्वन्तो हवामहे  
+मेध᳓साता सनिष्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ता- तौ। वाम्- युवाम्। गीर्भिः- वाग्भिः। विपन्यवः- मन्त्रयुक्ताः। प्रयस्वन्तः- हव्यवन्तः।  सनिष्यवः- सम्भजनकामा वयम्। मेधसाता- मेधालाभाय। हवामहे- आह्वयामः॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विपन्यवः** स्तोत्रमिच्छन्तः **प्रयस्वन्तः** हविर्लक्षणेनान्नेनोपेताः **सनिष्यवः** सनिं धनमात्मन इच्छन्तो वयं **मेधसाता** मेधानां यागानां सातौ संभजने निमित्तभूते सति हे इन्द्राग्नी **ता** तौ **वां** युवां **गीर्भिः** स्तुतिभिः **हवामहे** आह्वयामहे ॥ ॥ १७ ॥
@@ -143,7 +146,7 @@ _________
 
 You two we invoke, expressing admiration with our hymns, dispensing  ritual delight,  
 seeking to win at the contest for wisdom.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
@@ -180,8 +183,6 @@ Drum rufen wir mit Liedern euch voll Preislust Opfer bringend an, Verlangend bei
 Для приобретения мудрости, (мы,) стремящиеся (ее) приобрести.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -197,7 +198,7 @@ Drum rufen wir mit Liedern euch voll Preislust Opfer bringend an, Verlangend bei
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  संसार में अभ्युदय और शोभन साहित्य उन्हीं लोगों का बढ़ता है, जो लोग अपने यज्ञों में सदुपदेष्टा कर्मयोगी और ज्ञानयोगियों को बुलाकर सदुपदेश सुनते हैं ॥६॥
+भावार्थभाषाः -  संसार में अभ्युदय और शोभन साहित्य उन्हीं लोगों का बढ़ता है, जो लोग अपने यज्ञों में सदुपदेष्टा कर्मयोगी और ज्ञानयोगियों को बुलाकर सदुपदेश सुनते हैं ॥६॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

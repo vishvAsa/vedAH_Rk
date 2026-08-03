@@ -1,6 +1,5 @@
 +++
 title = "+136"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+136"
 <details><summary>Jamison Brereton</summary>
 
 136  
-Mitra and Varuṇa  
+Mitra and Varuṇa  
 Paruchepa Daivodāsi  
 7 verses: atyaṣṭi, except triṣṭubh 7  
 Though the paired divinities Mitra and Varuṇa dominate this hymn, they have  plenty of Ādityan company: Aryaman in verses 2, 3, 5, 6; Bhaga in verses 2 and  6; their mother Aditi in verse 3. And as the hymn nears its conclusion there are  non-Ādityan gods as well: Indra and Agni in verses 6–7, the Maruts in verse 7. The  hymn is defined by a ring formed by verses 1 and 6 (vs. 7 is in a different meter  and extra-hymnic), with matches of key words in both verses: “lofty,” “reverence,”  “compassionate,” and “approach with praise.”  
@@ -22,4 +21,10 @@ diately following two hymns to Vāyu, the first recipient of soma at the Morning
 <details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३६   परुच्छेपो दैवोदासिः।१-५ मित्रावरुणौ, ६-७ लिङ्गोक्ताः । अत्यष्टिः, ७ त्रिष्टुप्
 </details>

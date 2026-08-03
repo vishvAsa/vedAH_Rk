@@ -1,6 +1,5 @@
 +++
 title = "+095"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,7 +16,7 @@ title = "+095"
 <details><summary>Jamison Brereton</summary>
 
 95  
-Agni (or Agni AUṣasa “Agni at Dawn”) 
+Agni (or Agni AUṣasa “Agni at Dawn”) 
 Kutsa Āṅgirasa  
 11 verses: triṣṭubh  
 A typical puzzle hymn in many ways. The dedicand of the hymn, Agni, does not  appear by name until verse 9, and there are only two occurrences of the name, both  vocatives, in the whole hymn (the second being in the final, summary verse 11). The  address to Agni in verse 9 also breaks the uninterrupted 3rd-person description that  holds sway in the hymn up to that point. In what precedes, Agni’s characteristics,  the ritual service given to him, and the entities that render that service are referred  to in oblique fashion.  
@@ -29,4 +28,10 @@ The remaining verses of the hymn describe the growing strength of the newly  bor
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९५  कुत्स आङ्गिरसः। अग्निः, औषसोऽग्निर्वा। त्रिष्टुप् ।
 </details>

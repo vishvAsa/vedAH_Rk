@@ -1,6 +1,5 @@
 +++
 title = "+048"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ In our opinion the hymn is appropriate to an early-morning ritual, and the two  
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४८  प्रतिभानुरात्रेयः।विश्वे देवाः। जगती ।
 </details>

@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ष्णुं स्तो꣡मासः पुरुदस्म꣡म् अर्का꣡  
-भ꣡गस्येव कारि꣡णो या꣡मनि ग्मन्  
-उरुक्रमः꣡ ककुहो꣡ य꣡स्य पूर्वी꣡र्  
-न꣡ मर्धन्ति युवत꣡यो ज꣡नित्रीः
+वि᳓ष्णुं स्तो᳓मासः पुरुदस्म᳓म् अर्का᳓  
+भ᳓गस्येव कारि᳓णो या᳓मनि ग्मन्  
+उरुक्रमः᳓ ककुहो᳓ य᳓स्य पूर्वी᳓र्  
+न᳓ मर्धन्ति युवत᳓यो ज᳓नित्रीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अर्काः- पूजायुताः। स्तोमासः- मन्त्राः। भगस्येव कारिणः- सौभाग्यकराः। यामनि- मार्गे। यः।  उरुक्रमः- विस्तृतक्रमणसम्पन्नः। यस्य। पूर्वीः- सनातनीर्नियतीः। जनित्रीः- जनन्यः। युवतयः-  तरुण्यः। ककुहः- मुख्या दिशः। न। मर्धन्ति- नाशयन्ति । तम्। पुरुदस्मम्- बहुकर्माणम्।  विष्णुम्- व्यापनशीलं परमात्मानम्। ग्मन्- अनुगच्छन्ति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्तोमासः** । स्तूयन्त एभिरिति स्तोमाः स्तोत्राणि । **अर्काः** अर्चनीयानि शस्त्राणि च **भगस्येव** धनस्य **कारिणः** कर्तॄणीव स्थितानि तानि **यामनि** संततं प्रतायमानेऽस्मिन् यज्ञे **पुरुदस्मं** बहुकर्माणम् । यद्वा । बहून् दस्यत्युपक्षपयतीति पुरुदस्मः । तं **विष्णुं** देवं **ग्मन्** गच्छन्तु । **पूर्वीः** बह्व्यः **जनित्रीः** सर्वस्य जनयित्र्यः **युवतयः** परस्परमसंकीर्णाः **ककुहः** । कं स्कुभ्नन्ति विस्तारयन्तीति ककुभो दिशः । यद्वा । ककुबुच्छ्रयार्थः । उच्छ्रिता इव हि दिशो वृक्षाग्रेषूपलभ्यमानाः तिष्ठन्ति । एता दिशो विष्णोराज्ञां न **मर्धन्ति** न हिंसन्ति । सः विष्णुः **उरुक्रमः** । उरुर्महान् क्रमः पादविक्षेपो यस्य सः । त्रिविक्रमावतारे एकेनैव पादेन सर्वं जगदाक्रम्यातिष्ठत ॥ ग्मन् । गमेर्लुङि • मन्त्रे घस ' इत्यादिना च्लेर्लुक् । ककुभः । पृषोदरादित्वाद्रूपस्वरसिद्धिः ॥
@@ -242,9 +245,7 @@ The recitations, the chants have gone to Viṣṇu of many wonders as if on  a j
 
 I am not entirely certain why “victorious Bhaga” is brought in here in a simile in this Viṣṇu vs. I suppose that our praises are making a triumphal procession to Viṣṇu, and the mention of Bhaga may suggest our hope that these praises will be met with a satisfactory portion of goods in return. See 21c below.
 
-In cd it is tempting (see, e.g., Oldenberg) to make mardhanti the verb of the rel. cl.
-
-beginning with yásya, which otherwise lacks a verb and appears truncated. But mardhanti is stubbornly unaccented. Construing yásya pūrvī́ḥ as a relativized expression of possession, we can assume that it asserts that Viṣṇu has a large female entourage; these females are further characterized in the independent clause in d as “generatrices” (jánitrīḥ), for which “mothers-to-be” seemed a more acceptable English rendering, who attend on him and do not neglect him. What this is all about escapes me, though Viṣṇu is associated with the wives of the gods in I.156.2.
+In cd it is tempting (see, e.g., Oldenberg) to make mardhanti the verb of the rel. cl. beginning with yásya, which otherwise lacks a verb and appears truncated. But mardhanti is stubbornly unaccented. Construing yásya pūrvī́ḥ as a relativized expression of possession, we can assume that it asserts that Viṣṇu has a large female entourage; these females are further characterized in the independent clause in d as “generatrices” (jánitrīḥ), for which “mothers-to-be” seemed a more acceptable English rendering, who attend on him and do not neglect him. What this is all about escapes me, though Viṣṇu is associated with the wives of the gods in I.156.2.
 </details>
 
 <details><summary>Griffith</summary>
@@ -270,8 +271,6 @@ Zum wunderstarken Vischnu gingen preisend die Lieder, jubelnd wie auf Glückes W
 (Он) широкошагающий великан, у кого (свита) – многие женщины.  
 Юные жены, родительницы, не пренебрегают (им).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

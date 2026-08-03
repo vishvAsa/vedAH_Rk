@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अन्तरा꣡ पराव꣡तम्  
-अर्वाव꣡तं च हूय꣡से  
-इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि
+य᳓द् अन्तरा᳓ पराव᳓तम्  
+अर्वाव᳓तं च हूय᳓से  
+इ᳓न्द्रेह᳓ त᳓त आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+परावतमर्वावतमन्तरा- दूरसमीपमध्यवर्तिदेशात्। च। हूयसे- आहूतोसि। ततः- तस्मात्  स्थानात्। इह- अत्र। इन्द्र- परमेश्वर। आ गहि- आगच्छ॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **यत्** यस्मिन् **परावतम्** अतिविप्रकृष्टस्य देशस्य **अर्वावतं** अतिसंनिकृष्टस्य देशस्य **च** **अन्तरा** तयोर्मध्यदेशे **हूयसे** सम्यगिज्यसे **ततः** तस्माद्देशात् **इह** अस्मिन् यज्ञे **आ** **गहि** सोमपानार्थमागच्छ ॥ परावतम् अर्वावतम् । अन्तरान्तरेण युक्ते' (पा. सू. २. ३. ४ ) इति द्वितीया । ततः । पञ्चम्यास्तसिल्। लित्व््रः ॥ ॥ २ ॥
@@ -166,7 +169,7 @@ _________
 
 If you are invoked between the far and the nearby,  
 Indra, come here from there.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
@@ -198,8 +201,6 @@ Wenn zwischen Näh' und Ferne du, o Indra angerufen wirst, So komm von dort hieh
 И близью зовут (тебя),  
 О Индра, приходи оттуда сюда!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

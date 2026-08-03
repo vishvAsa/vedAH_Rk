@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा हवि꣡ष्मतीर् वि꣡श  
-उ꣡प ब्रुवत ऊत꣡ये  
-उरुज्र꣡यसम् इ꣡न्दुभिः
+तं᳓ त्वा हवि᳓ष्मतीर् वि᳓श  
+उ᳓प ब्रुवत ऊत᳓ये  
+उरुज्र᳓यसम् इ᳓न्दुभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उरुज्रयसम्- विस्तीर्णजयम्। तम्- अमुम्। त्वा- त्वाम्। हविष्मतीर्विशः- हव्ययुक्ताः प्रजाः।  ऊतये- रक्षायै। इन्दुभिः- क्लेदनशीलैर्हृदयस्पर्शिभी रसैः। उप ब्रुवते- स्तुवन्ति॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **तं** पूर्वोक्तगुणम् **उरुज्रयसं** विस्तीर्णव्यापिनं त्वां **हविष्मतीः** हविर्भिश्चरुपुरोडाशादिभिर्युक्ताः **विशः** प्रजाः **उप** **ब्रुवते** उपेत्य स्तुवन्ति । किमर्थम् । **इन्दुभिः** सोमैः **ऊतये** तर्पणाय । यद्वा । इन्दुभिः सोमैः उरुज्रयसं विस्तीर्णजवमूतये रक्षणाय स्तुवन्ति ।
@@ -153,7 +156,7 @@ _________
 
 Upon you the clans, offering oblations, call for help,  
 (you who are) of broad expanse through the drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">
@@ -193,8 +196,6 @@ So rufen dich zur Hülfe auch die Menschen opferbringend her, Der du durch Indu'
 Призывают на помощь  
 Соками сомы, (тебя,) чей путь широк.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

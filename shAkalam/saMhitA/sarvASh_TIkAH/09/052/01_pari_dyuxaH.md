@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि द्युक्षः꣡ सन꣡द्रयिर्  
-भ꣡रद् वा꣡जं नो अ꣡न्धसा  
-स्वानो꣡° अर्ष पवि꣡त्र आ꣡
+प᳓रि द्युक्षः᳓ सन᳓द्रयिर्  
+भ᳓रद् वा᳓जं नो अ᳓न्धसा  
+स्वानो᳓° अर्ष पवि᳓त्र आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्युक्षः- दीप्तः। सनद्रयिः- दानयोग्यधनदाता। नः- अस्मभ्यम्। अन्धसा- हव्येन सह। वाजम्-  संपदम्। परि- परितः। भरत्- भरतु। सुवानः- निष्पन्नः। पवित्रे- शोधके प्रतीके। आ-  आभिमुख्येन। अर्ष- गच्छ॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **द्युक्षः** दीप्तः **सनद्रयिः** दीयमानधनः सोमः **नः** अस्माकं **वाजं** बलम् **अन्धसा** अन्नेन सह  **परि** **भरत्** परिभरतु प्रयच्छतु। अथ प्रत्यक्षस्तुतिः । हे सोम **सुवानः** अभिषूयमाणस्त्वं **पवित्रे**  **आ** **अर्ष** क्षर ॥
@@ -200,10 +203,6 @@ Herumfahrend möge der Himmlische Reichtümer erwerbend, uns durch seinen Trank 
 
 Der Reichthumspender bring' uns Kraft durch seinen Saft, der himmlische, Gepresst ergiess dich in das Sieb.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

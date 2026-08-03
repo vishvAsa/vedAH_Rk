@@ -1,6 +1,5 @@
 +++
 title = "+101"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+101"
 <details><summary>Jamison Brereton</summary>
 
 101 (710)  
-Various Gods: Mitra and Varuṇa (1–5c), Ādityas  (5d-6), Aśvins (7–8), Vāyu (9–10), Sūrya (11–12), Uṣas (or Praise of  the Sun’s Radiance) (13), Pavamāna (14), Cow (15–16)  
+Various Gods: Mitra and Varuṇa (1–5c), Ādityas  (5d-6), Aśvins (7–8), Vāyu (9–10), Sūrya (11–12), Uṣas (or Praise of  the Sun’s Radiance) (13), Pavamāna (14), Cow (15–16)  
 Jamadagni Bhārgava  
 16 verses: br̥hatī 1, 5, 7, 9, 11, 13; satobr̥hatī 2, 4, 6, 8, 10, 12; gāyatrī 3; triṣṭubh 14–16,  arranged (for the most part) in pragāthas.  
 As the above summary of the deities and the meters demonstrates, this hymn is  structurally quite complex, and indeed it may consist of several original hymns.  (See Oldenberg 1888: 218 n. 1.) The divisions we see are somewhat at variance with  the Anukramaṇī’s analysis. The first six verses appear to belong together, with two  pragāthas (vss. 1–4) to Mitra and Varuṇa and a third (vss. 5–6) expanding to include  the Ādityas in general, the three best known (Mitra, Varuṇa, and Aryaman) named  and the rest subsumed under the title “kings.” The focus is on the gods’ journey to  the sacrifice and the praise presented to them there, save for the second pragātha  (vss. 3–4), which gives a notable description of Mitra and Varuṇa’s missile and the  threat it poses.  
@@ -23,4 +22,10 @@ ciated with speech. This association (vs. 16) reminds us of the somewhat intrusi
 <details><summary>Jamison Brereton Notes</summary>
 
 Various gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०१  ऋ. जमदग्निर्भार्गवः।मित्रावरुणौ, ५ मित्रावरुणादित्याः, ६ आदित्याः, ७-८ अश्विनौ, ९-१० वायुः, ११- १२ सूर्यः, १३ उषाः सूर्यप्रभा वा, १४ पवमानः, १५-१६ गौः। १-२ प्रगाथः (बृहती सतोबृहती), ३ गायत्री,  ४ सतोबृहती, ५-१३ प्रगाथः (विषमा बृहती समा सतोबृहती ) , १४-१६ त्रिष्टुप् ।
 </details>

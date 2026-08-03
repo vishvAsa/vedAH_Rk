@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ दिव꣡स् पृष्ठ꣡म् अश्वयु꣡र्  
-गव्ययुः꣡ सोम रोहसि  
-वीरयुः꣡ शवसस् पते
+आ᳓ दिव᳓स् पृष्ठ᳓म् अश्वयु᳓र्  
+गव्ययुः᳓ सोम रोहसि  
+वीरयुः᳓ शवसस् पते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शवसस्पते- शक्तिपालक। सोम- रस। अश्वयुः- प्राणकामः। गव्ययुः- ज्ञानकामः। वीरयुः-  साधककामः सन्। दिवस्पृष्ठम्- चिदाकाशम्। आ रोहसि॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं स्तोतॄणाम् **अश्वयुः** अश्वमिच्छन् **गव्ययुः** गा इच्छन् **वीरयुः** पुत्रानिच्छन् **दिवस्पृष्ठं** द्युलोकम् **आ** **रोहसि** आहुतिद्वारा हे **शवसस्पते** अन्नस्य पालक ॥ ॥ २६ ॥
@@ -167,10 +170,6 @@ Du besteigst nach Roß und Rind verlangend des Himmels Rücken, o Soma, nach Man
 
 Du steigst empor zur Himmelshöh, nach Rossen, Rindern, Heldenschar Begierig, Soma, Herr der Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+001"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -13,8 +12,8 @@ title = "+001"
 <details><summary>Jamison Brereton</summary>
 
 1 (621)  
-Indra (1–29), Dānastuti of Āsaṅga (30–33),  
-Āsaṅga (34)  
+Indra (1–29), Dānastuti of Āsaṅga (30–33),  
+Āsaṅga (34)  
 Pragātha Kāṇva (formerly Pragātha Ghaura, brother and adoptive son of Kaṇva)  (1–2), Medātithi Kāṇva and Medhyātithi (3–29), Āsaṅga Plāyogi (30–33), Śaśvatī Āṅgirasī, wife of Āsaṅga (34)  
 34 verses: br̥hatī, except satobr̥hatī 2–4, triṣṭubh 33–34  
 The structure of this hymn is metrically complex; indeed Oldenberg despairs of it.  It begins with two pragāthas (vss. 1–4, br̥hatī alternating with satobr̥hatī) and ends  with two triṣṭubhs (vss. 33–34). In between are twenty-eight br̥hatī verses, whose  organization is unclear. Oldenberg is inclined to assume an overall tr̥ca structure,  which has been disturbed—and indeed some of whose verses have been lost, as he  believes. Geldner, on the other hand, sees paired verses (continuing the pragāthas  of 1–4) in verses 5–20, tr̥cas in verses 21–29 and the dānastuti (vss. 30–33), with the  final verse (34) falling outside these structures. It is also important to note that this  hymn violates one of the principles of arrangement in the VIIIth Maṇḍala, whereby  within each poet’s collection all hymns to the same deity are grouped together in  order of descending number of verses: our VIII.1 has thirty-four verses, whereas VIII.2, also to Indra, has forty-two. This discrepancy is one of the pieces of evi dence that led Oldenberg to suggest that some verses had been lost in VIII.1. In any case the metrical particulars do not help in discerning the thematic struc ture. The one indisputable fact is that the last four verses (30–34) stand apart from  the rest of the hymn: verses 30–33 form a dānastuti, and the striking final verse (34)  belongs to the same level of colloquial discourse as the three immediately preceding  verses and may in fact be part of the dānastuti (see below). The rest of the hymn  is devoted to Indra, but there is very little sustained praise of the god and almost  no mythology (apart from a few glancing references in vss. 11 and 28). Most of the  Indra portion falls roughly into the genres of “journey” hymn and invitation to  the soma sacrifice, but as often in Indra hymns there is concern that Indra will go  elsewhere for his soma. The first ten verses develop this theme, but with somewhat  slangy language (e.g., “having it both ways,” vs. 2; “keep crisscrossing,” vs. 4) and  with an intimate and almost teasing approach to the god, as when the poet in verse  5 promises that he won’t “hand over” Indra even in return for a great sum. But the  anxiety that Indra will pass by his sacrifice is clear, especially in verses 3–4, 7; this  theme recurs in verses 13–16, and, even in the following verses devoted to the soma  preparation and the god’s response (17–22), in verse 20 the poet expresses his fear  that he might anger Indra with his importunings. The themes of the journey and the  invitation to soma are repeated once more in verses 23–27, and verse 27 ends with  a strong affirmation that Indra will come to our sacrifice, thus ending the repeated  doubts expressed earlier in the hymn. Two more verses (28–29), paired by their  repeated fronted pronouns, bring the Indra part of the hymn to a close. Thus the hymn keeps circling around certain topics, while other common fea tures of Indra hymns such as mythological references are absent; nonetheless, there  is little in the way of formal structure or organized presentation. Moreover, the  striking turns of phrase found in the earlier parts of the hymn are less frequent  in the later parts, with one exception: verse 12. This baffling verse is found also in  the Atharvaveda in the wedding hymn (AVŚ XIV.2.47). It seems to depict Indra as  a wondrous physician, in most interpretations: without even touching it he sticks  together a breach, perhaps a wound, which was perhaps made by a missile, before  the missile, if that’s what it is, pierces through to the collarbones. The translation  given here is provisional, and it is not at all clear to us why the verse is found in this  hymn or what it really refers to.  
@@ -26,4 +25,10 @@ preceding verse (33), who had become a woman but was turned back into a man  tha
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+॥ ऋग्वेदः। अष्टमं मण्डलम्। रङ्गनाथविरचिता ध्वनिदीपिका॥  १  १-२ प्रगाथो (घौरः) काण्वः, ३-२९ मेधातिथि-मेध्यातिथी काण्वौ, ३०-३३ प्लायोगिरासङ्गः, ३४  आङ्गिरसी शाश्वती ऋषिका । इन्द्रः, ३०-३४ आसङ्गः । १-४ प्रगाथः (विषमा बृहती समा सतोबृहती),  ५-३२ बृहती, ३३-३४ त्रिष्टुप्
 </details>

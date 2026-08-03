@@ -3,7 +3,6 @@ title = "014"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्या꣡जुषन् नमस्वि꣡नः  
-श꣡मीम् अ꣡दुर्मखस्य वा  
-तं꣡ घे꣡द् अग्नि꣡र् वृधा꣡वति
+य᳓स्या᳓जुषन् नमस्वि᳓नः  
+श᳓मीम् अ᳓दुर्मखस्य वा  
+तं᳓ घे᳓द् अग्नि᳓र् वृधा᳓वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। नमस्विनः- नमस्कारवतः। अदुर्मखस्य- अदुष्टयज्ञस्य। शमीम्- शान्तभावनाम्।  अजुषत्- असेवत। तम्। अग्निः। वृधा- वृद्ध्या। अवति- रक्षति॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्य** **नमस्विनः** नमस्कारवतः **अदुर्मखस्य** **वा** अदुष्टयागस्य वा **शमीं** कर्म **अजुषत्** असेवत **तं** **घेत्** तमेव यजमानं संग्रामे **अग्निर्विधावति** विशेषेण गच्छति । अतो नमोयुक्ता अदुर्मखाश्च भवामेति भावः ॥
@@ -201,10 +204,6 @@ An wes Verehrers oder Nichtkargen Opferdienst er Gefallen gefunden hat, den beg�
 
 Den Beter und den Emsigen, dess Arbeit er mit Huld empfing, Den fördert Agni durch Gedeihn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

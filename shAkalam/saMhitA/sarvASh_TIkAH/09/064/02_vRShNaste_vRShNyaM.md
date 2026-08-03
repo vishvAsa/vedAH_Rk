@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡ष्णस् ते वृ꣡ष्णियं श꣡वो  
-वृ꣡षा व꣡नं वृ꣡षा म꣡दः  
-सत्यं꣡ वृषन् वृ꣡षे꣡द् असि
+वृ᳓ष्णस् ते वृ᳓ष्णियं श᳓वो  
+वृ᳓षा व᳓नं वृ᳓षा म᳓दः  
+सत्यं᳓ वृषन् वृ᳓षे᳓द् असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषन्- वर्षक। वृष्णः- वर्षकस्य। ते- तव। शवम्- बलम्। वृष्ण्यम्- वर्षकमस्ति। वनम्- तव  शरणमपि। वृषा- वर्षकमस्ति। मदः- तव हर्षोपि। वृषा। सत्यम्- सत्यमेव। वृषा इत्- वर्षक  एव। असि- भवसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृषन्** कामानां वर्षक सोम **वृष्णः** वर्षितुः **ते** तव **शवः** बलं **वृष्ण्यं** वर्षणशीलं भवति । **वनं** तव भजनमपि **वृषा** वर्षणशीलम् । **मदः** तव रसोऽपि **वृषा** वर्षणशीलः । **सत्यं** सत्यमेव त्वं **वृषेत्** वर्षणशील एव **असि** भवसि ॥
@@ -181,7 +184,7 @@ _________
 
 Of you, the bull, bullish is the strength; your wooden (cup) is a bull, your  exhilarating drink a bull.  
 In truth, o bull, you are really a bull.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
@@ -208,10 +211,6 @@ Dein, des Bullen, Kraft ist bullenhaft, bullenhaft ist das Holz, bullenhaft dein
 
 Dir Stier ist eigen Stieres Kraft, ein Stier die Flut, ein Stier der Rausch, Ein rechter Stier bist du, o Stier.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

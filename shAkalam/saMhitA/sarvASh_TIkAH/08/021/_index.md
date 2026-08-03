@@ -1,6 +1,5 @@
 +++
 title = "+021"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,7 +16,7 @@ title = "+021"
 <details><summary>Jamison Brereton</summary>
 
 21 (641)  
-Indra (1–16), Citra’s Dānastuti (17–18)  
+Indra (1–16), Citra’s Dānastuti (17–18)  
 Sobhari Kāṇva  
 18 verses: kakubh alternating with satobr̥hatī, arranged in pragāthas  
 This hymn ends with a brief dānastuti to king Citra (vss. 17–18) and begins with a  pun on his name: in verse 1 Indra is described as citrá “brilliant.” In between the  poet ponders the various different relationships that he and his people might have  with Indra, deploying a surprising range of terminology: “comrade” (vss. 2, 8, 14,  15), “kin” (vs. 4), “rival” (vs. 13), “friend” (vs. 13), and “father” (vs. 14). Amid the  standard invitations to the soma sacrifice (e.g., vss. 3, 5) and praise of Indra’s quali  
@@ -29,4 +28,10 @@ Thus, though much of the hymn contains conventional Indra-hymn material,  there 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२१  सोभरिः काण्वः।इन्द्रः, १७-१८ चित्रः । प्रगाथः (विषमा ककुप् समा सतोबृहती)।
 </details>

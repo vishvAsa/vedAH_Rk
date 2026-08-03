@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Again this hymn expresses a martial and competitive spirit, especially in verse 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३०  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप्।
 </details>

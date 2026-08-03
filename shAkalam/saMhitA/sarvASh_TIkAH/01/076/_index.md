@@ -1,6 +1,5 @@
 +++
 title = "+076"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ Agni
 These two Triṣṭubh hymns are out of sequence, in that they both contain five verses. The preceding hymn I.75 in Gāyatrī also contains five verses, and among hymns of the same number of verses to the same divinity, those in the longer meter (in this case Triṣṭubh) should precede. Curiously, Oldenberg does not remark on this. The proper sequencing is restored with I.78, five verses in Gāyatrī.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७६   गोतमो राहूगणः।अग्निः। त्रिष्टुप्
 </details>

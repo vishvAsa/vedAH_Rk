@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं न꣡रो नेम꣡धिता हवन्ते  
-य꣡त् पा꣡रिया युन꣡जते धि꣡यस् ताः꣡  
-शू꣡रो नृ꣡षाता श꣡वसश् चकान꣡  
-आ꣡ गो꣡मति व्रजे꣡ भजा तुवं꣡ नः
+इ᳓न्द्रं न᳓रो नेम᳓धिता हवन्ते  
+य᳓त् पा᳓रिया युन᳓जते धि᳓यस् ताः᳓  
+शू᳓रो नृ᳓षाता श᳓वसश् चकान᳓  
+आ᳓ गो᳓मति व्रजे᳓ भजा तुवं᳓ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -98,6 +96,11 @@ vrajé ← vrajá- (nominal stem)
 
 इन्द्र॑म् । नरः॑ । ने॒मऽधि॑ता । ह॒व॒न्ते॒ । यत् । पार्याः॑ । यु॒नज॑ते । धियः॑ । ताः ।  
 शूरः॑ । नृऽसा॑ता । शव॑सः । च॒का॒नः । आ । गोऽम॑ति । व्र॒जे । भ॒ज॒ । त्वम् । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+इन्द्र॑म् । नरः॑ । ने॒मधि॒तेति॑ ने॒म-धि॒ता॒ । ह॒व॒न्ते॒ । यत् । पार्याः॑ । यु॒नज॑ते । धियः॑ । ताः ॥ शूरः॑ । नृषा॒तेति॒ नृ-सा॒ता॒ । शव॑सः । च॒का॒नः । एति॑ । गोम॒तीति॒ गो-म॒ति॒ । व्र॒जे । भ॒ज॒ । त्वम् । नः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -227,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। पार्याः- पारयितव्याः। ताः। धियः। युनजते- प्रयुज्यन्ते। तदा। नरः- नेतारः।  इन्द्रम्- ईशनाधिदैवतम्। नेमधिता- वृत्रैर्जनिते युद्धे। हवन्ते- साहाय्यायाह्वयन्ति। शूरः- समर्थः।  नृषाता- नृणां सम्भक्ता। शवसश्चकानः- बलकामः। त्वम्। नः- अस्मान्। गोमति व्रजे-  चिद्रश्मिषु। आ भज- प्रापय॥१॥
+</details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 **यत्** यदा **पार्याः** युद्धभरणनिमित्ताः  
@@ -274,9 +282,6 @@ ___________________________________
 यद्वा - **व्रजे** गोष्ठे भूयिष्ठगोभिर् युक्ते आभन आभिमुख्येनास्मान्योजय पशुमन्तं मां कुरु । 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् ॥
 </details>
 
-
-
-
 <details><summary>Wilson</summary>
 
 _________
@@ -307,7 +312,6 @@ Hero, men overpowering, delighting in strength,
 Do thou confer upon us a stall full of kine.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Den Indra rufen die Männer im Wettstreit, daß er diese ausschlaggebenden Lieder an seinen Wagen spanne. Der du als Held im Männerkampf die Übermacht begehrst, gib du uns Anteil an der erbeuteten Rinderhürde!
@@ -325,8 +329,6 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 Герой, любящий превосходящую силу в борьбе мужей,  
 Надели ты нас долей в загоне с коровами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

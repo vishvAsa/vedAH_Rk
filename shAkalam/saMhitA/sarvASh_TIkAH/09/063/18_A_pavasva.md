@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व हि꣡रण्यवद्  
-अ꣡श्वावत् सोम वीर꣡वत्  
-वा꣡जं गो꣡मन्तम् आ꣡ भर
+आ᳓ पवस्व हि᳓रण्यवद्  
+अ᳓श्वावत् सोम वीर᳓वत्  
+वा᳓जं गो᳓मन्तम् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ- समन्तात्। पवस्व- क्षर। हिरण्यवत्- कान्तिमतीम्। अश्वावत्- प्राणयुक्ताम्। वीरवत्-  वीर्ययुक्ताम्। गोमन्तम्- ज्ञानयुक्ताम्। वाजम्- संपदम्। सोम- रस। आभर- आहर॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वं** **हिरण्यवत्** सुवर्णोपेतम् **अश्ववत्** अश्वयुक्तं च **वीरवत्** पुत्राद्युपेतं च धनम् **आ** **पवस्व** अस्मान् प्रति क्षर । अपि च **गोमन्तं** पशुभिरुपेतं **वाजम्** अन्नम् **आ** **भर** अस्मभ्यमाहर ॥
@@ -158,7 +161,7 @@ Yasus. 8.63
 
 In purifying yourself, o Soma, bring masses of gold, of horses, of  heroes;  
 bring hither a prize of cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
@@ -184,10 +187,6 @@ Läutere uns den Besitz von Gold, von Rossen, von Söhnen zu, o Soma; bring rind
 
 O Soma, riesle Schatz an Gold, an Rossen und an Helden her Und bring' uns rinderreiches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

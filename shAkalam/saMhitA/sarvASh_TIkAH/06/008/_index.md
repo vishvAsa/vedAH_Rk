@@ -1,6 +1,5 @@
 +++
 title = "+008"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+008"
 <details><summary>Jamison Brereton</summary>
 
 8 (449)  
-Agni Vaiśvānara  
+Agni Vaiśvānara  
 Bharadvāja Bārhaspatya  
 7 verses: jagatī, except triṣṭubh 7  
 Another Vaiśvānara hymn, and the cosmic aspects of Agni (and his double, the  Sun), extensively treated in VI.7, are touched upon (vss. 2–3). Verse 1 strongly  establishes a sacrificial context, however, which returns in verse 4, relating the  primal establishment of the ritual fire. The remaining verses (5–7) beg him for  benefits.  
@@ -21,4 +20,10 @@ The hymn is also structured by a phonetic figure, the constant repetition of ini
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara This hymn, like the last, is dedicated to Agni Vaiśvānara and has a form of this epithet in every vs. but 5, always pāda-initial as in VI.7. However, the hymn is somewhat different from VI.7. In that hymn Agni Vaiśvānara was distinct from and dominated the sun (see esp. VI.7.5-6) until the last vs., while in this hymn the usual identification of Agni Vaiśvānara and the sun is in evidence. See esp. vs. 2. As noted in the published introduction, the hymn is also heavy with initial v’s, esp. in the earlier parts of the hymn, which index the epithet. Note esp. the three hemistichs that begin with the preverb ví (2c, 3a, 3c), as well as 1ab … vṛ́ṣnaḥ … vocaṃ vidáthā …, 2ab … vyòmani, vratā́ni … vratapā́…, 3cd … avartayad, vaiśvānaró víśvam … vṛ́ṣṇyam.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८  बार्हस्पत्यो भरद्वाजः।वैश्वानरोऽग्निः। जगती, ७ त्रिष्टुप्
 </details>

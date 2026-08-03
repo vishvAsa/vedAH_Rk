@@ -3,7 +3,6 @@ title = "010"
 devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो देवी꣡ अ꣡दितिर्  
-उरुष्य꣡तां ना꣡सतिया  
-उरुष्य꣡न्तु मरु꣡तो वृद्ध꣡शवसः
+उत᳓ नो देवी᳓ अ᳓दितिर्  
+उरुष्य᳓तां ना᳓सतिया  
+उरुष्य᳓न्तु मरु᳓तो वृद्ध᳓शवसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवी- द्योतनशीला। अदितिः- अखण्डप्रकृतिः। नः- अस्मान्। उरुष्यताम्- रक्षतु। उत- अपि  च। नासत्या- सत्यस्वरूपावश्विनौ। उरुष्यताम्- रक्षताम्। वृद्धशवसः- अभिवृद्धबलाः। मरुतः-  प्राणविशेषाः। उरुष्यन्तु- रक्षन्तु॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **देवी** द्योतनशीला **अदितिः** मित्रावरुणयोर्माता **नः** अस्मान् रक्षतु । **नासत्या** नासत्यौ । असत्यमनयोर्नास्तीति नासत्यौ। अश्विनौ च **उरुष्यतां** रक्षताम् । उरुष्यतिः कण्ड्वादिः । **वृद्धश्रवसः** वृद्धवेगाः । अतिशयेन वेगवन्त इत्यर्थः । यद्वा वर्धनशीलहविर्लक्षणान्नोपेताः । **मरुतः** **उरुष्यन्तु** अस्मान् पालयन्तु ॥ ॥ २२ ॥
@@ -149,7 +152,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 And let the goddess Aditi, let the two Nāsatyas [=Aśvins] give us room; let the Maruts, whose strength has increased, give room.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
@@ -183,8 +186,6 @@ Uns schaff die Göttin Aditi, die treuen Ritter weiten Raum, Und weiten Raum die
 Создаст широкий простор (и) Насатьи!  
 Пусть создадут широкий простор Маруты, возросшие силой!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

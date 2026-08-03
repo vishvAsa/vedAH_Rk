@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अपघ्न꣡न् पवते मृ꣡धो  
-अ꣡प सो꣡मो अ꣡रावणः  
-ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्
+अपघ्न᳓न् पवते मृ᳓धो  
+अ᳓प सो᳓मो अ᳓रावणः  
+ग᳓छन्न् इ᳓न्द्रस्य निष्कृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रस्य- परमेश्वरस्य। निष्कृतम्- सदनम्। गच्छन्। सोमः- रसः। अराव्णः- अदायकान्। मृधः-  हिंसकान्। अपघ्नन्- नाशयन्। पवते- क्षरति॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमः** **मृधः** हिंसकाञ्छत्रून् **अपघ्नन्** मारयन् **अराव्णः** शक्तौ सत्यां धनानामदातॄंश्च **अप** घ्नन् **इन्द्रस्य** **निष्कृतं** स्थानं **गच्छन्** प्राप्नुवन् **पवते** धारया क्षरति ॥ ॥ २२ ॥
@@ -146,7 +149,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Smashing away the scorners, away the ungenerous, Soma purifies himself, going to the rendezvous with Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
@@ -180,8 +183,6 @@ Indem die bösen Feinde er verjaget, rieselt Soma hell, Hineilend, wo er Indra t
 (Отгоняя) прочь, о сома, скупцов,  
 Отправляясь на свидание с Индрой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

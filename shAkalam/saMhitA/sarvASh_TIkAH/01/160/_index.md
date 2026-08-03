@@ -1,6 +1,5 @@
 +++
 title = "+160"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Once seen, the pervasive underlying identity of these two hymns cannot be denied
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६०   दीर्घतमा औचथ्यः।द्यावापृथिवी। जगती।
 </details>

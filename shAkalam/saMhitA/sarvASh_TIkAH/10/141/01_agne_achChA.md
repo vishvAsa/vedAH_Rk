@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने अ꣡छा वदेह꣡ नः  
-प्रत्य꣡ङ् नः सुम꣡ना भव  
-प्र꣡ नो यछ विशस् पते  
-धनदा꣡ असि नस् तुव꣡म्
+अ᳓ग्ने अ᳓छा वदेह᳓ नः  
+प्रत्य᳓ङ् नः सुम᳓ना भव  
+प्र᳓ नो यछ विशस् पते  
+धनदा᳓ असि नस् तुव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)  
-genre D;; epic anuṣṭubh (292)
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ácha ← ácha (invariable)  
@@ -231,6 +229,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक सर्वभूतहितक्रतो। इह- अत्र। नः- अस्मान्। अच्छ- अभिलक्ष्य। वद- ब्रूहि।  प्रत्यङ्- प्रत्यञ्चन्। नः- अस्माकम्। सुमनाः- सुचित्तः। भव। विशस्पते- प्रजापते। नः-  अस्मभ्यम्। प्र यच्छ- देहि। नः- अस्माकम्। त्वम्। धनदाः- धनदाता। असि- भवसि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **इह** अस्मिन् देशे **नः** अस्मान् **अच्छ** **वद** आभिमुख्येन प्रियं ब्रूहि । तथा **प्रत्यङ्** **नः** अस्मान् प्रत्यञ्चन् **सुमनाः** शोभनमनस्को **भव** । हे **विशस्पते** यजमानलक्षणायाः प्रजायाः पालयितः **नः** अस्मभ्यं **प्र** **यच्छ** धनानि प्रदेहि यतः **त्वं** **नः** अस्माकं **धनदाः** **असि** धनानां दाता भवसि ॥
@@ -273,8 +276,6 @@ Sprich hold, o Agni, hier uns zu, sei freundlich gegen uns gesinnt; Und schenk u
 Дари нам, о господин племен –  
 Ты наш даритель богатства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

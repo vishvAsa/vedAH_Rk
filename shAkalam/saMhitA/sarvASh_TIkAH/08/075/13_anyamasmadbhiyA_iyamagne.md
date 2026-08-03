@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अन्य꣡म् अस्म꣡द् भिया꣡ इय꣡म्  
-अ꣡ग्ने सि꣡षक्तु दुछु꣡ना  
-व꣡र्धा नो अ꣡मवच् छ꣡वः
+अन्य᳓म् अस्म᳓द् भिया᳓ इय᳓म्  
+अ᳓ग्ने सि᳓षक्तु दुछु᳓ना  
+व᳓र्धा नो अ᳓मवच् छ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। दुच्छुना- दुःखम्। इयम्- एतत्। अस्मत्- अस्मत्तः। अन्यम्- इतरमस्मद्विरोधिनमिति  भावः। भियै- भयाय। सिषक्तु- सेवताम्। नः- अस्माकम्। अमवत्- बलवन्तम्। शवः- वेगम्।  वर्ध- वर्धय॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वदीया **इयं** **दुच्छुना** बाधकसंहतिः **अस्मत्** **अन्यम्** अस्तोतारं **भियै** भयाय **सिषक्तु** सेवताम् । त्वं च **नः** अस्माकम् **अमवत्** बलोपेतं **शवः** वेगं **वर्ध** वर्धय संग्रामे ॥
@@ -182,10 +185,6 @@ Einen anderen als uns soll zum Schrecken dieses Unheil heimsuchen, o Agni! Mehre
 
 Nicht uns verfolge schreckensvoll, o Agni, dieses Ungemach Vermehre unsre kühne Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

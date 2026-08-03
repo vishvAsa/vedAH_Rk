@@ -3,7 +3,6 @@ title = "018"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-धेनू꣡र् जिन्वतम् उत꣡ जिन्वतं वि꣡शो  
-हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-सो꣡मं सुन्वतो꣡ अश्विना
+धेनू᳓र् जिन्वतम् उत᳓ जिन्वतं वि᳓शो  
+हतं᳓ र᳓क्षांसि से᳓धतम् अ᳓मीवाः  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+सो᳓मं सुन्वतो᳓ अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धेनूः- गा रश्मीन्। जिन्वतम्। उत- अपि च। विशः- प्रजाः। जिन्वतम्। ॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **धेनूर्जिन्वतम्** । **उत** अपि च **विशः** वैश्यांश्च **जिन्वतम्** । सिद्धमन्यत् ॥ ॥ १६ ॥
@@ -217,7 +220,7 @@ Be propitious to the people: **viśaḥ** = thevaiśyas
 Quicken our cows and quicken our clans. – Smite demons; keep away  diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser,  
 o Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">
@@ -252,8 +255,6 @@ Die Kühe segnet, segnet die Bewohner auch, Gespenster schlaget, wehret alle Pla
 Единодушные с Ушас и Сурьей,  
 (Пейте) сому у выжимающего (его), о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

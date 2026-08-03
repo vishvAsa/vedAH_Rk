@@ -1,6 +1,5 @@
 +++
 title = "+075"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ sion. The final verse (19) calls down destruction on every type of enemy and aff
 Weapons Renou EVP XVI (1976): 109-11 provides notes; it is tr. in the earlier Hymnes spéculatifs (1956) but without philological notes.
 
 It is possible that this hymn was tacked onto the maṇḍala because of tigmā́yudhau tigmáhetī “possessing sharp weapons and sharp missiles” at the end of the preceding hymn (VI.74.3), though this is not a necessary hypothesis. The first 14 vss. are repeated in a number of places in the early Vedic ritual texts as part of the Aśvamedha (e.g., VS XXIX.38-51, TS IV.6.6).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७५  पायुर्भारद्वाजः। (संग्रामाशिषः) १ वर्म, २ धनुः, ३ ज्या, ४ आर्त्नी, ५ इषुधिः, ६ (पूर्वार्धः) सारथिः, ६  (उत्तरार्धः) रश्मयः, ७ अश्वाः, ८ रथः,९ रथगोपाः, १० ब्राह्मण-पितृ-सोम-द्यावापृथिवी-पूषाणः, ११- १२, १५-१६ इषवः, १३ प्रतोदः, १४ हस्तघ्नः, १७ युद्धभूमि-कवच-ब्रह्मणस्पत्यादयः, १८ वर्म-सोम- वरुणाः, १९ देवब्रह्माणि। त्रिष्टुप्, ६,१० जगती, १२, १३, १५, १६, १९ अनुष्टुप्, १७ पङ्क्तिः
 </details>

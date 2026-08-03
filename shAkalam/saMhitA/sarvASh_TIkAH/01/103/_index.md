@@ -1,6 +1,5 @@
 +++
 title = "+103"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The responsion in the outer ring (specifically vss. 2 and 7)  is more complex  a
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०३   कुत्स आङ्गिरसः।  इन्द्रः। त्रिष्टुप्।
 </details>

@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वेन्दो वृ꣡षा सुतः꣡  
-कृधी꣡ नो यश꣡सो ज꣡ने  
-वि꣡श्वा अ꣡प द्वि꣡षो जहि
+प᳓वस्वेन्दो वृ᳓षा सुतः᳓  
+कृधी᳓ नो यश᳓सो ज᳓ने  
+वि᳓श्वा अ᳓प द्वि᳓षो जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। वृषा- वर्षकः सन्। सुतः- निष्पादितः सन्। पवस्व- क्षर। नः- अस्माकम्।  जने- अभिजने। यशसः- हव्यानि। कृधि- कुरु। विश्वाः द्विषः- सर्वान् शत्रून् सर्वा द्वेषभावना वा।  अप जहि- जय॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **सुतः** अभिषुतः **वृषा** सेक्ता त्वं **पवस्व** धारया क्षर। **जने** जनपदेषु **नः** अस्मान् **यशसः** यशस्विनः **कृधि** कुरु । **विश्वाः** सर्वान् **द्विषः** द्वेष्टॄन् शत्रून् **अप** **जहि** मारय च ॥
@@ -182,7 +185,7 @@ _________
 
 Purify yourself, o drop, when you, the bull, are pressed. Make us  glorious among the people.  
 Smash away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
@@ -216,8 +219,6 @@ O Indu riesle, starker Saft, im Volke mache uns berühmt Und jage alle Hasser fo
 Сделай нас блистательными среди народа!  
 Порази всех ненавистников!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इहा꣡ गतं वृषण्वसू  
-शृणुत꣡म् म इमं꣡ ह꣡वम्  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+इहा᳓ गतं वृषण्वसू  
+शृणुत᳓म् म इमं᳓ ह᳓वम्  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इह- अत्र। आ गतम्- आगच्छतम्। वृषण्वसू- वर्षकसम्पद्युक्तौ। मे- मम। इमम्- एतत्। हवम्-  आह्वानम्। शृणुतम्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृषण्वसू** वर्षणधनावश्विनौ **इह** अस्मिन् यज्ञे **आ** **गतम्** आगच्छतम् । तदर्थं **मे** मम इमं हवं **शृणुतम्** ॥ ॥ १९ ॥
@@ -208,8 +211,6 @@ O Heldenkräft'ge kommt hierher, vernehmet diesen meinen Ruf; Es sei uns eure H�
 Услышьте этот мой призыв!  
 Пусть ваша помощь будет рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

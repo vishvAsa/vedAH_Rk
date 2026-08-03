@@ -1,6 +1,5 @@
 +++
 title = "+094"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The identification of the Maruts’ mother with Aditi in the first tr̥ca and th
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९४  बिन्दुः पूतदक्षो वा अङ्गिरसः।मरुतः। गायत्री।
 </details>

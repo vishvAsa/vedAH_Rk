@@ -1,6 +1,5 @@
 +++
 title = "+126"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The final two verses (6–7) provide an erotic, indeed rather obscene, appendix,
 <details><summary>Jamison Brereton Notes</summary>
 
 Kakṣīvant's Dānastuti
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२६   १-५ कक्षीवान् दैर्घतमस औशिजः, ६ स्वनयो भावयव्यः, ७ रोमशा।१-५ स्वनयो भावयव्यः, ६ रोमशा,  ७ स्वनयो भावयव्यः । त्रिष्टुप्, ६-७ अनुष्टुप्।
 </details>

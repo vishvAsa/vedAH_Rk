@@ -3,7 +3,6 @@ title = "012"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ नो अग्ने अध्वरं꣡  
-हो꣡तर् वयुनशो꣡ यज  
-चिकित्वा꣡न् दइ꣡वियं ज꣡नम्
+इमं᳓ नो अग्ने अध्वरं᳓  
+हो᳓तर् वयुनशो᳓ यज  
+चिकित्वा᳓न् दइ᳓वियं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+होतः- देवानामाह्वातः। अग्ने- पावक सर्वभूतहितक्रतो। दैव्यं जनम्- द्योतनशक्तीः। चिकित्वान्-  बुद्ध्यन्। नः- अस्माकम्। इमम्- एतम्। अध्वरम्- ध्वरविरोधिकर्म। सर्वभूतहितं कर्म। वयुनशः-  ज्ञानक्रमेण। यज- कुरु॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **होतः** देवानामाह्वातः **अग्ने** **दैव्यं** देवसंबन्धिनं **जनं**  संघं यजनीयं **चिकित्वान्** जानंस्त्वं **नः** अस्मदीयम् **इमम्** **अध्वरं** हिंसारहितं यज्ञं **वयुनशः** ज्ञानक्रमेण यथानुपूर्व्या देवा बुद्धिस्थाः तथा **यज** यागं कुरु ॥
@@ -154,7 +157,7 @@ _________
 
 O Agni, Hotar, perform this ceremony as sacrifice for us according to  its patterns,  
 as one who attends to the divine folk.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
@@ -188,8 +191,6 @@ Dies unser Opfer bringe dar, o Priester Agni, kunstgerecht, Aufmerkend auf der G
 Хотар, исполняй по правилам,  
 Зная божественный род!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

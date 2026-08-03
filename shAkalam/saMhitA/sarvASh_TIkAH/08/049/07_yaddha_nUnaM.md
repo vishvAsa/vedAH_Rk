@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् ध नूनं꣡ य꣡द् वा यज्ञे꣡  
-य꣡द् वा पृथिविया꣡म् अ꣡धि  
-अ꣡तो नो यज्ञ꣡म् आशु꣡भिर् महेमत  
-उग्र꣡ उग्रे꣡भिर् आ꣡ गहि
+य᳓द् ध नूनं᳓ य᳓द् वा यज्ञे᳓  
+य᳓द् वा पृथिविया᳓म् अ᳓धि  
+अ᳓तो नो यज्ञ᳓म् आशु᳓भिर् महेमत  
+उग्र᳓ उग्रे᳓भिर् आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञे- अस्माकं दाने देवपूजायां सङ्गतिकरणे। पृथिव्याम्- भूम्याम्। अधि। वा। नः- अस्माकम्।  यज्ञम्। आशुभिः- क्षिप्रैः। उग्रेभिः- उद्गूर्णैः प्राणतुरगैः। महेमते- महामते। उग्र- उद्गूर्ण। आ  गहि- आगच्छ॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -264,8 +267,6 @@ Wenn du bei einem Opfer jetzt, und wenn du auf der Erde weilst, So komm von da z
 (То) оттуда на нашу жертву на быстрых конях, о великодушный,  
 О грозный, приезжай на грозных,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

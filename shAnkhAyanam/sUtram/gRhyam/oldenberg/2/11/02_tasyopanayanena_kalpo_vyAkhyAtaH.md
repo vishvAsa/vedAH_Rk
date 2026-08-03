@@ -1,9 +1,0 @@
-+++
-title = "०२ तस्योपनयनेन कल्पो व्याख्यातः"
-
-+++
-2 [^2] . The rules for it have been explained by the initiation.
-
-
-[^2]:  2, 4. See the note on chap. 6, 1. 2.
-

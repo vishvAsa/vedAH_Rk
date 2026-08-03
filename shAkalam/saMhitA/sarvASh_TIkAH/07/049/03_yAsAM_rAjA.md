@@ -3,7 +3,6 @@ title = "003"
 devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-या꣡सां रा꣡जा व꣡रुणो या꣡ति म꣡ध्ये  
-सत्यानृते꣡ अवप꣡श्यञ् ज꣡नानाम्  
-मधुश्चु꣡तः शु꣡चयो याः꣡ पवाका꣡स्+  
-ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
+या᳓सां रा᳓जा व᳓रुणो या᳓ति म᳓ध्ये  
+सत्यानृते᳓ अवप᳓श्यञ् ज᳓नानाम्  
+मधुश्चु᳓तः शु᳓चयो याः᳓ पवाका᳓स्+  
+ता᳓ आ᳓पो देवी᳓र् इह᳓ मा᳓म् अवन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यासाम्। मध्ये। राजा वरुणः- ऋताधिदेवता। जनानाम्- विशाम्। सत्यानृते- धर्माधर्मौ।  अवपश्यन्। याति- गच्छति। मधुश्चुताः- मधुराः। शुचयः- परिशुद्धाः। याः पावकाः-  शोधयित्र्यः। ता आपो देवीरिह मामवन्तु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वरुणः** **यासाम्** अपां **राजा** स्वामी **मध्ये** मध्यमलोके **याति** गच्छति । किं कुर्वन् । **जनानां** प्रजानां **सत्यानृते** सत्यं चानृतं च **अवपश्यन्** । जानन्नित्यर्थः। **याः** आपः **मधुश्चुतः** रसं क्षरन्त्यः **शुचयः** दीप्तियुक्ताः **पावकाः** शोधयित्र्यः। **ता** **आपः** देव्यः **मां** रक्षन्त्विति ॥
@@ -239,7 +242,7 @@ _________
 
 In the middle of which King Varuṇa travels, looking down upon the  truth and falsehood of the peoples,  
 those, clear and pure, that drip honey—let those waters, goddesses, help  me here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
@@ -279,8 +282,6 @@ In deren Flut Varuna fährt, der König, der Menschen Recht und Unrecht übersch
 (Те,) что медом сочатся, прозрачные, чистые,  
 Эти божественные воды пусть мне здесь помогут!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

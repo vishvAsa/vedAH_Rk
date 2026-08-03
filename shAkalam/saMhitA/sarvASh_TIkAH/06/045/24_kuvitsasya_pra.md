@@ -3,7 +3,6 @@ title = "024"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-कुवि꣡त्सस्य प्र꣡ हि꣡ व्रजं꣡  
-गो꣡मन्तं दस्युहा꣡ ग꣡मत्  
-श꣡चीभिर् अ꣡प नो वरत्
+कुवि᳓त्सस्य प्र᳓ हि᳓ व्रजं᳓  
+गो᳓मन्तं दस्युहा᳓ ग᳓मत्  
+श᳓चीभिर् अ᳓प नो वरत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कुवित्सस्य- बहुशो हिंसकस्य। गोमन्तं व्रजम्- पिहितचिद्रश्मियुक्तं समूहम्। दस्युहा-  स्तेनभावनानाशकः। प्र- प्रकर्षेण। हि- खलु। गमत्- गतवान्। शचीभिः- प्रज्ञाभिः। नः-  अस्मभ्यम्। अप वरत्- चिद्रश्मीनपावृणोत्॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कुवित्सस्य** । कुविद्बहुशः स्यति हिनस्तीति कुवित्सो नाम कश्चित् । तस्य स्वभूतं **गोमन्तं** बहुभिर्गोभिर्युक्तं **व्रतं** गोष्ठं **दस्युहा** दस्यूनामुपक्षपयितॄणां हन्तेन्द्रः **प्र** **गमत्** प्रकर्षेण गच्छति । । **हि** यस्मादेवं तस्मात् **शचीभिः** आत्मीयैः कर्मभिः प्रज्ञाभिर्वा **नः** अस्माकं ता गा **अप** **वरत्**  निगूढास्ता अपावृणोत् ॥
@@ -181,7 +184,6 @@ with his powers he will open it up.
 <details><summary>Jamison Brereton Notes</summary>
 
 There is some difference of opinion on the source of the apparent indefinite kuvítsa-, a hapax. Geldner (n. 24a) asserts that sasya is the gen. corresponding to sásmin, enclitic after kuvíd (presumably presupposing a notional word space kuvít sasya). But the standard opinion, already registered by Grassmann (← BR; see also explicitly AiG II.1.327, repeated AiG II.2.924), is that it is derived from the univerbation of a syntactic sequence kuvít sá (roughly “is it indeed this one?”), which is then secondarily inflected. This seems the more likely explanation, and in fact there is such a sequence attested in IV.51.4 kuvít sá. This passage contains a deliberative either/or question “should it be the old course or a new one …?” kuvít sá … sanáyo návo vā yā́maḥ, a context that favors development into an indefinite of the type “someone or other.” In fact, our passage might be more clearly rendered as “to the cattle enclosure of someone or other.”
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -215,8 +217,6 @@ Zu einem rinderreichen Stall geh der Dämonentödter hin Und schliess ihn auf f�
 Он откроет (его) для нас (своими) силами.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -237,7 +237,7 @@ Zu einem rinderreichen Stall geh der Dämonentödter hin Und schliess ihn auf f�
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  जो राजा दुष्टजनों को दूर करके न्याय व्यवहार के प्रचार के लिये उत्तम जनों का स्वीकार करता है, वह बड़े सत्य और असत्य का विचार करनेवाला होता है ॥२४॥
+भावार्थभाषाः -  जो राजा दुष्टजनों को दूर करके न्याय व्यवहार के प्रचार के लिये उत्तम जनों का स्वीकार करता है, वह बड़े सत्य और असत्य का विचार करनेवाला होता है ॥२४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -3,7 +3,6 @@ title = "007"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ रिख किकिरा꣡ कृणु  
-पणीनां꣡ हृ꣡दया कवे  
-अ꣡थेम् अस्म꣡भ्यं रन्धय
+आ᳓ रिख किकिरा᳓ कृणु  
+पणीनां᳓ हृ᳓दया कवे  
+अ᳓थेम् अस्म᳓भ्यं रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पणीनाम्- लोभिनाम्। हृदया- हृदयानि। आ रिख- आलिख। कवे- क्रान्तदर्शिन्। किकिरा-  शिथिलानि। कुरु॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **कवे** प्राज्ञ पूषन् **पणीनां** वणिजां **हृदया** हृदयानि **आ** **रिख** आलिख । आलिख्य च **किकिरा** कीर्णानि प्रशिथिलानि **कृणु** कुरु । मृदूनि कुर्वित्यर्थः । अन्यद्गतम् ॥
@@ -172,7 +175,7 @@ This shows the purpose of ārā, to abrade, to smoothen, as an abrasive
 <details><summary>Jamison Brereton</summary>
 
 Shred them, make them shrapnel—the hearts of the niggards, you poet. And make them subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
@@ -209,8 +212,6 @@ Zerreiss, zerschlitz in Fetzen nun der Geiz'gen Herzen, weiser du, Und gib sie h
 И отдай их нам во власть!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -226,12 +227,12 @@ Zerreiss, zerschlitz in Fetzen nun der Geiz'gen Herzen, weiser du, Und gib sie h
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (कवे) विद्वन् ! आप (पणीनाम्) व्यवहार करनेवालों के (किकिरा) व्यवस्थापत्रों को (आ, रिख) सब ओर से लिखो तथा दुष्टों के (हृदया) हृदयों को (रन्धय) अति पीड़ा देओ (अथ) इसके अनन्तर (अस्मभ्यम्) हम लोगों के लिये (ईम्) सुख (कृणु) करो ॥७॥
+पदार्थान्वयभाषाः -  हे (कवे) विद्वन् ! आप (पणीनाम्) व्यवहार करनेवालों के (किकिरा) व्यवस्थापत्रों को (आ, रिख) सब ओर से लिखो तथा दुष्टों के (हृदया) हृदयों को (रन्धय) अति पीड़ा देओ (अथ) इसके अनन्तर (अस्मभ्यम्) हम लोगों के लिये (ईम्) सुख (कृणु) करो ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  राजा वादी और प्रतिवादी अर्थात् झगड़ालु प्रतिझगड़ालूओं का लिखापढ़ी पूर्वक न्याय करे ॥७॥
+भावार्थभाषाः -  राजा वादी और प्रतिवादी अर्थात् झगड़ालु प्रतिझगड़ालूओं का लिखापढ़ी पूर्वक न्याय करे ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

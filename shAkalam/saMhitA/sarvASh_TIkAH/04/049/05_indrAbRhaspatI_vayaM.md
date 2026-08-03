@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राबृ꣡हस्प꣡ती वयं꣡  
-सुते꣡ गीर्भि꣡र् हवामहे  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+इ᳓न्द्राबृ᳓हस्प᳓ती वयं᳓  
+सुते᳓ गीर्भि᳓र् हवामहे  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राबृहस्पती। वयम्। सुते- रसे निष्पन्ने। अस्य- एतस्य। सोमस्य- रसस्य। पीतये- अनुभूतये  गीर्भिः- मन्त्रैः। हवामहे- आह्वयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुते** सोमेऽभिषुते **गीर्भिः** स्तुतिभिः । शिष्टं गतम् ॥
@@ -159,8 +162,6 @@ Wir laden euch durch Lieder ein beim Saft, Indra-Brihaspati, Zu trinken diesen S
 Для питья этого сомы.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राबृहस्पती
@@ -181,7 +182,7 @@ Wir laden euch durch Lieder ein beim Saft, Indra-Brihaspati, Zu trinken diesen S
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  राजा और प्रजाजनों को चाहिये कि परस्पर के सत्कार से बड़े ऐश्वर्य्य का भोग करें ॥५॥
+भावार्थभाषाः -  राजा और प्रजाजनों को चाहिये कि परस्पर के सत्कार से बड़े ऐश्वर्य्य का भोग करें ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

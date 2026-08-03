@@ -1,8 +1,0 @@
-+++
-title = "०६ यावन्तो होमास्तावतीर्हुत्वा पूर्ववद्धोमः"
-
-+++
-6 [^1] . After he has sacrificed as many oblations as there had been sacrifices (left out), the sacrifice (itself goes on) as (stated) above.
-
-
-[^1]:  4, 6. Nārāyaṇa: 'After he has thus taken and sacrificed as many Sruvas full of Ājya as there were sacrifices omitted through his guilt, the morning and evening sacrifices have to be performed as (stated) above (I, 3, 10) with oblations of rice or barley.'

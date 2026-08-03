@@ -3,7 +3,6 @@ title = "026"
 devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अङ्ग꣡ तविषीय꣡स  
-इ꣡न्द्र प्ररा꣡जसि क्षितीः꣡  
-महाँ꣡ अपार꣡ ओ꣡जसा
+य᳓द् अङ्ग᳓ तविषीय᳓स  
+इ᳓न्द्र प्ररा᳓जसि क्षितीः᳓  
+महाँ᳓ अपार᳓ ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। तविषीयसे- बली भवसि। महान्- महात्मा। ओजसा- बलेन। अपारः- अपारणीयः सन्।  क्षितीः- प्रजाः। प्रराजसि- प्रकाशयसि॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अङ्ग** इत्यभिमुखीकरणे । हे **इन्द्र** **यत्** यस्त्वं **तविषीयसे** । तविषीति बलनाम । बलमिवाःचरसि । हस्त्यश्वरथादिकं बलं यथा सर्वं शत्रुजातं भनक्ति तद्वत्त्वमसहाय एव सन् सर्वमेव शत्रुजातं मारयसीत्यर्थः । यश्च त्वं **क्षितीः** । मनुष्यनामैतत् । मनुष्यान् **प्रराजसि** प्रकर्षेणेशिषे । राजतिरैश्वर्यकर्मा । अस्यापि यद्वृत्तयोगान्न निघातः । स इन्द्रः **ओजसा** बलेन **महान्** सर्वेभ्योऽधिकः अत एव **अपारः** पाररहितः । केनाप्यवसानं प्रापयितुमशक्य इत्यर्थः ॥
@@ -145,7 +148,7 @@ _________
 
 When, indeed, you display your power and rule over the settled peoples,  o Indra,  
 great and unbounded in your might,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">
@@ -185,8 +188,6 @@ Wenn du in Wahrheit mächtig bist, und, Indra, alle Welt beherrschst, Gross, une
 О Индра, (и) правишь (всеми) народами,  
 Великий, безграничный в (своей) силе,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो वि꣡श्वेषां᳐ र꣡सम्  
-म꣡ध्वः सिञ्चन्तु अ꣡द्रयः  
-ये꣡ पराव꣡ति सुन्विरे꣡ ज꣡नेषु आ꣡  
-ये꣡ अर्वाव꣡ति इ꣡न्दवः
+आ᳓ नो वि᳓श्वेषां᳐ र᳓सम्  
+म᳓ध्वः सिञ्चन्तु अ᳓द्रयः  
+ये᳓ पराव᳓ति सुन्विरे᳓ ज᳓नेषु आ᳓  
+ये᳓ अर्वाव᳓ति इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अद्रयः- स्थैर्यप्रतीका ग्रावाणः। विश्वेषाम्- सर्वेषाम्। नः- अस्माकम्। मध्वो रसम्।  आ  सिञ्चन्तु। ये। इन्दवः- रसाः। परावति- दूरे। अर्वावति- अन्तिके। जनेषु- विक्षु। आ सुन्विरे-  निष्पन्नाः। ते मादयन्तु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -231,8 +234,6 @@ Ergiessen soll der Steine Schar uns aller Indu's Honigsaft, Der Somatränke, die
 Которые выжимаются далеко у (других) людей,  
 (И) которые вблизи (у нас).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

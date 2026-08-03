@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡प्रं हो꣡तारम् अद्रु꣡हं  
-धूम꣡केतुं विभा꣡वसुम्  
-यज्ञा꣡नां केतु꣡म् ईमहे
+वि᳓प्रं हो᳓तारम् अद्रु᳓हं  
+धूम᳓केतुं विभा᳓वसुम्  
+यज्ञा᳓नां केतु᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विप्रम्- मेधाविनम्। होतारम्- देवाह्वातारम्। अद्रुहम्- द्रोहरहितम्। धूमकेतुम्- धूमेन ज्ञातम्।  धूमादिमार्गवन्तमिति भावः। विभावसुम्- दीप्तधनम्। अर्चिरादिमार्गवन्तमिति भावः। यज्ञानाम्।  केतुम्- प्रज्ञापकम्। ईमहे- याचामहे॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विप्रं** मेधाविनं **होतारं** देवानामाह्वातारम् **अद्रुहम्** अद्रोग्धारं **धूमकेतुं** धूमध्वजं **विभावसुं** दीप्तिधनं **यज्ञानां** **केतुं** पताकास्थानीयमग्निम् **ईमहे** अभीष्टं याचामहे ॥ ॥ ३७ ॥
@@ -143,7 +146,7 @@ _________
 
 The inspired poet, Hotar without deceit, whose beacon is smoke, with  far-radiant goods,  
 the beacon of the sacrifices do we implore:
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
@@ -177,8 +180,6 @@ Den weisen holden Opferer, den rauchumwallten, strahlenden, Des Opfers Fahne geh
 Чье знамя дым, блистательного,  
 Знамя жертв – мы умоляем (его).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
-समुद्र꣡म् इव सि꣡न्धवः  
-जु꣡ष्टो मित्रा꣡य व꣡रुणाय वाय꣡वे  
-दिवो꣡ विष्टम्भ꣡ उत्तमः꣡
+इ᳓न्द्रस्य हा᳓र्दि सोमधा᳓नम् आ᳓ विश  
+समुद्र᳓म् इव सि᳓न्धवः  
+जु᳓ष्टो मित्रा᳓य व᳓रुणाय वाय᳓वे  
+दिवो᳓ विष्टम्भ᳓ उत्तमः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रस्य- ईशनाधिदैवतस्य। हार्दि- हार्दम्। सोमधानम्- भाजनं प्रतीकं वा। सिन्धवः- नद्यः।  समुद्रमिव। आ विश- प्रविश। मित्राय- स्नेहाधिदैवताय। वरुणाय- ऋताधिदैवताय। वायवे-  प्राणाधिदैवताय। जुष्टः- सेवितोसि। दिवः- नभसः। विष्टम्भः- स्थापकोसि। उत्तमः-  श्रेष्ठोसि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वम् **इन्द्रस्य** **हार्दि**, हृदयंगमं हृदयभूतं वा **सोमधानम्** । सोमो निधीयते अस्मिन्निति सोमधानः कलशः । तम् **आ** **विश** प्रविश । तत्र दृष्टान्तः । **समुद्रमिव** यथा समुद्रं **सिन्धवः** नद्यः प्रविशन्ति तद्वत्। कीदृशस्त्वम् । **मित्राय** वरुणाय **वायवे** एतेभ्यः **जुष्टः** पर्याप्तः **दिवः** द्युलोकस्य विष्टम्भः विष्टम्भयिता स्थापयिता **उत्तमः** सर्वेषामुत्कृष्टतमस्त्वं कलशमाविश ॥ ॥ १९ ॥
@@ -213,7 +216,7 @@ Enter into the heart of Indra, the repository of soma, like rivers into  the sea
 being pleasing to Mitra, to Varuṇa, to Vāyu, the highest prop of  
 heaven.  
 Hymns in Assorted Meters: 109–114
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
@@ -248,8 +251,6 @@ In Indra's Leib, der Soma aufnimmt, gehe ein, so wie die Ströme in das Meer, Er
 Привлекательный для Митры, Варуны, Ваю,  
 Высшая опора неба!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

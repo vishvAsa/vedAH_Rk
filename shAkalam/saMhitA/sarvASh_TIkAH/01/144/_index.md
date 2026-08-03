@@ -1,6 +1,5 @@
 +++
 title = "+144"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ As in other of Dīrghatamas’s Agni hymns, the kindling of the ritual fire prov
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४४  दीर्घतमा औचथ्यः।अग्निः। जगती ।
 </details>

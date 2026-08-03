@@ -1,6 +1,5 @@
 +++
 title = "+006"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+006"
 <details><summary>Jamison Brereton</summary>
 
 6 (626)  
-Indra (1–45), Tirindira Pārsavya’s Da ́ ̄nastuti (46–48)  
+Indra (1–45), Tirindira Pārsavya’s Da ́ ̄nastuti (46–48)  
 Vatsa Kāṇva  
 48 verses: gāyatrī, arranged in trcas ̥  
 The Vatsa group contains only one hymn to Indra, but at forty-eight verses it is  one of the longest hymns in the entire R̥gveda. It is thus not surprising that the  hymn is not a tightly structured creation, but a fairly loose collection of three-verse  units treating various aspects of Indra. Nonetheless, certain themes are threaded  through the hymn, in particular the Kaṇvas’ role in strengthening Indra through  their poetry. This is strongly articulated in the first tr̥ca (vss. 1–3), in which the poet  Vatsa himself claims this role in verse 1, alongside his ancestral family in verses  2–3. This last verse contains the striking assertion that the Kaṇvas’ praise is their  “familial weapon,” which they “speak”—an image developed in verses 7–8, where  the Kaṇvas’ insights are blazing missiles. In the next tr̥ca (vss. 10–12) the poetic  “I” (presumably Vatsa) speaks of his poetic heritage. The tr̥ca consisting of verses  19–21 implicitly identifies the verbal products of the Kaṇvas with the physical obla tions of the sacrifice. (And pāda 20c contains a particularly opaque simile, whose  
@@ -25,4 +24,10 @@ The hymn ends with a three-verse dānastuti, which, for a change, is far easier 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६  वत्सः काण्वः।इन्द्रः, ४६-४८ तिरिन्दरः पार्शव्यः। गायत्री ।
 </details>

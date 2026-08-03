@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मर्मृजाना꣡स आय꣡वो  
-वृ꣡था समुद्र꣡म् इ꣡न्दवः  
-अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
+मर्मृजाना᳓स आय᳓वो  
+वृ᳓था समुद्र᳓म् इ᳓न्दवः  
+अ᳓ग्मन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मर्मृजानासः- संशोधिताः। आयवः- गन्तारः। आशवः- वेगसंपन्नाः। इन्दवः- हृदयस्पर्शिनो  रसाः। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। योनिम्- सदनम्। समुद्रम्- हृत्समुद्रम्। आ-  आभिमुख्येन। वृथा- अनायासेन। अग्मन्- गच्छन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मर्मृजानासः** मर्मृज्यमानाः **आयवः** गन्तारः **इन्दवः** सोमाः **वृथा** आयासं विनैव **समुद्रम्** अन्तरिक्षं गच्छन्ति । एतदेव दर्शयति । **ऋतस्य** उदकस्य **योनिं** स्थानम् **अग्मन्** गच्छन्तीति ॥
@@ -148,7 +151,7 @@ _________
 
 Continually being groomed, the lively drops  
 have come at will to the sea, to the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
@@ -175,10 +178,6 @@ Geputzt sind die langlebigen Säfte ausgelassen zum Meere gegangen nach ihrem or
 
 Die Indu's, die gereinigten, die schnellen, sind voll Lust zum Meer Gegangen in des Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

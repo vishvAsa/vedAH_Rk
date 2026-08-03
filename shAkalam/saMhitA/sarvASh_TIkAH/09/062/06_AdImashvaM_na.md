@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईम् अ꣡श्वं न꣡ हे꣡तारो  
-अ꣡शूशुभन्न् अमृ꣡ताय  
-म꣡ध्वो र꣡सं सधमा꣡दे
+आ᳓द् ईम् अ᳓श्वं न᳓ हे᳓तारो  
+अ᳓शूशुभन्न् अमृ᳓ताय  
+म᳓ध्वो र᳓सं सधमा᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आत्- अनन्तरम्। ईम्- एनम्। अश्वं न- तुरगमिव स्थितम्। हेतारः- प्रेरकाः। मध्वो रसम्-  माधुर्यरसम्। अमृताय- अमरणाय। सधमादे- सर्वैः सह मादने। अशूशुभन्- शोभयन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आत्** अनन्तरं **हेतारः** प्रेरका ऋत्विजः **सधमादे** यज्ञे **ईम्** एनं **मध्वः** मदकरस्य सोमस्य **रसम्** **अमृताय** अमरणाय **अश्वं** **न** अश्वमिव **अशूशुभन्** शोभयन्ति ॥
@@ -154,7 +157,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Then, like drivers a horse, they have beautified him for the immortal, the sap of honey for joint revelry.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
@@ -181,10 +184,6 @@ Und sie haben ihn wie die Treiber das Roß für den Unsterblichen schön gemacht
 
 Jetzt schmückten sie des Methes Saft gleich wie ein Ross die Treiber aus, Zum Mahle dem Unsterblichen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

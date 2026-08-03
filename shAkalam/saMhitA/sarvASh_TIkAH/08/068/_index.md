@@ -1,6 +1,5 @@
 +++
 title = "+068"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,7 +20,7 @@ title = "+068"
 <details><summary>Jamison Brereton</summary>
 
 68 (677)  
-Indra (1–13), Dānastuti of R̥ksa and A ̣ ̄svamedha ́ (14–19)  
+Indra (1–13), Dānastuti of R̥ksa and A ̣ ̄svamedha ́ (14–19)  
 Priyamedha Āṅgirasa  
 19 verses: gāyatrī, except anuṣṭubh 1, 4, 7, 10. Verses 1–12 arranged in trcas ̥  
 This hymn falls into two parts. It begins with four tr̥cas (vss. 1–12) dedicated to  Indra, each beginning with an anuṣṭubh verse and continuing in gāyatrī; there fol lows a single appended verse (13) continuing the thought of the previous verse. The  final six verses are a dānastuti to a set of patrons whose names and identities are  not entirely easy to sort out.  
@@ -31,4 +30,10 @@ The Indra portion is conventional, with an emphasis on his extreme power and  mi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६८  प्रियमेध आङ्गिरसः।इन्द्रः, १४-१९ ऋक्षाश्वमेधौ। गायत्री, अनुष्टुम्मुखः प्रगाथः - (अनुष्टुप् + गायत्रयौ)  १,४,७,१० अनुष्टुप्, १६ शंकुमती।
 </details>

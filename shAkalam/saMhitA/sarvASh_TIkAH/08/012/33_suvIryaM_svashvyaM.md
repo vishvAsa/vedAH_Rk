@@ -3,7 +3,6 @@ title = "033"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुवी꣡रियं सुअश्वियं  
-सुग꣡व्यम् इन्द्र दद्धि नः  
-हो꣡तेव पूर्व꣡चित्तये प्र꣡ अध्वरे꣡
+सुवी᳓रियं सुअश्वियं  
+सुग᳓व्यम् इन्द्र दद्धि नः  
+हो᳓तेव पूर्व᳓चित्तये प्र᳓ अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अध्वरे- ध्वरविरोधकर्मणि सर्वभूतहितकर्मणि। पूर्वचित्तये- पूर्वप्रज्ञानाय। होतेव- आह्वाता सन् स्तौमि।  इन्द्र। सुवीर्यं- शोभनवीर्यम्। स्वश्व्यम्- शोभनप्राणतुरगम्। सुगव्यम्-  शोभनधेनूपलक्षितचिद्रश्मियुक्तं धनम्। नः- अस्मभ्यम्। दद्धि- यच्छ। दद दाने॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवीर्यं** शोभनवीर्योपेतं **स्वश्व्यं** शोभनेनाश्वसंघेन च युक्तं **सुगव्यं** शोभनगोसंघयुक्तं च धनं हे **इन्द्र** **नः** अस्मभ्यं दद्धि ददस्व । ‘दद दाने'। अनुदात्तेत् । व्यत्ययेन परस्मैपदम् । छान्दसः शपो लुक्। अहं च **अध्वरे** यागे **होतेव** यथा मानुषो होतर्त्विक् स्तौति एवमेव **पूर्वचित्तये** पूर्वप्रज्ञानायान्येभ्यः स्तोतृभ्यः पूर्वमेवास्मत्स्तोत्रपरिज्ञानाय प्राशंसिषमिति शेषः ॥ ॥ ६ ॥ ॥ २ ॥
@@ -184,7 +187,7 @@ _________
 
 Indra, give to us the possession of good heroes, of good horses, of  good cows,  
 like a Hotar, (for us) to be first in your thought, while the ceremony is  pro(ceeding).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
@@ -218,8 +221,6 @@ So gib uns, Indra, reiche Schar an Söhnen, Rossen, Rindern auch Auf ersten Wuns
 Прекрасными коровами даруй нам, Индра,  
 Чтобы прежде всего обдумать, как хотар во время обряда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+057"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ in return—the two verses being unified by the opening “when praised.” Vers
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५७  मैत्रावरुणर्वसिष्ठः।मरुतः। त्रिष्टुप्।
 </details>

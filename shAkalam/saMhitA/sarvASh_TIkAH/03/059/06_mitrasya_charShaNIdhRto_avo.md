@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्र꣡स्य चर्षणीधृ꣡तो  
-अ꣡वो देव꣡स्य सानसि꣡  
-द्युम्नं꣡ चित्र꣡श्रवस्तमम्
+मित्र᳓स्य चर्षणीधृ᳓तो  
+अ᳓वो देव᳓स्य सानसि᳓  
+द्युम्नं᳓ चित्र᳓श्रवस्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

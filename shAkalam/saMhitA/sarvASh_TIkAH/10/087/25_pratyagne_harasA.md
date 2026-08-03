@@ -3,7 +3,6 @@ title = "025"
 devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡त्य् अग्ने ह꣡रसा ह꣡रः  
-शृणीहि꣡ विश्व꣡तः प्र꣡ति  
-यातुधा꣡नस्य रक्ष꣡सो  
-ब꣡लं वि꣡ रुज वीरि꣡यम्
+प्र᳓त्य् अग्ने ह᳓रसा ह᳓रः  
+शृणीहि᳓ विश्व᳓तः प्र᳓ति  
+यातुधा᳓नस्य रक्ष᳓सो  
+ब᳓लं वि᳓ रुज वीरि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agne ← agní- (nominal stem)  
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक। हरसा- तेजसा। विश्वतः- सर्वतः। हरः- चौर्यम्। प्रति शृणीहि- नाशय।  यातुधानस्य- यातनाधारिणः। रक्षसः- त्याज्यस्य। वीर्यम्। बलम्। वि- विशेषेण। रुज-  भञ्जय॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वं **हरसा** त्वदीयेन तेजसा । तथा च यास्कः -- हरी हरतेर्ज्योतिर्हर उच्यते । (निरु. ४. १९ ) इति । **यातुधानस्य** राक्षसस्य **हरः** हरणशीलं **बलं** **प्रति** **शृणीहि** नाशयेत्यर्थः । तथा **रक्षसः** राक्षसस्य **वीर्यं** च **वि** **रुज** भञ्जय ॥ ॥ ९ ॥
@@ -213,8 +216,6 @@ Zerstör von allen Seiten du, o Agni, Glut durch Flammenglut, Zerbrich die Macht
 У колдуна, у ракшаса!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्नी रक्षोहा
@@ -230,7 +231,7 @@ Zerstör von allen Seiten du, o Agni, Glut durch Flammenglut, Zerbrich die Macht
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  पीड़ा देनेवाले दुष्ट के बल को राष्ट्र का नायक अपने शस्त्रबल और प्रताप से नष्ट करे ॥२५॥
+भावार्थभाषाः -  पीड़ा देनेवाले दुष्ट के बल को राष्ट्र का नायक अपने शस्त्रबल और प्रताप से नष्ट करे ॥२५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+020"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Unlike the usual model, this hymn begins with the prayer for gifts from the god 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra On the metrical irregularities in the hymn, see Oldenberg ZDMG 55.324 and Noten.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २०  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्, ७ विराट्
 </details>

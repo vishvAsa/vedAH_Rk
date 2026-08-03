@@ -3,7 +3,6 @@ title = "011"
 devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡म गीर्भि꣡ष् टुवा वयं꣡  
-वर्ध꣡यामो वचोवि꣡दः  
-सुमॄळीको꣡+ न आ꣡ विश
+सो᳓म गीर्भि᳓ष् टुवा वयं᳓  
+वर्ध᳓यामो वचोवि᳓दः  
+सुमॄळीको᳓+ न आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम। वचोविदः- मन्त्रविदः। वयम्। गीर्भिः- मन्त्रैः। त्वा- भवन्तम्। वर्धयामः। सुमृळीकः-  शोभनानन्दकरः। नः- अस्मान्। अस्मद्धृदयमिति भावः। आ विश- प्रविश॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वा** त्वां **वचोविदः** स्तुतिलक्षणानां वचसां वेदितारः **वयम्** अनुष्ठातारः **गीर्भिः** स्तुतिलक्षणैर्वचोभिः **वर्धयामः** प्रवृद्धं कुर्मः । तादृशस्त्वं च **नः** अस्माकं **सुमृळीकः** शोभनं सुखं कुर्वन् सन् **आ** **विश** आगच्छ । सुमृळीकः ।  ‘ मृड सुखने ' ।  ‘ मृडेः कीकन्ककनौ ' ( उ. सू. ४. ४६४ ) इति भावे कीकन्प्रत्ययः । शोभनं मृडीकं यस्येति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
@@ -164,7 +167,7 @@ _________
 
 Soma, we who know speech strengthen you with our hymns.  
 Very compassionate to us, enter us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
@@ -198,8 +201,6 @@ Wir redekund'gen stärken dich, o Soma, durch der Lieder Schall, Komm reich an G
 Мы усиливаем тебя, сведущие в речи.  
 Сочувственный войди в нас!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

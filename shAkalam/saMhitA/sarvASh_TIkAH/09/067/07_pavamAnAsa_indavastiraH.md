@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानास इ꣡न्दवस्  
-तिरः꣡ पवि꣡त्रम् आश꣡वः  
-इ꣡न्द्रं या꣡मेभिर् आशत
+प᳓वमानास इ᳓न्दवस्  
+तिरः᳓ पवि᳓त्रम् आश᳓वः  
+इ᳓न्द्रं या᳓मेभिर् आशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानासः- पुनाना रसाः। इन्दवः- क्लेदनशीलाः। आशवः- वेगयुक्ताः। पवित्रं तिरः- भाजनं  प्रतीकमतिक्रम्यापि। इन्द्रम्- परमेश्वरम्। यमेभिः- शोभनगतिभिः। आशत- व्याप्नुवन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवित्रम्** ऊर्णास्तुकेन निर्मितं दशापवित्रं **तिरः** तिरस्कृत्य व्यवधायकं कृत्वा **पवमानासः** कलशं प्रति बहुधाराः क्षरन्तः **आशवः** क्षिप्रंमदकारिणश्चमसादीन् व्याप्नुवन्तो वा **इन्दवः** सोमाः **यामेभिः** स्वीयैर्गमनैः **इन्द्रम्** **आशत** व्याप्नुवन्ति ॥
@@ -136,7 +139,7 @@ _________
 
 The self-purifying drops, swift across the filter,  
 have reached Indra on their journeys.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
@@ -173,8 +176,6 @@ Die schnellen Indu's haben schon, hinrieselnd durch das Somasieb, Indra erreicht
 Быстрые, (пройдя) сквозь цедилку,  
 Достигли Индры в (своих) странствиях.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

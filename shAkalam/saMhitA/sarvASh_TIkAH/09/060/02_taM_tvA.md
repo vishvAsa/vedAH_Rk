@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा सह꣡स्रचक्षसम्  
-अ꣡थो सह꣡स्रभर्णसम्  
-अ꣡ति वा꣡रम् अपाविषुः
+तं᳓ त्वा सह᳓स्रचक्षसम्  
+अ᳓थो सह᳓स्रभर्णसम्  
+अ᳓ति वा᳓रम् अपाविषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- तादृशम्। त्वा- भवन्तम्। सहस्रचक्षसम्- अनन्तदर्शनम्। अथो- अपि च। सहस्रभर्णसम्-  अनन्तधारकम्। वारमति- भाजनं प्रतीकमतिक्रम्यापि। अपाविषुः- शोधयन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **सहस्रचक्षसं** बहुदर्शनम् **अथो** अपि च **सहस्रभर्णसं** बहुभरणं **तम्** अभिषुतं **त्वा** त्वां **वारं** वालं दशापवित्रम् **अति** **अपाविषुः** ऋत्विजः पावयन्ति ॥
@@ -153,8 +156,6 @@ The semantic match is also quite imperfect: whatever -bharṇas- means, it is ce
 
 IX,60.2-3: Here the chaining is slightly inexact: 2c áti vā́ram / 3a áti vā́rān, each followed by a verbal form of √pū.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -179,10 +180,6 @@ Dich, den Tausendäugigen und Tausendaufwiegenden haben sie durch die Seihe gel�
 
 Jetzt liessen durch die Wolle sie dich, der du tausend Augen hast Und tausend Gaben, rieseln hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

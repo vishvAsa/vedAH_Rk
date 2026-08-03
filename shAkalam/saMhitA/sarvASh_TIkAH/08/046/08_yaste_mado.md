@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते म꣡दो व꣡रेणियो  
-य꣡ इन्द्र वृत्रह꣡न्तमः  
-य꣡ आददिः꣡ सु꣡वर् नृ꣡भिर्  
-यः꣡ पृ꣡तनासु दुष्ट꣡रः
+य᳓स् ते म᳓दो व᳓रेणियो  
+य᳓ इन्द्र वृत्रह᳓न्तमः  
+य᳓ आददिः᳓ सु᳓वर् नृ᳓भिर्  
+यः᳓ पृ᳓तनासु दुष्ट᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -181,6 +179,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ते- तव। वरेण्यः- श्रेष्ठः। मदः- हर्षः। इन्द्र- परमेश्वर। यः। वृत्रहन्तमः-  अतिशयेनावरणबाधकः। यः। नृभिः- वीरैः। स्वः- दीप्तेः। आददिः- आदाता भवति। यः।  पृतनासु- युद्धेषु। दुस्तरः- अनभिभाव्यः। तस्मै मदाय आ वहन्तु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वमन्त्रे मदाय हरय इत्युक्तं स मदः स्तूयते । हे **इन्द्र** **ते** तव **यः** **मदः** **वरेण्यः** वरणीयः । **यः** च मदः संग्रामे **वृत्रहन्तमः** शत्रूणामतिशयेन हन्ता । **यः** च **आददिः** आदाता **स्वः** स्वरणं धनं **नृभिः** नृभ्यः शत्रुभ्यः । **यः** च **पृतनासु** संग्रामेषु **दुष्टरः** अनभिभाव्यः । तस्मै मदाय हरयो वहन्त्विति ॥
@@ -203,7 +206,7 @@ From men: nṛbhiḥ = śatrubhyaḥ, from your foes
 
 Your exhilaration, which is worthy to be chosen, which is the most  Vr̥tra-smiting, o Indra,  
 which with superior men takes the sun, which is difficult to surpass in  battles—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
@@ -238,8 +241,6 @@ Der Rausch der, Indra, lieb dir ist, und der den Feind am besten schlägt, Der i
 Которое с помощью мужей добывает солнечный свет,  
 Которое трудноодолимо в сражениях,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

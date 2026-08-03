@@ -1,6 +1,5 @@
 +++
 title = "+092"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The last two segments, in uṣṇih meter, to Dawn and the Aśvins respectively 
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn As indicated in the published introduction, vss. 1-4 and 5-8 appear to be parallel hymns, the first with multiple Dawns, the second with just one.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९२   गोतमो राहूगणः। उषाः, १६-१८ अश्विनौ।  १-४ जगती, ५-१२ त्रिष्टुप्, १३-१८ उष्णिक्
 </details>

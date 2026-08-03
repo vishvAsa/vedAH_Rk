@@ -1,6 +1,5 @@
 +++
 title = "+014"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ Agni or various divinities
 As is generally recognized, these two hymns form a pair, and though nominally dedicated to Agni, they are really dawn hymns, with mention of the various divinities appropriate to the dawn sacrifice: Agni, Uṣas, Aśvins, Savitar, Sūrya. The patterning between the hymns gives us one of our rare opportunities to observe how Rigvedic variation-on-a-theme worked in practice, similar to the first few pairs of Vālakhilya hymns.. See the brief remarks in Bloomfield, Rig-Veda Repetitions, p. 13. For a more detailed account of the parallelisms see published introduction. to IV.14 and comments on individual vss. in 14 below. The hymns are most alike at the beginning and end with the middle a fairly free zone. This pattern is similar to what is found in the paired Vālakhilya hymns. See comm. thereon and esp. on VIII.50.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १४  वामदेवो गौतमः। अग्निः (लिङ्गोक्तदेवता इति एके)। त्रिष्टुप्
 </details>

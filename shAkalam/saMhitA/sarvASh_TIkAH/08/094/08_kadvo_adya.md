@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-क꣡द् वो अद्य꣡ महा꣡नां᳐  
-देवा꣡ना᳐म् अ꣡वो वृणे  
-त्म꣡ना च दस्म꣡वर्चसाम्
+क᳓द् वो अद्य᳓ महा᳓नां᳐  
+देवा᳓ना᳐म् अ᳓वो वृणे  
+त्म᳓ना च दस्म᳓वर्चसाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कत्- कदा। वः- युष्माकम्। अद्य- इदानीम्। महानाम्- महताम्। देवानाम्। दस्मवर्चसाम्-  दर्शनीयवर्चसाम्। अवः- रक्षणम्। त्मना- स्वतः। वृणे- वृणोमि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुतः **महानां** मंहनीयानां महतां वा **त्मना** **च** आत्मनैवालंकरणैर्विनापि **दस्मवर्चसां** दर्शनीयतेजस्कानामत एव **देवानां** द्योतमानानां **वः** युष्माकम् **अवः** पालनं **कत्** कदाहं **वृणे** संभजे । वृङ् संभक्तौ' । क्रैयादिकः ॥
@@ -161,7 +164,7 @@ _________
 
 Do I today choose the help of you gods, who are great  
 and by nature of wondrous luster?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
@@ -196,8 +199,6 @@ Wie find' ich heute eure Gunst, die ihr erhabene Götter seid, Und wunderherrlic
 У вас, великих богов,  
 Чей блеск сам по себе удивителен?
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

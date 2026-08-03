@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-धीभि꣡र् हिन्वन्ति वाजि꣡नं  
-व꣡ने क्री꣡ळन्तम् अ꣡त्यविम्  
-अभि꣡ त्रिपृष्ठ꣡म् मत꣡यः स꣡म् अस्वरन्
+धीभि᳓र् हिन्वन्ति वाजि᳓नं  
+व᳓ने क्री᳓ळन्तम् अ᳓त्यविम्  
+अभि᳓ त्रिपृष्ठ᳓म् मत᳓यः स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वने- अरण्ये। क्रीळन्तम्- विहरन्तम्। वाजिनम्- अश्वमिव स्थितम्। अत्यविम्-  रक्षाभूतप्रतीकमतिक्रम्यापि सरन्तं रसम्। धीभिः- चित्तधारणाभिः। हिन्वन्ति- प्रेरयन्ति। मतयः-  भावनाः। त्रिपृष्ठम्- भूर्भुवरादिभूमिकात्रयोत्कृष्टम्। अभि- अभितः। समस्वरन्- स्तुवन्ति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजिनं** बलवन्तं **वने** वननीये वसतीवर्याख्य उदके **क्रीळन्तं** संक्रीडमानम् **अत्यविम्** । अविशब्देन तद्रोमकृतं पवित्रमभिधीयते । अतिक्रान्तपवित्रं सोममृत्विजः **धीभिः** स्तुतिभिः **हिन्वन्ति** वर्धयन्ति । यद्वा । धीभिः । वर्णलोपश्छान्दसः। धीतिभिरङ्गुलीभिर्हिन्वन्ति प्रेरयन्ति । ‘ हि गतौ वृद्धौ च ' स्वादिः। किंच **त्रिपृष्ठम्** । त्रीणि पवित्राणि द्रोणकलशाधवनीय पूतभृदाख्यानि पात्राणि स्पृशतीति त्रीणि सवनानि वा स्पृशतीति स तथोक्तः । तं सोमं **मतयः** स्तुतयः **अभि** **समस्वरन्** अभितः संस्तुवन्ति ॥
@@ -174,7 +177,7 @@ With their fingers: dhībhiḥ = dhītibiḥ; or, by their praises
 
 With insights they impel the prizewinner, playing in the wood, across  the sheep [=fleece].  
 The thoughts sound together toward the three-backed one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
@@ -207,8 +210,6 @@ Mit Andacht spornen sie das Ross, das durch das Sieb zur Kufe springt; Der dreif
 Резвящегося в деревянном (сосуде), (спешащего) через овечью шерсть.  
 Молитвы зазвучали вместе навстречу трехспинному.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

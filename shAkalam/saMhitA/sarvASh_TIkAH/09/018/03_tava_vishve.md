@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व वि꣡श्वे सजो꣡षसो  
-देवा꣡सः पीति꣡म् आशत  
-म꣡देषु सर्वधा꣡ असि
+त᳓व वि᳓श्वे सजो᳓षसो  
+देवा᳓सः पीति᳓म् आशत  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सजोषसः- सहृदयाः। विश्वे- सर्वे। देवासः- देवाः।  तव- भवतः। पीतिम्- अनुभूतिम्। आशते-  सेवन्ते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तव** **पीतिं** पानं **विश्वे** **देवासः** देवाः **सजोषसः** समानप्रीतयः सन्तः **आशत** प्राप्नुवन् ॥
@@ -155,7 +158,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 All the gods, joined in fellowship, have attained the drinking of you. – You are the one who confers wholeness in the raptures of exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
@@ -188,8 +191,6 @@ Die Götter alle im Verein, sie haben deinen Trunk erlangt; Bei den Gelagen sche
 Получили твое питье.  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

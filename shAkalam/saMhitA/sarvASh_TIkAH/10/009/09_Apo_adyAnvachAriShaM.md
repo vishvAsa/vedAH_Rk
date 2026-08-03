@@ -3,7 +3,6 @@ title = "009"
 devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -21,10 +19,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line
 _________
 **Morph**  
 acāriṣam ← √carⁱ- (root)  
@@ -78,7 +76,6 @@ várcasā ← várcas- (nominal stem)
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/023/23_Apo_adyAnvachAriShaM.md"> </div>
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

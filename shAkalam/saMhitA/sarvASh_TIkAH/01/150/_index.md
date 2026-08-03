@@ -1,6 +1,5 @@
 +++
 title = "+150"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A curious pendant to Dīrghatamas’s Agni cycle, with many puzzles despite its 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५०   दीर्घतमा औचथ्यः।अग्निः। उष्णिक्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+028"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ nated, and thus picks up the adjective “bearing offspring” in verses 2 and 7
 <details><summary>Jamison Brereton Notes</summary>
 
 Cows and Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २८  बार्हस्पत्यो भरद्वाजः।गावः, २, ८ इन्द्रो गावो वा। त्रिष्टुप् , २-४ जगती, ८ अनुष्टुप्।
 </details>

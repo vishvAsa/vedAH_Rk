@@ -3,7 +3,6 @@ title = "006"
 devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ या꣡ दा꣡नूनि येम꣡थुर्  
-दिवियाः꣡ पा꣡र्थिवीर् इ꣡षः  
-न꣡भस्वतीर् आ꣡ वां चरन्तु वृष्ट꣡यः
+सं᳓ या᳓ दा᳓नूनि येम᳓थुर्  
+दिवियाः᳓ पा᳓र्थिवीर् इ᳓षः  
+न᳓भस्वतीर् आ᳓ वां चरन्तु वृष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+या- यौ युवाम्। दानूनि- धनानि। दिव्याः। पार्थिवीः- भौमाः। इषः- सदेषणाः। येमथुः-  प्रयच्छथः। नभस्वतीः- आकाशस्थाः। वृष्टयः। वाम्- युवाम्। आ चरन्तु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मित्रावरुणौ यौ युवां **दानूनि** देयानि धनानि **सं** **येमथुः** अस्मासु संयच्छतं तथा **दिव्याः** दिव्यानि दिवि भवानि **पार्थिवीः** पृथिव्यामुत्पन्नानि **इषः** अन्नानि संयच्छतम् । वृष्ट्यभावे कथमन्नं लभ्यत इति चेत् तदुच्यते । **नभस्वतीः** उदकवत्यः **वृष्टयः** तादृशौ **वां** युवाम् **आ** **चरन्तु** उपतिष्ठन्तु । यदा वृष्ट्यवेला तदा वर्षतमित्यर्थः ॥
@@ -172,7 +175,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You two who control the drops, the earthly and heavenly refreshments— let your cloud-accompanied rains drift here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">
@@ -206,8 +209,6 @@ Die ihr des Thaues Tropfen lenkt, des Himmels und der Erde Nass, Es mögen komme
 Небесными (и) земными жертвенными усладами, –  
 Пусть придут (к нам) ваши потоки дождя, сопровождаемые тучами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स्वरा꣡जे अ꣡दिति  
-स्तो꣡मम् इ꣡न्द्राय जीजनत्  
-पुरुप्रशस्त꣡म् ऊत꣡य ऋत꣡स्य य꣡त्
+उत᳓ स्वरा᳓जे अ᳓दिति  
+स्तो᳓मम् इ᳓न्द्राय जीजनत्  
+पुरुप्रशस्त᳓म् ऊत᳓य ऋत᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। स्वराजे- आत्मदीप्त्याम्। अदितिः- अखण्डप्रकृतिः। इन्द्राय। स्तोमम्- मन्त्रम्।  जीजनत्- ससर्ज। यत्। ऋतस्य- सत्यस्य सम्बन्धि। पुरुप्रशस्तिम्- बहुभिः सद्भिः कीर्तितं  तत्समर्पितम्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **अदितिः** अदीना देवमाता अखण्डनीयस्तोता वा **स्वराजे** स्वयमेव राजमानाय **इन्द्राय** पुरुप्रशस्तं बहुलमुत्कृष्टं यद्वा पुरुभिर्बहुभिः प्रशंसितव्यं **स्तोमं** स्तोत्रं **जीजनत्** अजीजनत् अजनयत् । किमर्थम् । **ऊतये** रक्षणार्थम् । **यत्** स्तोत्रम् **ऋतस्य** यज्ञस्य सत्यस्य वा संबन्धि भवति तं स्तोममित्यन्वयः ॥
@@ -173,7 +176,7 @@ Product: or, belongs to the sacrifice, yajñasya **sambandhi** **bhavati**
 <details><summary>Jamison Brereton</summary>
 
 And Aditi gave birth to the praise song for Indra, the sovereign king, (the song) proclaimed by many for his help—(the song) that belongs  to truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
@@ -207,8 +210,6 @@ Und Indra, dem selbstleuchtenden hat Lobsang Aditi erzeugt; Zur Wonne, vielgepri
 Индры создала восхваление  
 Ради (его) помощи, многопрославленную (речь), которая истинна.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+083"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,10 +10,10 @@ title = "+083"
 <details><summary>Jamison Brereton</summary>
 
 83 (795)  
-Soma Pavamāna  
+Soma Pavamāna  
 Pavitra Āṅgirasa  
 5 verses: jagatī  
-A well-known hymn, whose manifold difficulties are also well known. It in many  ways resembles the famous Vena hymn, X.123, which also involves a mystical iden tification between Soma and the sun. The double meanings and enigmas are, as  often, fostered by the suppression of overt reference. Crucial verbs lack expressed  subjects, and unidentified asya “of him/it” substitutes for expressed possession (see  2b, 2c, 3c, 4a). The word sóma does not appear in the hymn at all, nor do his com mon epithets. The hymn has elicited many different and contradictory interpreta tions, to which we add our own.  
+A well-known hymn, whose manifold difficulties are also well known. It in many  ways resembles the famous Vena hymn, X.123, which also involves a mystical iden tification between Soma and the sun. The double meanings and enigmas are, as  often, fostered by the suppression of overt reference. Crucial verbs lack expressed  subjects, and unidentified asya “of him/it” substitutes for expressed possession (see  2b, 2c, 3c, 4a). The word sóma does not appear in the hymn at all, nor do his com mon epithets. The hymn has elicited many different and contradictory interpreta tions, to which we add our own.  
 Attributed to the same poet as IX.73, this hymn shares with that earlier one  the mystical metaphor of the filter (pavítra), which is also the name of the poet.  Indeed, the words “outstretched” and “filter,” construed with each other in the last  verse of IX.73 (vs. 9), open this hymn, and the two verses (73.9 and 83.1) both con  
 cern the qualities required to attain the filter and what it represents. In this hymn  the necessary quality is being cooked, rather than raw; it is somewhat startling to  encounter this whiff of Claude Lévi-Strauss very much avant la lettre. In this con text “cooked” must refer in the first instance to the ritual preparation of soma.  Although this preparation does not involve literal cooking, via application of heat,  it clearly turns the raw material extracted from the natural plant into a cultural  product, both through physical manipulation and through verbal accompaniment.  
 But the filter metaphor has a cosmic dimension, as is especially clear in verse  2, where it is compared to the sun with its rays spread across the sky like the  tracks of the soma across the filter. The “cooking” of verse 1 provides a neat  transition to the “hot one” of verse 2, heat being an obvious characteristic of  the sun.  
@@ -36,4 +35,10 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८३  पवित्र आङ्गिरसः।पवमानः सोमः। जगती।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+009"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+009"
 <details><summary>Jamison Brereton</summary>
 
 9 (721)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 9 verses: gāyatrī  
 Unlike the relatively straightforward preceding hymns, this one is full of puz zles and ambiguities, with the implements and process of soma purification  compared to cosmic entities and actions. Some of the puzzles are illuminated  by the next hymn, IX.10, which is in some ways a more straightforward twin  to this one. This one also appears to be an omphalos hymn, with an inner ring1244 IX.9  
@@ -26,4 +25,10 @@ Sun of verse 3 lights up his mothers; he may also be the Sun in verse 4. In vers
 <details><summary>Jamison Brereton Notes</summary>
 
 On the structure and often puzzling content of this hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

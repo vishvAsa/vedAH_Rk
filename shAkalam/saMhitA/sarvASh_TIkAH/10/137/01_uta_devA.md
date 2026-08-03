@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "भरद्वाजः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ देवा अ꣡वहितं  
-दे꣡वा उ꣡न् नयथा पु꣡नः  
-उता꣡गश् चक्रु꣡षं देवा  
-दे꣡वा जीव꣡यथा पु꣡नः
+उत᳓ देवा अ᳓वहितं  
+दे᳓वा उ᳓न् नयथा पु᳓नः  
+उता᳓गश् चक्रु᳓षं देवा  
+दे᳓वा जीव᳓यथा पु᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ávahitam ← √dhā- 1 (root)  
@@ -187,6 +185,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। देवाः- हे देवताः। अवहितम्- अधोनिहितम्। पुनः। उन्नयथ- उत्थापयथ। उत-  अपि च। देवाः। आगः- पापम्। चकृषम्- कृतवन्तम्। पुनः। जीवयथ- उज्जीवयथ॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **देवाः** **अवहितम्** **उन्नयथ** । **उत** अपि च हे **देवाः** **आगः** अपराधं **चक्रुषं** कृतवन्तं मां तस्मादागसो रक्षत । हे **देवाः** रक्षित्वा च **पुनः** पश्चात् **जीवयथ** चिरजीविनं कुरुत ॥
@@ -228,8 +231,6 @@ Ihr Götter, den gesunkenen hebt ihr, o Götter, wieder auf, Und den, der Sünde
 Даже совершившего грех, о боги,  
 О боги, вы снова возвращаете к жизни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

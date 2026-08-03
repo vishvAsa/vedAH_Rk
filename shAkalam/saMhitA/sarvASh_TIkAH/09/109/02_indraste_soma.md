@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस् ते सोम सुत꣡स्य पेयाः  
-क्र꣡त्वे द꣡क्षाय वि꣡श्वे च देवाः꣡
+इ᳓न्द्रस् ते सोम सुत᳓स्य पेयाः  
+क्र᳓त्वे द᳓क्षाय वि᳓श्वे च देवाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्रत्वे- सत्सङ्कल्पाय। दक्षाय- सामर्थ्याय। सुतस्य- निष्पन्नस्य। ते- तव। इन्द्रः- परमेश्वरः।  पेयाः- पाता भवतु। अनुभवतु। विश्वे च देवाः- सर्वे देवास्त्वामनुभवन्तु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **सुतस्य** अभिषुतस्य **ते** तव स्वं भागम् **इन्द्रः** **पेयाः** पेयात् पिबतु ॥ पातेराशीर्लिंङि रूपम् । पुरुषव्यत्ययः ॥ किमर्थम् । **क्रत्वे** क्रतवे प्रज्ञानाय **दक्षाय** बलाय च । किंच अमी **विश्वे** सर्वे देवाः **च** त्वदीयमंशं पिबन्तु ॥
@@ -152,7 +155,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Indra should drink of you, Soma, when you are pressed, for will and  skill—and (so should) all the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
@@ -183,8 +186,6 @@ Von deinem Safte – mög' Indra trinken, zu Kraft und Stärke – und alle Göt
 Пусть захочет Индра, о сома, выпить  
 Твоего выжатого (сока) для силы духа, силы действия - и Все-Боги!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

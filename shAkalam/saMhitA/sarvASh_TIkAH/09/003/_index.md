@@ -1,6 +1,5 @@
 +++
 title = "+003"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+003"
 <details><summary>Jamison Brereton</summary>
 
 3 (715)  
-Soma Pavamāna  
+Soma Pavamāna  
 Śunaḥśepa Ājiīgarti  
 10 verses: gāyatrī  
 Following the pattern set by IX.1–2, the Anukramaṇī gives as the poet of  this hymn the author of the third collection of hymns in Maṇḍala I  (24–30),  Śunaḥśepa Ājīgarti, also the protagonist of the famous Aitareya Brāhmaṇa story  of father/son sacrifice (AiB VII.13–18), related during the Rājasūya, the Royal  Consecration.  
@@ -27,4 +26,10 @@ m. prn/pronominal adj. eṣá ‘this (one)’ that opens each vs. The first thr
 As was also noted in the published introduction, the maṇḍala’s signature word ‘purify oneself’ is also omnipresent in this hymn, esp. the nom. sg. pres. part. pávamāna- ‘purifying himself’, which opens the pāda in vss. 2(c), 3(b), 4(c), 5(b), 7(c), 8(c); pavítre is found (mid-pāda) in 9, and once again vs. 10 marks a change and a summary, by using the finite form pavate (mid-c). Only vss. 1 and 6 lack a form of √pū. It might be worthy of note (if we understood how this maṇḍala had been assembled) that this flurry of repetitions is the first appearance of the part. pávamāna- in this maṇḍala. The over-abundance of forms of √pū may balance the lack of any overt mention of sóma-.
 
 It can also be noted that the hymn is entirely in the 3rd ps.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३  आजीगर्तिः शुनःशेपः, कृत्रिमो वैश्वामित्रो देवरातः।पवमानः सोमः। गायत्री
 </details>

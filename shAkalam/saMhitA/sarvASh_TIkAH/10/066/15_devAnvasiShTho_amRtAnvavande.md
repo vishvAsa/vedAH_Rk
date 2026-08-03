@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-देवा꣡न् व꣡सिष्ठो अमृ꣡तान् ववन्दे  
-ये꣡ वि꣡श्वा भु꣡वना अभि꣡ प्रतस्थुः꣡  
-ते꣡ नो रासन्ताम् उरुगाय꣡म् अद्य꣡  
-यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+देवा᳓न् व᳓सिष्ठो अमृ᳓तान् ववन्दे  
+ये᳓ वि᳓श्वा भु᳓वना अभि᳓ प्रतस्थुः᳓  
+ते᳓ नो रासन्ताम् उरुगाय᳓म् अद्य᳓  
+यूय᳓म् पात सुअस्ति᳓भिः स᳓दा नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -222,6 +220,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूर्वं व्याख्यातम् (१०.६५.१५)॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वसिष्ठो वसिष्ठकुलजोऽयमृषिरमृतन्मरणरहितान्देवान्ववन्दे। एवमस्तावीत्। ये देवा विश्वा विश्वानि भुवनानि लोकानभि प्रतस्थुः स्वतेजसाभिभवन्ति। अभितः प्रतिष्ठन्तीति वा। प्रपूर्वात्तिष्ठतेर्लिटि रूपम्। समासस्वरः। ते देवा अद्यास्मिन्दिने नोऽस्मभ्यमुरुगायं प्रभूतयशस्कमन्नं रासन्ताम् । प्रयच्छन्तु। हे देवाः यूयम् स्वस्तिभि कल्याणीभिरूतिभिर्नोऽस्मान्सदा सर्वदा पात। रक्षत॥१५॥
@@ -258,10 +261,6 @@ Die unsterblichen Götter hat Vasistha gelobt, die sich über alle Welten erhobe
 
 Die ew'gen Götter hat gerühmt Vasischtha, die alle Wesen weithin überragen, Sie mögen heut uns freie Bahn gewähren. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

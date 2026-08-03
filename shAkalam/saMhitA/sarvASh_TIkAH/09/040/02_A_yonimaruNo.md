@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यो꣡निम् अरुणो꣡ रुहद्  
-ग꣡मद् इ꣡न्द्रं वृ꣡षा सुतः꣡  
-ध्रुवे꣡ स꣡दसि सीदति
+आ᳓ यो᳓निम् अरुणो᳓ रुहद्  
+ग᳓मद् इ᳓न्द्रं वृ᳓षा सुतः᳓  
+ध्रुवे᳓ स᳓दसि सीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अरुणः- सोमः। योनिम्- स्वसदनमृतम्। आ रुहत्- आरोहति। सुतः- निष्पन्नः। वृषा- सोमः।  इन्द्रम्- परमेश्वरम्। गमत्- गच्छति। ध्रुवे- नित्ये। सदसि- सदने। सीदति- स्थापितो  भवति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **अरुणः** अरुणवर्णः सोमः **योनिं** स्थानं द्रोणकलशम् **आ** **रुहत्** आरोहति । ततः **इन्द्रं** **गमत्** गच्छति । कुतः सन् । अयं **वृषा** वर्षकः फलानां **सुतः** अभिषुतः सन् गत्वा **ध्रुवे** **सदसि** स्थिरे स्थाने द्युलोकाख्ये **सीदति** निवसति ॥
@@ -196,10 +199,6 @@ Der Rötliche soll seinen Platz besteigen, der ausgepreßte Bulle soll zu Indra 
 
 Der flammende bestieg den Schooss, zu Indra kam der Stier, erzeugt, Er setzt sich auf den festen Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

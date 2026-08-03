@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ककुहः꣡ सोमियो꣡ र꣡स  
-इ꣡न्दुर् इ꣡न्द्राय पूर्वियः꣡  
-आयुः꣡ पवत आय꣡वे
+ककुहः᳓ सोमियो᳓ र᳓स  
+इ᳓न्दुर् इ᳓न्द्राय पूर्वियः᳓  
+आयुः᳓ पवत आय᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ककुहः- मुख्यः। इन्दुः- क्लेदनशीलः। पूर्व्यः- पुरातनः। आयुः- उज्जीवनमयः। आयवे-  अभिगन्त्रे। इन्द्राय- ईशनाधिदैवताय। सोम्यो रसः। पवते- क्षरति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ककुहः** । सोमः सर्वकर्मकारयितृत्वेन सर्वेषां समुच्छ्रितोऽतिशयितो भवति । सोऽयं **पूर्व्यः** पूर्वैः कृतोऽभिषुतः पूर्वं प्रातःकाले कृतो वा **आयुः** इन्द्रमभिगन्ता **इन्दुः** पात्रेषु क्षरन् **सोम्यः** । ‘ मये च ' ( पा. सू. ४. ४. १३८ ) इति यप्रत्ययः। सोममयः **रसः** **आयवे** सर्वत्र गन्त्रे **इन्द्राय** **पवते** कलशेषु पवित्रेण पूतो भवति । यद्वा । इन्द्रार्थमभिमुखं गच्छति । पवतिर्गतिकर्मा ॥
@@ -147,7 +150,7 @@ _________
 
 The prominent somian sap, the primordial drop  
 purifies itself for Indra—a lively one for a lively one [/Āyu].
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
@@ -184,8 +187,6 @@ Es flammt der beste Somasaft, der Indu frische Lebenskraft Dem Indra und dem Men
 Изначальная капля очищается  
 Для Индры, полная жизни – для полного жизни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

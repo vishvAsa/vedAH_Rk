@@ -3,7 +3,6 @@ title = "004"
 devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शृणुतं꣡ जरितु꣡र् ह꣡वं  
-कृ꣡ष्णस्य स्तुवतो꣡ नरा  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+शृणुतं᳓ जरितु᳓र् ह᳓वं  
+कृ᳓ष्णस्य स्तुवतो᳓ नरा  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कृष्णस्य- आकर्षकस्य। स्तुवतः- स्तोतुः। जरितुः- रसनिष्पादकस्य। हवम्- आह्वानम्। नरा-  नेतारौ। शृणुतम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरा** नरौ सर्वस्य नेतारावश्विनौ **जरितुः** । तच्छीलार्थे तृन् । व्यत्ययेनान्तोदात्तत्वम् । जरितुः स्तवनशीलस्य संप्रति **स्तुवतः** स्तोत्रं कुर्वतः **कृष्णस्य** एतन्नामकस्यर्षेः संबन्धि **हवं** युष्मद्विषयमाह्वानं **शृणुतम्** । यद्वा । जरितुरन्यदेवानां स्तोतुः स्तुवत इदानीं युवयोः स्तोत्रकारिणस्तस्य हवं शृणुतम् । शिष्टं गतम् ॥
@@ -145,7 +148,7 @@ _________
 
 Hear the call of Kr̥ṣṇa the praising singer, o men,  
 to drink of the honeyed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
@@ -179,8 +182,6 @@ Vernehmt den Ruf des preisenden, des Sängers Krischna, Männer ihr, Zum Trunk d
 Восхваляющего (вас) Кришны, о два мужа,  
 Чтобы пить сладкого сому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

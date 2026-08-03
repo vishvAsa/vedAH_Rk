@@ -1,6 +1,5 @@
 +++
 title = "+083"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Battle Fury
 Manyu Tāpasa  
 7 verses: triṣṭubh, except jagatī 1  
 This hymn begins with four verses praising Manyu for his might and victory-bring ing qualities and entreating him to use these qualities against our enemies. The  following three verses (5–7) strike a more personal note, with a 1st-person speaker,  apparently deserted by Manyu for some undetermined reason. The speaker begs  Manyu to return to his side, so that together they can smite the enemy.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८३  मन्युः तापसः। मन्युः। १ जगती, २-७ त्रिष्टुप्
 </details>

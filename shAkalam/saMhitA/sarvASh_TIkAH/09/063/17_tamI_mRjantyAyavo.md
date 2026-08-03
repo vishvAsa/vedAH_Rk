@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ई मृजन्ति आय꣡वो  
-ह꣡रिं नदी꣡षु वाजि꣡नम्  
-इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्
+त᳓म् ई मृजन्ति आय᳓वो  
+ह᳓रिं नदी᳓षु वाजि᳓नम्  
+इ᳓न्दुम् इ᳓न्द्राय मत्सर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तमीम्- अमुमेनम्। हरिम्- आकर्षकम्। वाजिनम्- अश्वमिव स्थितम्। मत्सरम्- हर्षकरम्।  इन्दुम्- क्लेदनशीलं रसम्। इन्द्राय- परमेश्वराय। नदीषु- मूलशक्तिधारासु। मृजन्ति-  शोधयन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हरिं** हरितवर्णं **वाजिनं** बलिनं **मत्सरं** मदकरं **तं** पवमानम् **ईम्** एनम् **इन्दुं** सोमम् **आयवः** मनुष्या ऋत्विजः **नदीषु** वसतीवरीषु **मृजन्ति** मार्जयन्ति ।
@@ -155,7 +158,7 @@ _________
 
 Him do the Āyus groom in the rivers, the tawny prize-seeker,  
 the drop exhilarating to Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
@@ -180,10 +183,6 @@ Ihn machen die Ayu´s sauber, den preisgewinnenden Falben in den Flüssen, den b
 
 Es striegeln ihn die eifrigen, in Strömen ihn, das schnelle Ross, Den Indu, Indra's Wonnetrank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

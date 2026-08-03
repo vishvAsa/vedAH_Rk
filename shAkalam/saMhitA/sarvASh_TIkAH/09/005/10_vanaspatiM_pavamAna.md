@@ -3,7 +3,6 @@ title = "010"
 devataa = "वनस्पतिः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-व꣡नस्प꣡तिम् पवमान  
-म꣡ध्वा स꣡म् अङ्ग्धि धा꣡रया  
-सह꣡स्रवल्शं ह꣡रितम्  
-भ्रा꣡जमानं हिरण्य꣡यम्
+व᳓नस्प᳓तिम् पवमान  
+म᳓ध्वा स᳓म् अङ्ग्धि धा᳓रया  
+सह᳓स्रवल्शं ह᳓रितम्  
+भ्रा᳓जमानं हिरण्य᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 pavamāna ← √pū- (root)  
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सहस्रवल्शम्- सहस्रशाखम्। हरितम्- हरितवर्णम्। भ्राजमानं हिरण्ययम्- शोभमानम्।  वनस्पतिम्- भूरुहं भौमभोगप्रतीकम्। पवमान- पवित्रकर रस। मध्वा- स्वमाधुर्ययुक्तया। धारया।  समङ्ग्धि- सम्यक् अङ्क्ष्व॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम **हरितं** हरितवर्णं **हिरण्ययं** कदाचिद्धिरण्मयवर्णं व **भ्राजमानं** दीप्यमानं **सहस्रवल्शं** सहस्रशाखं **वनस्पतिं** देवं **धारया** धारामयेण **मध्वा** मधुना **समङ्ग्धि**  अङ्क्ष्व । संस्कुर्वित्यर्थः ॥
@@ -186,8 +189,6 @@ Den Waldesbaum, o rieselnder, benetze mit dem süssen Strom, Den goldnen, feuerf
 (Дерево) с тысячей ветвей, зеленое,  
 Сверкающее, золотое!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

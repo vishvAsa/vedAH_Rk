@@ -3,7 +3,6 @@ title = "005"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि तृन्धि पणीना᳐꣡म्  
-आ꣡रया हृ꣡दया कवे  
-अ꣡थेम् अस्म꣡भ्य° रन्धय
+प᳓रि तृन्धि पणीना᳐᳓म्  
+आ᳓रया हृ᳓दया कवे  
+अ᳓थेम् अस्म᳓भ्य° रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कवे- क्रान्तदर्शिन्। पणीनाम्- लोभिनाम्। हृदया- हृदयानि। आरया- प्रतोदेन। परि तृन्धि-  परिविध्य। अथ- अनन्तरम्। ईम्- एतान्। अस्मभ्यम्- अस्मदर्थम्। रन्धय- वशीकुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **कवे** प्राज्ञ पूषन् **पणीनां** वणिजां लुब्धानां **हृदया** हृदयानि कठिनानि **आरया** । सूक्ष्मलोहाग्रो दण्डः प्रतोद इति आरा इति चाख्यायते । तया **परि** **तृन्धि** परिविध्य । हृद्गतं काठिन्यमपनयेत्यर्थः । **अथ** अनन्तरम् **ईम्** एनान् पणीन् **अस्मभ्यं** **रन्धय** वशीकुरु ॥ ॥ १७ ॥
@@ -158,7 +161,7 @@ cavity Su1ryas. ; N. of a tree L. ; N. of a lake KaushUp. ; the plural net **Mar
 
 Bore around the hearts of the niggards with an awl, you poet.  
 And make them subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">
@@ -194,8 +197,6 @@ Durchbohr, o weiser, mit dem Spiess die Herzen du der Geizigen Und gib sie hin i
 И отдай их нам во власть!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -206,12 +207,12 @@ Durchbohr, o weiser, mit dem Spiess die Herzen du der Geizigen Und gib sie hin i
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
-फिर राजा से कौन पीड़ा देने योग्य हैं, इस विषय को कहते हैं ॥
+फिर राजा से कौन पीड़ा देने योग्य हैं, इस विषय को कहते हैं ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (कवे) विद्वन् राजन् ! आप (आरया) उत्तम कोड़ा से (पणीनाम्) द्यूत आदि व्यवहार करनेवाले पुरुषों के (हृदया) हृदयों को (परि, तृन्धि) सब ओर से मारो (अथ) इसके अनन्तर (अस्मभ्यम्) हमारे लिये (ईम्) सब ओर से दुष्टों को (रन्धय) पीड़ित करो और हमारे लिये सुख देओ ॥५॥
+पदार्थान्वयभाषाः -  हे (कवे) विद्वन् राजन् ! आप (आरया) उत्तम कोड़ा से (पणीनाम्) द्यूत आदि व्यवहार करनेवाले पुरुषों के (हृदया) हृदयों को (परि, तृन्धि) सब ओर से मारो (अथ) इसके अनन्तर (अस्मभ्यम्) हमारे लिये (ईम्) सब ओर से दुष्टों को (रन्धय) पीड़ित करो और हमारे लिये सुख देओ ॥५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+175"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ One other feature is worthy of note: the image in verse 3cd, of Indra “firing�
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७५   अगस्त्यो मैत्रावरुणिः।इन्द्रः।। १ स्कंधोग्रीवी बृहती, २-५ अनुष्टुप्, ६ त्रिष्टुप्
 </details>

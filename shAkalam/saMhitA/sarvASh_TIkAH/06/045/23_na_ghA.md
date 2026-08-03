@@ -3,7 +3,6 @@ title = "023"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ घा व꣡सुर् नि꣡ यमते  
-दानं꣡ वा꣡जस्य गो꣡मतः  
-य꣡त् सीम् उ꣡प श्र꣡वद् गि꣡रः
+न᳓ घा व᳓सुर् नि᳓ यमते  
+दानं᳓ वा᳓जस्य गो᳓मतः  
+य᳓त् सीम् उ᳓प श्र᳓वद् गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    वसुः- शरण्यः। गोमतः- चित्प्रकाशयुक्तायाः। वाजस्य- सद्गतेः। वज गतौ। दानम्। न। घ-  खलु। नि यमते- उपरतं करोति। सीम्- सर्वतः। गिरः- अतीन्द्रियश्रुत्युपलक्षितानुभूतीः। उप  श्रवत्- शृणोतु। अनुभवतु॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वसुः** वासयिता स इन्द्रः **गोमतः** बहुभिर्गोभिर्युक्तस्य **वाजस्य** अन्नस्य बलस्य वा **दानं** प्रदानं **न** **घ** न खलु **नि** **यमते** नियच्छति उपरतं करोति । **यत्** यदि **सीम्** इमाः **गिरः** अस्मदीयाः स्तुतीः **उप** **श्रवत्** उपशृणुयात् । स्तोत्रश्रवणे सति सर्वदा ददातीत्यर्थः ॥
@@ -178,7 +181,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The good one will not hold back his gift of a prize of cattle when he will hear these songs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
@@ -212,8 +215,6 @@ Nicht hält der herrliche zurück die Gabe rinderreichen Guts, Sobald er diese L
 Дара в виде награды из коров,  
 Как только он услышит хвалебные песни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+048"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,7 +17,7 @@ title = "+048"
 
 48 (489)  
 Agni (1–10), Maruts (11–12, 20–21), Maruts or  
-Liṅgoktadevatās (13–15), Pūsan (16–19), Maruts or Heaven and ̣ Earth or Pr̥sni (22) ́  
+Liṅgoktadevatās (13–15), Pūsan (16–19), Maruts or Heaven and ̣ Earth or Pr̥sni (22) ́  
 Śaṃyu Bārhaspatya  
 22 verses: various lyric meters, arranged for the most part in pragāthas  
 Another curious hymn, made up of apparently disparate sections and composed  in a variety of different lyric meters. The headnote above reproduces the dedicands  suggested by the Anukramaṇī, but they do not exactly fit the contents of the hymn.  The first ten verses, dedicated to Agni, seem a conventional Agni hymn, the curios  
@@ -32,4 +31,10 @@ The final three verses (20–22) are dedicated to the Maruts. The first two form
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni and Maruts Renou treats this hymn in EVP XV (142-46).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४८  शंयुर्बार्हस्पत्यः (तृणपाणिः)।१-१० अग्निः, ११-१५, २०-२१ मरुतः (१३-१५ लिंगोक्ता वा), १६-१९ पूषा,  २२ द्यवाभूमी वा पृश्निर्वा। प्रगाथः - (१,३बृहती २, ४ सतोबृहती, ५ बृहती, ६ महासतोबृहती, ७  महाबृहती, ८ महासतोबृहती, ९ बृहती, १० सतोबृहती, ११ ककुप् , १२ सतोबृहती), १३ पुरउष्णिक् ,  १४ बृहती, १५ अतिजगती, १६ ककुप्, १७ सतोबृहती, १८ पुरउष्णिक्, १९-२० बृहती, २१ महाबृहती  यवमध्या, २२ अनुष्टुप्।
 </details>

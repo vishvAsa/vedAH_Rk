@@ -1,6 +1,5 @@
 +++
 title = "+159"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ As discussed in the introduction to I.160, this hymn is a virtual twin to the on
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth Alliteration is especially prominent in this hymn: e.g., 2ab ... manye ... máno, mātúr máhi; 3a sūnávaḥ s u ápasaḥ sudáṃsaso; 3d putrásya pāthaḥ padám; 4c návyaṃ-navyaṃ tántum ... tanvate.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५९   दीर्घतमा औचथ्यः।द्यावापृथिवी। जगती।
 </details>

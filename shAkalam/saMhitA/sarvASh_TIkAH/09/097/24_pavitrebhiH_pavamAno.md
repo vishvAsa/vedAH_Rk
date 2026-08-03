@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "कर्णश्रुद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पवि꣡त्रेभिः प꣡वमानो नृच꣡क्षा  
-रा꣡जा देवा꣡नाम् उत꣡ म꣡र्तियानाम्  
-द्विता꣡ भुवद् रयिप꣡ती रयीणा꣡म्  
-ऋत꣡म् भरत् सु꣡भृतं चा꣡रु इ꣡न्दुः
+पवि᳓त्रेभिः प᳓वमानो नृच᳓क्षा  
+रा᳓जा देवा᳓नाम् उत᳓ म᳓र्तियानाम्  
+द्विता᳓ भुवद् रयिप᳓ती रयीणा᳓म्  
+ऋत᳓म् भरत् सु᳓भृतं चा᳓रु इ᳓न्दुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -217,6 +215,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। पवित्रेभिः- कोशैः प्रतीकैः। नृचक्षाः- नृणां द्रष्टा। देवानाम्- अमराणाम्। उत-  अपि च। मर्त्यानाम्। राजा- रञ्जकः। रयीणां रयिपतिः- दानयोग्यसंपत्पालकः। द्विता भुवत्-  अभ्युदयनिःश्रेयससाधको भवति। इन्दुः- क्लेदनशीलो रसः। सुभृतम्- सुष्ठु धृतम्। चारु-  कल्याणम्। ऋतम्- प्रकृतिनियतिभूतसत्यम्। भरत्- भरति॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पवित्रेभिः पवित्रैः पवमानः पूयमानः नृचक्षाः नृणाम्फलाफलयोः द्रष्टा अथ देवाना- मिन्द्रादीनां उतापिच मर्त्यानां मनुष्याणां एवमुभयेषां जनानां राजा रयिपतिः धनस्य- पतिः नत्वल्पस्यपतिः किन्तु रयीणां बहूनां धनानांस्वामी । वृत्यवृत्तिभ्यांस्वामित्वं बाहु- ल्यञ्च विवक्ष्यते । ईदृशः सोमः द्विता द्विधा देवेष्वपिच मनुष्येषु भुवत् भवति । सोय- मिन्दुः सोमः सुभृतं सम्भृतं चारु कल्याणं ऋतमुदकं भरत् बिभर्ति ॥ २४ ॥
@@ -245,7 +248,6 @@ he has become once again the wealth-lord of wealth; the drop bears the  pleasing
 
 The two words making up the VP in d, ṛtám bharat, appear also in vs. 23, though not together (ṛtám ṛtā́ya b, bhāri d). As is pointed out by Hoffmann (implicitly: Injunc. 122 and esp. n. 34) and Ober (II.121), this appears to be an Indo-Iranian phrase, and it thus invests Soma with yet more traditional dignity. The pāda thus deserves a more solemn tr. than I gave it in the published translation - perhaps “the drop bears the dear truth that is well worth the bearing.” Although the morphological means are different, the lexical duplication in both rayipátī rayīṇā́m (c) and ṛtám bharat súbhṛtam (d) gives the end of this tṛca a stately and archaic air.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -255,6 +257,7 @@ habitual/generic, “is” will have to do.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -287,8 +290,6 @@ Der Männer Licht, durch Seihen hell geläutert, der Götter und der Menschen K�
 С самого начала был господином богатств.  
 Сок сомы сохраняет вселенский закон, прекрасно сохраненный, привлекательный.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

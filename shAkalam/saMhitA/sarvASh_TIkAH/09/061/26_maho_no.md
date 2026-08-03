@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-महो꣡ नो राय꣡ आ꣡ भर  
-प꣡वमान जही꣡ मृ꣡धः  
-रा꣡स्वेन्दो वीर꣡वद् य꣡शः
+महो᳓ नो राय᳓ आ᳓ भर  
+प᳓वमान जही᳓ मृ᳓धः  
+रा᳓स्वेन्दो वीर᳓वद् य᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महः- महतीः। रायः- संपदः। नः- अस्मदर्थम्। आ भर- आहर। पवमान- पुनान। मृधः-  हिंसकान्। जहि- नाशय। इन्दो- हृदयक्लेदनशील। वीरवत्- वीर्ययुक्ताम्। यशः- कीर्तिम्। रास्व-  देहि॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** **इन्दो** सोम **नः** अस्माकं **महः** महान्ति **रायः** धनानि **आ** **भर** आहर । **मृधः** हिंसकाञ्छत्रूंश्च **जहि** मारय । **वीरवत्** पुत्राद्युपेतां **यशः** कीर्तिं च **रास्व** अस्मभ्यं देहि ॥
@@ -173,7 +176,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Bring great wealth here to us, self-purifying one; smash the scorners. Give glory in heroes, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
@@ -207,8 +210,6 @@ Bring' grosse Schätze uns herbei, die Feinde schlag', o flammender, Gib, Indu, 
 О Павамана, убей презирающих (нас)!  
 Даруй, о капля, блеск, заключенный в мужах!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

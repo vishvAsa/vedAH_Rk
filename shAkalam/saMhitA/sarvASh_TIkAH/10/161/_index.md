@@ -1,6 +1,5 @@
 +++
 title = "+161"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Against Disease
 Yakṣṃanāśana Prājāpatya  
 5 verses: triṣṭubh, except anuṣṭubh 5  
 With Atharvaveda parallels (AVŚ III.11.1–4, VIII.1.20; AVP I.62), this charm  announces the restoration to life, indeed long life, of a man who has succumbed to  some disease or other (vs. 1).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १६१  प्राजापत्यो यक्ष्मनाशनः। इन्द्राग्नी, राजयक्ष्मघ्नं वा।  त्रिष्टुप्, ५ अनुष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+088"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+088"
 <details><summary>Jamison Brereton</summary>
 
 88 (800)  
-Soma Pavamāna  
+Soma Pavamāna  
 Uśanas Kāvya  
 8 verses: triṣṭubh  
 This hymn is structured by a series of similes; only the first verse lacks an explicit  simile. Many of the similes also involve identification of Soma with other divinities  (see esp. vss. 3–5, 7), and so the powers and mythological deeds of these gods are  implicitly attributed to Soma by way of these comparisons.  
@@ -37,4 +36,10 @@ The section containing Triṣṭubh hymns
 These three hymns are attributed to Uśanas Kāvya, probably on the basis of the mention of his name in 87.3.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८८  उशना काण्वः।पवमानः सोमः। त्रिष्टुप्।
 </details>

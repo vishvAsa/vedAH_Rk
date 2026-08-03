@@ -3,7 +3,6 @@ title = "014"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा दधिअ꣡ङ्ङ् ऋ꣡षिः  
-पुत्र꣡ ईधे अ꣡थर्वणः  
-वृत्रह꣡णम् पुरंदर꣡म्
+त᳓म् उ त्वा दधिअ᳓ङ्ङ् ऋ᳓षिः  
+पुत्र᳓ ईधे अ᳓थर्वणः  
+वृत्रह᳓णम् पुरंदर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्। त्वा- त्वाम्। दध्यङ्- धारणावान्। अथर्वणः पुत्रः- योगिनः सन्ततिभूतः। ऋषिः-  सूक्ष्मदर्शी। वृत्रहणम्- आवरणनाशकम्। पुरन्दरम्- बन्धनाशकम्। ईदे- उद्दीपितवान्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने य उक्तगुणः **तमु** तमेव त्वाम् **अथर्वणः** **पुत्रः** **दध्यङ्** एतत्संज्ञः **ऋषिः** **ईधे** दीपितवान् । कीदृशम् । **वृत्रहणम्** आवरकाणां शत्रूणां हन्तारं **पुरंदरम्** असुरपुराणां दारयितारम् ॥
@@ -160,7 +163,7 @@ _________
 
 You did Dadhyañc, the seer, son of Atharvan, kindle  
 as obstacle-smasher, stronghold-splitter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
@@ -196,8 +199,6 @@ Und dich entflammte Dadhiank, der Seher, des Atharvan Sohn, Der Feind' du schlä
 Риши Дадхьянч, сын Атхарвана,  
 (Тебя,) убийцу врагов, проломителя крепостей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

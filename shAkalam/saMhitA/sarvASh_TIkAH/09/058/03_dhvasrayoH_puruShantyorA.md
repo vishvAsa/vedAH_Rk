@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ध्वस्र꣡योः पुरुष꣡न्तियोर्  
-आ꣡ सह꣡स्राणि दद्महे  
-त꣡रत् स꣡ मन्दी꣡ धावति
+ध्वस्र᳓योः पुरुष᳓न्तियोर्  
+आ᳓ सह᳓स्राणि दद्महे  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ध्वस्रयोः पुरुषन्त्योः- वृत्रध्वंसकपुरुदायकयोः। वृत्रध्वंसकोऽत्रेन्द्रो भवितुमर्हति। पुरुदायको  विष्णुर्वा वरुणो वा भवितुमर्हति। सहस्राणि- अनन्तसम्पदः। आदुद्महे- प्रतिगृह्णीमः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ध्वस्रयोः** **पुरुषन्त्योः** । ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् । तयोरुभयोः । अत्र इतरेतरयोगविवक्षया द्विवचनं द्रष्टव्यम् । **सहस्राणि** धनानां सहस्राणि **आ** **दद्महे** वयं प्रतिगृह्णीमः । तदस्माभिः प्रतिगृहीतं धनमुत्तममस्त्विति ऋषिः सोमं प्रार्थयत इति सोमस्य स्तुतिः । सिद्धमन्यत् । यथावत्सार एतयोर्धनानि प्रतिजग्राह एवं तरन्तपुरुमीळ्हौ प्रतिजगृहतुः । तथा च शाट्यायनकम्--- ‘ अथ ह वै तरन्त पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषन्त्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्माङ्गुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतञ्चतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं स यः  प्रतिगृह्य कामयेत' इत्यादि ॥
@@ -152,7 +155,7 @@ Dhvasra and Puruṣanti: two kings who conferred great wealth on Taranta and Pur
 
 At (the hands of) Dhvasra and Puruṣanti we take thousands.  
 – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
@@ -183,10 +186,6 @@ Von Dhvasra und Purusanti empfangen wir Tausende. - Er gelange über das Wasser,
 
 Von den beiden, Dhvasra und Puruschanti haben wir tausende empfangen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

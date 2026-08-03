@@ -1,6 +1,5 @@
 +++
 title = "+008"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The ritual action depicted in both parts is the erecting, anointing, and wrappin
 <details><summary>Jamison Brereton Notes</summary>
 
 Sacrificial Post On the structure of this hymn, see the published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८  गाथिनो विश्वामित्रः।यूपः, ६-१० यूपाः, ८ विश्वे देवा वा, ११ व्रश्चनः । त्रिष्टुप्, ३,७ अनुष्टुप्।
 </details>

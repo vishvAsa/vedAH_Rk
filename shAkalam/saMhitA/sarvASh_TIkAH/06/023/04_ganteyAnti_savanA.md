@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ग꣡न्ता इ꣡यान्ति स꣡वना ह꣡रिभ्याम्  
-बभ्रि꣡र् व꣡ज्रम् पपिः꣡ सो꣡मं ददि꣡र् गाः꣡  
-क꣡र्ता वीरं꣡ न꣡रियं स꣡र्ववीरं  
-श्रो꣡ता ह꣡वं गृणत꣡ स्तो꣡मवाहाः
+ग᳓न्ता इ᳓यान्ति स᳓वना ह᳓रिभ्याम्  
+बभ्रि᳓र् व᳓ज्रम् पपिः᳓ सो᳓मं ददि᳓र् गाः᳓  
+क᳓र्ता वीरं᳓ न᳓रियं स᳓र्ववीरं  
+श्रो᳓ता ह᳓वं गृणत᳓ स्तो᳓मवाहाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -233,6 +231,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    इयन्ति- हृदयस्थानानि। सवना- सम्भजनानि। हरिभ्याम्- प्राणाश्वाभ्याम्। गन्ता-  अभिगमनशीलः। वज्रं बभ्रिः- वज्रधारकः। सोमं पपिः- रसानुभवकरः। गाः ददिः- धेनूनां  चिद्रश्मीनां दाता। सर्ववीरम्- सर्ववीर्यसम्पन्नस्य। नर्यं- नरहितस्य। वीरम्- वीरस्य। कर्ता।  गृणतः- स्तुवतः। हवम्- आह्वानस्य। श्रोता। स्तोमवाहाः- मन्त्रवाहकश्च भवति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रः **हरिभ्यां** स्वकीयाभ्याम् **इयन्ति** हृदयस्थानि त्रीणि **सवना** सवनानि **गन्ता** गमनशीलो भवतु । कीदृशः । **वज्रं** स्वकीयमायुधं **बभ्रिः** भर्ता धारकः **सोमम्** अभिषुतं **पपिः** पाता **गा**। ददिः दाता **नर्यं** मनुष्यहितं **सर्ववीरं** बहुपुत्रोपेतं **वीरं** पुत्रं **कर्ता** यजमानाय दाता **गृणतः** स्तुवतः स्तोतुः संबन्धि **हवं** स्तोत्रं **श्रोता** श्रावकः **स्तोमवाहाः** स्तोमैः स्तोत्रैर्वहनीयः ॥
@@ -250,7 +253,7 @@ _________
 
 Going to even such pressings as these with his two fallow bays, bearing  his mace, drinking soma, giving cows,  
 who makes the manly hero possessed of hale heroes, the hearer of the  singer’s call, for praise songs are his vehicle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">
@@ -285,8 +288,6 @@ Zu schwachem Trank auch kommt er mit den Füchsen, den Blitz im Arm, trinkt Soma
 Делать мужественного героя отцом только мужского потомства,  
 Слышать зов воспевателя, когда притягивает хвала.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

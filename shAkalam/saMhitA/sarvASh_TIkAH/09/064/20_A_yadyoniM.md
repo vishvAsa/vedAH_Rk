@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ य꣡द् यो꣡निं हिरण्य꣡यम्  
-आशु꣡र् ऋत꣡स्य सी꣡दति  
-ज꣡हाति अ꣡प्रचेतसः
+आ᳓ य᳓द् यो᳓निं हिरण्य᳓यम्  
+आशु᳓र् ऋत᳓स्य सी᳓दति  
+ज᳓हाति अ᳓प्रचेतसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। हिरण्ययम्- ज्योतिर्मयम्। ऋतस्य योनिम्- ऋतसदनम्। आशुः- सोमः। आ सीदति-  निषीदति। तदा। अप्रचेतसः- प्रज्ञारहितान्। जहाति- विसृजति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा **आशुः** वेगवान् सोमः **ऋतस्य** यज्ञस्य **हिरण्ययं** हिरण्मयं **योनिं** स्थानम् । ‘ हिरण्यपाणिरभिषुणोति' इत्युक्तम्। **आ** **सीदति** तदानीम् **अप्रचेतसः** **जहाति** विसृजति । अस्तोतॄणां यज्ञं नाभिगच्छति किंतु स्तोतॄणामेव यज्ञमभिगच्छतीत्यर्थः ॥ ॥ ३९ ॥
@@ -154,7 +157,7 @@ I.e., he does not approach the sacrifice of those who do not worship; he only ap
 
 When the swift one sits on the golden womb of truth,  
 he leaves behind the undiscerning.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
@@ -182,10 +185,6 @@ Wenn der Rasche in seinen ordnungsgemäßen goldenen Schoß sich setzt, so verl�
 Wenn in des Opfers goldnen Schooss sich niederlässt das schnelle Ross, So lässt die Thoren es im Stich.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -196,12 +195,12 @@ Wenn in des Opfers goldnen Schooss sich niederlässt das schnelle Ross, So läss
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यत्) जब (आशुः) अतिवेग गतिशील परमात्मा (ऋतस्य हिरण्ययं योनिं) हिरण्मयी यज्ञवेदी को (आसीदति) प्राप्त होता है, तब (अप्रचेतसः)असमाहित लोगों के अन्तःकरणों को (जहाति) छोड़ देता है॥२०॥
+पदार्थान्वयभाषाः -  (यत्) जब (आशुः) अतिवेग गतिशील परमात्मा (ऋतस्य हिरण्ययं योनिं) हिरण्मयी यज्ञवेदी को (आसीदति) प्राप्त होता है, तब (अप्रचेतसः)असमाहित लोगों के अन्तःकरणों को (जहाति) छोड़ देता है॥२०॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  तात्पर्य यह है कि ज्ञान से प्रकाशित अन्तःकरणों को परमात्मा अपनी शक्ति से विभूषित करता है, अज्ञानावृत अन्तःकरणों को नहीं, इसीलिये यहाँ “अप्रेचतसः जहाति” यह लिखा है। वास्तव में परमात्मा न किसी स्थान को छोड़ता है, न पकड़ता है॥२०॥
+भावार्थभाषाः -  तात्पर्य यह है कि ज्ञान से प्रकाशित अन्तःकरणों को परमात्मा अपनी शक्ति से विभूषित करता है, अज्ञानावृत अन्तःकरणों को नहीं, इसीलिये यहाँ “अप्रेचतसः जहाति” यह लिखा है। वास्तव में परमात्मा न किसी स्थान को छोड़ता है, न पकड़ता है॥२०॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡षम् ऊ꣡र्जं च पिन्वस  
-इ꣡न्द्राय मत्सरि꣡न्तमः  
-चमू꣡षु आ꣡ नि꣡ षीदसि
+इ᳓षम् ऊ᳓र्जं च पिन्वस  
+इ᳓न्द्राय मत्सरि᳓न्तमः  
+चमू᳓षु आ᳓ नि᳓ षीदसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मत्सरिन्तमः- अतिशयेन हर्षकरः। इन्द्राय- ईशनाधिदैवताय। इषम्- सत्कामनाम्। ऊर्जं-  शक्तिम्। च। पिन्वसे- क्षरसि। चमूषु- भाजनेषु प्रतीकेषु। आ- आभिमुख्येन। नि षीदसि-  उपविशसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मत्सरिन्तमः** अतिशयेन मदयितृतमस्त्वम् **इन्द्राय** इन्द्रार्थम् **इषम्** अन्नम् **ऊर्जं** रसं **च** **पिन्वसे** क्षरसि । अपि च **चमूषु** चमसेषु **आ** **नि** **षीदसि** तिष्ठसि ॥
@@ -152,7 +155,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You swell refreshment and nourishment; most exhilarating for Indra, you sit down here in the cups.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
@@ -178,10 +181,6 @@ Labsal und Stärkung gibst du in Fülle, für Indra der Berauschendste. Du setze
 
 Du lässest schwellen Kraft und Saft dem Indra, o berauschendster, In Schalen lässt du nieder dich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

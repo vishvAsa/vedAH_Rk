@@ -1,6 +1,5 @@
 +++
 title = "+036"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ Since Śyāvāśva is best known for his Marut cycle in the Vth Maṇḍala (V.5
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra The meter of vss. 1-6 of this hymn is analyzed by Arnold (p. 248, E73) as consisting of 6 pādas: 12 12 / 8 8 8 8, and this arrangement of the stanzas is followed by Holland & van Nooten Rig Veda edition. Oldenberg disputes this, suggesting instead 12 8 4 / 8 12 4 8. (On the lack of accent on śatakrato, which he takes as a separable 4-syll. sequence, see his remarks on II.22.3.) Among other things, this division allows sám apsujít to be an independent sequence, as it is in its occurrences in Uṣṇih, VIII.13.2 and IX.106.3. On this expression see comm. ad VIII.13.2.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३६  श्यावाश्व आत्रेयः।इन्द्रः । शक्वरी, ७ महापङ्क्तिः।
 </details>

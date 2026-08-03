@@ -1,6 +1,5 @@
 +++
 title = "+090"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -13,7 +12,7 @@ title = "+090"
 <details><summary>Jamison Brereton</summary>
 
 90 (606)  
-Vāyu (1–4), Indra and Vāyu (5–7)  
+Vāyu (1–4), Indra and Vāyu (5–7)  
 Vasiṣṭha Maitrāvaruṇi  
 7 verses: triṣṭubh  
 The split dedication to Vāyu, then Indra and Vāyu reflects the ritual fact noted  often elsewhere, that the first offerings of soma at the Morning Pressing are made  to Vāyu alone and then to Indra and Vāyu jointly. This ritual purpose is announced  quite clearly in the first verse, and, as often in Vāyu hymns, the invitation is followed  by the god’s journey to the sacrifice. As often also in Vāyu hymns the poet makes  productive use of the ambiguity between Vāyu’s “teams,” his wind-horses (see vs.  3), and ours, the poetic thought we deploy, and in verse 5 the priests and poets actu  
@@ -24,4 +23,10 @@ As befits the early morning setting of the ritual, Dawn is prominent in the hymn
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu / Indra and Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९०  मैत्रावरुणर्वसिष्ठः।वायुः, ५-७ इन्द्रवायू। त्रिष्टुप्।
 </details>

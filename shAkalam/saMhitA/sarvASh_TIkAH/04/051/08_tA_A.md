@@ -3,7 +3,6 @@ title = "008"
 devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ आ꣡ चरन्ति समना꣡ पुर꣡स्तात्  
-समान꣡तः समना꣡ पप्रथानाः꣡  
-ऋत꣡स्य देवीः꣡ स꣡दसो बुधाना꣡  
-ग꣡वां न꣡ स꣡र्गा उष꣡सो जरन्ते
+ता᳓ आ᳓ चरन्ति समना᳓ पुर᳓स्तात्  
+समान᳓तः समना᳓ पप्रथानाः᳓  
+ऋत᳓स्य देवीः᳓ स᳓दसो बुधाना᳓  
+ग᳓वां न᳓ स᳓र्गा उष᳓सो जरन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ताः। पुरस्तात्- प्रत्यक्षतः। आ- सर्वतः। चरन्ति- सरन्ति। समना- सहृदयाः। समानतः समना-  समभावनया सचित्ताः। पप्रथानाः- प्रथमानाः। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। देवीः- देव्यः।  सदसः- सदः। बुधानाः- बोधयन्त्यः। गावां न सर्गाः- रश्मिसर्गा धेनुसर्गा इव। जरन्ते-  स्तूयन्ते॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ताः** उषसः **आ** सर्वतः **चरन्ति** । **समना** सर्वतः समाना: **पुरस्तात्** पूर्वस्यां दिशि **समानतः** समानाद्देशात् अन्तरिक्षात् **समना** सर्वतः **पप्रथानाः** प्रथमाना: **ऋतस्य** यज्ञस्य **सदसः** सदः । तत्रत्यम् ऋत्विग्घविरादिकम् इत्यर्थः । **बुधानाः** बोधयन्त्यः ॥ अन्तर्भावितण्यर्थोऽयम् ॥ एवं महानुभावाः **उषसो** **जरन्ते** स्तूयन्ते । **गवां** **सर्गाः** **न** उदकानां सृष्टय इव।  ‘ गवां सर्गा न रश्मयः ' ( ऋ. सं. ४. ५२. ५) इति हि श्रुतम् । ता यथा सर्वत्र प्रसंगादुपकारत्वाच्च स्तूयन्ते तद्वत् ॥
@@ -225,7 +228,7 @@ Rays: gavām sargā na raśmayaḥ: RV. 4.52.5
 
 They proceed, in the same way, from the east, spreading out from the  same place in the same way.  
 The Goddess Dawns, awakening from the seat of truth, like gushes of  cows, become wakeful.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
@@ -258,8 +261,6 @@ Sie wandern herwärts allzumal von Osten auf gleiche Weise allesammt sich breite
 Пробуждаясь с сиденья закона, богини  
 Ушас, бодры, словно выпущенное стадо коров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

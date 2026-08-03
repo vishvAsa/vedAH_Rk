@@ -3,7 +3,6 @@ title = "014"
 devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ मर्मृजत ददृवां꣡सो अ꣡द्रिं  
-त꣡द् एषाम् अन्ये꣡ अभि꣡तो वि꣡ वोचन्  
-पश्व꣡यन्त्रासो अभि꣡ कार꣡म् अर्चन्  
-विद꣡न्त ज्यो꣡तिश् चकृप꣡न्त धीभिः꣡
+ते᳓ मर्मृजत ददृवां᳓सो अ᳓द्रिं  
+त᳓द् एषाम् अन्ये᳓ अभि᳓तो वि᳓ वोचन्  
+पश्व᳓यन्त्रासो अभि᳓ कार᳓म् अर्चन्  
+विद᳓न्त ज्यो᳓तिश् चकृप᳓न्त धीभिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- अङ्गिरस उपासकाः। अद्रिम्- गिर्युपलक्षितजडम्। ददृवांसः- विदारयन्तः। मर्मृजत-  अशोधयन्। एषाम्- एतेषाम्। तत्- तच्छोभनं कर्म। अन्ये- इतर उपासकाः। अभितः- सर्वत्र।  वि- विशेषेण। वोचन्- अवदन्। पश्वयन्त्रासः- चिद्रश्म्युपलक्षितधेनुविमोचनोद्यमयुक्ता मुनयः।  कारम्- विमोचनकरमग्निम्। अभि अर्चन्- अभ्यपूजयन्। ज्योतिः- प्रकाशम्। विदन्त- अलभन्त।  धीभिः। चकृपन्त- उपासनमकुर्वन्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ते** अङ्गिरसः **अद्रिं** पणिभिरपहृतानां गवां निरोधकं पर्वतं **ददृवांसः** विदारयन्तः सन्तः **मर्मृजत** अग्निं पर्यचरन् । **एषाम्** अङ्गिरसां **तत्** तादृशं कर्म **अन्ये** महर्षयः **अभितः** सर्वत्र जगति **वि** **वोचन्** विशेषेणाकथयन् । **पश्वयन्त्रासः** पशुनिर्गमनार्थानि यन्त्राण्युपाया येषां तेऽङ्गिरसः **कारम्** अभिमतस्य प्रयोजनस्य कर्तारमग्निम् **अभि** **अर्चन्** अस्तुवन् । ततस्तमोपहम् आदित्याख्यं **ज्योतिः** **विदन्त** अलभन्त । ततः **धीभिः** बुद्धिभिः **चकृपन्त** यज्ञानकुर्वन् । मर्मृजत ।' मृजू शुद्धौ । यङ्लुकि लङि व्यत्ययेनात्मनेपदम्। निघातः । चकृपन्त ।  ‘ कृपू सामर्थ्ये'। ण्यन्तस्य लुङि चङि सन्वद्भावाभावश्छान्दसः ।
@@ -260,8 +263,6 @@ In c we return to the Aṅgirases, whose singing opens the Vala cave -- hence �
 The hapax cmpd. paśváyantra- is puzzling in formation and sense, although the parts it is based on are relatively clear. The 1st member is paśu- ‘livestock’ or a derivative thereof, the 2nd is or contains yantrá- ‘binding rope’. The interpr. comes down to deciding which is the lesser of two evils: positing an otherwise unattested extended stem paśvá- beside paśú- but a relatively conventional bahuvrīhi ‘having binding ropes for the livestock’ or rejecting the extended stem but ending up with an anomalously formed and accented bahuvrīhi. Oldenberg argues strenuously for the former, with the rather cumbersome tr. “in ihren Vorrichtungen zum Festhalten … das Vieh haltend,” and some version of this analysis is followed by Hoffmann and Witzel Gotō. Geldner and Renou (the latter with some hesitation) opt for the latter, with Geldner suggesting a reverse bahuvrīhi (for ayantra-paśu-). (He cagily fails to accent it.) In the end I swallow some version of the second analysis, primarily because I find it unlikely that such a common word as paśú- would display an unnecessary extended stem in just this place in all of Sanskrit, particularly because there’s little metrical advantage to it here. However, I do not follow Geldner’s reverse bahuvrīhi interpr. (roughly, “having livestock loosed from the binding ropes”), but assume that it is the Aṅgirases who lack yantra-s to bind the cattle and do so with song instead. (This interpr. goes back to Bergaigne; see Oldenberg SBE ad loc.) That some form of verbal expression could serve as a yantrá- is shown by the cmpd. ślóka-yantra- (IX.73.6) ‘having ślokas as binding ropes’. Unfortunately I do not see how to make this explanation work formally, particularly with regard to accent, esp. as there exists a differently accented privative cmpd. ayantrá- in X.46.6. I leave it at this, unsatisfactorily.
 
 In terms of the structure of the vs., I now think the odd pādas (a, c) refer to the Aṅgirases and the even ones (b, d) to the current singers. I would therefore slightly modify the published translation, which presents pāda d as if it were the direct speech -- the song -- of the Aṅgirases described in c. I now think d is what the other, current poets were said to proclaim in b.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
@@ -301,8 +302,6 @@ Sie schmückten sich, als sie gesprengt den Felsen; dies Werk der Väter priesen
 Они нашли свет, сбылись их поэтические мысли.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -318,7 +317,7 @@ Sie schmückten sich, als sie gesprengt den Felsen; dies Werk der Väter priesen
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जो हम लोगों के मनन करने और पालन करनेवाले (अद्रिम्) मेघ के (ददृवांसः) तोड़नेवाले किरणों के सदृश हम लोगों को (मर्मृजत) शुद्ध होकर शुद्ध करते हैं (एषाम्) इसके मध्य में (अन्ये) दूसरे लोग (तत्) इस कारण (अभितः) चारों ओर से सम्मुख (वि, वोचन्) उपदेश देते (पश्वयन्त्रासः) देखे हैं, यन्त्र जिन्होंने ऐसे होते हुए (कारम्) शिल्पकृत्य का (अभि, अर्चन्) सत्कार करते (धीभिः) बुद्धियों वा कर्मों से (ज्योतिः) प्रकाश को (विदन्त) जानने और सबों में (चकृपन्त) कृपालु होते हैं (ते) वे सब लोगों से सत्कार पाने योग्य होवें ॥१४॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो हम लोगों के मनन करने और पालन करनेवाले (अद्रिम्) मेघ के (ददृवांसः) तोड़नेवाले किरणों के सदृश हम लोगों को (मर्मृजत) शुद्ध होकर शुद्ध करते हैं (एषाम्) इसके मध्य में (अन्ये) दूसरे लोग (तत्) इस कारण (अभितः) चारों ओर से सम्मुख (वि, वोचन्) उपदेश देते (पश्वयन्त्रासः) देखे हैं, यन्त्र जिन्होंने ऐसे होते हुए (कारम्) शिल्पकृत्य का (अभि, अर्चन्) सत्कार करते (धीभिः) बुद्धियों वा कर्मों से (ज्योतिः) प्रकाश को (विदन्त) जानने और सबों में (चकृपन्त) कृपालु होते हैं (ते) वे सब लोगों से सत्कार पाने योग्य होवें ॥१४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

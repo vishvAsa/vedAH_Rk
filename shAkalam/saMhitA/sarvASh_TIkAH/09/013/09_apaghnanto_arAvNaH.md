@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अपघ्न꣡न्तो अ꣡रावणः  
-प꣡वमानाः सुवर्दृ꣡शः  
-यो꣡नाव् ऋत꣡स्य सीदत
+अपघ्न᳓न्तो अ᳓रावणः  
+प᳓वमानाः सुवर्दृ᳓शः  
+यो᳓नाव् ऋत᳓स्य सीदत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अराव्णः- अदायकान्। अपघ्नन्तः- नाशयन्तः। पवमानाः- पूयमानाः। स्वदृ᐀्शः- स्वर्गदर्शकाः।  ऋतस्य योनौ- प्रकृतिनियतिभूतसत्यसदने। सीदत- निषीदत॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमानाः** **अराव्णः** अदानानयजमानान् **अपघ्न्तः** हिंसन्तः **स्वर्दृशः** सर्वत्र द्रष्टारश्च यूयम् **ऋतस्य** **योनौ** यज्ञस्य स्थाने **सीदत** । अथवा । सोमपानार्थमुक्तलक्षणा देवा ऋतस्य योनौ सीदतेति योज्यम् ॥ ॥ २ ॥
@@ -138,7 +141,7 @@ Pure libations: or, this verse may be addressed to the gods who are invited to p
 <details><summary>Jamison Brereton</summary>
 
 Striking away the non-givers, purifying yourselves, looking like the sun, sit on the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
@@ -170,8 +173,6 @@ Fortschlagend die, die gottlos sind, ihr sonnengleichen, rieselnden, Im Schooss 
 О Павамана, видящие солнце,  
 Усаживайтесь на лоно закона!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

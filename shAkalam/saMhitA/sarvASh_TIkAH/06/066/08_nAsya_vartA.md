@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡स्य वर्ता꣡ न꣡ तरुता꣡ नु꣡ अस्ति  
-म꣡रुतो य꣡म् अ꣡वथ वा꣡जसातौ  
-तोके꣡ वा गो꣡षु त꣡नये य꣡म् अप्सु꣡  
-स꣡ व्रजं꣡ द꣡र्ता पा꣡रिये अ꣡ध द्योः꣡
+ना᳓स्य वर्ता᳓ न᳓ तरुता᳓ नु᳓ अस्ति  
+म᳓रुतो य᳓म् अ᳓वथ वा᳓जसातौ  
+तोके᳓ वा गो᳓षु त᳓नये य᳓म् अप्सु᳓  
+स᳓ व्रजं᳓ द᳓र्ता पा᳓रिये अ᳓ध द्योः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -257,6 +255,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजसाते- वृष्ट्यादिसम्पल्लम्भके वृत्रैर्जनिते युद्धे। यम्। अवथ- रक्षथ। अस्य- तस्य। वर्ता-  प्रेरकः। नास्ति। स्वतः सरतीति भावः। तरुता- हिंसकः। न कोप्यस्ति। तोके तनये-  धर्मसन्ततिनिमित्ते। गोषु- धेनुषु चिद्रिश्मिषु। अप्सु- मूलशक्तिधारासु निमित्तासु। यं रक्षथ। सः।  पार्ये- पारणीये वृत्रैर्जनिते युद्धे। द्योः व्रजम्- चिद्रश्मिसमूहबन्धकस्य। दर्ता- दारयिता भवति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुतः** **वाजसातौ** संग्रामे **यम्** **अवथ** रक्षथ **अस्य** जनस्य **वर्ता** प्रेरकः **न** **अस्ति** । अस्य **तरुता** **नु** हिंसिता च **न** अस्ति । **अध** अपि च **तोके** पुत्रे **तनये** पौत्रे धने वा **गोषु** **वा** **अप्सु** वा निमित्तभूतेषु 'यम् अवथ **सः** **पार्ये** संग्रामे **द्योः** दीप्तस्यापि विजिगीषोर्वा शत्रोः **व्रजं** गवां संघं **दर्ता** दारयिता भवति ॥
@@ -281,7 +284,7 @@ Dyoḥ = vijigiṣor vā śatroḥ, of one desirous to overcome, or an enemy
 
 There exists now no one to obstruct, no one to overcome him whom  you aid in the winning of prizes, o Maruts,  
 whom (you aid in the winning) of progeny, of cows, of descendants, of  waters. He is the splitter of the (cow)pen just then at the decisive end  of the day.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -315,8 +318,6 @@ Kein Gegner ist für den und kein Besieger, wen ihr, o Maruts, schützt im Kampf
 Или в отношении потомства, коров, продолжения рода, кому – в (завоевании) вод.  
 Он разобьет загон (с коровами) в решающий (час) дня.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

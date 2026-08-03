@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय म꣡द्वने सुत꣡म्  
-प꣡रि ष्टोभन्तु नो गि꣡रः  
-अर्क꣡म् अर्चन्तु कार꣡वः
+इ᳓न्द्राय म᳓द्वने सुत᳓म्  
+प᳓रि ष्टोभन्तु नो गि᳓रः  
+अर्क᳓म् अर्चन्तु कार᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मद्वने- हर्षयुक्ताय। इन्द्राय। सुतम्- निष्पन्नं रसम्। नः- अस्माकम्। गिरः- वाचः। परि  स्तोभन्तु- स्तुवन्तु। अर्कं- पूज्यम्। कारवः- कर्मशीलाः। अर्चन्तु- पूजयन्तु॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मद्वने** । माद्यतेः क्वनिप् । मदनशीलाय **इन्द्राय** तदर्थं सुतम् अभिषुतं सोमं **नः** अस्मदीयाः **गिरः** स्तुतिलक्षणा वाचः **परि** **ष्टोभन्त** । स्तोभतिः स्तुतिकर्मा। परितः सोमं स्तुवन्तु । ततः **कारवः** स्तुतिकारिणः स्तोतारश्च **अर्कं** सर्वैरर्चनीयं सोमम् **अर्चन्तु** पूजयन्तु ॥
@@ -171,10 +174,6 @@ Dem sich gern berauschenden Indra sollen unsere Loblieder rings um den ausgepre�
 
 Rings um des lust'gen Indra Trank ertöne unsrer Lieder Schall; Die Sänger singen Lobgesang.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

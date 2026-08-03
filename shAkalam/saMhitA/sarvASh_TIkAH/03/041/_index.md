@@ -1,6 +1,5 @@
 +++
 title = "+041"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ like that hymn this one entirely lacks praise of the god, reference to his past 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४१  गाथिनो विश्वामित्रः।इन्द्रः। गायत्री
 </details>

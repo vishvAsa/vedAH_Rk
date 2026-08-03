@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आत्मा꣡ यज्ञ꣡स्य रं꣡हिया  
-सुष्वाणः꣡ पवते सुतः꣡  
-प्रत्नं꣡ नि꣡ पाति का꣡वियम्
+आत्मा᳓ यज्ञ᳓स्य रं᳓हिया  
+सुष्वाणः᳓ पवते सुतः᳓  
+प्रत्नं᳓ नि᳓ पाति का᳓वियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञस्य- देवपूजाया दानस्य सङ्गतिकरणस्य। आत्मा- स्वरूपभूतः। सुष्वाणः- प्रेरयन्। सुतः-  निष्पादितः सन्। रंह्या- वेगेन। पवते- क्षरति। प्रत्नम्- पुरातनम्। काव्यम्- दर्शनम्। नि पाति-  नितरां पालयति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञस्य** **आत्मा** आत्मभूतः **सुतः** अभिषुतः सोमः **सुष्वाणः** यजमानेभ्यः कामान् प्रेरयन **रंह्या** वेगेन **पवते** क्षरति । **प्रत्नं** पुरातनं **काव्यम्** आत्मनः कवित्वं च **नि** **पाति** अभिरक्षति ॥
@@ -153,7 +156,7 @@ _________
 
 The embodiment of the sacrifice, the pressed soma, having been pressed,  purifies himself at speed.  
 He protects the age-old poetic skill.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
@@ -189,8 +192,6 @@ Als Opfers Seele rieselt er in Eile, der gepresste Trank, Er schützt die alte S
 Выжатый, очищается сома.  
 Он охраняет древнее поэтическое искусство.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्रा꣡य प꣡ञ्च येमिरे  
-ज꣡ना अभि꣡ष्टिशवसे  
-स꣡ देवा꣡न् वि꣡श्वान् बिभर्ति
+मित्रा᳓य प᳓ञ्च येमिरे  
+ज᳓ना अभि᳓ष्टिशवसे  
+स᳓ देवा᳓न् वि᳓श्वान् बिभर्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

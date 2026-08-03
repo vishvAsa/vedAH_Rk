@@ -1,6 +1,5 @@
 +++
 title = "+014"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The gāyatrī meter and tr̥ca structure, combined with the conversational tone 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४  गोषूक्त्यश्वसूक्तिनौ काण्वायनौ। इन्द्रः। गायत्री।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+036"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Indra, the soma (vs. 1), the sacrificial offerings (vs. 2), and the songs (vs. 3
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३६  नरो भारद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

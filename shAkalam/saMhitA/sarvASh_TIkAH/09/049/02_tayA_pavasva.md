@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡या पवस्व धा꣡रया  
-य꣡या गा꣡व इहा꣡ग꣡मन्  
-ज꣡न्यास उ꣡प नो गृह꣡म्
+त᳓या पवस्व धा᳓रया  
+य᳓या गा᳓व इहा᳓ग᳓मन्  
+ज᳓न्यास उ᳓प नो गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,9 +147,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जन्यासः- आविर्भूताः। गावः- चित्किरणाः। यया। इह- अत्र। नः- अस्माकम्। गृहम्- सदनम्।  उप आगमन्- आगच्छन्ति। तया। धारया। पवस्व- क्षर॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-हे सोम त्वं **तया** तादृश्या **धारया** **पवस्व** क्षर। कीदृश्येत्यत्राह। **यया** यादृश्या त्वदीयया धारया **जन्यासः** जन्याः शत्रुजनपदभवाः **गावः** **इह** अस्मिँल्लोके **नः** अस्माकं संबन्धि **गृहम्** **उप** **आगमन्** उपागच्छन्ति ॥
+हे सोम त्वं **तया** तादृश्या **धारया** **पवस्व** क्षर। कीदृश्येत्यत्राह। **यया** यादृश्या त्वदीयया धारया **जन्यासः** जन्याः शत्रुजनपदभवाः **गावः** **इह** अस्मिल्ँलोके **नः** अस्माकं संबन्धि **गृहम्** **उप** **आगमन्** उपागच्छन्ति ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -192,10 +195,6 @@ Läutere dich in diesem Strome, mit dem die Rinder anderer Leute hierher kommen 
 
 Mit solchem Strome riesle hell, durch welchen Rinder kommen her In unser Haus, vorzügliche.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

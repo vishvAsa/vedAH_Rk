@@ -3,7 +3,6 @@ title = "023"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ ग꣡व्यानि वीत꣡ये  
-नृम्णा꣡ पुनानो꣡ अर्षसि  
-सन꣡द्वाजः प꣡रि स्रव
+अभि᳓ ग᳓व्यानि वीत᳓ये  
+नृम्णा᳓ पुनानो᳓ अर्षसि  
+सन᳓द्वाजः प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनानः- पवमानः। सनद्वाजः- दीयमानान्नः सन्। वीतये- अनुभूतये। नृम्णा- वीर्याणि। गव्यानि-  चिद्रश्मिमयानि। अभि- अभितः। परि स्रव- परितः क्षर॥२३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **पुनानः** पूयमानो यस्त्वं **वीतये** भक्षणाय **गव्यानि** गोसंबन्धीनि **नृम्णा** नृम्णानि धनानि क्षीरादीनि **अभि** **अर्षसि** अभिगच्छसि स त्वं **सनद्वाजः** दीयमानान्नः सन् **परि** **स्रव** परिक्षर ॥
@@ -149,7 +152,7 @@ _________
 
 You rush to pursue bovine (goods) and manly powers, while being  purified.  
 Winning the prizes, flow around.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
@@ -176,10 +179,6 @@ Um die Kuhgewinne, um Manneskräfte zu erjagen rinnst du dich läuternd. Laufe a
 
 Du strömest flammend Rinderschar und Manneskraft zum Mahl herbei, Uns Kraft verleihend fliesse rings.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

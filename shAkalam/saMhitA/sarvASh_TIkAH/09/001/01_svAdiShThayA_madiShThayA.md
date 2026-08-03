@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स्वा꣡दिष्ठया म꣡दिष्ठया  
-प꣡वस्व सोम धा꣡रया  
-इ꣡न्द्राय पा꣡तवे सुतः꣡
+स्वा᳓दिष्ठया म᳓दिष्ठया  
+प᳓वस्व सोम धा᳓रया  
+इ᳓न्द्राय पा᳓तवे सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -116,6 +114,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। इन्द्राय- ईशनाधिदैवताय। पातवे- अनुभवाय। सुतः- निष्पन्नः। स्वादिष्ठया-  स्वादुतमया। मदिष्ठया- अतिशयनेन हर्षतृप्तिदया। धारया- विच्छित्तिरहितधारया। पवस्व-  प्रवह॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **इन्द्राय** **पातवे** पातुं **सुतः** अभिषुतः त्वं स्वादिष्ठया स्वादुतमया **मदिष्ठया** अतिशयेन मादयित्र्या **धारया** **पवस्व** क्षर ॥
@@ -138,7 +141,7 @@ _________
 
 Purify yourself in the sweetest, most exhilarating stream, Soma,  
 when you are pressed for Indra to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">
@@ -174,8 +177,6 @@ Im Strom, o Soma, riesle hin, im lieblichsten, im süssesten, Dem Indra zum Genu
 Выжатый Индре для питья!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -191,7 +192,7 @@ Im Strom, o Soma, riesle hin, im lieblichsten, im süssesten, Dem Indra zum Genu
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हेसौम्यस्वभाव परमात्मन् !(स्वादिष्ठया) आनन्द के बढ़ानेवाले (मदिष्ठया,धारया) आह्लाद के वर्द्धक स्वभाव से आप हमें (पवस्व) पवित्र करें, जो स्वभाव आप का (इन्द्राय) ऐश्वर्य्य के (पातवे) बढ़ाने के लिये (सुतः) प्रसिद्ध है॥१॥
+पदार्थान्वयभाषाः -  (सोम) हेसौम्यस्वभाव परमात्मन् !(स्वादिष्ठया) आनन्द के बढ़ानेवाले (मदिष्ठया,धारया) आह्लाद के वर्द्धक स्वभाव से आप हमें (पवस्व) पवित्र करें, जो स्वभाव आप का (इन्द्राय) ऐश्वर्य्य के (पातवे) बढ़ाने के लिये (सुतः) प्रसिद्ध है॥१॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

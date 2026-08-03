@@ -1,6 +1,5 @@
 +++
 title = "+134"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+134"
 <details><summary>Jamison Brereton</summary>
 
 134  
-Vāyu  
+Vāyu  
 Paruchepa Daivodāsi  
 6 verses: atyaṣṭi  
 As in most Vāyu hymns, the overriding focus here is on Vāyu’s journey to the early morning sacrifice and his right to drink first of the soma. The setting of the hymn  at dawn is conveyed by verses 3–4, and the priestly gifts that are distributed at this  morning ritual are alluded to in verses 1–3.
@@ -20,4 +19,10 @@ As in most Vāyu hymns, the overriding focus here is on Vāyu’s journey to the
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३४  परुच्छेपो दैवोदासिः।वायुः । अत्यष्टिः, ६ अष्टिः
 </details>

@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था म꣡नौ वि꣡वस्वति  
-सो꣡मं शक्रा꣡पिबः सुत꣡म्  
-य꣡था त्रिते꣡ छ꣡न्द इन्द्र जु꣡जोषसि  
-आयउ꣡ मादयसे स꣡चा
+य᳓था म᳓नौ वि᳓वस्वति  
+सो᳓मं शक्रा᳓पिबः सुत᳓म्  
+य᳓था त्रिते᳓ छ᳓न्द इन्द्र जु᳓जोषसि  
+आयउ᳓ मादयसे स᳓चा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शक्र- शक्त। इन्द्र। यथा। मनौ- विदुषि। विवस्वति- परिचरति। सोमम्- रसम्। सुतम्-  निष्पन्नम्। अपिबः- अन्वभवः। यथा। त्रिते- भूर्भुवःसुवरुपलक्षितान्नप्राणमनस्थात्मोपासके।  छन्दः- गूढम्। जुजोषसि- सेवसे। तथा। आयौ- मनुष्ये मयि। सचा- सह। मादयसे-  तुष्यसि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -224,8 +227,6 @@ Wie du, o starker, bei dem Manu, dem Sohne des Vivasvat, den gepressten Soma get
 Как у Триты, о Индра, ты наслаждаешься стихами,  
 (Так) опьяняешься ты вместе с Аю.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,5 +1,0 @@
-+++
-title = "०३ गृह्यमग्निं बाह्यत उपसमाधाय"
-
-+++
-3. Having established the (sacred) domestic fire outside, and having mixed together fried grain and the flour of fried barley with butter, he sacrifices - 

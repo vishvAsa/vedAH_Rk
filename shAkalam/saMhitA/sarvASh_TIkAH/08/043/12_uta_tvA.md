@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा न꣡मसा वयं꣡  
-हो꣡तर् व꣡रेणियक्रतो  
-अ꣡ग्ने समि꣡द्भिर् ईमहे
+उत᳓ त्वा न᳓मसा वयं᳓  
+हो᳓तर् व᳓रेणियक्रतो  
+अ᳓ग्ने समि᳓द्भिर् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। होतः- देवाह्वातः। वरेण्यक्रतो- श्रेष्ठसङ्कल्प। त्वा- त्वाम्। वयम्। समिद्भिः। ईमहे-  याचामहे॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **होतः** देवानां ह्वातः **वरेण्यक्रतो** वरणीयप्रज्ञ **अग्ने** **त्वा** त्वां **वयम्** आङ्गिरसाः **नमसा** अन्नेन हविषा **समिद्भिः** च **ईमहे** याचामहे ॥
@@ -187,8 +190,6 @@ Und dir, o Agni, nahen wir, o Priester von erwünschter Kraft, In Ehrfurcht mit 
 О хотар с избранной силой духа,  
 О Агни, приближаемся с дровами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

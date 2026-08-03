@@ -3,7 +3,6 @@ title = "001"
 devataa = "भाववृत्तं"
 RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
-त꣡पसो꣡ ऽधि अजायत  
-त꣡तो रा꣡त्री अजायत  
-त꣡तः समुद्रो꣡ अर्णवः꣡
+ऋतं᳓ च सत्यं᳓ चाभी᳓द्धात्  
+त᳓पसो᳓ ऽधि अजायत  
+त᳓तो रा᳓त्री अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 abhī̀ddhāt ← √idh- 1 (root)  
@@ -181,11 +179,16 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अभीद्धात्- अभितो दीप्यमानात्। तपसः- औष्ण्यादित्याधिभौतिके। सङ्कल्पमयात्तपस  इत्याध्यात्मिके। ऋतं च- प्रकृतिनियतिश्च। सत्यं च- सर्वनामरूपानुगतसत्तामात्रता च।  अध्यजायत- प्रादुर्भूते। ततः- अनन्तरम्। रात्रिः- अन्धकारः। अजायत- उद्भूतः। ततः-  अनन्तरम्। समुद्रः अर्णवः- मूलशक्तिधारा अजायन्त॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ऋतम् इति तृचम् एकोनचत्वारिंशं सूक्तं मधुच्छन्दसः पुत्रस्याघमर्षणस्यार्षम् आनुष्टुभम्। रात्र्यादीनां भावानां सृष्ट्य्-आदि-प्रतिपादकत्वात् तादृग्-रूप एवार्थो देवता। तथा चानुक्रान्तम् -  
 
-&gt; ऋतं माधुच्छन्दसोऽघमर्षणो भाव-वृत्तम् आनुष्टुभं त्व् 
+> ऋतं माधुच्छन्दसोऽघमर्षणो भाव-वृत्तम् आनुष्टुभं त्व् 
 
 इति। लिङ्गाद् विनियोगो ऽवगन्तव्यः॥
 
@@ -250,8 +253,6 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 Из него родилась ночь,  
 Из него – волнующийся океан.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

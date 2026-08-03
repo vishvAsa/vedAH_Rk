@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-जु꣡ष्ट इ꣡न्द्राय मत्सरः꣡  
-प꣡वमान क꣡निक्रदत्  
-वि꣡श्वा अ꣡प द्वि꣡षो जहि
+जु᳓ष्ट इ᳓न्द्राय मत्सरः᳓  
+प᳓वमान क᳓निक्रदत्  
+वि᳓श्वा अ᳓प द्वि᳓षो जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राय- परमेश्वराय। जुष्टः- सेवितः। मत्सरः- हर्षकरः। पवमानः- पुनानो रसः। कनिक्रदत्-  शब्दं करोति। विश्वा द्विषः- सर्वान् शत्रून्। अप जहि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्राय** **जुष्टः** प्रियः पर्याप्तः **मत्सरः** सोमो भवतीति शेषः। 'मत्सरः सोमो मन्दतेस्तृप्तिकर्मणः ' (निरु. २.५) इति निरुक्तम् । हे **पवमान** त्वं **कनिक्रदत्** शब्दयन् **विश्वाः** **द्विषः** सर्वानस्माकं द्वेष्टॄन् **अप** **जहि** ॥
@@ -147,7 +150,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Pleasing to Indra, exhilarating, constantly roaring—o self-purifying one, strike away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
@@ -179,8 +182,6 @@ Berauschend und dem Indra lieb, laut wiehernd schlag', o rieselnder, Die Feinde 
 О Павамана, громко ревущий,  
 Разбей всех врагов!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

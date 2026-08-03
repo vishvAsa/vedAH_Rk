@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,15 +11,14 @@ ChandaH = "शक्वरी"
 - छन्दः - शक्वरी
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्जा꣡ देवाँ꣡ अ꣡वसि ओ꣡जसा तुवा꣡म्  
-पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
-यं꣡ ते भाग꣡म् अ꣡धारयन्  
-वि꣡श्वाः सेहानः꣡ पृ꣡तना  
-उरु꣡ ज्र꣡यः स꣡म् अप्सुजि꣡न्  
-मरु꣡त्वाँ इन्द्र सत्पते
+ऊर्जा᳓ देवाँ᳓ अ᳓वसि ओ᳓जसा तुवा᳓म्  
+पि᳓बा सो᳓मम् म᳓दाय कं᳓ शतक्रतो  
+यं᳓ ते भाग᳓म् अ᳓धारयन्  
+वि᳓श्वाः सेहानः᳓ पृ᳓तना  
+उरु᳓ ज्र᳓यः स᳓म् अप्सुजि᳓न्  
+मरु᳓त्वाँ इन्द्र सत्पते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -276,6 +274,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऊर्जा- बलेन प्राणेन। देवान्। ओजसा- तेजसा। अवसि- रक्षसि। त्वामपि स्वयमेव रक्षसि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **देवान्** **ऊर्जा** अन्नेन हविषा **अवसि** रक्षसि । **त्वाम्** अपि **ओजसा** बलेन अवसि । सिद्धमन्यत् ॥
@@ -294,7 +297,7 @@ _________
 With nourishment you help the gods, with strength you help yourself. – O you of a hundred resolves, for exhilaration drink the soma that they  fixed as your portion—  
 you winning all battles, (winning) the broad expanse, entirely victorious  amid the waters, accompanied by the Maruts, o Indra, master of  
 settlements.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/036/02-03.md">
@@ -331,8 +334,6 @@ Mit Stärkung labst die Götter du, mit Kraft dich selbst, den Soma trink zum Ra
 Завоевавший широкий простор и все воды  
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

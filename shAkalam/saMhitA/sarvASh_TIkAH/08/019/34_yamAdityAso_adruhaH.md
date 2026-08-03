@@ -3,7 +3,6 @@ title = "034"
 devataa = "आदित्याः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् आदित्यासो अद्रुहः  
-पारं꣡ न꣡यथ म꣡र्तियम्  
-मघो꣡नां᳐ वि꣡श्वेषां᳐ सुदानवः
+य᳓म् आदित्यासो अद्रुहः  
+पारं᳓ न᳓यथ म᳓र्तियम्  
+मघो᳓नां᳐ वि᳓श्वेषां᳐ सुदानवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वेषाम्- सर्वासाम्। मघोनाम्- सम्पदाम्। सुदानवः- शोभनदातारः। आदित्यासः- हे  अखण्डप्रकृतिजाः। अद्रुहः- द्रोहरहिताः। मर्त्यं- मनुष्यम्। पारम्। नयथ- प्रापयथ॥३४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रुहः** अद्रोग्धारः हे **सुदानवः** हे **आदित्यासः** अदितेः पुत्रा मित्रादयः **मघोनां** हविष्मतां **विश्वेषां** सर्वेषां मध्ये **यं** **मर्त्यं** मनुष्यं यजमानं **पारं** **नयथ** आरब्धस्य कर्मणः समाप्तिं प्रापयथ । स तत्फलं लभत इत्यर्थः ॥
@@ -150,7 +153,7 @@ When you conduct to the limit: yam nayatha pāram, whom you ledto the opposite b
 
 O you Ādityas without deceit—the mortal whom you lead to the  far shore—  
 you who are the best givers among all the generous—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
@@ -184,8 +187,6 @@ Welche Sterblichen ihr, o wohlwollende, gabenreiche Aditja's, über alle Gewalth
 Перевозите на другой берег,  
 С прекрасными дарами среди всех щедрых покровителей...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

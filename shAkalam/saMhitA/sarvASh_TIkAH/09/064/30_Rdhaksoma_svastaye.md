@@ -3,7 +3,6 @@ title = "030"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ऋध꣡क् सोम सुअस्त꣡ये  
-संजग्मानो꣡ दिवः꣡ कविः꣡  
-प꣡वस्व सू꣡रियो दृशे꣡
+ऋध᳓क् सोम सुअस्त᳓ये  
+संजग्मानो᳓ दिवः᳓ कविः᳓  
+प᳓वस्व सू᳓रियो दृशे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋधक्- वर्धयन्। सोम- रस। स्वस्तये- मङ्गळाय। संजग्मानः- सङ्गच्छन्। दिवः- चिदाकाशात्।  कविः- क्रान्तदर्शी सन्। सूर्यः- आत्मसूर्यज्योतियुक्तः सन्। दृशे- अनुभूतये। पवस्व- क्षर॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **कविः** क्रान्तः **सूर्यः** सुवीर्यस्त्वम् **ऋधक्** ऋध्नुवन् । तथा च यास्कः-‘ऋधगिति पृथग्भावस्यानुप्रवचनं भवत्यथाप्यृध्नोत्यर्थे दृश्यते' (निरु. ४. २५ ) इति । **संजग्मानः** संगच्छमानः **स्वस्तये** **दृशे** दर्शनाय च **दिवः** **पवस्व** क्षर ॥ ॥ ४१ ॥
@@ -185,10 +188,6 @@ O Soma, nachdem du dich richtig zum Heil vereinigt hast, du der Seher des Himmel
 
 Gesondert, Soma, und vereint, du Himmels Sänger, ströme hell Zum Heil, der Sonne gleich zu schaun.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

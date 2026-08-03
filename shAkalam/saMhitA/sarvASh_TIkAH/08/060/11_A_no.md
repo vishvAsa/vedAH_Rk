@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो अग्ने वयोवृ꣡धं  
-रयि꣡म् पवाक+ शं꣡सियम्  
-रा꣡स्वा च न उपमाते पुरुस्पृ꣡हं  
-सु꣡नीती स्व꣡यशस्तरम्
+आ᳓ नो अग्ने वयोवृ᳓धं  
+रयि᳓म् पवाक+ शं᳓सियम्  
+रा᳓स्वा च न उपमाते पुरुस्पृ᳓हं  
+सु᳓नीती स्व᳓यशस्तरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उपमाते- अन्तिक। पावक- शोधक। अग्ने। नः- अस्मभ्यम्। वयोवृधम्- अन्नवर्धकम्। शंस्यम्-  स्तुत्यम्। पुरुस्पृहम्- बहुभिः स्पृहणीयम्। स्वयशस्तरम्- कीर्तिमत्तरम्। रयिम्- दानयोग्यधनम्।  सुनीती- शोभननीत्या। आ- आभिमुख्येन। रास्व- देहि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **पावक** शोधक **वयोवृधम्** अन्नस्य वर्धकं **शंस्यं** शंसनीयं **रयिं** धनं **नः** अस्मभ्यम् **आ** हरेति शेषः । आहृत्य च हे **उपमाते** । उपास्मत्समीपे माति नो धनमित्युपमातिः । हे तादृशाग्ने **नः** अस्मभ्यं **सुनीती** सुनीत्या शोभननयनेन **पुरुस्पृहं** बहुभिः स्पृहणीयं **स्वयशस्तरम्** अत्यन्तं स्वभूतकीर्ति धनं **रास्व** **च** देहि ॥
@@ -212,7 +215,7 @@ _________
 
 (Bring) here to us praiseworthy wealth that strengthens vital force, o  pure Agni,  
 and give it to us, o apportioner—(wealth) much craved and very  glorious—with your good guidance—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -246,8 +249,6 @@ O schenke, Agni, Reichthum uns, der Macht vermehrt, o flammender, Der preisenswe
 И дай нам, о доступный просьбам, многожеланное (богатство),  
 Само приобретающее большую славу под твоим прекрасным водительством.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

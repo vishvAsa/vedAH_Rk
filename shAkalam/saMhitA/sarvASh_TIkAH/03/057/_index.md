@@ -1,6 +1,5 @@
 +++
 title = "+057"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn depicts the beginning of the morning ritual, with the recitation of pr
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५७  गाथिनो विश्वामित्रः।विश्वे देवाः। त्रिष्टुप्।
 </details>

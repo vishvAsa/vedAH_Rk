@@ -3,7 +3,6 @@ title = "017"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ स्वाने꣡भिर् ईरत  
-उ꣡द् र꣡थैर् उ꣡द् उ वायु꣡भिः  
-उ꣡त् स्तो꣡मैः पृ꣡श्निमातरः
+उ᳓द् उ स्वाने᳓भिर् ईरत  
+उ᳓द् र᳓थैर् उ᳓द् उ वायु᳓भिः  
+उ᳓त् स्तो᳓मैः पृ᳓श्निमातरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पृश्निमातरः- अन्तरिक्षजाः। स्तोमैः- मन्त्रैः। वायुभिः- वायुवेगैः। रथैः- स्वरंहणैः। रथी ऋतस्य  नो भवेति श्रुतेः ऋतं रथः। स्वानेभिः- स्वनैः। उत् ईरते- उद्गच्छन्ति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्वानेभिः** स्वानैः शब्दैर्मरुतः **उत्** **ईरते** उद्गच्छन्ति । ‘स्वन शब्दे'। ‘स्वनहसोर्वा ' (पा. सू. ३. ३. ६२ ) इत्यपो विकल्पितत्वात् पक्षे घञ् । ‘कर्षात्वतः' इत्यन्तोदात्तत्वम् ।  ‘ बहुलं छन्दसि' इति भिस ऐसभावः। **उ** इति पूरणः । तथा **रथैः** रथप्रमुखैः वाहनैश्चोदीरते। **पृश्निमातरः** --- ॥
@@ -178,7 +181,7 @@ _________
 
 Up they rise with their sounds [/with (the drops) being pressed], up with  their chariots, and up with the winds;  
 up with praises—they whose mother is Pr̥śni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
@@ -219,8 +222,6 @@ Die Priçnisöhne brechen auf mit lautem Schall, mit Wagenzug, Mit Windsgebraus,
 Ввысь с колесницами, ввысь с ветрами,  
 Ввысь с восхвалениями, (эти) сыновья Пришни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

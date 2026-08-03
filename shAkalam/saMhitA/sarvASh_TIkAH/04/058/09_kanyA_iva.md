@@ -3,7 +3,6 @@ title = "009"
 devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-कन्या᳡ इव वहतु꣡म् ए꣡तवा꣡ उ  
-अञ्जि꣡ अञ्जाना꣡ अभि꣡ चाकशीमि  
-य꣡त्र सो꣡मः सूय꣡ते य꣡त्र यज्ञो꣡  
-घृत꣡स्य धा꣡रा अभि꣡ त꣡त् पवन्ते
+कन्या᳡ इव वहतु᳓म् ए᳓तवा᳓ उ  
+अञ्जि᳓ अञ्जाना᳓ अभि᳓ चाकशीमि  
+य᳓त्र सो᳓मः सूय᳓ते य᳓त्र यज्ञो᳓  
+घृत᳓स्य धा᳓रा अभि᳓ त᳓त् पवन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कन्या इव। वहतुं एतवै - विवाहार्थं गन्तुम्। अञ्जि अञ्जानाः- तेजः प्रकटयन्त्यो गच्छन्ति।  तथा सरन्तीर्घृतधाराः। अभि चाकशीमि- अभिपश्यामि। यत्र। सोमः- रसः। सूयते- निष्पन्नो  भवति। यत्र। यज्ञः। तत्- तत् स्थानम्। घृतस्य धाराः- ज्ञानप्रकाशधाराः। अभि पवन्ति-  अभिसरन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कन्याइव** अनूढा बालिका इव । ता यथा **वहतुम्** उद्वाहं प्राप्तुम् **एतवा** **उ** एतुं पतिं गन्तुम् **अञ्जि** अञ्जकमाभरणं तेजो वा **अञ्जानाः** व्यञ्जयन्त्यः । एवं कुर्वत्यः कन्याइव स्वभर्तृभूतमाध्वरं वैद्यतं वाग्निमादित्यं वा वहतुम् एतुम् अञ्जि व्यञ्जकं तदीयं रूपमञ्जाना व्यञ्जयन्तीः **घृतस्य** **धाराः** **अभि** **चाकशीमि** अभिपश्यामि । घृतेनोदकेन च भौमस्य वैद्युतस्य चाग्नेः प्रज्वलनं प्रसिद्धम् । किंच ता धाराः **सोमः** **सूयते** **यत्र** **यत्र** चेतर: **यज्ञः** तायते **तत्** तं यज्ञमभिलक्ष्य **पवन्ते** गच्छन्ति खलु ॥
@@ -237,7 +240,7 @@ _________
 
 I keep gazing upon them, who are like maidens smearing on unguent to  go to their wedding.  
 Where the soma is pressed, where the sacrifice (is performed), toward  that do the streams of ghee go purifying themselves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
@@ -272,8 +275,6 @@ Ich sehe sie wie Mädchen, die mit Salben sich schminken, um zur Hochzeit hinzug
 Где выжимается сома, где (происходит) жертвоприношение,  
 Там очищаются потоки жира.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

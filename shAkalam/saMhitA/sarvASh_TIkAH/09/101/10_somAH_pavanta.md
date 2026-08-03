@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "मनुः सांवरणः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡माः पवन्त इ꣡न्दवो  
-अस्म꣡भ्यं गातुवि꣡त्तमाः  
-मित्राः꣡ स्वाना꣡° अरेप꣡सः  
-सुआधि꣡यः सुवर्वि꣡दः
+सो᳓माः पवन्त इ᳓न्दवो  
+अस्म᳓भ्यं गातुवि᳓त्तमाः  
+मित्राः᳓ स्वाना᳓° अरेप᳓सः  
+सुआधि᳓यः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दवः- क्लेदनशीलाः। सोमाः- रसाः। अस्मभ्यम्- नः। गातुवित्तमाः- अतिशयेन मार्गज्ञाः।  मित्राः- स्नेहयुक्ताः। सुवानाः- निष्पन्नाः। अरेपसः- अदोषाः। स्वाध्यः- शोभनध्यानयुक्ताः।  स्वर्विदः- ज्योतिर्विदः। पवन्ते- क्षरन्ति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गातुवित्तमाः** अतिशयेन मार्गस्य लम्भकाः **इन्दवः** दीप्ताः **सोमाः** **पवन्ते** **अस्मभ्यम्** अस्मदर्थं क्षरन्त्यागच्छन्ति वा । कीदृशाः । **मित्राः** देवानां सखिभूताः **सुवानाः** अभिषूयमाणाः **अरेपसः** पापरहिताः अत एव **स्वाध्यः** शोभनध्यानाः **स्वर्विदः** सर्वज्ञाः स्वर्गप्रापका वा ॥ ॥२॥
@@ -166,7 +169,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The soma drops purify themselves, as best pathfinders for us, allies, unblemished, rich in purpose, finding the sun, when they are  being pressed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
@@ -201,8 +204,6 @@ Die Somatropfen rieseln hell, die uns das höchste Glück ersehn, Erzeugt als Fr
 Благожелательные, находящие небо.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -218,7 +219,7 @@ Die Somatropfen rieseln hell, die uns das höchste Glück ersehn, Erzeugt als Fr
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  परमात्मा के गुणों के वर्णन करने से ज्ञान और पवित्रता बढ़ती है ॥१०॥
+भावार्थभाषाः -  परमात्मा के गुणों के वर्णन करने से ज्ञान और पवित्रता बढ़ती है ॥१०॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

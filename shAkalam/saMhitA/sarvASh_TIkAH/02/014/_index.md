@@ -1,6 +1,5 @@
 +++
 title = "+014"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Indra
 Gr̥tsamada  
 12 verses: triṣṭubh  
 This hymn is a surprisingly straightforward summons to the Adhvaryu priests  to offer the soma and a catalogue of the heroic deeds that have earned Indra the  offerings. Verse 7 is particularly interesting since Kutsa (or Purukutsa), Āyu, and  Atithigva Divodāsa are normally allies rather than enemies of Indra as they are  here. Elsewhere (I.53.10 and VI.18.13), however, Indra appears as an ally of the  little-known ruler named Tūrvayāṇa and helps him defeat these three.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। त्रिष्टुप्
 </details>

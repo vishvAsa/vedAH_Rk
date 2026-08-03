@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡ अर्षे꣡न्द्राय पीत꣡ये  
-तिरो꣡ रो꣡माणि अव्य꣡या  
-सी꣡दन् यो꣡ना व꣡नेषु आ꣡
+सो᳓ अर्षे᳓न्द्राय पीत᳓ये  
+तिरो᳓ रो᳓माणि अव्य᳓या  
+सी᳓दन् यो᳓ना व᳓नेषु आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वनेषु- आश्रितेषु। आ- समन्तात्। योना- स्वसदने ऋताख्ये। सीदन्- उपविश्य। सः- तादृशः  सन्। अव्यया रोमाणि- रक्षाकराणि प्रतीकभूतानि रोमोपलक्षितशरीराणि। तिरः-  तिरस्कृत्यातिक्रम्येति भावः। इन्द्राय पीतये- इन्द्रानुभूतये। अर्ष- गच्छ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **सः** अभिषुतस्त्वम् **अव्यया** अव्ययानि अविमयानि **रोमाणि** वालानि **तिरः** तिरस्कुर्वन् **वनेषु** पात्रेषु **योना** योनौ स्थाने **आ** **सीदन्** **इन्द्राय** इन्द्रस्य **पीतये** पानाय **अर्ष** क्षर ॥
@@ -167,7 +170,7 @@ _________
 
 Rush, for Indra to drink, across the sheep’s fleece,  
 sitting on your womb, in the wooden (vessels).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
@@ -195,10 +198,6 @@ Rinne du für Indra zum Trank über die Schafhaare und setze dich auf deinen Pla
 So fliess dem Indu denn zum Trunk durchs Widderhaar und setze dich Auf deinen Sitz, das Holzgefäss.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -209,7 +208,7 @@ So fliess dem Indu denn zum Trunk durchs Widderhaar und setze dich Auf deinen Si
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे स्वामिन् ! (सः) पूर्वोक्त आप (योना आसीदन्) अपने पद पर स्थित होते हुए (वनेषु) अपने राष्ट्र में (इन्द्राय पीतये) विज्ञानी की तृप्ति के लिये (अर्ष) व्याप्तिशील होवें (तिरः रोमाणि अव्यया) और अन्तर्हित जीवों को भी रोम-रोम प्रति अव्यय अर्थात् दृढ़ रक्षित करिये॥८॥
+पदार्थान्वयभाषाः -  हे स्वामिन् ! (सः) पूर्वोक्त आप (योना आसीदन्) अपने पद पर स्थित होते हुए (वनेषु) अपने राष्ट्र में (इन्द्राय पीतये) विज्ञानी की तृप्ति के लिये (अर्ष) व्याप्तिशील होवें (तिरः रोमाणि अव्यया) और अन्तर्हित जीवों को भी रोम-रोम प्रति अव्यय अर्थात् दृढ़ रक्षित करिये॥८॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

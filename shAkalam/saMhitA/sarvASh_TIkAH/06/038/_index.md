@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Especially in the first two verses the poet is coy about reference, and the audi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra The published introduction. states that reference is unclear in the hymn “until the last pāda of vs. 2”; this is somewhat misleading, in that a form of índra- is found in the second pāda of vs. 2 -- though the identity of the other referent there remains cloudy.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३८  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्
 </details>

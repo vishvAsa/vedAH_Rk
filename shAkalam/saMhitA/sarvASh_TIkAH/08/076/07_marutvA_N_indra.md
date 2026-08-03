@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मरु꣡त्वाँ इन्द्र मीढुवः  
-पि꣡बा सो꣡मं शतक्रतो  
-अस्मि꣡न् यज्ञे꣡ पुरुष्टुत
+मरु᳓त्वाँ इन्द्र मीढुवः  
+पि᳓बा सो᳓मं शतक्रतो  
+अस्मि᳓न् यज्ञे᳓ पुरुष्टुत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरुष्टुत- बहुभिः स्तुत। शतक्रतो- प्रभूतप्रज्ञ। इन्द्र। मरुत्वान्- प्राणसम्पन्नः सन्। मीढ्वः- वर्षक।  अस्मिन्- एतस्मिन्। यज्ञे। सोमम्- रसम्। पिब- अनुभव॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मीढ्वः** फलस्य वृष्टेर्वा सेक्तः **शतक्रतो** बहुकर्मन् **इन्द्र** त्वं **मरुत्वान्** **सोमं** **पिब** **अस्मिन्** **यज्ञे** हे **पुरुष्टुत** बहुभिराहूत ॥
@@ -161,10 +164,6 @@ Von den Marut begleitet trink du, belohnender, ratreicher Indra, den Soma bei di
 
 Den Soma mit den Maruts trink, o Indra, gnädig, thatenreich, Bei diesem Opfer hochgelobt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

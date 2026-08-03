@@ -1,6 +1,5 @@
 +++
 title = "+122"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -38,4 +37,10 @@ The dānastuti is filled with personal names, and, as often, it is difficult to 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२२   कक्षीवान् दैर्घतमस औशिजः।विश्वे देवाः । त्रिष्टुप्, ५-६ विराड्रूपा।
 </details>

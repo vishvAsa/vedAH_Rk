@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The other deeds are related in cursory fashion, one per verse, and the abundance
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३०  वामदेवो गौतमः। इन्द्रः, ९-११ इन्द्रौषसौ। गायत्री ८, २४ अनुष्टुप्
 </details>

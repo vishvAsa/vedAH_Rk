@@ -1,6 +1,5 @@
 +++
 title = "+020"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The hymn exhibits a light touch and has a number of neat turns of phrase—for  
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२०  सोभरिः काण्वः। मरुतः । प्रगाथः (विषमा ककुप् समा सतोबृहती ), १४ सतोविराट्
 </details>

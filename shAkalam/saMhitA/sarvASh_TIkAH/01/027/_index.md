@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The rest of the hymn is more diffuse in content and surprisingly awkward in  phr
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२७   आजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातः। १-१२ अग्निः, १३ देवाः। १-१२ गायत्री,१३ त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् इन्द्राग्नी परम꣡स्याम् पृथिव्या꣡म्  
-मध्यम꣡स्याम् अवम꣡स्याम् उत꣡ स्थः꣡  
-अ꣡तः प꣡रि वृषणाव् आ꣡ हि꣡ यात꣡म्  
-अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
+य᳓द् इन्द्राग्नी परम᳓स्याम् पृथिव्या᳓म्  
+मध्यम᳓स्याम् अवम᳓स्याम् उत᳓ स्थः᳓  
+अ᳓तः प᳓रि वृषणाव् आ᳓ हि᳓ यात᳓म्  
+अ᳓था सो᳓मस्य पिबतं सुत᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अवरोहक्रमेण पूर्वोक्तमेवोच्यते॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्ववद्व्याख्येयम् । एतावांस्तु विशेषः । पूर्वं भूम्यादिषु त्रिषु लोकेषु याविन्द्राग्नी तावागच्छतामित्युक्तम् । इदानीं तु द्युप्रभृतिष्ववरोहक्रमेण वर्तमानेषु त्रिषु लोकेषु याविन्द्राग्नी वर्तेते तावागच्छतामिति प्रार्थ्यते ॥ १० ॥
@@ -240,7 +243,7 @@ _________
 
 When, o Indra and Agni, you are on the highest earth, on the middle  one, and on the lowest one,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">
@@ -275,8 +278,6 @@ Wenn, Indra-Agni, ihr im höchsten Weltraum, im mittelsten und tiefsten auch ver
 Оттуда, о два быка, возвращайтесь вы к нам  
 И напейтесь выжатого сомы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

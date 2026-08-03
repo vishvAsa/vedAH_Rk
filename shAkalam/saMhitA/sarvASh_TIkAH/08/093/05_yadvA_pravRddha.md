@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा प्रवृद्ध सत्पते  
-न꣡ मरा इ꣡ति म꣡न्यसे  
-उतो꣡ त꣡त् सत्य꣡म् इ꣡त् त꣡व
+य᳓द् वा प्रवृद्ध सत्पते  
+न᳓ मरा इ᳓ति म᳓न्यसे  
+उतो᳓ त᳓त् सत्य᳓म् इ᳓त् त᳓व
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रवृद्ध। सत्पते- सतां पालक। यत्- यदि। न। मरै- म्रिये। इति। मन्यसे- चिन्तयसि। तर्हि।  तत्। तव- त्वच्चिन्तनम्। सत्यं भवतु। अहममृतो भवामीति भावः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वाशब्दः समुच्चये । अपि च हे **प्रवृद्ध** स्वबलेन प्रवर्धमान **सत्पते** सतां पते स्वप्रकाशाधिक्येन सतां  नक्षत्राणां पते हे इन्द्र **न** **मरै** **इति** मनुष्यवद्वार्धक्येनाहं न म्रिय इति **यत्** यदि **मन्ये** युध्यसे। मृङ् प्राणत्यागे'। लेट्यडागमः।' वैतोऽन्यत्र' इत्यैकारः। **उतो** अपि च **तव** **तत्** न म्रिय इति मननं **सत्यमित्** यथार्थमेव । इन्द्रो न म्रियत इत्यर्थे मन्त्रान्तरं-- न ह्यस्या अपरं चन जरसा मरते पतिः' (ऋ. सं. १०. ८६. ११) इति ॥ ॥ २१ ॥
@@ -196,7 +199,7 @@ Lord of the good: lord of the **nakṣatras**
 <details><summary>Jamison Brereton</summary>
 
 Or if, o lord of settlements grown strong, you think, “I shall not die,” just that comes true for you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
@@ -227,10 +230,6 @@ Oder wenn du hochgewachsener, rechtmäßiger Gebieter denkst: " Ich werde nicht 
 
 Und wenn du hoch erhabner Fürst »nicht werd' ich sterben« also denkst, So ist auch dies dein Denken wahr.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "029"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वि꣡श्वानि आ꣡ भर  
-सुविता꣡नि शतक्रतो  
-य꣡द् इन्द्र मॄळ꣡यासि+ नः
+स᳓ नो वि᳓श्वानि आ᳓ भर  
+सुविता᳓नि शतक्रतो  
+य᳓द् इन्द्र मॄळ᳓यासि+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदिन्द्र मृळयासि नः। शतक्रतो। स त्वम्। नः- अस्मभ्यम्। विश्वानि- सर्वाणि। सुवितानि-  सुखानि। आ भर- आहर॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शतक्रतो** इन्द्र **सः** पूर्वोक्तलक्षणस्त्वं **विश्वानि** सर्वाणि **सुवितानि** । सुष्ठ्वीयते प्राप्यते येष्विति सुवितानि मङ्गलानि । सुपूर्वादेतेः क्ते प्रत्यये उवङादेशः । सर्वानभ्युदयान् **नः** अस्मभ्यमाहर । हे **इन्द्र** यदि **नः** अस्मान् सुखयसि तर्हि धनादिसहितानभ्युदयान् देहीति ॥
@@ -166,7 +169,7 @@ _________
 
 Bring us all welfare, o you of a hundred resolves,  
 when you will show us mercy, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
@@ -192,10 +195,6 @@ Bring uns alle Wohlfahrt, o Ratreicher, wenn du, Indra, uns barmherzig sein will
 
 So bringe, thatenreicher du, uns alles Wohlergehn herbei, O sei du, Indra, gnädig uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

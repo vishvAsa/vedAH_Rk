@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-भद्र꣡म्-भद्रं न आ꣡ भर  
-इ꣡षम् ऊ꣡र्जं शतक्रतो  
-य꣡द् इन्द्र मॄळ꣡यासि+ नः
+भद्र᳓म्-भद्रं न आ᳓ भर  
+इ᳓षम् ऊ᳓र्जं शतक्रतो  
+य᳓द् इन्द्र मॄळ᳓यासि+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतो- अनन्तप्रज्ञ। इन्द्र। यत्- यदा। नः- अस्मान्। मृळयासि- आनन्दयसि। तदा। नः-  अस्मभ्यम्। भद्रंभद्रम्- कल्याणम्। इषम्- सदेषणाम्। ऊर्जं- प्राणं बलम्। नः- अस्मभ्यम्। आ  भर- आहर॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शतक्रतो** शतविधकर्मन् शतप्रज्ञ वा **इन्द्र** **भद्रंभद्रं** कल्याणतममथ सुखोत्पादकं वा धनं **नः** अस्मभ्यम् **आ** **भर** आसंपादय देहि । तथा **इषम्** अन्नम् **ऊर्जम्** अन्नरसं यद्वा बलवदन्नं  च देहि । **नः** अस्मान् **यत्** यदि **मृळयासि** सुखयसि तर्हि तद्धनादिकं देहीति । ‘मृड सुखने'। ण्यन्तस्य लेट्याडागमः ॥
@@ -171,7 +174,7 @@ _________
 
 Bring us every good thing, every refreshment and nourishment, o you  of a hundred resolves,  
 when you will show us mercy, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
@@ -199,10 +202,6 @@ Bring uns alles Gute, Speisegenuß, Stärkung, o Ratreicher, wenn du, Indra, uns
 
 O führe Heil auf Heil uns zu, vielwirkender und Speis' und Trank, O sei du, Indra, gnädig uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

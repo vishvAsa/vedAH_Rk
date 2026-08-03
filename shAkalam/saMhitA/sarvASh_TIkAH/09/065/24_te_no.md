@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो वृष्टिं꣡ दिव꣡स् प꣡रि  
-प꣡वन्ताम् आ꣡ सुवी꣡रियम्  
-स्वाना꣡° देवा꣡स इ꣡न्दवः
+ते᳓ नो वृष्टिं᳓ दिव᳓स् प᳓रि  
+प᳓वन्ताम् आ᳓ सुवी᳓रियम्  
+स्वाना᳓° देवा᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुवानाः- निष्पन्नाः। देवासः- देवाः। इन्दवः- क्लेदनशीलाः। ते- अमी रसाः। दिवस्परि-  चिदाकाशात्। सुवीर्यम्। वृष्टिम्। आ पवन्ताम्- क्षरन्तु॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवानाः** तत्र चात्र चाभिषूयमाणा देवा दीपनशीलाः स्तुत्या वा **इन्दवः** ग्रहेषु चमसेषु च क्षरन्तः **ते** सोमाः **नः** अस्माकं **दिवस्परि**। परिशब्दः पञ्चमीद्योतकः। अन्तरिक्षादादित्याद्वा **वृष्टिम्** । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' इति वृष्टिकारणत्वात् । किंच **सुवीर्यं** शोभनवीर्योपेतं पुत्रं च धनादिकं वा **आ** **पवन्तां** प्रापयन्तु । यजमानः सोमेन अभिमतफलानि प्राप्नोति खलु ॥
@@ -172,7 +175,7 @@ _________
 
 By purifying themselves, let them bring here to us rain from heaven and  an abundance of heroes—  
 the gods, the drops, being pressed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
@@ -199,10 +202,6 @@ Die sollen uns Regen vom Himmel her und die Meisterschaft zuläutern, die ausgep
 
 Die mögen Regen strömen uns vom Himmel hell und Heldenkraft, Die Götter Indu's, ausgepresst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

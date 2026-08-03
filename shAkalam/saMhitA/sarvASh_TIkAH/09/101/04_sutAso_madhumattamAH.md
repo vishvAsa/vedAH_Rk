@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "ययातिर्नाहुषः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡सो म꣡धुमत्तमाः  
-सो꣡मा इ꣡न्द्राय मन्दि꣡नः  
-पवि꣡त्रवन्तो अक्षरन्  
-देवा꣡न् गछन्तु वो म꣡दाः
+सुता᳓सो म᳓धुमत्तमाः  
+सो᳓मा इ᳓न्द्राय मन्दि᳓नः  
+पवि᳓त्रवन्तो अक्षरन्  
+देवा᳓न् गछन्तु वो म᳓दाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    मधुमत्तमाः- अतिशयेन मधुराः। सुतासः- निष्पन्नाः। सोमाः- रसाः। इन्द्राय- परमेश्वराय।  मन्दिनः- आनन्दकराः। पवित्रवन्तः- शोधकाः। वः- युष्माकम्। मदाः- हर्षकराः। अक्षरन्-  श्रवन्ति। देवान्- देवताः। गच्छन्तु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मधुमत्तमाः** अतिशयेन माधुर्योपेता अत एव **मन्दिनः** मदकराः **सुतासः** अभिषुताः **सोमाः** **पवित्रवन्तः** पवित्रे वर्तमानाः सन्तः **इन्द्राय** इन्द्रार्थम् **अक्षरन्** पात्रेषु क्षरन्ति । अथ प्रत्यक्षकृतः। **वः** युष्माकं **मदाः** मदहेतवो रसाः **देवान्** इन्द्रादीन् **गच्छन्तु** ॥
@@ -169,7 +172,7 @@ _________
 
 The most honeyed pressed soma drinks, exhilarating to Indra,  
 provided with filters, have flowed. Let your exhilarating drinks go to  the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
@@ -204,8 +207,6 @@ Gepresste Soma's, süsseste, sind durch die Seihe schon geströmt, Sie, die den 
 Потекли, имей при себе цедилку.  
 Да пойдут к богам ваши пьянящие напитки!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Although the contents of the hymn are fairly standard—praise and invitation to
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra, Aśvins, Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३० आजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातः। १-१६ इन्द्रः, १७-१९ अश्विनौ, २०- २२ उषाः।  १-१०, १२ - १५, १७ - २२ गायत्री, ११ पादनिचृद्गायत्री, १६ त्रिष्टुप्
 </details>

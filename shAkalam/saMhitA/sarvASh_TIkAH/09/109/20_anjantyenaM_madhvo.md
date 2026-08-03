@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अञ्ज꣡न्ति एनम् म꣡ध्वो र꣡सेन  
-इ꣡न्द्राय वृ꣡ष्ण इ꣡न्दुम् म꣡दाय
+अञ्ज᳓न्ति एनम् म᳓ध्वो र᳓सेन  
+इ᳓न्द्राय वृ᳓ष्ण इ᳓न्दुम् म᳓दाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -122,6 +120,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मध्वो रसेन- माधुर्यरसेनाध्यात्मिकेन। एनं इन्दुम्- एतमाधिभौतिकं सोमं लतारसम्। इन्द्राय-  इन्द्रस्य। मदाय- तृप्तये हर्षाय वा। अञ्जन्ति- व्यञ्जयन्ति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृष्णे** कामानां वर्षित्रे **इन्द्राय** इन्द्रस्य **मदाय** मदार्थं **मध्वः** मधुनः **रसेन** गव्येन **एनम्** **इन्दुं** सोममृत्विजः **अञ्जन्ति** संयोजयन्ति ॥
@@ -138,7 +141,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 With the sap of honey they anoint him, the drop for Indra the bull, for  exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
@@ -170,8 +173,6 @@ Sie salben diesen – mit süssem Safte, dem Stiere Indra – zum Rausch den Ind
 Его умащают лучшим (, что есть) в меде,  
 Для Индры-быка, сок сомы – для опьянения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

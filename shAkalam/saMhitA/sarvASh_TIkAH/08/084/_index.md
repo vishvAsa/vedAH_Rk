@@ -1,6 +1,5 @@
 +++
 title = "+084"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The Anukramaṇī names as the poet the legendary and mythic figure Uśanā Kāv
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८४  उशना काव्यः।अग्निः। गायत्री।
 </details>

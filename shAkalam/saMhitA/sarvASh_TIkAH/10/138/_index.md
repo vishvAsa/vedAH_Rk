@@ -1,6 +1,5 @@
 +++
 title = "+138"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Similar to the stopping of the Sun’s chariot in 3a is the striking incident in
 The second half of the final verse (6) seems to show Indra remedying the situa tion, perhaps restoring both nightly and daily cosmic time. In 6c he places in heaven1624 X.139  
 “the apportioner of the months,” presumably the moon, while in 6d “the father”  (pitā́, the final word of the hymn), presumably Father Heaven, “bears the circlet  split apart by you [=Indra].” If we are correct that the stopping of the Sun’s chariot  in 3a is a preliminary to the stealing of his chariot-wheel, then the “wheel-segment”  borne by Heaven could be the disc of the Sun now restored to its proper place.  
 However, much remains unclear in this hymn, and the interpretations given here  are quite tentative.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १३८  अङ्ग औरवः। इन्द्रः।  जगती।
 </details>

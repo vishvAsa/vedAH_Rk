@@ -1,6 +1,5 @@
 +++
 title = "+128"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The sacrificial fire is the relentless focus of this hymn, and it seldom strays 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२८   परुच्छेपो दैवोदासिः।अग्निः। अत्यष्टिः
 </details>

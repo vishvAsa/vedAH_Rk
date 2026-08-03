@@ -3,7 +3,6 @@ title = "018"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम सू꣡र ए꣡षस्  
-तोक꣡स्य साता꣡ तनू꣡नाम्  
-वृणीम꣡हे सखिया꣡य  
-वृणीम꣡हे यु꣡जियाय
+तुवं᳓ सोम सू᳓र ए᳓षस्  
+तोक᳓स्य साता᳓ तनू᳓नाम्  
+वृणीम᳓हे सखिया᳓य  
+वृणीम᳓हे यु᳓जियाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। त्वम्। सूरः- प्रेरकः। इषः- सदिच्छाः। आ- आभिमुख्येन पूरयसि। तोकस्य तनूनां  साता- सन्ततिविस्तारलाभाय। सख्याय- मैत्र्यै। वृणीमहे- वरयामः। युज्याय- समाधये।  वृणीमहे॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **सूरः** सुवीर्यः । यद्वा । सर्वस्य यागादिकर्मणि प्रेरकः **त्वम्** **इषः** अन्नानि अस्माकम् **आ** धेहि। उपसर्गश्रुतेर्योग्यक्रियाध्याहारः। किंच त्वं **तोकस्य** पुत्रस्य **तनूनाम्** । ‘ तन्वन्ति विस्तारयन्ति कुलमिति तन्वः पौत्राः। तेषां च **साता** दाता भव। ‘षणु दाने'।  जनसन' इति विट्। 'जनसन °' इत्यात्वम् । वयं तं त्वां **सख्याय** सखिभावाय कर्मणे वा **वृणीमहे** संभजामहे । तथा **युज्याय** । युज् सहायः । तस्य भावे कर्मणि वा ष्यञ् । संज्ञापूर्वकस्य विधेत्यरनित्वादवृद्धिः । शत्रुवधादिलक्षणसाहाय्याय च वयं **वृणीमहे** ॥
@@ -185,7 +188,6 @@ As noted above, vṛṇīmáhe sakhyā́ya is a permutation of 14c sakhitvám u�
 
 On vṛṇīmáhe yújyāya, see comm. ad IX.88.1. Given the other exx. of this lexeme, I would now alter the tr. to “we choose you for yoking [/use].”
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -210,10 +212,6 @@ Du Soma stehst uns bei der Gewinnung der Sonne, der Speisegenüsse, der Nachkomm
 
 Soma, du bist Sonne, schenkest Labung uns und unsern Kindern, Dich begehren wir zum Bündniss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

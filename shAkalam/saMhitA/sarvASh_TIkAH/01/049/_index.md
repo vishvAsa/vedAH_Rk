@@ -1,6 +1,5 @@
 +++
 title = "+049"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ The hymn itself has a simple ring structure: bhadrébhiḥ in 1a (with which ‘
 For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
   </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४९   प्रस्कण्वः काण्वः। उषाः। अनुष्टुप्।
 </details>

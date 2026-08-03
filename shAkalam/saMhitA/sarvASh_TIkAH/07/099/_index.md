@@ -1,6 +1,5 @@
 +++
 title = "+099"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+099"
 <details><summary>Jamison Brereton</summary>
 
 99 (615)  
-Viṣṇu (1–3, 7), Indra and Viṣṇu (4–6)  
+Viṣṇu (1–3, 7), Indra and Viṣṇu (4–6)  
 Vasiṣṭha Maitrāvaruṇi  
 7 verses: triṣṭubh  
 As has been discussed previously, Viṣṇu, one of the great gods of classical Hinduism,  is a marginal figure in the R̥gveda, generally associated with Indra. Viṣṇu’s primary  mythic exploit in Vedic is the “three strides” he made across the cosmos, measuring  out, enlarging, and mapping the cosmic spaces. In middle Vedic literature and later,  Viṣṇu takes the form of a dwarf when making these vast strides, but there is no trace  of this notion in the R̥gveda.  
@@ -23,4 +22,10 @@ The final verse is dedicated to Viṣṇu alone (Śipiviṣṭa being an enigmat
 <details><summary>Jamison Brereton Notes</summary>
 
 Viṣṇu, Viṣṇu and Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९९  मैत्रावरुणर्वसिष्ठः।विष्णुः, ४-६ इन्द्राविष्णू। त्रिष्टुप्।
 </details>

@@ -3,7 +3,6 @@ title = "032"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सहो꣡ षु꣡ णो व꣡ज्रहस्तैः  
-क꣡ण्वासो अग्नि꣡म् मरु꣡द्भिः  
-स्तुषे꣡ हि꣡रण्यवाशीभिः
+सहो᳓ षु᳓ णो व᳓ज्रहस्तैः  
+क᳓ण्वासो अग्नि᳓म् मरु᳓द्भिः  
+स्तुषे᳓ हि᳓रण्यवाशीभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वज्रहस्तैः- वज्रपाणिभिः। हिरण्यवाशीभिः- सुवर्णमयतक्षणसाधनयुक्तैः। मरुद्भिः- प्राणाधिदैवतैः।  सह। नः- अस्माकम्। अग्निम्- सर्वभूतहितक्रतुं पावकम्। कण्वासः- हे मन्त्रविदः। सु- सुष्ठु।  स्तुषे- स्तुध्वम्॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वज्रहस्तैः** वज्रबाहुभिः **हिरण्यवाशीभिः** । हिरण्मयी वाशी तक्षणसाधनमायुधं येषामस्ति तादृशैः । **मरुद्भिः** **सहो** सहैव वर्तमानम् **अग्निं** **नः** अस्मदीया हे **कण्वासः** कण्वाः स्तोतारः कण्वगोत्रा वा ऋषयः यूयं **स्तुषे** स्तुध्वम् । यद्वा । न इति प्रथमार्थे द्वितीया । नः वयं कण्वगोत्राः ॥  ‘ अस्मदो द्वयोश्च' (पा. सू. १. २. ५९ ) इत्येकस्मिन् बहुवचनम्। सविशेषणस्य प्रतिषेधः ' (का. १. २. ५९. १) इति तु व्यत्ययेन प्रवर्तते । स्तुषे स्तुवे ॥ स्तौतेरुत्तमैकवचने ‘सिब्बहुलम्' इति सिप् ॥
@@ -167,7 +170,7 @@ _________
 
 O Kaṇvas, for us I will praise Agni along with the Maruts, who have  maces in their hands,  
 who have golden axes.1044 VIII.8
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
@@ -206,8 +209,6 @@ Den Agni preis', o Kanva's, ich nebst unsern Maruts, die mit Blitz und goldnem B
 (И) золотые топоры, о Канвы,  
 Я хочу хорошенько восхвалить нашего Агни.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

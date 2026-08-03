@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निर्मरुतश्च"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ये꣡ तन्व꣡न्ति रश्मि꣡भिस्  
-तिरः꣡ समुद्र꣡म् ओ꣡जसा  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+आ᳓ ये᳓ तन्व᳓न्ति रश्मि᳓भिस्  
+तिरः᳓ समुद्र᳓म् ओ᳓जसा  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। रश्मिभिः- आत्मसूर्यस्य चैतन्यकिरणैः। आ तन्वन्ति- समन्तात् विस्तारं प्राप्नुवन्ति। तनु  विस्तारे। प्राणसङ्कोचनमेव चित्तवृत्त्याधिक्यकारणम्। प्राणविस्तारकरणमेव प्राणविद्या। ओजसा-  तेजसा। समुद्रम्- हृत्समुद्रं। तिरः- चालयन्ति तरन्ति वा । अग्ने तैर्मरुद्भिरागच्छ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** मरुतः **रश्मिभिः** सूर्यकिरणैः सह **आ** **तन्वन्ति** आप्नुवन्ति आकाशमिति शेषः। किंच **ओजसा** स्वकीयबलेन **समुदं** तिरस्कुर्वन्ति तैः मरुद्भिः इत्यन्वयः ॥ तन्वन्ति।' तनु विस्तारे ' । लटो ‘झोऽन्तः ।  ‘ तनादिकृञ्भ्य उः '( पा. सू. ३. १. ७९ )। सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः' इति तिङ एव आद्युदात्तत्वम् । समुद्रम् ।' उन्दी क्लेदने'। ' स्फायितञ्चि° ' इति रक् । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
@@ -171,7 +174,7 @@ Note, the idea of influence of winds upon the sea.
 <details><summary>Jamison Brereton</summary>
 
 Those who stretch with their reins across the sea with their strength— with the Maruts, o Agni, come hither.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">
@@ -204,8 +207,6 @@ Die übers Meer nach ihrer Macht hindringen mit der Strahlen Glanz, Mit diesen M
 С Марутами приди, о Агни!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्मरुतश्च
@@ -226,7 +227,7 @@ Die übers Meer nach ihrer Macht hindringen mit der Strahlen Glanz, Mit diesen M
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इन पवनों की व्याप्ति से सब पदार्थ बढ़कर बल देनेवाले होते हैं, इससे मनुष्यों को वायु और अग्नि के योग से अनेक प्रकार कार्य्यों की सिद्धि करनी चाहिये॥८॥
+भावार्थभाषाः -  इन पवनों की व्याप्ति से सब पदार्थ बढ़कर बल देनेवाले होते हैं, इससे मनुष्यों को वायु और अग्नि के योग से अनेक प्रकार कार्य्यों की सिद्धि करनी चाहिये॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+008"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ since heretofore the focus has been entirely on Agni. In the following verses (5
 The six Agni verses end with Agni setting his head (mūrdhán) in heaven. As  noted above, the hymn in fact contains two occurrences of mūrdhán (vss. 3, 6),  and its Avestan cognate kamǝrǝδan (with pejorative ka-prefix), in the bahuvrīhi  Θri-kamǝrǝδa “having three heads,” qualifies the monster killed by Āϑβiia’s son.  The corresponding form in the Trita myth in this hymn has a different word for  head, -śíras- (acc. sg. m. tri-śīrṣā́ṇam, vs. 8). However, the R̥gveda does contain  an occurrence of tri-mūrdhán—but referring to Agni, in the phrase trimūrdhā́naṃ  
 saptáraśmim “having three heads and seven reins” (I.146.1). The three heads are  most likely the three ritual fires, the seven reins possibly the seven priests, but the  important thing is that this same phrase, “having three heads and seven reins,” is  found in our hymn X.8, describing the enemy Viśvarūpa (8c). This, we would submit,  is the initial point of contact between this Agni hymn and the Trita saga appended  to it: the old Indo-Iranian myth used the word *tri-mr̥Hdhan for the three-headed  beast. But the epithet can also be used positively as a descriptor of Agni with his  three representative fires on the ritual ground. The poet is playing with the delicious  positive/negative polarities of the epithet, and signals the connection between the  Agni portion of the hymn and the little Trita myth by using the word originally used  of the monster, mūrdhán, elsewhere in the hymn.  
 But there may be another connection. As we noted, Agni undergoes several  transformations in the last verses of his section of the hymn. And it is quite possible  that verse 7 is suggesting yet another transformation, into Trita or “the third (fire),”  being born in the fireplace, seeking poetic vision and ritual release. Agni sometimes  seems to be called Trita (see esp. X.46.3, 6), and the Trita/Viśvarūpa story may be  introduced here via a modulation through Agni identified with Trita.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८  त्रिशिरास्त्वाष्ट्रः। अग्निः, ७-९ इन्द्रः। त्रिष्टुप्
 </details>

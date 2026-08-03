@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः पुनान꣡ ऊर्मि꣡णा  
-अ꣡व्यो वा꣡रं वि꣡ धावति  
-अ꣡ग्रे वाचः꣡ प꣡वमानः क꣡निक्रदत्
+सो᳓मः पुनान᳓ ऊर्मि᳓णा  
+अ᳓व्यो वा᳓रं वि᳓ धावति  
+अ᳓ग्रे वाचः᳓ प᳓वमानः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुनानः- पवमानः। सोमः- रसः। ऊर्मिणा- तरङ्गेण। अव्यो वारम्- सरणशीलरसस्य स्वस्थान  एव रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसस्य प्रवेशस्थानम्। रसतत्त्वस्य सुलभतया  अवगमसाधनभूतम्। रसार्थयाचनसाधनभूतम्। रसक्रियम्। रसावाप्तिसाधनभूतम्। रसावरणम्।  रससंभक्तारम्। रसवर्धकम्। भाजनं प्रतीकम्। वि- विशेषेण। धावति। वाचः- मन्त्रस्य। अग्रे-  पुरतः। पवमानः- पुनानः। कनिक्रदत्- अशब्दयत्॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानः** पूयमानः **सोमः** **ऊर्मिणा** स्वीयया धारया **अव्यः** अवेः **वारं** वालं पवित्रं **वि** **धावति** विविधं गच्छति । कीदृशः सोमः । **पवमानः** पूतः **वाचः** स्तोत्रस्य **अग्रे** **कनिक्रदत्** पुनःपुनः शब्दं कुर्वन् वि धावति ॥ ॥ १० ॥
@@ -163,7 +166,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Soma, being purified in a wave, runs across the fleece of the sheep, at the forefront of speech, self-purifying, ever roaring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
@@ -196,8 +199,6 @@ Hell rieselnd strömt der Somatrank in Wellen durch des Widders Haar, Voran dem 
 Бежит сквозь сито из овечьей шерсти.  
 Павамана, громко ревущий во главе речи.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

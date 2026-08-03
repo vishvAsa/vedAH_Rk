@@ -1,6 +1,5 @@
 +++
 title = "+109"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The subject gradually shifts to praise of the two gods’ powers (vss. 5–6) an
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०९   कुत्स आङ्गिरसः। इन्द्राग्नी।  त्रिष्टुप्
 </details>

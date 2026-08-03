@@ -3,7 +3,6 @@ title = "018"
 devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-के꣡तेन श꣡र्मन् सचते सुषाम꣡णि  
-अ꣡ग्ने तु꣡भ्यं चिकित्व꣡ना  
-इषण्य꣡या नः पुरुरू꣡पम् आ꣡ भर  
-वा꣡जं ने꣡दिष्ठम् ऊत꣡ये
+के᳓तेन श᳓र्मन् सचते सुषाम᳓णि  
+अ᳓ग्ने तु᳓भ्यं चिकित्व᳓ना  
+इषण्य᳓या नः पुरुरू᳓पम् आ᳓ भर  
+वा᳓जं ने᳓दिष्ठम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। तुभ्यम्- ते। चिकित्वना- प्राज्ञेन। सुसामनि- शोभनसामगाने। शर्मन्- क्षेमे। केतेन-  प्रज्ञया। सचते। इषण्यया- सदेषणया। नः- अस्मभ्यम्। पुरुरूपम्- बहुरूपम्। वाजम्- अन्नम्।  नेदिष्ठम्- अन्तिकतमम्। ऊतये- रक्षायै। आ भर- आहर॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **तुभ्यं** **चिकित्वना** चिकितुषा जनेन होत्रादिना सह यजमानः **केतेन** प्रज्ञापकेन स्तोत्रेण यजत इति शेषः । कुत्रेति तदुच्यते। **सुषामणि** शोभनरथन्तरादिसामोपेते **शर्मन्** शर्मणि सुखसाधने यज्ञे । अतो हे अग्ने **इषण्यया** इच्छया स्वीयया **नः** अस्मभ्यं **पुरुरूपं** नानारूपं **नेदिष्ठम्** अन्तिके सर्वदा वर्तमानं **वाजम्** अन्नम् **ऊतये** रक्षणाय **आ** **भर** आहर ॥
@@ -209,7 +212,7 @@ _________
 
 He [=singer?] keeps company with your intention in the shelter made of  good melody. O perceptive Agni, the *pieces of wood are for you.  
 By impulsion bring here to us the prize of many forms to be nearest to  us, for our aid.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -251,8 +254,6 @@ Achtsamen Geistes dient er an der Stätte dir, o Agni, die von Liedern hallt, Au
 (Своим) порывом принеси нам многообразную  
 Награду, самую близкую (для нас) – (нам) в поддержку!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

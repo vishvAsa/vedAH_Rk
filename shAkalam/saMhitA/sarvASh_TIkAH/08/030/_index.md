@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The final hymn in this Viśve Devāḥ series consists of four verses in four di
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the rhetorical distance between vss. 1 and 2 see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३०  मनुर्वैवस्वतः। विश्वे देवाः । गायत्री, २ पुरउष्णिक्, ३ बृहती, ५ अनुष्टुप्
 </details>

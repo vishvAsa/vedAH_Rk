@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ जामि꣡र् ज꣡नाना᳐म्  
-अ꣡ग्ने मित्रो꣡ असि प्रियः꣡  
-स꣡खा स꣡खिभ्य ई꣡डियः
+तुवं᳓ जामि᳓र् ज᳓नाना᳐म्  
+अ᳓ग्ने मित्रो᳓ असि प्रियः᳓  
+स᳓खा स᳓खिभ्य ई᳓डियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। जनानाम्- मनुष्याणाम्। जामिः- बन्धुः। अग्ने। प्रियो मित्रः- स्नेहसंपन्नः। असि- भवसि।  सखिभ्यः- सुहृद्भ्यः। सखा- सुहृत्। ईड्यः- स्तुत्यः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **त्वम्** उक्तप्रकारेण अचिन्त्यरूपोऽप्यनुग्रहीतृतया सर्वेषां **जनानां** **जामिः** बन्धुः **असि**। तथा **प्रियः** प्रीणयिता त्वं यजमानानां **मित्रः** प्रमीतेस्त्रायकोऽसि । **ईड्यः** स्तुतिभिः स्तुत्यस्त्वं **सखिभ्यः** समानख्यानेभ्य ऋत्विग्भ्यः **सखा** सखिवदत्यन्तं प्रियः असि ॥ जामिः । 'जमु अदने'। जमन्ति सहैकस्मिन्पात्रे अदन्तीति जामयो बन्धवः । ‘ जनिघसिभ्यामिण् ' ( उ. सू. ४-५६९ ) इति विधीयमानः इण् बहुलवचनादस्मादपि द्रष्टव्यः । ईड्यः । ‘ ईड स्तुतौ '। ‘ ईडवन्दवृशंसदुहां ण्यतः 'इत्याद्युदात्तत्वम् ।
@@ -156,7 +159,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You are the kinsman of the peoples. O Agni, you are the dear envoy, a comrade for your comrades, to be reverently invoked.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
@@ -195,8 +198,6 @@ Der Menschen Bruder bist nur du, du, Agni, ein Genosse traut, Ein Freund dem Fre
 О Агни, ты союзник милый,  
 Друг, которого друзья должны призывать.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

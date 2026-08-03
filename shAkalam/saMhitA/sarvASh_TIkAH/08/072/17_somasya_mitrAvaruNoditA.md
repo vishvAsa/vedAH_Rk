@@ -3,7 +3,6 @@ title = "017"
 devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मस्य मित्रावरुणा  
-उ꣡दिता सू꣡र आ꣡ ददे  
-त꣡द् आ꣡तुरस्य भेषज꣡म्
+सो᳓मस्य मित्रावरुणा  
+उ᳓दिता सू᳓र आ᳓ ददे  
+त᳓द् आ᳓तुरस्य भेषज᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूरे उदिते- सूर्योदये। मित्रावरुणा। सोमस्य- सोमम्। आतुरस्य- व्याधितस्य। भेषजम्-  औषधरूपेण। आ ददे- गृहीतवन्तौ॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मित्रावरुणौ **सूरे** सूर्ये **उदिता** उदिते **सोमस्य** सोमम् **आ** **ददे** स्वीकरोति । तत्र हेतुमाह। **तत्** स्वीकाररूपं कर्म **आतुरस्य** अस्मदादेः **भेषजम्** औषधम् । हितकरमित्यर्थः ॥
@@ -182,8 +185,6 @@ Von Soma, Mitra-Varuna, nahm ich beim Sonnenaufgang mir, Das ist des Kranken Arz
 Я взял себе сомы:  
 Это лекарство для больного.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ हि꣡ रिरिक्ष꣡ ओ꣡जसा  
-दिवो꣡ अ꣡न्तेभियस् प꣡रि  
-न꣡ त्वा विव्याच र꣡ज इन्द्र पा꣡र्थिवम्  
-अ꣡नु स्वधां꣡ ववक्षिथ
+प्र᳓ हि᳓ रिरिक्ष᳓ ओ᳓जसा  
+दिवो᳓ अ᳓न्तेभियस् प᳓रि  
+न᳓ त्वा विव्याच र᳓ज इन्द्र पा᳓र्थिवम्  
+अ᳓नु स्वधां᳓ ववक्षिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- द्युलोकस्य। अन्तेभ्यः परि- पर्यन्तेभ्यः। ओजसा- बलेन। प्र- प्रकर्षेण। रिरिक्षे- अतिरिक्तो  भवसि। हि- खलु। इन्द्र- परमेश्वर। त्वा- त्वाम्। पार्थिवम्- भौमः। रजः- लोकः। न। विव्याच-  व्याप्नोति। स्वधाम्- आत्मधारणाम्। अनु- अनुसृत्य। ववक्षिथ- शक्तिं वोढुमिच्छसि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **दिवः** द्युलोकस्य पर्यन्तेभ्यः **ओजसा** । हिरवधारणे । स्वबलेनैव **प्र** **रिरिक्षे** प्रकर्षेणातिरिक्तो भवसि । रिचेर्लटि • बहुलं छन्दसि' इति श्लुः । प्रत्ययस्वरः । किंच हे **इन्द्र** **पार्थिवं** पृथिव्यां भवः **रजः** लोकः **त्वा** त्वां महता स्वशरीरेण **न** **विव्याच** न व्याप्नोति । द्यावापृथिवीभ्यामपि स्वतः स त्वं बलेन समर्थों भवसीत्यर्थः । एवंभूतः सन्नस्माकं **स्वधाम्** अन्नमुदकं वा **अनु** **ववक्षिथ** अनुवोढुमिच्छ । वहेः सनन्तस्य छान्दसे लिटि रूपम् । मन्त्रत्वादामभावः ॥
@@ -212,7 +215,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Because you project beyond the limits of heaven with your strength, the earthly realm does not contain you, Indra. You have waxed strong  following your independent power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">
@@ -247,8 +250,6 @@ Denn du ja überragst an Kraft des weiten Himmels Enden auch, Und dich umfasst, 
 Не вмещает тебя земной простор, о Индра.  
 Ты вырос по своему желанию.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

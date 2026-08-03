@@ -1,6 +1,5 @@
 +++
 title = "+072"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ We confess to being uncertain about many of the answers to these implicit rid dl
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni or Praise of Oblations See the published introduction. for the general structure and manifold difficulties of this hymn. For disc. of the possible ritual details, see Oldenberg, Geldner, Renou, etc. For the most part I will not comment on such here.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७२  हर्यतः प्रागाथः।अग्निः, हवींषि वा। गायत्री।
 </details>

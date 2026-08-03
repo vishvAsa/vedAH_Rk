@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-विघ्न꣡न्तो दुरिता꣡ पुरु꣡  
-सुगा꣡ तोका꣡य वाजि꣡नः  
-त꣡ना कृण्व꣡न्तो अ꣡र्वते
+विघ्न᳓न्तो दुरिता᳓ पुरु᳓  
+सुगा᳓ तोका᳓य वाजि᳓नः  
+त᳓ना कृण्व᳓न्तो अ᳓र्वते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरु- प्रभूतानि। दुरिता- पापानि। विघन्तः- रुन्धानाः। वाजिनः- गतिशीलाः। तोकाय- अस्माकं  वत्सभूताय। अर्वते- प्राणाय। सुगा तना- सुखमयविस्तारभावनानि। कृण्वन्तः- कारयन्तः  सरन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजिनः** बलवन्तः सोमाः **पुरु** बहूनि **दुरिता** दुरितानि **विघ्नन्तः** विशेषेण नाशयन्तः **तोकाय** अस्माकं पुत्राय **अर्वते** अश्वाय च **सुगा** सुखानि **तना** धनानि च **कृण्वन्तः** कुर्वन्तः तिरः पवित्रं सृज्यन्त इति संबन्धः ॥
@@ -161,7 +164,6 @@ Note the juxtaposition of the opposites duritā́lit. ‘ill-goings’ (pāda a)
 
 My tr. follows Geldner in taking árvate parallel to tokā́ya “for our offsping and for our steed”; I am somewhat tempted to take árvate as an anticipatory parallel to gáve in 3a, with which it forms a more natural class (“making wide space for our steed and for our cow”), but I can’t see how to do that without brutally splitting up 2c, since kṛṇvántaḥ is required to govern sugā́in 2b.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -188,10 +190,6 @@ Die Sieghaften, die die vielen Fährlichkeiten brechen und unserem Samen und uns
 
 Verjagend vieles Ungemach, die raschen, schaffend freie Bahn Dem Stamm, den Rossen fort und fort.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

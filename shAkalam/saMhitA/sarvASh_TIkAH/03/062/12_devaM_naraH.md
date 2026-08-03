@@ -3,7 +3,6 @@ title = "012"
 devataa = "सविता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-देवं꣡ न꣡रः सविता꣡रं  
-वि꣡प्रा यज्ञइः꣡ सुवृक्ति꣡भिः  
-नमस्य꣡न्ति धिये꣡षिताः꣡
+देवं᳓ न᳓रः सविता᳓रं  
+वि᳓प्रा यज्ञइः᳓ सुवृक्ति᳓भिः  
+नमस्य᳓न्ति धिये᳓षिताः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धियेषिताः- धिया प्रेरिताः। विप्राः- मेधाविनः। नरः- उपासकाः।  यज्ञैः- दानपूजासङ्गतिकरणैः।  सुवृक्तिभिः- शोभनमन्त्रैः। देवं सवितारम्- सूर्यमात्मानम्। नमस्यन्ति- नमस्कुर्वन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नरः** कर्मणां नेतारः **विप्राः** मेधाविनोऽध्वर्य्वादयः **धियेषिताः** कर्मणा बुद्ध्या वा प्रेर्यमाणाः सन्तः **सवितारं** **देवं** त्वां **यज्ञैः** यजनीयैर्हविर्भिः **सुवृक्तिभिः** शोभनस्तोत्रैश्च **नमस्यन्ति** परिचरन्ति ॥ नमस्यन्ति । नमोवरिवश्चित्रङः क्यच् ' इति क्यच् ॥
@@ -145,7 +148,7 @@ _________
 
 To god Savitar do the men, the inspired poets, give reverence with  sacrifices and well-twisted hymns,  
 when impelled by insight.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
@@ -179,8 +182,6 @@ Gott Savitar verehren sie mit Opfer und mit Lobgesang, Die Sänger, andachtsvoll
 Богу Савитару жертвами, прекрасными гимнами,  
 (Они,) возбужденные поэтическим видением.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

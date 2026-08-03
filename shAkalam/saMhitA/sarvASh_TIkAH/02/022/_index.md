@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,4 +16,10 @@ Gr̥tsamada
 The theme of the hymn is the bond between Indra and the soma, which enables  Indra to perform “his great deed,” the destruction of the serpent, the “worm,”  Vr̥tra. The god Soma ever accompanies the god Indra, and the refrain running  through the first three verses emphasizes their connection by referring to Soma  as índu, “(soma-)drop,” echoing the name “Indra.” By describing both Soma and  
 
 Indra as “real” (satyá), the poet reminds his hearers that just as soma was real when  it was prepared by the gods for Indra before he destroyed Vr̥tra, so also it is real now  in the present sacrifice, as is Indra himself.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२२  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। १ अष्टिः, २-३ अतिशक्वरी, ४ अष्टिः  अतिशक्वरी वा ।
 </details>

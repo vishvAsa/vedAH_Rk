@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ सो꣡मः कपर्दि꣡ने  
-घृतं꣡ न꣡ पवते म꣡धु  
-आ꣡ भक्षत् कनि꣡यासु नः
+अयं᳓ सो᳓मः कपर्दि᳓ने  
+घृतं᳓ न᳓ पवते म᳓धु  
+आ᳓ भक्षत् कनि᳓यासु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। सोमः- रसः। कपर्दिने- रुद्राय वेगाधिदैवताय। मधु- मधुरः सन्। घृतं न-  घृतधारावत्। पवते- क्षरति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कपर्दिने** कल्याणमुकुटवते सोमाय पूष्णे वा तदर्थम् **अयं** मादयिताभिषुतोऽस्मदीयः **सोमः** **पवते** च गच्छति । तं प्राप्नोति । तत्र दृष्टान्तः। **घृतं** **न** **मधु** मादकं हवीरूपं घृतं यथा सोमं पूषणं वा गच्छति तद्वत् । ततः सः **कन्यासु** अस्मानागमयत् ॥
@@ -172,8 +175,6 @@ This Soma here purifies himself, honeyed like ghee, for the one with  braided ha
 <details><summary>Jamison Brereton Notes</summary>
 
 kapardín- is used of Pūṣan in VI.55.2, though it is also applied to a few other gods in the RV, notably Rudra (I.114.1, 5).
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -210,8 +211,6 @@ Dem haargeflochtnen rieselt hier der Soma süsse Butter zu; Er schenke holde Br�
 Для (бога) с косой, как сладкое топленое масло.  
 Пусть наделит он нас девицами!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वेन्दो प꣡वमानो म꣡होभिः  
-क꣡निक्रदत् प꣡रि वा꣡राणि अर्ष  
-क्री꣡ळञ् चम्वो᳡र् आ꣡ विश पूय꣡मान  
-इ꣡न्द्रं ते र꣡सो मदिरो꣡ ममत्तु
+प᳓वस्वेन्दो प᳓वमानो म᳓होभिः  
+क᳓निक्रदत् प᳓रि वा᳓राणि अर्ष  
+क्री᳓ळञ् चम्वो᳡र् आ᳓ विश पूय᳓मान  
+इ᳓न्द्रं ते र᳓सो मदिरो᳓ ममत्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -215,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील रस। पवमानः- पुनानः सन्। महोभिः- महद्भिः। पवस्व- क्षर। कनिक्रदत्-  शब्दयन्। वाराणि- भाजनानि प्रतीकभूतानि। परि अर्ष- परितः सर। पूयमानः- पुनानः सन्।  क्रीळन्- विहरन्। चम्वोः- द्यावापृथिव्योर्मध्ये। आविश- प्रविश। ते- तव। रसः। इन्द्रम्-  परमेश्वरम्। मदिरः- तर्पको रसः। ममत्तु- मोदयतु॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **महोभिः** पूजकैर्ऋत्विग्भिः **पवमानः** पूयमानस्त्वं **पवस्व** क्षर । ततः **कनिक्रदत्** भृशं शब्दं कुर्वन् **वाराणि** अवेर्वालानि पवित्राणि **परि** **अर्ष** परिगच्छ । किंच **पूयमानः** त्वं **चम्वोः** अधिषवणफलकयोः **क्रीळन** संक्रीडमानः सन् **आ** **विश** पात्राणि प्रविश । अनन्तरं **मदिरः** मदकरः **ते** त्वदीयः **रसः** **इन्द्रं** **ममत्तु** मोदयतु । माद्यतेः ‘ बहुलं छन्दसि' इति श्लुः॥
@@ -232,7 +235,7 @@ _________
 
 Purify yourself, o drop, as self-purifying one, with your mighty powers.  Constantly roaring, rush around the fleeces.  
 Playing, enter the two cups while being purified. Let your exhilarating  sap exhilarate Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
@@ -267,8 +270,6 @@ O riesle, Indu, rieselnder, mit Lichtglanz, und ströme wiehernd durch der Seihe
 Играя, войди в два чана, очищаясь!  
 Да опьянит Индру твой пьянящий сок!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

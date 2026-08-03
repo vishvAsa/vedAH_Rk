@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो असिष्यदद्  
-र꣡क्षांसि अपज꣡ङ्घनत्  
-प्रत्नव꣡द् रोच꣡यन् रु꣡चः
+प᳓वमानो असिष्यदद्  
+र᳓क्षांसि अपज᳓ङ्घनत्  
+प्रत्नव᳓द् रोच᳓यन् रु᳓चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -113,6 +111,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    प्रत्नवद्रुचः- सनातनीर्दीप्तीः। रोचयन्- शोभयन्। पवमानः- पूयमानः सोमः। असिष्यत्- स्यन्दते।  रक्षांसि- दुष्टान्। अपजङ्घनत्- नाशितवान्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **रक्षांसि** राक्षसान् अपजङ्घनत् अपघ्नन् **रुचः** आत्मीया दीप्तीः **प्रत्नवत्** पुराणवत् **रोचयन्** दीपयन् **पवमानः** सोमः **असिष्यदत्** स्यन्दते ॥ ॥ ६ ॥
@@ -151,10 +154,6 @@ Der Pavamana ist geflossen, die Unholde verscheuchend, wie vormals die Lichter l
 
 Er hat geströmt der rieselnde fortstossend die Gespensterschar Und Licht entflammend wie zuvor.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

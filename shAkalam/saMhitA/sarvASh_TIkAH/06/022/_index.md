@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Otherwise, the hymn alternates verses praising Indra’s qualities and deeds in 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २२  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप् ।
 </details>

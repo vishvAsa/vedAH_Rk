@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+054"
 <details><summary>Jamison Brereton</summary>
 
 54 (570)  
-Lord of the Dwelling Place (Vāstospati) ̣  
+Lord of the Dwelling Place (Vāstospati) ̣  
 Vasiṣṭha Maitrāvaruṇi  
 3 verses: triṣṭubh  
 This short hymn (but also see the first verse of the next one) is addressed to the  personified guardian spirit of the house and household and in later ritual is recited  for entry into a new house.
@@ -20,4 +19,10 @@ This short hymn (but also see the first verse of the next one) is addressed to t
 <details><summary>Jamison Brereton Notes</summary>
 
 Lord of the Dwelling Place
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५४  मैत्रावरुणर्वसिष्ठः।वास्तोष्पतिः । त्रिष्टुप् ।
 </details>

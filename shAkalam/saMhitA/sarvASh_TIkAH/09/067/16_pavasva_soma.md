@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "द्विपदा गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा गायत्री"
 - छन्दः - द्विपदा गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम मन्द꣡यन्न्  
-इ꣡न्द्राय म꣡धुमत्तमः
+प᳓वस्व सोम मन्द᳓यन्न्  
+इ᳓न्द्राय म᳓धुमत्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -87,6 +85,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मधुमत्तमः- अतिशयेन मधुरः सन्। मन्दयन्- हर्षयन्। इन्द्राय- परमेश्वराय। सोम- रस। पवस्व-  क्षर॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम मधुमत्तमः अतिशयेन मधुररसवांस्त्वं **मन्दयन्** मादयिता भवन् । यद्वा । **इन्द्राय**। ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानम् । इन्द्रं मोदमानः सन् **पवस्व** इन्द्रार्थमागच्छ ॥
@@ -103,7 +106,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, causing exhilaration, most honeyed for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
@@ -134,8 +137,6 @@ Erfreuend riesle, Soma, du dem Indra als der süsseste.
 Очищайся, о сома, опьяняющий,  
 Самый сладкий для Индры.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

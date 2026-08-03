@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ देव꣡वीतय  
-इ꣡न्द्रस्य याहि निष्कृत꣡म्  
-द्युतानो꣡ वाजि꣡भिर् यतः꣡
+पुनानो᳓ देव᳓वीतय  
+इ᳓न्द्रस्य याहि निष्कृत᳓म्  
+द्युतानो᳓ वाजि᳓भिर् यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    इन्द्रस्य- परमेश्वरस्य। देववीतये- दिव्यानुभवाय। पुनानः- पूयमानः सन्। द्युतानः- दीप्यमानः  सन्। वाजिभिः- बलवद्भिरुपासकैः। यतः- सङ्गृहीतः सन्। निष्कृतम्- स्थानम्। याहि-  गच्छ॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **द्युतानः** दीप्यमानः **वाजिभिः** बलिभिर्यजमानैः **यतः** संगृहीतः **देववीतये** यज्ञार्थं **पुनानः** पूयमानस्त्वम् **इन्द्रस्य** **निष्कृतं** स्थानं **याहि** गच्छ॥ ॥ ३८ ॥
@@ -142,7 +145,7 @@ _________
 
 Becoming purified for the pursuit of the gods, drive to your rendezvous  with Indra,  
 flashing, guided by the prize-seekers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
@@ -168,10 +171,6 @@ Dich läuternd zur Götterladung geh an des Indra Treffort, leuchtend, von den P
 
 Gereinigt geh zum Göttermahl dahin, wo du den Indra triffst, Gelenkt von Priestern, strahlender!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

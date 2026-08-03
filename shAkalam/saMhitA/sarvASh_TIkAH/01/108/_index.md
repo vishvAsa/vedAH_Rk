@@ -1,6 +1,5 @@
 +++
 title = "+108"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The contents of the first six verses are more various. The united front and the 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०८   कुत्स आङ्गिरसः। इन्द्राग्नी। त्रिष्टुप्
 </details>

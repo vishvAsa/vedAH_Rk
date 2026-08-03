@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "गौरिवीतिः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "ककुप्"
 - छन्दः - ककुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व म꣡धुमत्तम  
-इ꣡न्द्राय सोम क्रतुवि꣡त्तमो म꣡दः  
-म꣡हि द्युक्ष꣡तमो म꣡दः
+प᳓वस्व म᳓धुमत्तम  
+इ᳓न्द्राय सोम क्रतुवि᳓त्तमो म᳓दः  
+म᳓हि द्युक्ष᳓तमो म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मधुमत्तमः- अतिशयेन मधुरः सन्। सोम- रस। क्रतुवित्तमः- सत्सङ्कल्प ः सन्। मदः- हर्षकरः  सन्। मदः- तृप्तिकरः सन्। महि- महात्मा सन्। द्युक्षतमः- अतिशयेन दीप्तः सन्। इन्द्राय-  परमेश्वराय। पवस्व- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **मधुमत्तमः** अतिशयेन माधुर्योपेतस्त्वम् **इन्द्राय** इन्द्रार्थं **मदः** मदकरः सन् **पवस्व** क्षर। कीदृशः । **क्रतुवित्तमः** अत्यन्तं प्रज्ञायाः कर्मणो वा लम्भकः **महि** महान् मंहनीयो वा **द्युक्षतमः** अत्यन्तं दीप्तः **मदः** मदहेतुः ॥
@@ -155,7 +158,7 @@ _________
 Purify yourself as the most honeyed for Indra, o Soma, as the  
 exhilarating drink that best finds resolve,  
 greatly, as the exhilarating drink that best rules heaven,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
@@ -189,8 +192,6 @@ Dem Indra ström, o Soma, hell, als süssestes, als kraftverleihendstes Getränk
 Для Индры, о сома, лучше всех создающий силу духа пьянящий напиток,  
 Мощно, больше всего прибывающий на небе пьянящий напиток!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

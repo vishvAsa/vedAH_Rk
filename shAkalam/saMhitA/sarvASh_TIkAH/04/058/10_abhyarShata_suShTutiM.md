@@ -3,7 +3,6 @@ title = "010"
 devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभ्य् अ᳡र्षत सुष्टुतिं꣡ ग꣡व्यम् आजि꣡म्  
-अस्मा꣡सु भद्रा꣡ द्र꣡विणानि धत्त  
-इमं꣡ यज्ञं꣡ नयत देव꣡ता नो  
-घृत꣡स्य धा꣡रा म꣡धुमत् पवन्ते
+अभ्य् अ᳡र्षत सुष्टुतिं᳓ ग᳓व्यम् आजि᳓म्  
+अस्मा᳓सु भद्रा᳓ द्र᳓विणानि धत्त  
+इमं᳓ यज्ञं᳓ नयत देव᳓ता नो  
+घृत᳓स्य धा᳓रा म᳓धुमत् पवन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -212,6 +210,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुष्टुतिम्- शोभनमन्त्रम्। गव्यमाजिम्- चिद्रश्मिसमूहम्। अभ्यर्षत- अभिगमयत। अस्मासु।  भद्रा- कल्याणीः। द्रविणानि- सम्पदः। धत्त- धारयत। इमम्- एतम्। नः- अस्माकम्। यज्ञम्-  दानं पूजां सङ्गतिकरणम्। देवता- देवताः प्रति। नयत। मधुमत्- मधुराः। घृतस्य धाराः-  ज्योतिर्धाराः। पवन्ते- सरन्ति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मदीया ऋत्विजः **गव्यं** गोसमूहरूपं गोसंबन्धिनं वा **आजिं**  संघातम्  **अभ्यर्षत** अभिगच्छत अभिगमयत वा **सुष्टुतिं** शोभनां स्तुतिम् । अत्र गोशब्देनोदकानि गावो वोच्यन्ते । तत्संघातोऽभिप्रेतः । **अस्मासु** यजमानेषु **भद्रा** स्तुत्यानि 'द्रविणानि **धत्त** धारयत । स्तुत्या खलु फलं लप्स्यते । किंच **नः** अस्मदीयम् **इमं** **यज्ञं** **देवता** अत्र यष्टव्यान् देवान् **नयत** प्रापयत । **घृतस्य** **धारा** **मधुमत्** यथा तथा **पवन्ते** गच्छन्ति ॥
@@ -236,7 +239,7 @@ Priests: the text has no nominative native; Ṛtvijaḥ, priests are impied; an 
 
 Rush toward the lovely praise hymn, to the contest for cows; on us  confer auspicious chattels.  
 Lead this sacrifice here to the divinities for us. The streams of ghee  purify themselves like honey.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
@@ -271,8 +274,6 @@ Rinnt hin zum Loblied, zu der Kühe Wettlauf und uns verleihet reiche Güterfül
 Эту нашу жертву ведите к богам!  
 Потоки жира медово очищаются.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

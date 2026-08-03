@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्दो मही꣡म् इ꣡षम्  
-प꣡वस्व विश्व꣡दर्शतः  
-अस्म꣡भ्यं सोम गातुवि꣡त्
+आ᳓ न इन्दो मही᳓म् इ᳓षम्  
+प᳓वस्व विश्व᳓दर्शतः  
+अस्म᳓भ्यं सोम गातुवि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महीम्- महतीम्। इषम्- सदिच्छाम्। विश्वदर्शतः- सर्वैर्दर्शनीयः सन्। नः- अस्मदर्थम्। इन्दो-  क्लेदनशील। सोम- रस। गातुवित्- मन्त्रवित् सन्। अस्मभ्यम्- नः। आ- समन्तात्। पवस्व-  क्षर॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** क्षरणशील दीपनशील वा हे सोम **विश्वदर्शतः** विश्वैः सर्वैर्दर्शनीयः । यद्वा । विश्वं सर्वं वस्तुजातं दर्श्यते ज्ञाप्यतेऽनेनेति । सः विश्वस्य प्रकाशक इत्यर्थः । तादृशस्त्वं **महीमिषं** महत्प्रभूतमन्नं **नः** अस्मभ्यम् **आ** **पवस्व** आगमय । प्रयच्छेत्यर्थः । किंच हे **सोम** अभिषूयमाण पवमान **अस्मभ्यं** **गातुवित्** स्वर्गमार्गस्य लम्भयिता ज्ञापयिता भव ॥
@@ -166,7 +169,7 @@ _________
 
 By purifying yourself bring great refreshment here for us, o drop visible  to all,  
 finding the way for us, o Soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
@@ -193,10 +196,6 @@ Läutere uns, o Saft, hohen Genuß zu, du der Allgesehene uns, Soma, als der Pfa
 
 O Indu, riesle reichen Trunk uns zu, der du allsichtbar bist, O Soma, Wohlfahrt schaffend uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

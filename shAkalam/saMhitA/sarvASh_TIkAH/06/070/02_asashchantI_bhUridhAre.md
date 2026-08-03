@@ -3,7 +3,6 @@ title = "002"
 devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सश्चन्ती भू꣡रिधारे प꣡यस्वती  
-घृतं꣡ दुहाते सुकृ꣡ते शु꣡चिव्रते  
-रा꣡जन्ती अस्य꣡ भु꣡वनस्य रोदसी  
-अस्मे꣡ रे꣡तः सिञ्चतं य꣡न् म꣡नुर्हितम्
+अ᳓सश्चन्ती भू᳓रिधारे प᳓यस्वती  
+घृतं᳓ दुहाते सुकृ᳓ते शु᳓चिव्रते  
+रा᳓जन्ती अस्य᳓ भु᳓वनस्य रोदसी  
+अस्मे᳓ रे᳓तः सिञ्चतं य᳓न् म᳓नुर्हितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+असश्चन्ती- असज्यमाने। भूरिधारे- प्रभूतरसधारे। पयस्वती- उदकवत्यौ। सुकृते- सुष्ठु रचिते।  शुचिव्रते- पवित्रधर्मयुक्ते। घृतम्- उदकम्। दुहाते। अस्य- एतस्य। भुवनस्य- जगतः। राजन्ती-  स्वामिन्यौ। रोदसी- द्यावापृथिव्यौ। अस्मे- अस्मै। मनुर्हितम्- मनुष्यहितम्। रेतः- वीर्यम्।  सिञ्चतम्- क्षरतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **असश्चन्ती** असज्यमाने व्युदस्यन्त्यौ वा **भूरिधारे** बहुधारे । दिवो वृष्टिधाराः पृथिव्याश्चाहुत्युद्भूतरसधाराः । एवमुभयोरपि बहुधारत्वम्। **पयस्वती** उदकवत्यौ । तथा च यास्कः - ‘ असज्यमाने इति वा व्युदस्यन्त्याविति वा बहुधारे उदकवत्यौ ' (निरु. ५.२) इति । **शुचिव्रते** शुचिक्रिये द्यावापृथिव्यौ **सुकृते** शोभनकारिणे यजमानाय **घृतं** सस्यादिसमृद्धिहेतुमुदकं **दुहाते** । अथ प्रत्यक्षस्तुतिः। **रोदसी** हे द्यावापृथिव्यौ **अस्य** **भुवनस्य** भूतजातस्य **राजन्ती** ईशाने युवाम् **अस्मे** अस्मासु **रेतः** प्रजननसमर्थं वीर्यं **सिञ्चतम्** । **यत्** रेतः **मनुर्हितं** मनुष्येभ्यो हितम् ॥
@@ -236,7 +239,7 @@ _________
 Never drying up, with abundant streams, rich in milk, they milk  out ghee for the good performer (of rituals), the two of pure  
 commandments.  
 Ruling over this creation, you two World-Halves, for us pour the semen,  as was established by Manu.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
@@ -273,8 +276,6 @@ Ihr unvergleichlich, reich an Strömen, milchversehn, ergiesset Fett dem Frommen
 О два мира, царящие над этой вселенной,  
 Излейте нам семя, которое установлено Манусом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

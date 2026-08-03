@@ -1,6 +1,5 @@
 +++
 title = "+036"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ In this hymn Indra is honored twice (vss. 1 and 5) but by two different priests,
 <details><summary>Jamison Brereton Notes</summary>
 
 Ṛtugrahas
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३६  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।ऋतुदेवताः - १ इन्द्रो मधुश्च, २ मरुतो माधवश्च,  ३ त्वष्टा शुक्रश्च, ४ अग्निः शुचिश्च, ५ इन्द्रो नभश्च, ६ मित्रावरुणौ नभस्यश्च। जगती
 </details>

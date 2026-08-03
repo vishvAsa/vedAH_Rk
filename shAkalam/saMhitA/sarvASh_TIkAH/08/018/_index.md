@@ -1,6 +1,5 @@
 +++
 title = "+018"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,13 +10,19 @@ title = "+018"
 <details><summary>Jamison Brereton</summary>
 
 18 (638)  
-Ādityas  
+Ādityas  
 Irimbiṭhi Kāṇva  
 22 verses: uṣṇih, arranged in trcas, with a final verse ̥  
-Like the other hymns to the Ādityas in VIII (47, 67), this hymn is fairly elementary  and rarely strays far from its theme—the hope that the Ādityas (and, toward the  end [vss. 16, 20, 21], other gods) will provide protection from various dangers and  enemies and long life for us and our offspring. There is a fair amount of coherence  within tr̥cas—for example, the dominance of Aditi in verses 4–6, the repetition of  śám “weal” and the four-syllable tag refrain in verses 7–9.
+Like the other hymns to the Ādityas in VIII (47, 67), this hymn is fairly elementary  and rarely strays far from its theme—the hope that the Ādityas (and, toward the  end [vss. 16, 20, 21], other gods) will provide protection from various dangers and  enemies and long life for us and our offspring. There is a fair amount of coherence  within tr̥cas—for example, the dominance of Aditi in verses 4–6, the repetition of  śám “weal” and the four-syllable tag refrain in verses 7–9.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 Ādityas
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८  इरिम्बिठिः काण्वः। आदित्याः, ४, ६, ७ अदितिः, ८ अश्विनौ, ९ अग्निसूर्यानिलाः। उष्णिक्
 </details>

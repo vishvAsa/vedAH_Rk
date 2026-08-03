@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "सुकीर्तिः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,9 +11,7 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/13_tasya_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/13_tasya_vayaM.md"> </div>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -23,4 +20,3 @@ ChandaH = "त्रिष्टुप्"
 - पादनिचृत्त्रिष्टुप्
 - धैवतः
 </details>
-

@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ दि꣡वं वि꣡ आ꣡सरत्  
-तिरो꣡ र꣡जांसि अ꣡स्पृतः  
-प꣡वमानः सुअध्वरः꣡
+एष᳓ दि᳓वं वि᳓ आ᳓सरत्  
+तिरो᳓ र᳓जांसि अ᳓स्पृतः  
+प᳓वमानः सुअध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः। अस्पृतः- अहिंसितः। स्वध्वरः- शोभनध्वररहितः। पवमानः- पवित्रः सोमः। रजांसि-  भौमान् लोकान्। तिरः- अतिक्रम्य। दिवम्- चिदाकाशम्। व्यासरत्- विसरति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** क्षरन् **एषः** सोमः **स्वध्वरः** सुयज्ञः **अस्पृतः** कैनाप्यहिंसितश्च सन् **रजांसि** लोकान् **तिरः** तिरस्कुर्वन् यज्ञात् **दिवं** प्रति **व्यासरत्** विसरति गच्छति ॥
@@ -162,7 +165,7 @@ _________
 
 This one has now run through heaven, across the airy spaces, and  cannot be recaptured—  
 good at the rite as he purifies himself.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
@@ -200,8 +203,6 @@ Er ist's, der durch den Himmel strömt und durch die Lüfte unverwehrt, An Opfer
 Сквозь пространства, непокоренный,  
 Павамана, чей образ прекрасен.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

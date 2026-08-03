@@ -1,6 +1,5 @@
 +++
 title = "+142"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+142"
 <details><summary>Jamison Brereton</summary>
 
 142  
-Āprī (1–12), Indra (13)  
+Āprī (1–12), Indra (13)  
 Dīrghatamas Aucathya  
 13 verses: anuṣṭubh  
 Unlike Dīrghatamas’s dense and dexterous Agni hymns among which this hymn is  embedded, this Āprī hymn not only follows the set pattern of that genre, but, using  the standard Āprī diction and tropes (for which see the introduction to I.13, as well  as the general introduction, pp. 33, 63), does so without any perceptible tricks or  poetic exuberance. Its only deviation from the norm is having thirteen verses rather  than the usual eleven or twelve, by including both Tanūnapāt (vs. 2) and Narāśaṃsa  (vs. 3) and by having two svāhā verses at the end (12–13). Dīrghatamas (if he is  indeed the poet) seems to be treading water here.
@@ -20,4 +19,10 @@ Unlike Dīrghatamas’s dense and dexterous Agni hymns among which this hymn is 
 <details><summary>Jamison Brereton Notes</summary>
 
 Āprī
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४२   दीर्घतमा औचथ्यः। आप्रीसूक्तं - १ इध्मः समिद्धोऽग्निर्वा, २ तनूनपात्, ३ नराशंसः, ४ इळः, ५ बर्हिः, ६  देवीर्द्वारः, ७ उषासानक्ता, ८ दैव्यौ होतारौ प्रचेतसौ, ९ तिस्रो देव्यः सरस्वतीळाभारत्यः, १० त्वष्टा, ११  वनस्पतिः, १२ स्वाहाकृतयः, १३ इन्द्रः । । अनुष्टुप् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+007"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ of sa(m): sákhāyaḥ sáṃ vaḥ samyáñcam. In the middle verses (4, 5, 7, 
 As mentioned above, the poet extends a statement across three verses (6–8).  This highly unusual construction marks the climax of the hymn, which describes  the moment when Agni “streams forth.” Indeed, the extended statement even  iconically suggests the extension of the sacrificial fire as it creeps throughout  the wood. However, this strategy creates challenging syntax: verse 6 is a relative  clause describing Agni, verse 7 a causal clause that explains how it is that Agni is  a homeland for Āyu and his descendants, and verse 8 concludes with the appear  
 ance of Agni.  
 Finally, one philological explanation:  in verse 7 we read ákṣitam rather than  ā́kṣitam with the Padapāṭha.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७  इष आत्रेयः।अग्निः। अनुष्टुप्, १० पङ्क्तिः
 </details>

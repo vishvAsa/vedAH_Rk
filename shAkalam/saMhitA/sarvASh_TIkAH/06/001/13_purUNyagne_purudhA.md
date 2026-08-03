@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पुरू꣡णि अग्ने पुरुधा꣡ तुवाया꣡  
-व꣡सूनि राजन् वसु꣡ता ते अश्याम्  
-पुरू꣡णि हि꣡ त्वे꣡ पुरुवार स꣡न्ति  
-अ꣡ग्ने व꣡सु विधते꣡ रा꣡जनि त्वे꣡
+पुरू᳓णि अग्ने पुरुधा᳓ तुवाया᳓  
+व᳓सूनि राजन् वसु᳓ता ते अश्याम्  
+पुरू᳓णि हि᳓ त्वे᳓ पुरुवार स᳓न्ति  
+अ᳓ग्ने व᳓सु विधते᳓ रा᳓जनि त्वे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। पुरुधा- बहुधा। ते- तव। पुरूणि- बहूनि। वसूनि- धनानि। राजन्- स्वामिन्। वसुता-  धनवत्तायै। त्वाया- त्वत्कामनयेति वेङ्कटमाधवः। अश्याम्- अनुभवेयम्। पुरुवार- बहुभिर्वरणीय। ५    पुरूणि- बहूनि। ते- तुभ्यम्। हि- खलु। सन्ति- भवन्ति। अग्ने। राजनि- स्वामिनि। ते- त्वयि।  वसु- यद्धनमस्ति तत्। विधते- परिचरते भवतु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **राजन्** **ते** तव **पुरूणि** बहूनि **पुरुधा** गवश्विादिरूपेण बहुप्रकाराणि **वसूनि** धनानि **वसुता** वसुतायै वसुमत्त्वाय **अश्यां** व्याप्नुयां भुञ्जीय वा । अत्र भरतस्वामी वसुतात इत्येकपदं सप्तम्यन्तं चकार भट्टभास्करमिश्रोऽप्येकपदं संबुद्धयन्तं चकार । हे **पुरुवार** बहुभिर्वरणीय **अग्ने** राजनि राजमाने **त्वे** त्वयि **पुरूणि** बहूनि **वसु** वसूनि **त्वे** त्वां **विधते** परिचरते मह्यं दातव्यानि **सन्ति** ॥ ॥ ३६ ॥
@@ -251,7 +254,7 @@ _________
 
 Many goods many-fold in their goodness might I attain of you through  seeking you, o King Agni.  
 For many are the goods in you, o Agni of many favors, for the one who  does (you) honor, since you are king.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
@@ -286,8 +289,6 @@ Lass viele Güter reichlich mich erlangen, durch deine Huld und Güte, König Ag
 Ведь многие блага заключены в тебе,  
 О Агни, обладающий многими желанными вещами, в тебе, царе, – для почитающего (тебя)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

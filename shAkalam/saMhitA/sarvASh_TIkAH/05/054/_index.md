@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ One of the most intensely descriptive of the Marut hymns, with shifting images  
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५४  श्यावाश्व आत्रेयः।मरुतः। जगती, १४ त्रिष्टुप् ।
 </details>

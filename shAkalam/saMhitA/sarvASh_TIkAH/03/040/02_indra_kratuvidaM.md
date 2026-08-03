@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र क्रतुवि꣡दं सुतं꣡  
-सो꣡मं हर्य पुरुष्टुत  
-पि꣡बा꣡ वृषस्व ता꣡तृपिम्
+इ᳓न्द्र क्रतुवि᳓दं सुतं᳓  
+सो᳓मं हर्य पुरुष्टुत  
+पि᳓बा᳓ वृषस्व ता᳓तृपिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। क्रतुविदम्- प्रज्ञाविदम्। सुतम्- निष्पन्नम्। सोमम्- रसम्। पिब- अनुभव। हर्य-  आकर्षक। पुरुष्टुत- बहुभिः स्तुत। तातृपिम्- तर्पकं रसम्। वृषस्व- सिञ्च॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **क्रतुविदं** क्रतोः प्रज्ञाया लम्भकं **सुतम्** अभिषुतमिमं **सोमं** **हर्य** पातुं कामयस्व । हे पुरुष्टुत पुरुभिर्बहुभिः स्तुतेन्द्र **तातृपिं** तर्पकमाप्यायनकारिणमिमं सोमं **पिब** । पीतमिमं सोमम् **आ** **वृषस्व** जठरे सिञ्च । यथा नाभेरधो न पतति तथा धारयेति भावः ॥ हर्य । ‘ हर्य गतिकान्त्योः ' इत्यस्य लोटि रूपम् । निघातः । पुरुष्टुत । ' स्तुतस्तोमयोश्छन्दसि ' इति संहितायां षत्वम् । वृषस्व । वृष सेचने ' इत्यस्य लोटि रूपम् । आङ उत्तरत्वात् निघातः । तातृपिम् ।' तृप प्रीणने' इत्यस्मात् ‘छन्दसि सदादिभ्यो दर्शनात् ' (पा. सू. ३. २. १७१. २) इति किन् । तस्य लिड्वद्भावात् द्विर्वचनादि । संहितायाम् ‘ अन्येषामपि ' इत्यभ्यासस्य दीर्घः । नित्त्वादाद्युदात्तः ॥
@@ -157,7 +160,7 @@ Imbibe: vṛṣasva, sprinkle, shower, that is, into the stomach, so that it may
 <details><summary>Jamison Brereton</summary>
 
 Indra! Enjoy the pressed soma that finds the will, you much-praised one. Drink it, drench yourself in it—the ever satisfying (soma).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">
@@ -192,8 +195,6 @@ Nimm Indra an den Somasaft, der Kraft gibt, viel gepriesener; Trink, schlucke de
 Пей, вливай в себя насыщающего!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -214,7 +215,7 @@ Nimm Indra an den Somasaft, der Kraft gibt, viel gepriesener; Trink, schlucke de
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! आप बुद्धि के बढ़ानेवाले खाने तथा पीने योग्य वस्तु का भोजन और पान कर तृप्त होकर बल आरोग्य बुद्धि और नम्रता को बढ़ाइये ॥२॥
+भावार्थभाषाः -  हे राजन् ! आप बुद्धि के बढ़ानेवाले खाने तथा पीने योग्य वस्तु का भोजन और पान कर तृप्त होकर बल आरोग्य बुद्धि और नम्रता को बढ़ाइये ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

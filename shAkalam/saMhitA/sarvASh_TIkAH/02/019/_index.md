@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ The hymn invokes Indra in his many roles as a warrior. It begins with Indra’s 
 principally the release of the waters, verses 4–5 connect it also with the release of  the sun, which takes place “in a single day.” This may be a reference to the ritual  day, since the Morning Pressing may be connected with the release of the dawns  and the Midday Pressing with the release of the waters, or it may reflect the ten  
 dency elsewhere to fold the release of light into the effects of the Indra’s victory  over Vr̥tra (cf. I.32.4). The poet then evokes Indra’s help for Kutsa and Divodāsa  (vs. 6) before announcing that the Gr̥tsamadas, in exchange for their offerings, also  deserve Indra’s support in overcoming their enemies.  
 The hymn is dominated by racing imagery that describes both divine and human  action. This imagery is reflected in Indra’s deeds: the waters “charge forth” after  Indra destroyed Vr̥tra (vs. 2), and Indra’s horse Etaśa won wealth like the prize in  a race (vs. 5). But it is reflected also in mortals’ efforts: men contend to win the sun  (vs. 4d), and the sacrificers strive to win as if in a race (vs. 7).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१९ गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। त्रिष्टुप्
 </details>

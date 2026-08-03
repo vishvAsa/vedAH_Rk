@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने त꣡व त्य꣡द् उक्थि꣡यं  
-देवे꣡षु अस्ति आ꣡पियम्  
-स꣡ नः सत्तो꣡ मनुष्व꣡द् आ꣡  
-देवा꣡न् यक्षि विदु꣡ष्टरो  
-वित्त꣡म् मे अस्य꣡ रोदसी
+अ᳓ग्ने त᳓व त्य᳓द् उक्थि᳓यं  
+देवे᳓षु अस्ति आ᳓पियम्  
+स᳓ नः सत्तो᳓ मनुष्व᳓द् आ᳓  
+देवा᳓न् यक्षि विदु᳓ष्टरो  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -227,6 +225,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- सर्वभूतहितक्रतो। तव- भवतः। त्यत्- सा। उक्थ्यम्- मन्त्रात्मिका। आप्यम्- व्याप्तिः।  देवेषु- देवतासु। अस्ति- भवति। सः- तादृशः। मनुष्वत्- अवबोधरसवदाप्तः। मनु अवबोधने।  विदुष्टरः- विद्वत्तमः। सत्तः- निषण्णः सन्। देवान्- द्योतनशक्तीः। आ- मर्यादया। नः-  अस्मदर्थम्। यक्षि- उपास्व॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने तव **उक्थ्यं** प्रशस्यं **त्यत्** श्रुतिप्रसिद्धम्' **आप्यम्** । आपिर्बन्धुः । तस्य भावः । बान्धवं **देवेषु** दानादिगुणयुक्तेष्विन्द्रादिषु **अन्ति** विद्यते । तस्मात् **सः** तादृशः **विदुष्टरः** विद्वत्तरस्त्वं **नः** अस्माकं यज्ञे सत्तः निषण्णः सन् 'देवान् तानिन्द्रादीन् **आ** शास्त्रमर्यादया **यक्षि** यज हविर्भिः पूजय । तत्र दृष्टान्तः । **मनुष्वत्** । यथा मनूनां यज्ञे तद्वत् । अन्यत् पूर्ववत् ॥ आप्यम् । ‘ आप्लृ व्याप्तौ ' । अस्मात् ण्यन्तात् ' अच इः' इति इप्रत्ययः । ब्राह्मणादित्वात् ष्यन् । सत्तः । 'नसत्तनिषत्त' (पा. सू. ८. २. ६१ ) इति निपातनात् निष्ठानत्वाभावः । छान्दसो निशब्दलोपो द्रष्टव्यः । मनुष्वत् । मनेरौणादिक उसिप्रत्ययः । तत्र तस्येव' ( पा सू. ५. १. ११६) इति षष्ठ्यर्थे वतिः । ‘ नभोऽङ्गिरोमनुषां वत्युपसंख्यानम् ' (पा. सू. १. ४. १८. ३) इति भत्वेन पदत्वाभावात् रुत्वाद्यभावः । यक्षि । 'बहुलं छन्दसि ' इति शपो लुक् । व्रश्चादिपत्वे कुत्वषत्वे । विदुष्टरः । विद्वस्शब्दात् तरपि अयस्मयादिवेन भत्वात् ' वसोः संप्रसारणम्' इति संप्रसारणम् । ‘शासिवसिघसीनां च' इति षण्वम् ॥
@@ -246,7 +249,7 @@ O Agni, it exists: this friendship of yours among the gods, worthy to be  hymned
 
 Seated here, sacrifice to the gods for us as you did for Manu—as the  one who knows better.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
@@ -256,6 +259,7 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -288,8 +292,6 @@ Preiswerth ist deine Brüderschaft, o Agni, mit der Götterschar, Drum setz dich
 Принеси жертву богам, как самый сведущий!  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+190"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,8 +10,14 @@ title = "+190"
 <details><summary>Jamison Brereton</summary>
 
 190 (1016)  
-Bhāvavr̥ttam (“Cosmogonic”)  
+Bhāvavr̥ttam (“Cosmogonic”)  
 Aghamarṣaṇa Mādhuchandasa  
 3 verses: anuṣṭubh  
 This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ultimate  origin of everything. The entities created and the order and source of their cre ation are curious and thought-provoking, but unlike the famous cosmogonic hymn  X.129, there are no puzzles to decode.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १९०  माधुच्छन्दसोऽघमर्षणः। भाववृत्तम् । अनुष्टुप् ।
 </details>

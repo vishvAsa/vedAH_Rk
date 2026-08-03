@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प त्यं꣡ वृजिनं꣡ रिपुं꣡  
-स्तेन꣡म् अग्ने दुराधि꣡यम्  
-दविष्ठ꣡म् अस्य सत्पते कृधी꣡ सुग꣡म्
+अ᳓प त्यं᳓ वृजिनं᳓ रिपुं᳓  
+स्तेन᳓म् अग्ने दुराधि᳓यम्  
+दविष्ठ᳓म् अस्य सत्पते कृधी᳓ सुग᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- सर्वभूतहितक्रतो। त्यम्- तम्। वृजिनम्- आवर्जनीयम्। रिपुम्- शत्रुम्। स्तेनम्। दुराध्यम्-  दुःखप्रापकम्। दविष्ठम्- दूरतमम्। अप अस्य- अपक्षिप। सत्पते- सत्तापालक। सुगम्- मार्गं  सुगम्यम्। कृधि- कुरु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** त्वं **त्यं** तं प्रसिद्धं **वृजिनं** कुटिलं **रिपुं** 'पापकारिणं **दुराध्यं** दुःखस्याध्यातारं दुष्टाभिप्रायमेवंभूतं **स्तेनं** हिंसकं **दविष्ठं** दूरतमम् **अप** **अस्य** अपक्षिप । **असु** क्षेपणे ' इति धातुः । हे **सत्पते** सतां पालयितरग्ने अस्माकं **सुगं** शोभनेन गन्तव्यं सुखं **कृधि** कुरु । अत्र सर्वदेवात्मकस्याग्नेः स्तवनाद्वैश्वदेवत्वम् ॥
@@ -196,8 +199,6 @@ Geldner attaches daviṣṭhám asya satpate to ab and begins a new cl. with k�
 Vs. 15 also supports my interpr. in another way: kártā naḥ … sugám “make good passage for us” is syntactically parallel to my interpr. of 13 … asya … kṛdhī́ sugám “make good passage for him,” with naḥ corresponding to asya. As for making good passage for a criminal, the point is to get him as far away as fast as possible, and good passage will accomplish this faster than bad.
 
 (Renou’s interpr. is overly complex; though he does find space for the asya, he does not deal with the accented verb. I won’t treat it further here.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
@@ -230,8 +231,6 @@ Wirf weit hinweg, o Agni, den trügerischen Feind, den bösegesinnten Dieb, o st
 Вора, о Агни, с дурными замыслами!  
 Создай, о добрый господин, хороший путь как можно дальше от него!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

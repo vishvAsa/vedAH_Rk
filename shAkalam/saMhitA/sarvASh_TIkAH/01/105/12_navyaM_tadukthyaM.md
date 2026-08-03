@@ -3,7 +3,6 @@ title = "012"
 devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-न꣡व्यं त꣡द् उक्थि꣡यं हितं꣡  
-दे꣡वासः सुप्रवाचन꣡म्  
-ऋत꣡म् अर्षन्ति सि꣡न्धवः  
-सत्यं꣡ तातान सू꣡रियो  
-वित्त꣡म् मे अस्य꣡ रोदसी
+न᳓व्यं त᳓द् उक्थि᳓यं हितं᳓  
+दे᳓वासः सुप्रवाचन᳓म्  
+ऋत᳓म् अर्षन्ति सि᳓न्धवः  
+सत्यं᳓ तातान सू᳓रियो  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,6 +204,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवासः- देवताः। सुप्रवाचनम्- सुष्ठु वाचयितुं शक्यम्। नव्यम्- अयातयाममगतरसम्। हितम्-  सर्वेषां हितम्। तत्- तम्। उक्थ्यम्- मन्त्रम्। अर्षन्ति- प्रेरयन्ति। सिन्धवः- आपो  जीवाधारशक्तिप्रवाहाः। ऋतम्- प्रकृतिनियतिभूतसत्यम्। अर्षन्ति- प्रेरयन्ति। सूर्यः- आत्मा।  सत्यम्- स्वप्रकाशं चिन्मयं सत्यम्। ततान- विस्तृतवान्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देवासः** देवाः **नव्यं** नवतरम् **उक्थ्यं** प्रशस्यं स्तुत्यर्हं **सुप्रवाचनं** सुष्ठु ऋत्विग्भिर्वाचयितुं शक्यम् एवंभूतं **तत्** भवदीयं बलं **हितं** युष्मासु निहितम् । अतो युष्मदीयेन बलेन **सिन्धवः** स्यन्दनशीला नद्यः **ऋतम्** उदकम् **अर्षन्ति** आलस्यराहित्येन सर्वदा प्रेरयन्ति । अशोष्याः सत्यः प्रवहन्तीत्यर्थः । तथा **सूर्यः** **सत्यं** सर्वदा विद्यमानं स्वकीयं तेजः **ततान** आतनोति विस्तारयति । अन्यत् समानम् ॥ सुप्रवाचनम् । वच परिभाषणे ' । अस्मात् ण्यन्तात् 'अन्येभ्योऽपि दृश्यते 'इति स्वलर्थे युच् । अर्षन्ति । अतेर्लेटि • सिब्बहुलं लेटि' इति सिप् । गुणः । ततान । ‘अन्येषामपि दृश्यते' इति संहितायामभ्यासस्य दीर्घत्वम् ॥
@@ -230,7 +233,7 @@ Commended vigour: **bala** = strength, which is ukthyam (praiseworthy)
 Anew has this (speech) been established worthy to be spoken, good to  proclaim, o gods.  
 The rivers stream truth; the sun stretches through the real.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
@@ -266,8 +269,6 @@ Preiswürdig ist dies neue Werk, o Götter, und des Rühmens werth, Die Flüsse 
 Правду протянуло солнце.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+149"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ of Agni as the hymn proceeds. This gradual disclosure of the subject of the hymn
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४९   दीर्घतमा औचथ्यः।अग्निः। विराट्।
 </details>

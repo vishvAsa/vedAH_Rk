@@ -1,6 +1,5 @@
 +++
 title = "+058"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A description of the fearsome power of the Maruts, embodiments of the thun derst
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५८  मैत्रावरुणर्वसिष्ठः।मरुतः। त्रिष्टुप्।
 </details>

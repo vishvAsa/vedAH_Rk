@@ -1,5 +1,0 @@
-+++
-title = "०३ अस्तमिते ध्रुवं दर्शयति"
-
-+++
-3. He shows her the polar-star with the words, 'Firm be thou, thriving with me!'

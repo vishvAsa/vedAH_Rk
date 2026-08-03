@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञे꣡-यज्ञे स꣡ म꣡र्तियो  
-देवा꣡न् सपर्यति  
-यः꣡ सुम्नइ꣡र् दीर्घश्रु꣡त्तम  
-आवि꣡वासति एनान्
+यज्ञे᳓-यज्ञे स᳓ म᳓र्तियो  
+देवा᳓न् सपर्यति  
+यः᳓ सुम्नइ᳓र् दीर्घश्रु᳓त्तम  
+आवि᳓वासति एनान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। दीर्घश्रुत्तमः- अतिशयेनातीन्द्रियश्रवणोपलक्षितदिव्यानुभूतियुक्तः। सुम्नैः- सुखमयीभिः  सेवाभिः। एनान्- आचार्यान्। आविवासाति- परिचरति। सः। मर्त्यः- मनुष्यः। यज्ञेयज्ञे-  प्रत्युपासनम्। देवान्। सपर्यति- परिचरति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **मर्त्यः** मनुष्यः **यज्ञेयज्ञे** सर्वेषु यज्ञेषु **देवान्** सर्वान् **सपर्यति** परिचरति **यः** **दीर्घश्रुत्तमः** अतिशयेन दीर्घस्य बहोः शास्त्रस्य श्रोता यो मनुष्यः **सुम्नैः** सुखकरैर्हविर्भिः **एनान्** देवान् **आविवासाति** परिचरति । असुखकरैर्हविर्भिः कृतमपि कर्म समर्थं न भवतीत्यर्थः ॥
@@ -186,10 +189,6 @@ Bei jedem Opfer hält der Sterbliche die Götter in Ehren, der recht weithin ver
 
 Bei jedem Opfer verehrt derjenige Sterbliche die Götter, welcher, am weitesten sich hören lassend, sie durch Preislieder herbeilockt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

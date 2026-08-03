@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अह꣡म् प्रत्ने꣡न म꣡न्मना  
-गि꣡रः शुम्भामि कण्वव꣡त्  
-ये꣡ने꣡न्द्रः शु꣡ष्मम् इ꣡द् दधे꣡
+अह᳓म् प्रत्ने᳓न म᳓न्मना  
+गि᳓रः शुम्भामि कण्वव᳓त्  
+ये᳓ने᳓न्द्रः शु᳓ष्मम् इ᳓द् दधे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। इन्द्रः। शुष्मम्- बलम्। दधे- धारयति। तेन। प्रत्नेन- पुराणेन। मन्मना- ध्यानेन मननेन  वा। अहम्। कण्ववत्- ऋषिवत्। गिरः- वचः। शुम्भामि- अलङ्करोमि॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **कण्ववत्** मम जनकः कण्व इव **अहं** **प्रत्नेन** नित्येन वेदरूपेण **मन्मना** मनसाधनेनेन्द्रविषयेण स्तोत्रेण **गिरः** वाचः **शुम्भामि** अलंकरोमि । यदा हीन्द्रविषये प्रयुज्यन्ते तदानीं यथार्थत्वाद्वाचोऽलंकृता भवन्ति । **येन** खलु स्तोत्रेण **इन्द्रः** **शुष्मं** शत्रूणां शोषकं बलं **दधे** **इत्** धत्त एव धारयत्येव । यत्स्तोत्रमिन्द्रे ईदृशं बलमवश्यं जनयति तेन मन्मनेत्यर्थः ॥
@@ -170,7 +173,7 @@ _________
 
 I, like Kaṇva, beautify my songs with an age-old thought—  
 just the one with which Indra acquired his unbridled force.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
@@ -204,8 +207,6 @@ Nach alter Weise schmücke ich nach Kanva's Art die Lieder aus, Durch welche Ind
 Украшаю (свои) песни в духе Канвов,  
 Силой которого Индра обрел мужество.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

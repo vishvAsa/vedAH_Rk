@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ the hymn is also framed as a journey/invitation hymn. The second verse asks  whi
 tion at least) to chide him slightly for tarrying (vs. 5), but finally announces (vs.  6) that Indra has arrived with both high spirits and equipment. (The references  to the sun in vss. 5 and 6 are opaque, but we tentatively suggest that they refer to  the early-morning soma sacrifice.) In the next tr̥ca (vss. 7–9) the poet seems reas  
 sured: despite Indra’s wide-ranging travels his generosity never flags and nothing  gets in its way.  
 In contrast to the middle verses 4–9, the last two tr̥cas (vss. 10–15) are quite  straightforward and characterized by the insistent fronting of the pronoun “us/ our,” which opens every verse, as well as several intermediate pādas (10bc, 12c). The  message is simple: help us and give to us in every way possible, ending with a wish  for fame among the gods, fame higher than heaven itself (vs. 15).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३१  वामदेवो गौतमः। इन्द्रः। गायत्री, ३ पादनिचृत्
 </details>

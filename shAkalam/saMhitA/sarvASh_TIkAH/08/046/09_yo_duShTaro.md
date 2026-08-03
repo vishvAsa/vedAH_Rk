@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ दुष्ट꣡रो विश्ववार श्रवा꣡यियो  
-वा꣡जेषु अ꣡स्ति तरुता꣡  
-स꣡ नः शविष्ठ स꣡वना꣡ वसो गहि  
-गमे꣡म गो꣡मति व्रजे꣡
+यो᳓ दुष्ट᳓रो विश्ववार श्रवा᳓यियो  
+वा᳓जेषु अ᳓स्ति तरुता᳓  
+स᳓ नः शविष्ठ स᳓वना᳓ वसो गहि  
+गमे᳓म गो᳓मति व्रजे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,6 +209,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। दुष्टरः- अनभिभाव्यः। विश्ववारः- सर्वैर्वरणीयः। श्रवाय्यः- श्रुतिप्रसिद्धः। वाजेषु- युद्धेषु।  तरुता- तारकः। अस्ति- भवति। सः। नः- अस्मभ्यम्। शविष्ठ- बलिष्ठ। वसो- शरण्य। सवना-  सम्भजनानि। आ गहि- आगच्छ। गोमति व्रजे- चिद्रश्मिसमूहम्। गमेम- गच्छेम॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्ववार** विश्वैर्वरणीयेन्द्र **वाजेषु** युद्धेषु **यः** तव **दुष्टरः** दुःखेन तरीतुं शक्यः **तरुता** शत्रूणां तारकः **अस्ति** भवति हे **वसो** वासक हे **शविष्ठ** अतिशयेन बलवन्निन्द्र **सः** त्वं **नः** **सवना** अस्माकं सवनानि **आ** **गहि** आगच्छ । वयं च **गोमति** **व्रजे** गोमन्तं व्रजं **गमेम** गच्छेम ॥
@@ -233,7 +236,7 @@ Delivererfromm enemies: tarutr. = jetr. (RV 8.1.28)
 
 Which, difficult to surpass, worthy of fame, is the overcomer in the  prize-contests, o you who grant all wishes—  
 you, o strongest good one—come here to our pressings. May we go to a  pen full of cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
@@ -268,8 +271,6 @@ Der unbesiegbar, rühmenswerth, allreicher du, in allen Kämpfen Sieger ist; O k
 Приходи, о сильнейший, на наши выжимания, о Васу!  
 Мы хотим отправиться к загону, полному коров!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

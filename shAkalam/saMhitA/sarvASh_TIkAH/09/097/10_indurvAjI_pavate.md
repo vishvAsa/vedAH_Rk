@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् वाजी꣡ पवते गो꣡निओघा  
-इ꣡न्द्रे सो꣡मः स꣡ह इ꣡न्वन् म꣡दाय  
-ह꣡न्ति र꣡क्षो बा꣡धते प꣡र्य् अ꣡रातीर्  
-व꣡रिवः कृण्व꣡न् वृज꣡नस्य रा꣡जा
+इ᳓न्दुर् वाजी᳓ पवते गो᳓निओघा  
+इ᳓न्द्रे सो᳓मः स᳓ह इ᳓न्वन् म᳓दाय  
+ह᳓न्ति र᳓क्षो बा᳓धते प᳓र्य् अ᳓रातीर्  
+व᳓रिवः कृण्व᳓न् वृज᳓नस्य रा᳓जा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजी- तुरगभूतः। गोन्योघाः- चिद्रससङ्घातः। इन्दुः- क्लेदनशीलः। सोमः- रसः। सहः-  शक्तिम्। मदाय- हर्षाय। इन्द्रे- ईशनाधिदैवते। इन्वन्- प्रेरयन्। पवते- क्षरति। वरिवः- संपदः।  कृण्वन्- कुर्वन्। वृजनस्य- युद्धस्य। राजा- स्वामी। रक्षः- क्रौर्यम्। हन्ति- नाशयति। अरातीः-  शत्रून्। परि बाधते॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्दुः क्षरणशीलः वाजी बलवान् गोन्योघाः गमनशीलनीचीनाग्ररससङ्घातः इन्द्रे स- होबलकररसं इन्वन् प्रेरयन् सोमः मदाय तस्यमदार्थं पवते क्षरति । किञ्च रक्षःकुलं हन्ति हिनस्ति । किञ्च अरातीः अरातीन् शत्रून्परिबाधते परितः संहरति । कीदृशः वरिवोवरणीयं धनं कृण्वन् स्तोतॄणां कुर्वन् वृजनस्य बलस्यराजा ईशितासोमइति ॥ १० ॥
@@ -248,8 +251,6 @@ The sense and derivation of gó-nyoghas- are disputed. Geldner tr. “der die K�
 ein ved. *oghas- ‘Strömung’ verwertbar.” Mayr instead tentatively follows the Geldner/Renou interpr. (s.v. OH), “vielleicht ‘die Kühe preisend’ od. dgl.” I am puzzled by this blanket rejection, esp. from Mayr, who cites (s.v. ogha-) with approbation Narten’s positing (YH 221) of an Indo-Iranian root √*uag̯ h ‘fliessen’, found in ogha-, aughá-.
 
 Admittedly, there is no independently attested s-stem *óghas-. But consider the semantically and morphologically parallel gó-arṇas- (4x) ‘having a flood of cows’, with the well-attested s-stem árṇas- ‘flood’. It is easy (at least for me) to imagine that an s-stem *óghas- was coined in analogy to árṇas- for just this cmpd.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
@@ -285,8 +286,6 @@ Der schnelle Indu strömt zu Kühen eilend, dem Indra Kraft zum Rausch erregend,
 Он убивает ракшаса, он оттесняет кругом враждебные силы,  
 Создавая широкое пространство, (этот) царь общины.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+100"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+100"
 <details><summary>Jamison Brereton</summary>
 
 100 (709)  
-Indra (1–9, 12), Vāc (10–11)  
+Indra (1–9, 12), Vāc (10–11)  
 Nema Bhārgava (1–3, 6–12), Indra (4–5)  
 12 verses: triṣṭubh, except jagatī 6, anuṣṭubh 7–9  
 A vivid but baffling hymn, consisting in great part of snatches of dialogue or direct  speech that may or may not be connected with each other. Needless to say, it has  been much discussed and disagreed upon, and our own interpretation of it is not  entirely secure.  
@@ -28,4 +27,10 @@ We do not claim to have solved the manifold difficulties of this hymn, but we  h
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra On the hymn in general see the published introduction, as well as Oldenberg (Noten ad loc. and "Indra, Vāyu, der Vrtrakampf ̥ und die Erschaffung der Sprache” [pp. 54-60 in “Ākhyāna Hymnen im Ṛigveda,” ZDMG 39 (1885): 52-90 = KlSch. 474-512]) and Geldner’s long and rather despairing introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १००  १-३, ६-१२ नेमो भार्गवः, ४-५ इन्द्रः।इन्द्रः, ८ सुपर्णः, ९ वज्रो वा, १०-११ वाक् । त्रिष्टुप्, ६ जगती, ७- ९ अनुष्टुप्
 </details>

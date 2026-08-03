@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-से꣡ने ऽव सृष्टा꣡ अ꣡मं दधाति  
-अ꣡स्तुर् न꣡ दिद्यु꣡त् त्वेष꣡प्रतीका
+से᳓ने ऽव सृष्टा᳓ अ᳓मं दधाति  
+अ᳓स्तुर् न᳓ दिद्यु᳓त् त्वेष᳓प्रतीका
 </details>
 
 <details><summary>Vedaweb annotation</summary>

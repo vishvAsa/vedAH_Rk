@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Though characterized by rare words and tortuous expressions, both defying easy  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५६   सव्य आङ्गिरसः। इन्द्रः।  जगती
 </details>

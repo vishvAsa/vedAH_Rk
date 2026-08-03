@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
-प꣡वमानम् मधुश्चु꣡तम्  
-अभि꣡ गिरा꣡ स꣡म् अस्वरन्
+हिन्व᳓न्ति सू᳓रम् उ᳓स्रयः  
+प᳓वमानम् मधुश्चु᳓तम्  
+अभि᳓ गिरा᳓ स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उस्रयः- चित्किरणाः। मधुश्चुतम्- माधुर्यस्रावकम्। सूरम्- प्राज्ञम्। पवमानम्- पुनानम्।  हिन्वन्ति- प्रेरयन्ति। गिरा- मन्त्रेण। अभि समस्वरन्- सम्यक् आभिमुख्येन स्तुवन्ति॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उस्रयः** कर्मकरणार्थमितस्ततः संचरन्त्योऽङ्गुलयः **मधुश्चुतं** मदकरस्य रसस्य च्यावयितारं **सूरं** सुवीर्यं सर्वस्य यागादिकर्मणि प्रेरकं **पवमानं** सोमं **हिन्वन्ति** अभिषवार्थं संप्रेरयन्ति । ततः स्तोतारः **गिरा** स्तुत्या तमेनम् **अभि** **समस्वरन्** सम्यगभिष्टुवन्ति ॥
@@ -147,7 +150,7 @@ Heroic: i.e., the instrumental gator of everybody's good actions (sacrifice)
 
 The rosy (fingers) impel the sun; to the self-purifying one, dripping  with honey,  
 they cry out in unison with a song.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
@@ -184,8 +187,6 @@ Die Sonne treiben strahlend sie die flammende, die Honig trieft, Und rauschen ih
 Паваману, испускающего сладость.  
 (Все) вместе они зазвучали (ему) песней.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ दि꣡वं वि꣡ धावति  
-तिरो꣡ र꣡जांसि धा꣡रया  
-प꣡वमानः क꣡निक्रदत्
+एष᳓ दि᳓वं वि᳓ धावति  
+तिरो᳓ र᳓जांसि धा᳓रया  
+प᳓वमानः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः। पवमानः। धारया- विच्छित्तिरहितप्रवाहेन। दिवम्- चिदाकाशम्। वि धावति- विशेषेण  धावति। रजांसि- लोकान्। तिरः- अतिक्रमति। कनिक्रदत्- गर्जति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धारया** **पवमानः** क्षरन् **एषः** सोमः **कनिक्रदत्** अभिषूयमाणः शब्दं कुर्वन् **रजांसि** लोकान् **तिरः** तिरस्कुर्वन् यागात् **दिवं** स्वर्गं **वि** **धावति** गच्छति ॥
@@ -143,7 +146,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This one streaks through heaven, across the airy spaces in his stream, whinnying again and again as he purifies himself.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
@@ -181,8 +184,6 @@ Er ist's, der durch den Himmel rinnt, im Strome durch die Lüfte dringt, Es wieh
 Сквозь пространства со (своим) потоком,  
 Павамана, громко ревущий.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

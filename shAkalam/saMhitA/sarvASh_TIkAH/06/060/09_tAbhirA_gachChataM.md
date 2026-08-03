@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡भिर् आ꣡ गछतं नरा  
-उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
-इ꣡न्द्राग्नी सो꣡मपीतये
+ता᳓भिर् आ᳓ गछतं नरा  
+उ᳓पेदं᳓ स᳓वनं सुत᳓म्  
+इ᳓न्द्राग्नी सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नरा- हे नेतारौ। इन्द्राग्नी। सोमपीतये- रसानुभूतये। इदम्- एतम्। सवनम्- सम्भजनीयम्।  सुतम्- निष्पन्नं रसम्। ताभिः- आभिः प्राणवडवाभिः। आ गच्छतम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरा** नेतारौ **इन्द्राग्नी** । सूयतेऽभिषूयत इति सवनः सोमः । **इदं** **सवनम्** इमं सोमं **सुतम्** अभिषुतम् **उप** प्रति । यद्वा । इदं प्रातःसवनमुप अस्मिन् सवने सुतमभिषुतं सोमं प्रति **ताभिः** नियुद्भिः **आ** **गच्छतम्** । किमर्थम् । **सोमपीतये** तस्य सोमस्य पानार्थम् ॥
@@ -173,7 +176,7 @@ _________
 With those come here, you superior men, up to this pressing  
 pressed here,  
 o Indra and Agni, for soma-drinking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
@@ -207,8 +210,6 @@ Mit denen, Indra-Agni, kommt zu diesem ausgepressten Saft, O Männer, her zum So
 На это жертвоприношение выжатого (сока),  
 О Индра-Агни, для питья сомы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

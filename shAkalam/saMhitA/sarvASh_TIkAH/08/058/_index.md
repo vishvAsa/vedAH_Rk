@@ -1,6 +1,5 @@
 +++
 title = "+058"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ ally dramatized in the later śrauta system in the ritual of the Tānūnaptra, i
 <details><summary>Jamison Brereton Notes</summary>
 
 Fragment
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५८  मेध्यः काण्वः।विश्वे देवाः, १ ऋत्विजो वा। त्रिष्टुप्
 </details>

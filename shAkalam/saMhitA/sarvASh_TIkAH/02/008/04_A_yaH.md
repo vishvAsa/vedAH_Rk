@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यः꣡ सु꣡वर् ण꣡ भानु꣡ना  
-चित्रो꣡ विभा꣡ति अर्चि꣡षा  
-अञ्जानो꣡ अज꣡रैर् अभि꣡
+आ᳓ यः᳓ सु᳓वर् ण᳓ भानु᳓ना  
+चित्रो᳓ विभा᳓ति अर्चि᳓षा  
+अञ्जानो᳓ अज᳓रैर् अभि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। स्वः- सूर्यः। न- इव। भानुना अर्चिषा- प्रकाशेन। चित्रः- असाधारणः। विभाति- दीप्यते।  आ- आभिमुख्येन। अभि- अभितः। अजरैः- अमृतभावनैः। अञ्जानः- व्यक्तो भवति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 योग्निश्चित्रः चायनीयः नानावर्णोवाअर्चिषाज्वालयारश्मिसमूहेन आविभाति सर्वतोभासते तत्रदृष्टान्तः—स्वर्नभानुना किरणेनसूर्यइव सयथविभातितद्वत् किङ्कुर्वन् किङ्कुर्वन् अजरैर्नित्यैः ज्वा- लासमूहैः अभिसर्वताः अञ्चानः व्यञ्चयन् प्रकाशयन् ॥ ४ ॥
@@ -163,7 +166,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Who, like the sun with its radiance, shines forth bright with his flame, anointing himself with his own unaging (flames).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
@@ -174,6 +177,7 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -210,8 +214,6 @@ Der wie die Sonne hell erstrahlt mit seinem Licht und Feuerglanz, Geschmückt mi
 Помазанный (маслом), с нестареющими (языками пламени)!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -232,7 +234,7 @@ Der wie die Sonne hell erstrahlt mit seinem Licht und Feuerglanz, Geschmückt mi
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  अग्नि यह सूक्ष्म परमाणुरूप पदार्थों में सर्वदा अपने रूप के साथ रहता है। काष्ठ आदि में पदार्थों की वृद्धि और न्यूनता आदि से कोई समय बढ़ता और कभी कमती होता है ॥४॥
+भावार्थभाषाः -  अग्नि यह सूक्ष्म परमाणुरूप पदार्थों में सर्वदा अपने रूप के साथ रहता है। काष्ठ आदि में पदार्थों की वृद्धि और न्यूनता आदि से कोई समय बढ़ता और कभी कमती होता है ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

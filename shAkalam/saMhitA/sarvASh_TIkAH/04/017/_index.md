@@ -1,6 +1,5 @@
 +++
 title = "+017"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Several themes surface from time to time in the hymn. Indra is often called  mag
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १७  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्,१५ एकपदा विराट्।
 </details>

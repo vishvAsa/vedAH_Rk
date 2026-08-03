@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ Toward the end of the hymn, the god Agni becomes prominent (vss. 9–14) and  hi
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५  शङ्खो यामायनः। पितरः। त्रिष्टुप्, ११ जगती
 </details>

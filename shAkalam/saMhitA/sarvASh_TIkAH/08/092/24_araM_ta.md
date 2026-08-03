@@ -3,7 +3,6 @@ title = "024"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रं त इन्द्र कुक्ष꣡ये  
-सो꣡मो भवतु वृत्रहन्  
-अ꣡रं धा꣡मभ्य इ꣡न्दवः
+अ᳓रं त इन्द्र कुक्ष᳓ये  
+सो᳓मो भवतु वृत्रहन्  
+अ᳓रं धा᳓मभ्य इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। ते- तव। कुक्षये। वृत्रहन्- आवरणबाधक। सोमः- रसः। अरम्- अलम्। भवतु- अस्तु।  इन्दवः- रसाः। धामभ्यः- तव स्थानेभ्यः। अरम्- अलं भवन्तु॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्रस्यापामावरकस्यासुरस्य पापस्य वा हन्तर्हे **इन्द्र** **सोमः** अस्माभिर्दीयमानः **ते** तव **कुक्षये** **अरम्** अलं पर्याप्तः **भवतु**। किंच **इन्दवः** सर्वतः क्षरणशीलाः सोमास्तव **धामभ्यः** नानाविधेभ्यः शरीरेभ्यस्तव तेजोभ्यो वा **अरम्** अलं पर्याप्ता भवन्तु । अनेन तेजसां हविर्भाक्त्वमस्तीति सूचितम् । अस्मदीयाः सोमा एव तव कुक्षये देहेभ्योऽपि पर्याप्ता भवन्तु नान्यदीया इति भावः ॥
@@ -162,7 +165,7 @@ Dhāmabhyaḥ = for your various bodies or splendours, nānāvidhebhyaḥ śarī
 
 Let the soma be fit for your cheek, o Indra, Vr̥tra-smiter,  
 fit for your “fundament” the drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">
@@ -171,6 +174,7 @@ fit for your “fundament” the drops.
 On kukṣí- as originally ‘cheek’, not ‘belly’, see Jamison 1987; also for the pun on dhā́man- ‘foundation’, hence ‘fundament’, that is, ‘buttocks, bottom’, in vs. 24, but, in vs. 25, ‘foundation, establishment’ in the sense of ‘bestowal’; also the jocular name Śrutakakṣa in 25.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details open><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -197,10 +201,6 @@ Der Soma soll deinem Leib genügend sein, o Vritratöter Indra, genügend die S�
 
 Der Soma sei, o Vritraheld, o Indra, passend deinem Leib, Die Indu's passend deiner Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

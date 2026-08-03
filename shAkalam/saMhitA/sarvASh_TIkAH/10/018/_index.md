@@ -1,6 +1,5 @@
 +++
 title = "+018"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The burial is the subject of verses 10–13, with an emphasis on the softness an
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८  संकुसुको यामायनः। १-.४ मृत्युः, ५ धाता, ६ त्वष्टा, ७-१४ पितृमेधः, १४ प्रजापतिर्वा। त्रिष्टुप्, ११  प्रस्तारपङ्क्तिः, १३ जगती, १४ अनुष्टुप्
 </details>

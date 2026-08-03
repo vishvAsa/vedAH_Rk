@@ -1,6 +1,5 @@
 +++
 title = "+043"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+043"
 <details><summary>Jamison Brereton</summary>
 
 43  
-Rudra (1–2, 4–6), Rudra, Mitra and Varuṇa (3), Soma (7–9)  
+Rudra (1–2, 4–6), Rudra, Mitra and Varuṇa (3), Soma (7–9)  
 Kaṇva Ghaura  
 9 verses: gāyatrī, except anuṣṭubh 9, arranged in tr̥cas  
 There is only one other R̥gvedic hymn dedicated jointly to Rudra and Soma, gods  who have little apparent in common. In VI.74 the two are invoked together, in a dual  dvandva, but aside from generic divine descriptions only Rudra’s characteristics are  mentioned. Here the two gods are confined to separate tr̥cas; in fact, as Oldenberg  suggests, it may have originally been two hymns: verses 1–6 Rudra, 7–9 Soma.  
@@ -22,4 +21,10 @@ The first two verses (7–8) of the tr̥ca to Soma are straightforward and gener
 <details><summary>Jamison Brereton Notes</summary>
 
 Rudra and Soma
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४३   कण्वो घौरः। रुद्रः, ३ रुद्रः, मित्रावरुणौ च, ७-९ सोमः। गायत्री, ९ अनुष्टुप्।
 </details>

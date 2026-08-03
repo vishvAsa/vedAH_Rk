@@ -1,6 +1,5 @@
 +++
 title = "+098"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The poet, of course, wishes to profit from the battle-might soma inspires in  In
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९८  मैत्रावरुणर्वसिष्ठः।इन्द्रः, ७ इन्द्राबृहस्पती। त्रिष्टुप्।
 </details>

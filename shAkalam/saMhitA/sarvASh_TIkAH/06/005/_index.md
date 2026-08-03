@@ -1,6 +1,5 @@
 +++
 title = "+005"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ An unremarkable hymn. It begins “I call for you (all)”—the poet announcing
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्टुप्।
 </details>

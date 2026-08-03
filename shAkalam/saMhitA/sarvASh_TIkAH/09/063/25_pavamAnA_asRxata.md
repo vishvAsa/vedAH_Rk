@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमाना असृक्षत  
-सो꣡माः शुक्रा꣡स इ꣡न्दवः  
-अभि꣡ वि꣡श्वानि का꣡विया
+प᳓वमाना असृक्षत  
+सो᳓माः शुक्रा᳓स इ᳓न्दवः  
+अभि᳓ वि᳓श्वानि का᳓विया
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वानि- सर्वाणि। काव्या- दर्शनानि प्रति। शुक्रासः- शुद्धाः। इन्दवः- क्लेदनकराः। पवमानाः-  पुनानाः। सोमाः- रसाः। असृक्षत- सृज्यन्ते॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शुक्रासः** उज्ज्वलाः **इन्दवः** दीप्ताः **पवमानाः** क्षरन्तः **सोमाः** **विश्वानि** **काव्या** काव्यानि स्तोत्राणि **अभि** असृक्षत सृज्यन्त ऋत्विग्भिः ॥ ॥ ३४ ॥
@@ -137,7 +140,7 @@ _________
 
 The self-purifying soma juices, the clear drops have surged  
 toward all products of poetic skill.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
@@ -163,10 +166,6 @@ Die sich läuternden Soma´s, die klaren Säfte haben sich ergossen, alle Feinde
 
 Die Soma's haben, hell entflammt, als lichte Tropfen ausgeströmt Die Sehergaben allesammt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुः पविष्ट चा꣡रुर् म꣡दाय  
-अपा꣡म् उप꣡स्थे कवि꣡र् भ꣡गाय
+इ᳓न्दुः पविष्ट चा᳓रुर् म᳓दाय  
+अपा᳓म् उप᳓स्थे कवि᳓र् भ᳓गाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चारुः- सुन्दरः। इन्दुः- क्लेदनशीलो रसः। मदाय- तृप्तये। अपां उपस्थे- मूलशक्तिधारासु। कविः-  क्रान्तदर्शी सन्। भगाय- सौभाग्याय। पविष्ट- पवते॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चारुः** कल्याणरूपः **कविः** क्रान्तप्रज्ञः **इन्दुः** सोमः **अपाम्** उदकानाम् **उपस्थे** उपस्थानेऽन्तरिक्षे पवित्रे वा **मदाय** मदार्थं **भगाय** भजनीयधनार्थं च **पविष्ट** पवते ॥
@@ -135,7 +138,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The dear drop has been purified for exhilaration in the lap of the  waters, the sage poet (has been purified) for good fortune.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
@@ -167,8 +170,6 @@ Schon strömte Indu – zum Rausch der schöne, im Schooss der Wasser – zum He
 Сок очистился, приятный для опьянения,  
 В лоне вод, поэт, для (нашей) счастливой доли.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡नेषु जायु꣡र् म꣡र्तेषु मित्रो꣡  
-वृणीते꣡ श्रुष्टिं꣡ रा꣡जेवाजुर्य꣡म्
+व᳓नेषु जायु᳓र् म᳓र्तेषु मित्रो᳓  
+वृणीते᳓ श्रुष्टिं᳓ रा᳓जेवाजुर्य᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ ह त्य꣡द् वृषभ चर्षणीनां꣡  
-घनो꣡ वृत्रा꣡णां तविषो꣡ बभूथ  
-तुवं꣡ सि꣡न्धूँर् असृजस् तस्तभाना꣡न्  
-तुव꣡म् अपो꣡ अजयो दास꣡पत्नीः
+तुवं᳓ ह त्य᳓द् वृषभ चर्षणीनां᳓  
+घनो᳓ वृत्रा᳓णां तविषो᳓ बभूथ  
+तुवं᳓ सि᳓न्धूँर् असृजस् तस्तभाना᳓न्  
+तुव᳓म् अपो᳓ अजयो दास᳓पत्नीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    त्वम्। वृषभ- वर्षक। चर्षणीनाम्- प्रजानां कृते। वृत्राणाम्- आवरणानि। घनः- हतवान्। तविषः-  बली। बभूथ- अभवः। त्वम्। तस्तभानान्- स्तम्भिताः। सिन्धून्- नदीर्मूलशक्तिधाराः। असृजः-  विमोचितवान्। त्वम्। दासपत्नीः- उपक्षपयितृभावनाबद्धाः। अपः- मूलशक्तिधाराः। अजयः-  विमुच्य लब्धवान्॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्वं** खलु तत् कर्म कृतवानसि । किं तत् । हे **वृषभ** कामानां वर्षितरिन्द्र **चर्षणीनां** यष्टॄणां मनुष्याणां भावितानां **वृत्राणाम्** उपद्रवाणां **घनः** हन्ता । अमूर्त्यर्थेऽपि छन्दोविषयत्वान्निपातनम् । तादृशस्त्वं **तविषः** प्रवृद्धो बलवान् वा **बभूथ** बभूविथ । बभूथा ततन्थ° ' इतीडभावो निपात्यते । ततः **त्वं** **तस्तभानान्** असुरैर्विरुध्यमानाः **सिन्धून्** सप्त गङ्गाद्याः नदीः सरणाय **असृजः**। पश्चात् **त्वं** **दासपत्नीः** । दासा उपक्षपयितारः शत्रवः । ते पतयः स्वामिनो यासां ताः ।  ‘ नित्यं सपत्न्यादिषु' (पा. सू. ४. १. ३५) इत्यत्र ‘दासाञ्च' इत्युपसंख्यानात् ङीप् । असुरस्वामिकाः **अपः** **अजयः** जितवानसि । तानसुराञ्जित्वोदकानि च प्रासृज इत्यर्थः ॥
@@ -239,8 +242,6 @@ Noteworthy here is the variant on the expression of Indra’s standard deed, v�
 
 On √stambh with the waters as obj. see comm. ad II.11.5.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -265,10 +266,6 @@ Du Bulle der Völker wardst da der starke Schlägel der Feinde. Du ließest die 
 
 Da wurdest du Gebieter aller Menschen, der bösen Feinde mächtiger Zermalmer; Die eingesperrten Ströme liessest frei du, gewannst die Wasser, die der Dämon festhielt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

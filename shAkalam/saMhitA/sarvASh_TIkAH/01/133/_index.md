@@ -1,6 +1,5 @@
 +++
 title = "+133"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The second short hymn also enthusiastically rouses Indra against enemies, but in
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३३   परुच्छेपो दैवोदासिः।इन्द्रः । १ त्रिष्टुप्, २-४ अनुष्टुप्, ५ गायत्री, ६ धृतिः, ७ अष्टिः ।
 </details>

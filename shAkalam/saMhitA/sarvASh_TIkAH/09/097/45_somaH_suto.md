@@ -3,7 +3,6 @@ title = "045"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः सुतो꣡ धा꣡रया꣡त्यो न꣡ हि꣡त्वा  
-सि꣡न्धुर् न꣡ निम्न꣡म् अभि꣡ वाजी꣡ अक्षाः  
-आ꣡ यो꣡निं व꣡न्यम् असदत् पुनानः꣡  
-स꣡म् इ꣡न्दुर् गो꣡भिर् असरत् स꣡म् अद्भिः꣡
+सो᳓मः सुतो᳓ धा᳓रया᳓त्यो न᳓ हि᳓त्वा  
+सि᳓न्धुर् न᳓ निम्न᳓म् अभि᳓ वाजी᳓ अक्षाः  
+आ᳓ यो᳓निं व᳓न्यम् असदत् पुनानः᳓  
+स᳓म् इ᳓न्दुर् गो᳓भिर् असरत् स᳓म् अद्भिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -262,6 +260,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमः- रसः। सुतः- निष्पन्नः। धारया। अत्यो न- तुरग इव। हित्वा- गत्वा। सिन्धुर्न-  उदकमिव। निम्नम्- निम्नप्रदेशम्। वाजी- शीघ्री सन्। अक्षाः- क्षरति। पुनानः- पावामानः।  वन्यम्- वननीयम्। योनिम्- ऋताख्यं स्वसदनम्। आ असदत्- आसीदति। इन्दुः- हृदयस्पर्शी््  रसः। गोभिः- चित्किरणैः। अद्भिः- मूलशक्तिधाराभिः। असरत्- अभिसरति॥४५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सुतोभिषुतः सोमोधारयास्वीयया अत्योनअतनशीलोश्वइव हित्वागत्वा हिनोतेः क्वनि- पिरूपम् । किञ्च वाजी बलवान् सोमः सिन्धुर्न यथासिन्धुः स्यन्दमाना नदी निम्नं प्रदेश- मभिगच्छति तद्वत् निम्नमधरभाविनं कलशमभ्यक्षाः अभिक्षरति । ततः पुनानः पूयमानः सोमः वन्यं वृक्षभवं योनिं योनिस्थानं कलशं आसदत् आसीदति । सोयमिन्दुः सोमः गीर्भिर्गोविकारैः क्षीरादिभिः श्रयणैः सं असरत् संसरति तथा अद्भिर्वसतीवरोभिश्च सङ्ग- च्छते ॥ ४५ ॥
@@ -279,7 +282,7 @@ _________
 
 Soma, pressed in a stream, driving like a steed, has streamed like a river  to the deep, as prizewinner.  
 He has sat in the wooden womb while being purified. The drop has  flowed together with the cows, with the waters.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
@@ -314,8 +317,6 @@ Gepresst hat Soma sich im Strom ergossen gleich schnellem Renner, wie ins Thal d
 Очищаясь, он уселся на деревянное лоно.  
 Сок (сомы) потек вместе с коровьим молоком, вместе с водами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

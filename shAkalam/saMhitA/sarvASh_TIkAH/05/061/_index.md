@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ That section ends with a real dānastuti verse (10) in praise of a patron named 
 Maruts For the structure of this hymn and its place in the series, see published introduction.
 
 Although there is an itihāsa in the Bṛhaddevatā (V.50) that supposedly recounts the circumstances of Śyāvāśva’s composition, it was clearly constructed secondarily and fancifully on the basis of the Rigvedic text (see both Oldenberg and Geldner).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६१  श्यावाश्व आत्रेयः।१-४, ११-१६ मरुतः,५-८ तरन्तमहिषी शशीयसी, ९ वैददश्विः पुरुमीळ्हः, १०  वैददश्विस्तरन्तः, १७-१९ दार्भ्यो रथवीतिः । गायत्री, ३ निचृत्, ५ अनुष्टुप्, ९ सतोबृहती ।
 </details>

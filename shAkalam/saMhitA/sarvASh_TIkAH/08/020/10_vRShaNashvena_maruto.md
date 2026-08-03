@@ -3,7 +3,6 @@ title = "010"
 devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वृषणश्वे꣡न मरुतो वृ꣡षप्सुना  
-र꣡थेन वृ꣡षनाभिना  
-आ꣡ श्येना꣡सो न꣡ पक्षि꣡णो वृ꣡था नरो  
-हव्या꣡ नो वीत꣡ये गत
+वृषणश्वे᳓न मरुतो वृ᳓षप्सुना  
+र᳓थेन वृ᳓षनाभिना  
+आ᳓ श्येना᳓सो न᳓ पक्षि᳓णो वृ᳓था नरो  
+हव्या᳓ नो वीत᳓ये गत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -190,6 +188,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषणश्वेन- वर्षकाश्वेन। मरुतः। वृषप्सुना- वर्षकरूपेण। वृषनाभिना- वर्षकमध्यभागेन। रथेन।  नरः- नेतारः। श्येनासो न पक्षिणः- द्विजा इव। वृथा- अनायासेन। वीतये- भक्षणाय। नः-  अस्माकम्। हव्या- हव्यानि। आ गत- आगच्छत॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **नरः** नेतारः **मरुतः** **वृषणश्वेन** वृषभिः सेचनसमर्थैरश्वैरुपेतेन **वृषप्सुना** वर्षकरूपयुक्तेन **वृषनाभिना** । नाभिश्चक्रच्छिद्रम् । वर्षकनाभियुक्तेन **रथेन** **नः** अस्माकं हव्यानि हवींषि **आ** **गत** आगच्छत । **वृथा** अनायासेनैव **वीतये** भक्षणार्थम् । तत्र दृष्टान्तः । **श्येनासो** **न** **पक्षिणः** श्येनाः शंसनीयगतयः पक्षिणो यथा शीघ्रमागच्छन्ति तद्वदनायासेन शीघ्रमागच्छतेत्यर्थः ॥ ॥३७॥
@@ -207,7 +210,7 @@ _________
 
 O Maruts, with your chariot with its bullish horses, bullish breath,  bullish wheel-naves,  
 come here at will, like winged falcons, to pursue our oblations, o men.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
@@ -242,8 +245,6 @@ Mit stierbespanntem Wagen kommt, o Maruts, her, der stark an Naben, stark sich z
 С готовностью, как крылатые коршуны, мчитесь,  
 О мужи, чтобы вкусить наши возлияния!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

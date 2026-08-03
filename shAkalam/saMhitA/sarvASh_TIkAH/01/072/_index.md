@@ -1,6 +1,5 @@
 +++
 title = "+072"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ The depiction of Agni in this hymn as the locus for the joint deposit of the bod
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७२   पराशरः शाक्त्यः।अग्निः। त्रिष्टुप्।
 </details>

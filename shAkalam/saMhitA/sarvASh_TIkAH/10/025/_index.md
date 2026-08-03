@@ -1,6 +1,5 @@
 +++
 title = "+025"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The hymn contains some curious turns of phrase and slanted imagery,  and so the 
 
 altogether surprising. It is unclear whether the poet of this hymn is simply claim ing Kakṣīvant’s mantle or whether there is a family connection or even identity  with Kakṣīvant.  
 The least clear part of the hymn is the second part of the final verse (11), where  it is claimed that Soma will help the blind and the halt “for the seven.” Soma’s aid  to the disabled is expressed in similar terms in VIII.79.2, another Soma hymn found  outside of IX, but the identity of “the seven” in our verse is disputed, and the poet  seems to have wanted to leave it open.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२५  ऐन्द्रो विमदः, प्राजापत्यो वा, वासुक्रो वसुकृद्वा। सोमः। आस्तारपङ्क्तिः
 </details>

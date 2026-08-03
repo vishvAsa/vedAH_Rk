@@ -1,6 +1,5 @@
 +++
 title = "+033"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ It is not entirely clear why this curious sequence is found tacked onto an other
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३३  मेध्यातिथिः काण्वः।इन्द्रः। बृहती, १६-१८ गायत्री, १९ अनुष्टुप्।
 </details>

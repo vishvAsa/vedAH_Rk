@@ -3,7 +3,6 @@ title = "030"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ सू꣡र्यम् अमुं꣡ दिवि꣡  
-शुक्रं꣡ ज्यो꣡तिर् अ꣡धारयः  
-आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे
+यदा᳓ सू᳓र्यम् अमुं᳓ दिवि᳓  
+शुक्रं᳓ ज्यो᳓तिर् अ᳓धारयः  
+आ᳓द् इ᳓त् ते वि᳓श्वा भु᳓वनानि येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। अमुम्। सूर्य- सवितारम्। दिवि- नभसि। शुक्रम्- शुभ्रम्। ज्योतिः। अधारयः। आत्मसूर्यं  चित्ताकाशे धृतवानित्याध्यात्मिके॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **अमुं** विप्रकृष्टं **शुक्रं** निर्मलं **ज्योतिः** द्योतमानं **सूर्यं** सर्वस्य प्रेरकं शोभनवीर्यं वादित्यं **दिवि** द्युलोके जगतः प्रकाशनाय **यदा** यस्मिन् काले **अधारयः** धारितवानसि । समानमन्यत् ॥
@@ -184,7 +187,7 @@ _________
 
 When you fixed yonder sun, the blazing light, fast in heaven,  
 just after that all these worlds held themselves in submission to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
@@ -220,8 +223,6 @@ Als jene Sonn' am Himmel du als helles Licht befestigtest, Da schmiegten alle We
 То солнце, яркое светило,  
 Только тогда тебе подчинились все существа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

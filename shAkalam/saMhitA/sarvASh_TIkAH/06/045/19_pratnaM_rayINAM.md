@@ -3,7 +3,6 @@ title = "019"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्रत्नं꣡ रयीणां᳐꣡ यु꣡जं  
-स꣡खायं कीरिचो꣡दनम्  
-ब्र꣡ह्मवाहस्तमं हुवे
+प्रत्नं᳓ रयीणां᳐᳓ यु᳓जं  
+स᳓खायं कीरिचो᳓दनम्  
+ब्र᳓ह्मवाहस्तमं हुवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रत्नम्- पुराणम्। रयीणाम्- दानयोग्यसम्पदाम्। युजम्- संयोजकम्। सखायम्- मित्रम्।  कीरिचोदनम्- कीर्तनपरचोदकम्। ब्रह्मवाहस्तमम्- अतिशयेन मन्त्रधारकम्। हुवे- आह्वये॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रत्नं** चिरंतनं सर्वेषामाद्यं **रयीणां** धनानां **युजं** योजयितारं दातारं **सखायं** मित्रभूतं **कीरिचोदनं** कीरीणां स्तोतॄणां चोदयितारं **ब्रह्मवाहस्तमम्** अतिशयेन ब्रह्मभिर्मन्त्रैर्वहनीयमेवंविधमिन्द्रं **हुवे** आह्वयामि ॥
@@ -135,7 +138,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The ancient yokemate of riches, the comrade who spurs on the weak, the one who most has the sacred formulation as his vehicle—upon him  do I call.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
@@ -169,8 +172,6 @@ Ich ruf den Freund, der Sängern hilft, der stets mit Gütern war vereint, Dem m
 Друга, вдохновляющего слабых,  
 Лучше всех привлекаемого священным словом.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

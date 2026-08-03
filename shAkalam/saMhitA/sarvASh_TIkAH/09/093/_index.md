@@ -1,6 +1,5 @@
 +++
 title = "+093"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+093"
 <details><summary>Jamison Brereton</summary>
 
 93 (805)  
-Soma Pavamāna  
+Soma Pavamāna  
 Nodhas Gautama  
 5 verses: triṣṭubh  
 Attributed to Nodhas Gautama, the poet of I.58–64, this hymn ends with the clan  refrain found in most of those Ist Maṇḍala hymns, although it does not display the  virtuosity characteristic of those compositions. The first three verses concern the  journey of the soma to the vessels and the mixing with water and with milk. The  last two (4–5) are requests for bounties.
@@ -30,4 +29,10 @@ The section containing Triṣṭubh hymns
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९३  नोधा गौतमः।पवमानः सोमः। त्रिष्टुप्
 </details>

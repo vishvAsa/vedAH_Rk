@@ -1,6 +1,5 @@
 +++
 title = "+051"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ The mention of the archer shooting at the bull is important. It is an ancient mo
 <details><summary>Geldner</summary>
 
 Ein Gott:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५१  १, ३, ५, ७, ९ देवाः, २, ४, ६, ८ सौचीकोऽग्निः। २, ४, ६, ८ देवाः, १, ३, ५, ७, ९ अग्निः। त्रिष्टुप्
 </details>

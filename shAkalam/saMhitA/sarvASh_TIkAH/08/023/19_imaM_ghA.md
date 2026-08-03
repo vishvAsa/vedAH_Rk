@@ -3,7 +3,6 @@ title = "019"
 devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ घा वीरो꣡ अमृ꣡तं  
-दूतं꣡ कृण्वीत म꣡र्तियः  
-पवाकं꣡+ कृष्ण꣡वर्तनिं वि꣡हायसम्
+इमं᳓ घा वीरो᳓ अमृ᳓तं  
+दूतं᳓ कृण्वीत म᳓र्तियः  
+पवाकं᳓+ कृष्ण᳓वर्तनिं वि᳓हायसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमम्- एतम्। पावकम्- शोधकम्। कृष्णवर्तनिम्- धूमादिमार्गोपेतम्। विहायसम्- महान्तम्।  अमृतम्। दूतम्। वीरः। मर्त्यः। कृण्वीत- करोति॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अनया यजमानश्चाग्निं देवानां दूतमकार्षीदित्याह। **वीरः** कर्मणि समर्थः **मर्त्यः** मनुष्यो यजमानः **अमृतं** मरणधर्मरहितं **पावकं** पापानां शोधकं **कृष्णवर्तनिम्**। वर्तनिर्मार्गः । कृष्णमार्गं **विहायसम्** । विहाया इति महन्नाम। गुणैस्तेजोऽधिकत्वेन वा महान्तम् **इमं** **घ** इममेवाग्निं **दूतं** देवानां वोढ़ृत्वेन दूतं **कृण्वीत** अकार्षीत् ॥
@@ -164,7 +167,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This same immortal should the mortal, the hero, make his messenger— the pure one of extensive power whose course is black.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
@@ -198,8 +201,6 @@ Ihn mach zum Boten sich der Held, unsterblichen der sterbliche, Ihn, welcher fla
 Бессмертного сделает себе вестником,  
 (Его,) очищающего, с черным следом, огромного!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

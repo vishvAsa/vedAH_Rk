@@ -3,7 +3,6 @@ title = "008"
 devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने मा꣡किष् टे देव꣡स्य  
-राति꣡म् अ꣡देवो युयोत  
-तुव꣡म् ईशिषे व꣡सूनाम्
+अ᳓ग्ने मा᳓किष् टे देव᳓स्य  
+राति᳓म् अ᳓देवो युयोत  
+तुव᳓म् ईशिषे व᳓सूनाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। देवस्य- द्योतनशीलस्य। ते- तव। रातिम्- दानम्। अदेवः- तमःप्रायः। माकिः- मा।  युयोत- पृथक्करोतु। त्वम्। वसूनाम्- सम्पदाम्। ईशिषे- स्वामित्त्वं वहसि॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **देवस्य** द्योतमानस्य **ते** तव **रातिं** दानं दत्तं धनं वा कश्चित् **अदेवः** मर्त्यादिः **माकिः** **युयोत** मैव पृथक्करोतु । **त्वम्** एव **ईशिषे** । कस्य । **वसूनां** धनानामीश्वरो भवसि दातुम् । अनेनामिश्रणीयाया रातेः सद्भाव उक्तो भवति ॥
@@ -171,10 +174,6 @@ Agni, kein Gottloser soll uns um deine, des Gottes, Gunst bringen. Du gebeutst �
 
 Nimmer hemme deine Gabe, Agni, Gott, ein Götterhasser; Du gebietest über Güter.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

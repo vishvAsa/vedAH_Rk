@@ -1,6 +1,5 @@
 +++
 title = "+002"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ By contrast, the verses in between (6–9) offer a sequence of increasingly dens
 
 Agni _________
 **01-02 The opening of the first hymn in this maṇḍala, tváṃ hí (see above), is replicated in the first two vss. of this hymn. The hí is similarly hard to account for in both these vss.**  
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २  बार्हस्पत्यो भरद्वाजः।अग्निः। अनुष्टुप्, ११ शक्वरी
 </details>

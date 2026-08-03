@@ -3,7 +3,6 @@ title = "010"
 devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त्वि꣡षीमन्तो अध्वर꣡स्येव दिद्यु꣡त्  
-तृषुच्य꣡वसो जुहु꣡वो न꣡ अग्नेः꣡  
-अर्च꣡त्रयो · धु꣡नयो न꣡ वीरा꣡  
-भ्रा꣡जज्जन्मानो मरु꣡तो अ꣡धृष्टाः
+त्वि᳓षीमन्तो अध्वर᳓स्येव दिद्यु᳓त्  
+तृषुच्य᳓वसो जुहु᳓वो न᳓ अग्नेः᳓  
+अर्च᳓त्रयो · धु᳓नयो न᳓ वीरा᳓  
+भ्रा᳓जज्जन्मानो मरु᳓तो अ᳓धृष्टाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वीषीमन्तः- दीप्तिमन्तः। अध्वरस्येव दिद्युत्- यज्ञस्य ज्वाला इव सन्तः। तृषुच्यवसः-  क्षिप्रगतयः। अग्नेः जुह्वो न- अग्निज्वाला इव सन्तः। अर्चत्रयः- अर्चनीयाः। धुनयः- कम्पयन्तः। ४    न वीराः- योद्धार इव। भ्राजज्जन्मानः- जन्मनैव दीप्ताः। मरुतः- वाताः प्राणविशेषाः। अधृष्टाः-  अप्रधृष्याः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मरुतः** **अध्वरस्येव** यज्ञस्येव **दिद्युत्** द्योतमानाः **तृषुच्यवसः** क्षिप्रगमनाः **अग्नेः** **जुह्वो** **न** रश्मय इव **त्विषीमन्तः** दीप्तिमन्तः **अर्चत्रयः** अर्चनीयाः **धुनयो** **न** सपत्नान् कम्पयन्त इव **वीराः** शूराः **भ्राजज्जन्मानः** दीप्तशरीराः **अधृष्टाः** परैरनभिभूताश्च भवन्ति ॥
@@ -206,7 +209,7 @@ _________
 
 Flaring like the dart of the ceremony [=ritual fire], stirring thirstily like  tongues of fire,  
 chanting like boisterous heroes, the Maruts with their flashing birth are  unassailable.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -240,8 +243,6 @@ Hell strahlend wie des Opfers Feuerflamme, voll Gier sich regend wie des Agni Zu
 Поющие, словно буйные герои,  
 Маруты, сияющие от рождения, неодолимы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

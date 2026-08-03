@@ -3,7 +3,6 @@ title = "014"
 devataa = "आदित्या उषाश्च"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,15 +11,14 @@ ChandaH = "महापङ्क्तिः"
 - छन्दः - महापङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् च गो꣡षु दुष्व꣡प्नियं  
-य꣡च् चास्मे꣡ दुहितर् दिवः  
-त्रिता꣡य त꣡द् विभावरि  
-आप्तिया꣡य प꣡रा वह  
-अनेह꣡सो व ऊत꣡यः  
-सुऊत꣡यो व ऊत꣡यः
+य᳓च् च गो᳓षु दुष्व᳓प्नियं  
+य᳓च् चास्मे᳓ दुहितर् दिवः  
+त्रिता᳓य त᳓द् विभावरि  
+आप्तिया᳓य प᳓रा वह  
+अनेह᳓सो व ऊत᳓यः  
+सुऊत᳓यो व ऊत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ca ← ca (invariable)  
@@ -250,6 +248,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः दुहितः- हे उषः। यत्। गोषु- अस्माकं धेनुषु। दुःस्वप्न्यम्- दुःस्वप्नजनितं दुःखम्। तत्।  विभावरि। आप्त्याय- आप्तहितकारिणे। आप्तवचने श्रद्धायुक्ताय। त्रिताय । परा वह- दूरं  गमय॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **दिवः** **दुहितः** उषः उषोदेवते **यच्च** गोषु अस्मदीयासु **दुष्वप्न्यम्** अनर्थसूचकं दृष्टम् । स्वार्थिको यत् । किंच **यच्च** दुष्वप्न्यम् **अस्मे** अस्मासु दृष्टम् । गोपीइानिमित्तकमस्माकं पीडानिमित्तकं च यद्दुःस्वप्नं पश्याम इत्यर्थः । तत् सर्वं हे **विभावरि** । उषोनामैतत् । हे व्युच्छनवति देवि **आप्त्याय** **त्रिताय** **परा** **वह** दूरे परिहर ॥।
@@ -299,8 +302,6 @@ Welch böser Traum die Kühe schreckt, o Sonnentochter, oder uns den fahr hinweg
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

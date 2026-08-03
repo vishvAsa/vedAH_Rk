@@ -1,6 +1,5 @@
 +++
 title = "+004"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ tion is also rhetorical: the poet expects Indra to favor him, and in verses 5 an
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४   मधुच्छन्दा वैश्वामित्रः। इन्द्रः। गायत्री
 </details>

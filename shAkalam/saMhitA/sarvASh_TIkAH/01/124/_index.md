@@ -1,6 +1,5 @@
 +++
 title = "+124"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ Nothing in the rest of the hymn is quite so quirky, but the standard tropes are 
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२४   कक्षीवान् दैर्घतमस औशिजः। उषाः।  त्रिष्टुप्।
 </details>

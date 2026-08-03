@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ अर्ष सुआयुध  
-सो꣡म द्विब꣡र्हसं रयि꣡म्  
-अ꣡था नो व꣡स्यसस् कृधि
+अभि᳓ अर्ष सुआयुध  
+सो᳓म द्विब᳓र्हसं रयि᳓म्  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्वायुध- वज्रपाणे। सोम। द्विबर्हसम्- अभ्युदयनिःश्रेयसात्मिकाम्। रयिम्- दानयोग्यसंपदम्।  अभ्यर्ष- अभिगमय॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **स्वायुध** शोभनायुध **सोम** त्वं द्विबर्हसं द्वयोर्द्यावापृथिव्योः स्थानयोः परिवृढं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । सिद्धमन्यत् ॥
@@ -194,8 +197,6 @@ O schönbewehrter, ströme her, o Soma, zwiefach grossen Schatz Und mach' uns re
 Сома, богатство двойной прочности  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

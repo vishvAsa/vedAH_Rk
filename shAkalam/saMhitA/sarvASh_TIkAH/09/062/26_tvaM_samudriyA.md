@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ समुद्रि꣡या अपो꣡  
-अग्रियो꣡ वा꣡च ईर꣡यन्  
-प꣡वस्व विश्वमेजय
+तुवं᳓ समुद्रि᳓या अपो᳓  
+अग्रियो᳓ वा᳓च ईर᳓यन्  
+प᳓वस्व विश्वमेजय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रियः- मुख्यः सन्। विश्वमेजय- विश्वकम्पक रस। त्वम्। समुद्रिया अपः-  हृत्समुद्रस्थमूलशक्तिधाराः। वाचः- मुख्यान् मन्त्रांश्च। पवस्व- क्षर॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विश्वमेजय** विश्वकम्पक सोम **अग्रियः** मुख्यः **त्वं** **वाचः** **ईरयन्** प्रेरयन् **समुद्रियाः** आन्तरिक्षाणि **अपः** उदकानि **पवस्व** धारया क्षर ॥
@@ -140,7 +143,6 @@ purify yourself, o you who set everything in motion.
 <details><summary>Jamison Brereton Notes</summary>
 
 Because of the accentual difference between vācáḥ in 25a and vā́caḥ in 26b, we must construe the two superficially near-identical phrases vācó agriyáḥ and agriyó vā́caḥ quite differently. The first is a single constituent with dependent gen. vācáḥ, but in the 2nd agriyáḥ and acc pl. vā́caḥ belong to different constituents, despite their adjacency: vā́caḥ is the (or rather, an) obj. of īráyan.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
@@ -166,10 +168,6 @@ Läutere dich, du Allerreger, die Wasser des Meeres erregend und als Wortführer
 
 Der du als Führer des Gesangs des Meeres Fluten strömen lässt, O riesle, allbelebender!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

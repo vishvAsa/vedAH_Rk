@@ -1,6 +1,5 @@
 +++
 title = "+044"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Like the last hymn, this one, though apparently divided into tr̥cas, shows litt
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४४  विरूप आङ्गिरसः।अग्निः। गायत्री
 </details>

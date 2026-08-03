@@ -1,9 +1,0 @@
-+++
-title = "०४ इह रतिरिह रमध्वम्"
-
-+++
-4. Here is delight; take delight here. Svāhā!
-
-Here is still-standing; here is (your) own still-standing. Svāhā!
-
-'I have let the calf join its mother. May the calf, sucking its mother's breast, support increase of wealth among us. Svāhā!'

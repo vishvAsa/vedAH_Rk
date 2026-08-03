@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Verse 2b contains an impossible hapax, bī́riṭe, phonologically aberrant and 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३९  मैत्रावरुणर्वसिष्ठः।विश्वे देवाः। त्रिष्टुप्।
 </details>

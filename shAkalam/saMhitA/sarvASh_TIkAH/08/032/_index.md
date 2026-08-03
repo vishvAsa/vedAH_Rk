@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ The internal structure of the hymn is not entirely clear. We follow Oldenberg’
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३२  मेधातिथिः काण्वः ।इन्द्रः । गायत्री।
 </details>

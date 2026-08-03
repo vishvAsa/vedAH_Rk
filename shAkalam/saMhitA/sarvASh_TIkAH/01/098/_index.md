@@ -1,6 +1,5 @@
 +++
 title = "+098"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A rather perfunctory and quite brief hymn, with phraseology borrowed from other 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९८   कुत्स आङ्गिरसः। अग्निः, वैश्वानरोऽग्निर्वा। त्रिष्टुप्
 </details>

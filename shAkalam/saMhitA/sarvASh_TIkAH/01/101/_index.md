@@ -1,6 +1,5 @@
 +++
 title = "+101"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ As for content, it is largely familiar, praising Indra for his victories over va
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०१   कुत्स आङ्गिरसः।  इन्द्रः( १ गर्भस्राविण्युपनिषद्)। जगती, ८-११ त्रिष्टुप्
 </details>

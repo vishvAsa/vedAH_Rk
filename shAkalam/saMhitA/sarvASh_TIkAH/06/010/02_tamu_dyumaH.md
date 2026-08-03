@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ द्युमः पुरुअणीक होतर्  
-अ꣡ग्ने अग्नि꣡भिर् म꣡नुष इधानः꣡  
-स्तो꣡मं य꣡म् अस्मै मम꣡तेव शूषं꣡  
-घृतं꣡ न꣡ शु꣡चि मत꣡यः पवन्ते
+त᳓म् उ द्युमः पुरुअणीक होतर्  
+अ᳓ग्ने अग्नि᳓भिर् म᳓नुष इधानः᳓  
+स्तो᳓मं य᳓म् अस्मै मम᳓तेव शूषं᳓  
+घृतं᳓ न᳓ शु᳓चि मत᳓यः पवन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -228,6 +226,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्युमः- दीप्तिमन्। पुर्वणीक- प्रभूतज्वाल। होतः- देवाह्वातः। अग्ने। अग्निभिः- त्वत्प्रणालीभिः।  इधानः- उद्दीपितः सन्। तम्। मनुषः- मनुष्यस्य। स्तोमम्- मन्त्रं शृणु। यम्- यं मन्त्रम्। अस्मै-  एतस्मा अग्नये। शूषम्- सुखकरम्। शुचि घृतं न- पूतनवनीतमिव। मतयः- अस्मन्मननानि।  ममतेव- त्वदभिमानयुक्तानीव। पवन्ते- त्वयि समर्पयन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **द्युमः** दीप्तिमन् **पुर्वणीक** बहुज्वाल **होतः** देवानामाह्वातः **अग्ने** **अग्निभिः** तवावयवभूतैरन्यैरग्निभिः सार्धम् **इधानः** समिध्यमानः दीप्तः सन् **मनुषः** मनुष्यस्य स्तोतुः **तमु** तं स्तोमं श्रृण्विति शेषः । उ इति पादपूरणम् । **यं** **स्तोमं** स्तोत्रं **शूषं** सुखकरं **घृतं** **न** पवित्राभ्याम् उत्पूतं घृतमिव **शुचि** शुद्धम् **अस्मै** अग्नये **मतयः** मन्तारः स्तोतारः **ममतेव** । ममता नाम ब्रह्मवादिनी दीर्घतमसो माता । सेव **पवन्ते** पुनन्ति संस्कुर्वन्ति दोषवर्जितमुच्चारयन्तीत्यर्थः । तं स्तोममित्यन्वयः ॥
@@ -271,9 +274,8 @@ Let us begin with asmai. It surely refers to the recipient of the praise, which 
 
 whose strongest support is the vṛddhi deriv. māmateyá-, usually a metronymic of Dīrghatamas (I.147.3, 152.6, 158.6, particularly clear in the last passage), which presupposes an underlying PN of this shape. Both the -eyá- suffix of māmateyá- and the name Mamatā itself suggest that the person may be female. However, there is some direct evidence that a masc. *mamáta- is found in the Bharadvāja lineage. Cf. VI.50.15
 
-
-&gt; evā́ nápāto máma tásya dhībhír / bharádvājā abhí arcanti arkaíḥ
-&gt; “In just this way the Bharadvājas, the descendants of me, this Mamata, chant with their insightful thoughts, with their chants,”
+> evā́ nápāto máma tásya dhībhír / bharádvājā abhí arcanti arkaíḥ
+> “In just this way the Bharadvājas, the descendants of me, this Mamata, chant with their insightful thoughts, with their chants,”
 
 where máma tásya is probably a play on the PN. For disc. see Oldenberg, ZDMG 42.211-12 = KlSch 580-81, though I do not think the text needs emending. However, our mamátā is also most probably a pun, on a -tāabstract built to the gen. sg. of the 1st ps. pronoun; such a stem is attested Epic+ in the sense ‘Selbstsucht, Eigennutz’. In this reading it could be an instr. sg. of the -tā- stem, ‘with/in my me-ness,’ in addition to being a nom. ‘like Mamatā’. On these questions see now Mayr, PN 2.1.393. Oldenberg (ZDMG 55.298-99) explored the possibility of taking mamátā (or -ta) as the missing verb of the rel. cl., as did I, but both of us came up short.
 
@@ -305,8 +307,6 @@ Dies Loblied auch, o heller, vielgestalt'ger, o Agni, durch des Menschen Glut en
 Хвалу, которую (я пою) ему, как Мамата, (эту) мощную песнь!  
 Мысли (мои) очищаются, словно прозрачный жир.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

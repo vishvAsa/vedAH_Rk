@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मृजानो꣡ वा꣡रे प꣡वमानो अव्य꣡ये  
-वृ꣡षा꣡व चक्रदो व꣡ने  
-देवा꣡नां सोम पवमान निष्कृतं꣡  
-गो꣡भिर् अञ्जानो꣡ अर्षसि
+मृजानो᳓ वा᳓रे प᳓वमानो अव्य᳓ये  
+वृ᳓षा᳓व चक्रदो व᳓ने  
+देवा᳓नां सोम पवमान निष्कृतं᳓  
+गो᳓भिर् अञ्जानो᳓ अर्षसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मृजानः- मण्डितः। पवमानः- पुनानो रसः। वने- वननीये। अव्यये वारे- रसव्यञ्जके वरणीये  प्रतीके । वृषा- वर्षकः सन्। चक्रदः- शब्दितवान्। पवमान सोम- पुनान रस। देवानाम्- ८    देवतानाम्। निष्कृतम्- संस्कृतं सदनम्। गोभिः- चिद्रश्मिभिः। अञ्जानः- व्यञ्जितः। अर्षसि-  सरसि॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **वृषा** वर्षिता त्वं **मृजानः** वसतीवरीभिर्मृज्यमानोऽलंक्रियमाणः **अव्यये** अविमये **वारे** वाले पवित्रे **पवमानः** पूयमानः सन् **वने** वननीय उदके काष्ठे कलशे वा **अव** **चक्रदः** अवक्रन्दसि शब्दायसे । ततो हे **सोम** हे **पवमान** त्वं **गोभिः** गव्यैः क्षीरादिभिः **अञ्जानः** अज्यमानः सन् **निष्कृतं** संस्कृतं **देवानां** स्थानम् **अर्षसि** गच्छसि ॥
@@ -201,7 +204,7 @@ _________
 
 Being groomed, purifying yourself on the sheep’s fleece, as bull you  have roared down into the wood(en cup).  
 O self-purifying Soma, you rush to the rendezvous with the gods, being  anointed with cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
@@ -236,8 +239,6 @@ Gereinigt, flammend strömend durch des Widders Haar brüllt laut der Stier der 
 На свидание с богами, о Сома-Павамана,  
 Ты течешь, умащенный коровьим (молоком).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

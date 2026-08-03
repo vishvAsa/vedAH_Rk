@@ -1,6 +1,5 @@
 +++
 title = "+074"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+074"
 <details><summary>Jamison Brereton</summary>
 
 74 (683)  
-Agni (1–12), Śrutarvan Ārksya’s Da ̣ ̄nastuti (13–15)  
+Agni (1–12), Śrutarvan Ārksya’s Da ̣ ̄nastuti (13–15)  
 Gopavana Ātreya  
 15 verses: mixed anuṣṭubh and gāyatrī arranged in trcas, with the first verse of each ̥ trca anu ̥ ṣṭubh, the other two gāyatrī; final trca (13–15) all anu ̥ ṣṭubh  
 This hymn consists of five tr̥cas, each of which is thematically and syntactically uni fied. The first four (vss. 1–12) concentrate on the formal praise and invocation of  Agni, who appears in three of the four (vss. 1–6, 10–12) insistently as the accusative  object of the reverent approach of the worshipers. (The other tr̥ca, verses 7–9, has  the worshiper’s prayerful thought as its subject.)  
@@ -24,4 +23,10 @@ The final tr̥ca (vss. 13–15), with slightly different metrical structure, is 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७४  गोपवन आत्रेयः।अग्निः, १३-१५ आर्क्षः श्रुतर्वा। १-१२ अनुष्टुम्मुख प्रगाथः - ( अनुष्टुप् + गायत्र्यौ), १३- १५ अनुष्टुप् ।
 </details>

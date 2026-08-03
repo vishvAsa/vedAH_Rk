@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रा ह यो꣡ व꣡रुणा चक्र꣡ आपी꣡  
-देवउ꣡ म꣡र्तः सखिया꣡य प्र꣡यस्वान्  
-स꣡ हन्ति वृत्रा꣡ समिथे꣡षु श꣡त्रून्  
-अ꣡वोभिर् वा मह꣡द्भिः स꣡ प्र꣡ शृण्वे
+इ᳓न्द्रा ह यो᳓ व᳓रुणा चक्र᳓ आपी᳓  
+देवउ᳓ म᳓र्तः सखिया᳓य प्र᳓यस्वान्  
+स᳓ हन्ति वृत्रा᳓ समिथे᳓षु श᳓त्रून्  
+अ᳓वोभिर् वा मह᳓द्भिः स᳓ प्र᳓ शृण्वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -254,6 +252,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रा वरुणा- हे इन्द्रावरुणौ। यः। मर्तः- मर्त्यः। प्रयस्वान्- हव्ययुक्तः। सख्याय- मैत्र्यै। देवौ-  द्योतनशीलौ भवन्तौ। आपी- बन्धू। चक्रे- अकरोत्। सः। समिथेषु- समरेषु। महद्भिः-  बृहतीभिः। अवोभिः- रक्षाभिः। शत्रून्- रिपुभूतान्। वृत्रा- आवरणमयान्तरायान्। हन्ति-  नाशयति। सः। प्र- प्रकर्षेण। शृण्वे- विख्यातो भवति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रा** **वरुणा** इन्द्रावरुणौ **देवौ** । हशब्दः पूरणः प्रसिद्धौ वा । **यः** **मर्तः** मरणधर्मा **प्रयस्वान्** हविर्लक्षणान्नवान् सन् **सख्याय** सखित्वाय **आपी** बन्धू **चक्रे** करोति। **सः** मर्तः **वृत्रा** आवरकाणि पापानि **हन्ति** । तथा **समिथेषु** संग्रामेषु **शत्रून्** हन्ति । वाशब्दश्चार्थे। **महद्भिः** **अवोभिः** रक्षणैः **सः** नरः **प्र** **शृण्वे** प्रकृष्टं श्रूयते विख्यातो भवति ॥
@@ -276,8 +279,6 @@ he smashes obstacles and his rivals in clashes; by your great forms of  help he 
 <details><summary>Jamison Brereton Notes</summary>
 
 With Renou (EVP 7: 75) I take vā in d not as the disjunctive ‘or’, but the enclitic dual 2nd ps. prn. (vā(m)) before m-, though Oldenberg rejects this view. AiG III.477 also takes vā in this passage as the dual enclitic pronoun, but considers the -m-less form historically correct.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -311,8 +312,6 @@ Wer sich die Götter Varuna und Indra durch Opferdienst verband zu nahen Freunde
 Он разбивает преграды, (убивает) врагов в сражениях.  
 Он знаменит благодаря вашим поддержкам.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

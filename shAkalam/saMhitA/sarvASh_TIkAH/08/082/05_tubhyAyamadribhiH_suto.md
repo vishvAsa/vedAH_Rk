@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्याय꣡म् अ꣡द्रिभिः सुतो꣡  
-गो꣡भिः श्रीतो꣡ म꣡दाय क꣡म्  
-प्र꣡ सो꣡म इन्द्र हूयते
+तु᳓भ्याय᳓म् अ᳓द्रिभिः सुतो᳓  
+गो᳓भिः श्रीतो᳓ म᳓दाय क᳓म्  
+प्र᳓ सो᳓म इन्द्र हूयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। तुभ्य- तुभ्यम्। अयम्- एषः। सोमः- रसः। अद्रिभिः- स्थैर्यप्रतीकग्रावभिः। सुतः-  निष्पन्नः। मदाय- हर्षाय। गोभिः- रश्मिभिः। श्रीतः- मिश्रितः। हूयते- तुभ्यं समर्प्यते॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **अद्रिभिः** अभिषवसाधनैर्ग्रावभिः **अयं** **सोमः** तुभ्यं त्वदर्थं **सुतः** अभिषुतः । ततो दशापवित्रेण पूत्वा **गोभिः** गोविकारैः क्षीरादिभिः **श्रीतः** सोऽस्माभिः परावत एव संस्कृतः सोमस्तव **मदाय** मदार्थं **कं** सुखेन **प्र** **हूयते** अग्नौ स्वाहा क्रियते । तस्मादागत्य सोमं पिब ॥ ॥१॥
@@ -174,7 +177,7 @@ _________
 
 For you this one here has been pressed by stones, prepared with cows  [=milk], for exhilaration.  
 The soma is being poured forth, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
@@ -201,10 +204,6 @@ Für dich ist dieser Soma mit den Steinen ausgepreßt, mit Milch gemischt zum Ra
 
 Er ist von Steinen, Indra, dir gepresst, mit Milch zum Rausch vermischt Der Soma wird ergossen dir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

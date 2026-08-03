@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "पुरउष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "पुरउष्णिक्"
 - छन्दः - पुरउष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ति वा꣡रान् प꣡वमानो असिष्यदत्  
-कल꣡शाँ अभि꣡ धावति  
-इ꣡न्द्रस्य हा꣡र्दि आविश꣡न्
+अ᳓ति वा᳓रान् प᳓वमानो असिष्यदत्  
+कल᳓शाँ अभि᳓ धावति  
+इ᳓न्द्रस्य हा᳓र्दि आविश᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वारानति- श्रेष्ठान् प्रतीकभूतानतिक्रम्य। पवमानः- पुनानः। असिष्यत्- स्यन्दते। कलशान्-  प्रतीकभूतान्। अभि- अभिलक्ष्य च। धावति- सरति। इन्द्रस्य- परमेश्वरस्य। हार्दि- हृदये।  आविशन्- रसा विविशुः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** पूयमानः सोमः **वारान्** अवेर्वालान् **अति** अतिक्रम्य **असिष्यदत्** स्यन्दते । अपि च **इन्द्रस्य** **हार्दि** हृदयम् **आविशन्** **कलशान्** द्रोणान् **अभि** **धावति** अभिगच्छति ॥
@@ -160,7 +163,6 @@ Across the fleeces the self-purifying one has streamed. He runs into the tubs, e
 This vs. is in Puraüṣṇih meter (12 8 / 8), i.e., a Gāyatrī with an extended first pāda.
 
 This pāda is almost at the exact center of the hymn, preceded by 6 pādas, followed by 5. The positioning seems deliberate.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
@@ -186,10 +188,6 @@ Pavamana ist durch die Haarseihe gelaufen, er rinnt auf die Krüge zu, in Indra�
 
 Schon hat die Wolle er durchströmt und eilet jetzt den Schalen zu; Er dringet ein in Indra's Bauch.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उग्रा꣡ विघनि꣡ना मृ꣡ध  
-इन्द्रअग्नी꣡ हवामहे  
-ता꣡ नो मॄळात+ ईदृ꣡शे
+उग्रा᳓ विघनि᳓ना मृ᳓ध  
+इन्द्रअग्नी᳓ हवामहे  
+ता᳓ नो मॄळात+ ईदृ᳓शे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्रा- उद्गूर्णौ। मृधः- शत्रून्। विघनिना- हतवन्तौ। इन्द्राग्नी। हवामहे- आह्वयामः। ता- तौ।  नः- अस्मान्। मृळात- सुखयताम्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उग्रा** उग्रौ उद्गूर्णबलावत एव **मृधः** शत्रून् **विघनिना** विघनिनौ विशेषेण हतवन्तौ **इन्द्राग्नी** **हवामहे** आह्वयामहे । तौ चेन्द्राग्नी **ईदृशे** अस्मिन् संग्रामे **नः** अस्मान् **मृळातः** सुखयताम् । यद्वा । मृळतिरुपदयाकर्मा । नोऽस्माकं मृळातः उपदयां कुरुताम् ॥ ॥ २७ ॥
@@ -154,7 +157,7 @@ _________
 
 The two strong ones who hew apart the negligent, Indra and Agni, do  we call upon.  
 They will be gracious to such as us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
@@ -188,8 +191,6 @@ Die starken, Feind erschlagenden, Indra und Agni rufen wir, Hold sei'n sie solch
 Индру-Агни мы призываем.  
 Пусть они смилуются над такими, как мы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

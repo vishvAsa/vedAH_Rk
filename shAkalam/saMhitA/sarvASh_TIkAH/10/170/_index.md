@@ -1,6 +1,5 @@
 +++
 title = "+170"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,8 +21,14 @@ The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. This sUktaM 
 <details><summary>Jamison Brereton</summary>
 
 170 (996)  
-Sūrya  
+Sūrya  
 Vibhrāj Saurya  
 4 verses: jagatī, except āstārapaṅkti 4  
 This hymn celebrates the god Sun, or more specifically his light, in terms more usu ally applied to heroic warrior-gods like Indra.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १७०  विभ्राट् सौर्यः। सूर्यः । जगती, ४ आस्तारपङ्क्तिः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+050"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Another noteworthy feature is the relative prominence of female divinities.  Aga
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५०  ऋजिश्वा भारद्वाजः।विश्वे देवाः। त्रिष्टुप्।
 </details>

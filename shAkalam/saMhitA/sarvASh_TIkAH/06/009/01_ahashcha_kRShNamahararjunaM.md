@@ -3,7 +3,6 @@ title = "001"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡हश् च कृष्ण꣡म् अ꣡हर् अ꣡र्जुनं च  
-वि꣡ वर्तेते र꣡जसी वेदिया꣡भिः  
-वैश्वानरो꣡ जा꣡यमानो न꣡ रा꣡जा  
-अ꣡वातिरज् ज्यो꣡तिषाग्नि꣡स् त꣡मांसि
+अ᳓हश् च कृष्ण᳓म् अ᳓हर् अ᳓र्जुनं च  
+वि᳓ वर्तेते र᳓जसी वेदिया᳓भिः  
+वैश्वानरो᳓ जा᳓यमानो न᳓ रा᳓जा  
+अ᳓वातिरज् ज्यो᳓तिषाग्नि᳓स् त᳓मांसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वेद्याभिः- वयुनैः। अहश्च कृष्णमहरर्जुनं च- अहोरात्रम्। रजसी- द्यावापृथिव्यौ च। वि वर्तेते-  परिवर्तेते। वैश्वानरः- सर्वनरहितोऽग्निः। राजा- नृपः। न- इव। जायमानः। अग्निः। ज्योतिषा।  तमांसि- अन्धकारान्। अतिरत्- बाधते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 आहरति पुरुषोऽस्मिन् कर्माणीति **अहः**। **कृष्ण** कृष्णवर्णम् । एतत्सामानाधिकरण्यादहःशब्दो रात्रिवचनः । तमसा कृष्णवर्णा रात्रिः **च** **अर्जुनं** **च** सौरेण तेजसा शुक्लवर्णम् **अहः** दिवसश्च **रजसी** स्वस्वभासा सर्वं जगद्रञ्जयन्तौ **वेद्याभिः** वेदितव्याभिरनुकूलतया ज्ञातव्याभिः स्वप्रवृत्तिभिः **वि** **वर्तेते** विविधं पर्यावर्तते । यद्वा । रजसी द्यावापृथिव्यौ । उपलक्षणमेतत् । लोकत्रयं प्रत्यावर्तेते । एतच्च वैश्वानराग्नेराज्ञया इति शेषः । स हि देवतात्वेनात्र प्रतिपाद्यः । स च **वैश्वानरः** **अग्निः** **जायमानो** **न** **राजा** प्रादुर्भवन् प्रवर्धमानः राजेव **ज्योतिषा** तेजसा **तमांसि** **अवातिरत्** अवतिरतिर्वधकर्मा । अवतिरति विनाशयति ।
@@ -246,7 +249,6 @@ The first hemistich has two nom./acc. dual expressions (áhaś ca kṛṣṇá�
 Renou points out two minor anomalies in word placement: ca in pāda a, ná in pāda c. The first is not immediately second in its constituent (expect *áhaś cā́rjunam, like the first constituent áhāś ca kṛṣṇám, not áhar árjunaṃ ca). Klein (DGRV I.133) suggests that the construction is a conflation of the expected sequence (given as starred just above) and one with only an adjective in the second constituent (kṛṣṇáṃ cā́har árjunaṃ ca, as he constructs it). This is possible but seems somewhat overcomplex. It’s worth noting that a properly placed ca would be damaging to the meter, whether it was read undistracted (cā́rjunam), the more common option for ca + V, or distracted (ca árjunam). I had thought that another argument for the unusual placement might be that ca + V is generally avoided, but a quick glance at Lubotsky turns up about 70 instances of ca + V (out of 1094 total instances of ca). I doubt that this represents a statistically significant underrepresentation, although I ran no tests.
 
 As for ná, it ordinarily is also positioned after the first element in the simile, but it is highly unlikely (that is, quite impossible) that Agni is being compared to a king being born, with the simile comprising jā́yamāno ná rā́jā, but rather Agni, even as he is being kindled, is compared to the victorious (adult) king, with the simile just ná rā́jā. Such “wrong” positioning is not unprecedented — other examples have been noted in the comm. — and, as Renou points out, it is “masked to the eyes” by jā́yamānaḥ, which matches rā́jā in number, gender, and case.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
@@ -280,8 +282,6 @@ Es rollen schwarz und weiss die Tageshälften, von selbst der dunkle und der hel
 Агни-Вайшванара, рождаясь,  
 Как царь, преодолел светом мрак.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

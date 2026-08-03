@@ -3,7 +3,6 @@ title = "028"
 devataa = "पवमानः सोमः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ प्यायस्व प्र꣡ स्यन्दस्व  
-सो꣡म वि꣡श्वेभिर् अंशु꣡भिः  
-देवे꣡भ्य उत्तमं꣡ हविः꣡
+प्र᳓ प्यायस्व प्र᳓ स्यन्दस्व  
+सो᳓म वि᳓श्वेभिर् अंशु᳓भिः  
+देवे᳓भ्य उत्तमं᳓ हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्र प्यायस्व- प्रवर्धय। सोम- रस। विश्वेभिः- सर्वैः। अंशुभिः- किरणैः। स्यन्दस्व- प्रस्रव।  देवेभ्यः- देवताभ्यः। उत्तमम्- श्रेष्ठम्। हविः- हव्यमसि॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **प्र** **प्यायस्व** अस्मान् प्रकर्षेण वर्धयः । यद्वा देवान् सोमेन वर्धय । किंच **विश्वेभिरंशुभिः** सर्वैस्त्वदीयैरंशुभिः **देवेभ्यः** देवार्थम् **उत्तमं** प्रशस्ततमं **हविः** सोमरूपं **प्र** **स्यन्दस्व** कलशादीन् प्रति प्रस्रव । प्रयच्छेति यावत् ॥
@@ -156,7 +159,7 @@ _________
 
 Swell forth, flow forth, Soma, with all your shoots  
 as highest oblation for the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
@@ -190,8 +193,6 @@ Schwill an in allen Fasern du, o Soma, eile vor im Strom, Den Göttern als der b
 О Сома, со всеми (своими) стеблями,  
 Лучшее возлияние для богов!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

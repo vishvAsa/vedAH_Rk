@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ Considerable attention is paid to  Indra’s opponent, but interestingly the wor
 After this depiction of Indra’s great victory over the multifarious monster, it  comes as no surprise that in the next verses (9–11) Indra’s power is universally  acknowledged by cosmic forces and mortals alike. Verse 9 opens with the question “who can obstruct him?”—using the verb varāte, belonging to the same root  and having the same semantics as the suppressed name Vr̥tra “obstruction.” The  question thus carries with it an implied conditional—“who can obstruct him if  Obstruction itself cannot?”—with the implicit answer obviously “no one.” 
 
 The last  verse turns, as often, to the benefits Indra can bestow on the poet, ending with a perhaps teasing rhetorical question, paraphrasable as: “Do (other) poets complain  about your gifts?”
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३२  गातुरात्रेयः।इन्द्रः। त्रिष्टुप् ।
 </details>

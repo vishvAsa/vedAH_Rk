@@ -3,7 +3,6 @@ title = "042"
 devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡ अ꣡ग्रे अ꣡ह्नां ह꣡रिर् हर्यतो꣡ म꣡दः  
-प्र꣡ चे꣡तसा चेतयते अ꣡नु द्यु꣡भिः  
-दुवा꣡ ज꣡ना यात꣡यन्न् अन्त꣡र् ईयते  
-न꣡रा च शं꣡सं दइ꣡वियं च धर्त꣡रि
+सो᳓ अ᳓ग्रे अ᳓ह्नां ह᳓रिर् हर्यतो᳓ म᳓दः  
+प्र᳓ चे᳓तसा चेतयते अ᳓नु द्यु᳓भिः  
+दुवा᳓ ज᳓ना यात᳓यन्न् अन्त᳓र् ईयते  
+न᳓रा च शं᳓सं दइ᳓वियं च धर्त᳓रि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -252,6 +250,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः सोमः। अग्रे- मुख्यतया। अह्नां द्युभिः- अध्यात्मदीप्तिभिः। हरिः- आकर्षकः।  हर्यतः- कान्तः सन्। मदः- तर्पकः सन्। चेतसा- स्वचित्तेन। प्र चेतयते- प्रकर्षेण प्रज्ञापयति।  धर्तरि- धर्मे। नरा च शंसम्- नराशंसं नरश्रेष्ठमिति भावः। दैव्यं च- देवं च। द्वा जना- एवमुभयविधं  जनम्। यातयन्- प्रेरयन्। अन्तरीयते- हृदयान्तर्गच्छति॥४२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **अग्रे** सर्वेषां संमुखं **चेतसा** प्राणिनां चेतनेन सह **अह्रां** **द्युभिः** दीप्तिभिः **अनु** **प्र** **चेतयते** अनुप्रज्ञायते । यद्वा । अह्नामग्रे अग्रभागे। प्रातरित्यर्थः । स्तोतॄणां चेतसा प्रज्ञानेन द्युभिर्दीप्ताभिः स्तुतिभिश्चानु प्र चेतयते । कीदृशः सः । **हरिः** हरितवर्णः **हर्यतः** कान्तः **मदः** मदकरः। किंच **द्वा** **जना** द्वौ जनौ स्तोतारं यष्टारं च **यातयन्** प्रापयन् स्वविहितेन कर्मणा । लौकिकवैदिकौ द्वौ जनौ द्रष्टव्यौ । एवं कुर्वन् **अन्तः** द्यावापृथिव्योर्मध्ये **ईयते** गच्छति । ‘ ईङ् गतौ ' । किं कुर्वन् । **नराशंसं** नरैः शंसनीयम् । मानुषमित्यर्थः । **दैव्यं** **च** दिवि भवम् उभयविधं धनं **धर्तरि** धारके यजमाने प्रेरयन्निति शेषः ॥
@@ -283,7 +286,6 @@ I take prá … cetayate as a reflexive trans./caus. ‘makes oneself perceived�
 
 As is generally recognized, nárā ca śáṃsam shows a species of tmesis, from the cmpd nárāśáṃsa-.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -308,10 +310,6 @@ Im Anbruch der Tage tut sich der goldige, begehrenswerte Rauschtrank tagtäglich
 
 Er zeigt bei Tages Anbruch sich in schönem Glanz der goldne Trank, der holde sich in hellem Licht; Die beiden einend geht er zwischen beiden hin, dem Preis der Menschen, und der Götter ew'gem Halt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सोम म꣡धुमत्तमो  
-राये꣡ अर्ष पवि꣡त्र आ꣡  
-म꣡दो यो꣡ देववी꣡तमः
+प्र᳓ सोम म᳓धुमत्तमो  
+राये᳓ अर्ष पवि᳓त्र आ᳓  
+म᳓दो यो᳓ देववी᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। देववीतमो मदः- दिव्यो हर्षकरः। मधुमत्तमः- अतिशयेन मधुरः। तादृशः। सोम- रस।  पवित्रे- शोधके पात्रे प्रतीके। आ- आभिमुख्येन। राये- संपदर्थम्। प्र- प्रकर्षेण। अर्ष- क्षर॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** ते तव **यः** **मदः** रसः **मधुमत्तमः** अत्यन्तं मधुमान् **देववीतमः** अतिशयेन देवकामश्च तं रसं **राये** अस्माकं धनार्थं **पवित्रे** **प्र** **आ** **अर्ष** धारया क्षर ॥
@@ -159,7 +162,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 O Soma, as the most honeyed, rush forth into the filter for wealth, as the exhilarating drink that best pursues the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
@@ -185,10 +188,6 @@ Fließe weiter, o Soma, du der Süßeste, zu Reichtum auf die Seihe als der göt
 
 Zu Reichthum ströme in das Sieb, o Soma, als das süsseste Gebräu, das götterlabendste.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

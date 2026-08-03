@@ -3,7 +3,6 @@ title = "015"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा पाथियो꣡ वृ꣡षा  
-स꣡म् ईधे दस्युह꣡न्तमम्  
-धनंजयं꣡ र꣡णे-रणे
+त᳓म् उ त्वा पाथियो᳓ वृ᳓षा  
+स᳓म् ईधे दस्युह᳓न्तमम्  
+धनंजयं᳓ र᳓णे-रणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्। त्वा- त्वाम्। रणेरणे- वृत्रैर्जनितेषु सर्वेषु युद्धेषु। दस्युहन्तमम्- अतिशयेन स्तेनबाधकम्।  धनञ्जयम्- सम्पज्जेतारम्। पाथ्यः- सुमार्गस्थः। वृषा- वर्षको दाता। समीधे-  सम्यगुद्दीपितवान्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पाथ्यो** **वृषा** नाम कश्चिदृषिः **तमु** तमेव **त्वा** त्वां हे अग्ने **समीधे** समैन्ध समदीपयत् । कीदृशम् । **दस्युहन्तमम्** अतिशयेन दस्यूनामुपक्षपयितॄणां शत्रूणां हन्तारं **रणेरणे** युद्धे युद्धे **धनंजयं** धनानां जेतारम् ॥ ॥ २३ ॥
@@ -164,7 +167,7 @@ _________
 
 You did Vr̥ṣan Pāthya kindle as best Dasyu-smasher,  
 winning the stakes in every battle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
@@ -200,8 +203,6 @@ Und dich entflammte Pathia, der Held, den Feindetödtendsten, Der Beute du im Ka
 Вришан Патхья, (тебя,) лучше всех убивающего дасью,  
 Завоевывающего добычу в каждом сражении.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व त्य꣡द् इन्द्रिय꣡म् बृह꣡त्  
-त꣡व शु꣡ष्मम् उत꣡ क्र꣡तुम्  
-व꣡ज्रं शिशाति धिष꣡णा व꣡रेणियम्
+त᳓व त्य᳓द् इन्द्रिय᳓म् बृह᳓त्  
+त᳓व शु᳓ष्मम् उत᳓ क्र᳓तुम्  
+व᳓ज्रं शिशाति धिष᳓णा व᳓रेणियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तव- ते। त्यत्- तत्। बृहत्- महत्। इन्द्रियम्- परमैश्वर्यम्। तव। शुष्मम्- बलम्। उत- अपि  च। क्रतुम्- प्रज्ञाम्। वरेण्यम्- श्रेष्ठम्। वज्रम्। धिषणा। शिशाति- तीक्ष्णीकरोति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्यत्** तत् प्रसिद्धम् **इन्द्रियम्** इन्द्रस्य लिङ्गं **बृहत्** प्रभूतं वीर्यं **धिषणा** स्तुतिः **शिशाति** निःश्यति तीक्ष्णीकरोति । तथा **तव** त्वदीयं **शुष्मं** शोषकं बलम् **उत** अपि च **क्रतुं** प्रज्ञानं बलं कर्म वा **वरेण्यं** वरणीयं **वज्रम्** आयुधं च स्तुतिस्तीक्ष्णीकरोति ॥
@@ -173,7 +176,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This lofty Indrian power of yours, your unbridled force and resolve, and the mace worthy to be chosen—these does the Holy Place sharpen.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
@@ -207,8 +210,6 @@ Sie, deine grosse Indramacht und deine Kraft und Tüchtigkeit, Den Blitz auch sc
 Твое неистовство и силу духа,  
 (Твою) выдающуюся ваджру заостряет Дхишана.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

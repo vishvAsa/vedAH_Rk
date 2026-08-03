@@ -1,6 +1,5 @@
 +++
 title = "+096"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+096"
 <details><summary>Jamison Brereton</summary>
 
 96  
-Agni (or Agni Draviṇodā “Agni Wealth-Giver”)  
+Agni (or Agni Draviṇodā “Agni Wealth-Giver”)  
 Kutsa Āṅgirasa  
 9 verses: triṣṭubh  
 Simpler and more straightforward than the previous hymn, this one shares a final  verse (9) as well as some themes with I.95: see especially verse 5, where Night and  Dawn suckle Agni, the calf, which matches I.95.1, where the two mothers were  unidentified.  
@@ -21,4 +20,10 @@ A pāda-length refrain is found in the first seven verses; in the last two of th
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni The first verses of this hymn connect Agni with the semi-divine ancestors and culture heroes of the Ārya: Āyu, Manu, Vivasvant (vs. 2), Bharata (vs. 3), Mātariśvan (vs. 4).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९६ कुत्स आङ्गिरसः। अग्निः, द्रविणोदा अग्निर्वा । त्रिष्टुप्
 </details>

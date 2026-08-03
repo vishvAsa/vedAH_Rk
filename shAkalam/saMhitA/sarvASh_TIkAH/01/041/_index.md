@@ -1,6 +1,5 @@
 +++
 title = "+041"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+041"
 <details><summary>Jamison Brereton</summary>
 
 41  
-Varuṇa, Mitra, Aryaman (1–3, 7–9), Ādityas (4–6)  
+Varuṇa, Mitra, Aryaman (1–3, 7–9), Ādityas (4–6)  
 Kaṇva Ghaura  
 9 verses: gāyatrī, arranged in tr̥cas  
 For most of its short compass, this hymn is a simple celebration of the rewards  and protection the Ādityas grant to their devotee. The only notable aspect of these  verses is the pervasive imagery of journeys and their potential risks.  
@@ -22,4 +21,10 @@ swears responding directly to a rival behaving with hostility and affirms his in
 <details><summary>Jamison Brereton Notes</summary>
 
 Ādityas
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४१   कण्वो घौरः। वरुणमित्रार्यमणः, ४-६ आदित्याः। गायत्री।
 </details>

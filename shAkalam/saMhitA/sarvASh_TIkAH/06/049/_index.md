@@ -1,6 +1,5 @@
 +++
 title = "+049"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ in the Mitra and Varuṇa verse (1) and in the Tvaṣṭar verse (9). The refere
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods The verb ‘quicken, enliven’ (√jinv) appears at widely scattered intervals in this hymn (6b jinvatam, 11c jínvathā, 14d jinvatu), but enough to count as a leitmotif.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४९  ऋजिष्वा भारद्वाजः।विश्वे देवाः। त्रिष्टुप्, १५ शक्वरी।
 </details>

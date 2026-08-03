@@ -1,6 +1,5 @@
 +++
 title = "+086"
-
 +++
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -25,8 +24,8 @@ title = "+086"
 <details><summary>Jamison Brereton</summary>
 
 86 (912)  
-Vr̥ṣākapi (Conversation of Vr̥ṣākapi Aindra, Indrāṇı, ̄ and Indra)  
-Indra (1, 8, 11–12, 14, 19–22), Indrāṇī (2–6, 9–10, 15–18), Vrṣḁ̄ kapi Aindra (7, 13,  23) [per the Anukramaṇī]  
+Vr̥ṣākapi (Conversation of Vr̥ṣākapi Aindra, Indrāṇı, ̄ and Indra)  
+Indra (1, 8, 11–12, 14, 19–22), Indrāṇī (2–6, 9–10, 15–18), Vrṣḁ̄ kapi Aindra (7, 13,  23) [per the Anukramaṇī]  
 23 verses: paṅkti  
 
 This dialogue hymn was called by Renou “the strangest poem in the R̥gveda” (“le  poème le plus étrange du RV,” 1956: 246). The three participants in the dialogue are  Indra, his wife Indrāṇī, and his raffish monkey pal Vr̥ṣākapi, who is making sexual  advances to Indrāṇī. The hymn contains startlingly explicit sexual discourse, as well  as a dazzling array of apparent non-sequiturs, all embedded in an exaltation of  Indra, signaled by its consistent refrain.  
@@ -78,4 +77,10 @@ I, therefore, conclude that the hymn gives us not only a description of the cons
 <details><summary>Geldner</summary>
 
 Indra's Frau:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८६  इन्द्रः, ७,१३,२३ ऐन्द्रो वृषाकपिः, २-६, ९-१०, १५-१८ इन्द्राणी। इन्द्रः। पङ्क्तिः
 </details>

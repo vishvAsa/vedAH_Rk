@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तु꣡ अशत्रव् आ꣡ गहि  
-नि꣡ उक्था꣡नि च हूयसे  
-उपमे꣡ रोचने꣡ दिवः꣡
+आ᳓ तु᳓ अशत्रव् आ᳓ गहि  
+नि᳓ उक्था᳓नि च हूयसे  
+उपमे᳓ रोचने᳓ दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। रोचने- प्रकाशे। उपमे- निकटे। उक्थानि- मन्त्रान् प्रति। नि- नितराम्। हूयसे-  आहूयसे। अशत्रो- अजातशत्रो। आ गहि- आगच्छ॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अशत्रो** सपत्नरहित । अस्य बहुविधबलत्वाद्रणाभिमुखं गन्तारः शत्रवो न सन्तीत्यर्थः । तादृशेन्द्र **तु** क्षिप्रम् **आ** **गहि** आयाहि अस्मद्यज्ञं प्रत्यागच्छ । यतः **दिवः** स्वतेजसा दीप्यमानात् द्युलोकात् । तत्रस्थैर्देवैरित्यर्थः । **रोचने** अग्निभिर्दीप्यमाने लोके च **उपमे** समीपे । स्तोतारः स्तोत्रशस्त्रात्मकं शब्दं कुर्वन्त्यत्रेत्युपमो यज्ञः । तस्मिन्नस्मदीये यज्ञे **च** **उक्थानि** त्रिवृत्पञ्चदशादिलक्षणानि स्तोत्राणि प्रति **नि** **हूयसे** त्वं स्तोतव्यतया नितरामाहूयसे । यस्मादेवं तस्मादागच्छेति समन्वयः ॥
@@ -196,8 +199,6 @@ You without rival—here, come here! You are being called down to the hymns (whi
 The ca in b is baffling both as to position and function. Geldner seems to take it as conjoining the imperatival clause in a with the present indicative clause in b (“Komm … und du wirst … gerufen…”); Klein (DGRV I.233) is disturbed by the “illocutionary difference” between the moods of the two clauses and suggests, “Perhaps the particle is merely a weak, untranslatable transitional element,” which, I’m afraid, is no help at all. Even if it is supposed to be conjoining the clauses, it is positioned wrong for this function. My instinct is that, in this hymn built of clichés, ́ we are dealing with a truncated formula: X ukthā́(ni) ca (“X and hymns”). Cf. ## 30
 gíraś ca … ukthā́ca, VIII.33.13 bráhmokthā́ca ... (and the converse
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -222,10 +223,6 @@ Komm doch, der du ohne Gegner bist; und du wirst zu den Lobliedern gerufen im h�
 
 O unbesiegter, komm herbei, zu Sprüchen rufen wir dich her, Auch von dem höchsten Himmelsraum.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

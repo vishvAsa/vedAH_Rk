@@ -3,7 +3,6 @@ title = "025"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम विपश्चि꣡तम्  
-पुनानो꣡ वा꣡चम् इष्यसि  
-इ꣡न्दो सह꣡स्रभर्णसम्
+तुवं᳓ सोम विपश्चि᳓तम्  
+पुनानो᳓ वा᳓चम् इष्यसि  
+इ᳓न्दो सह᳓स्रभर्णसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    सोम- रस। इन्दो- क्लेदनशील। त्वम्। सहस्रभर्णसम्- अनन्तभरणम्। विपश्चितम्-  सूक्ष्मदर्शिनम्। वाचम्- मन्त्रम्। पुनानः- पूयमानः सन्। इष्यसि- प्रेरयसि॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानः **त्वं** **विपश्चितं** प्रज्ञया पवित्रां **सहस्रभर्णसं** बहुभरणां **वाचम्** **इष्यसि** प्रेरयसि ॥ ॥ ४० ॥
@@ -142,7 +145,7 @@ Sapient speech: vipaścitam = prajñayā pavitrām, cleaning (?) by wisdom
 
 You, Soma, while becoming purified, send out speech that is attentive to  poetic inspiration  
 and brings a thousand presents, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
@@ -170,10 +173,6 @@ Du, Soma, treibst die wortkundige Rede hervor, wenn du dich läuterst, die Tause
 
 Gereinigt lässt, o Soma, du erschallen dein begeistert Lied, Das, Indu, tausend Gaben beut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "आदित्याः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,15 +11,14 @@ ChandaH = "महापङ्क्तिः"
 - छन्दः - महापङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् आवि꣡र् य꣡द् अपीचि꣡यं  
-दे꣡वासो अ꣡स्ति दुष्कृत꣡म्  
-त्रिते꣡ त꣡द् वि꣡श्वम् आप्तिय꣡  
-आरे꣡ अस्म꣡द् दधातन  
-अनेह꣡सो व ऊत꣡यः  
-सुऊत꣡यो व ऊत꣡यः
+य᳓द् आवि᳓र् य᳓द् अपीचि᳓यं  
+दे᳓वासो अ᳓स्ति दुष्कृत᳓म्  
+त्रिते᳓ त᳓द् वि᳓श्वम् आप्तिय᳓  
+आरे᳓ अस्म᳓द् दधातन  
+अनेह᳓सो व ऊत᳓यः  
+सुऊत᳓यो व ऊत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 apīcyàm ← apīcyà- (nominal stem)  
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्। आविः- प्रकटितम्। यत्। अपीच्यम्- अन्तर्हितम्। दुष्कृतम्- पापम्। अस्ति- भवति।  देवासः- हे देवाः। तत्। विश्वम्- सर्वम्। आप्त्ये- आप्तहितकारिणीति वैदिककोशे। त्रिते-  भूर्भुवःसुवरात्मकान्नप्राणचित्तस्थदेवोपासके। मा भवतु। अस्मत्- अस्मत्तः। आरे- दूरे। दधातन-  धारयत॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवासः देवा आदित्याः यदाविः यत् पापमाविर्भूतम् **अस्ति** । **दुष्कृतं** **यत्** च **अपीच्यम्** अन्तर्हितमस्ति । ‘ अपीच्यम्' इत्यन्तर्हितनाम । **तद्विश्वं** तदुभयम् **आप्त्ये** **त्रिते** मयि मा भूत्। किंतु **अस्मत्** **आरे** दूरे **दधातन** स्थापयत ॥
@@ -293,8 +296,6 @@ Was offenbar, was ins Geheim, o Götter, Uebles ist gethan, Das alles schaffet w
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

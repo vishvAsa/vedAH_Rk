@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "भरद्वाजः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सुष्वाणो꣡ अ꣡द्रिभिर्  
-अभि꣡ अर्ष क꣡निक्रदत्  
-द्युम꣡न्तं शु꣡ष्मम् उत्तम꣡म्
+तुवं᳓ सुष्वाणो᳓ अ᳓द्रिभिर्  
+अभि᳓ अर्ष क᳓निक्रदत्  
+द्युम᳓न्तं शु᳓ष्मम् उत्तम᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। अद्रिभिः- स्थैर्यप्रतीकैर्ग्रावाभिर्गिरिभिर्वा। सुष्वाणः- निष्पन्नः सन्।  द्युमन्तम्- दीप्तियुक्तम्।  उत्तमम्- श्रेष्ठम्। शुष्मम्- बलम्। कनिक्रदत्- शब्दयन्। अभ्यर्ष- अभिगच्छ॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पवमान सोम **अद्रिभिः** ग्रावभिः **सुष्वाणः** सुन्वानोऽभिषूयमाणः **त्वं** **कनिक्रदत्** भृशं शब्दं कुर्वन् **अभ्यर्ष** कलशं पात्राणि वा अभिगच्छ । तथा **द्युमन्तं** दीप्तियुक्तम् **उत्तमं** **शुष्मं** शत्रूणां शोषकं बलं च प्राप्नुहि । यद्वा । एकवाक्यतया योजनीयः। सूयमानस्त्वं बलमभिगच्छेति । ‘ कदि क्रदि' आह्वाने । क्रदेर्यङ्लुकि नलोपोऽभ्यासस्य निगागमश्च ‘दाधर्तिदर्धर्ति' इति सूत्रेण सर्वं निपात्यते । तस्माच्छतृप्रत्ययः । ‘ अभ्यस्तानामादिः' इति स्वरः ॥
@@ -145,7 +148,7 @@ _________
 
 You, having been pressed by stones—rush, roaring constantly,  
 toward highest brilliant tempestuous force.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
@@ -180,8 +183,6 @@ O ströme wiehernd uns herbei, von Somasteinen ausgepresst, Die höchste Kraft, 
 Теки, громко ревя,  
 К сверкающему высшему возбуждению!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

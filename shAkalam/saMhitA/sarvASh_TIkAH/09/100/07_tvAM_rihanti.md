@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ रिहन्ति मात꣡रो  
-ह꣡रिम् पवि꣡त्रे अद्रु꣡हः  
-वत्सं꣡ जातं꣡ न꣡ धेन꣡वः  
-प꣡वमान वि꣡धर्मणि
+तुवां᳓ रिहन्ति मात᳓रो  
+ह᳓रिम् पवि᳓त्रे अद्रु᳓हः  
+वत्सं᳓ जातं᳓ न᳓ धेन᳓वः  
+प᳓वमान वि᳓धर्मणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। अद्रुहः- द्रोहभावनारहिताः। मातरः- आपो मूलशक्तिधाराः। हरिम्- काम्यम्।  त्वाम्- भवन्तम्। विधर्मणि- विशेषधर्मयुक्ते। पवित्रे- शोधके प्रतीके। धेनवः- गावः। जातं वत्सं  न- उत्पन्नं शाबमिव। रिहन्ति- आस्वादयन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम **विधर्मणि** विविधं हविषां धारके यज्ञे **अद्रुहः** द्रोहवर्जिताः **मातरः** मातृभूता वसतीवर्यः **हरिं** हरितवर्णं **त्वां** **पवित्रे** स्थितं **रिहन्ति** लिहन्ति आस्वादयन्ति । कथमिव । यथा **धेनवः** **जातं** **वत्सं** लिहन्ति तथा ॥
@@ -180,8 +183,6 @@ The mothers, those without deceit, lick you, the tawny one, in the filter, as mi
 <details><summary>Jamison Brereton Notes</summary>
 
 This vs. replicates most of vs. 1 in a different order. I will cite here only the repeated elements: 1 … adrúhaḥ … / vatsáṃ ná … jātáṃ rihanti mātáraḥ 7 … rihanti mātáraḥ … adrúhaḥ / vatsáṃ jātáṃ ná … On the repeated pāda (d) pávamāna vídharmaṇi see comm. ad IX.64.9 and also Ober II.152.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
@@ -215,8 +216,6 @@ Die holden Mütter küssen dich, das goldne Ross, im Läutrungsnetz, Wie Kühe d
 Словно дойные коровы новорожденного теленка,  
 О Павамана, когда ты распространяешься.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

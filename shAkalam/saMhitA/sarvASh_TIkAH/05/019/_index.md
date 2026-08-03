@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In verse 3 it is not clear who Śvaitreya might be. He could be Agni himself,  w
 
 sticks that give him birth as he consumes them. The act would seem to be unholy,  but that is merely Agni’s deception.  
 The last verse apparently describes the fully mature Agni, flinging his flames in  the wind. On this verse, see Hoffmann (1954/61: 46–47 [=1975: 375–76]); he is surely  correct to read sandhr̥ṣájas, which could mean “daring warriors” or the like, instead  of san dhr̥ṣájas with the Padapāṭha.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १९  वव्रिरात्रेयः।अग्निः। गायत्री, ३-४ अनुष्टुप्, ५ विराड्रूपा
 </details>

@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ अर्ष सहस्रि꣡णं  
-रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
-अभि꣡ वा꣡जम् उत꣡ श्र꣡वः
+अभि᳓ अर्ष सहस्रि᳓णं  
+रयिं᳓ गो᳓मन्तम् अश्वि᳓नम्  
+अभि᳓ वा᳓जम् उत᳓ श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रिणम्- अनन्ताम्। गोमन्तम्- ज्ञानयुक्ताम्। अश्विनम्- प्राणयुक्ताम्। अभि- अभितः।  वाजम्- हव्यभूताम्। उत- अपि च। श्रवः- श्रुतिमतीम्। रयिम्- संपदम्। अभ्यर्ष-  अभिगमय॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिर्युक्तम् **अश्विनम्** अश्ववन्तं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । **उत** अपि च **वाजं** बलं **श्रवः** अन्नं चास्मान् **अभि** गमय ।
@@ -152,7 +155,7 @@ _________
 
 Rush toward wealth in thousands of cows and of horses,  
 toward the prize of victory and fame.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
@@ -179,10 +182,6 @@ Ströme her zu tausendfältigem Reichtum an Rindern und Rossen, zu Gewinn und Ru
 
 O ströme tausendfachen Schatz an Rindern, Rossen uns herbei Und Labetrunk und Ruhm uns zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

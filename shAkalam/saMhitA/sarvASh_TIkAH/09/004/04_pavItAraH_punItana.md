@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वीतारः पुनीत꣡न  
-सो꣡मम् इ꣡न्द्राय पा꣡तवे  
-अ꣡था नो व꣡स्यसस् कृधि
+प᳓वीतारः पुनीत᳓न  
+सो᳓मम् इ᳓न्द्राय पा᳓तवे  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवीतारः- रसनिष्पादकाः। इन्द्राय- परमेश्वराय। पातवे- अनुभवाय। सोमम्- रसम्। पुनीतन-  निष्पादयत॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवीतारः** सोमाभिषवकर्तारः यूयम् **इन्द्राय** **पातवे** पातुं **सोमं** **पुनीतन** अभिषुणुत । सिद्धमन्यत् ॥
@@ -181,8 +184,6 @@ Auf, läutert nun ihr Läuterer den Soma zu des Indra Trunk, Er mach' uns reiche
 Сому Индре для питья –  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

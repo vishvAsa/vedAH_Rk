@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उस्रा꣡ वेद व꣡सूना᳐म्  
-म꣡र्तस्य देवी꣡ अ꣡वसः  
-त꣡रत् स꣡ मन्दी꣡ धावति
+उस्रा᳓ वेद व᳓सूना᳐म्  
+म᳓र्तस्य देवी᳓ अ᳓वसः  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वसूनाम्- संपदाम्। उस्रा- उत्सरणशीला। देवी- रसधारा देवता। मर्तस्य- मनुष्यस्य। अवसः-  रक्षायाः पदवीम्। वेद- जानाति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वसूनां** धनानाम् **उस्रा** उत्सरणशीला प्रदात्री **देवी** द्योतमाना स्तूयमाना वा यस्य सोमस्य धारा **मर्तस्य** मनुष्यं यजमानम् **अवसः** रक्षितुं वेद जानाति । सिद्धमन्यत् ॥
@@ -154,7 +157,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The ruddy goddess knows of the goods, of the help of the mortal. – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
@@ -185,10 +188,6 @@ Die Göttin Usas kennt die Schätze, die Gunst des Sterblichen. - Er gelange üb
 
 Die Göttin Morgenröthe kennt die Schätze und des Sterblichen Labung.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

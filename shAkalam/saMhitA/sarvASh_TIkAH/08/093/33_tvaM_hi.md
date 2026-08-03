@@ -3,7 +3,6 @@ title = "033"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त्वं꣡ हि꣡ वृत्रहन्न् एषा᳐म्  
-पाता꣡ सो꣡माना᳐म् अ꣡सि  
-उ꣡प नो ह꣡रिभिः सुत꣡म्
+त्वं᳓ हि᳓ वृत्रहन्न् एषा᳐म्  
+पाता᳓ सो᳓माना᳐म् अ᳓सि  
+उ᳓प नो ह᳓रिभिः सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रहन्- आवरणनाशक। त्वम्। हि- खलु। एषाम्- एतेषाम्। सोमानाम्- रसानाम्। पाता-  अनुभावुकः। असि- भवसि॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वृत्रहन्** वृत्रस्य पापस्य वा हन्तरिन्द्र । हिशब्दो हेत्वर्थे। यस्मात् **त्वम्** **एषाम्** अस्मदीयानां **सोमानां** **पाता** पानकर्ता **असि** भवसि । एषाम् इति इदमोऽन्वादेशे अशोदेशोऽनुदात्तश्च । अतस्त्वम् अश्वैः सह सोमं पातुमुपयाहि आगच्छ ॥
@@ -163,7 +166,7 @@ _________
 
 For you, Vr̥tra-smiter, are the drinker of these soma-drinks—  
 right up to our pressed soma with your fallow bays.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
@@ -190,10 +193,6 @@ Denn du, Vritratöter, bist der Trinker dieser Soma´s; komm mit den Falben zu u
 
 Denn du, o Vritratödter, bist's, der diese Somasäfte trinkt, Mit Füchsen komm zu unserm Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

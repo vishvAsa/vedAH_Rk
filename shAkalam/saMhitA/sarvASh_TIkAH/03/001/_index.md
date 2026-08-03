@@ -1,6 +1,5 @@
 +++
 title = "+001"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In our interpretation, Agni opens the hymn with a declaration that the priests h
 reappear again in verses 6 and 9. In verse 4 these seven women are likely the riv ers, as Geldner rightly notes, but in verse 6 they are identified, unexpectedly, as the  voices of the seven priests of the soma rite. Retrospectively, therefore, we can view  these women as both the rivers and the voices. Similarly in verse 11 the “kindred  
 sisters” might be the rivers, or they might again be the voices of the priests. The identity of Agni’s father also complicates the story of Agni’s birth. In verse  10 Agni gives rise to Agni, and therefore Agni is also his own father. But then who  is the father in verse 9? Geldner and Renou think that his father there is Heaven,  Heaven’s udder the raincloud, and therefore the fire here is lightning. More likely,  however, the reference is to the ritual fire. If so, then the father in verse 9 might  be the priest churning the fire, the udder his voice, and the udder’s “spurts and  streams” the words of the priest. Or, again in light of verse 10, the father might  be Agni, who nurtures himself through the “spurts and streams” of his spreading  flames. Or, just as in the case of the “seven young women,” the poet may intend  several of these possibilities.  
 As Geldner notes, from verse 15 the poet more unambiguously addresses the  ritual fire, though he does return to the theme of Agni’s births in verse 20. This time,  though, the reference may be not only to the ultimate origins of Agni but also and  primarily to the ritual fires of long ago and the ritual fire of the present.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१  गाथिनो विश्वामित्रः। अग्निः। त्रिष्टुप्
 </details>

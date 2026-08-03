@@ -1,6 +1,5 @@
 +++
 title = "+026"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ On the surface this is a simple and straightforward Agni hymn, in part assem ble
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२६   आजीगर्तिः शुनःशेपः, स कृत्रिमो वैश्वामित्रो देवरातः। अग्निः । गायत्री
 </details>

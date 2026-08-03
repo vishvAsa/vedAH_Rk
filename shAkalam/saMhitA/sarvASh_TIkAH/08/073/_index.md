@@ -1,6 +1,5 @@
 +++
 title = "+073"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+073"
 <details><summary>Jamison Brereton</summary>
 
 73 (682)  
-Aśvins  
+Aśvins  
 Gopavana Ātreya or Saptavadhri Ātreya  
 18 verses: gāyatrī arranged in trcas ̥  
 Unified by its refrain, this hymn otherwise seems haphazardly structured, with  standard straightforward appeals to the Aśvins to come to our sacrifice (e.g., vss.  1–2) alternating with undeveloped questions and statements (e.g., 11–12) and,  more baffling, mythic allusions. The poorly understood story of the Aśvins’ res  
@@ -21,4 +20,10 @@ cue of Atri is mentioned in verses 3 and 7–8, their relation to Saptavadhri in
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७३  गोपवन आत्रेयः सप्तवध्रिर्वा।अश्विनौ। गायत्री।
 </details>

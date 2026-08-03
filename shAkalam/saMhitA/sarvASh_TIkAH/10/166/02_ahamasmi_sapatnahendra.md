@@ -3,7 +3,6 @@ title = "002"
 devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अह꣡म् अस्मि सपत्नहा꣡  
-इ꣡न्द्र ऽवा꣡रिष्टो° अ꣡क्षतः  
-अधः꣡ सप꣡त्ना मे पदो꣡र्  
-इमे꣡ स꣡र्वे अभि꣡ष्ठिताः
+अह᳓म् अस्मि सपत्नहा᳓  
+इ᳓न्द्र ऽवा᳓रिष्टो° अ᳓क्षतः  
+अधः᳓ सप᳓त्ना मे पदो᳓र्  
+इमे᳓ स᳓र्वे अभि᳓ष्ठिताः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अहम्। सपत्नहा- वृत्रहा। अस्मि- भवामि। इन्द्र इव। अरिष्टः- अहिंसितः। अक्षतः- अक्षीणः।  मे- मम। पदोः- पादयोः। अधः। सपत्नाः- दैत्याः। इमे- एते। सर्वे। अभिष्ठिताः- अभितः  स्थिताः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अहं** **सपत्नहा** सपत्नानां शत्रूणां हन्ता **अस्मि** भवामि। **इन्द्रइव** इन्द्रो यथा केनाप्यहिंसितो भवति तथाहमपि **अरिष्टः** अहिंसितः **अक्षतः** अव्रणश्च भवामि । **इमे** दृश्यमानाः **सर्वे** **सपत्नाः** **मे** मम **पदोः** पादयोः **अधः** अधस्तात **अभिष्ठिताः** आक्रान्ता भवन्तु ॥
@@ -225,8 +228,6 @@ Ich bin's, der Nebenbuhler schlägt, wie Indra sicher, unverletzt, Die Nebenbuhl
 Все эти соперники  
 Раздавлены у меня под ногами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

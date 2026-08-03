@@ -1,6 +1,5 @@
 +++
 title = "+008"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn shares some phraseology and themes with the immediately preceding  IV.
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni As noted in the published introduction, this hymn shares much phraseology with the immediately preceding IV.7.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८  वामदेवो गौतमः। अग्निः। गायत्री
 </details>

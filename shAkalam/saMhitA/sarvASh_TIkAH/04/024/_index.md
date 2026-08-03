@@ -1,6 +1,5 @@
 +++
 title = "+024"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The allusion to dānastutis above was purposeful, for this little set of verses 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २४  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्, १० अनुष्टुप्
 </details>

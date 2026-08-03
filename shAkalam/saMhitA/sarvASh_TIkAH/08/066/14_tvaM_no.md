@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नो अस्या꣡ अ꣡मतेर् उत꣡ क्षुधो꣡  
-अभि꣡शस्तेर् अ꣡व स्पृधि  
-तुवं꣡ न ऊती꣡ त꣡व चित्र꣡या धिया꣡  
-शि꣡क्षा शचिष्ठ गातुवि꣡त्
+तुवं᳓ नो अस्या᳓ अ᳓मतेर् उत᳓ क्षुधो᳓  
+अभि᳓शस्तेर् अ᳓व स्पृधि  
+तुवं᳓ न ऊती᳓ त᳓व चित्र᳓या धिया᳓  
+शि᳓क्षा शचिष्ठ गातुवि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -216,6 +214,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्याः- एतस्याः। अमतेः। उत- अपि च। क्षुधः। अभिशस्तेः- निन्दायाः। त्वम्। नः-  अस्मान्। अव स्पृधि- मोचय। त्वम्। नः- अस्मभ्यम्। ऊती- रक्षया। तव- ते। चित्रया-  असाधारण्या। धिया। शचिष्ठ- बलिष्ठ। गातुवित्- मार्गवित्। शिक्ष- विद्यां देहि॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं नोस्मानस्या अमतेर्दारिद्मात्मिकायाः उतापिच क्षुधोभिशस्तेर्निन्दायाश्च सकाशादवस्पृधि अवमोचय । किञ्च त्वं नोस्मभ्यं तवोती ऊत्या चित्रया धिया विचित्रेण कर्मणा शिक्ष देह्यभिमतम् । हे शविष्ठ बलवन् गातुविन्मार्गज्ञ उपायज्ञस्त्वम् ॥ १४ ॥
@@ -238,7 +241,7 @@ O **Maghavan**: śaciṣṭha (RV 4.20.9): atiśayena **prajña**; (RV4.43.3): �
 
 You—rescue us from this neglect and hunger, from their curse.  
 You—because of our brilliant insight, do your best for us with your  help, most able one, as the way-finder.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -270,8 +273,6 @@ Errette du aus dieser Noth uns und Gefahr, beschütz vor Hunger uns und Fluch, M
 Ты нас своею помощью, ярким намерением  
 Поддержи, о самый могучий, находящий выход!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

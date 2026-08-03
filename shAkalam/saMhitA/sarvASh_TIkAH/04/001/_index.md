@@ -1,6 +1,5 @@
 +++
 title = "+001"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ The Vala myth is embedded within verses more conventionally devoted to Agni.  Th
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni I do not understand the emphasis on Varuṇa in the early parts of the hymn (vss. 2-5; see also 18d), since the Vala myth and the unnamed Aṅgirases in the later parts of the hymn have no obvious conceptual connection with Varuṇa and the Ādityas (see also Aditi in 20a).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १  वामदेवो गौतमः। अग्निः, २-५ अग्नीवरुणौ वा। त्रिष्टुप्, १ अष्टिः, २ अतिजगती, ३ धृतिः
 </details>

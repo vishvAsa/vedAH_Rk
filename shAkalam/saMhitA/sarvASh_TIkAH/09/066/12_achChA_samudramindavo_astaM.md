@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा समुद्र꣡म् इ꣡न्दवो  
-अ꣡स्तं गा꣡वो न꣡ धेन꣡वः  
-अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
+अ᳓छा समुद्र᳓म् इ᳓न्दवो  
+अ᳓स्तं गा᳓वो न᳓ धेन᳓वः  
+अ᳓ग्मन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्तम्- स्वसदनम्। गावो न धेनवः- पशव इव। इन्दवः- हृदयक्लेदनकरा रसाः। समुद्रम्-  हृत्समुद्रम्। ऋतस्य योनिम्- ऋतसदनम्। अच्छा- अभिलक्ष्य। अग्मन्- गच्छन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दवः** क्षरन्तः सोमाः **समुद्रं** सोमानामेकत्रैव संगमनस्थानं द्रोणकलशम् **अच्छ** अभि गच्छन्ति । तत्र दृष्टान्तः । **धेनवः** पयःप्रदानेन जनानां प्रीणयित्र्यो नवप्रसूतिकाः **गावः** **अस्तं** गृहं यथाभिगच्छन्ति तद्वत् । किंच ते सोमाः **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **अग्मन्** आभिमुख्येन गच्छन्ति । गमेर्लुङि सिचो लुक्युपधालोपः ॥
@@ -172,7 +175,7 @@ To the ocean: the wooden vessel in which the Soma is collected
 <details><summary>Jamison Brereton</summary>
 
 Toward the sea have the drops gone, like milk-cows toward home, to the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
@@ -199,10 +202,6 @@ Zum Meere sind die Säfte gekommen wie die Milchkühe nach Hause, zu ihrem ordnu
 
 Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

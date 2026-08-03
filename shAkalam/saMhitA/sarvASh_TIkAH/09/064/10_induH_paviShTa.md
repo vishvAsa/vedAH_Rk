@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुः पविष्ट चे꣡तनः  
-प्रियः꣡ कवीना᳐꣡म् मती꣡  
-सृज꣡द् अ꣡श्वं रथी꣡र् इव
+इ᳓न्दुः पविष्ट चे᳓तनः  
+प्रियः᳓ कवीना᳐᳓म् मती᳓  
+सृज᳓द् अ᳓श्वं रथी᳓र् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    चेतनः- चैतन्यमयः। प्रियः। इन्दुः- हृदयस्पर्शी रसः। कवीनाम्- क्रान्तदर्शिनाम्। मती- मत्या।  पविष्ट- पवते। रथीः- रथी। अश्वम्- तुरगम्। इव। सृजत्- ऊर्मिं सृजति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चेतनः** प्रज्ञापकः **प्रियः** देवानां प्रीतिकरः **इन्दुः** सोमः **कवीनां** क्रान्तकर्मणां स्तोतॄणां **मती** मत्या स्तुत्या **पविष्ट** पवते । **अश्वं** हयं **रथीरिव** रथीव ऊर्मिं **सृजत्** सृजति च ॥ ॥ ३७॥
@@ -157,7 +160,7 @@ _________
 
 The drop has become purified, the conspicuous dear one, by the  thought of the poets.  
 Like a charioteer his horse, it has released (its wave),
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
@@ -184,10 +187,6 @@ Der Saft hat sich merklich geläutert, der liebe durch des Sehers Dichtung. Er l
 
 Der liebe Indu riesle hell erglänzend durch der Sänger Lied, rasch, wie das Ross der Lenker treibt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

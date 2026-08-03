@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+056"
 <details><summary>Jamison Brereton</summary>
 
 56 (497)  
-Pūsaṇ  
+Pūsaṇ  
 Bharadvāja Bārhaspatya  
 6 verses: gāyatrī, except anuṣṭubh 6  
 This hymn has several elements familiar from the previous Pūṣan hymns: he is “the  best charioteer” (vs. 2, cf. VI.55.2); he helps the thoughts of poets reach their goal  (vs. 4, cf. VI.53.4); he helps us win the prize of cattle (vs. 5, cf. VI.53.4, 10).  
@@ -22,4 +21,10 @@ In verse 2 Indra appears as Pūṣan’s companion; this partnership is further 
 <details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५६  बार्हस्पत्यो भरद्वाजः।पूषा। गायत्री, ६ अनुष्टुप् ।
 </details>

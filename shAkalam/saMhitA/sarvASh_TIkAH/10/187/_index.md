@@ -1,6 +1,5 @@
 +++
 title = "+187"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Agni
 Vatsa Āgneya  
 5 verses: gāyatrī  
 Found in AVŚ VI.34, this unremarkable hymn contains a refrain that suggests the  militant Agni, but only verse 3 develops this theme.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८७  आग्नेयो वत्सः। अग्निः। गायत्री।
 </details>

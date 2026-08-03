@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡न वं꣡साम पृ꣡तनासु श꣡र्धतस्  
-त꣡रन्तो अर्य꣡ आदि꣡शः  
-स꣡ त्वं꣡ नो वर्ध प्र꣡यसा शचीवसो  
-जि꣡न्वा धि꣡यो वसुवि꣡दः
+ये᳓न वं᳓साम पृ᳓तनासु श᳓र्धतस्  
+त᳓रन्तो अर्य᳓ आदि᳓शः  
+स᳓ त्वं᳓ नो वर्ध प्र᳓यसा शचीवसो  
+जि᳓न्वा धि᳓यो वसुवि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    येन बलेन। पृतनासु- युद्धेषु। शर्धतः- बलं कुर्वतः। अर्यः- अरीन्। आदिशः- शस्त्रक्षेपकान्।  तरन्तः। वंसाम- हिंसाम। तद्यच्छ। सः- असौ। त्वम्। नः- अस्मान्। प्रयसा- अन्नेन। वर्ध-  वर्धय। शचीवसो- प्रज्ञानिवास। वसुविदः- वृत्तिस्तम्भकरशक्तिविदः। धियः। जिन्व-  प्रीणय॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **येन** धनेन **पृतनासु** संग्रामेषु **शर्धतः** वेगं कुर्वतः **अर्यः** अरीञ्छत्रून् **आदिशः** आदेष्टॄञ्छस्त्रप्रक्षेप्तॄन् **तरन्तः** **वंसाम** हिंसाम तद्धनं देहि । हे **शचीवसो** प्रज्ञया वासयितः कर्मधन वा **सः** प्रसिद्धः **त्वं** **नः** अस्मान् **वर्ध** वर्धय प्रीणय। **प्रयसा** अन्नेन त्वं वा वर्ध। अस्मदीयेन प्रयसा हविषा **वसुविदः** वसूनां लम्भकानि **धियः** कर्माण्यस्मदीयानि **जिन्व** प्रीणय ॥
@@ -222,7 +225,7 @@ _________
 
 (Wealth) with which we will vanquish in battles those who vaunt  themselves, as we overcome the aims of the stranger.  
 Strengthen us because of our pleasing offering, o you who have the  goods of skill. Quicken our insights so they find goods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -252,8 +255,6 @@ Durch den die stolzen in den Kämpfen wir zerstreun, durchkreuzend unsrer Feinde
 Расти от нашей жертвенной услады, о полный дружелюбия!  
 Вдохнови поэтические мысли, о (ты,) находящий добро!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

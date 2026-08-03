@@ -1,6 +1,5 @@
 +++
 title = "+063"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ mary verse applicable to the “Fallow-bay-yoking” oblation.
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६३   नोधा गौतमः। इन्द्रः। त्रिष्टुप्।।
 </details>

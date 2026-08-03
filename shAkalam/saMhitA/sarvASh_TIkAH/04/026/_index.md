@@ -1,6 +1,5 @@
 +++
 title = "+026"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ These are the famous hymns devoted to the stealing of soma from heaven.
 Unfortunately they are very obscure in many details, esp. IV.27. The myth and these hymns are treated in detail by U. Schneider, Der Somaraub des Manu (1971).
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २६  वामदेवो गौतमः। १ - ३ इन्द्रः, आत्मा वा, ४ - ७ श्येनः। त्रिष्टुप्
 </details>

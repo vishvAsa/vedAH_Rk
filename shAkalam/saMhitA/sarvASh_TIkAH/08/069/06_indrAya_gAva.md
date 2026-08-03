@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय गा꣡व आशि꣡रं  
-दुदुह्रे꣡ वज्रि꣡णे म꣡धु  
-य꣡त् सीम् उपह्वरे꣡ विद꣡त्
+इ᳓न्द्राय गा᳓व आशि᳓रं  
+दुदुह्रे᳓ वज्रि᳓णे म᳓धु  
+य᳓त् सीम् उपह्वरे᳓ विद᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। उपह्वरे- समीपे वर्तमानं रसम्। सीम्- सर्वतः। विदत्- लभते तदा। इन्द्राय।  वज्रिणे- वज्रपाणये। मधु- मधुरम्। आशिरम्- मिश्रितं क्षीरं ज्ञानप्रतीकं चिद्रश्मिसारम्। गावः-  धेनवश्चिद्रश्मयः। दुदुह्रे- दुहन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्राय** **गावः** **आशिरम्** आश्रयणसाधनं पयआदिकं **मधु** मदकरं **दुदुहे** दुहते । कीदृशाय । **वज्रिणे** वज्रयुक्तायेन्द्राय । **यत्** यदा **उपह्वरे** समीपे वर्तमानं मधु सोमरसं **सीं** सर्वतः **विदत्** लभते तदा ॥
@@ -175,10 +178,6 @@ Für Indra haben die Kühe die Milch gespendet, für den Keulenträger ihre Sü�
 
 Die Kühe strömten süsse Milch dem Indra zu, dem blitzenden, Dass er sie find' im Becher-Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

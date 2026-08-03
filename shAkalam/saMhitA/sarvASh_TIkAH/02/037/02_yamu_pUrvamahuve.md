@@ -3,7 +3,6 @@ title = "002"
 devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् उ पू꣡र्वम् अ꣡हुवे त꣡म् इदं꣡ हुवे  
-से꣡द् उ ह꣡व्यो ददि꣡र् यो꣡ ना꣡म प꣡त्यते  
-अध्वर्यु꣡भिः प्र꣡स्थितं सोमिय꣡म् म꣡धु  
-पोत्रा꣡त् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः
+य᳓म् उ पू᳓र्वम् अ᳓हुवे त᳓म् इदं᳓ हुवे  
+से᳓द् उ ह᳓व्यो ददि᳓र् यो᳓ ना᳓म प᳓त्यते  
+अध्वर्यु᳓भिः प्र᳓स्थितं सोमिय᳓म् म᳓धु  
+पोत्रा᳓त् सो᳓मं द्रविणोदः पि᳓ब र्तु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,6 +271,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। पूर्वम्। अहुवे- आहूतवान्। तम्। इदम्- इदानीमपि। हुवे- आह्वये। सः। इत्- एव। हव्यः-  आह्वातव्यः। यः। नाम- खलु। पत्यते- ईष्टे। ददिः- स दाता भवति। अध्वर्युभिः-  ध्वररहितकर्मकामैः। प्रस्थितम्- प्रस्थितः। सोम्यं मधु- रसः। पोत्रात्- पोतुः शोधकस्य रसस्य  त्रातुः। सोमम्- रसम्। द्रविणोदः- सम्पद्दायक। ऋतुभिः- वसन्तादिकालैः। पिब- अनुभव॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेद्रविणोदः यमु यन्त्वामेवपूर्वंहोतृकर्तृकेसोमयागेहुवे आहुतवानस्मि इदंसम्प्रति तं तमेव पोतृ कर्तृकेसोमयागेहुवे आह्वयामि सेत् सएवद्रविणोदाः हव्यः ह्वातव्यः उइतिपूरणे ददिरभीष्ट फलस्यदातायोनाम यः खलुपत्यते देवतात्वेनेष्टे तस्मैद्रविणोदसे सोम्यंसोमात्मकं मधुअध्वर्युभिः प्रस्थितम्प्रणीतमासीत् हेद्रविणोदः पोत्रात् पोतुर्यागात् ऋतुभिः ऊर्जसञ्ज्ञकैः सहसोमम्पिब ॥ २ ॥
@@ -295,8 +298,6 @@ The somian honey has been set forth by the Adhvaryus. The soma from  the Potar�
 <details><summary>Jamison Brereton Notes</summary>
 
 The nom. dadíḥ must be part of the rel. cl., specifying acc. nā́ma. dadíḥ is nominative because it is a quotation of the name.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -330,8 +331,6 @@ Ihn, den ich sonst auch angerufen, ruf' ich jetzt, er ist zu rufen, der des Gebe
 Сладость сомы предложена (жрецами-) адхварью.  
 О Дравинодас, пей сому из кубка потара в (свое) время!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

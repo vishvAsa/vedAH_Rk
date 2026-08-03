@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्षा सोम द्युम꣡त्तमो  
-अभि꣡ द्रो꣡णानि रो꣡रुवत्  
-सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡
+अ᳓र्षा सोम द्युम᳓त्तमो  
+अभि᳓ द्रो᳓णानि रो᳓रुवत्  
+सी᳓दञ् छ्येनो᳓ न᳓ यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+द्युमत्तमः- अतिशयेन ज्योतिर्युक्तः सन्। सोम- रस। योनिम्- स्वनीडे। आ सीदन्- उपविशन्।  श्येनो न- पक्षीव। रोरुवत्- शब्दयन्। द्रोणानि- पात्राणि प्रतीकभूतानि। अभि अर्ष-  अभिगच्छ॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** अभिषूयमाण पवमान **द्युमत्तमः** अतिशयेन दीप्तिमांस्त्वं **द्रोणानि** । प्रयोगबाहुल्यापेक्षमेतद्बहुवचनम् । द्रोणान् **अभि** लक्षीकृत्य **रोरुवत्** पुनःपुनर्भृशं वा शब्दं कुर्वन् **अर्ष** तानागच्छ। दशापवित्रमध्यान्निर्गतः सोमोऽविच्छिन्नधारया द्रोणकलशे पतन् शब्दं करोति खलु। तत्र दृष्टान्तः । **श्येनो** **न** यथा **आ** **सीदन्** सर्वतो गच्छन् श्येनः शंसनीयगतिः पक्षी **योनिं** स्वस्थानं कुलायं प्रति भृशं शब्दायमानः सन्नागच्छति तद्वत् ॥
@@ -162,7 +165,7 @@ _________
 
 Rush, o Soma, most brilliant, to the wooden vessels, constantly  bellowing,  
 sitting like a falcon in your womb.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
@@ -188,10 +191,6 @@ Rinne, o Soma, glanzvollst, brüllend auf die Holzgefäße zu und setze dich auf
 
 O Soma, ström' in hellstem Glanz laut rauschend auf die Kufen hin, Und setz dich wie ein Aar aufs Nest.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

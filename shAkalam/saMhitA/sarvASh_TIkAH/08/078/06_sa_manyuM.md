@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मन्यु꣡म् म꣡र्तियाना᳐म्  
-अ꣡दब्धो नि꣡ चिकीषते  
-पुरा꣡ निद꣡श् चिकीषते
+स᳓ मन्यु᳓म् म᳓र्तियाना᳐म्  
+अ᳓दब्धो नि᳓ चिकीषते  
+पुरा᳓ निद᳓श् चिकीषते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    सः- असाविन्द्रः। मर्त्यानाम्- मनुष्याणाम्। मन्युम्- क्रोधम्। अदब्धः- अहिंस्यः। नि चिकीषते-  निराकर्तुमिच्छति। निदः- बाह्यनिन्दायाः। पुरा- पूर्वमेव मन्युम्। नि चिकीषते॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** इन्द्रः **मन्युं** क्रोधम् । केषाम् । **मर्त्यानाम्** । **अदब्धः** केनाप्यहिंसितः सन् **नि** **चिकीषते** निकरोति । किं मन्यु प्राप्यैव नेत्याह । **निदः** निन्दायाः **पुरा** पूर्वमेव **चिकीषते** । यदा तं निन्दितुमिच्छति कश्चित्ततः पूर्वमेव तं निकरोतीत्यर्थः ॥
@@ -158,10 +161,6 @@ Der Unbetörte erforscht die Absicht der Sterblichen; noch bevor sie den Tadel a
 
 Er, der Untrügliche, beschaut den Eifer aller Sterblichen, Bewahret vor dem Schmäher sie.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

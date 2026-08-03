@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व स्वराति ग꣡र्गरो  
-गोधा꣡ प꣡रि सनिष्वणत्  
-पि꣡ङ्गा प꣡रि चनिष्कदद्  
-इ꣡न्द्राय ब्र꣡ह्म उ꣡द्यतम्
+अ᳓व स्वराति ग᳓र्गरो  
+गोधा᳓ प᳓रि सनिष्वणत्  
+पि᳓ङ्गा प᳓रि चनिष्कदद्  
+इ᳓न्द्राय ब्र᳓ह्म उ᳓द्यतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गर्गरः- गर्गरशब्दयुक्तो वाद्यविशेषः। अव स्वराति- शब्दयति। गोधा- हस्तघ्नः। परि सनिष्वणत्-  स्वनति। पिङ्गा- पिङ्गवर्णा ज्या। परि चनिष्कदत्- परिस्कन्दते। इन्द्राय। ब्रह्म- मन्त्र उपासनं वा।  उद्यतम्॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गर्गरः** गर्गरध्वनियुक्तो वाद्यविशेषो युद्धे **अव** **स्वराति** भयं शब्दयति । **गोधा** हस्तघ्नः **परि** परितः **सनिष्वणत्** स्वनति भृशम् । **पिङ्गा** पिङ्गवर्णा ज्यापि **परि** **चनिष्कदत्** परिस्कन्दते । यस्मादेवं युद्धः संनद्धोऽत **इन्द्राय** **ब्रह्म** परिवृढं कर्म स्तुतिलक्षणम् **उद्यतं** भवत्विति शेषः ॥
@@ -195,10 +198,6 @@ Es ertöne die Trommel, laut klinge der Handschutz, die Sehne soll tanzen: An In
 
 Es klinge hell der Harfe Ton, erschalle laut der Saite Klang, Die Sehne schwinge auf und ab, dem Indra ist Gebet gereicht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

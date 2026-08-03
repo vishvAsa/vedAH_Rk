@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दुरो꣡कशोचिः क्र꣡तुर् न꣡ नि꣡त्यो  
-जाये꣡व यो꣡नाव् अ꣡रं वि꣡श्वस्मै
+दुरो᳓कशोचिः क्र᳓तुर् न᳓ नि᳓त्यो  
+जाये᳓व यो᳓नाव् अ᳓रं वि᳓श्वस्मै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

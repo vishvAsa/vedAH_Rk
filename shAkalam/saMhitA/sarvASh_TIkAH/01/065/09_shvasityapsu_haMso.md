@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्व꣡सिति अप्सु꣡ हंसो꣡ न꣡ सी꣡दन्  
-क्र꣡त्वा चे꣡तिष्ठो विशा꣡म् उषर्भु꣡त्
+श्व᳓सिति अप्सु᳓ हंसो᳓ न᳓ सी᳓दन्  
+क्र᳓त्वा चे᳓तिष्ठो विशा᳓म् उषर्भु᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

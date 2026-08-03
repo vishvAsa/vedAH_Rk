@@ -3,7 +3,6 @@ title = "017"
 devataa = "आदित्या उषाश्च"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,15 +11,14 @@ ChandaH = "महापङ्क्तिः"
 - छन्दः - महापङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था कलां꣡ य꣡था शफं꣡  
-य꣡थ र्णं꣡ संन꣡यामसि  
-एवा꣡ दुष्व꣡प्नियं स꣡र्वम्  
-आप्तिये꣡ सं꣡ नयामसि  
-अनेह꣡सो व ऊत꣡यः  
-सुऊत꣡यो व ऊत꣡यः
+य᳓था कलां᳓ य᳓था शफं᳓  
+य᳓थ र्णं᳓ संन᳓यामसि  
+एवा᳓ दुष्व᳓प्नियं स᳓र्वम्  
+आप्तिये᳓ सं᳓ नयामसि  
+अनेह᳓सो व ऊत᳓यः  
+सुऊत᳓यो व ऊत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 kalā́m ← kalā́- (nominal stem)  
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। कलाम्- व्याधिग्रस्तं स्वावयवम्। यथा। शफम्- व्याधिपीडितं वा शफम्। यथा। ऋणम्।  संनयामसि- संनयन्ति। अपसारयन्तीति भावः। एव- तथा। दुष्ष्वप्न्यम् । सर्वम् । आप्त्ये। सं  नयामसि- सन्नयामः। अपसारयामः॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 संज्ञपितं पशुं दानार्थं संस्कुर्वन्तः यथा येन प्रकारेण **कलां** **शफम्** इति संदायान्यत्र संनयन्ति । अथापरो यथाशब्दः पूरणः । अथवा । यथा कलां हृदयाद्यवयवमवदानार्हं संनयन्ति यथा च शफं शफोपलक्षितमनवदानार्हं शफास्थ्यादिकं संनयन्ति । यथा वा **ऋणं** शनैः संनयन्ति **एव** एवं **दुष्ष्वप्न्यं** **सर्वमाप्त्ये** वर्तमानं **सं** **नयामसि** संनयामः अपसारयामः ॥
@@ -287,8 +290,6 @@ Wie man die Schulden abbezahlt, den Pfennig und den Heller auch, so zahlen jeden
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

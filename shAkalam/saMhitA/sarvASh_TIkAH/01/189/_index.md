@@ -1,6 +1,5 @@
 +++
 title = "+189"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The hymn ends with a typical summary verse characterizing the hymn that pre cede
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८९  अगस्त्यो मैत्रावरुणिः।अग्निः । त्रिष्टुप् ।
 </details>

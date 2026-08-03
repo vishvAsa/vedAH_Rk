@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उभय꣡तः प꣡वमानस्य रश्म꣡यो  
-ध्रुव꣡स्य सतः꣡ प꣡रि यन्ति केत꣡वः  
-य꣡दी पवि꣡त्रे अ꣡धि मृज्य꣡ते ह꣡रिः  
-स꣡त्ता नि꣡ यो꣡ना कल꣡शेषु सीदति
+उभय᳓तः प᳓वमानस्य रश्म᳓यो  
+ध्रुव᳓स्य सतः᳓ प᳓रि यन्ति केत᳓वः  
+य᳓दी पवि᳓त्रे अ᳓धि मृज्य᳓ते ह᳓रिः  
+स᳓त्ता नि᳓ यो᳓ना कल᳓शेषु सीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -213,6 +211,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यदि- यदा। हरिः- आकर्षकः। सत्ता- सत्तामात्रपरब्रह्मप्रतीकः। पवित्रे अधि- शोधके भाजने  प्रतीके वा। मृज्यते- शोधितो भवति। योना- स्वसदने ऋताख्ये। कलशेषु- तथा भाजनेषु प्रतीकेषु  च। नि सीदति- आस्थितो भवति। तदा। सतः- सन्मात्रप्रतीकस्य। ध्रुवस्य- नित्यस्य।  पवमानस्य- पुनानस्य रसस्य। केतवः- प्रज्ञापकाः। रश्मयः। उभयतः- भौमाध्यात्मिकभूमिकयोः।  परि यन्ति- परिसरन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानस्य** पूयमानस्य **ध्रुवस्य** स्वयमविचलितस्य **सतः** विद्यमानस्य सोमस्य **केतवः** प्रज्ञापकाः **रश्मयः** **उभयतः** इतश्चामुतश्च **परि** **यन्ति** परिगच्छन्ति । अभिषवसमय एवं भवति । **यदि** यदा **पवित्रे** देशापवित्रे **हरिः** हरितवर्णोऽयम् **अधि** **मृज्यते** तदानीं **सत्ता** सदनशीलोऽयं योनौ स्वीये स्थाने **कलशेषु** द्रोणकलशादिषु **नि** **षीदति** ॥
@@ -240,7 +243,6 @@ The referent changes from 2nd ps. (vs. 5) to 3rd (vs. 6), although this is not c
 
 I read yádī as yád ī (with enclitic prn.), since “if” does not work well here.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -250,6 +252,7 @@ The next two vss. end their first hemistichs identically: 5b, 6b GEN satáḥ p�
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -274,10 +277,6 @@ Des Pavamana Strahlen, seine Banner wandeln auf beiden Seiten um, während er fe
 
 Nach beiden Seiten dringen seine Strahlen durch, der flammend rieselt, fest und treu in seinem Sinn, Wenn in dem Sieb das goldne Ross gestriegelt wird, so setzt es in die Kufen sich auf seinen Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

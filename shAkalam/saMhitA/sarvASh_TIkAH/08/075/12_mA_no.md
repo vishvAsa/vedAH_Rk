@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो अस्मि꣡न् महाधने꣡  
-प꣡रा वर्ग् भारभृ꣡द् यथा  
-संव꣡र्गं सं꣡ रयिं꣡ जय
+मा᳓ नो अस्मि᳓न् महाधने᳓  
+प᳓रा वर्ग् भारभृ᳓द् यथा  
+संव᳓र्गं सं᳓ रयिं᳓ जय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    अस्मिन्- एतस्मिन्। महाधने निमित्ते सति। भारभृत्- भारवाही यथा अन्ते भारं परित्यजति तथा।  नः- अस्मान्। मा। परा वर्क्- परित्यज। संवर्गम्। रयिम्- गणसम्पदम्। सम्- सम्यक्।  जय॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्मान् **अस्मिन्** **महाधने** संग्रामे **मा** **परा** **वर्क्** मा परित्याक्षीः । **भारभृद्यथा** । भारवाही यथा भारमन्ते परित्यजति तद्वत् । **संवर्गं** शत्रुभ्यः सहाच्छिद्यमानं **रयिं** धनं **सं** **जय** अस्मदर्थम् ॥
@@ -212,10 +215,6 @@ Laß uns in diesem großen Kampf nicht fallen wie der Lastträger seine Last. Al
 
 Wirf nicht in dieser grossen Schlacht uns wie ein Bürdenträger ab, Gewinn als Beute reiches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

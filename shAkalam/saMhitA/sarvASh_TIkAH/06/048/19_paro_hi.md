@@ -3,7 +3,6 @@ title = "019"
 devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-परो꣡ हि꣡ म꣡र्तियैर् अ꣡सि  
-समो꣡ देवइ꣡र् उत꣡ श्रिया꣡  
-अभि꣡ ख्यः पूषन् पृ꣡तनासु नस् तुव꣡म्  
-अ꣡वा नूनं꣡ य꣡था पुरा꣡
+परो᳓ हि᳓ म᳓र्तियैर् अ᳓सि  
+समो᳓ देवइ᳓र् उत᳓ श्रिया᳓  
+अभि᳓ ख्यः पूषन् पृ᳓तनासु नस् तुव᳓म्  
+अ᳓वा नूनं᳓ य᳓था पुरा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मर्त्यैः- मनुष्येभ्यः। परः- श्रेष्ठः। हि- खलु। असि- भवसि। उत- अपि च। श्रिया- लक्ष्म्या।  देवैः। समः- समानोसि।  अभि ख्यः- पश्य। पूषन्- पोषक। पृतनासु- वृत्रैर्जनितेषु युद्धेषु। नः-  अस्मान्। त्वम्। यथा पुरा तथा। अव- रक्ष॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पूषन्** **मर्त्यैः** मर्त्येभ्यो मनुष्येभ्यः **परः** परस्तात् स्थितः **असि** । **श्रिया** संपदा **देवैरुत** सर्वैर्देवैश्च **समः** समानोऽसि । अतः **त्वं** **पृतनासु** संग्रामेषु **नः** अस्मान् **अभि** **ख्यः** अभिपश्य अनुग्रहदृष्ट्या विलोकय । **यथा** **पुरा** येन प्रकारेण पूर्वकालीनान् पुरुषान् ररक्षिथ एवं **नूनम्** अद्येदानीम् **अव** अस्मान् रक्ष ॥
@@ -234,7 +237,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For you are beyond mortals and equal with the gods in your splendor. Keep an eye on us in our battles, Pūsan. Help us now, just as before.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
@@ -269,8 +272,6 @@ Denn hoch ragst über Menschen du, den Göttern gleich bist du an Pracht; O Pusc
 Наблюдай ты за нами, о Пушан, в сражениях!  
 Помогай сейчас, как раньше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

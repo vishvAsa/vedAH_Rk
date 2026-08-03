@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्द्राभिभू꣡र् असि  
-तुवं꣡ सू꣡र्यम् अरोचयः  
-विश्व꣡कर्मा विश्व꣡देवो महाँ꣡ असि
+तुव᳓म् इन्द्राभिभू᳓र् असि  
+तुवं᳓ सू᳓र्यम् अरोचयः  
+विश्व᳓कर्मा विश्व᳓देवो महाँ᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। इन्द्र- परमेश्वर। अभिभूः- शत्र्वभिभावकः। असि- भवसि। त्वम्। सूर्यं- सवितारम्।  अरोचयः- प्रकाशितवान्। विश्वकर्मा- सर्वकर्मा। विश्वदेवः- सर्वद्योतकः। महान्- महात्मा।  असि- भवसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **त्वम्** **अभिभूः** शत्रूणामभिभविता **असि** भवसि । किंच **त्वं** **सूर्यम्** आदित्यम् **अरोचयः** तेजोभिरदीपयः । किंच **विश्वकर्मा** विश्वस्य कर्ता **असि** **विश्वदेवः** सर्वदेवश्चासि । तथा च यजुर्ब्राह्मणम्- अग्निं वा अन्वन्या देवता इन्द्रमन्वन्याः ' (तै. ब्रा. ३. ७. १. ८) इति । अतो **महान्** सर्वाधिकोऽसि ॥
@@ -174,7 +177,7 @@ _________
 
 You, Indra, are the dominator; you caused the sun to shine.  
 Accomplishing all deeds, controlling all the gods, you are great.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
@@ -216,8 +219,6 @@ Du Indra bist voll hoher Macht, der Sonne hast du Licht verliehn, Allwirkend du,
 Ты зажег солнце.  
 Ты всеобщий творец, всеобщий бог, ты велик.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

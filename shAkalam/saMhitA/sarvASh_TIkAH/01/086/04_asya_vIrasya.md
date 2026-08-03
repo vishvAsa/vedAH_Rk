@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ वीर꣡स्य बर्हि꣡षि  
-सुतः꣡ सो꣡मो दि꣡विष्टिषु  
-उक्थ꣡म् म꣡दश् च शस्यते
+अस्य᳓ वीर᳓स्य बर्हि᳓षि  
+सुतः᳓ सो᳓मो दि᳓विष्टिषु  
+उक्थ᳓म् म᳓दश् च शस्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिविष्टिषु- अर्चिरादिगतिषु। दिव्यैषणेषु। अस्य। वीरस्य- वीर्यसंपन्नस्योपासकस्य। बर्हिषि-  दर्भासने। चित्ताकाशे वा। सोमः- रसः। सुतः- निष्पादितः। उक्थम्- मन्त्रः। मदश्च-  आनन्दजनको मन्त्रार्थश्च। शस्यते- प्रोच्यते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **दिविष्टिषु** यजनीयदिवसेषु **बर्हिषि** यज्ञे **वीरस्य** शत्रुक्षेपणकुशलस्य **अस्य** मरुद्गणस्य यागाय **सोमः** सुतः । ऋत्विग्भिरभिषुतो भवति । **उक्थं** मरुद्देवताकं शस्त्रं **मदश्च** मदिधातुना युक्ता  ‘ मरुतो देवाः सोमस्य मत्सन्' इत्यादिका मारुती निवित् च अस्य मरुद्गणस्य हर्षाय **शस्यते** होत्रा पठ्यते ॥ अस्य । ऊडिदम्' इति विभक्तेरुदात्तत्वम् । दिविष्टिषु । इष्टय एषणानि गमनानि । दिवो द्योतमानस्य सूर्यस्येष्टयो येषु दिवसेषु ते तथोक्ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । व्यत्ययेन उत्वाभावः ॥
@@ -154,7 +157,7 @@ _________
 
 Of that hero here the soma has been pressed at the rituals of day(break)  on his ritual grass;  
 his solemn speech and exhilarating drink are being announced.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
@@ -188,8 +191,6 @@ Und solches Mannes Somasaft, der auf der Streu bei Festen steht, Sein Spruch und
 Выжат сома для жертвоприношений (этого) дня,  
 Произносится гимн и (пьется) хмельной напиток.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "052"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ पवा꣡ पवस्वैना꣡ व꣡सूनि  
-माँश्चत्व꣡ इन्दो स꣡रसि प्र꣡ धन्व  
-ब्रध्न꣡श् चिद् अ꣡त्र वा᳐꣡तो न꣡ जूतः꣡  
-पुरुमे꣡धश् चित् त꣡कवे न꣡रं दात्
+अया᳓ पवा᳓ पवस्वैना᳓ व᳓सूनि  
+माँश्चत्व᳓ इन्दो स᳓रसि प्र᳓ धन्व  
+ब्रध्न᳓श् चिद् अ᳓त्र वा᳐᳓तो न᳓ जूतः᳓  
+पुरुमे᳓धश् चित् त᳓कवे न᳓रं दात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -245,6 +243,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनया। पवा- पवमानया धारया। एना वसूनि- एताः संपदः। पवस्व- क्षर। इन्दो-  क्लेदनशील रस। मांश्चत्वे- मन्यमानानां चातके। इति सायणः। सरसि- जीवोदके। चातको  मेघापेक्षी पक्षी। अथवा चातको याचकः। चत याचने। आधारशक्तिधारा मननशीलानुपासकान् स्वां  प्रति कर्षतीतीदं लक्षणयोच्यते मन्यमानानां चातक इति। यथा समुद्रः स्वतरंगैराह्वयति नदीरिति  लक्षणया वर्ण्यते। अथवा अभिमन्यमनानां चातके नाशके। अथवा दधिक्रावाणमित्यस्मिन् मन्त्रे  मांश्चतोरित्यस्य मन्यमानांश्चेतयत इत्यर्थः सायणेन कृतः। सोर्थोप्यत्रापि भवितुमर्हति। प्र- प्रकर्षेण। १९    धन्व- अभिसर। अत्र। ब्रध्नः- मूलः। वातो न- वात इव। जूतः- प्रेरितः। पुरुमेधः- प्रभूतमेधः।  तकवे- शोभनगतिमत उपासकाय। नरम्- नेतारमाचार्यम्। दात्- प्रयच्छतु॥५२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम अया अनया पवा पवमानया धारया सह एना एनानि वसूनि धनानि पवस्व क्षर । पवा पूङ्पवने अन्येभ्योदृश्यन्तइतिविच् प्रत्ययः आर्धधातुकलक्षणोगुणः सावे- काचइतितृतीयायाउदात्तत्वम् । तथा हेइन्दो तथा त्वं मांश्चत्वे मन्यमानानां चातके सरसि उदके वसतीवर्याख्ये प्रधन्व प्रगच्छ । ततः अत्र अस्मिन् सोमे पूयमानेसति ब्रध्नः चित् सर्वेषां प्रज्ञापकः मूलभूतोवा आदित्योपि वातोन वातइव जूतः वेगितःसन् किञ्च पुरुमे- धः चित् बहुविधयज्ञइन्द्रश्चित् इन्द्रोपि तकवे तकतिर्गतिकर्मसुपठितः अस्मादौणादिकऊन् प्रत्ययः सोममभिगच्छते स्तुतिभिः मह्यं नरं कर्मनेतारं पुत्रं दात् प्रयच्छतु हेसोम त्वया तर्पितौ सन्ताविन्द्रादित्यौ मह्यं पुत्रं प्रयच्छता मित्यर्थः ॥ ५२ ॥
@@ -283,8 +286,6 @@ VII.44.3 also contains the word bradhná- ‘copper-colored’, found here in p�
 
 In d both Geldner and Renou take the hapax táku- as referring to a horse (Renner, coursier), the same one they see as the reference of bradhná- in c. Geldner seems to think d involves giving this horse a sort of superior groom (“ein tüchtiges Lenker”), with dat. tákave the indirect obj. But as was recently noted (ad vs. 49), nṛ́- in the sg. is almost always used of Indra, and I think it is here as well. Soma, by virtue of being consumed by Indra at the sacrifice, brings Indra to the sacrifice and in effect bestows him upon the human worshipers, and he does so for a particular purpose. I take tákave as an infinitival dative of purpose: ‘to (make the) charge, to rush’ - Indra in his capacity as our supporter in conflict. Oldenberg considers, but rejects, such an infinitival interpr., in favor of what he considers the simpler indirect obj. with √dā.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
 <details open><summary><h2>52-54 ...{Loading}...</h2></summary>
 
@@ -317,8 +318,6 @@ Mit diesem Lichtstrom flamme Güter her uns, zum See lauf Indu wenn der Mond erb
 Вот здесь совсем рыжий быстрый, как ветер, (конь):  
 Пусть очень мудрый даст хозяина скаковому коню!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

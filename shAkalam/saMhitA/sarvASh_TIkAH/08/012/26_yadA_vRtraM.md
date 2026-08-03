@@ -3,7 +3,6 @@ title = "026"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ वृत्रं꣡ नदीवृ꣡तं  
-श꣡वसा वज्रिन् अ꣡वधीः  
-आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
+यदा᳓ वृत्रं᳓ नदीवृ᳓तं  
+श᳓वसा वज्रिन् अ᳓वधीः  
+आ᳓द् इ᳓त् ते हर्यता᳓ ह᳓री ववक्षतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। नदीवृतम्- अपां मूलशक्तिधाराणामावारकम्। वृत्रम्। शवसा- बलेन। वज्रिन्- वज्रपाणे।  अवधीः॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वज्रिन्** वज्रवन्निन्द्र **नदीवृतम्** । नदनान्नद्य आपः । श्रूयते हि- अहावनदता हते तस्मादा नद्यो नाम स्थ ' (तै. सं. ५. ६. १. २) इति । ता आवृण्वन्तं **वृत्रम्** अवर्षणशीलं मेघमसुरं वा **यदा** यस्मिन् काले **शवसा** बलेन **अवधीः** अहिंसीः । शिष्टं समानम् ॥
@@ -170,7 +173,7 @@ _________
 
 When, o mace-bearer, with your vast power you smashed Vr̥tra who was  blocking the rivers,  
 just after that your two beloved fallow bays waxed strong.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
@@ -204,8 +207,6 @@ Als du den Stromverschliessenden, den Vritra blitzend schlugst mit Macht, Da wuc
 Ты убил (своей) силой, о громовержец,  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

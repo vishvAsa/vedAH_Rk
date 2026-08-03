@@ -1,6 +1,5 @@
 +++
 title = "+101"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,7 +20,7 @@ title = "+101"
 <details><summary>Jamison Brereton</summary>
 
 101 (813)  
-Soma Pavamāna  
+Soma Pavamāna  
 Andhīgu Śyāvāśvi (1–3), Yayāti Nāhuṣa (4–6), Nahuṣa Mānava (7–9), Manu  Sāṃvaraṇa (10–12), Prajāpati (13–16)  
 16 verses: anuṣṭubh, except gāyatrī 2–3, arranged in trcas ̥  
 In order to conform to the pattern of arrangement, this last hymn in the anuṣṭubh  group must actually have consisted originally of five three-verse hymns, with a single  verse (16) appended, as was already pointed out by Oldenberg (1888: 201). There is,  however, some interconnection among the tr̥cas that points to a sense of cohesion.  In particular, the first and last tr̥cas (vss. 1–3 and 13–15) are linked by the striking  image in their first verses (1, 13) of a sacrifice-defiling dog drawn to the sound of  the soma being pressed, a dog that must be driven away. Verse 13 also contains a  brief and enigmatic allusion to a myth also enigmatically mentioned to in X.171.2.  
@@ -39,4 +38,10 @@ On the division of this hymn into tṛcas and the structure of the hymn in gener
 Hymns predominantly in Anuṣṭubh
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०१  ऋ. १-३ अन्धीगुः श्यावाश्विः, ४-६ ययातिर्नाहुषः, ७-९ नहुषो मानवः, १०-१२ मनुः सांवरणः, १३-१६  वैश्वामित्रो वाच्यो वा प्रजापतिः।पवमानः सोमः। अनुष्टुप्, २-३ गायत्री
 </details>

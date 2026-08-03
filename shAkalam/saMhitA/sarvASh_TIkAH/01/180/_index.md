@@ -1,6 +1,5 @@
 +++
 title = "+180"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+180"
 <details><summary>Jamison Brereton</summary>
 
 180  
-Aśvins  
+Aśvins  
 Agastya Maitrāvaruṇi  
 10 verses: triṣṭubh  
 Agastya’s trickery and virtuosic obscurity are fully on display in this hymn. As  a consequence we are uncertain about the correctness of many details of our  interpretation, but puzzling out the hymn provides an exhilarating ride—per haps appropriately, since the hymn begins and ends with the Aśvins’ chariot-drive  around the cosmic spaces. This ring composition is signaled by the responsions  between verses 1 and 10: the chariot “flies around” the airy realms and the (cosmic)  floods in 1ab and “speeds around” heaven in 10c (a parallel with a clever twist in  the Sanskrit, where the verb “flies” [dī́yat] is a close phonological match with the word for “heaven” [dyā́m]), and a physical feature of the chariot, its wheel-rims or  fellies, is mentioned in both verses, but with different words (paví 1c, -nemi 10c).  This ring composition provides a structure in which both the Aśvins’ journey to  and participation in the sacrifice and the poet’s exploration of the boundaries of  language can be anchored.  
@@ -25,4 +24,10 @@ Verses 9–10 return to the gods’ chariot journey and are relatively straightf
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८०   अगस्त्यो मैत्रावरुणिः। अश्विनौ।  त्रिष्टुप्।
 </details>

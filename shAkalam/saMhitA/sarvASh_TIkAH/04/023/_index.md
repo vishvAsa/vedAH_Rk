@@ -1,6 +1,5 @@
 +++
 title = "+023"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The most salient feature of this hymn is the insistent series of questions that 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra Thieme tr. and comments on this hymn in Gedichte (pp. 30-33).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २३  वामदेवो गौतमः। इन्द्रः, ८-१० ऋतं वा। त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ प꣡रि षिच्यते  
-मर्मृज्य꣡मान आयु꣡भिः  
-उरुगायः꣡ कवि꣡क्रतुः
+एष᳓ स्य᳓ प᳓रि षिच्यते  
+मर्मृज्य᳓मान आयु᳓भिः  
+उरुगायः᳓ कवि᳓क्रतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषःस्यः- सोयऽम्। उरुगायः- बहुभिर्गीयमानो विष्णुमयः। कविक्रतुः- क्रान्तदर्शिनां  सङ्कल्पोग्निमयः। आयुभिः- उपासकैः। मर्मृज्यमानः- शोधितः। परि षिच्यते॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उरुगायः** बहुस्तुतिः **कविक्रतुः** क्रान्तप्रज्ञः क्रान्तकर्मा वा **स्थः** सः **एषः** अयं सोमः **आयुभिः** मनुष्यैः मर्मृज्यमानः शोध्यमानः **परि** **षिच्यते** ॥
@@ -153,7 +156,7 @@ Having wise designs: kavikratuḥ = krāntaprajñaḥ krāntakarmo vā, possessi
 
 This one here is poured in circles, being continually groomed by  the Āyus,  
 the wide-going one with a poet’s purpose.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
@@ -180,10 +183,6 @@ Von den Ayu´s geputzt wird er umgegossen, der Weitschreitende mit dem Sehersinn
 
 Er ist es, der sich rings ergiesst, gereinigt von den eifrigen, Der weise, weithin schreitende.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

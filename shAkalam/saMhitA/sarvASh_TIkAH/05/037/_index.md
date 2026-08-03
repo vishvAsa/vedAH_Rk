@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ priate to find this answer given at the beginning of this hymn here, as it is th
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३७  भौमोऽत्रिः।इन्द्रः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -30,4 +29,10 @@ The last part of the hymn (vss. 26–31) is the strangest. It consists of three 
 
 Indra _________
 **01-05 As indicated in the published introduction, the first 5 vss. of the hymn constitute a praise of soma, shading, towards the end, into simultaneous praise of Indra. It is formally unified: beginning with vs. 2, all but one (2cd) of the hemistichs begins with ayám, and vs. 1 contains four exx. of ayám as well (2 each in the 1st 2 pādas), though oddly positioned.**  
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४६  शंयुर्बार्हस्पत्यः।इन्द्रः। प्रगाथः - (विषमा बृहती, समा सतोबृहती)।
 </details>

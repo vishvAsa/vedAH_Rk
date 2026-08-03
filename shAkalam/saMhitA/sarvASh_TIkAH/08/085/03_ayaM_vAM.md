@@ -3,7 +3,6 @@ title = "003"
 devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वां कृ꣡ष्णो अश्विना  
-ह꣡वते वाजिनीवसू  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+अयं᳓ वां कृ᳓ष्णो अश्विना  
+ह᳓वते वाजिनीवसू  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। कृष्णः- आकर्षक उपासकः। वाम्- युवाम्। अश्विना- प्राणेशनशक्तिभूतौ।  वाजिनीवसू- सम्पद्युक्तौ। हवते- आह्वयति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वाजिनीवसू** अन्नयुक्तधनौ । अत्रेनिरनुवादार्थः । यद्वा । वाजो वजनं क्रिया। तद्वती वाजिनी । तद्युक्तधनवन्तौ हे **अश्विना** अश्विनौ **अयं** **कृष्णः** नाम मन्त्रद्रष्टा ऋषिः **वां** युवां **हवते** स्तुतिभिराह्वयति । किमर्थम् । **मध्वः** **सोमस्य** **पीतये** इति ॥
@@ -143,7 +146,7 @@ _________
 
 This Kr̥ṣṇa is calling you, o Aśvins whose goods are prizewinning  mares,  
 to drink of the honeyed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
@@ -177,8 +180,6 @@ Es rufet dieser Krischna hier, o Ritter, gabenreiche euch, Zum Trunk des süssen
 Зовет вас двоих, о богатые наградой,  
 Чтобы пить сладкого сому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

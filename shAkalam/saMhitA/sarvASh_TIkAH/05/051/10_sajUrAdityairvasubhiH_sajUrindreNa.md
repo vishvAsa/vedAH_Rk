@@ -3,7 +3,6 @@ title = "010"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सजू꣡र् आदित्यइ꣡र् व꣡सुभिः  
-सजू꣡र् इ꣡न्द्रेण वायु꣡ना  
-आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण
+सजू᳓र् आदित्यइ᳓र् व᳓सुभिः  
+सजू᳓र् इ᳓न्द्रेण वायु᳓ना  
+आ᳓ याहि अग्ने अत्रिव᳓त् सुते᳓ रण
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदित्यैः- अखण्डप्रकृतिजैः। वसुभिः- शरण्यैर्देवैः। सजूः- सङ्गतः। इन्द्रेण- ईशनाधिदैवतेन।  वायुना- प्राणाधिदैवतेन। सजूः। अग्ने। आ याहि- आगच्छ। अत्रिवत्। सुते- रसे। रण-  रमस्व॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -202,8 +205,6 @@ Mit den Aditja's im Verein, mit Vasu's, Indra, Vaju auch Komm, Agni, wie zum Atr
 В согласии с Индрой, Ваю  
 Приходи, о Агни, веселись у выжатого (сомы), как у Атри!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

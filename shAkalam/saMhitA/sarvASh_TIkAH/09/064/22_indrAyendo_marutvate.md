@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रायेन्दो मरु꣡त्वते  
-प꣡वस्व म꣡धुमत्तमः  
-ऋत꣡स्य यो꣡निम् आस꣡दम्
+इ᳓न्द्रायेन्दो मरु᳓त्वते  
+प᳓वस्व म᳓धुमत्तमः  
+ऋत᳓स्य यो᳓निम् आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -121,6 +119,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतस्य योनिम्- ऋतसदने। आसदम्- उपवेष्टुम्। मधुमत्तमः- अतिशयेन मधुरः सन्। मरुत्वते-  प्राणेशाय। इन्द्राय- ईशनाधिदैवताय। इन्दो- हृदयस्पर्शिन् सोम। पवस्व- क्षर॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **मधुमत्तमः** अतिशयेन मधुमांस्त्वम् **ऋतस्य** यज्ञस्य **योनिं** स्थानम् **आसदम्** उपवेष्टुं **मरुत्वते** **इन्द्राय** इन्द्रार्थं **पवस्व** क्षर ॥
@@ -137,7 +140,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For Indra with the Maruts, o drop, purify yourself as the most honeyed, to sit on the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
@@ -164,10 +167,6 @@ Läutere dich, o Saft, als Süßester für Indra in Begleitung der Marut, um dic
 
 Dem Indra mit der Marutschar, o Indu, riesle, süssester! Zu setzen dich in Opfers Schooss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

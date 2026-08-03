@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡चिः पवाक+ व꣡न्दियः  
-अ꣡ग्ने बृह꣡द् वि꣡ रोचसे  
-तुवं꣡ घृते꣡भिर् आ꣡हुतः
+शु᳓चिः पवाक+ व᳓न्दियः  
+अ᳓ग्ने बृह᳓द् वि᳓ रोचसे  
+तुवं᳓ घृते᳓भिर् आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,10 +138,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पावक अग्ने। शुचिः- परिशुद्धः। वन्द्यः- स्तुत्यः सन्। बृहत्- महत्। वि रोचसे- प्रकाशसे।  त्वम्। घृतेभिः- पूतनवनीतेन पूतचित्तेन। आहुतः- समन्तात् सिक्तो भवसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेपावकशोधकाग्ने शुचिः शुद्धोवन्द्यः नमस्कार्यःसन् महत् अत्यधिकंविरोचते विविधन्दीप्यसे यतस्त्वङ्घृतेभिः घृतैराहुतः समन्तात्सिक्तः अतोविरोचसे ॥ ४ ॥
-꣡</details>
+᳓</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,7 +176,7 @@ Thou, Purifier Agni, high shinest forth, bright, adorable,
 <details><summary>Oldenberg</summary>
 
 Bright, O purifier, worthy of adoration, Agni, thou shinest mightily; thou hast been worshipped by offerings of ghrita 1.
-꣡</details>
+᳓</details>
 
 <details><summary>Keith</summary>
 
@@ -198,8 +201,6 @@ Hell strahlest du, o Flammender, gewaltig, Agni, preisenswerth, Begossen du mit 
 Достойный хвалы, ты сверкаешь высоко (и) далеко.  
 Тебя полили струями жира.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

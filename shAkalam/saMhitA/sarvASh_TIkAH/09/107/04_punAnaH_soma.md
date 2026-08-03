@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पुनानः꣡ सोम धा꣡रया  
-अपो꣡ व꣡सानो अर्षसि  
-आ꣡ रत्नधा꣡ यो꣡निम् ऋत꣡स्य सीदसि  
-उ꣡त्सो देव हिरण्य꣡यः
+पुनानः᳓ सोम धा᳓रया  
+अपो᳓ व᳓सानो अर्षसि  
+आ᳓ रत्नधा᳓ यो᳓निम् ऋत᳓स्य सीदसि  
+उ᳓त्सो देव हिरण्य᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। धारया। पुनानः- पूयमानः। उत्सः- स्यन्दनशीलः। देवः- द्योतकः। हिरण्ययः-  दीप्यमानः। अपः- मूलशक्तिधाराः। वसानः- बिभ्रत्। अर्षसि- सरसि। आ- आभिमुख्येन।  रत्नधाः- संपद्धारकः सन्। ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। योनिम्- सदने। सीदसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **पुनानः** पूयमानस्त्वम् **अपः** उदकानि वसतीवर्याख्यानि **वसानः** आच्छादयन् **धारया** **अर्षसि** पवित्रं गच्छसि । ततः **रत्नधाः** रत्नानां दाता त्वम् **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **सीदसि** । हे देव द्योतमान सोम **उत्सः** प्रस्यन्दनशीलस्त्वं **हिरण्ययः** हिरण्मयो हिरण्यस्योत्पत्तिस्थानं खलु । यद्वा देवानां हितरमणीयो भवसि ॥
@@ -206,7 +209,7 @@ Devānām hitaramaṇīyaḥ = **deva** **hiraṇyayaḥ**
 
 O Soma, you rush while being purified in a stream and clothing yourself  in the waters.  
 Conferring treasure, you sit here upon the womb of truth as the golden  wellspring, o god.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
@@ -241,8 +244,6 @@ Gehüllt in Wasser fliessest du im Strom, o Soma, flammender, Und setzest spende
 Даритель сокровищ, ты усаживаешься на лоно вселенского закона,  
 Золотой источник, о бог.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

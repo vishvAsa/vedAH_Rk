@@ -3,7 +3,6 @@ title = "012"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ त्वा ज꣡नास ई꣡ळते  
-सबा꣡धो वा꣡जसातये  
-स꣡ बोधि वृत्रतू꣡रिये
+यं᳓ त्वा ज᳓नास ई᳓ळते  
+सबा᳓धो वा᳓जसातये  
+स᳓ बोधि वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। त्वा- त्वाम्। जनासः- जनाः। सबाधः- पीडायुक्ताः। वाजसातये- अन्नलब्धये। ईळते-  स्तुवन्ति। स त्वम्। वृत्रतूर्ये- आवरणनाशने। बोधि- बुद्ध्यस्व॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **यं** **त्वा** त्वां **जनासः** जनाः स्तोतारो वा **वाजसातये** अन्नस्य लाभाय **सबाधः** निर्बन्धरूपबाधोपेताः सन्तः **ईळते** स्तुवन्ति **सः** त्वं **वृत्रतूर्ये** वैरिनाशनाय पापक्षयाय वा **बोधि** बुध्यस्व । अथवा वृत्रतूर्ये संग्रामे बोधि ॥
@@ -169,10 +172,6 @@ Du, den die Leute eindringlich anrufen, um den Siegerpreis zu gewinnen, hab du i
 
 Wie dich die Menschen eifervoll verehren, Beute zu empfahn, So zeige dich im Feindeskampf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

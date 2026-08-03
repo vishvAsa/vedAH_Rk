@@ -3,7 +3,6 @@ title = "016"
 devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्रइ꣡ष꣡ स्तो꣡मः पृथिवी꣡म् अन्त꣡रिक्षं  
-व꣡नस्प꣡तीँर् ओ꣡षधी राये꣡ अश्याः  
-देवो꣡-देवः सुह꣡वो भूतु म꣡ह्यम्  
-मा꣡ नो माता꣡ पृथिवी꣡ दुर्मतउ꣡ धात्
+प्रइ᳓ष᳓ स्तो᳓मः पृथिवी᳓म् अन्त᳓रिक्षं  
+व᳓नस्प᳓तीँर् ओ᳓षधी राये᳓ अश्याः  
+देवो᳓-देवः सुह᳓वो भूतु म᳓ह्यम्  
+मा᳓ नो माता᳓ पृथिवी᳓ दुर्मतउ᳓ धात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -237,6 +235,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः- अयम्। स्तोमः- मन्त्रः। पृथिवीम्- भूमिम्। अन्तरिक्षम्। वनस्पतीन्- वृक्षान्। ओषधीः।  राये- सम्पदे। अश्याः- व्याप्नोतु। देवोदेवः। सुहवः- सुष्ठु आहूतः। मह्यम्- मे। भूतु- भवतु।  नः- अस्माकम्। माता। पृथिवी- भूमिः। नः- अस्मान्। दुर्मतौ। मा। धात्- स्थापयतु॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एष** **स्तोमः** स्तुतिः पृथिव्यादिदेवताः **प्र** **अश्याः** प्राप्नोतु । किमर्थम् । **राये** धनार्थम् । **देवोदेवः** सर्वोऽपि देवः **मह्यं** मदर्थं **सुहवो** **भूतु** स्वाह्वानो भवतु । **नः** अस्मान् **दुर्मतौ** **माता** सर्वस्य निर्मात्री । यद्वा । अत्रेर्भौमत्वाद्विशेषेण माता । तादृशी **पृथिवी** **मा** **धात्** मा स्थापयतु ॥
@@ -254,7 +257,7 @@ _________
 
 May this praise reach to earth, to the midspace, to the trees, to the  plants, for wealth.  
 Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
@@ -289,8 +292,6 @@ Die Erde, Luft, die Bäume und die Kräuter erreiche dieses Loblied, Reichthum s
 Пусть каждый бог будет для меня легкопризываемым!  
 Мать-земля да не поместит нас в немилость!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

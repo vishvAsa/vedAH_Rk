@@ -3,7 +3,6 @@ title = "003"
 devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम तनूकृ꣡द्भ्यो  
-द्वे꣡षोभ्यो अन्य꣡कृतेभ्यः  
-उरु꣡ यन्ता꣡सि व꣡रूथम्
+तुवं᳓ सोम तनूकृ᳓द्भ्यो  
+द्वे᳓षोभ्यो अन्य᳓कृतेभ्यः  
+उरु᳓ यन्ता᳓सि व᳓रूथम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -66,6 +64,11 @@ yantā́ ← yantár- (nominal stem)
 
 त्वम् । सो॒म॒ । त॒नू॒कृत्ऽभ्यः॑ । द्वेषः॑ऽभ्यः । अ॒न्यऽकृ॑तेभ्यः ।  
 उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो॑भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् । 
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -139,6 +142,11 @@ _________
 
 _________
 
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सोम। त्वम्। तनूकृद्भ्यः- कृशीकुर्वद्भ्यः। अन्यकृतेभ्यः- विपरीतकृद्भ्यः। द्वेषोभ्यः- द्वेष्टृभ्यः।  वरूथम्- रक्षणम्। उरु यन्तासि॥३॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -215,8 +223,6 @@ Du, o Soma, reichest Schutzwehr vor den selbsterzeugten Leiden, Vor den anderwä
 От враждебных действий, вызванных самими,  
 (От враждебных действий), вызванных другими.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

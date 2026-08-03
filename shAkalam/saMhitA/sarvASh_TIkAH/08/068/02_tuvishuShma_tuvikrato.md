@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡विशुष्म तु꣡विक्रतो  
-श꣡चीवो वि꣡श्वया मते  
-आ꣡ पप्राथ महित्वना꣡
+तु᳓विशुष्म तु᳓विक्रतो  
+श᳓चीवो वि᳓श्वया मते  
+आ᳓ पप्राथ महित्वना᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुविशुष्म- प्रभूतबल। तुविक्रतो- प्रभूतसङ्कल्प। शचीवः- महाप्राज्ञ। मते- महामते। विश्वया-  सर्वभूतहितङ्करेण। महित्वना- माहात्म्येन। आ पप्राथ- आपूरितवानसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **तुविशुष्म** प्रभूतबल हे **तुविक्रतो** बहुकर्मन् । अथवा बहुप्रज्ञ कर्मणः पृथगभिधानात् । हे **शचीवः** बहुकर्मोपेत **मते** पूजनीयेन्द्र **विश्वया** विश्वव्याप्तेन **महित्वना** महत्त्वेन **आ** **पप्राथ** आपूरितवानसि । अविशेषाद्विश्वमित्यर्थः ॥
@@ -178,10 +181,6 @@ Groß an Mut und Einsicht, kraftvoll, du an alles Denkender, hast mit deiner Gr�
 
 Sehr mächtiger, vielwirkender, o starker, allbeachtender, Erfüllt hast alles Grosse du.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

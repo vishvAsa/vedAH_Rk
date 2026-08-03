@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो अर्ष पवि꣡त्र आ꣡  
-म꣡दो यो꣡ देववी꣡तमः  
-इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
+स᳓ नो अर्ष पवि᳓त्र आ᳓  
+म᳓दो यो᳓ देववी᳓तमः  
+इ᳓न्दव् इ᳓न्द्राय पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील रस। सः- तादृशस्त्वम्। देववीतमः- दिव्यानुभवः सन्। इन्द्राय पीतये-  इन्द्रानुभवाय। मदः- हर्षकरः सन्। आ- आभिमुख्येन। पवित्रे- भाजने प्रतीके। नः- अस्मदर्थम्।  अर्ष- अभिगच्छ॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** **यः** त्वं **देववीतमः** अतिशयेन देवकामः **मदः** मदकरश्च भवसि **सः** त्वं **नः** अस्माकं **पवित्रे** **इन्द्राय** इन्द्रस्य पीतये पानाय **आ** **अर्ष** आपवस्व ॥
@@ -172,7 +175,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Rush into our filter, as the exhilarating drink that best pursues the gods, o drop, for Indra to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
@@ -199,10 +202,6 @@ Fließe du uns in der Seihe als der göttereinladendste Rauschtrank, o Saft, fü
 
 O Indu, ström' in unser Sieb zum Trunk dem Indra, als der Trank, Der Göttern beste Labung bringt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

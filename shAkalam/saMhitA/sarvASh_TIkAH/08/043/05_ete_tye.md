@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ त्ये꣡ वृ꣡थग् अग्न꣡य  
-इद्धा꣡सः स꣡म् अदृक्षत  
-उष꣡साम् इव केत꣡वः
+एते᳓ त्ये᳓ वृ᳓थग् अग्न᳓य  
+इद्धा᳓सः स᳓म् अदृक्षत  
+उष᳓साम् इव केत᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्ये- ते। एते- इमे। वृथक्- पृथक्। अग्नयः। इद्धासः- समुद्दीपिताः। उषसाम्- अरुणोदयानाम्।  केतवः- रश्मयः। इव। समदृक्षत- अदृश्यन्त॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एते** **त्ये** एते अग्नयः **वृथक्** पृथक् **इद्धासः** अग्निहोत्रिभिः समिद्धाः सन्तः **उषसामिव** **केतवः** उषसां प्रज्ञापका इव **समदृक्षत** सम्यग्दृश्यन्ते ॥ ॥ २९ ॥
@@ -156,7 +159,7 @@ _________
 
 These fires kindled here in opposing (places) have come to sight all  at once,  
 like the beacons of the dawns.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
@@ -190,8 +193,6 @@ Es zeigten diese Flammen sich der Morgenröthe Strahlen gleich, Entzündet, lust
 Зажженные огни,  
 Словно знамена зорь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "नहुषो मानवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ प्रिया꣡ अनूषत  
-गा꣡वो म꣡दाय घृ꣡ष्वयः  
-सो꣡मासः कृण्वते पथः꣡  
-प꣡वमानास इ꣡न्दवः
+स᳓म् उ प्रिया᳓ अनूषत  
+गा᳓वो म᳓दाय घृ᳓ष्वयः  
+सो᳓मासः कृण्वते पथः᳓  
+प᳓वमानास इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियाः- प्रेमभाजनाः। गावः- सूर्यरश्मय इव स्थिताः। मदाय- तृप्तये। घृष्वयः- दीप्ताः।  पवमानासः- पुनानाः। इन्दवः- क्लेदनशीलाः। सोमासः- रसाः। अनूषत- स्तुवन्ति। पथः-  मार्गान्। कृण्वते- कुर्वन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **प्रियाः** प्रियतमाः **घृष्वयः** अत्यन्तं दीप्ताः। यद्वा । अहं प्रथमतः स्तौमि अहं पुरस्तात् स्तौमीति परस्परं स्पर्धमानाः । **गावः** स्तुतिलक्षणा वाचः सोमस्य मदार्थं **सम्** **अनूषत** संस्तुवन्ति । उः प्रसिद्धौ । यद्वा । गावो धेनवः सोमस्य मदाय शब्दायन्ते । ततः **पवमानासः** पूयमानाः **इन्दवः** दीप्ताः **सोमासः** सोमाः **पथः** मार्गान् **कृण्वते** क्षरणार्थं कुर्वन्ति ।
@@ -189,7 +192,7 @@ Cows: or, voice of praise
 
 Together the dear ones have cried out to him, the cows avid for  exhilaration.  
 The soma drinks make their own paths, the self-purifying drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
@@ -224,8 +227,6 @@ Ihm jauchzten jetzt die Stiere zu, die nach dem Rausche lüsternen, Die Soma's b
 Соки сомы создают себе пути,  
 (Эти) очищающиеся капли.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

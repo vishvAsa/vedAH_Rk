@@ -3,7 +3,6 @@ title = "008"
 devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ऋता꣡वाना नि꣡ षेदतुः  
-सा꣡म्राजियाय सुक्र꣡तू  
-धृत꣡व्रता क्षत्रि꣡या क्षत्र꣡म् आशतुः
+ऋता᳓वाना नि᳓ षेदतुः  
+सा᳓म्राजियाय सुक्र᳓तू  
+धृत᳓व्रता क्षत्रि᳓या क्षत्र᳓म् आशतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋतवाना- सत्ययुक्तौ। साम्राज्याय। सुक्रतू- शोभनप्रज्ञौ। नि षेदतुः- उपविविशतुः। धृतव्रता-  धृतधर्मौ। क्षत्रिया- क्षत्रियौ। क्षत्रम्। आशतुः- व्याप्नुतः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋतावाना** ऋतावानौ सत्यवन्तौ **सुक्रतू** शोभनकर्माणौ सुप्रज्ञौ वा मित्रावरुणौ **साम्राज्याय** साम्राज्यार्थं **नि** **षेदतुः** न्यसीदताम् । तथा मन्त्रः --- नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः' (ऋ. सं. १. २५. १०) इति । **धृतव्रता** धृतव्रतौ धृतकर्माणौ **क्षत्रिया** क्षत्रियौ बलवन्तौ **क्षत्रं** बलम् **आशतुः** आनशाते व्याप्नुत इत्यर्थः ।
@@ -164,7 +167,7 @@ Vigour: **kṣatriyā** kṣatram āśatuḥ = balavantau balamvyāpnutaḥ
 
 Truth-possessing, strong-willed, the two took their place for sovereign  kingship.  
 Their commandments upheld, the rulers attained their rule.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
@@ -197,8 +200,6 @@ Zur Weltregierung setzten sich die weisen, die gerechten hin, Die Herrscher habe
 Для высшего господства, (они) с прекрасной силой духа.  
 (Эти) двое, чей завет прочен, предназначенные для власти, достигли власти.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

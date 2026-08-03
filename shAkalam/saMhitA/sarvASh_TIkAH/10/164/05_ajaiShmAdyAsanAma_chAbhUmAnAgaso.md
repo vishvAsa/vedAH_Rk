@@ -3,7 +3,6 @@ title = "005"
 devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡जैष्माद्या꣡सनाम च  
-अ꣡भूमा꣡नागसो वय꣡म्  
-जाग्रत्स्वप्नः꣡ संकल्पः꣡ पापो꣡  
-यं꣡ द्विष्म꣡स् तं꣡ स꣡ ऋछतु  
-यो꣡ नो द्वे꣡ष्टि त꣡म् ऋछतु
+अ᳓जैष्माद्या᳓सनाम च  
+अ᳓भूमा᳓नागसो वय᳓म्  
+जाग्रत्स्वप्नः᳓ संकल्पः᳓ पापो᳓  
+यं᳓ द्विष्म᳓स् तं᳓ स᳓ ऋछतु  
+यो᳓ नो द्वे᳓ष्टि त᳓म् ऋछतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 adyá ← adyá (invariable)  
@@ -246,6 +244,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अजैष्म- जयं प्राप्नुमः। अद्य- इदानीम्। असनाम- सम्भजनं कुर्मः। वयम्। अनागसः-  अदोषाः। च। अभूम। जाग्रत्स्वप्नः- जाग्रत्स्वप्नावस्थयोः। पापः- पापफलरूपः। स सङ्कल्पः-  दुःस्वप्नाध्यवसायः। यं द्विष्मस्तम्। ऋच्छतु- प्राप्नोतु। यः। नः- अस्मान्। द्वेष्टि। तमृच्छतु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अद्य** अस्मिन् काले **अजैष्म** । जेतव्यानि सर्वाणि जितवन्तोऽभूम दुःस्वप्नस्य नष्टत्वात्। तदनन्तरम् **असनाम** **च** संभक्तव्यानि च समभजाम । तथा **वयम्** **अनागसः** अनपराधाश्च **अभूम** । जाग्रत्स्वप्नावस्थयोः संबन्धी **पापः** पापफलरूपः **सः** **संकल्पः** दुःस्वप्नाध्यवसायः **यं** शत्रुं वयं **द्विष्मः** **तम्** **ऋच्छतु** प्राप्नोतु । **यः** च **नः** अस्मान् **द्वेष्टि** **तमृच्छतु** प्राप्नोतु ॥॥२२ ॥
@@ -284,8 +287,6 @@ Wir haben heute gesiegt und gewonnen, wir sind der Sünde ledig geworden. Der b�
 Пусть настигнет того, кого мы ненавидим,  
 Пусть настигнет того, кто нас ненавидит!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

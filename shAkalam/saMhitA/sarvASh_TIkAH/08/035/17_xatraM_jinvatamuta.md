@@ -3,7 +3,6 @@ title = "017"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-क्षत्रं꣡ जिन्वतम् उत꣡ जिन्वतं नॄ꣡न्  
-हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-सो꣡मं सुन्वतो꣡ अश्विना
+क्षत्रं᳓ जिन्वतम् उत᳓ जिन्वतं नॄ᳓न्  
+हतं᳓ र᳓क्षांसि से᳓धतम् अ᳓मीवाः  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+सो᳓मं सुन्वतो᳓ अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+क्षत्रम्- क्षत्रियान्। जिन्वतम्- प्रीणयतम्। नॄन्- नेतॄन्। जिन्वतम्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **क्षत्रं** क्षत्रियं **जिन्वतम्** । **उत** अपि च **नॄन्** योद्धॄन् **जिन्वतम्** । सिद्धमन्यत् ॥
@@ -218,7 +221,7 @@ Nṛn = yoddhā, warriors
 
 Quicken our lordly power and quicken our men. – Smite demons; keep  away diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser, o  Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">
@@ -253,8 +256,6 @@ Die Herrschaft segnet und die Mannen segnet auch, Gespenster schlaget, wehret al
 Единодушные с Ушас и Сурьей,  
 (Пейте) сому у выжимающего (его), о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

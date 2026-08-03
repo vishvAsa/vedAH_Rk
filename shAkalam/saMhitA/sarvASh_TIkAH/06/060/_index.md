@@ -1,6 +1,5 @@
 +++
 title = "+060"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ taining four occurrences of the explicit adjective “(you) both” (ubhā́). T
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६०   बार्हस्पत्यो भरद्वाजः।इन्द्राग्नी। गायत्री, १-३,१३ त्रिष्टुप्, १४ बृहती, १५ अनुष्टुप्
 </details>

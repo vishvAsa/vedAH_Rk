@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
-अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  
-स꣡ सुत्रा꣡मा सुअ꣡वाँ इ꣡न्द्रो अस्मे꣡  
-आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोतु
+त᳓स्य वयं᳓ सुमतउ᳓ यज्ञि᳓यस्य  
+अ᳓पि भद्रे᳓ सौमनसे᳓ सियाम  
+स᳓ सुत्रा᳓मा सुअ᳓वाँ इ᳓न्द्रो अस्मे᳓  
+आरा᳓च् चिद् द्वे᳓षः सनुत᳓र् युयोतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -217,11 +215,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तस्य। यज्ञिस्य- परमपूज्यस्य। सुमतौ। स्याम- भवेम। वयम्। भद्रे- कल्याणे। सौमनसे।  स्याम- भवेम। सः- असौ। सुत्रामा- शोभनरक्षकः। स्ववान्- आत्मवान्। इन्द्रः- परमेश्वरः।  अस्मे- अस्मभ्यम्। सनुतः- अन्तर्हितान्। द्वेषः- द्वेष्टॄन्। आरात्- दूरे। युयोतु- वियोजयतु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञियस्य** यज्ञार्हस्य **सुमतौ** शोभनायामनुग्रहात्मिकायां बुद्धौ **वयं** **स्याम** । तद्विषयभूताः भवेम । तथा **भद्रे** कल्याणे **सौमनसे** सुमनसो भावे **अपि** तदीये स्याम भवेम । स इन्द्रोऽस्मास्वनुग्रहात्मिकां बुद्धिं सौमनस्यं च करोत्वित्यर्थः । **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् **सः** **इन्द्रः** च **अस्मे** अस्मत्त: **आराच्चित्** दूरदेश एव **द्वेषः** द्वेष्टॄन् **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितान् **युयोतु** पृथक्करोतु ॥
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -242,7 +244,7 @@ _________
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
@@ -261,7 +263,6 @@ And also his loving kindness;
 May the protector Indra, the granter of aid,  
 For ever fend far from us the enemy.
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -286,8 +287,6 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 Этот прекрасный спаситель, прекрасный помощник Индра для нас  
 Еще издалека пусть прогонит ненависть далеко прочь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

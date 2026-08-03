@@ -1,6 +1,5 @@
 +++
 title = "+014"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The poet does not forget his own, however. He mentions his kin-group, the  Kaṇ
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४   मेधातिथिः काण्वः। विश्वे देवाः (विश्वैर्देवैः सहितोऽग्निः), ३  इन्द्रवायुबृहस्पतिमित्रग्निपूषभगादित्यमरुद्गणाः, १० विश्वदेवाग्नीन्द्रवायुमित्रधामानि, ११ अग्निः। गायत्री
 </details>

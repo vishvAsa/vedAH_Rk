@@ -3,7 +3,6 @@ title = "018"
 devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे हि꣡ त्वा सजो꣡षसो  
-देवा꣡सो दूत꣡म् अ꣡क्रत  
-श्रुष्टी꣡ देव प्रथमो꣡ यज्ञि꣡यो भुवः
+वि᳓श्वे हि᳓ त्वा सजो᳓षसो  
+देवा᳓सो दूत᳓म् अ᳓क्रत  
+श्रुष्टी᳓ देव प्रथमो᳓ यज्ञि᳓यो भुवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वे- सर्वे। देवासः- देवाः। सजोषसः- सहृदयाः। त्वा- त्वाम्। दूतम्। अक्रत- अकुर्वन्। हि-  खलु। श्रुष्टी- क्षिप्रम्। देव- द्योतनशील। प्रथमः- मुख्यः। यज्ञियः- पूज्यः। भुवः- अभवः॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **विश्वे** सर्वे **देवासः** देवाः **सजोषसः** संगताः सन्तः अस्माकं हवींष्यानयतीति विचार्य **त्वा**। हिरवधारणे । त्वामेव **दूतं** हविषां वोढारं दूतम् **अक्रत** अकार्षुः । ततः **देव** द्योतमान हे अग्ने **प्रथमः** देवानां मुख्यभूतस्त्वं **श्रुष्टी** । श्रुष्टीति क्षिप्रनाम । क्षिप्रं **यज्ञियः** देवानां हविर्दातृत्वेन यज्ञार्हः **भुवः** भूयाः ॥
@@ -188,7 +191,7 @@ May you: may you quickly become worthy of the sacrifice,(as bearing our oblation
 
 Because all the gods, altogether, made you their messenger,  
 by harkening (to them), o god, you became the first one worthy of the  sacrifice.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
@@ -222,8 +225,6 @@ Denn alle Götter setzten dich vereint zu ihrem Boten ein, Du warst sogleich der
 Сделали тебя вестником.  
 Благодаря твоей готовности, о бог, ты стал первым достойным жертв.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

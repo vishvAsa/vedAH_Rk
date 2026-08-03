@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ हिन्वाना꣡स इ꣡न्दवो  
-अ꣡छा समुद्र꣡म् आश꣡वः  
-धिया꣡ जूता꣡ असृक्षत
+प्र᳓ हिन्वाना᳓स इ᳓न्दवो  
+अ᳓छा समुद्र᳓म् आश᳓वः  
+धिया᳓ जूता᳓ असृक्षत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्र हिन्वानासः- प्रेर्यमाणाः। आशवः- क्षिप्रकारिणः। इन्दवः- क्लेदनशीला रसाः। धिया-  चित्तधारणया। जूताः- इषिताः। समुद्रम्- हृत्समुद्रम्। अच्छ- अभिलक्ष्य। असृक्षत-  सृज्यन्ते॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आशवः** वेगवन्तः **इन्दवः** सोमाः **समुद्रम्** अन्तरिक्षम् **अच्छ** प्रति **हिन्वानासः** हिन्वानाः प्रेर्यमाणाः **धिया** अङ्गुल्या **जूताः** कृष्टाश्च **प्र** **असृक्षत** सृज्यन्ते ।
@@ -151,7 +154,7 @@ The firmament: **samudram** may mean the vasatīvarī waters
 
 Being impelled forth, the swift drops,  
 sped by insightful thought, have surged to the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
@@ -178,10 +181,6 @@ Die Somasäfte, die Renner, wurden, zur Eile getrieben, zum Meere losgelassen, d
 
 Die schnellen Rosse, angespornt, sind zu dem Meere vorgeströmt, Die Indu's, durch Gebet beeilt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

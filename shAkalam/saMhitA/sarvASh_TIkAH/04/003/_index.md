@@ -1,6 +1,5 @@
 +++
 title = "+003"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ one verse (11) on the Vala myth, a preoccupation of the Agni hymns in IV. What t
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३  वामदेवो गौतमः। अग्निः, १ रुद्रः। त्रिष्टुप्
 </details>

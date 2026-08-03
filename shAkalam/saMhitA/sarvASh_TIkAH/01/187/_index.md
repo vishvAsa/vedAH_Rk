@@ -1,6 +1,5 @@
 +++
 title = "+187"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The hymn takes a ritual turn in the last four verses (7–10) before the summary
 <details><summary>Jamison Brereton Notes</summary>
 
 Food and Drink
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८७   अगस्त्यो मैत्रावरुणिः।अन्नं । १ अनुष्टुब्गर्भा उष्णिक्, ३, ५-७, ११ अनुष्टुप्, ११ बृहती वा, २,४, ८-१०  गायत्री।
 </details>

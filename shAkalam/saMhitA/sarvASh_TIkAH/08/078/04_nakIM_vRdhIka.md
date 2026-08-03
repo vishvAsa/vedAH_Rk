@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-न꣡कीं वृधीक꣡ इन्द्र ते  
-न꣡ सुषा꣡ न꣡ सुदा꣡ उत꣡  
-ना꣡न्य꣡स् त्व꣡च् छूर वाघ꣡तः
+न᳓कीं वृधीक᳓ इन्द्र ते  
+न᳓ सुषा᳓ न᳓ सुदा᳓ उत᳓  
+ना᳓न्य᳓स् त्व᳓च् छूर वाघ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। ते- त्वत्तोऽन्यः। वृधीकः- वर्धकः। नकीम्- नैवास्ति। न। सुषाः- सुसम्भक्ता। न।  सुदाः- सुदायकः। शूर- समर्थ। त्वत्- त्वत्तः। वाघतः- स्तोतुः। नान्यः- नेतरोस्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** त्वत्तोऽन्यः कश्चित् **वृधीकः** वर्धयिता **नकीं** नैव । तथा **सुषाः** सुष्ठु संभक्ता संग्रामादौ त्वत्तोऽन्यः **न** । **उत** अपि च **सुदाः** सुदाता **न** । तथा हे **शूर** **त्वत्** त्वत्तोऽन्यः **वाघतः** । ऋत्विग्नामैतत् । ऋत्विजो यजमानस्य नेता **नान्यः** अस्ति त्वामृते ॥
@@ -225,10 +228,6 @@ Denn es gibt keinen anderen Bereicherer oder guten Lohner und guten Schenker fü
 
 Niemand, o Indra, kommt dir gleich, kein andrer ist, der so wie du Dem Frommen Schönes schafft und gibt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

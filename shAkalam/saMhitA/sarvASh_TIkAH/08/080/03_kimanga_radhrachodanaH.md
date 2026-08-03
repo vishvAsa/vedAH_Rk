@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-कि꣡म् अङ्ग꣡ रध्रचो꣡दनः  
-सुन्वान꣡स्याविते꣡द् असि  
-कुवि꣡त् सु꣡ इन्द्र णः श꣡कः
+कि᳓म् अङ्ग᳓ रध्रचो᳓दनः  
+सुन्वान᳓स्याविते᳓द् असि  
+कुवि᳓त् सु᳓ इन्द्र णः श᳓कः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रध्रचोदनः - संसिद्धिचोदकः। सुन्वानस्य- रसनिष्पादकस्य। अविता- रक्षिता। इत्- एव। असि-  भवसि। इन्द्र। नः- अस्माकम्। कुवित्- बहु। सु- सुष्ठु। शकः- शक्तो भव॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **रध्रचोदनः** । रध्रं राधकं चोदयतीति रध्रचोदनः । तादृशस्त्वं **सुन्वानस्य** **अवितेदसि** रक्षक एव भवसि । अतः **नः** अस्माकं **कुवित्** बहु **सु** सुष्ठु **शकः** अशकः शक्तो भव। बहु धनं कुर्वित्वर्थः । अस्मान् वा बहु कुर्विति ॥
@@ -199,10 +202,6 @@ Bist du denn wirklich der Ermutiger des Schwachen, der Helfer des Pressenden? Ge
 
 Bist du des Matten Stärker nicht, des Somapressers Helfer nicht? Gewiss du Indra bist uns hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

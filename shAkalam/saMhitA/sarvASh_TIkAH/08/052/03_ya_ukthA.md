@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उक्था꣡ के꣡वला दधे꣡  
-यः꣡ सो꣡मं धृषिता꣡पिबत्  
-य꣡स्मै वि꣡ष्णुस् त्री꣡णि पदा꣡ विचक्रम꣡  
-उ꣡प मित्र꣡स्य ध꣡र्मभिः
+य᳓ उक्था᳓ के᳓वला दधे᳓  
+यः᳓ सो᳓मं धृषिता᳓पिबत्  
+य᳓स्मै वि᳓ष्णुस् त्री᳓णि पदा᳓ विचक्रम᳓  
+उ᳓प मित्र᳓स्य ध᳓र्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -197,6 +195,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। केवला- एकान्तान्। उक्था- मन्त्रान्। दधे- आदधाति। यः। धृषिता- शत्रुधर्षकः। सोमम्-  रसम्। अपिबत्- अन्वभवत्। यस्मै। विष्णुः- परमात्मा सर्वान्तर्यामी। त्रीणी पदा-  भूर्भुवःसुवःस्थानानि। मित्रस्य धर्मभिः- स्नेहधर्मैः। विचक्रमे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -238,8 +241,6 @@ Der für sich allein die Loblieder beanspruchst, der herzhaft den Soma trank, f�
 Кому Вишну прошагал три шага  
 По законам дружбы…
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

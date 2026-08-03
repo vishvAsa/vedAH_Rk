@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो बोधि श्रुधी꣡ ह꣡वम्  
-उरुष्या꣡ णो अघायतः꣡ समस्मात्
+स᳓ नो बोधि श्रुधी᳓ ह᳓वम्  
+उरुष्या᳓ णो अघायतः᳓ समस्मात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

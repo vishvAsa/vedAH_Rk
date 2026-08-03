@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निरग्निः शुचिर्वा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ य꣡त् ते अग्ने सूर꣡यो  
-जा꣡येमहि प्र꣡ ते वय꣡म्  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+प्र᳓ य᳓त् ते अग्ने सूर᳓यो  
+जा᳓येमहि प्र᳓ ते वय᳓म्  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,6 +168,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यथा। अग्ने। ते- तव। सूरयः- ज्ञानिनः प्रजाताः। तथा। ते- त्वदीयाः। वयम्। जायेमहि-  तपसा श्रद्धया धर्मेण प्रादुर्भूता भवेम॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **यत्** यस्मात् **ते** तव **सूरयः** स्तोतारः प्रजायन्ते पुत्रपौत्रादिरूपेण बहुविधा भवन्ति ततः **वयं** च **ते** तव स्तोतारः सन्तः **प्र** **जायेमहि** पुत्रपौत्रादिभिरुपेता भवेम ॥ जायेमहि । प्रार्थनायां लिङ्। श्यनि ‘ ज्ञाजनोर्जा ' इति जादेशः । अदुपदेशात् लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वम् ॥
@@ -192,7 +195,7 @@ Prajāyemahi vayam: from jan, to be born, may we be born successively in the per
 
 So that we and our patrons would be further propagated through  you, o Agni,  
 —(you) blazing away the bad for us—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
@@ -231,8 +234,6 @@ Damit wir deine Kinder sein, o Agni, und die Opferherrn, So strahle Leid von uns
 Имели потомство, чтобы мы – благодаря тебе –  
 Прочь от нас засвечивая зло! –
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

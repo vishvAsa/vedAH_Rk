@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡म् उ त्यं꣡ द꣡श क्षि꣡पो  
-मृज꣡न्ति सि꣡न्धुमातरम्  
-स꣡म् आदित्ये꣡भिर् अख्यत
+एत᳓म् उ त्यं᳓ द᳓श क्षि᳓पो  
+मृज᳓न्ति सि᳓न्धुमातरम्  
+स᳓म् आदित्ये᳓भिर् अख्यत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतमु त्यम्- तमेनम्। सिन्धुमातरम्- जीवोदकजम्। दश क्षिपः- दशदिग्वर्तिन्यो मूलशक्तिधारा  अवतरणशीलाः। मृजन्ति- शोधयन्ति। आदित्येभिः- अखण्डप्रकृतिजैः। सं अख्यत-  सङ्गच्छते॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सिन्धुमातरं** यस्य सोमस्य सिन्धवो नद्यो मातरो भवन्ति **त्यं** तम् **एतम्** इमं सोमं **दश** **क्षिपः** दशसंख्याका अङ्गुलयः **मृजन्ति** शोधयन्ति । अपि च सोऽयं सोमः **आदित्येभिः** आदित्यैः **सम्** **अख्यत** संगच्छते ॥
@@ -158,7 +161,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Just him do the ten fingers groom, him whose mother is the river(s). He has been reckoned among the Ādityas.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
@@ -191,8 +194,6 @@ Zehn Finger läutern diesen nun, den aus dem Meer entsprungenen, Mit den Aditja'
 Пальцев, (его), чьи матери – реки.  
 Он был причислен к Адитьям.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

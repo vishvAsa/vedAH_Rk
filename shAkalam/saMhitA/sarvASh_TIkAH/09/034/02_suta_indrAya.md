@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुत꣡ इ꣡न्द्राय वाय꣡वे  
-व꣡रुणाय मरु꣡द्भियः  
-सो꣡मो अर्षति वि꣡ष्णवे
+सुत᳓ इ᳓न्द्राय वाय᳓वे  
+व᳓रुणाय मरु᳓द्भियः  
+सो᳓मो अर्षति वि᳓ष्णवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राय- ईशनाधिदैवताय। वायवे- प्राणाय। वरुणाय- ऋताधिदैवताय। मरुद्भ्यः-  प्राणविभागेभ्यः। विष्णवे- व्याप्तायान्तर्यामिणे दैवताय। सुतः- निष्पन्नः। सोमः- रसः। अर्षति-  गच्छति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **सुतः** अभिषुतः **सोमः** इन्द्राद्यर्थम् अर्षति गच्छति ॥
@@ -166,8 +169,6 @@ Der Soma rinnt dahin, gepresst dem Indra, Vaju, Varuna, Dem Vischnu und der Maru
 Для Варуны, для Марутов,  
 Сома течет для Вишну.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

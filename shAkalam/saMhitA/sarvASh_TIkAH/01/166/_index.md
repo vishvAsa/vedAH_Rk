@@ -1,6 +1,5 @@
 +++
 title = "+166"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ Punctuating the hymn is an awareness of the balance between their past glories  
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६६   अगस्त्यो मैत्रावरुणिः।मरुतः। जगती, १४-१५ त्रिष्टुप्।
 </details>

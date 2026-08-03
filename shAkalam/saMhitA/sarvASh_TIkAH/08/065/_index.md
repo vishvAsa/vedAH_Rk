@@ -1,6 +1,5 @@
 +++
 title = "+065"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ Like VIII.64 this hymn consists of four tr̥cas. The last (vss. 10–12) is clea
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६५  प्रगाथः काण्वः।इन्द्रः। गायत्री।
 </details>

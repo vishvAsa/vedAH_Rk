@@ -3,7 +3,6 @@ title = "009"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ वो रसा꣡ अ꣡नितभा कु꣡भा क्रु꣡मुर्  
-मा꣡ वः सि꣡न्धुर् नि꣡ रीरमत्  
-मा꣡ वः प꣡रि ष्ठात् सर꣡युः पुरीषि꣡णी  
-अस्मे꣡ ई꣡त् सुम्न꣡म् अस्तु वः
+मा᳓ वो रसा᳓ अ᳓नितभा कु᳓भा क्रु᳓मुर्  
+मा᳓ वः सि᳓न्धुर् नि᳓ रीरमत्  
+मा᳓ वः प᳓रि ष्ठात् सर᳓युः पुरीषि᳓णी  
+अस्मे᳓ ई᳓त् सुम्न᳓म् अस्तु वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अनितभाः- अप्राप्तप्रकाशा। कुभा- कुत्सितप्रकाशा। क्रुमुः- आक्रमणशीला। सिन्धुः-  स्यन्दनशीला। रसा- नदी। वः- युष्मान्। मा। नि- निकृष्टम्। रीरमत्- रमयतु। दुष्टवासनाः  प्राणान् मा बाधन्तामिति भावः। पुरीषिणी- उदकवती। सरयुः- सरणशीला नदी। वः- युष्मान्। ३    परि- परितः। मा ष्ठात्- मा भवतु। अस्मे- अस्माकम्। वः- युष्माकम्। सुम्नम्- सुखम्। अस्तु-  भवतु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुतः **वः** युष्मान् **रसा** । नदीनामैतत् ।  रसा नदी भवति ' ( निरु. ११. २५) इति निरुक्तम् । रसनवती शब्दवती । **अनितभा** । इता प्राप्ता भा यस्याः सा इतभा । न तादृश्यनितभा । **कुभा** कुत्सितदीप्तिश्च **मा** **नि** **रीरमत्** मा निकृष्टं रमतु । **क्रुमुः** सर्वत्रक्रमणः **सिन्धुः** समुद्रश्च **मा** नि रीरमत् । तथा **पुरीषिणी** । पुरीषमुदकम् । तद्वती **सरयुः** अपि **मा** **परि** **ष्ठात्** परितस्तिष्ठतु मा निरुणद्धु । **अस्मे** **इत्** अस्मास्वेव **अस्तु** **सुम्नं** त्वदागमनजनितं सुखं **वः** युष्माकं संबन्धि युष्मत्स्वभूतम् ।
@@ -265,7 +268,7 @@ Rasa, Anitabhā, Kubhā: names of rivers; the wide-roving ocean: **kramuḥ** **
 
 Let not the Rasā (River), the Anitabhā, the Kubhā, the Krumu, let not  the Sindhu bring you to a halt.  
 Let not the overflowing Sarayu hem you around. On us alone let your  favor be.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
@@ -299,8 +302,6 @@ Nicht halt euch Rasa, Kubha noch Anitubha, nicht Krumu noch die Sindhu auf; Nich
 Да не преградит вам путь Сараю, дарящая богатство!  
 У нас да будет милость ваша!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

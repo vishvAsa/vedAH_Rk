@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम महा꣡न् समुद्रः꣡  
-पिता꣡ देवा꣡नां वि꣡श्वाभि꣡ धा꣡म
+प᳓वस्व सोम महा᳓न् समुद्रः᳓  
+पिता᳓ देवा᳓नां वि᳓श्वाभि᳓ धा᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। महान्- महात्मा। समुद्रः- समुद्रसमः सन्। देवानाम्- देवतानाम्। पिता- पालकः  सन्। विश्वा धाम- सर्वा भूमिकाः। अभि- अभितः। पवस्व- क्षर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **महान्** देवेभ्यो दीयमानत्वेन महत्त्वयुक्तः **समुद्रः** समुन्दनः । यस्मात् समुद्द्रवन्ति रसास्तादृशः। **पिता** सर्वेषां पालयिता त्वं **देवानां** **विश्वा** विश्वानि सर्वाणि **धाम** धामानि शरीराण्यभिलक्ष्य **पवस्व** ॥
@@ -145,7 +148,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, as the great sea and as the father of the gods,  (going) to all domains.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
@@ -178,8 +181,6 @@ Hell riesle Soma, – ein grosses Meer du, der Götter Vater – zu allen Stätt
 Отец богов, (, чтобы приобрести) все (свои) формы!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -190,7 +191,7 @@ Hell riesle Soma, – ein grosses Meer du, der Götter Vater – zu allen Stätt
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोम) हे सर्वोत्पादक ! आप (समुद्रः) “सम्यग् द्रवन्ति भूतानि यस्मात् स समुद्रः”=जिससे पृथिव्यादि सम्पूर्ण लोक-लोकान्तर उत्पन्न होते हैं, उसका नाम यहाँ “समुद्र” है और (महान्) सबसे बड़ा (देवानां) सूर्य्यादि देवों का (पिता) निर्माण करनेवाला (विश्वा, अभि, धाम) सबको लक्ष्य रखकर हे ईश्वर ! आप हमको पवित्र करें॥४॥
+पदार्थान्वयभाषाः -  (सोम) हे सर्वोत्पादक ! आप (समुद्रः) “सम्यग् द्रवन्ति भूतानि यस्मात् स समुद्रः”=जिससे पृथिव्यादि सम्पूर्ण लोक-लोकान्तर उत्पन्न होते हैं, उसका नाम यहाँ “समुद्र” है और (महान्) सबसे बड़ा (देवानां) सूर्य्यादि देवों का (पिता) निर्माण करनेवाला (विश्वा, अभि, धाम) सबको लक्ष्य रखकर हे ईश्वर ! आप हमको पवित्र करें॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+183"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first two verses present a fragment of dialogue, with patterned repetition, 
 <details><summary>Geldner</summary>
 
 Die Ehefrau:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८३  प्रजावान् प्राजापत्यः। १ यजमानः, २ यजमानपत्नी, ३ होत्राशिषः। त्रिष्टुप्।
 </details>

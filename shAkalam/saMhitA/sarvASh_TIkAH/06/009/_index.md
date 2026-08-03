@@ -1,6 +1,5 @@
 +++
 title = "+009"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+009"
 <details><summary>Jamison Brereton</summary>
 
 9 (450)  
-Agni Vaiśvānara  
+Agni Vaiśvānara  
 Bharadvāja Bārhaspatya  
 7 verses: triṣṭubh  
 A powerfully enigmatic hymn, in which the poet reflects on the craft of poetry,  worries about his ability to practice it, and, on having received the revelation of  the mysteries from the ritual fire, takes heart and assumes his poetic vocation.  In this progression the hymn is very reminiscent of IV.5, also a hymn to Agni  in his Vaiśvānara aspect and one in which a poet receives his poetic inspiration  from Agni.  
@@ -27,4 +26,10 @@ The hymn has a neatly structured omphalos shape. Verses 1 and 7 are the ritual  
 Agni Vaiśvānara On the structure of this complex hymn and for a verse-by-verse synopsis, see published introduction. It has been much translated and discussed -- in addition to the usual treatments, see, e.g., Thieme, Gedichte; Renou, Hymnes spéculatifs; Wendy Doniger, Rig Veda. Oldenberg (ZDMG 55.296-97) gives a detailed (for him) account of the contents and pronounces it an ākhyāna, an opinion repeated in the Noten, though he doesn’t spell out who the speakers might be verse by verse. Gonda (Vedic Literature, 99) calls it “a profound glorification of Agni as the great immortal conceived as the inner light and placed among the mortals to guide them in the mysteries and intricacies of the ritual.” As discussed in the published introduction, the hymn concerns the development of the poet’s craft and resembles IV.5, in which the poet also receives his poetic inspiration from Agni Vaiśvānara. I do not see the poetic contest (brahmodya) that others (starting with Geldner [Ved. Stud. II.181-82], fld by Renou, Doniger, George Thompson [“Brahmodya”]) take as the mise en scène of the hymn.
 
 See Oldenberg’s explicit rejection of the brahmodya interpr. (ZDMG 55.297), with which I concur. The brahmodya interpr. primarily rests on a brief phrase in vs. 2, on which see below.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९  बार्हस्पत्यो भरद्वाजः।वैश्वानरोऽग्निः। त्रिष्टुप्, (७ प्रस्तारपंक्तिर्वा)
 </details>

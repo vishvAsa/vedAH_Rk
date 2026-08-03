@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+022"
 <details><summary>Jamison Brereton</summary>
 
 22 (642)  
-Aśvins  
+Aśvins  
 Sobhari Kāṇva  
 18 verses: br̥hatī alternating with satobr̥hatī 1–7; anuṣṭubh 8; kakubh alternating with  satobr̥hatī 9–10, 13–18; kakubh 11; madhyejyotis 12, all arranged in pragāthas.  
 The metrical complexity of this hymn is not matched by corresponding complexity  of content. The hymn focuses especially on the chariot of the Aśvins, as well as on  their journey to us, the sacrifice with which we will welcome them, and the multi form aid we hope for in return.  
@@ -21,4 +20,10 @@ Nonetheless there are a few striking images and turns of phrase, particularly in
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins Esp. towards the end of the hymn, pāda-initial (C)ā becomes an insistent marker: ā́(8c, 9a), yā́(bhiḥ) (10a, b), tā́(bhiḥ) (10c, 12a), yā́(bhiḥ) (12d), tā́(u) (13a, b, c, 14a, b), mā́(14c), ā́(15a), prā(tā́) (15b), ā(rā́ttāc) (16c), ā́(17a). The most concentrated sequence is in vss. 13-14 with the repeated dual prn. tā́(u) ‘these two’, referring to the Aśvins.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२२  सोभरिः काण्वः।अश्विनौ। १ - ६ प्रगाथ= (विषमा बृहती, समा सतोबृहती), ७ बृहती, ८ अनुष्टुप्, ११  ककुप्, १२ मध्येज्योतिः, प्रगाथः = (९, १३, १५, १७ ककुप्, १०, १४, १६, १८ सतोबृहती) ।
 </details>

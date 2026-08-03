@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ पवि꣡त्रे विचक्षणो꣡  
-ह꣡रिर् अर्षति धर्णसिः꣡  
-अभि꣡ यो꣡निं क꣡निक्रदत्
+स᳓ पवि᳓त्रे विचक्षणो᳓  
+ह᳓रिर् अर्षति धर्णसिः᳓  
+अभि᳓ यो᳓निं क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। पवित्रे- शुद्धे पात्रे प्रतीके। विचक्षणः- ज्ञानी सन्। हरिः- आकर्षकः। धर्णसिः-  धारकः। अर्षति- गच्छति। योनिम्- मूलं सदनमृतम्। अभि- अभिलक्ष्य। कनिक्रदत्- मन्त्रं  शब्दितवान्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** **सोमः** **विचक्षणः** । पश्यतिकर्मैतत् । सर्वस्य द्रष्टा **हरिः** हरितवर्णः सोमः **धर्णसिः** सर्वस्य धारकः **पवित्रे** **अर्षति** गच्छति । पश्चात् **कनिक्रदत्** शब्दं कुर्वन् **योनिं** स्थानं द्रोणकलशम् **अभि** गच्छति ॥
@@ -165,10 +168,6 @@ Der hellsehende Falbe rinnt ausdauernd auf die Seihe, brüllend auf seine Wiege 
 
 Weitblickend rennt der goldne Hengst zur Seihe hin, der kräftige, Entgegenwiehernd seinem Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

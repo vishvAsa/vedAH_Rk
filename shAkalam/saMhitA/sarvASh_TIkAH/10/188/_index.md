@@ -1,6 +1,5 @@
 +++
 title = "+188"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,8 +10,14 @@ title = "+188"
 <details><summary>Jamison Brereton</summary>
 
 188 (1014)  
-Agni Jātavedas  
+Agni Jātavedas  
 Śyena Āgneya  
 3 verses: gāyatrī  
 Another slight hymn to Agni, this time with his common epithet Jātavedas. The  focus of this hymn is the sacrifice and Agni’s role in it.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८८  आग्नेयः श्येनः। जातवेदा अग्निः। गायत्री।
 </details>

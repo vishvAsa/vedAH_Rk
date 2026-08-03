@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नूनं꣡ रघु꣡वर्तनिं  
-र꣡थं तिष्ठाथो अश्विना  
-आ꣡ वां स्तो꣡मा इमे꣡ म꣡म  
-न꣡भो न꣡ चुच्यवीरत
+आ᳓ नूनं᳓ रघु᳓वर्तनिं  
+र᳓थं तिष्ठाथो अश्विना  
+आ᳓ वां स्तो᳓मा इमे᳓ म᳓म  
+न᳓भो न᳓ चुच्यवीरत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -182,6 +180,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्विना। रघुवर्तनिम्- लघुगमनम्। रथम्। आ तिष्ठाथः- अधितिष्ठथः। इमे- एते। मम- मे।  स्तोमाः- मन्त्राः। नभो न- आकाशसमौ। वाम्- युवाम्। आ चुच्यवीरत-  अभिगच्छन्ति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **रघुवर्तनिं** लघुवर्तनं शीघ्रगमनं **रथं** **नूनम्** अवश्यमिदानीमेव **आ** **तिष्ठाथः** आतिष्ठतम् अधिरोहतम् । वालमूललघ्वलम्' इति लघोर्लकारस्य रेफः । **मम** मदीयाः **इमे** **स्तोमाः** स्तोत्राणि **नभो** **न** सूर्यमिव तेजस्विनौ **वां** युवाम् **आ** **चुच्यवीरत** आच्यवन्ते अभिगच्छन्ति । यद्वा । च्यवतिरत्र अन्तर्भावितण्यर्थः । आच्यावयन्ति युवामभिप्रापयन्ति ॥
@@ -198,7 +201,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Here and now you two will mount the swift-tracked chariot, o Aśvins. Here should these praise songs of mine move you, like a cloud.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
@@ -237,8 +240,6 @@ Besteigt den Wagen, Ritter, nun, der schnell auf seinem Wege rollt, Lasst diese 
 Эти мои восхваления  
 Пусть прогонят вас, как (ветер) облако.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

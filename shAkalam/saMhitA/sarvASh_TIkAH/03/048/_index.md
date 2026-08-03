@@ -1,6 +1,5 @@
 +++
 title = "+048"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In this short hymn (four verses, without the refrain) we are given a tantalizing
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४८  गाथिनो विश्वामित्रः।इन्द्रः । त्रिष्टुप् ।
 </details>

@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ दासं꣡ कौलितर꣡म्  
-बृहतः꣡ प꣡र्वताद् अ꣡धि  
-अ꣡वाहन्न् इन्द्र श꣡म्बरम्
+उत᳓ दासं᳓ कौलितर᳓म्  
+बृहतः᳓ प᳓र्वताद् अ᳓धि  
+अ᳓वाहन्न् इन्द्र श᳓म्बरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। बृहतः- महतः। पर्वतात्- गिरेः। अधि। इन्द्र- परमेश्वर। कौलितरम्- महाबाहुम्।  कुलिशब्दो हस्तार्थे। कुलितरो महाबाहुः। कुलितर एव कौलितरः। शम्बरम्- राक्षसं  जडोपलक्षितमेघम्। दासम्- उपक्षपयितारम्। अवाहन्- अहनत्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे **इन्द्र** त्वं **दासम्** उपक्षपयितारं **कौलितरं** कुलितरनाम्नोऽपत्यं **शम्बरम्** असुरं **बृहतः** महतः पर्वतात् अद्रेः **अधि** उपरि **अव** अवाचीनं कृत्वा **अहन्** हतवानसि ॥
@@ -148,7 +151,7 @@ _________
 
 And you struck Śambara, the Dāsa son of Kulitara,  
 down from the lofty mountain, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
@@ -182,8 +185,6 @@ Kaulitara, den Dämon auch und Çambara, die stürztest du, O Indra, von des Ber
 Сына Кулитары, о Индра,  
 Ты сшиб с высокой горы.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

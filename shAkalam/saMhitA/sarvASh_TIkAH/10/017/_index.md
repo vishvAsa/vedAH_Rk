@@ -1,6 +1,5 @@
 +++
 title = "+017"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+017"
 <details><summary>Jamison Brereton</summary>
 
 17 (843)  
-Various Divinities: Saraṇyū (1–2), Pūsan (3–6), ̣  
+Various Divinities: Saraṇyū (1–2), Pūsan (3–6), ̣  
 Sarasvatı (7–9), the Waters (10, 14), the Waters or Soma (11–13) ̄  
 Devaśravas Yāmāyana  
 14 verses: triṣṭubh, except anuṣṭubh or purastādbr̥hatī 13, anuṣṭubh 14  
@@ -29,4 +28,10 @@ Verses 10–13 concern the “drop” (drapsá) and are addressed in the 2nd per
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७  देवश्रवा यामायनः।  १-२ सरण्यूः, ३-६ पूषा, ७-९ सरस्वती, १०-१४ आपः, ११-१३ सोमो वा। त्रिष्टुप्,  १३-१४ अनुष्टुप्, १३ पुरस्ताद्बृहती वा।
 </details>

@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा मरु꣡त्वती प꣡रि  
-भु꣡वद् वा꣡णी सया꣡वरी  
-न꣡क्षमाणा सह꣡ द्यु꣡भिः
+तं᳓ त्वा मरु᳓त्वती प᳓रि  
+भु᳓वद् वा᳓णी सया᳓वरी  
+न᳓क्षमाणा सह᳓ द्यु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- तादृशम्। त्वा- त्वाम्। मरुत्वती- प्राणबलसम्पन्ना। सयावरी- सहगन्त्री। वाणी- वाक्।  द्युभिः- दीप्तिभिः। सह। नक्षमाणा- व्यापनशीला। परि- परितः। भुवत्- भवतु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **तम्** उक्तगुणविशिष्टं **त्वा** त्वां **सयावरी** त्वया सह गन्त्री । यत्र यत्र त्वं यासि तत्र तत्र यान्तीत्यर्थः । **द्युभिः** तेजोभिः **नक्षमाणा** व्याप्नुवती **मरुत्वती** । मरुतः स्तोतारः । तद्वती **वाणी** स्तुतिः **परि** **भुवत्** परिभवतु । परिभवतिरत्र परिग्रहार्थीयः । परिगृह्णात्वित्यर्थः ॥
@@ -163,7 +166,7 @@ _________
 
 The choir of Maruts, your fellow travelers, surrounds you,  
 reaching you all together throughout the days.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
@@ -197,8 +200,6 @@ Drum sei um dich der Lieder Klang, fortschreitend mit der Marutschar, Vordringen
 Хор, появляющийся вместе (с тобой),  
 Возникающий в начале дня.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

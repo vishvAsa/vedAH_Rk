@@ -1,6 +1,5 @@
 +++
 title = "+073"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ Verse 4 brings us the curious image of Indra with a thousand hyenas in his  mout
 
 After this we turn to Indra’s great deeds, especially the slaying of Namuci (5cd– 7), a deed also treated in the related hymn V.30.7–8. Why the abrupt switch from  Indra as parent to Indra as killer? The answer probably lies in the early-morning  context of this hymn. Indra famously vowed not to kill Namuci by day or by night,  or with a weapon dry or wet. The weapon, according to later accounts, was foam  (also glancingly alluded to in VIII.14.13), and the time of slaughter the morning  twilight—the exact time depicted in the hymn. We also consider the “darkening  mists and darkness” of 5d to be the weapon used for the slaughter (rather than the  later foam), since mist, too, counts neither as wet nor as dry. This mist, diffused like  smoke, though directed at Namuci, settles “even on the two of the same name,”  whom we identify as the Aśvins, mentioned several times previously in the hymn,  who make their journey during the early morning twilight.  
 Verse 8 summarizes Indra’s accomplishment of his deeds by way of his epi thets and acknowledges the applause of the gods, but it ends (8d) with a cryptic  allusion to another of Indra’s deeds, continued, in our view, in the first pāda of  verse 9. Another tale favored in the early Indra hymns of Maṇḍala V is the chariot  race between Indra and the Sun, in which Indra steals the Sun’s wheel and puts  his chariot in front of the Sun’s, though it had been behind (see, e.g., V.31.11). The  “topsy-turvy” outcome of 8d and the stuck wheel of 9a are suggestive of this myth.  The rest of verse 9 simply celebrates Indra’s fructifying of the plants and animals,  which may remind us of his parental role earlier in the hymn, and with verse 10 we  return to his mysterious birth. In the final verse (11) the poets ask Indra for aid in  their plight.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७३  गौरिवीतिः शाक्त्यः। इन्द्रः। त्रिष्टुप्
 </details>

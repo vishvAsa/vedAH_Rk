@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो भ꣡गाय वाय꣡वे  
-पूष्णे꣡ पवस्व म꣡धुमान्  
-चा꣡रुर् मित्रे꣡ व꣡रुणे च
+स᳓ नो भ᳓गाय वाय᳓वे  
+पूष्णे᳓ पवस्व म᳓धुमान्  
+चा᳓रुर् मित्रे᳓ व᳓रुणे च
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। मधुमान्- मधुरः सन्। चारुः- सुन्दरः सन्। नः- अस्माकम्। भगाय-  सौभाग्याधिदैवताय। वायवे- प्राणाधिदैवताय। पूष्णे- पोषकायात्मसूर्याय। मित्रे- स्नेहाधिदैवते।  वरुणे च- ऋताधिदैवते च। पवस्व- क्षर॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मधुमान्** मधुररसः **चारुः** कल्याणस्वरूपश्च **सः** अभिषुतस्त्वं **नः** अस्माकं यज्ञे **भगाय** भगाख्याय देवाय **वायवे** च **पूष्णे** च **मित्रे** मित्राय देवाय **वरुणे** वरुणाय **च** **पवस्व** क्षर ॥
@@ -166,7 +169,7 @@ _________
 
 Purify yourself for us, honeyed for Bhaga, for Vāyu, for Pūṣan,  
 dear to Mitra and Varuṇa.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
@@ -199,8 +202,6 @@ So ströme unserm Bhaga nun, dem Vaju, Puschan honigreich, Dem Varuna und Mitra 
 Для Бхаги, Ваю, Пушана,  
 Милым для Митры и Варуны!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

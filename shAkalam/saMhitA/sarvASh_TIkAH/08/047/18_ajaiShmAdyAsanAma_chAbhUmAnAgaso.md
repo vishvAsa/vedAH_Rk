@@ -3,7 +3,6 @@ title = "018"
 devataa = "आदित्या उषाश्च"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,15 +11,14 @@ ChandaH = "महापङ्क्तिः"
 - छन्दः - महापङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡जैष्माद्या꣡सनाम च  
-अ꣡भूमा꣡नागसो वय꣡म्  
-उ꣡षो य꣡स्माद् दुष्व꣡प्नियाद्  
-अ꣡भैष्मा꣡प त꣡द् उछतु  
-अनेह꣡सो व ऊत꣡यः  
-सुऊत꣡यो व ऊत꣡यः
+अ᳓जैष्माद्या᳓सनाम च  
+अ᳓भूमा᳓नागसो वय᳓म्  
+उ᳓षो य᳓स्माद् दुष्व᳓प्नियाद्  
+अ᳓भैष्मा᳓प त᳓द् उछतु  
+अनेह᳓सो व ऊत᳓यः  
+सुऊत᳓यो व ऊत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -31,12 +29,12 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 adyá ← adyá (invariable)  
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अजैष्म- जयेम। अद्य- इदानीम्। असनाम- सम्भजेम। वयम्। अनागसः-  दुःस्वप्नकारणभूतदुर्वासनारहिताः। अभूम- भवेम। उषः। यस्मात्। दुष्ष्वप्न्त्यात्। अभैष्म- भयं  प्राप्नुमः। तत्। उच्छतु- अपगच्छतु॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वयं** त्रिताः अद्य अजैष्म जयेम । **असनाम** **च** संभजेम च सुस्वप्नं सुखं वा । **अनागसः** अपापाः **अभूम** भवेम । हे **उषः** **यस्मात्** दुष्वप्न्यात् **अभैष्म** भीताः स्म **तत्** पापम् **अप** **उच्छतु** अपगच्छतु ॥ ॥ १० ॥
@@ -287,8 +290,6 @@ Wir haben jetzt gesiegt, erlangt, von Sünden sind wir jetzt befreit, o Morgenro
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

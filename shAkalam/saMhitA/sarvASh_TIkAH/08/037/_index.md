@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ For the relationship between this hymn and its twin, VIII.36, see the introducti
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३७  श्यावाश्व आत्रेयः।इन्द्रः । महापङ्क्तिः, १ अतिजगती
 </details>

@@ -3,7 +3,6 @@ title = "026"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रं हि꣡ ष्म सुते꣡षु णः  
-सो꣡मेषु इन्द्र भू꣡षसि  
-अ꣡रं ते शक्र दाव꣡ने
+अ᳓रं हि᳓ ष्म सुते᳓षु णः  
+सो᳓मेषु इन्द्र भू᳓षसि  
+अ᳓रं ते शक्र दाव᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमेषु- रसेषु। सुतेषु- निष्पन्नेषु। इन्द्र। नः- अस्मान्। अरम्- अलम्। भूषसि- प्रापय। शक्र-  शक्तिमन्। ते- तव। दावने-  दात्रे। अरम्- रसाः पर्याप्ता भवन्तु॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **सुतेषु** अभिषुतेषु **नः** अस्मदीयेषु **सोमेषु** । **हि** **ष्म** इत्यवधारणे । त्वमेव तेषां पाने अलं पर्याप्तः **भूषसि** भवसि । यद्वा। सोमेष्वभिषुतेषु सत्सु नोऽस्माकं पर्याप्तं धनं भूषसि । ‘भू प्राप्तौ । त्वं प्रापय । तथा भवति हे **शक्र** समर्थेन्द्र **दावने** धनादिकस्य दात्रे **ते** तुभ्यमस्माभिर्दीयमानाः सोमाः **अरम्** अलं पर्याप्ता भवन्तु ॥ ॥ १९ ॥
@@ -177,7 +180,7 @@ Abundantly able: bhiṣasi = bhavasi, prāpaya, bring us abundant wealth
 For fittingly you exert yourself when our soma drinks are  
 pressed, Indra,  
 fittingly for your giving, able one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
@@ -206,10 +209,6 @@ Denn du machst dich bereit für unseren ausgepreßten Soma, Indra; wir sind bere
 
 Denn passend, Indra, mühst du dich für uns bei dem gebrauten Trank, O Indra, deiner Gab' gemäss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

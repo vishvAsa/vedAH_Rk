@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,4 +25,10 @@ See the remarks on the previous hymn, as well as I.15.7–10. In that latter hym
 <details><summary>Jamison Brereton Notes</summary>
 
 Ṛtugraha
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३७  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।ऋतुदेवताः १-४ द्रविणोदा ऋतवश्च, ५ अश्विनौ  ऋतवश्च, ६ अग्निः ऋतुश्च। जगती
 </details>

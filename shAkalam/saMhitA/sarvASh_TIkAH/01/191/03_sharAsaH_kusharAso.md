@@ -3,7 +3,6 @@ title = "003"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शरा꣡सः कु꣡शरासो  
-दर्भा꣡सः सैरिया꣡ उत꣡  
-मौञ्जा꣡ अदृ꣡ष्टा वैरिणाः꣡  
-स꣡र्वे साकं꣡ न्य् अ᳡लिप्सत
+शरा᳓सः कु᳓शरासो  
+दर्भा᳓सः सैरिया᳓ उत᳓  
+मौञ्जा᳓ अदृ᳓ष्टा वैरिणाः᳓  
+स᳓र्वे साकं᳓ न्य् अ᳡लिप्सत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 kúśarāsaḥ ← kúśara- (nominal stem)  
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शरासः। कुशरासः। दर्भासः। सैर्याः- तटाकादिप्रान्तोद्भवाः। उत- अपि च। मौञ्जाः। वैरिणाः-  वीरणप्रकाराः। अदृष्टाः- अदर्शनं प्राप्ताश्च। सर्वे- सर्वे तृणविशेषाः। साकम्- मिलित्वा। नि-  नितराम्। अलिप्सत- लिम्पन्ति। अयं सर्वो भौमभोगप्रतीकः। अत्यन्तभौमभोगरतिर्मां  लिम्पति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अन्यांश्च विषहेतूनाह । **शरासः** शरा वेणुदण्डसदृशा अन्तश्छिद्रास्तृणविशेषाः । **कुशरासः** कुत्सितशराः अन्तश्छिद्राः शरसदृशास्तृणविशेषाः । **दर्भासः** दर्भाः कुशाः । **सैर्याः** तटाकादिप्रान्तोद्भवास्तृणविशेषा अश्ववाला इति प्रसिद्धाः। **मौञ्जाः** मुञ्जाः प्रसिद्धाः । वैरिणाः वीरणप्रकाराः। एतेषु वर्तमानाः अदृष्टाः उक्तरूपाः **सर्वे** विषधराः **साकं** मिलित्वा **न्यलिप्सत** निलिम्पन्ति स्म ॥
@@ -209,8 +212,6 @@ Das unbemerkte Gewürm, was auf Schilf und Schilfgestrüpp, auf Gräsern und Bin
 Невидимые, связанные с (травой) мунджа, вирина –  
 Все они вместе замазаны.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

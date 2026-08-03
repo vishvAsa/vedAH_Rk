@@ -3,7 +3,6 @@ title = "010"
 devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यमा꣡द् अहं꣡ वैवस्वता꣡त्  
-सुब꣡न्धोर् म꣡न आ꣡भरम्  
-जीवा꣡तवे न꣡ मृत्य꣡वे  
-अ꣡थो अरिष्ट꣡तातये
+यमा᳓द् अहं᳓ वैवस्वता᳓त्  
+सुब᳓न्धोर् म᳓न आ᳓भरम्  
+जीवा᳓तवे न᳓ मृत्य᳓वे  
+अ᳓थो अरिष्ट᳓तातये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्मात्। वैवस्वतात्- यमान्नियमाधिदैवतात्। अहम्। सुबन्धोः- मम शोभनबन्धोः। मनः।  आभरम्- आहरम्। जीवातवे न मृत्यवेथो अरिष्टतातये॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयं निगदसिद्धा॥१०॥
@@ -195,8 +198,6 @@ Von Jama, des Vivasvat Sohn bracht' ich des Freundes Geist herbei, Zum Leben, da
 Для жизни, не для смерти.  
 А также для невредимости.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

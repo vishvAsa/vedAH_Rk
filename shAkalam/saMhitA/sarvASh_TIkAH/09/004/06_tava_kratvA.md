@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व क्र꣡त्वा त꣡वोति꣡भिर्  
-जियो꣡क् पश्येम सू꣡रियम्  
-अ꣡था नो व꣡स्यसस् कृधि
+त᳓व क्र᳓त्वा त᳓वोति᳓भिर्  
+जियो᳓क् पश्येम सू᳓रियम्  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    तव क्रत्वा तवोतिभिः। ज्योक्- चिरम्। सूर्यं- आत्मचैतन्यम्। पश्येम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तव** **क्रत्वा** प्रज्ञानेन **तव** **ऊतिभिः** रक्षाभिश्च **ज्योक्** चिरं **पश्येम** **सूर्यम्** । पश्याम द्रक्ष्यामः । सिद्धमन्यत् ॥
@@ -172,7 +175,7 @@ _________
 Through your resolve and your help might we see the sun for a  
 long time.  
 – Then make us better off.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/004/05-06.md">
@@ -206,8 +209,6 @@ Durch deine Kraft und deine Gunst lass lange uns die Sonne sehn Und mach' uns re
 Пусть мы долго будем видеть солнце –  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

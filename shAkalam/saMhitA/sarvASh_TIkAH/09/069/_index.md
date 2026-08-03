@@ -1,6 +1,5 @@
 +++
 title = "+069"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+069"
 <details><summary>Jamison Brereton</summary>
 
 69 (781)  
-Soma Pavamāna  
+Soma Pavamāna  
 Hiraṇyastūpa Āṅgirasa  
 10 verses: jagatī, except triṣṭubh 10  
 Attributed to the same poet as the author of the famous Indra hymn I.32 (and  indeed I.31–35, as well as IX.4), this hymn is dense with ever-shifting imagery,  expressed in many forms: similes, metaphors, identifications. Sometimes several ref erents are simultaneously possible, as in verse 1, where both “thought” and “soma”  could be the subject of the middle part of the verse. This verbal richness is quite  appropriate, since at least the first two verses concern the poetic impulse; note the  nice description of the tongue as “the gladdening goad” in 2b.  
@@ -33,4 +32,10 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 The theme of these three hymns, particularly insistent in the first and last, is the difference between and ultimate unity of earthly and heavenly Soma.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६९  हिरण्यस्तूप आङ्गिरसः।पवमानः सोमः। जगती, ९-१० त्रिष्टुप्
 </details>

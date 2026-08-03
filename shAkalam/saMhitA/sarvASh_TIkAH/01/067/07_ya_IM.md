@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ईं चिके꣡त गु꣡हा भ꣡वन्तम्  
-आ꣡ यः꣡ ससा꣡द धा꣡राम् ऋत꣡स्य
+य᳓ ईं चिके᳓त गु᳓हा भ᳓वन्तम्  
+आ᳓ यः᳓ ससा᳓द धा᳓राम् ऋत᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ _________
 
 He who perceives him gone into hiding,  
 and who has taken his seat at the stream of truth—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">

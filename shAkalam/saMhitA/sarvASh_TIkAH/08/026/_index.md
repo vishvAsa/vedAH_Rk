@@ -1,6 +1,5 @@
 +++
 title = "+026"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+026"
 <details><summary>Jamison Brereton</summary>
 
 26 (646)  
-Aśvins (1–19), Vāyu (20–25)  
+Aśvins (1–19), Vāyu (20–25)  
 Viśvamanas Vaiyaśva or Vyaśva Āṅgirasa  
 25 verses: uṣṇih, except gāyatrī 16–19, 21, 25 and anuṣṭubh 20, arranged in trcas, with ̥ an extra verse, 19, at the end of the Aśvin sequence  
 A long and rather repetitive hymn. The first nineteen verses are dedicated to the Aśvins  and, as usual, urge them to drive their chariot to our sacrifice and to give us goods in  return. There is little novel to capture the audience; the most striking image is found in  verse 13: the unnamed god Agni, dressed in sacrifices like a bride in her wedding finery.  
@@ -21,4 +20,10 @@ The final six verses belong to Vāyu, deified Wind, another god associated with 
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins and Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२६  विश्वमना वैयश्वः, व्यश्वो वाङ्गिरसः।अश्विनौ, २०-२५ वायुः। उष्णिक्, १६-१९, २१, २५ गायत्री, २०  अनुष्टुप् ।
 </details>

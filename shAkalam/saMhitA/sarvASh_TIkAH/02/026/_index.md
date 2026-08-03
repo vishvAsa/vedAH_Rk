@@ -1,6 +1,5 @@
 +++
 title = "+026"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+026"
 <details><summary>Jamison Brereton</summary>
 
 26 (217)  
-Brahmaṇaspati  
+Brahmaṇaspati  
 Gr̥tsamada  
 4 verses: jagatī  
 The subject of this hymn is very similar to that of the preceding (II.25)—the ways  in which a mortal favored by Brahmaṇaspati will prosper—and the same phrase  “he will win against those who seek to win” (vanavad vanuṣyatáḥ) found in the first  pāda of each hymn signals their relationship. However, II.26 lacks the refrain found  in II.25, and it also varies the 3rd-person description of the favored mortal with a  2nd-person address to the same mortal in verse 2. The series of abrupt imperatives  in that verse enlivens the hymn.  
@@ -21,4 +20,10 @@ Unlike II.25, where the importance of ritual activity is established in the firs
 <details><summary>Jamison Brereton Notes</summary>
 
 Brahmaṇaspati
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२६  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।ब्रह्मणस्पतिः। जगती ।
 </details>

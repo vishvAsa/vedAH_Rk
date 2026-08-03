@@ -1,6 +1,5 @@
 +++
 title = "+110"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The R̥bhus are originally mortal craftsmen who achieved immortality because of 
 <details><summary>Jamison Brereton Notes</summary>
 
 Ṛbhus
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+११०   कुत्स आङ्गिरसः। ऋभवः।  जगती, ५, ९ त्रिष्टुप्।
 </details>

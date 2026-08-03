@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ जागा꣡र त꣡म् ऋ꣡चः कामयन्ते  
-यो꣡ जागा꣡र त꣡म् उ सा꣡मानि यन्ति  
-यो꣡ जागा꣡र त꣡म् अयं꣡ सो꣡म आह  
-त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः
+यो᳓ जागा᳓र त᳓म् ऋ᳓चः कामयन्ते  
+यो᳓ जागा᳓र त᳓म् उ सा᳓मानि यन्ति  
+यो᳓ जागा᳓र त᳓म् अयं᳓ सो᳓म आह  
+त᳓वाह᳓म् अस्मि सखिये᳓ नि᳓ओकाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -253,6 +251,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। जागार- जागरणशीलः। तम्। ऋचः। कामयन्ते- इच्छन्ति। यः। जागार- जागरणशीलः।  तम्। सामानि। यन्ति- अभिसरन्ति। यः। जागार- जागरणशीलः। तम्। सख्ये- मैत्र्याम्। तव-  ते। अहम्। अस्मि- भवामि। इति। न्योकाः- शरण्यः। सोमः। आह- अवदत्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** देवः **जागार** सर्वदा विनिद्रो जागरूको गृहे वर्तते **तम्** **ऋचः** सर्वशास्त्रात्मिकाः **कामयन्ते** । **यः** च **जागार** **तमु** तमेव **सामानि** स्तोत्ररूपाणि **यन्ति** प्राप्नुवन्ति । **यो** **जागार** **तमयम्** अभिषुतः **सोमः** **आह** वक्ति मां स्वीकुर्विति । हे अग्ने तादृशस्य **तव** **सख्ये** समानख्याने हितकरणे **न्योकाः** नियतस्थानः **अहम्** **अस्मि** भवामि ॥
@@ -271,7 +274,7 @@ _________
 Who stays awake, him the verses desire; who stays awake, to him go the  melodies.  
 Who stays awake, to him does this Soma say: “I am at home in  
 fellowship with you.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/044/14-15.md">
@@ -308,8 +311,6 @@ Wer wachsam ist, den lieben die Gebete, wer wachsam ist, dem strömen zu die Lie
 Кто бодрствует, тому сказал этот сома:  
 В дружбе с тобой я, как дома.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

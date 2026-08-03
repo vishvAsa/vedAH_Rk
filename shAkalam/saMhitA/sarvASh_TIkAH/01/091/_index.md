@@ -1,6 +1,5 @@
 +++
 title = "+091"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,4 +25,10 @@ fication process proper, it is hardly mentioned in the IXth Maṇḍala (twice i
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९१   गोतमो राहूगणः। सोमः।  त्रिष्टुप्, ५-१६ गायत्री, १७ उष्णिक्
 </details>

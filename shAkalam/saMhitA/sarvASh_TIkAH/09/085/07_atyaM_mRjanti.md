@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्यम् मृजन्ति कल꣡शे द꣡श क्षि꣡पः  
-प्र꣡ वि꣡प्राणाम् मत꣡यो वा꣡च ईरते  
-प꣡वमाना अभि꣡ अर्षन्ति सुष्टुति꣡म्  
-ए꣡न्द्रं विशन्ति मदिरा꣡स इ꣡न्दवः
+अ᳓त्यम् मृजन्ति कल᳓शे द᳓श क्षि᳓पः  
+प्र᳓ वि᳓प्राणाम् मत᳓यो वा᳓च ईरते  
+प᳓वमाना अभि᳓ अर्षन्ति सुष्टुति᳓म्  
+ए᳓न्द्रं विशन्ति मदिरा᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दश क्षिपः- दशदिग्वर्तिन्य आपो मूलशक्तिधाराः। दशाङ्गुळ्युपलक्षितशोभनकर्माणो वा। अत्यम्-  तुरगमिव स्थितम्। कलशे- भाजने प्रतीके। मृजन्ति- शोधयन्ति। विप्राणाम्- मेधाविनाम्।  मतयः। वाचः- मन्त्रान्। प्र ईरते- प्रेरयन्ति। सुष्टुतिम्- शोभनस्तुतियोग्यम्। इन्द्रम्- परमेश्वरम्।  पवमानाः- पुनाना रसाः। अभ्यर्षन्ति- अभिसरन्ति। मदिरासः- तर्पकाः। इन्दवः- क्लेदनशीला  रसाः। आ विशन्ति- प्रविशन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अत्यम्** अतनवन्तमश्वस्थानीयं वा सोमं **कलशे** **दश** **क्षिपः** दशाङ्गुलयोऽध्वर्युसंबन्धिन्यः **मृजन्ति** शोधयन्ति । तथा **विप्राणां** मध्ये **मतयः** स्तोतारः **वाचः** स्तुतीः **ईरते** प्रेरयन्ति । **पवमानाः** सोमाः **अभ्यर्षन्ति** अभिगच्छन्ति **सुष्टुतिं** शोभनस्तुतिम् । **इन्द्रं** **मदिरासः** मदकराः **इन्दवः** सोमाः **आ** **विशन्ति** प्रविशन्ति ॥
@@ -241,7 +244,7 @@ _________
 The ten fingers groom the steed in the tub. The thoughts, the words of  the inspired poets press forward.  
 Purifying themselves, they rush to the lovely praise hymn. The  
 exhilarating drops enter Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
@@ -276,8 +279,6 @@ Zehn Finger striegeln in dem Krug das schnelle Ross; der Sänger Lieder und Gebe
 Паваманы текут навстречу прекрасной хвале.  
 Пьянящие капли входят в Индру.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

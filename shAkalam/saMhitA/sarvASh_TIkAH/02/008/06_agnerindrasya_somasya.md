@@ -3,7 +3,6 @@ title = "006"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अग्ने꣡र् इ꣡न्द्रस्य सो꣡मस्य  
-देवा꣡नाम् ऊति꣡भिर् वय꣡म्  
-अ꣡रिष्यन्तः सचेमहि  
-अभि꣡ ष्याम पृतन्यतः꣡
+अग्ने᳓र् इ᳓न्द्रस्य सो᳓मस्य  
+देवा᳓नाम् ऊति᳓भिर् वय᳓म्  
+अ᳓रिष्यन्तः सचेमहि  
+अभि᳓ ष्याम पृतन्यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)  
-genre D;; epic anuṣṭubh (424)
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)  
+genre D;; epic anuṣṭubh (424)
 _________
 **Morph**  
 agnéḥ ← agní- (nominal stem)  
@@ -157,6 +155,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नेः- पावकस्य क्रतोः। इन्द्रस्य- ईशनाधिदैवतस्य। सोमस्य- रसाधिदैवतस्य। देवानाम्-  अन्येषां वरुणादिदेवानाम्। ऊतिभिः- रक्षाभिः। वयम्। अरिष्यन्तः- अहिंसिताः। सचेमहि-  सङ्गच्छेम। पृतन्यतः- अस्माभिर्युद्धकामान्। अभि स्याम- अभिभवेम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अरिष्यन्तः केनाप्यहिंस्यमानावयं अग्नेरिन्द्रस्यसोमस्यदेवानामन्येषामपिऊतिभीरक्षाभिः सचे- महि सङ्गच्छेमहि युक्ताभवेम तथारक्षायुक्तावयम्पृतन्यतः पृतनामात्मनइच्छन्तः शत्रूनभिष्याम अभिभवेम पृतनाशब्दात्क्यचि कव्यध्वरपृतनस्यर्चिलोपइत्यवर्णलोपः ॥ ६ ॥वेदार्थस्यप्रकाशे नतमोहार्दन्निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेणसायणा- चार्येणविरचितेमाधवीयेवेदार्थप्रकाशेऋक् संहिताभाष्येद्वितीयाष्टकेपञ्चमोध्यायः ॥ ५ ॥
@@ -174,7 +177,7 @@ _________
 
 May we be accompanied by the help of Agni, of Indra, of Soma, of (all)  the gods—  
 not suffering harm. May we surmount those who do battle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
@@ -215,8 +218,6 @@ Wir mögen durch der Götter Huld des Agni, Indra, Soma Gunst, Gedeihen unbesch�
 Индры, Сомы (и других) богов!  
 Да одержим мы верх над борющимися (с нами)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम क्र꣡त्वे द꣡क्षाय  
-अ꣡श्वो न꣡ निक्तो꣡ वाजी꣡ ध꣡नाय
+प᳓वस्व सोम क्र᳓त्वे द᳓क्षाय  
+अ᳓श्वो न᳓ निक्तो᳓ वाजी᳓ ध᳓नाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। क्रत्वे- सङ्कल्पाय। दक्षाय- सामर्थ्याय। धनाय- संपदे। वाजी- गतियुक्तः। अश्वो न  निक्तः- तुरग इव निर्निक्तः। पवस्व- क्षर॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **अश्वो** **न** अश्व इव **निक्तः** वसतीवरीभिरद्भिर्निक्त:२ **वाजी** वेगवांस्त्वं **क्रत्वे** क्रतवे प्रज्ञानाय **दक्षाय** बलाय **धनाय** धनार्थं च **पवस्व** क्षर ॥ ॥ २० ॥
@@ -141,7 +144,7 @@ _________
 
 Purify yourself, Soma, for will and skill, washed down like a  
 prizewinning horse for the stake.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
@@ -172,8 +175,6 @@ Hell riesle, Soma, – zu Kraft und Stärke, wie's Ross zum Kampfpreis – das s
 Очищайся, о сома, для силы духа (и) силы действия,  
 Вымытый, словно конь-победитель, – для (захвата) ставки!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

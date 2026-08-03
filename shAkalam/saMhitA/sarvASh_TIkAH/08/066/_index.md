@@ -1,6 +1,5 @@
 +++
 title = "+066"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The invitation to Indra to the soma sacrifice is the primary theme of the hymn. 
 ous occurrences of “many” in this hymn.  
 Interspersed are verses celebrating Indra’s power and his aid to his worshipers  (vss. 2–4, 9–10). Not all of this praise is entirely clear, especially that in 3ab, where  Indra is identified with two hapaxes, our translations of which are quite provisional.  In the final pragātha (vss. 13–14) the poet makes his strongest plea for Indra’s help.  The final verse (15), in a different meter as noted, is puzzling. It reassures an oth  
 erwise unknown group of people, the Kalis, that if they press soma, whatever is  threatening them will disappear.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६६  कलिः प्रागाथः।इन्द्रः। प्रगाथः - (विषमा बृहती, समा सतोबृहती), १५ अनुष्टुप्।
 </details>

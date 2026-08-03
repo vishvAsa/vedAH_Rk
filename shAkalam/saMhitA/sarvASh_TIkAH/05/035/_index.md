@@ -1,6 +1,5 @@
 +++
 title = "+035"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A simple hymn calling on Indra for help, the word that provides the outer skelet
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३५  प्रभूवसुराङ्गिरसः।इन्द्रः। अनुष्टुप्,८ पङ्क्तिः।
 </details>

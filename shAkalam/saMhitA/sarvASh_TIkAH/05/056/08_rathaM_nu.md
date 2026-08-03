@@ -3,7 +3,6 @@ title = "008"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-र꣡थं नु꣡ मा꣡रुतं वयं꣡  
-श्रवस्यु꣡म् आ꣡ हुवामहे  
-आ꣡ य꣡स्मिन् तस्थउ꣡ सुर꣡णानि बि꣡भ्रती  
-स꣡चा मरु꣡त्सु रोदसी꣡
+र᳓थं नु᳓ मा᳓रुतं वयं᳓  
+श्रवस्यु᳓म् आ᳓ हुवामहे  
+आ᳓ य᳓स्मिन् तस्थउ᳓ सुर᳓णानि बि᳓भ्रती  
+स᳓चा मरु᳓त्सु रोदसी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यस्मिन्। सुरणानि- उदकानि। मरुत्सु। बिभ्रती- धारयन्ती। रोदसी- विद्युन्मयी  शक्तिर्मरुत्पत्नीभूता रोदसी। आ तस्थौ। तम्। रथम्। मारुतम्- मरुद्गणसम्बन्धिनम्। श्रवस्युम्-  श्रुतिकामम्। वयम्। नु- क्षिप्रम्। हुवामहे- आह्वयामः॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वयम्** आत्रेयाः **रथं** रंहणस्वभावं **मारुतं** मरुतां संबन्धिनं रथं **श्रवस्युम्** अन्नेच्छुं **नु** अद्य **आ** **हुवामहे** आह्वयामः । **यस्मिन्** रथे **सुरणानि** जलानि **बिभ्रती** धारयन्ती **रोदसी** रुद्रस्य पत्नी मरुतां माता । यद्वा रुद्रो वायुः । तत्पत्नी माध्यमिका देवी **मरुत्सु** **सचा** सहिता **आ** **तस्थौ** आस्थितवती तं रथमाहुवे ॥
@@ -206,7 +209,7 @@ Rodasi = wife of **Rudra**, and the mother of the Maruts
 
 The Marutian chariot, seeking fame, do we now call here,  
 on which there stands, bearing great delights, Rodasī in company with  the Maruts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
@@ -245,8 +248,6 @@ Den Marut-Wagen rufen wir den hochberühmten nun herbei, Auf welchem stand Genü
 На которую взошла вместе с Марутами  
 Родаси, несущая радости.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

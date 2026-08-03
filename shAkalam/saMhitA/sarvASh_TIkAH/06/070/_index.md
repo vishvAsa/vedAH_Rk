@@ -1,6 +1,5 @@
 +++
 title = "+070"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ ments, the physical qualities of the two divinities are barely mentioned; it is 
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth Renou XVP.121ff.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७०  बार्हस्पत्यो भरद्वाजः।द्यावापृथिवी। जगती।
 </details>

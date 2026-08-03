@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा नृम्णा꣡नि बि꣡भ्रतं  
-सध꣡स्थेषु महो꣡ दिवः꣡  
-चा꣡रुं सुकृत्य꣡येमहे
+तं᳓ त्वा नृम्णा᳓नि बि᳓भ्रतं  
+सध᳓स्थेषु महो᳓ दिवः᳓  
+चा᳓रुं सुकृत्य᳓येमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नृम्णानि- वीर्याणि। बिभ्रतम्- धरन्तम्। महो दिवः सधस्थेषु- चित्ताकाशसदनेषु। तम्- तादृशम्।  त्वाम्- भवन्तम्। चारुम्- सुन्दरम्। सुकृत्यया- शोभनकर्मणा। ईमहे- याचामहे॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **महः** **दिवः** महतो द्युलोकस्य **सधस्थेषु** सहस्थानेषु स्थितं **नृम्णानि** धनानि **बिभ्रतम्** अस्मदर्थं धारयन्तं **चारुं** कल्याणं **तं** पवमानं **त्वा** त्वां **सुकृत्यया** शोभनया क्रियया **ईमहे** धनानि याचामहे ॥
@@ -186,10 +189,6 @@ Dir da, der die Manneskräfte bringt an den Stätten des hohen Himmels, dem Beli
 
 Dich, der du Manneskräfte hegst in des erhabnen Himmeis Sitz, Den theuren flehn durch Opfer wir.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

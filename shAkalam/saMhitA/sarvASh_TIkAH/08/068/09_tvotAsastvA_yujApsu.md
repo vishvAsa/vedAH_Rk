@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवो꣡तासस् तुवा꣡ युजा꣡  
-अप्सु꣡ सू꣡र्ये मह꣡द् ध꣡नम्  
-ज꣡येम पृत्सु꣡ वज्रिवः
+तुवो᳓तासस् तुवा᳓ युजा᳓  
+अप्सु᳓ सू᳓र्ये मह᳓द् ध᳓नम्  
+ज᳓येम पृत्सु᳓ वज्रिवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वज्रिवः- वज्रिन्। पृत्सु- आवरणैर्जनितेषु युद्धेषु। त्वोतासः- त्वद्रक्षिताः। त्वा युजा- त्वद्योगेन।  अप्सु- मूलशक्तिधारासु। सूर्ये- आत्मसूर्ये। महत्- महती। धनम्- या सम्पदस्ति ताम्।  जयेम॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **त्वोतासः** त्वया रक्षिताः **त्वा** त्वया **युजा** सहायेन **अप्सु** स्नातुं सूर्यं द्रष्टुं च । स्नानादिव्यवहारं कर्तुं **सूर्ये** उदिते सति गमनादिव्यवहारं कर्तुमित्यर्थः। तदर्थ **पृत्सु** संग्रामेषु हे **वज्रिवः** वज्रवन्निन्द्र **महद्धनं** **जयेम** । शत्रून् संग्रामे जित्वा तेषां धनं लभेमेत्यर्थः ॥
@@ -176,10 +179,6 @@ Von dir begünstigt, mit dir im Bunde wollen wir im Kampfe um Wasser, um die Son
 
 Von dir beschützt, mit dir vereint, wird grosser Preis in Kämpfen uns Um Licht und Wasser, Blitzender!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

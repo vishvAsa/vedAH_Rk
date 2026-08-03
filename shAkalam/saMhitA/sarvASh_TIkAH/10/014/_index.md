@@ -1,6 +1,5 @@
 +++
 title = "+014"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The last four verses (13–16) are in dimeter meter (save for 15c), instead of t
 ents us with six broad feminine entities and one lofty neuter one. (The contrasting  grammatical genders so obvious in the Sanskrit are not easily rendered in transla tion.) The six broad feminines are generally considered to be worlds or realms (on  the basis of VI.47.3, which, however, doesn’t have an overt referent either), and the  lofty neuter some other superior type of space. Given the extreme uncertainty of  the referents, the syntax (should pāda b be construed with pāda a, or with cd, or,  as we have done, connected neither to what precedes nor what follows?), and the  reason for the presence of this verse as the finale of this hymn, we have chosen to  leave the meaning open.
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४  वैवस्वतो यमः। यमः, ६ पित्रथर्वभृगुसोमाः, ७-९ लिङ्गोक्तदेवताः, पितरो वा, १०-१२ श्वानौ। त्रिष्टुप्, १३,  १४, १६ अनुष्टुप्, १५ बृहती
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+002"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+002"
 <details><summary>Jamison Brereton</summary>
 
 2 (714)  
-Soma Pavamāna  
+Soma Pavamāna  
 Medhātithi Kāṇva  
 10 verses: gāyatrī  
 Medhātithi Kāṇva is the named poet of several hymns in the first half of Maṇḍala  VIII (2–3, 32), with its predominantly Kāṇva authorship—but more to the point  also of the second division of Maṇḍala I (I.12–23). So, just as the first hymn of IX  is ascribed to the poet of the first hymns of Maṇḍala I, the second hymn of IX is  said to have been composed by the poet of the second collection in I.  
@@ -23,4 +22,10 @@ There is nothing particularly noteworthy or out of the ordinary in this hymn,  w
 <details><summary>Jamison Brereton Notes</summary>
 
 For the sequence of ideas and actions in this hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २  मेधातिथिः काण्वः।पवमानः सोमः। गायत्री
 </details>

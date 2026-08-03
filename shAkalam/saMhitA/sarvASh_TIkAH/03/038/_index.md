@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -33,4 +32,10 @@ In verse 7a we return to the androgynous Ur-creator, now explicitly identified a
 Indra In addition to the usual tr., it is worth consulting Renou’s alternative tr. in his Hymnes spéculatifs (29-31 + nn.), in addition to his later one in EVP XVII.
 
 My interpr. both in detail and in overall outline differs significantly from others, but it is internally consistent and attempts to fit the many puzzling details into an overall schema. That this sometimes requires making interpretive leaps is a price I’m willing to pay. I lay out and support my choices in the comments on individual vss., though I do not chart every deviation from the various other tr. and defend them against those tr.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३८  गाथिनो विश्वामित्रः,  प्रजापतिर्वाच्यो वा, तावुभावपि वा गाथिनो विश्वामित्रो वा। ।  इन्द्रः । त्रिष्टुप् ।
 </details>

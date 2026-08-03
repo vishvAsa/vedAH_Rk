@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा को꣡शम् मधुश्चु꣡तम्  
-अ꣡सृग्रं वा꣡रे अव्य꣡ये  
-अ꣡वावशन्त धीत꣡यः
+अ᳓छा को᳓शम् मधुश्चु᳓तम्  
+अ᳓सृग्रं वा᳓रे अव्य᳓ये  
+अ᳓वावशन्त धीत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कोशम्- प्रतीकम्। अच्छा- अभिलक्ष्य। वारे- श्रेष्ठे। अव्यये- रक्षामये भाजने प्रतीके। मधुश्चुतम्-  माधुर्यश्रावकं रसम्। असृग्रम्- सृज्यन्ते। धीतयः- धियः। अवावशन्त- त्वां कामयन्ते॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 धारानिर्गमनप्रसङ्गादभिधीयते । **मधुश्चुतं** मधुररसस्य च्यावयितारं क्षारयितारं **कोशं** द्रोणकलशम् **अच्छ** अभिलक्ष्य **अव्यये** अविमये अविस्वभूते वा **वारे** वाले दशापवित्रे **असृग्रं** सोमा ऋत्विग्भिः सृज्यन्ते । सृजेः कर्मणि तिङां तिङो भवन्ति' इति झो रमादेशः। किंच **धीतयः** । अङ्गुलिनामैतत् । धयन्ति पिबन्त्याभिरिति । अस्मदीया अङ्गुलयः **अवावशन्त** तान् सोमान् पुनःपुनर्मार्जनार्थं कामयन्ते ॥
@@ -140,7 +143,7 @@ I.e., our fingers desire the **Soma** juices in order to cleanse them again and 
 
 Toward the cask dripping with honey they have surged onto the sheep’s  fleece.  
 The insightful thoughts have bellowed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
@@ -167,10 +170,6 @@ Nach der von Süßigkeit überfließenden Kufe sind sie auf das Schafhaar losgel
 
 Ergossen durch des Widders Haar zur honigreichen Kufe hin, Und die Gebete schollen laut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+086"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ Gotama’s penchant for elaborate and varied syntactic patterning has been noted
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts On the structure of this hymn and its syntactic patterns, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८६   गोतमो राहूगणः। मरुतः। गायत्री
 </details>

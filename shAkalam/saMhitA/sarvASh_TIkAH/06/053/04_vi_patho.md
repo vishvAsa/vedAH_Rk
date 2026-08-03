@@ -3,7 +3,6 @@ title = "004"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ पथो꣡ वा꣡जसातये  
-चिनुहि꣡ वि꣡ मृ꣡धो जहि  
-सा꣡धन्ताम् उग्र नो धि꣡यः
+वि᳓ पथो᳓ वा᳓जसातये  
+चिनुहि᳓ वि᳓ मृ᳓धो जहि  
+सा᳓धन्ताम् उग्र नो धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वाजसातये- सम्पल्लब्धये। पथः- मार्गान्। वि- विशेषेण। चिनुहि- शोधय। मृधः- शत्रून्। वि-  विशेषेण। जहि- बाधस्व। उग्र- उद्गूर्ण। नः- अस्माकम्। धियः। साधन्ताम्- सफलाः कुरु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उग्र** उद्गूर्णबल पूषन् **पथः** मार्गान् **वाजसातये** अन्नलाभाय **वि** **चिनुहि** । शोधितान् कुरु । यैः पथिभिर्गता धनं लभेमहि तादृशान् पथः पृथक्कुर्वित्यर्थः। **मृधः** बाधकानू तस्करादींश्च **वि** **जहि** बाधस्व । तथा **नः** अस्माकं **धियः** कर्माणि अन्नलाभार्थं क्रियमाणानि **साधन्तां** सिध्यन्तु । सफलानि भवन्तु ॥
@@ -170,7 +173,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Clear out the paths for prize-winning; smash away the negligent. Let our poetic visions reach their goal, o strong one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
@@ -203,8 +206,6 @@ Zur Guterringung bahne uns die Pfade, tilg die Feinde aus, Erfüll, o starker, u
 Рас(сей) врагов (и) разбей их!  
 Пусть наши молитвы достигнут цели, о грозный!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

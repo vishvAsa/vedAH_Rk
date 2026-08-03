@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ चित्तो꣡ विपा꣡न꣡या  
-ह꣡रिः पवस्व धा꣡रया  
-यु꣡जं वा꣡जेषु चोदय
+अया᳓ चित्तो᳓ विपा᳓न᳓या  
+ह᳓रिः पवस्व धा᳓रया  
+यु᳓जं वा᳓जेषु चोदय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अया- अनया। विपानया- प्रेरणया। विप प्रेरणे। चित्तः- ज्ञातः सन्। हरिः- आकर्षकः सन्।  धारया। पवस्व- क्षर। वाजेषु- हव्यमयेषु यज्ञेषु। युजम्- समाधिम्। युज समाधौ। चोदय-  प्रेरय॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पवमान **अया**। अय पय गतौ । कर्मार्थमितस्ततो गच्छन्तीभिरनया **विपा** । ‘विप प्रेरणे' । हवींष्यग्नौ प्रेरयन्तीति विपोऽङ्गुलयः । एकवचनं छान्दसम् । प्रत्येकविवक्षया वा । एताभिरमंदीयाभिरङ्गुलीभिः **चित्तः** ज्ञातः निर्गतोऽभिषुतः **हरिः** हरितवर्णस्त्वं धारया संततया **पवस्व** द्रोणकलशं ग्रहांश्चागच्छ त्वम्। किंच **युजं** सखायमिन्द्रं **वाजेषु** संग्रामेषु **चोदय** प्रेरय । यदा अस्माभिरिन्द्रार्थं सोमो दीयते तदा तत्पानेन हृष्टः सन् शत्रून् हन्तीत्यर्थः ॥
@@ -150,7 +153,7 @@ By these flexible fingers: ayā = from i, to go; ayā vipā anayā = itastato ga
 
 Conspicuous because of this poetic inspiration, purify yourself as  tawny one in this very stream.  
 Spur on your yokemate to the prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
@@ -177,10 +180,6 @@ An solchem Redeschwall kenntlich läutere dich, der Falbe, in solchem Strome, ma
 
 An diesem und an jenem Stab erscheinend riesle hell im Strom, Und treib dein Ross im Wettlauf an.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

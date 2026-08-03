@@ -3,7 +3,6 @@ title = "008"
 devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्या अनन्तो꣡ अ꣡ह्रुतस्  
-त्वेष꣡श् चरिष्णु꣡र् अर्णवः꣡  
-अ꣡मश् च꣡रति रो꣡रुवत्
+य᳓स्या अनन्तो᳓ अ᳓ह्रुतस्  
+त्वेष᳓श् चरिष्णु᳓र् अर्णवः᳓  
+अ᳓मश् च᳓रति रो᳓रुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्याः। अमः- बलम्। अनन्तः- अपरिमितम्। अह्रुतः- अकुटिलम्। त्वेषः- दीप्तम्। चरिष्णुः-  चरणशीलम्। अर्णवः- उदकयुक्तम्। रोरुवत्- गर्जनं कुर्वत्। चरति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्याः** सरस्वत्याः **अमः** बलम् **अनन्तः** अपर्यन्तोऽपरिमितः **अह्रुतः** अहिंसितोऽकुटिलो वा **त्वेषः** दीप्तः **चरिष्णुः** चरणशीलः । सर्वत्राप्रतिहतगतिरित्यर्थः । **अर्णवः** उदकवान् । उदकप्रद इत्यर्थः । एवंभूतः सन् **रोरुवत्** भृशं शब्दं कुर्वन् **चरति** वर्तते सा नो विश्व इत्युत्तरत्र संबन्धः ॥
@@ -149,8 +152,6 @@ her onslaught, proceeds ever roaring.
 <details><summary>Jamison Brereton Notes</summary>
 
 Like vs. 5, this middle vs. of the tṛca contains only a rel. cl., which I consider to hang off vs. 7, though it could also attach to the flg. vs. 9. Both 7 and 9 have an overt possible correlative for yásyāḥ in 8a: 7a syā́… sárasvatī, 9a sā́.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -183,8 +184,6 @@ Sie, deren starker Wogendrang ohn' Ende, ungehindert stets, Vordringend, wallend
 Опасная, подвижная, бурная  
 Стремнина мчится, громко ревя...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

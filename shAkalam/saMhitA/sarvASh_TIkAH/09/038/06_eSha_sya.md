@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ पीत꣡ये सुतो꣡  
-ह꣡रिर् अर्षति धर्णसिः꣡  
-क्र꣡न्दन् यो꣡निम् अभि꣡ प्रिय꣡म्
+एष᳓ स्य᳓ पीत᳓ये सुतो᳓  
+ह᳓रिर् अर्षति धर्णसिः᳓  
+क्र᳓न्दन् यो᳓निम् अभि᳓ प्रिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः स्यः- सोयम्। सुतः- निष्पन्नः। हरिः- आकर्षकः। धर्णसिः- धारको रसः। पीतये-  अनुभूतये। अभि प्रियम्- स्वप्रियपात्रम्। योनिम्- सदनमृतं प्रति। क्रन्दन्- शब्दयन्। अर्षति-  गच्छति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एष** **स्यः** स सोमः **पीतये** पानाय **सुतः** अभिषुतः **हरिः** हरितवर्णः **धर्णसिः** धारकः **प्रियं** स्वप्रियभूतं **योनिं** स्थानं द्रोणकलशं **क्रन्दन्** शब्दयन् **अभि** **अर्षति** गच्छति ॥ ॥ २८॥
@@ -183,10 +186,6 @@ Derselbige zum Trunke ausgepreßte Falbe rinnt ausdauernd brüllend auf seine li
 
 Und er zum Trunk erzeugt, der Hengst, der goldne, starke rennt dahin, Anwiehernd den geliebten Sitz.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

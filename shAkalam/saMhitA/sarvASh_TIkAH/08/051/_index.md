@@ -1,6 +1,5 @@
 +++
 title = "+051"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ girvaṇaḥ “o bounteous Indra who longs for songs” matched in 52.8a. As ju
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५१  श्रुष्टिगुः काण्वः।इन्द्रः । प्रगाथः (विषमा बृहती समा सतोबृहती)।
 </details>

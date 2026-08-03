@@ -1,6 +1,5 @@
 +++
 title = "+008"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The hymn is characterized throughout by chaining between verses, often not  over
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८   मधुच्छन्दा वैश्वामित्रः।  इन्द्रः। गायत्री
 </details>

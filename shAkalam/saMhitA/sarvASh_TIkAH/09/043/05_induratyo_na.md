@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् अ꣡त्यो न꣡ वाजसृ꣡त्  
-क꣡निक्रन्ति पवि꣡त्र आ꣡  
-य꣡द् अ꣡क्षार् अ꣡ति देवयुः꣡
+इ᳓न्दुर् अ᳓त्यो न᳓ वाजसृ᳓त्  
+क᳓निक्रन्ति पवि᳓त्र आ᳓  
+य᳓द् अ᳓क्षार् अ᳓ति देवयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,6 +148,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। देवयुः- देवकामः। इन्दुः- हृदयस्पर्शी रसः। पवित्रे- शोधके पात्रे प्रतीके। अति-  तदतिक्रम्य च। अक्षाः- क्षरति। तदा। आ- समन्तात्। वाजसृत् अत्यो न- युद्धाय सृष्टोऽश्व इव।  कनिक्रन्ति- शब्दमकरोत्॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयम् **इन्दुः** **वाजसृत्** संग्रामसरणः **अत्यो** **न** अश्व इव **पवित्र** **आ** पवित्रे **कनिक्रन्ति** शब्दं करोति । **यत्** यदा **अक्षाः** क्षरति । क्षर संचलने' इत्यस्माच्छान्दसे लुङि तिपि सिच् । ‘ बहुलं छन्दसि' इतीडभावः । इडभावे च ' रात्सस्य ' इति सलोपः । **देवयुः** देवकामः सन् तदा शब्दं करोति ॥
@@ -183,10 +186,6 @@ Der Saft wiehert in der Seihe wie ein um den Siegerpreis laufendes Rennpferd, we
 
 Der Indu wiehert wie ein Ross, das Preis erstrebt, zur Seihe hin, Wenn er hindurchrinnt Göttern hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡या वीरे꣡ण वीरवो  
-अभि꣡ ष्याम पृतन्यतः꣡  
-क्ष꣡रा णो अभि꣡ वा꣡रियम्
+त्व᳓या वीरे᳓ण वीरवो  
+अभि᳓ ष्याम पृतन्यतः᳓  
+क्ष᳓रा णो अभि᳓ वा᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वीरवः- वीर्यवन्। वीरेण- पराक्रमयुक्तेन। त्वया- भवता। पृतन्यतः- वृत्राणि। अभि स्याम-  अभिभवेम। नः- अस्माकम्। अभि- अभितः। वार्यं- श्रेष्ठम्। क्षर- पवस्व॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वीरवः** वीरवन् सोम **वीरेण** **त्वया** साधनेन **पृतन्यतः** संग्राममिच्छतः शत्रून् **अभि** **ष्याम** अभिभवेम । अतः **नः** अस्माकं **वार्यं** वरणीयं धनम् **अभि** **क्षर** । अभिगमयेत्यर्थः । अथवा वरणीयं सोमाख्यं धनं क्षर पवस्व ॥
@@ -175,10 +178,6 @@ Mit dir, dem Helden, du Heldenbegleiter, wollen wir die Angreifer bestehen. Flie
 
 Lass du, o heldenreicher Held, die Feinde uns bewältigen Und ström uns schönes Gut herbei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

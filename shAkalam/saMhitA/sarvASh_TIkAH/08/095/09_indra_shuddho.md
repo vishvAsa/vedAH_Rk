@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र शुद्धो꣡ हि꣡ नो रयिं꣡  
-शुद्धो꣡ र꣡त्नानि दाशु꣡षे  
-शुद्धो꣡ वृत्रा꣡णि जिघ्नसे  
-शुद्धो꣡ वा꣡जं सिषाससि
+इ᳓न्द्र शुद्धो᳓ हि᳓ नो रयिं᳓  
+शुद्धो᳓ र᳓त्नानि दाशु᳓षे  
+शुद्धो᳓ वृत्रा᳓णि जिघ्नसे  
+शुद्धो᳓ वा᳓जं सिषाससि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। शुद्धः। हि- खलु। नः- अस्मभ्यम्। रयिम्- दानयोग्यसम्पदं यच्छति। शुद्धः। रत्नानि-  हितरमणीयभावनानि। दाशुषे- दात्रे यच्छति। शुद्धः। वृत्राणि- आवरणानि। जिघ्नसे- बाधसे।  शुद्धः। वाजम्- धनम्। सिषाससि- सम्भक्तुमिच्छसि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **शुद्धः** । हिरवधारणे । शुद्ध एव त्वं **रयिं** धनं **नः** अस्मभ्यं प्रयच्छ । तथा **शुद्धः** त्वं **दाशुषे** हविर्दत्तवते यजमानाय **रत्नानि** रमणीयानि धनादीनि च देहि । ततः **शुद्धः** पापरहितस्त्वं **वृत्राणि** अपामावरकान् कर्मविघ्कारिणः शत्रून् पापानि वा **जिघ्नसे** हंसि । ततः **शुद्धः** शत्रुहननदोषपरिहारायास्मदीयैः सामभिः शस्त्रैः परिशुद्धस्त्वं **वाजम्** अन्नमस्मभ्यं **सिषाससि** प्रदातुमिच्छसि । यदा यदा शत्रूनहं हन्यां तदा तदा शुद्ध्युत्पादकैः सामभिः शस्त्रैश्च यूयं मां परिशुद्धं कुरुतेत्यस्मभ्यमन्नं दातुमिच्छसीत्यर्थः ॥ ॥ ३१ ॥
@@ -195,7 +198,7 @@ _________
 For, o Indra, cleansed, (you lay down) wealth for us, cleansed, (you lay  down) treasures for the pious man.  
 Cleansed, you keep smashing obstacles, cleansed, you seek to gain  
 the prize.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
@@ -230,8 +233,6 @@ Denn Reichthum schenkst du, reiner, uns dem Frommen Schätze, reiner du, Die Fei
 Чистым ты убиваешь врагов,  
 Чистым стремишься захватить награду.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

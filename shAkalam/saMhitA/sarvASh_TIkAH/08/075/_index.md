@@ -1,6 +1,5 @@
 +++
 title = "+075"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Agni’s role in the sacrifice and his relationship with the poet-sacrificers is
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७५  विरूप आङ्गिरसः।अग्निः। गायत्री।
 </details>

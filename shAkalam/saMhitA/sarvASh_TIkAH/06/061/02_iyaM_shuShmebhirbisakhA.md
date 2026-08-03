@@ -3,7 +3,6 @@ title = "002"
 devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ शु꣡ष्मेभिर् बिसखा꣡ इवारुजत्  
-सा꣡नु गिरीणां꣡ तविषे꣡भिर् ऊर्मि꣡भिः  
-पारावतघ्नी꣡म् अ꣡वसे सुवृक्ति꣡भिः  
-स꣡रस्वतीम् आ꣡ विवासेम धीति꣡भिः
+इयं᳓ शु᳓ष्मेभिर् बिसखा᳓ इवारुजत्  
+सा᳓नु गिरीणां᳓ तविषे᳓भिर् ऊर्मि᳓भिः  
+पारावतघ्नी᳓म् अ᳓वसे सुवृक्ति᳓भिः  
+स᳓रस्वतीम् आ᳓ विवासेम धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -196,10 +194,47 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इयम्- एषा। शुष्मेभिः- बलैः। तविषेभिः- शक्तिभिः। ऊर्मिभिः- तरङ्गैः। गिरीणां सानु-  जडप्रतीकानां पर्वतानामुच्छ्रितप्रदेशम्। बिसखा इव- बिसार्थं पङ्कं रुजतीव।  आरुजत्- बभञ्ज।  ताम्। पारावतघ्नीम्- दूरदेशस्थरिपोरपि नाशिनीम्। सरस्वतीम्- रसचोदनशीलाम्। सुवृक्तिभिः-  शोभनमन्त्रैः। धीतिभिः- अवगमनैः। आविवासेम- परिचरेम॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सरस्वती देवतारूपेण नदीरूपेण च वर्तते । देवतारूपा स्तुता । अधुनानया नदीरूपां सरस्वतीं स्तौति । **इयं** नदीरूपा सरस्वती शुष्मैः शोषकैरात्मीयैर्बलैः **तविषेभिः** महद्भिः **ऊर्मिभिः** तरङ्गैः।  **गिरीणां** पर्वतानां तीरसंबद्धानां **सानु** सानूनि **अरुजत्** भनक्ति । **बिसखाइव** । बिसं खनतीति बिसखाः । स यथा बिसार्थं पङ्कं रुजति तद्वत् । तां **सरस्वतीं** पारावतघ्नीं परावति दूरदेशे विद्यमानस्यापि वृक्षादेर्हन्त्रीं **सुवृक्तिभिः** स्तुतिभिः **धीतिभिः** कर्मभिश्च **अवसे** रक्षणार्थम् **आ** **विवासेम** परिचरेम । यद्वा । पारावतघ्नीं पारावारे परार्वाची तीरे । तयोर्घातिनीम् । उक्तं च--- ‘पारावतघ्नीं पारावारघातिनीम् ' ( निरु. २. २४) इति ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+She, like a lotus-grubbing sow with her furious attacks,  
+broke the summits of the mountains with powerful waves.  
+the slayer of the hostile distant folks for aid, with well-composed*  
+hymns we bring close sarasvatI.  
+[*literally well-plaited or well-woven]
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We take this to be the first expression in our tradition of imagery that later took a full form as the goddess vArAhI:
+
+In addition to being described as a sow, sarasvatI here conceived in a ferocious form -- 
+not only does she impetuously break down mountains  
+but in the same vein she is called the slayer of foreign foes. 
+
+In this sense she closely mirrors vArAhI who is called upon in her famous tAntrika incantation to strike the evil doers.  
+
+Notably, in the one of the foundational reflexes of the mAtR^ikA myth, vArAhI is seen as an emanation of mahAsaravatI and pulverizes the daitya-s with her snout and tusks much like the account of sarasvatI in the above incantation. 
+
+Indeed, in our syncretic lineage this R^ik is taken to be the vaidika mantra of vArAhI. Interestingly, in the AShTamAtR^ikA-pUjA the gAyatrI for the arghya to vArAhI goes thus:
+
+> OM prAjApatyAyai vidmahe |  
+> gadAhastAyai dhImahi |  
+> tanno vArAhI prachodayAt |
+
+Here, she is called prAjApatyA which in the later tradition means sarasvatI.
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
@@ -225,8 +260,6 @@ Sarasvatī, who smashes the foreigners, we would entice here for help  with well
 Once again, the attributes and actions ascribed to Sarasvatī are decidedly unfeminine, starting with the almost comically off-kilter comparison of her to a rootgrubbing boar. The identification of the bisakhā́- as a boar is owing to Hoffmann (MSS 8: 5 = Aufs. 387). The point of comparison between the river and the boar must be their noise: śúṣmebhiḥ ‘with her snortings’, though the root-grubbing is presumably part of it, as the river in spate noisily pulls off pieces of the banks.
 
 Note ávase in c, which echoes avasám in 1c and is in turn echoed by á (vi)vās(ema) in d.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
@@ -260,8 +293,6 @@ Mit ihrer Kraft zerbrach der Berge Gipfel sie dem Wurzelgräber gleich mit ihrer
 Сарасвати, убивающую людей из далеких краев, мы хотим привлечь к себе  
 Прекрасными гимнами, молитвами – для поддержки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

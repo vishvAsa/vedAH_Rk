@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो अ꣡ति स्रि꣡धो  
-अभि꣡ अर्षति सुष्टुति꣡म्  
-सू꣡रो न꣡ विश्व꣡दर्शतः
+प᳓वमानो अ᳓ति स्रि᳓धो  
+अभि᳓ अर्षति सुष्टुति᳓म्  
+सू᳓रो न᳓ विश्व᳓दर्शतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। स्रिधः- अन्तरायान्हिंसकान्। अति- अतिक्रम्य। सुष्टुतिम्- शोभनमन्त्रम्।  विश्वदर्शतः- सर्वैर्दर्शनीयः। सूरो न- सूर्य इव। अभ्यर्षति- अभिगच्छति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानः** सोमः **अस्रिधः** हिंसकान् शत्रूनतिक्रम्य गच्छति । तथा **सुष्टुतिं** स्तोतॄणां शोभनां स्तुतिम् **अभ्यर्षति** आभिमुख्येन गच्छति । ‘ऋषी गतौ'। तौदादिकः । ‘बहुलं छन्दसि' इति शप् । गुणः । किंच **सूरो** **न** सूर्य इव **विश्वदर्शतः** सर्वस्य द्रष्टा सर्वैर्वा दर्शनीयो भवति ॥
@@ -151,7 +154,7 @@ _________
 The self-purifying one rushes across failures toward the lovely  
 praise hymn,  
 visible to all like the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
@@ -182,10 +185,6 @@ Sich läuternd fließt er über alle Fehler hinweg zu einem schönen Loblied, wi
 
 Hinflammend durch der Feinde Schar, ergiesst er sich zum Lobgesang, Der Sonne gleichend, rings zu schaun,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡द् वि꣡प्रो जायते वाजी꣡ अग्ने  
-तुव꣡द् वीरा꣡सो अभिमातिषा꣡हः  
-वइ꣡श्वानर तुव꣡म् अस्मा꣡सु धेहि  
-व꣡सूनि राजन् स्पृहया꣡यियाणि
+तुव᳓द् वि᳓प्रो जायते वाजी᳓ अग्ने  
+तुव᳓द् वीरा᳓सो अभिमातिषा᳓हः  
+वइ᳓श्वानर तुव᳓म् अस्मा᳓सु धेहि  
+व᳓सूनि राजन् स्पृहया᳓यियाणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक सत्क्रतो। त्वत्- त्वत्तः। विप्रः- मेधावी। वाजी- सद्गतियुक्तः। जायते।  अभिमातिषाहः- अभिमानयुक्तशत्रुबाधकाः। वीरासः- वीराः। त्वत्तो जायन्ते। वैश्वानर-  सर्वनरहित। त्वम्। राजन्- स्वामिन्। स्पृहयाय्याणि- स्पृहणीयाः। वसूनि- सम्पदः। अस्मासु।  धेहि- यच्छ॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **वाजी** हविर्लक्षणान्नवान् पुरुषः **त्वत्** त्वत्तः सकाशात् **विप्रः** मेधावी **जायते** । तुभ्यं हविर्दानेन मेधावी भवति । तथा **वीरासः** वीराः **त्वत्** त्वत्तः अभिमातिषाहः अभिमातीनां शत्रूणामभिभवितारो जायन्ते । यस्मादेवं तस्मात् हे **वैश्वानर** **राजन्** राजमानाग्ने **त्वमस्मासु** त्वद्भक्तेषु **स्पृहयाय्याणि** स्पृहणीयानि **वसूनि** धनानि **धेहि** निधेहि ॥
@@ -202,7 +205,7 @@ _________
 
 From you is born the inspired poet who wins the prize, o Agni; from you  the heroes vanquishing hostility.  
 O Vaiśvānara, establish in us goods to be craved, o king.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
@@ -237,8 +240,6 @@ Von dir, o Agni, stammt der weise Sänger, von dir die Helden, die den Feind bes
 О Вайшванара, надели ты нас  
 Благами, которым можно позавидовать, о царь!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

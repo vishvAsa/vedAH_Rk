@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ सह꣡स्रभर्णसं  
-वा꣡चं सोम मखस्यु꣡वम्  
-पुनान꣡ इन्दव् आ꣡ भर
+उतो᳓ सह᳓स्रभर्णसं  
+वा᳓चं सोम मखस्यु᳓वम्  
+पुनान᳓ इन्दव् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उतो- अपि च। सहस्रभर्णसम्- अनन्तभरणम्। मखस्युवम्- यज्ञकामम्। वाचम्- मन्त्रम्। इन्दो-  क्लेदनशील। सोम- रस। पुनानः- पूयमानः सन्। आ भर- आहर॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उतो** अपि च हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानस्त्वं **सहस्रभर्णसं** सहस्रभरणां **मखस्युवं** धनकामां **वाचम्** अस्मभ्यम् **आ** **भर** आहर ॥
@@ -154,7 +157,7 @@ _________
 
 And speech bringing a thousand presents, ready for combat [/bounty],  o Soma—  
 becoming purified, o drop, bring that hither.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
@@ -182,10 +185,6 @@ Und bring uns die Tausend aufwiegende Rede, o Soma, die Belohnung erwartende, we
 
 Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, gereinigter!
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

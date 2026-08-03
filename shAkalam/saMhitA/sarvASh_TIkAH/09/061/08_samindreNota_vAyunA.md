@@ -3,7 +3,6 @@ title = "008"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् इ꣡न्द्रेणोत꣡ वायु꣡ना  
-सुत꣡ एति पवि꣡त्र आ꣡  
-सं꣡ सू꣡रियस्य रश्मि꣡भिः
+स᳓म् इ᳓न्द्रेणोत᳓ वायु᳓ना  
+सुत᳓ एति पवि᳓त्र आ᳓  
+सं᳓ सू᳓रियस्य रश्मि᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुतः- निष्पन्नः सन्। पवित्रे- शोधके प्रतीके। आ- आभिमुख्येन। इन्द्रेण- ईशनाधिदैवतेन। उत-  अपि च। वायुना- प्राणाधिदैवतेन।  सूर्यस्य रश्मिभिः- आत्मसूर्यस्य चिद्रश्मिभिः। समेति- सङ्गतो  भवति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुतः** अभिषुतः सोमः **पवित्रे** **इन्द्रेण** **सम्** **एति** संगच्छते । **उत** अपि च **वायुना** समेति । **सूर्यस्य** **रश्मिभिः** मयूखैरपि **सम्** एति ॥
@@ -164,7 +167,7 @@ _________
 
 Pressed, he goes into the filter, uniting with Indra and Vāyu,  
 uniting with the rays of the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
@@ -197,8 +200,6 @@ Mit Indra und mit Vaju geht zur Seihe der gepresste hin Und mit der Sonne Strahl
 Выжатый (сок, который находится) в цедилке,  
 (Он) со(единяется) с лучами Сурьи.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

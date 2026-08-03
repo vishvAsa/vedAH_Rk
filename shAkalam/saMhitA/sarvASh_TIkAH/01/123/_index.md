@@ -1,6 +1,5 @@
 +++
 title = "+123"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ about Dawn (see also I.113 above)—both her twinned opposite number, Night  (vs
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn After the almost impenetrable last two hymns, the Dawn series comes as a welcome relief, though it does not lack puzzles or Kakṣīvant’s characteristic flourishes. Note also the prevalence of āmreḍitas and similar expressions (gr̥háṃgrham ̥ , divé-dive, śáśvat, and ágram-agram all in vs. 4; then ékaikā in 8 at long remove, bhadrám-bhadram in 13).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२३   कक्षीवान् दैर्घतमस औशिजः।उषाः । त्रिष्टुप् ।
 </details>

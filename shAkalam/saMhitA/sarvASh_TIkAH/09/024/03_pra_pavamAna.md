@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ पवमान धन्वसि  
-सो꣡म इ꣡न्द्राय पा꣡तवे  
-नृ꣡भिर् यतो꣡ वि꣡ नीयसे
+प्र᳓ पवमान धन्वसि  
+सो᳓म इ᳓न्द्राय पा᳓तवे  
+नृ᳓भिर् यतो᳓ वि᳓ नीयसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान रस। यतः- यस्मात्। नृभिः- उपासकैः। वि- विशेषेण। नीयसे। इन्द्राय- तस्मै  ईशनाधिदैवताय। पातवे- अनुभूतये। प्र- प्रकर्षेण। धन्वसि- गच्छसि। रस इन्द्रार्थमेव प्रथमं  प्रवहति। तत्प्रसादतयान्येभ्य इति ज्ञायते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे पवमान **सोम** **इन्द्राय** इन्द्रस्य **पातवे** पानाय **प्र** **धन्वसि** प्रगच्छस्याहवनीयं प्रति हविर्धानात् । तदेवाह। **नृभिः** नेतृभिर्ऋत्विग्भिः **यतः** विनीतः **वि** **नीयसे** हविर्धानात् । अथवा । पवमान प्र धन्वसि पात्रं प्रतीन्द्रपानाय तदर्थं हविर्धानाद्वि नीयसे ।
@@ -159,7 +162,7 @@ You proceed: added, 'from the wagon whence they are taken by the priests to the 
 
 You run forth, self-purifying Soma, for Indra to drink.  
 Held by men, you are led through (the filter).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
@@ -193,8 +196,6 @@ Du strömest vor, o rieselnder, zum Trunk dem Indra, Soma du, Gelenkt von Männe
 О сома, Индре для питья.  
 Направленный мужами, ты отводишься (в цедилку).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

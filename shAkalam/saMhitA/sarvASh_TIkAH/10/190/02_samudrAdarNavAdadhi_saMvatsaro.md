@@ -3,7 +3,6 @@ title = "002"
 devataa = "भाववृत्तं"
 RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-समुद्रा꣡द् अर्णवा꣡द् अ꣡धि  
-संवत्सरो꣡ अजायत  
-अहोरात्रा꣡णि विद꣡धद्  
-वि꣡श्वस्य मिषतो꣡ वशी꣡
+समुद्रा᳓द् अर्णवा᳓द् अ᳓धि  
+संवत्सरो᳓ अजायत  
+अहोरात्रा᳓णि विद᳓धद्  
+वि᳓श्वस्य मिषतो᳓ वशी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ádhi ← ádhi (invariable)  
@@ -143,12 +141,17 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समुद्रादर्णवादधि- मूलशक्तिधारातः। संवत्सरः- कालः। अजायत- प्रादुर्भूतः। विश्वस्य- सर्वस्य।  मिषतः- जगतः। वशी- ईशानः। अहोरात्राणि। विदधत्- विदधाति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अर्णवात् समुद्रात्** सृष्टाद् अध्यूर्ध्वं **संवत्सरः** संवत्सरोपलक्षितः सर्वः कालोऽजायत।  
 श्रूयते हि - 
 
-&gt; सर्वे निमेषा जज्ञिरे, विद्युतः पुरुषाद् अधि कला-मुहूर्ताः काष्ठाश् च। तै. आ. १०-१-२। 
+> सर्वे निमेषा जज्ञिरे, विद्युतः पुरुषाद् अधि कला-मुहूर्ताः काष्ठाश् च। तै. आ. १०-१-२। 
 
 इति। 
 
@@ -195,8 +198,6 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 Распределяющий дни и ночи,  
 Владыка всего, что моргает.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

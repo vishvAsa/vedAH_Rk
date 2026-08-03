@@ -3,7 +3,6 @@ title = "004"
 devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ त्वा म꣡दा बृह꣡द् इन्द्र स्वधाव  
-इमे꣡ पीता꣡ उक्षयन्त द्युम꣡न्तम्  
-महा꣡म् अ꣡नूनं तव꣡सं वि꣡भूतिम्  
-मत्सरा꣡सो जर्हृषन्त प्रसा꣡हम्
+ते᳓ त्वा म᳓दा बृह᳓द् इन्द्र स्वधाव  
+इमे᳓ पीता᳓ उक्षयन्त द्युम᳓न्तम्  
+महा᳓म् अ᳓नूनं तव᳓सं वि᳓भूतिम्  
+मत्सरा᳓सो जर्हृषन्त प्रसा᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त इमे। पीताः- अनुभूताः। मदाः- हर्षकरा रसाः। स्वधावः- आत्मवन्। इन्द्र।  त्वा- त्वाम्।  द्युमन्तम्- दीप्तिमन्तम्। बृहत्- अत्यन्तम्। उक्षयन्त- सेचयन्तु। महाम्- महान्तम्। अनूनम्-  अन्यूनम्। तवसम्- बलिनम्। विभूतिम्- विभुम्। प्रसाहम्- शत्र्वभिभावुकम्। मत्सरासः- रसाः।  जर्हृषन्त- हर्षयन्ति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **स्वधावः** अन्नवन् **इन्द्र** **मदाः** मदकराः **ते** **इमे** **पीताः** सोमाः **द्युमन्तं** दीप्तिमन्तं **त्वा** त्वां **बृहत्** अत्यन्तम् **उक्षयन्त** सेचयन्तु । अपि च हे इन्द्र त्वां **मत्सरासः** मदकराः सोमाः **जर्हृषन्त** भृशं हर्षयन्तु । कीदृशम् । **महां** महान्तं प्रभूतम् **अनूनं** सर्वगुणैर्न्यूनतारहितम् । संपूर्णगुणमित्यर्थः । **तवसं** प्रवृद्धं **विभूतिं** विभवन्तं **प्रसाहं** शत्रूणामभिभवितारम् ॥
@@ -222,7 +225,7 @@ _________
 
 The exhilarating drinks here, when drunk, make you grow loftily  brilliant, o autonomous Indra;  
 the invigorating drinks continually excite (you who are) great, without  deficiency, powerful, distinguished, conquering—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
@@ -257,8 +260,6 @@ Dich, Indra, stärkten mächtig diese Tränke, selbstherrlicher, den lichten die
 Великого, совершенного, сильного, могущественного,  
 Хмельные (соки) пусть возбудят победоносного;
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

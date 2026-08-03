@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+034"
 <details><summary>Jamison Brereton</summary>
 
 34  
-Aśvins  
+Aśvins  
 Hiraṇyastūpa Āṅgirasa  
 12 verses: jagatī, except triṣṭubh 9, 12  
 This hymn has a simple and very insistent organizing principle: the number three.  The Aśvins, of whom there are, of course, two, are urged to perform various actions  three times a day, using equipment, especially their chariot, that has numerous tri ple features. The particular ritual reason for the glorification of three must be the  three soma-pressings, but this ritual application is not made clear until verse 8. If,  as we have argued, the Third Pressing is a ritual innovation in the R̥gveda, a hymn  devoted to extolling it is not surprising.  
@@ -23,4 +22,10 @@ sion of this phenomenon, see Jamison 2010.) It perhaps escaped modernization  be
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३४ हिरण्यस्तूप आङ्गिरसः। अश्विनौ । जगती, ९-१२ त्रिष्टुप्।
 </details>

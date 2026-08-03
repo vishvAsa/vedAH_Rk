@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षणं धीभि꣡र् अप्तु꣡रं  
-सो꣡मम् ऋत꣡स्य धा꣡रया  
-मती꣡ वि꣡प्राः स꣡म् अस्वरन्
+वृ᳓षणं धीभि᳓र् अप्तु᳓रं  
+सो᳓मम् ऋत᳓स्य धा᳓रया  
+मती᳓ वि᳓प्राः स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषणम्- वर्षकम्। अप्तुरम्- जीवोदकप्रेरकम्। सोमम्- रसम्। धीभिः- चित्तधारणाभिः। ऋतस्य-  प्रकृतिनियतिभूतसत्यस्य। धारया। मती- मत्या। विप्राः- मेधाविनः। समस्वरन्- प्रेरयन्ति॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विप्राः** मेधाविन ऋत्विजः **वृषणं** कामानां वर्षकम् **अप्तुरम्** अपां प्रेरकं **सोमं** **धीभिः** अङ्गुलीभिः **मती** मत्या स्तुत्या च **ऋतस्य** उदकस्य **धारया** **समस्वरन्** प्रेरयन्ति ॥
@@ -154,7 +157,7 @@ _________
 To the water-crossing bull, Soma, in a stream of truth  
 have the inspired poets cried out in unison with their insights, their  
 thought.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
@@ -183,10 +186,6 @@ Dem Bullen , der unter Gebeten das Wasser überwindet, dem Soma, der in ordnungs
 
 Mit Andacht und Gebet besang der Sänger Schar den thät'gen Stier, Den Soma in des Opfers Strom.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

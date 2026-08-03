@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो अर्षाभि꣡ दूति꣡यं  
-तुव꣡म् इ꣡न्द्राय तोशसे  
-देवा꣡न् स꣡खिभ्य आ꣡ व꣡रम्
+स᳓ नो अर्षाभि᳓ दूति᳓यं  
+तुव᳓म् इ᳓न्द्राय तोशसे  
+देवा᳓न् स᳓खिभ्य आ᳓ व᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशस्त्वम्। नः- अस्मदर्थम्। देवान्- देवेभ्यः। दूत्यम्- दौत्यम्। अभि- आभिमुख्येन।  अर्षसि- गच्छसि। इन्द्राय- परमेश्वराय। तोशसे- निष्पन्नोसि। सखिभ्यः- मित्रेभ्यः। आ-  आभिमुख्येन। वरम्। प्रयच्छसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **त्वं** **नः** अस्माकं **दूत्यं** दूतस्य कर्म **अर्ष** अभिगच्छ । अपि च यस्त्वं **इन्द्राय** इन्द्रार्थं **तोशसे** पीयसे **सः** त्वं **सखिभ्यः** प्रियेभ्यः अस्मभ्यं **वरं** श्रेष्ठं धनं **देवान्** **आ** याचस्वेत्यर्थः ॥
@@ -199,10 +202,6 @@ Rinne du zum Botengang für uns - du wirst für Indra ergossen - den Göttern li
 
 So ströme uns zur Botschaft hin, dem Indra träufelst du und führst Die Götter hold den Freunden zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

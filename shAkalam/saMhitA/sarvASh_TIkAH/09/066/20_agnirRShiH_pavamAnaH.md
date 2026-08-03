@@ -3,7 +3,6 @@ title = "020"
 devataa = "अग्निः पवमानः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् ऋ꣡षिः प꣡वमानः  
-पा꣡ञ्चजन्यः पुरो꣡हितः  
-त꣡म् ईमहे महागय꣡म्
+अग्नि᳓र् ऋ᳓षिः प᳓वमानः  
+पा᳓ञ्चजन्यः पुरो᳓हितः  
+त᳓म् ईमहे महागय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्निः- अग्निभूतः सोमः। ऋषिः- क्रान्तदर्शी। पवमानः- पुनानः। पाञ्चजन्यः-  ब्राह्मणक्षत्रियवैश्यशूद्रनिषादानां समानः। पुरोहितः- पुरतः प्रत्यक्षतो हिताय स्थापितः। तम्- अमुं  सोमम्। महागयम्- महद्भिर्गातव्यम्। ईमहे- याचामहे॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पाञ्चजन्यः** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चजनाः। यद्वा । गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येते पञ्चजनाः । अथवा देवमनुष्या गन्धर्वाप्सरसः सर्पाः पितर इति ब्राह्मणेऽभिहिताः पञ्चजनाः। ‘ गम्भीराञ्यः्  ' इत्यत्र ‘ बहिर्देवपञ्चजनेभ्य इति वक्तव्यम्' (का. ४. ३. ५८. १ ) इति वचनात् भवार्थे ञ्यप्रत्ययः । तेषां तत्तदभीष्टप्रदानेन स्वभूतः **ऋषिः** सर्वस्य द्रष्टा **पवमानः** तद्रूपोऽग्निः **पुरोहितः** कर्मार्थमृत्विग्भिः पुरो निहितः । **तं** पूर्वोक्तलक्षणं **महागयं** महद्भिर्देवादिभिरपि गीर्भिः गातव्यम् । महान्ति प्रभूतानि यज्ञगृहाणि वा यस्य स तथोक्तः । तं पवमानगुणविशिष्टमग्निम् **ईमहे** धनादीनि याचामहे ॥ ॥ १० ॥
@@ -151,7 +154,7 @@ Five orders: four **varṇas** and the **niṣāda**; or, the **gandharvas**, **
 
 Agni—a seer, self-purifying, belonging to the five peoples, installed  in front—  
 him we beseech for a great household.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
@@ -182,10 +185,6 @@ Der sich läuternde Soma ist Agni, der Rishi, der über die fünf Völker gesetz
 
 Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Geschlechter Priester ist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

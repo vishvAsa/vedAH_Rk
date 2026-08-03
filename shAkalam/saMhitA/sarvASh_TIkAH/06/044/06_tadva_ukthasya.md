@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् व उक्थ꣡स्य बर्ह꣡णा  
-इ꣡न्द्रायोपस्तृणीष꣡णि  
-वि꣡पो न꣡ य꣡स्य ऊत꣡यो  
-वि꣡ य꣡द् रो꣡हन्ति सक्षि꣡तः
+त᳓द् व उक्थ᳓स्य बर्ह᳓णा  
+इ᳓न्द्रायोपस्तृणीष᳓णि  
+वि᳓पो न᳓ य᳓स्य ऊत᳓यो  
+वि᳓ य᳓द् रो᳓हन्ति सक्षि᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,6 +171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। उक्थस्य- मन्त्रस्य। तत्। बर्हणा- बृहत्। इन्द्राय। उपस्तृणीषणि-  उपस्तरणीयम्। यस्य। ऊतयः- रक्षाशक्तयः। विपः- मेधाविनः। न- इव। सन्ति। सक्षितः-  समाननिवासाः। वि रोहन्ति- इन्द्रमारोहन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतारः **वः** युष्मदीयस्य **उक्थस्य** स्तोत्रस्य **तत्** **बर्हणा** बृहत्वं माहात्म्यम् **इन्द्राय** इन्द्रार्थम् उपस्तृणीषणि उपस्तरणीयम् । उपेत्य विस्तरणीयम् । इन्द्रो यथा स्तोत्रस्य माहात्म्यं जानीयात् तथा विस्तार्यत इत्यर्थः । **यस्य** इन्द्रस्य **ऊतयः** रक्षाः **विपो** **न** मेधाविन इव भवन्ति । सर्वकार्यकुशला इत्यर्थः । यद्वा नेति पूरकः । विपो विप्रस्य मेधाविनो यस्येन्द्रस्येति योज्यम् । **यत्** यस्मिंश्चेन्द्रे **सक्षितः** समाननिवासाः संहता ऊतयः **वि** **रोहन्ति** प्रादुर्भवन्ति तस्मा इन्द्रायेत्यर्थः ॥
@@ -195,7 +198,7 @@ Vipo na, medhāvirat iva, that is, the protective measures or expedients of a se
 
 It (is mine) to lay on your behalf, with the power of solemn speech, the  underlayer for Indra,  
 whose forms of helps are like inspired words, since, dwelling together,  they spread apart in their ascent.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -212,7 +215,6 @@ In the ritual the ‘underlayer’ is the layer of butter spread on the ladle un
 The poet then, by a clever trick, mobilizes this underlayer of words to serve as a metaphor for the multiplication of Indra’s forms of help for us. This is accomplished by means of a simile: vípo ná … ūtáyaḥ “forms of help like inspired words,” thus implicitly equating the two. These vípaḥ ‘inspired words’ (not, with Geldner, ‘fingers’) are ours, in fact the very ukthá- found in pāda a, dependent on barháṇā.
 
 The connection between the two is suggested by the phrase barháṇā vipáḥ “by the power of inspired speech” in VIII.63.7 (vipáḥ there is gen. sg., as opposed to our nom. pl. vípaḥ, as the accent shows). In cd the poet asserts that like our hymns, which rise to Indra, spreading from their position as interconnected (sakṣítaḥ ‘dwelling together’) underlayer, his forms of help will similarly grow up and out. On this vs. see also Scarlatta (97).
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -247,8 +249,6 @@ Dies will ich durch des Liedes Macht dem Indra wie ein Lager streun, Ihm, dessen
 Когда они, живущие вместе, разрастаются в разные стороны,
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -264,12 +264,12 @@ Dies will ich durch des Liedes Macht dem Indra wie ein Lager streun, Ihm, dessen
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! (यस्य) जिसके (सक्षितः) तुल्य निवास और (ऊतयः) रक्षण आदि कर्म (विपः) बुद्धिमान् जन (न) जैसे वैसे (यत्) जिसको (वि) विशेष करके (रोहन्ति) जमाते हैं (तत्) उसको (वः) आप लोगों के (उक्थस्य) प्रशंसित कर्म्म के (बर्हणा) बढ़ाने से (इन्द्राय) अत्यन्त ऐश्वर्य्य के लिये (उपस्तृणीषणि) ढाँपने योग्य को हम लोग बढ़ावें ॥६॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (यस्य) जिसके (सक्षितः) तुल्य निवास और (ऊतयः) रक्षण आदि कर्म (विपः) बुद्धिमान् जन (न) जैसे वैसे (यत्) जिसको (वि) विशेष करके (रोहन्ति) जमाते हैं (तत्) उसको (वः) आप लोगों के (उक्थस्य) प्रशंसित कर्म्म के (बर्हणा) बढ़ाने से (इन्द्राय) अत्यन्त ऐश्वर्य्य के लिये (उपस्तृणीषणि) ढाँपने योग्य को हम लोग बढ़ावें ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो विद्वानों के सदृश प्रजा के रक्षण से ऐश्वर्य्य को बढ़ाते हैं, वे सब प्रकार से बढ़ते हैं ॥६॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो विद्वानों के सदृश प्रजा के रक्षण से ऐश्वर्य्य को बढ़ाते हैं, वे सब प्रकार से बढ़ते हैं ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

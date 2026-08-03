@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Heaven and Earth here figure just as objects of worship, not as physically conce
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५३  मैत्रावरुणर्वसिष्ठः।द्यावापृथिवी। त्रिष्टुप्।
 </details>

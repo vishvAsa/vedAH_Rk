@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ असृग्रम् इ꣡न्दवस्  
-तिरः꣡ पवि꣡त्रम् आश꣡वः  
-वि꣡श्वानि अभि꣡ सउ꣡भगा
+एते᳓ असृग्रम् इ᳓न्दवस्  
+तिरः᳓ पवि᳓त्रम् आश᳓वः  
+वि᳓श्वानि अभि᳓ सउ᳓भगा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -129,6 +127,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे। आशवः- क्षिप्राः। इन्दवः- हृदयस्पर्शिनो रसाः। पवित्रं तिरः- शोधकं भाजनं  प्रतीकमप्यतिक्रम्य। विश्वानि- सर्वाणि। सौभगा- सौभाग्यानि। अभि- अभिलक्ष्य। असृग्रम्-  सृज्यन्ते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आशवः** शीघ्राः **एते** पवमानाः **इन्दवः** सोमाः **विश्वानि** सर्वाणि **सौभगा** सौभगानि धनान्यभिलक्ष्य **पवित्रं** **तिरः** **असृग्रम्** ऋत्विग्भिः सृज्यन्ते ॥
@@ -146,7 +149,7 @@ _________
 
 These drops have surged, swift across the filter,  
 toward all gifts of good fortune.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
@@ -175,10 +178,6 @@ Diese Säfte, die Renner, haben sich durch die Seihe ergossen, um alle Glücksg�
 
 Ergossen sind die Tropfen hier die schnellen durch das Somasieb Für uns zu allem hohen Glück,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "004"
 devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पृक्षे꣡ ता꣡ वि꣡श्वा भु꣡वना ववक्षिरे  
-मित्रा꣡य वा स꣡दम् आ꣡ जीर꣡दानवः  
-पृ꣡षदश्वासो अनवभ्र꣡राधस  
-ऋजिप्या꣡सो न꣡ वयु꣡नेषु धूर्ष꣡दः
+पृक्षे᳓ ता᳓ वि᳓श्वा भु᳓वना ववक्षिरे  
+मित्रा᳓य वा स᳓दम् आ᳓ जीर᳓दानवः  
+पृ᳓षदश्वासो अनवभ्र᳓राधस  
+ऋजिप्या᳓सो न᳓ वयु᳓नेषु धूर्ष᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्राय- सुहृदे। पृक्षे- हव्यवते यजमानाय। सदम्- ऋतस्य सदनम्। ता- तानि। विश्वा- सर्वाणि।  भुवना- भुवनानि। जीरदानवः- क्षिप्रदानाः। आ ववक्षिरे- आवहन्ति। पृषदश्वासः-  ज्ञानतृष्णावेदनप्रतीकमृगीवाहनाः। अनवभ्रराधसः- अभ्रष्टसिद्धयः। भृशु भ्रंशु अधःपतने। राध  संसिद्धौ। ऋजिप्यासः- आर्जवसम्पन्नाः। न- सम्प्रति। वयुनेषु धूर्षदः- ज्ञानधारणासदनाः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पृक्षे प्रुक्षवते हविर्लक्षणान्नयुक्ताययजमानायतातानिविश्वासर्वाणिभुवनाभुवनान्युदकानिमित्राय वाशब्दउपमार्थः मित्रायेवसदंसदाआववक्षिरे मरुतआवहन्ति यद्वा वाशब्दोवधारणे मित्रभूताययज- मानायैव पृक्षेन्नेनिमित्तभूतेसतिवृष्ट्युदकान्यावहन्ति कीदृशामरुतः जीरदानवः क्षिप्रदानाः पृषदश्वा- सः पृषद्भिःश्वेतबिन्दुभिर्युक्ताअश्वायेषान्तेतथोक्ताः अनवभ्रराधसः भृशुभ्रंशुअधःपतने अवभ्रंशनमवभ्रः डोन्यत्रापिदृश्यतइतिडप्रत्ययः नास्त्यवभ्रोयस्येतिबहुव्रीहौनञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं अनव- भ्रम्भ्रंशनरहितंराधोधनंयेषान्ते बहुव्रीहौपूर्वपदप्रकृतिस्वरत्वं ऋजिप्यासोन ऋजुअकुटिलम्प्राप्नुवन्तोग- च्छन्तोश्वाइववयुनेषुगन्तृषुमध्ये धूर्षदः धुरि मेघस्यवहनेसीदन्तोनिषण्णाइत्यर्थः ॥ ४ ॥
@@ -237,8 +240,6 @@ With their dappled horses, with their unreceding generosity, they sit at  the ch
 
 The descriptor ásmera-, generally taken as a derivative of √smi ‘smile’, is somewhat curious. It may be simply, as Macdonell suggests, that the waters approach their task seriously, not like light-hearted lovers (sim. Doniger). Or (with Maurer) that they are shy. But I somehow think that this hapax is expressing something more particular, though I cannot define it more closely. It may be naturalistic: the circling waters perhaps whirl around without foam, which might be thought of as smiles. Or it may be meant to distinguish these attentive females from other natural phenomena: lightning, especially, is characterized by smiling (see I.168.8) and laughing, and Uṣas also smiles. Though the waters do gleam (see 3c), they are different from those bright celestial females, and the point may be to emphasize the two very different environments in which Apām Napāt finds himself -- the watery and the fiery. Note that in 9b Apām Napāt “clothes himself in the lightning flash” in 9b, but by then his assimilation to Agni/Fire is almost complete.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
 
@@ -246,6 +247,7 @@ Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám �
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -279,8 +281,6 @@ Zur Labung netzten alle diese Wesen sie mit Regen strömend stets auch dem befre
 Словно соколы, сидят они на дышле (колесницы) на огороженных местах (жертвоприношений).
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतः
@@ -296,7 +296,7 @@ Zur Labung netzten alle diese Wesen sie mit Regen strömend stets auch dem befre
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (जीरदानवः) साधारण जीव वा (पृषदश्वासः) स्थूल अश्व जिन्होंने सींचे वा (अनवभ्रराधसः) जिनका धन नीचे नहीं गिरा वा (धूर्षदः) जो धुर पर स्थिर होनेवाले (जिप्यासः) वा जो कोमलपन को बढ़ाते हैं (न) उनके समान (मित्राय) मित्र के लिये (वा) अथवा जिस कारण इसके लिये (पृक्षे) जलादिकों से सींचे हुए पृथ्वी मण्डल पर जो (विश्वा) समस्त (भुवना) लोकलोकान्तर (सदम्) वा स्थान (आ,ववक्षिरे) अच्छे प्रकार रोष को प्राप्त हों (ता) वे (वयुनेषु) उत्तम ज्ञानों में बढ़ते हैं ॥४॥
+पदार्थान्वयभाषाः -  (जीरदानवः) साधारण जीव वा (पृषदश्वासः) स्थूल अश्व जिन्होंने सींचे वा (अनवभ्रराधसः) जिनका धन नीचे नहीं गिरा वा (धूर्षदः) जो धुर पर स्थिर होनेवाले (जिप्यासः) वा जो कोमलपन को बढ़ाते हैं (न) उनके समान (मित्राय) मित्र के लिये (वा) अथवा जिस कारण इसके लिये (पृक्षे) जलादिकों से सींचे हुए पृथ्वी मण्डल पर जो (विश्वा) समस्त (भुवना) लोकलोकान्तर (सदम्) वा स्थान (आ,ववक्षिरे) अच्छे प्रकार रोष को प्राप्त हों (ता) वे (वयुनेषु) उत्तम ज्ञानों में बढ़ते हैं ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

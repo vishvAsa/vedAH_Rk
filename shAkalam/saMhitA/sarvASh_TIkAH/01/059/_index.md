@@ -1,6 +1,5 @@
 +++
 title = "+059"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,4 +25,10 @@ It is worthy of note that, in contrast to the last hymn (I.58) with its graphic 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५९   नोधा गौतमः।अग्निर्वैश्वानरः। त्रिष्टुप्।
 </details>

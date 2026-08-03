@@ -1,12 +1,11 @@
 +++
 title = "+162"
-
 +++
 
 <details><summary>Jamison Brereton</summary>
 
 162  
-Praise of a Horse (Aśvastuti)  
+Praise of a Horse (Aśvastuti)  
 Dīrghatamas Aucathya  
 22 verses: triṣṭubh, except jagatī 3, 6  
 The first of the two Aśvamedha hymns focuses on the actual sacrifice, with an  almost cinematic treatment of the proceedings and an unflinching look at the gory  details. The hymn begins with the parading of the horse on the day of sacrifice: the  year-long preliminaries in the classical Aśvamedha are not mentioned here, and it  is not easy to tell how much elaboration accreted to this ritual in the post-R̥gvedic  period—though it seems likely that the R̥gvedic version was a much simpler affair.  
@@ -23,4 +22,10 @@ To those who know the classical śrauta version of the Aśvamedha the most strik
 <details><summary>Jamison Brereton Notes</summary>
 
 Praise of a horse (Aśvastuti)
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६२   दीर्घतमा औचथ्यः।  अश्वः । त्रिष्टुप्, ३, ६ जगती।
 </details>

@@ -3,7 +3,6 @@ title = "022"
 devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म् इ꣡न्धानो म꣡नसा  
-धि꣡यं सचेत म꣡र्तियः  
-अग्नि꣡म् ईधे विव꣡स्वभिः
+अग्नि᳓म् इ᳓न्धानो म᳓नसा  
+धि᳓यं सचेत म᳓र्तियः  
+अग्नि᳓म् ईधे विव᳓स्वभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्निम्- सत्क्रतुम्। मनसा- चित्तेन। इन्धानः- उद्दीपयन्। मर्त्यः- मनुष्यः। धियम्। सचेत-  भजेत। विवस्वभिः- परिचरद्भिः। अग्निम्। ईधे- उद्दीपयति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मर्त्यः** मनुष्यः **अग्निमिन्धानः** काष्ठैः प्रज्वलयन् **मनसा** एव श्रद्दधानः **धियं** कर्म **सचेत** काले भजेत । **विवस्वभिः** ऋत्विग्भिश्च **अग्निम्** एव **ईधे** प्रज्वलयति ॥ ॥ १२ ॥
@@ -153,7 +156,7 @@ Idhe = indhe
 
 Kindling Agni with his mind, the mortal should follow his visionary  thought.  
 I have kindled Agni with the dawning lights.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
@@ -185,8 +188,6 @@ Entzündend Agni frommen Sinns, vollführe sein Gebet der Mensch, Mit Funken hab
 Агни, придет в голову соображение:  
 Я зажег Агни утренними лучами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

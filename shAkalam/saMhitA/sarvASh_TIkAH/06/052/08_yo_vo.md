@@ -3,7 +3,6 @@ title = "008"
 devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वो देवा घृत꣡स्नुना  
-हव्ये꣡न प्रतिभू꣡षति  
-तं꣡ वि꣡श्व उ꣡प गछथ
+यो᳓ वो देवा घृत᳓स्नुना  
+हव्ये᳓न प्रतिभू᳓षति  
+तं᳓ वि᳓श्व उ᳓प गछथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवाः। यः। वः- युष्मान्। घृतस्नुना- पूतनवनीतोपलक्षितपूतावगमनेन। हव्येन-  ध्यानभावनादिहव्येन। प्रतिभूषति- मण्डयति। तम्। विश्वे- सर्वे यूयम्। उप गच्छथ-  आगच्छथ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **देवाः** **वः** युष्मान् **यः** जनः **घृतस्नुना** घृतप्रक्षरणेन **हव्येन** हविषा **प्रतिभूषति** परिचरति **तं** जनं **विश्वे** सर्वे यूयम् **उप** **गच्छथ** उपगता भवथ ॥
@@ -162,7 +165,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The one who attends to you with a ghee-backed oblation, o gods— you all come close to him.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
@@ -197,8 +200,6 @@ Wer, Götter, euch mit Opfer schmückt, das Butter auf dem Rücken trägt, Zu de
 К тому вы приходите!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -214,7 +215,7 @@ Wer, Götter, euch mit Opfer schmückt, das Butter auf dem Rücken trägt, Zu de
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (देवाः) पढ़ाने और उपदेश करनेवाले विद्वानो ! (यः) जो (घृतस्नुना) घृत के समान शुद्ध (हव्येन) लेने-देने योग्य वा प्रशंसित पढ़ने और सुनने से (वः) तुम लोगों को (प्रतिभूषति) प्रत्यक्षता से सुभूषित करता है (तम्) उसके (विश्वे) सब तुम लोग (उप, गच्छथ) समीप प्राप्त होओ ॥८॥
+पदार्थान्वयभाषाः -  हे (देवाः) पढ़ाने और उपदेश करनेवाले विद्वानो ! (यः) जो (घृतस्नुना) घृत के समान शुद्ध (हव्येन) लेने-देने योग्य वा प्रशंसित पढ़ने और सुनने से (वः) तुम लोगों को (प्रतिभूषति) प्रत्यक्षता से सुभूषित करता है (तम्) उसके (विश्वे) सब तुम लोग (उप, गच्छथ) समीप प्राप्त होओ ॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

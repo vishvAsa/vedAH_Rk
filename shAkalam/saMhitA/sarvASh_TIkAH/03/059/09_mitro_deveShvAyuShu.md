@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्रो꣡ देवे꣡षु आयु꣡षु  
-ज꣡नाय वृक्त꣡बर्हिषे  
-इ꣡ष इष्ट꣡व्रता अकः
+मित्रो᳓ देवे᳓षु आयु᳓षु  
+ज᳓नाय वृक्त᳓बर्हिषे  
+इ᳓ष इष्ट᳓व्रता अकः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

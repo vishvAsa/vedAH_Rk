@@ -1,6 +1,5 @@
 +++
 title = "+098"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ The hymn begins (vs. 1) with an exhortation to the ritualists to sing to Indra, 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९८  नृमेध आङ्गिरसः ।इन्द्रः । उष्णिक्, ७, १०-११ ककुप्, ९, १२ पुरउष्णिक् ।
 </details>

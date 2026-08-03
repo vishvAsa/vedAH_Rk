@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ शुष्मी꣡ कल꣡शेषु आ꣡  
-पुनानो꣡ अचिक्रदत्  
-म꣡देषु सर्वधा꣡ असि
+स᳓ शुष्मी᳓ कल᳓शेषु आ᳓  
+पुनानो᳓ अचिक्रदत्  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ सोमः। शुष्मी- बली। पुनानः- पवमानः। कलशेषु- प्रतीकेषु। आ- मर्यादया।  अचिक्रदत्- अशब्दयत् मन्त्रं गर्जतीति भावः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 उक्तरीत्या महान् **सः** सोमः **शुष्मी** बलवान् **पुनानः** पूयमानः सन् **आ** **अचिक्रदत्** शब्दं करोति । अत्र सर्वत्र यथोचितमुत्तरपादो नेयः ॥ ॥ ८ ॥
@@ -196,8 +199,6 @@ Er wieherte, der feurige, gereiniget den Schalen zu; Bei den Gelagen schenkst du
 Громко заревел в кувшинах.  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

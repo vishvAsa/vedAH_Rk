@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ The hymn is characterized by a number of hapaxes and by affective morphology,  e
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra As noted in the published introduction, the hymn is characterized by hapaxes and very rare words, often with affective suffixes, and unusual phonology. These words include dhā́yuḥ (7a), gehyà- (7b), kúṇāru- (8b), píyāru- (8c), alātṛṇá- (10a), yāmakośá- (15a), salalū́ka- (17c).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३०  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

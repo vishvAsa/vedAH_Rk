@@ -1,6 +1,5 @@
 +++
 title = "+127"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Night
 Kuśika Saubhara or Rātri Bhāradvājī  
 8 verses: gāyatrī  
 In contrast to the numerous hymns dedicated to the lovely and welcome Dawn,  Night is barely celebrated in the R̥gveda, only in this one hymn. The night described  here is not that of the frightening and formless darkness so often mentioned in the  text, but rather starry night, who has beauties of her own. In fact, she is described  in places (see vss. 2 and 3c especially) with phraseology more appropriate to Dawn,  whose own advent is anticipated in verse 7.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२७  कुशिकः सौभरः, रात्रिर्वा भारद्वाजी। रात्रिः। गायत्री।
 </details>

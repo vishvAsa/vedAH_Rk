@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ सो꣡मास इ꣡न्दवः  
-प्र꣡यस्वन्तः चमू꣡ सुताः꣡  
-इ꣡न्द्रं वर्धन्ति क꣡र्मभिः
+एते᳓ सो᳓मास इ᳓न्दवः  
+प्र᳓यस्वन्तः चमू᳓ सुताः᳓  
+इ᳓न्द्रं वर्धन्ति क᳓र्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एते- इमे। प्रयस्वन्तः- हव्यवन्तः। इन्दवः- क्लेदनकराः। सोमासः- रसाः। चमू-  द्यावापृथिव्योर्मध्ये। चमूशब्दो द्यावापृथिवीनामसु पठितः। सुताः- निष्पन्नाः। कर्मभिः-  सत्क्रियाभिः। इन्द्रम्- परमेश्वरम्। वर्धन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दवः** दीप्ताः **प्रयस्वन्तः** अन्नवन्तः **एते** अस्मिन् कर्मणि वर्तमाना अमी **सोमासः** सोमाः **चमू** चम्वोरधिषवणफलकयोः **सुताः** अभिषुताः सन्तः **कर्मभिः** यागैः **इन्द्रं** **वर्धयन्ति** प्रीणयन्तीत्यर्थः ॥
@@ -172,10 +175,6 @@ Diese Somasäfte samt Opferschmaus, die in dem Camugefäß ausgequetscht sind, s
 
 Den Indra stärken durch ihr Werk die labereichen Tropfen hier, Der ausgepresste Somatrunk.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

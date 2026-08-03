@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ नः श꣡श्वत् पुरा꣡विथ  
-अ꣡मृध्रो वा꣡जसातये  
-स꣡ त्वं꣡ न इन्द्र मॄळय+
+यो᳓ नः श᳓श्वत् पुरा᳓विथ  
+अ᳓मृध्रो वा᳓जसातये  
+स᳓ त्वं᳓ न इन्द्र मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमृधः- अहिंसकः सन्। वाजसातये- अन्नलब्धये। यः। नः- अस्मान्। पुरा- पुरातनकालतः।  शश्वत्- नित्यतया। अविथ- ररक्षिथ॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **अमृधः** अहिंसकः **नः** अस्मान् **वाजसातये** अन्नलाभाय **पुरा** पूर्वम् **आविथ** रक्षितवान् । हे **इन्द्र** **स** **त्वं** **नः** अस्मान् **शश्वत्** सदा **मृळय** सुखय ॥
@@ -196,10 +199,6 @@ Der du uns schon früher immer wieder beigestanden hast, für die Lohngewinnung 
 
 Der du uns stets geholfen hast zur Preisgewinnung, eifervoll, Du, Indra, sei uns holdgesinnt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

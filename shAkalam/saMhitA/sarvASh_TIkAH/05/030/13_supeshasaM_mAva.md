@@ -3,7 +3,6 @@ title = "013"
 devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुपे꣡शसम् मा꣡व सृजन्ति अ꣡स्तं  
-ग꣡वां सह꣡स्रै रुश꣡मासो अग्ने  
-तीव्रा꣡ इ꣡न्द्रम् अममन्दुः सुता꣡सो  
-अक्तो꣡र् वि꣡उष्टौ प꣡रितक्मियायाः
+सुपे᳓शसम् मा᳓व सृजन्ति अ᳓स्तं  
+ग᳓वां सह᳓स्रै रुश᳓मासो अग्ने  
+तीव्रा᳓ इ᳓न्द्रम् अममन्दुः सुता᳓सो  
+अक्तो᳓र् वि᳓उष्टौ प᳓रितक्मियायाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। रुशमासः- अन्धकारबाधका देवाः। रुश हिंसायाम्। गवां सहस्रैः- चिद्रश्मिभिः।  सुपेशसम्- सुरूपम्। मा- माम्। अस्तम्- सुद्म प्रति। अव सृजन्ति- प्रेरयन्ति। परितक्म्याया  अक्तोर्व्युष्टौ- रात्र्या अपगमने। सुतासः- निष्पन्नाः। तीव्राः- उद्गूर्णा रसाः। इन्द्रम्- परमेश्वरम्।  अमन्दुः- अतोषयन्॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **रुशमासः** रुशमा ऋणंचयस्य किंकराः **सुपेशसं** सुरूपमलंकाराच्छादनादिभिः संस्कृतं **मा** माम् **अस्तं** गृहं **गवां** धेनूनां **सहस्रैः** सह **अव** **सृजन्ति** प्रापयन्ति स्म । तदनन्तरमेव **तीव्राः** रसवन्तः **सुतासः** लब्धबहुधनेन मयाभिषुताः सोमाः **परितक्म्यायाः** । तमसा भूतानि परितस्तकति गच्छतीति परितक्म्या । तस्याः **अक्तोः** रात्रेः **व्युष्टौ** व्युच्छने सति । उषःकाले इत्यर्थः । **इन्द्रम्** **अममन्दुः** अमादयन् । बभ्रुः गवां प्राप्त्यनन्तरमविलम्बितमेव सोमेनेजे इत्यर्थः ॥
@@ -211,7 +214,7 @@ _________
 
 The Ruśamas send me home well-ornamented with thousands of cows,  o Agni.  
 The sharp (soma-drinks, when) pressed, exhilarated Indra at the early  brightening of the night, at its final turn.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
@@ -256,8 +259,6 @@ Mit tausend Kühen reich belohnt, o Agni, entliessen mich die Ruçamer nach Haus
 Резкие выжатые (соки сомы) опьянили Индру  
 К концу ночи, на рассвете.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

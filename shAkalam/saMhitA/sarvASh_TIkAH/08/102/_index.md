@@ -1,6 +1,5 @@
 +++
 title = "+102"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ ing to Agni, a cow for the oblation and wood to feed his flames (vs. 19). All he
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०२  ऋ. भार्गवः प्रयोगः, अग्निर्बार्हस्पत्यः, पावको वा, सहसः पुत्रौ गृहपति - यविष्ठौ तयोर्वान्यतरः।
 </details>

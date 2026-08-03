@@ -1,6 +1,5 @@
 +++
 title = "+111"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Unlike the preceding hymn, this one passes over the R̥bhus’ marvelous achieve
 <details><summary>Jamison Brereton Notes</summary>
 
 Ṛbhus
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१११ कुत्स आङ्गिरसः।ऋभवः। जगती, ५ त्रिष्टुप् ।
 </details>

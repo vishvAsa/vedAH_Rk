@@ -3,7 +3,6 @@ title = "019"
 devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ मे अ꣡स्ति अ꣡घ्निया  
-न꣡ स्व꣡धितिर् व꣡नन्वति  
-अ꣡थैतादृ꣡ग् भरामि ते
+नहि᳓ मे अ᳓स्ति अ᳓घ्निया  
+न᳓ स्व᳓धितिर् व᳓नन्वति  
+अ᳓थैतादृ᳓ग् भरामि ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मम। अघ्न्या- धेनुश्चिद्रश्मिः। नहि अस्ति- न भवति। वनन्वति- सम्भजनशीला। स्वधितिः-  आत्मधारणा। नास्ति। अथ- अथापि। एतादृक्- यथाशक्ति ईदृशम्। ते- तुभ्यम्। भरामि-  आहरामि। विनयातिशयेनैवमुच्यते॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **मे** मम भार्गवस्य प्रयोगस्यर्षेः **अघ्न्या** गौः । ‘अघ्न्या उस्रा' इति गोनामसु पाठात् । **नहि** **अस्ति** न विद्यते यस्याः पयसा आज्येन च त्वां यजेय। किंच **स्वधितिः** नहि **वनन्वति** काष्ठानि हन्ति यैः काष्ठैस्त्वां समिन्धीय' । **अथैतादृक्** अग्निहोत्रार्थं पयसो दोग्ध्रीं गाम् इन्धनसाधनानि काष्ठानि चैतत्सर्वं **ते** तुभ्यमहं **भरामि** ॥
@@ -161,7 +164,7 @@ _________
 
 Because I have no cow, nor an axe in a wooden (tree),  
 I therefore bring just a thing like this to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
@@ -193,8 +196,6 @@ Zwar ward mir keine Kuh zu Theil, noch eine Axt dem heischenden, Doch was ich ha
 Ни топора в лесу,  
 (И) потому только это я приношу тебе.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

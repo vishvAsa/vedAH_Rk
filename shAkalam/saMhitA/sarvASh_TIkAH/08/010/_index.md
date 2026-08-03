@@ -1,6 +1,5 @@
 +++
 title = "+010"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+010"
 <details><summary>Jamison Brereton</summary>
 
 10 (630)  
-Aśvins  
+Aśvins  
 Pragātha Kāṇva  
 6 verses: br̥hatī 1, 5, madhyejyotis 2, anuṣṭubh 3, āstārapaṅkti 4, satobr̥hatī 6, arranged  in pragāthas  
 Like the previous hymn, this one contains a number of different meters, though all  fall into the twelve- and eight-syllable pādas that combine easily into mixed lyric  hymns. Unlike the tr̥ca structure of the last hymn, this one is arranged in pragāthas,  the first two of which (vss. 1–4) are irregular, while the last (5–6) has the familiar  br̥hatī/satobr̥hatī alternation.  
@@ -21,4 +20,10 @@ The hymn is a distillation of one of the key themes in the much longer Aśvin  h
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०   प्रगाथो (घौरः) काण्वः।अश्विनौ । १ बृहती, २ मध्येज्योतिः (पिंगलमतेन – शंकुमती), ४ आस्तारपङ्क्तिः, ५- ६ प्रगाथः (५ बृहती, ६ सतोबृहती)
 </details>

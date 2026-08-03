@@ -3,7 +3,6 @@ title = "011"
 devataa = "वाक्"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-देवीं꣡ वा꣡चम् अजनयन्त देवा꣡स्  
-तां꣡ विश्व꣡रूपाः पश꣡वो वदन्ति  
-सा꣡ नो मन्द्रा꣡ इ꣡षम् ऊ꣡र्जं दु꣡हाना  
-धेनु꣡र् वा꣡ग् अस्मा꣡न् उ꣡प सु꣡ष्टुतइ꣡तु
+देवीं᳓ वा᳓चम् अजनयन्त देवा᳓स्  
+तां᳓ विश्व᳓रूपाः पश᳓वो वदन्ति  
+सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
+धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -251,6 +249,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    देवाः- देवताः। देवीम्- द्योतनशीलाम्। वाचम्। अजनयन्त- ससृजुः। ताम्। विश्वरूपाः-  सर्वरूपाः। पशवः- सूक्ष्मदर्शिनः। वदन्ति। सा। नः- अस्मभ्यम्। मन्द्रा- आनन्दकरी। इषम्-  सदेषणाम्। ऊर्जं- शक्तिम्। दुहाना। धेनुः- गौरदितिभूता। वाक्। अस्मान्- नः। सुष्टुता- सुष्ठु  स्तुता। उप आ एतु- आगच्छतु॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एषा माध्यमिका वाक् सर्वप्राण्यन्तर्गता धर्माभिवादिनी भवतीति विभूतिमुपदर्शयति । यां **देवीं** द्योतमानां माध्यमिकां **वाचं** **देवाः** माध्यमिकाः **अजनयन्त** जनयन्ति **तां** वाचं **विश्वरूपाः** सर्वरूपा व्यक्तवाचोऽव्यक्तवाचश्च **पशवो** **वदन्ति** । तत्पूर्वकत्वाद्वाक्प्रवृत्तेः । **सा** **वाक्** देवी **मन्द्रा** मदना स्तुत्या हर्षयित्री वा वृष्टिप्रदानेनास्मभ्यम् **इषम्** अन्नम् **ऊर्जं** पयोघृतादिरूपं रसं च **दुहाना** क्षरन्ती **धेनुः** धेनुभूता **सुष्टुता** अस्माभिः स्तुता **अस्मान्** नेमान् **उप** **ऐतु** उपगच्छतु । वर्षणायोद्युक्तेत्यर्थः । तथा च यास्कः- ‘ देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति व्यक्तवाचश्चाव्यक्तवाचश्च सा नो मदनान्नं च रसं च दुहाना धेनुर्वागस्मानुपैतु सुष्टुता' (निरु. ११. २९) इति ॥
@@ -276,7 +279,7 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
@@ -312,8 +315,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 Доящаяся отрадой, питательной силой, пусть придет к нам, прекрасно восхваленная!  
 Индра:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

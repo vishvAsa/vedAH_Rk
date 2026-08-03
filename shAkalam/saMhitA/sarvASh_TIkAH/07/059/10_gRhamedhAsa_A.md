@@ -3,7 +3,6 @@ title = "010"
 devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-गृ꣡हमेधास आ꣡ गत  
-म꣡रुतो मा꣡प भूतन  
-युष्मा꣡कोती꣡ सुदानवः
+गृ᳓हमेधास आ᳓ गत  
+म᳓रुतो मा᳓प भूतन  
+युष्मा᳓कोती᳓ सुदानवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुदानवः- शोभनदानाः। गृहमेधासः- कुटुम्बपालकाः। मरुतः। युष्माकोती- भवतां रक्षाशत्तया।  आ गत- आगच्छत। मा। अप भूतन- अपगच्छत॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गृहमेधासः** गृहे क्रियमाणो यज्ञो येषां ते **सुदानवः** शोभनदाना हे **मरुतः** यूयं **युष्माक** युष्माकम् **ऊती** ऊत्या रक्षया युक्ताः **आ** **गत** अस्मदीयं यज्ञं प्रत्यागच्छत । हे मरुतः **माप** **भूतन** अपगता मा भवत । ‘भू प्राप्तौ ' इति धातुः ॥
@@ -165,7 +168,7 @@ _________
 Come here, you sharers of the House-offering—Maruts, don’t  
 stay away—  
 with your help, you of good drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
@@ -199,8 +202,6 @@ Hausopfer nehmend kommt herbei, o Maruts, nimmer bleibet fern, Schöngebende, na
 О Маруты, не оставайтесь в стороне!  
 (Приходите) с вашей поддержкой, о прекрасные дарители!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

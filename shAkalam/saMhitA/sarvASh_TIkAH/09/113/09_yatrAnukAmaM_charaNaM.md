@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्रानुकामं꣡ च꣡रणं  
-त्रिनाके꣡ त्रिदिवे꣡ दिवः꣡  
-लोका꣡ य꣡त्र ज्यो꣡तिष्मन्तस्  
-त꣡त्र मा꣡म् अमृ꣡तं कृधि  
-इ꣡न्द्रायेन्दो प꣡रि स्रव
+य᳓त्रानुकामं᳓ च᳓रणं  
+त्रिनाके᳓ त्रिदिवे᳓ दिवः᳓  
+लोका᳓ य᳓त्र ज्यो᳓तिष्मन्तस्  
+त᳓त्र मा᳓म् अमृ᳓तं कृधि  
+इ᳓न्द्रायेन्दो प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 anukāmám ← anukāmá- (nominal stem)  
@@ -212,9 +210,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। अनुकामं चरणम्- सङ्कल्पितकार्यसंसिद्धिरनायासेन भवति। दिवः- चिदाकाशस्य। त्रिनाके- त्रिदिवे। यत्र। लोकाः- अनुभवाः। ज्योतिष्मन्तः। तत्र माममृतं कृधि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-**यत्र** **त्रिदिवे** तृतीयस्थां दिवि द्युलोके **त्रिनाके** । तत्राधरमध्यमोत्तमभावेन त्रीणि स्थानानि सन्ति । तत्र तृतीये नाके उत्तमे स्थाने **दिवः** आदित्यस्य **अनुकामं** कामानुगुणं **चरणम्** अस्ति । किंच **यत्र** यस्मिँल्लोके **लोकाः** **ज्योतिष्मन्तः** ज्योतिर्युक्तास्तिष्ठन्ति । **तत्र** तादृशे लोके माममृतं **कृधि** । यथा ममोत्तमलोको भवति तथा त्वम् **इन्द्राय** **परि** **स्रव** ॥
+**यत्र** **त्रिदिवे** तृतीयस्थां दिवि द्युलोके **त्रिनाके** । तत्राधरमध्यमोत्तमभावेन त्रीणि स्थानानि सन्ति । तत्र तृतीये नाके उत्तमे स्थाने **दिवः** आदित्यस्य **अनुकामं** कामानुगुणं **चरणम्** अस्ति । किंच **यत्र** यस्मिल्ँलोके **लोकाः** **ज्योतिष्मन्तः** ज्योतिर्युक्तास्तिष्ठन्ति । **तत्र** तादृशे लोके माममृतं **कृधि** । यथा ममोत्तमलोको भवति तथा त्वम् **इन्द्राय** **परि** **स्रव** ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -231,7 +234,7 @@ Where one can move following one’s desire in the three-vaulted,
 three-heavened (place) of heaven,  
 where there are worlds filled with light, there make me immortal.  
 – O drop, flow around for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
@@ -257,10 +260,6 @@ Wo man nach Lust wandeln darf im dreifachen Firmament, im dreifachen Raume des H
 
 Wo man durch Wunsches Kraft sich regt am dritten höchsten Himmelsdom, Wo glanzbegabt die Räume sind, da mache du unsterblich mich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

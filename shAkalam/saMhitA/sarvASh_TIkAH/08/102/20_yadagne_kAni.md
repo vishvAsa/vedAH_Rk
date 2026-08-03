@@ -3,7 +3,6 @@ title = "020"
 devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अग्ने का꣡नि का꣡नि चिद्  
-आ꣡ ते दा꣡रूणि दध्म꣡सि  
-ता꣡ जुषस्व यविष्ठिय
+य᳓द् अग्ने का᳓नि का᳓नि चिद्  
+आ᳓ ते दा᳓रूणि दध्म᳓सि  
+ता᳓ जुषस्व यविष्ठिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। कानि कानि चित्- यानि कान्यपि। दारूणि-  काष्ठानि। दध्मसि- धारयामः। ता- तानि।  यविष्ठ्य- युवतम। जुषस्व- सेवस्व॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वस्यामृच्युक्तस्यैवार्थस्य विवरणमत्र । हे **यविष्ठ्य** युवतम **अग्ने** तुभ्यं **यत्** यदा **कानि** **कानि** **चित** यानि कान्यपि **दारूणि** काष्ठानि **आ** **दध्मसि** आधारयामि तदा **ता** तानि अपरशुवृक्णान्यपि **जुषस्व** सेवस्व । तथा च यजुर्ब्राह्मणं- न ह स्म वै पुराग्निरपरशुवृक्णं दहति तदस्मै प्रयोग एवर्षिरस्वदयद्यदग्ने यानि कानि चेति समिधमा दधात्यपरशुवृक्णमेवास्मै स्वदयति सर्वमस्मै स्वदते' (तै. सं. ५. १. १०. १) इति ॥
@@ -181,7 +184,7 @@ Any kinds oftimber: **Taittirīya** **Saṃhitā** 5.1.10: in ancient times they
 
 When, Agni, we set any pieces of wood whatsoever in you,  
 enjoy them, youngest one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
@@ -213,8 +216,6 @@ Wenn, Agni, manche Hölzer wir und neue noch dir legen an, So nimm, o jüngster,
 Какие никакие дрова,  
 Радуйся им, о самый юный!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

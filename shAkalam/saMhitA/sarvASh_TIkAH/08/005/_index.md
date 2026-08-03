@@ -1,6 +1,5 @@
 +++
 title = "+005"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,7 +16,7 @@ title = "+005"
 <details><summary>Jamison Brereton</summary>
 
 5 (625)  
-Aśvins  
+Aśvins  
 Brahmātithi Kāṇva  
 39 verses: gāyatrī, except br̥hatī 37–38, anuṣṭubh 39, all arranged in trcas ̥  
 This long hymn (at 39 verses the longest hymn to the Aśvins in the R̥gveda) presents  few difficulties and, correspondingly, few particular pleasures. Many pādas in the  hymn have exact or near counterparts elsewhere.  
@@ -28,4 +27,10 @@ The last three verses (37–39) are a dānastuti praising the gift of one Kaśu,
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५  ब्रह्मातिथिः काण्वः।अश्विनौ, ३७(उत्तरार्धस्य) - ३९ चैद्यः कशुः। गायत्री, ३७-३८ बृहती, ३९ अनुष्टुप्
 </details>

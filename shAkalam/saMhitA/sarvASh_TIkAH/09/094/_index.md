@@ -1,6 +1,5 @@
 +++
 title = "+094"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,10 +10,10 @@ title = "+094"
 <details><summary>Jamison Brereton</summary>
 
 94 (806)  
-Soma Pavamāna  
+Soma Pavamāna  
 Kaṇva Ghaura  
 5 verses: triṣṭubh  
-The word sóma does not appear until the last pāda (5d) of this hymn, which plots a  sometimes difficult course to this ending. The hymn features similes that exploit idi omatic ambiguity to produce different meanings in the simile proper and the frame  (see esp. vss. 1 and 3) and by obscure turns of phrase (see esp. 4d). It is therefore  not surprising that, as in IX.92, Soma is identified as a kaví, a poet, enmeshed in  poetry (vs. 3), and the main focus of the hymn, especially in the first three verses,  is the interchange between the poetic products of the mortal participants in ritual  and those of Soma himself.
+The word sóma does not appear until the last pāda (5d) of this hymn, which plots a  sometimes difficult course to this ending. The hymn features similes that exploit idi omatic ambiguity to produce different meanings in the simile proper and the frame  (see esp. vss. 1 and 3) and by obscure turns of phrase (see esp. 4d). It is therefore  not surprising that, as in IX.92, Soma is identified as a kaví, a poet, enmeshed in  poetry (vs. 3), and the main focus of the hymn, especially in the first three verses,  is the interchange between the poetic products of the mortal participants in ritual  and those of Soma himself.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -30,4 +29,10 @@ The section containing Triṣṭubh hymns
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९४  कण्वो घौरः।पवमानः सोमः। त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "011"
 devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "ककुप्"
 - छन्दः - ककुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य अग्नि꣡र् व꣡पुर् गृहे꣡  
-स्तो꣡मं च꣡नो द꣡धीत विश्व꣡वारियः  
-हव्या꣡ वा वे꣡विषद् वि꣡षः
+य᳓स्य अग्नि᳓र् व᳓पुर् गृहे᳓  
+स्तो᳓मं च᳓नो द᳓धीत विश्व᳓वारियः  
+हव्या᳓ वा वे᳓विषद् वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। गृहे- सुद्मनि। अग्निः। विश्ववार्यः- सर्वैर्वरणीयः। वपुः- वपुष्मान्। स्तोमम्- स्तुतिम्।  चनः- हव्यम्। दधीत- धारयति। सः। विषः- व्यापकान् देवान् प्रति। हव्या- हव्यानि। वेविषत्-  अग्निद्वारा प्रापयेत्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यस्य** यजमानस्य **गृहे** **विश्ववार्यः** विश्वैर्वरणीयः **वपुः** । रूपनामैतत् । रूपवान् दीप्तिमान् **अग्निः** **स्तोमं** स्तोत्रं **चनः** अन्नं च हविर्लक्षणं **दधीत** धारयेत् । यस्य च **हव्या** । वाशब्दः समुच्चये । हव्यानि हवींषि च **विषः** व्याप्तान् देवान् **वेविषत्** प्रापयेत् । ‘विष्लृ व्याप्तौ । अस्माल्लेटि रूपमेतत् । स यजमान इति पूर्वत्र संबन्धः ॥
@@ -180,7 +183,7 @@ _________
 
 The one in whose house the wondrous form Agni, possessing all  desirable things, should take delight in the praise song  
 or in the oblations, while he [=Agni] keeps laboring at his labors,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
@@ -216,8 +219,6 @@ In wessen Haus den Lobgesang der allbegabte, schöne Agni gern empfängt, Und eu
 Радуется восхвалению, самый желанный,  
 Или возлияниям, рьяно исполняя (свои) обязанности,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

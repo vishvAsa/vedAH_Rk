@@ -3,7 +3,6 @@ title = "022"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ देवः꣡ स꣡हसा जा꣡यमान  
-इ꣡न्द्रेण युजा꣡ पणि꣡म् अस्तभायत्  
-अयं꣡ सुव꣡स्य पितु꣡र् आ꣡युधानि  
-इ꣡न्दुर् अमुष्णाद् अ꣡शिवस्य मायाः꣡
+अयं᳓ देवः᳓ स᳓हसा जा᳓यमान  
+इ᳓न्द्रेण युजा᳓ पणि᳓म् अस्तभायत्  
+अयं᳓ सुव᳓स्य पितु᳓र् आ᳓युधानि  
+इ᳓न्दुर् अमुष्णाद् अ᳓शिवस्य मायाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। देवः- लीलाशीलः सोमो रसः। सहसा- शत्तया। जायमानः- उत्पन्नः। इन्द्रेण-  ईशनाधिदैवतेन। युजा- सङ्गतः। पणिम्- लोभभावनप्रतीकरक्षः। अस्तभायत्- बबाधे। अयम्।  स्वस्य। पितुः- बन्धने गोपयितुः। अशिवस्य- अमङ्गलस्य। आयुधानि- प्रहरणानि। मायाः-  शक्तीः। अमुष्णात्- हृतवान्॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवः** द्योतमानः **अयम्** **इन्दुः** सोमः **इन्द्रेण** **युजा** सख्या सह **जायमानः** प्रादुर्भवन् **पणि** वणिजं गवामादातारं वलाख्यमसुरम् । यद्वा । पणीनां स्वामित्वात् पणिरित्युच्यते । तमसुरं **सहसा** बलेन **अस्तभायत्** अस्तभ्नात् न्यरुधत् । अपि च **स्वस्य** धनस्य गोरूपस्य **पितुः** पालयितुः **अशिवस्य** असुखकरस्य वलस्य **आयुधानि** वज्रादीनि **अमुष्णात्** अपाहरत् । तदीयाः **मायाः** च अमुष्णात् । हे इन्द्र त्वत्सख्यबलादेतत्सर्वं सोमः कृतवान् अतस्तव महिमा केन वर्णयितुं शक्यत इतीन्द्रस्तुतिः ॥
@@ -214,15 +217,13 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This god here, being born with strength, with Indra as his yokemate,  blocked the Paṇi [/niggard]. This one here, the drop, stole the weapons of his own father, the tricks  of the unkindly one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 As just noted, índuḥ ‘drop’ opening pāda b firmly identifies the subject as Soma, but the common word play between phonologically similar índu- and índra-, found esp. in Maṇḍala IX, underlines the permeable boundary just noted between Indra and Soma in this tṛca.
 
 The brief narrative allusion in pāda c (“stole the weapons of his own father”) sounds like a fractured version of the just-born Indra stealing the soma from Tvaṣṭar, but it is hard to know how to square that tale with this formulation.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
@@ -256,8 +257,6 @@ Indu, der Gott, er, der durch Kraft geborne, er fesselte den Dieb im Bund mit In
 Этот сок у своего отца похитил  
 Оружие – колдовские силы враждебного.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ Verse 9 serves as a somewhat bizarre coda. It celebrates three of Indra’s grea
 
 the poet the episode of the unwed girl (agrū́) who abandons her son out of shame,  and it may also be that this proverbial episode of a mother’s abandonment of her  son resonated with Indra’s own experience with his mother at his birth, treated so  dramatically in the preceding hymn (IV.18).  
 The hymn ends with two summary verses (10, 11). In the former the poet  announces to Indra the hymn he has just completed, while the latter is the refrain  verse of the Vāmadeva Indra cycle (see IV.16–17, 20–24).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १९  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्
 </details>

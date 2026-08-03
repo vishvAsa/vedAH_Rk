@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡वेमे꣡ सप्त꣡ सि꣡न्धवः  
-प्रशि꣡षं सोम सिस्रते  
-तु꣡भ्यं धावन्ति धेन꣡वः
+त᳓वेमे᳓ सप्त᳓ सि᳓न्धवः  
+प्रशि᳓षं सोम सिस्रते  
+तु᳓भ्यं धावन्ति धेन᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तव- भवतः। प्रशिषम्- प्रशासनम्। इमे- इमाः। सप्त सिन्धवः- सप्तधामस्थजीवोदकधाराः।  सिस्रते- अनुसरन्ति। धेनवः- चिद्रश्मयः। तुभ्यम्- त्वदर्थम्। धावन्ति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सृष्टिकर्तृत्वप्रसङ्गादाह । हे **सोम** **इमे** इमाः त्वया सृष्टाः **सप्त** सप्तसंख्याकाः **सिन्धवः** स्यन्दमाना गङ्गाद्या नद्यः । यद्वा सप्त सर्पणशीला नद्यः **तव** **प्रशिषं** प्रशासनमाज्ञामभि **सिस्रते** अनुसरन्ति । त्वदाज्ञामनुसृत्य समुद्रं गच्छन्तीत्यर्थः । किंच **धेनवः** नवप्रसूतिका देवानां हविष्प्रदानेन प्रीणयित्र्यो गावः **तुभ्यं** त्वदर्थमेवाशिरं प्रयच्छाम इति **धावन्ति** आगच्छन्ति ।
@@ -151,7 +154,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Yours are these seven streams that flow forth to your command, Soma. For you do the milk-cows run.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
@@ -178,10 +181,6 @@ Deinem Befehl gehorchend fließen diese sieben Ströme, o Soma; für dich laufen
 
 Die sieben Ströme rinnen hier auf dein Geheiss, o Soma, hin, Dir strömen milchversehen sie.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

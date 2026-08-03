@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-क्र꣡त्व इ꣡त् पूर्ण꣡म् उद꣡रं  
-तुर꣡स्य अस्ति विधतः꣡  
-वृत्रघ्नः꣡ सोमपा꣡वनः
+क्र᳓त्व इ᳓त् पूर्ण᳓म् उद᳓रं  
+तुर᳓स्य अस्ति विधतः᳓  
+वृत्रघ्नः᳓ सोमपा᳓वनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,6 +140,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुरस्य- त्वरमाणस्य। विधतः- परिचरतः। वृत्रघ्नः- आवरणबाधकस्य। सोमपाव्नः-  रसानुभूतिकरस्य। उदरम्- उदरोपलक्षितहृदयम्। क्रत्वा- प्रज्ञया। पूर्णम्। अस्ति- भवति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तुरस्य** त्वरमाणस्य **वृत्रघ्नः** वृत्रं हतवतः **सोमपाव्नः** सोमपातुः **उदरं** **क्रत्व** **इत्** कर्मणैव **पूर्णम्** **अस्ति** भवति । कस्य कर्मणेति उच्यते । **विधतः** परिचरतो यजमानस्य । यतः परिचरणाभावे तस्य कुक्षिपूर्त्यभावोऽतस्तत्पूर्तये परिचरतेति शेषः ॥
@@ -181,10 +184,6 @@ Der Bauch des Vritratöters und Somatrinkers ist voll der überlegenen, ihm erge
 
 Mit Krafttrunk ist sein Bauch gefüllt, des mächt'gen, der den Vritra schlägt, Des holden, der den Soma trinkt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

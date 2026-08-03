@@ -3,7 +3,6 @@ title = "011"
 devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् ते प꣡राः पराव꣡तो  
-म꣡नो जगा꣡म दूरक꣡म्  
-त꣡त् त आ꣡ वर्तयामसि  
-इह꣡ क्ष꣡याय जीव꣡से
+य᳓त् ते प᳓राः पराव᳓तो  
+म᳓नो जगा᳓म दूरक᳓म्  
+त᳓त् त आ᳓ वर्तयामसि  
+इह᳓ क्ष᳓याय जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 párāḥ ← pára- (nominal stem)  
@@ -181,12 +179,15 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पराः परावतः- पराः शक्तीरनुसृत्य। यत्ते मनो दूरं गतं तदावर्तयामः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सुबन्धो **यत्ते** **मनः** **पराः** **परावतः** अत्यन्तं दूरदेशान् **जगाम** **तत्** इति गतम् ॥
 </details>
-
-
 
 <details><summary>Jamison Brereton</summary>
 
@@ -217,8 +218,6 @@ Dein Geist, der in die weitesten Gebiete in die Ferne ging, Der werde von uns he
 Мы его возвращаем тебе,  
 Чтобы он здесь пребывал (и) жил.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

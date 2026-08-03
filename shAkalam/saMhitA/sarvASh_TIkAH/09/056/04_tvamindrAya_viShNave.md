@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इ꣡न्द्राय वि꣡ष्णवे  
-स्वादु꣡र् इन्दो प꣡रि स्रव  
-नॄ꣡न् स्तोतॄ꣡न् पाहि अं꣡हसः
+तुव᳓म् इ᳓न्द्राय वि᳓ष्णवे  
+स्वादु᳓र् इन्दो प᳓रि स्रव  
+नॄ᳓न् स्तोतॄ᳓न् पाहि अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। इन्द्राय- परमेश्वराय। विष्णवे- सर्वव्यापकाय परमात्मने। स्वादुः- मधुरः सन्। इन्दो-  क्लेदनशील। परि- परितः। स्रव- क्षर। स्तोतॄन् नॄन्- मन्त्रविद उपासकान्। अंहसः- पापात्।  पाहि- रक्ष॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** सोम **स्वादुः** प्रियरसस्त्वम् **इन्द्राय** इन्द्रार्थं **विष्णवे** विष्ण्वर्थं च **परि** **स्रव** परिक्षर । **नॄन्** कर्मणां नेतॄन स्तोतॄन् त्वद्विषयाणां स्तुतीनां कर्तॄन् **अंहसः** दुरितात् **पाहि** रक्ष च ॥ ॥ १३ ॥
@@ -186,10 +189,6 @@ Laufe du ab, süß für Indra, für Vishnu, o Saft! Schütze die Herren, die Sä
 
 Dem Indra, Vischnu ströme du, o Indu, rings voll Süssigkeit; Die Männer, Sänger schütz' vor Noth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

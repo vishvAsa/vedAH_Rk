@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञ꣡स्य हि꣡ स्थ꣡ ऋत्वि꣡जा  
-स꣡स्नी वा꣡जेषु क꣡र्मसु  
-इ꣡न्द्राग्नी त꣡स्य बोधतम्
+यज्ञ᳓स्य हि᳓ स्थ᳓ ऋत्वि᳓जा  
+स᳓स्नी वा᳓जेषु क᳓र्मसु  
+इ᳓न्द्राग्नी त᳓स्य बोधतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,6 +150,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञस्य। ऋत्विजा- आचार्यौ। हि- खलु। स्थ- भवथः। वाजेषु- गतिमत्सु। कर्मसु। सस्नी-  शुद्धौ। इन्द्राग्नी। इन्द्र ईशनाधिदेवता। अग्निः पावकः सर्वभूतहितक्रतुः। तस्य- तस्य मम स्तुतिम्।  बोधतम्- जानीतम्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** **सस्नी** शुद्धौ युवां **यज्ञस्य** **ऋत्विजा** ऋत्विजौ **स्थः** भवथः **हि**। **वाजेषु** युद्धेषु **कर्मसु** चोपतिष्ठन्ताविन्द्राग्नी **तस्य** तं मां तस्य मम स्तुतिं वा **बोधतं** जानीतम् ॥
@@ -170,7 +173,7 @@ _________
 Because you two are regular offerers of the sacrifice, winners in  
 prize-contests and in (cultic/heroic) acts,  
 – Indra and Agni, take note of this.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
@@ -204,8 +207,6 @@ Ihr seid des Opfers Priester ja, in Schlacht und Opfer spendereich, O Indra-Agni
 Добывающие награду в состязаниях (и) при обрядах.  
 О Индра-Агни, помните об этом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

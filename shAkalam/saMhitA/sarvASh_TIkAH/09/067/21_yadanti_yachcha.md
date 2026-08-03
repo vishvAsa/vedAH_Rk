@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अ꣡न्ति य꣡च् च दूरके꣡  
-भयं꣡ विन्द꣡ति मा꣡म् इह꣡  
-प꣡वमान वि꣡ त꣡ज् जहि
+य᳓द् अ᳓न्ति य᳓च् च दूरके᳓  
+भयं᳓ विन्द᳓ति मा᳓म् इह᳓  
+प᳓वमान वि᳓ त᳓ज् जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -165,9 +163,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अन्ति- अन्तिके। दूरके- दूरे च। यत्- या। भयम्- भीतिः। माम्। विन्दति- लभते। तत्- ताम्।  पवमान- पुनान। वि- विशेषेण। जहि- नाशय॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **पवमान** पूयमान पुनान वा सोम **यत्** **भयम्** **अन्ति** अन्तिके तथा **यञ्च** भयं **दूरके** अतिदूरे देशे अथवा **इह** अस्मिन् प्रदेशेऽपि भयं **मां** **विन्दति** लभते प्राप्नोति **तत्** भयं त्वं **वि** **जहि** विशेषेण नाशय । यद्वा । इहेति यज्ञोऽयं लोको वा । अस्मिन् क्रियमाणे यज्ञेऽस्मिँल्लोके वा यद्भयं व्याप्नोति तन्नाशयेत्यर्थः ॥
+हे **पवमान** पूयमान पुनान वा सोम **यत्** **भयम्** **अन्ति** अन्तिके तथा **यञ्च** भयं **दूरके** अतिदूरे देशे अथवा **इह** अस्मिन् प्रदेशेऽपि भयं **मां** **विन्दति** लभते प्राप्नोति **तत्** भयं त्वं **वि** **जहि** विशेषेण नाशय । यद्वा । इहेति यज्ञोऽयं लोको वा । अस्मिन् क्रियमाणे यज्ञेऽस्मिल्ँलोके वा यद्भयं व्याप्नोति तन्नाशयेत्यर्थः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -182,7 +185,7 @@ _________
 
 What peril nearby and what at a little distance finds me here—  
 o self-purifying one, smash that away.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
@@ -215,8 +218,6 @@ Wenn in der Nähe hier Gefahr und in der Ferne mich erreicht, So schlage fort si
 Подстерегает меня здесь,  
 О Павамана, разбей ее!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

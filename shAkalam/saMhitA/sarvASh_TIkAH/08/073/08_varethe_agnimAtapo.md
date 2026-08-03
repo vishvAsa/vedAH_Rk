@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-व꣡रेथे अग्नि꣡म् आत꣡पो  
-व꣡दते वल्गु꣡ अ꣡त्रये  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+व᳓रेथे अग्नि᳓म् आत᳓पो  
+व᳓दते वल्गु᳓ अ᳓त्रये  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वल्गु- मधुरम्। वदते- स्तुवते। अत्रये- अग्न्युपासकाय। आतपः- आतपात्। अग्निम्। वरेथे-  आवारयतम्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **वल्गु** मनोहरं **वदते** स्तुवते **अत्रये** **आतपः** आतपादौष्ण्यात् **अग्निं** **वरेथे** आवारयतम् ॥
@@ -191,8 +194,6 @@ Des Feuers Gluten wehret ihr dem Atri ab, der lieblich singt; Es sei uns eure H�
 Вы отводите огонь, чтоб он не жег.  
 Пусть ваша помощь будет рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ For a similar covert coding of soma, there by the use of the genitive pronoun  a
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra The whole hymn is tr. and disc. by Schmidt (Bṛhaspati und Indra 149-51).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३९  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

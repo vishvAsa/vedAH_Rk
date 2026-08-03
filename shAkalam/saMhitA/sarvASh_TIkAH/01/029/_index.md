@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The last three pādas of each five-pāda verse in this hymn constitute a refrain
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२९   आजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातः। इन्द्रः। पङ्क्तिः।
 </details>

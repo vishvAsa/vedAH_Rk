@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य ते र꣡सो  
-म꣡दो राजन्न् अदुछुनः꣡  
-वि꣡ वा꣡रम् अ꣡व्यम् अर्षति
+प᳓वमानस्य ते र᳓सो  
+म᳓दो राजन्न् अदुछुनः᳓  
+वि᳓ वा᳓रम् अ᳓व्यम् अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- पूयमानस्य। ते- भवतः सोमस्य। रसः। मदः- तृप्तिकरः। राजन्- रञ्जक। उच्छुनः-  रक्षोवर्जितः। अव्यं वारम्- सरणशीलरसस्य स्वस्थान एव रक्षाकरमुपलब्धिस्थानमित्यर्थः।  रसव्यञ्जकम्। वरणीयं प्रतीकम्। वि- विशेषेण। अर्षति- गच्छति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **राजन्** दीप्यमान सोम **पवमानस्य** क्षरतः **ते** तव **अदुच्छुनः** रक्षोवर्जितः **मदः** मदकरः **रसः** **अव्यम्** अविमयं **वारं** वालं दशापवित्रम् **अर्षति** अभिगच्छति ॥
@@ -156,7 +159,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 When you are purifying yourself, o king, your sap, the exhilarating  drink that brings no misfortune, rushes through the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
@@ -191,8 +194,6 @@ Dein Saft, dein segensreicher Trank, o König, der du hell erstrahlst, Ergiesst 
 Течет через сито из овечьей шерсти.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -203,7 +204,7 @@ Dein Saft, dein segensreicher Trank, o König, der du hell erstrahlst, Ergiesst 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे कर्मदक्ष ! (पवमानस्य ते) सबको सुख देनेवाले आपको (रसः) पैदा किया हुआ सुख और(मदः)आह्लाद (राजन्)हे स्वामिन् ! (अदुच्छुनः) जो विघ्नकारियों से रहित है, वह (वारम् अव्यम्) जो आपका दृढ़ भक्त है, उसकी ओर (वि) विशेषरूप से (अर्षति) जाता है॥१७॥
+पदार्थान्वयभाषाः -  हे कर्मदक्ष ! (पवमानस्य ते) सबको सुख देनेवाले आपको (रसः) पैदा किया हुआ सुख और(मदः)आह्लाद (राजन्)हे स्वामिन् ! (अदुच्छुनः) जो विघ्नकारियों से रहित है, वह (वारम् अव्यम्) जो आपका दृढ़ भक्त है, उसकी ओर (वि) विशेषरूप से (अर्षति) जाता है॥१७॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

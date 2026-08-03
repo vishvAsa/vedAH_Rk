@@ -1,6 +1,5 @@
 +++
 title = "+079"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ After this complex and allusive vignette, the other three hymn segments are  a s
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni See the published introduction. for the structure of this hymn (or rather the four hymns collected here) and for an analysis of the first three verses.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७९   गोतमो राहूगणः। १-३ वैद्युतोऽग्निः शुद्धाग्निर्वा, ४-१२ अग्निः। १-३ त्रिष्टुप्,४-६ उष्णिक्, ७-१२ गायत्री  गोतमो राहूगणः।
 </details>

@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न इ꣡न्द्राय य꣡ज्यवे  
-व꣡रुणाय मरु꣡द्भियः  
-वरिवोवि꣡त् प꣡रि स्रव
+स᳓ न इ᳓न्द्राय य᳓ज्यवे  
+व᳓रुणाय मरु᳓द्भियः  
+वरिवोवि᳓त् प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः। वरिवोवित्- संपल्लम्भकः सन्। नः- अस्मदर्थम्। यज्यवे- पूज्याय। इन्द्राय-  ईशनाधिदैवताय। वरुणाय- ऋताधिदैवताय। मरुद्भ्यः- प्राणविशेषेभ्यः। परि स्रव- परितः  क्षर॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **वरिवोवित्** धनस्य लम्भकः पवमानस्त्वं **नः** अस्माकं **यज्यवे** यष्टव्याय **इन्द्राय** **वरुणाय** च **मरुद्भ्यः**  च **परि** **स्रव** धारया क्षर ॥
@@ -159,7 +162,7 @@ _________
 
 Flow around for worshipful Indra, for Varuṇa, for the Maruts,  
 finding a wide realm for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
@@ -193,8 +196,6 @@ So ströme Segen spendend uns dem hochverehrten Indra nun, Dem Varuna, der Marut
 Для Варуны, для Марутов  
 Теки кругами, находя широкий простор!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

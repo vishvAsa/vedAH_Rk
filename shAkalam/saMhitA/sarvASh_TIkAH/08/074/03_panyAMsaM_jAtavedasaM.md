@@ -3,7 +3,6 @@ title = "003"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡न्यांसं जात꣡वेदसं  
-यो꣡ देव꣡ताति उ꣡द्यता  
-हव्या꣡नि अइ꣡रयत् दिवि꣡
+प᳓न्यांसं जात᳓वेदसं  
+यो᳓ देव᳓ताति उ᳓द्यता  
+हव्या᳓नि अइ᳓रयत् दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -117,6 +115,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। देवताति- यज्ञे। उद्यता- उद्यतानि। हव्यानि। दिवि- नभसि। ऐरयत्- प्रेरयति। तम्।  पन्यासम्- स्तुत्यम्। जातवेदसम्- जातविद्यं स्तुमः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पन्यांसम्** अतिशयेन स्तोतारं साधु कृतमिति यजमानं स्तुवन्तं **जातवेदसं** जातधनं जातविद्यं वा स्तुव इति शेषः । **यः** अग्निः **देवताति** देवतातौ यज्ञे **उद्यता** उद्यतानि **हव्यानि** हवींषि **दिवि** **ऐरयत्** प्रेरयति दिवि देवेभ्यः ॥
@@ -156,10 +159,6 @@ Den hochgeschätzten Jatavedas, der die im Götteropfer dargebotenen Spenden gen
 
 Den schönen, der die Wesen kennt, der die gereichten Opfer bringt, Zum Himmel zu der Götterschar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

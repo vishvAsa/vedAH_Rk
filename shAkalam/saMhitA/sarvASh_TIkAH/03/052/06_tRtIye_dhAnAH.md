@@ -3,7 +3,6 @@ title = "006"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तृती꣡ये धानाः꣡ स꣡वने पुरुष्टुत  
-पुरोळा꣡शम् आ꣡हुतम् मामहस्व नः  
-ऋभुम꣡न्तं वा꣡जवन्तं तुवा कवे  
-प्र꣡यस्वन्त उ꣡प शिक्षेम धीति꣡भिः
+तृती᳓ये धानाः᳓ स᳓वने पुरुष्टुत  
+पुरोळा᳓शम् आ᳓हुतम् मामहस्व नः  
+ऋभुम᳓न्तं वा᳓जवन्तं तुवा कवे  
+प्र᳓यस्वन्त उ᳓प शिक्षेम धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -191,6 +189,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तृतीये। सवने- सम्भजने। पुरुष्टुत- बहुभिः स्तुत। नः- अस्माकम्। आहुतम्- समर्पितम्।  पुरोळाशम्- पुरोडाशम्। धानाः- यवान्। मामहस्व- सम्भावय। ऋभुमन्तम्- उरुभासमानम्।  वाजवन्तम्- सुगतिम्। त्वा- त्वाम्। कवे- क्रान्तदर्शिन्। प्रयस्वन्तः- हव्यवन्तो वयम्। धीतिभिः-  चित्तधारणाभिः। उप शिक्षेम- परिचरेम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पुरुष्टुत** पुरुभिर्बहुभिः स्तोतृभिः स्तुत हे इन्द्र **तृतीये** **सवने** **नः** अस्मदीयान् **धानाः** हुतान् भृष्टयवान् **आहुतं** **पुरोळाशं** च **मामहस्व** भक्षणेन महय संभावय । हे **कवे** इन्द्र **प्रयस्वन्तः** संभृतहविष्का वयम् **ऋभुमन्तम्** । ऋभवो ये केचन देवास्तद्वन्तं **वाजवन्तम्** । वाजो नाम सुधन्वनः पुत्रस्तद्वन्तं **त्वा** त्वां **धीतिभिः** स्तुतिभिः **उप** **शिक्षेम** समीपे परिचरेम ॥ आहुतम् । जुहोतेः कर्मणि क्तः । ‘ गतिरनन्तरः' इति गतेः स्वरः । मामहस्व । मह पूजायाम् ' इत्यस्य यङ्लुगन्तस्य लोटि व्यत्ययेनात्मनेपदम् । शपो लुगभावश्छान्दसः । शिक्षेम । शिक्षतेः आशीर्लिङि  • लिङ्याशिष्यङ्' इत्यङ्प्रत्ययः । निघातः । धीतिभिः । ‘ हिष्ठवत्सरतिशत्थान्तानाम् । इत्यन्तोदात्तत्वम् ॥
@@ -209,7 +212,7 @@ _________
 At the Third Pressing, our roasted grains, our offering cake bepoured  (with ghee)—grant them to yourself, much-praised one.  
 Might we, dispensing ritual delights, entice you here with our hymnic  visions, o poet—you accompanied by the R̥bhus, provided with  
 prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">
@@ -243,8 +246,6 @@ Bei der dritten Spende erfreue dich an dem Körnerbrei und an dem begossenen Kuc
 Тебя, о поэт, окруженного Рибху, несущего награды,  
 Мы с жертвенными усладами хотим привлечь поэтическими мыслями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

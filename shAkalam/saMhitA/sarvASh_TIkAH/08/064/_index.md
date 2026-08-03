@@ -1,6 +1,5 @@
 +++
 title = "+064"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The sentiments expressed and the vocabulary are likewise uncomplex and stan dard
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६४  प्रगाथः काण्वः।इन्द्रः। गायत्री।
 </details>

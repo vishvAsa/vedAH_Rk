@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ us the power inhering in rival peoples (see especially vss. 7–8), and to help 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra This hymn nicely demonstrates the distribution of impv. forms to √bhū that I discussed in my 1997 “Syntactic constraints on morphological change: The Vedic imperatives bodhi, dehi, and dhehi”: bháva/bhava is found initial (3d) or final (10d, 11a) in its pāda or clause, while bodhi is internal (4c).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४६  शंयुर्बार्हस्पत्यः।इन्द्रः। प्रगाथः - (विषमा बृहती, समा सतोबृहती)।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+016"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In the final two verses (13–14) the place where the cremation took place retur
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६  दमनो यामायनः। अग्निः। त्रिष्टुप्, ११-१४ अनुष्टुप्
 </details>

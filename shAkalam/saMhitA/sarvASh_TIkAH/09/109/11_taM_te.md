@@ -3,7 +3,6 @@ title = "011"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ ते सोता꣡रो र꣡सम् म꣡दाय  
-पुन꣡न्ति सो꣡मम् महे꣡ द्युम्ना꣡य
+तं᳓ ते सोता᳓रो र᳓सम् म᳓दाय  
+पुन᳓न्ति सो᳓मम् महे᳓ द्युम्ना᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महे- महते। द्युम्नाय- ज्योतिषे। ते- अमी। सोतारः- निष्पादका उपासकाः। मदाय- तृप्तये। तं  सोमं रसम्। पुनन्ति- शोधयन्ति॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सोतारः अभिषोतार ऋत्विजो हे सोम **ते** तव स्वभूतं **रसं** **मदाय** मदार्थं **पुनन्ति** । तदेवोच्यते । **महे** महते **द्युम्नाय** । **द्युम्नं** द्योततेर्यशो वान्नं वा । अन्नाय यशसे वा सोमं पुनन्ति शोधयन्ति । यद्वा । सोममभिषूयमाणं तं रसं पुनन्तीत्येकवाक्यतया योजनीयम् ॥
@@ -146,7 +149,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The pressers purify that sap of yours for exhilaration, the soma for  great heavenly brilliance.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
@@ -178,8 +181,6 @@ Dir klären Presser – den Saft zum Rausche, den hellen Soma – zu grossem Rei
 Для опьянения, сому для великого блеска.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -190,7 +191,7 @@ Dir klären Presser – den Saft zum Rausche, den hellen Soma – zu grossem Rei
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोतारः) उपासक लोग (ते) तुम्हारे (तं) उस (सोमं) शान्तिरूप (रसं) आनन्द को (मदाय) आनन्दित होने के लिये तथा (महे, द्युम्नाय) बड़े ऐश्वर्य्यप्राप्ति के लिये धारणा द्वारा (पुनन्ति) पवित्र करते हैं॥११॥
+पदार्थान्वयभाषाः -  (सोतारः) उपासक लोग (ते) तुम्हारे (तं) उस (सोमं) शान्तिरूप (रसं) आनन्द को (मदाय) आनन्दित होने के लिये तथा (महे, द्युम्नाय) बड़े ऐश्वर्य्यप्राप्ति के लिये धारणा द्वारा (पुनन्ति) पवित्र करते हैं॥११॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

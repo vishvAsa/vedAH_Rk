@@ -3,7 +3,6 @@ title = "006"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ पूषन्न् आ꣡रया तुद  
-पणे꣡र् इछ हृदि꣡ प्रिय꣡म्  
-अ꣡थेम् अस्म꣡भ्य° रन्धय
+वि᳓ पूषन्न् आ᳓रया तुद  
+पणे᳓र् इछ हृदि᳓ प्रिय᳓म्  
+अ᳓थेम् अस्म᳓भ्य° रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    पूषन्- पोषक सूर्य। आरया- प्रतोदेन। वि- विशेषेण। तुद- विध्य। पणेः- लोभिनः। हृदि- हृदये।  प्रियम्- प्रेम। इच्छ- कारय। अथ- ततः। ईम्- एतम्। अस्मभ्यम्- अस्मदर्थम्। रन्धय-  वशीकुरु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पूषन्** **आरया** प्रतोदेन **पणेः** वणिजः हृदयं **वि** **तुद** विविध्य । तस्य पणेः **हृदि** हृदये **प्रियम्** अस्मभ्यमनुकूलं धनम् **इच्छ** दातव्यमितीच्छां जनय । **अथ** अनन्तरम् **अस्मभ्यम्** **ईम्** एनान् **रन्धय** वशीकुरु ॥
@@ -171,7 +174,7 @@ _________
 
 Thrust through (them) with an awl, Pūṣan. Seek what is dear to the  heart of the niggard.  
 And make him subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">
@@ -207,8 +210,6 @@ Durchstich sie, Puschan, mit dem Spiess, nimm, was des Knausers Herz erfreut, Un
 И отдай это нам во власть!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -224,7 +225,7 @@ Durchstich sie, Puschan, mit dem Spiess, nimm, was des Knausers Herz erfreut, Un
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (पूषन्) पुष्टि करनेवाले ! आप दुष्टों को (ईम्) सब ओर से (रन्धय) अति पीड़ित करो तथा (अस्मभ्यम्) हमारे लिये (हृदि) हृदय में (प्रियम्) प्यारे पदार्थ की (इच्छ) इच्छा करो (अथ) इसके अनन्तर (आरया) कोड़ा से बैलों के समान (पणेः) प्रशंसित व्यवहार करनेवाले के असम्बन्धी जनों को (वि, तुद) विशेषता से पीड़ा देओ ॥६॥
+पदार्थान्वयभाषाः -  हे (पूषन्) पुष्टि करनेवाले ! आप दुष्टों को (ईम्) सब ओर से (रन्धय) अति पीड़ित करो तथा (अस्मभ्यम्) हमारे लिये (हृदि) हृदय में (प्रियम्) प्यारे पदार्थ की (इच्छ) इच्छा करो (अथ) इसके अनन्तर (आरया) कोड़ा से बैलों के समान (पणेः) प्रशंसित व्यवहार करनेवाले के असम्बन्धी जनों को (वि, तुद) विशेषता से पीड़ा देओ ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

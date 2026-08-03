@@ -1,6 +1,5 @@
 +++
 title = "+100"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Verbally the hymn is structured by the frequent hemistich-initial occurrences  o
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१००   वार्षागिराः ऋज्राश्वाम्बरीष - सहदेव - भयमान - सुराधसः। इन्द्रः। त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "009"
 devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अक्ष्ण꣡श् चिद् गातुवि꣡त्तर  
-अनुल्बणे꣡न च꣡क्षसा  
-नि꣡ चिन् मिष꣡न्ता निचिरा꣡ नि꣡ चिक्यतुः
+अक्ष्ण᳓श् चिद् गातुवि᳓त्तर  
+अनुल्बणे᳓न च᳓क्षसा  
+नि᳓ चिन् मिष᳓न्ता निचिरा᳓ नि᳓ चिक्यतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,6 +152,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अक्ष्णः- चक्षुषः। चित्- अपि। गातुवित्तरौ- मार्गवित्तरौ। अनुल्बेण- अनुष्णया स्निग्धया।  चक्षसा- दृष्ट्या। नि मिषन्ता- सर्वमुन्मेषयन्तौ। निचिरा- चिरन्तनौ। नि चियथुः- पूजितौ  बभूवथुः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अक्ष्णश्चित्** चक्षुषोऽपि पूर्वं **गातुवित्तरा** गातुवित्तरावतिशयेन मार्गवेत्तारौ । यद्वा । गातुवित्तरौ गातु गमनशीलं प्राणिजातं चक्षुषोऽपि पूर्वं वेत्तारौ मित्रावरुणौ । कीदृशौ। **नि** **मिषन्ता** निमिषन्तौ सर्वमुन्मेषयन्तौ स्वस्वकर्मणि **निचिरा** नितरां चिरंतनौ तौ **अनुल्बणेन** । उल्बणमिति दुःसहमग्नेस्तेजः । तद्वददुःसहेन **चक्षसा** अहोरात्रयोर्व्याप्तेन तेजसैब **नि** **चिक्यतुः** पूजितौ बभूवतुः । **चित्** अवधारणे ॥
@@ -176,7 +179,7 @@ The ṛca is a referenceto **Mitra** and **Varuṇa** as respectively presiding 
 
 Better even than the eye at finding the way, by means of eyesight  without motes,  
 even when blinking, the two attentive ones remain attentive.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
@@ -209,8 +212,6 @@ Sie, die mit unumwölktem Blick mehr als das Auge Heil ersehn; Selbst wenn sie s
 (Они) со своим безошибочным зрением,  
 Даже моргая, они (всё равно) наблюдают как наблюдатели.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

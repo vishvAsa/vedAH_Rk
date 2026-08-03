@@ -3,7 +3,6 @@ title = "030"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-गि꣡रश् च या꣡स् ते गिर्वाह  
-उक्था꣡ च तु꣡भ्यं ता꣡नि  
-सत्रा꣡ दधिरे꣡ श꣡वांसि
+गि᳓रश् च या᳓स् ते गिर्वाह  
+उक्था᳓ च तु᳓भ्यं ता᳓नि  
+सत्रा᳓ दधिरे᳓ श᳓वांसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गिर्वाहः- गीर्भिः सम्भजनीय। याः। ते- तव। गिरः- वाचः। च। तुभ्यम्- त्वदर्थं कल्पितानि।  तानि। उक्थानि- शस्त्राणि। सत्रा- युगपदेव। शवांसि- शक्तीः। दधिरे- धारयन्ति॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **गिर्वाहः** गीर्भिः स्तुतिभिः वहनीयेन्द्र **ते** तुभ्यं क्रियमाणाः **गिरश्च** स्तुतिरूपाश्च वाचः **याः** सन्ति । **उक्था** **च** उक्थानि च शस्त्ररूपाणि च वचांसि **तुभ्यं** त्वदर्थं क्रियमाणानि यानि सन्ति । **तानि** सर्वाणि **सत्रा** सहैव **शवांसि** बलानि **दधिरे** तव विदधिरे ॥ ॥ २२ ॥
@@ -172,7 +175,7 @@ _________
 
 And the songs for you, o you whose vehicle is song, and the solemn  words—these are for you—  
 those which have in every way deployed their powers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">
@@ -206,8 +209,6 @@ Denn die Lieder, liederfreuter, Indra, und der Sänger Sprüche Geben stets dir 
 Тебе полностью придают силы,  
 И эти гимны – для тебя.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

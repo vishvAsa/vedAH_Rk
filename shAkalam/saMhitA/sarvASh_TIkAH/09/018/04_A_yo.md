@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यो꣡ वि꣡श्वानि वा꣡रिया  
-व꣡सूनि ह꣡स्तयोर् दधे꣡  
-म꣡देषु सर्वधा꣡ असि
+आ᳓ यो᳓ वि᳓श्वानि वा᳓रिया  
+व᳓सूनि ह᳓स्तयोर् दधे᳓  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। विश्वानि- सर्वाः। वार्या- उत्तमाः। वसूनि- संपदः। हस्तयोः- बाह्वोः। आ- मर्यादया। दधे-  धारयसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सोमः **विश्वानि** **वार्या** वरणीयानि **वसूनि** धनानि स्तोतुः **हस्तयोः** **आ** **दधे** करोति । प्रयच्छतीत्यर्थः । **मदेषु** **सर्वधा** **असि** इति । अथवा स शुष्मी इत्युत्तरत्र संबन्धः ॥
@@ -165,7 +168,7 @@ _________
 
 He who holds all desirable good things in his two hands—  
 – You are the one who confers wholeness in the raptures of exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
@@ -174,6 +177,7 @@ He who holds all desirable good things in his two hands—
 Note the two occurrences of víśva- (3a, 4a), which contrast with the sarva- in the refrain.
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -205,8 +209,6 @@ In seine Hände sind gelegt, Die schönen Schätze allzumal; Bei den Gelagen sch
 Держит в (своих) руках, –  
 В опьянениях ты даешь все.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उ श्रिया꣡ द꣡मेषु आ꣡  
-दोषो꣡ष꣡सि प्रशस्य꣡ते  
-य꣡स्य व्रतं꣡ न꣡ मी꣡यते
+य᳓ उ श्रिया᳓ द᳓मेषु आ᳓  
+दोषो᳓ष᳓सि प्रशस्य᳓ते  
+य᳓स्य व्रतं᳓ न᳓ मी᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। श्रिया- मङ्गळेन। दमेषु- सदनेषु। आ- आभिमुख्येन। दोषोषसि- दिवारात्रम्। प्रशस्यते-  स्तूयते। यस्य। व्रतम्- नियतिर्धर्मो वा। न मीयते- न नश्यति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 योग्निः श्रियाज्वालयायुक्तः सन् दमेषु गृहेषुआ आगत्य दोषारात्रिषु उषसि अहःसुच प्रशस्यते स्तूयते यस्याग्नेर्व्रतङ्कर्मनमीयते नहिंस्यते नक्षीयतेवा उःपूरणः ॥ ३ ॥
@@ -172,7 +175,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Who with his beauty is proclaimed in the houses at evening and at dawn, whose commandment is not confounded,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
@@ -210,8 +213,6 @@ Und in den Häusern spät und früh durch schönen Glanz verherrlicht wird, Und 
 Прославляется вечером и утром,  
 Чей обет не нарушается,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

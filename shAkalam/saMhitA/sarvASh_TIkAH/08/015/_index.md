@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Both the language and the structure of this hymn are straightforward, but its  r
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५  गोषूक्त्यश्वसूक्तिनौ काण्वायनौ।इन्द्रः। उष्णिक्
 </details>

@@ -3,7 +3,6 @@ title = "007"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र ज्यो꣡तिर् अ꣡जस्रं  
-य꣡स्मिँ लोके꣡ सु꣡वर् हित꣡म्  
-त꣡स्मिन् मां꣡ धेहि पवमान  
-अमृ꣡ते लोके꣡ अ꣡क्षित  
-इ꣡न्द्रायेन्दो प꣡रि स्रव
+य᳓त्र ज्यो᳓तिर् अ᳓जस्रं  
+य᳓स्मिँ लोके᳓ सु᳓वर् हित᳓म्  
+त᳓स्मिन् मां᳓ धेहि पवमान  
+अमृ᳓ते लोके᳓ अ᳓क्षित  
+इ᳓न्द्रायेन्दो प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -30,11 +28,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ájasram ← ájasra- (nominal stem)  
@@ -221,9 +219,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    अजस्रम्- अविच्छिन्नम्। ज्योतिः। यत्र। यस्मिन्। लोके- अनुभवे। स्वः- सर्वम्। हितम्-  निहितम्। तस्मिन्। अमृते लोके- अमृतस्वरूपानुभवे। माम्। धेहि- धारय। पवमान-  पुनान॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **पवमान** **यत्र** यस्मिँल्लोके **ज्योतिः** सर्वं तेजः **अजस्रं** सर्वदाविनश्वरं वर्तते । यस्मिन् च **लोके** **स्वः** आदित्याख्यं ज्योतिः **हितं** निहितमस्ति । **तस्मिन्** **अमृते** मरणधर्मरहिते अत एव **अक्षिते** अक्षीणे **लोके** मां सोमाभिषवं कुर्वन्तं **धेहि** निधेहि । तस्मात् मामुत्तमलोकं प्रापयितुं त्वम् इन्द्राय **पंरि** **स्रव** ॥
+हे **पवमान** **यत्र** यस्मिल्ँलोके **ज्योतिः** सर्वं तेजः **अजस्रं** सर्वदाविनश्वरं वर्तते । यस्मिन् च **लोके** **स्वः** आदित्याख्यं ज्योतिः **हितं** निहितमस्ति । **तस्मिन्** **अमृते** मरणधर्मरहिते अत एव **अक्षिते** अक्षीणे **लोके** मां सोमाभिषवं कुर्वन्तं **धेहि** निधेहि । तस्मात् मामुत्तमलोकं प्रापयितुं त्वम् इन्द्राय **पंरि** **स्रव** ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -240,7 +243,7 @@ Where the inexhaustible light is, in which world the sun is placed,
 in that one place me, o self-purifying one, in the immortal,  
 imperishable world.  
 – O drop, flow around for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">
@@ -276,8 +279,6 @@ Wo unauslöschlich Licht erglänzt, wo Himmelsglanz entzündet ist, An den Ort b
 В бессмертный нерушимый мир!  
 Для Индры, о капля, растекайся вокруг!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

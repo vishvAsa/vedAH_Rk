@@ -3,7 +3,6 @@ title = "009"
 devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "ककुप्"
 - छन्दः - ककुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति वो वृषदञ्जयो  
-वृ꣡ष्णे श꣡र्धाय मा꣡रुताय भरध्वम्  
-हव्या꣡ वृ꣡षप्रयावणे
+प्र᳓ति वो वृषदञ्जयो  
+वृ᳓ष्णे श᳓र्धाय मा᳓रुताय भरध्वम्  
+हव्या᳓ वृ᳓षप्रयावणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,6 +138,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषदञ्जयः- वर्षकेन सोमेन सिञ्चन्तः। वः- यूयम्। वृषप्रयाव्णे- वर्षकसोमशरणाय। वृष्णे-  वर्षकाय। मारुताय शर्धाय- मरुद्गणाय। हव्या- हव्यानि। भरध्वम्- सम्पादयत॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वृषदञ्जयः वृषता वर्षकेण सोमेनाञ्जन्तः सिञ्चन्तोऽध्वर्यवः **वः** यूयं **वृष्णे** वर्षित्रे **मारुताय** मरुत्संघरूपाय **शर्धाय** बलाय हव्यानि हवींषि **प्रति** **भरध्वम्** । आहवनीयं प्रति हरत । शर्धं विशेष्यते । **वृषप्रयाव्णे** । वृषाणः सेक्तारः प्रयावानः प्रकृष्टं गन्तारो मरुतो यस्मिन् तत्तथोक्तम् । तस्मै ॥
@@ -157,7 +160,7 @@ _________
 
 O you who rain unguents, present oblations to your own bullish  Marutian troop  
 whose leader is a bull [=Indra].
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
@@ -191,8 +194,6 @@ Auf bringt, o Salben-regnende, nun eurer starken Marutschar die Opfer dar, ihr, 
 Принесите бычьей стае марутовой  
 Жертвенные возлияния – (этой) мощно выезжающей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

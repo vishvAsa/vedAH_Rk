@@ -1,6 +1,5 @@
 +++
 title = "+068"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+068"
 <details><summary>Jamison Brereton</summary>
 
 68 (780)  
-Soma Pavamāna  
+Soma Pavamāna  
 Vatsaprī Bhālandana  
 10 verses: jagatī, except triṣṭubh 10  
 The first of the Soma hymns in jagatī meter (IX.68–86), this poem well dem onstrates the increased possibilities for verbal and conceptual richness that the  longer meter affords, in contrast to the concision and constriction of gāyatrī.  The hymn has an omphalos structure: since verse 10 is a summary verse and in  a different meter (triṣṭubh), verse 5 is the middle verse and encodes the esoteric  knowledge that is the hymn’s message. This verse is framed by a number of verbal  and semantic responsions (though not as tightly arranged as in some omphalos  hymns): for instance, the fingers of verses 4 and 7, as well as the same phrase “held  by men” in both verses; the forms of the root vid “find, discover” in verses 3 and  6 (and 9).  
@@ -41,4 +40,10 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 The theme of these three hymns, particularly insistent in the first and last, is the difference between and ultimate unity of earthly and heavenly Soma.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६८  वत्सप्रिर्भालन्दनः।पवमानः सोमः। जगती, १० त्रिष्टुप्
 </details>

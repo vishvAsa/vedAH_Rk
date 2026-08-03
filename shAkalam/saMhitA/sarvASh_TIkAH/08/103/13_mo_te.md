@@ -3,7 +3,6 @@ title = "013"
 devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मो꣡ ते꣡ रिषन् ये꣡ अ꣡छउक्तिभिर् वसो  
-अ꣡ग्ने के꣡भिश् चिद् ए꣡वैः  
-कीरि꣡श् चिद् धि꣡ त्वा꣡म् ई꣡ट्टे दूति꣡याय  
-रात꣡हव्यः सुअध्वरः꣡
+मो᳓ ते᳓ रिषन् ये᳓ अ᳓छउक्तिभिर् वसो  
+अ᳓ग्ने के᳓भिश् चिद् ए᳓वैः  
+कीरि᳓श् चिद् धि᳓ त्वा᳓म् ई᳓ट्टे दूति᳓याय  
+रात᳓हव्यः सुअध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -226,6 +224,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वसो- शरण्य। अग्ने। अच्छोक्तिभिः- स्तुतिभिः। केभिः- सुखकारिणीभिः। एवैः- गतिभिः। ते-  त्वाम्। मा। रिषन्- हिंसन्तु। रातहव्यः- दत्तहविष्कः। स्वध्वरः- ध्वरविरोधिशोभनकर्मा। कीरिः-  कीर्तयिता। दूत्याय- देवदौत्याय। त्वाम्। ईट्टे- स्तौति। हि- खलु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वसो वासक **अग्ने** त्वां ये मनुष्याः**अच्छोक्तिभिः** अभिष्टुतिभिः **केभिः** कैः सुखकरैः **एवैः** **चित्** अभिगमनैरपि ते स्तोतारः **मो** **रिषन्** मैव हिंसन्ताम् । रातहव्यः दत्तहविष्कः **कीरिश्चित्** स्तोतापि **दूत्याय** हविर्वहनादिलक्षणीय दूतकर्मणे **त्वामी** **हि** स्तौति खलु ॥
@@ -243,7 +246,7 @@ _________
 
 And let those not suffer harm who (approach you) with invitations here  in sundry ways, o good Agni.  
 For even a weakling reverently invokes you for a mission if he is a man  of good ceremony who has bestowed the oblation.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
@@ -278,8 +281,6 @@ O guter Agni, nimmer lass beschädigt sein, die dir mit Anrufungen nahn; Denn je
 Ведь даже бедный просит тебя стать вестником,  
 Приносящий жертвы, прекрасный исполнитель обряда.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

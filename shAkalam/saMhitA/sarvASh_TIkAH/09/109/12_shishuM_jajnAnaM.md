@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शि꣡शुं जज्ञानं꣡ ह꣡रिम् मृजन्ति  
-पवि꣡त्रे सो꣡मं देवे꣡भ्य इ꣡न्दुम्
+शि᳓शुं जज्ञानं᳓ ह᳓रिम् मृजन्ति  
+पवि᳓त्रे सो᳓मं देवे᳓भ्य इ᳓न्दुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शिशुं जज्ञानम्- जातं वत्सम्। हरिम्- आकर्षकम्। इन्दुम्- क्लेदनशीलम्। सोमम्- रसम्।  देवेभ्यः- देवताभ्यः। पवित्रे- भाजने प्रतीके। मृजन्ति- शोधयन्ति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शिशुम्** अपां पुत्रभूतं **जज्ञानं** जायमानं **हरिं** हरितवर्णम् **इन्दुं** दीप्तं **सोमं** **देवेभ्यः** देवार्थं **पवित्रे** **मृजन्ति** ऋत्विजो मार्जयन्ति ।
@@ -134,7 +137,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 They groom the tawny child just born, the soma in the filter, the drop  for the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
@@ -165,8 +168,6 @@ Den neugebornen, – den goldnen, klären im Sieb sie, Soma, – den Trank den G
 Новорожденного ребенка золотистого они начищают,  
 Сому в цедилке, сок для богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् पुर꣡स्तात् सू꣡र्य एति  
-विश्व꣡दृष्टो अदृष्टहा꣡  
-अदृ꣡ष्टान् स꣡र्वाञ् जम्भ꣡यन्  
-स꣡र्वाश् च यातुधानि꣡यः
+उ᳓त् पुर᳓स्तात् सू᳓र्य एति  
+विश्व᳓दृष्टो अदृष्टहा᳓  
+अदृ᳓ष्टान् स᳓र्वाञ् जम्भ᳓यन्  
+स᳓र्वाश् च यातुधानि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 eti ← √i- 1 (root)  
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वदृष्टः- सर्वेषां दर्शनं गतः। अदृष्टहा- सूक्ष्मविषाणां बाधकः। सूर्य आत्मप्रतीकः। अदृष्टान्-  अदृश्यमानान्। सर्वान्। सर्वाश्च। यातुधान्यः- यातनाधारिणीः। जम्भयन्- नाशयन्। पुरस्तात्-  प्रत्यक्षतः। सूर्यः- सविता। उदेति॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 असौ सूर्यः **पुरस्तात्** पूर्वस्यां दिशि **उत्** **एति** । कीदृशः सः । **विश्वदृष्टः** । विश्वे द्रष्टव्या यस्य स तादृशः । **अदृष्टहा** । अदृष्टा विषविशेषा विषधरविशेषा वा । तेषां हन्ता । यद्वा । अदृष्टमदर्शनमज्ञानमन्धकारः । तस्य हन्ता । सूर्ये उदिते सति सर्वे विषधरा विषाणि वा पलायन्ते । किं कुर्वन्नुदेति इति चेत् उच्यते । **सर्वान्** **अदृष्टान्** अद्रष्टव्यान्विषराक्षसादीन् जम्भयन् हिंसयन् । तथा **सर्वाः** **यातुधान्यः** । यातवो यातनास्तीव्रवेदनाः । तासां धात्रीरुत्पादयित्रीर्महोरगीः राक्षसीर्वा जम्भयन पुरस्तादुदेति । अतोऽस्मत्तो नि जस्यत इति संबन्धः ॥
@@ -196,7 +199,7 @@ Destroyer of the unseen: adṛṣṭhā may also mean the dissipator of darkness
 
 Up from the east comes the Sun—the smasher of the no-see-ums, seen  by all,  
 crushing all the no-see-ums and all the sorceries.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">
@@ -231,8 +234,6 @@ Vor euch geht die Sonne auf, die alles bemerkt und das unbemerkte Gewürm tödte
 Загрызающее всех невидимых  
 И всех колдуний.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

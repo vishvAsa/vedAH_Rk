@@ -3,7 +3,6 @@ title = "015"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इयत्तकः꣡ कुषुम्भक꣡स्  
-तक꣡म् भिनद्मि अ꣡श्मना  
-त꣡तो विष꣡म् प्र꣡ वावृते  
-प꣡राचीर् अ꣡नु संव꣡तः
+इयत्तकः᳓ कुषुम्भक᳓स्  
+तक᳓म् भिनद्मि अ᳓श्मना  
+त᳓तो विष᳓म् प्र᳓ वावृते  
+प᳓राचीर् अ᳓नु संव᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 iyattakáḥ ← iyattaká- (nominal stem)  
@@ -163,6 +161,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इयत्तकः- अत्यल्पमदृश्यम्। कुषुम्भकः- कुटिलतया विदारकं विषम्। सुम्भति विलिखति। तकम्-  तं विषविशेषं विषयुक्तं वा। अश्मना- आयुधेन। भिनद्मिु- विदारयामि। ततः- अनन्तरम्। विषम्।  पराचीः- परागञ्जनवतीर्दूरगाः। संवतः- संविभक्ता दिशः। अनु। प्र वावृते- निर्गच्छति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इयत्तकः** कुत्सितेयत्तः अल्पप्रमाण इत्यर्थः । **कुषुम्भकः** कुं पृथ्वीं सुम्भति विलिखतीति सर्पाणां कुत्सितं सुम्भयिता निग्रहीता' कुषुम्भको नकुलः । स ते विषं हरत्विति शेषः । यदि न तथा स करोति **तकं** कुत्सितं तं नकुलम् **अश्मना** **भिनद्मि** विदारयामि । विषनिर्हरणप्रयोगे यावद्विषापगमं तं पाषाणानुघातमनुतिष्ठन्ति तद्विदः । तदिदमत्रोक्तम् । **ततः** एवं प्रयोगे सति **विषं** **प्र** **वावृते** विषावृताद्देहात् विषं प्रवर्तते निर्गच्छतु । काः प्रति । उच्यते । **पराचीः** परागञ्चनवतीः अतिदूरगाः **संवतः** संविभागवतो दिशः **अनु** लक्षीकृत्य दिगन्तं प्रति गच्छतु न मां प्रति गच्छत्वित्यर्थः ॥
@@ -185,7 +188,7 @@ The mongoose: kuṣumbako **nakulaḥ**, the mongoose, whose hostility to the sn
 
 Such a little teeny kuṣumbha-bug—I split that itty-bitty thing with a  rock.  
 Thence has the poison rolled forth, following channels facing away  (from us).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
@@ -222,8 +225,6 @@ So winzig das Giftinsekt ist, so klein es ist, ich zerschlage es mit dem Steine,
 Из него улетучился яд  
 По (разным) сторонам прочь от нас.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

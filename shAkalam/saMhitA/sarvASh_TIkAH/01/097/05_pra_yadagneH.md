@@ -3,7 +3,6 @@ title = "005"
 devataa = "अग्निरग्निः शुचिर्वा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ य꣡द् अग्नेः꣡ स꣡हस्वतो  
-विश्व꣡तो य꣡न्ति भान꣡वः  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+प्र᳓ य᳓द् अग्नेः᳓ स᳓हस्वतो  
+विश्व᳓तो य᳓न्ति भान᳓वः  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्नेः- सर्वभूतहितक्रतोः। सहस्वतः- सहनशीलस्य। भानवः- रश्मयः शक्तयो वा। विश्वतः-  सर्वतः। प्र- प्रकर्षेण। यन्ति- गच्छन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्वतः** सहनवतः शत्रूनभिभवतः **अग्नेः** **भानवः** दीप्तयः **विश्वतः** सर्वतः सर्वस्मादपि प्रदेशात् **प्र** **यन्ति** प्रकर्षेणोद्गच्छन्ति। **यत्** यस्मादेवं तस्मात्तेनाग्नितेजसा अस्मदीयम् **अघं** नश्यतु । यन्ति । ' इणो यण् ' (पा. सू. ६. ४. ८१ ) इति यणादेशः ॥
@@ -164,7 +167,7 @@ _________
 
 When the beams of powerful Agni go forth in all directions  
 —(you) blazing away the bad for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
@@ -203,8 +206,6 @@ Wenn Agni's Strahlen überall hindringen, des gewaltigen, So strahl er Leid von 
 Лучи могучего Агни,  
 Прочь от нас засвечивая зло!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

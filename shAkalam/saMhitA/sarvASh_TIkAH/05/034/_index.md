@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ Indra
 Indra These two hymns attributed to Saṃvaraṇa Prājāpatya are full of puzzles, many insoluble.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३४  प्राजापत्यः संवरणः।इन्द्रः। जगती, ९ त्रिष्टुप् ।
 </details>

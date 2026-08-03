@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम म꣡धुमाँ ऋता꣡वा  
-अपो꣡ व꣡सानो अ꣡धि सा꣡नो अ꣡व्ये  
-अ꣡व द्रो꣡णानि घृत꣡वान्ति सीद  
-मदि꣡न्तमो मत्सर꣡ इन्द्रपा꣡नः
+प᳓वस्व सोम म᳓धुमाँ ऋता᳓वा  
+अपो᳓ व᳓सानो अ᳓धि सा᳓नो अ᳓व्ये  
+अ᳓व द्रो᳓णानि घृत᳓वान्ति सीद  
+मदि᳓न्तमो मत्सर᳓ इन्द्रपा᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मधुमान्- मधुरः सन्। ऋतावा- प्रकृतिनियतिभूतसत्ययुक्तः सन्। अपः- मूलशक्तिधाराः। वसानः-  बिभ्रत्। अव्ये- रक्षाभूते। सानो- उच्छ्रिते प्रतीके। अधि। सोम- रस। पवस्व- क्षर। मदिन्तमः-  अतिशयेन तर्पकः। मत्सरः- हर्षवर्धनः। इन्द्रपानः- इन्द्रस्य अनुभवः सन्। घृतवन्ति-  दीप्तिमन्ति। द्रोणानि- भाजनानि प्रतीकभूतानि। अव सीद- अधितिष्ठ॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मधुमान्** मदकररसोपेतः **ऋतावा** यज्ञवान् । 'छन्दसीवनिपौ' इति वनिब्मत्वर्थीयः । तादृशस्त्वम् **अपः** वसतीवरीरेकधनाश्च **वसानः** आच्छादयन् **अधि** अधिकं **सानौ** समुच्छ्रिते अव्ये अविभवे पवित्रे **पवस्व** क्षर । ततः **मदिन्तमः** अतिशयेन मदकरः **इन्द्रपानः** इन्द्रेण पातव्यः **मत्सरः** मादयिता सोमः **घृतवन्ति** उदकवतः **द्रोणानि** द्रोणकलशान् **अव** **सीद** अवतिष्ठस्व ॥
@@ -215,7 +218,7 @@ _________
 
 Purify yourself, Soma, rich in honey, following the truth, clothing  yourself in waters, on the sheep’s back.  
 Sit down in the cups full of ghee as the most elating, exhilarating drink  for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
@@ -250,8 +253,6 @@ O riesle, Soma, süss nach heil'ger Ordnung in Flut gekleidet auf der Wolle Gipf
 Осядь в кадках, полных жира,  
 Как самый опьяняющий, пьянящий напиток Индры!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

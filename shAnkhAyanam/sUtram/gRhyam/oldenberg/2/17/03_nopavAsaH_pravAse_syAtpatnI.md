@@ -1,5 +1,0 @@
-+++
-title = "०३ नोपवासः प्रवासे स्यात्पत्नी"
-
-+++
-3. 'When on a journey let him not fast; (during that time) the wife keeps the vow. Let his son, his brother, or his wife, or his pupil offer the Bali oblation.

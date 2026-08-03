@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः सहस्रशो꣡ भर  
-अयु꣡तानि शता꣡नि च  
-दिवो꣡ अमु꣡ष्य शा꣡सतो  
-दि꣡वं यय꣡ दिवावसो
+आ᳓ नः सहस्रशो᳓ भर  
+अयु᳓तानि शता᳓नि च  
+दिवो᳓ अमु᳓ष्य शा᳓सतो  
+दि᳓वं यय᳓ दिवावसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्मभ्यम्। सहस्रशः अयुतानि शतानि च- अनन्तानि। आ भर- आहर॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **नः** अस्मभ्यं **सहस्रशः** सहस्रधा **अयुतानि** **शतानि** **च** अभीष्टानि वस्तूनि **आ** **भर** आहर । सिद्धमन्यत् ॥
@@ -208,8 +211,6 @@ Bring' du uns tausendfach herbei zehntausend Güter hundertfach; Von jenes Herrs
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

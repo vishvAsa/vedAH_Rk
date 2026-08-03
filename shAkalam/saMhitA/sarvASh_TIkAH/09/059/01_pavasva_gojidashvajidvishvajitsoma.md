@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व गोजि꣡द् अश्वजि꣡द्  
-विश्वजि꣡त् सोम रण्यजि꣡त्  
-प्रजा꣡वद् र꣡त्नम् आ꣡ भर
+प᳓वस्व गोजि᳓द् अश्वजि᳓द्  
+विश्वजि᳓त् सोम रण्यजि᳓त्  
+प्रजा᳓वद् र᳓त्नम् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गोजित्- चिद्रश्मिजित्। विश्वजित्- सर्वजित्। अश्वजित्- प्राणजित्। रण्यजित्- रम्यजित् सन्।  सोम- रस। पवस्व- क्षर। प्रजावत्- सन्ततियुक्ताम्। रत्नम्- संपदम्। आ भर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **गोजित्** शत्रूणां गवां जेता **अश्वजित्** अश्वानामपि जेता **विश्वजित्** विश्वस्य जगतो जेता **रण्यजित्** रमणीयस्य धनस्यापि जेता त्वं **पवस्व** धारया क्षर । अपि चास्मभ्यं **प्रजावत्** पुत्राद्युपेतं **रत्नं** रमणीयं धनम् **आ** **भर** आहर ॥
@@ -208,10 +211,6 @@ Läutere dich, Soma, Rinder, Rosse, alles ersiegend, Erfreuliches ersiegend! Bri
 
 O Soma riesle, Rind und Ross gewinnend, alles, was erfreut, Bring kinderreichen Schatz herbei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

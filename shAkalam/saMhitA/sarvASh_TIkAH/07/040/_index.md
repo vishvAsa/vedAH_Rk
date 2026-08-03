@@ -1,6 +1,5 @@
 +++
 title = "+040"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The preoccupation of this hymn is the distribution of wealth, to be carried out 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४०  मैत्रावरुणर्वसिष्ठः।विश्वे देवाः। त्रिष्टुप्।
 </details>

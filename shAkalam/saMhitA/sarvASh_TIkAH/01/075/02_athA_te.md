@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡था ते अङ्गिरस्तम  
-अ꣡ग्ने वेधस्तम प्रिय꣡म्  
-वोचे꣡म ब्र꣡ह्म सानसि꣡
+अ᳓था ते अङ्गिरस्तम  
+अ᳓ग्ने वेधस्तम प्रिय᳓म्  
+वोचे᳓म ब्र᳓ह्म सानसि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अथ- अनन्तरम्। अङ्गिरस्तम- अतिशयेन अङ्गनशील। वेधस्तम- अतिशयेन मेधाविन्।  अग्ने। ते- भवतः। प्रियम्। सानसि- संभजनीयम्। ब्रह्म- मन्त्रम्। वोचेम॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अङ्गिरस्तम** अतिशयेनाङ्गनादिगुणयुक्त । यद्वा । अङ्गिरसां वरिष्ठ । **वेधस्तम** । वेधा इति मेधाविनाम । अतिशयेन मेधाविन् **अग्ने** । **अथ** अनन्तरं **ते** तुभ्यं **सानसि** संभजनीयं **प्रियं** प्रीतिकरं **ब्रह्म** स्तोत्रं **वोचेम** वक्तारो भूयास्म ॥ वोचेम । लिङयाशिष्यड्'। ' वच उम्' इति उमागमः । सानसि । ‘वन षण संभक्तौ' । ‘सानसिधर्णसि' इत्यादौ असिच्प्रत्ययान्तो निपात्यते ।
@@ -148,7 +151,7 @@ _________
 
 Then, o Agni, best of Aṅgirases, best of ritual adepts, something  dear to you  
 might we speak—a winning sacred formulation.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
@@ -189,8 +192,6 @@ Huldvollster, bester Angiras, wir sprechen, Agni, ein Gebet, Das lieb dir sei un
 Молитву, приятную, приносящую добычу.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -206,7 +207,7 @@ Huldvollster, bester Angiras, wir sprechen, Agni, ein Gebet, Das lieb dir sei un
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (अङ्गिरस्तम) सब विद्याओं के जानने और (वेधस्तम) अत्यन्त धारण करनेवाले (अग्ने) विद्वान् ! जैसे हम लोग वेदों को पढ़ के (अथ) इसके पीछे (ते) तुझे (सानसि) सदा से वर्त्तमान (प्रियम्) प्रीतिकारक (ब्रह्म) चारों वेदों का (वोचेम) उपदेश करें, वैसे ही तू कर ॥ २ ॥
+पदार्थान्वयभाषाः -  हे (अङ्गिरस्तम) सब विद्याओं के जानने और (वेधस्तम) अत्यन्त धारण करनेवाले (अग्ने) विद्वान् ! जैसे हम लोग वेदों को पढ़ के (अथ) इसके पीछे (ते) तुझे (सानसि) सदा से वर्त्तमान (प्रियम्) प्रीतिकारक (ब्रह्म) चारों वेदों का (वोचेम) उपदेश करें, वैसे ही तू कर ॥ २ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

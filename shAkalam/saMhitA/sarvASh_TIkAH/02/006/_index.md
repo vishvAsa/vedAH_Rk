@@ -1,6 +1,5 @@
 +++
 title = "+006"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ There is nothing particularly striking in this hymn, which treats the usual them
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६  सोमाहुतिर्भार्गवः  । अग्निः। गायत्री
 </details>

@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "ककुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "ककुप्"
 - छन्दः - ककुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ अङ्ग꣡ दइ꣡विया  
-प꣡वमान ज꣡निमानि द्युम꣡त्तमः  
-अमृतत्वा꣡य घोष꣡यः
+तुवं᳓ हि᳓ अङ्ग᳓ दइ᳓विया  
+प᳓वमान ज᳓निमानि द्युम᳓त्तमः  
+अमृतत्वा᳓य घोष᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमान- पुनान। द्युमत्तमः- अतिशयेन दीप्तः सन्। त्वम्। हि- खलु। दैव्या जनिमानि-  दिव्यजन्मानि। अमृतत्त्वाय। घोषयः- घोषं कृतवान्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** पूयमान सोम **द्युमत्तमः** अतिशयेन दीप्तिमान् **त्वं** **हि** त्वमेव **दैव्या** देवसंबन्धीनि **जनिमानि** जन्मानि । देवानित्यर्थः । तानभिलक्ष्य **अमृतत्वाय** तेषाममरणाय **अङ्ग** क्षिप्रं **घोषयः** शब्दायसे ॥ ‘ घुषिर् विशब्दने' । ण्यन्तस्य लेटि रूपम् । हियोगादनिघातः ॥
@@ -148,7 +151,7 @@ _________
 
 O self-purifying one, it was certainly you as the most brilliant who made  the heavenly races heed  
 for the sake of immortality,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
@@ -182,8 +185,6 @@ Denn du fürwahr, o glänzendster, du hast der Götter Stämme all, o flammender
 Самый сверкающий, призываешь божественные  
 Роды к бессмертию.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

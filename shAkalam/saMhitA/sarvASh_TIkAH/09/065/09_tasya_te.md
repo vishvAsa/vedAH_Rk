@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्य ते वाजि꣡नो वयं꣡  
-वि꣡श्वा ध꣡नानि जिग्यु꣡षः  
-सखित्व꣡म् आ꣡ वृणीमहे
+त᳓स्य ते वाजि᳓नो वयं᳓  
+वि᳓श्वा ध᳓नानि जिग्यु᳓षः  
+सखित्व᳓म् आ᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वा- सर्वाः। धनानि- संपदः। जिग्युषः- जितवतः। तस्य- तादृशस्य। ते- भवतः। वयम्।  सखित्वम्- मैत्रीम्। आ वृणीमहे॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **वाजिनः** संभृतहविष्काः **वयं** **विश्वा** विश्वानि सर्वाणि व्याप्तानि वा शत्रुधनानि **जिग्युषः** जितवतः **तस्य** पूर्वोक्तलक्षणस्य प्रसिद्धस्य वा **ते** तव **सखित्वं** स्तुत्यस्तोतृलक्षणं सख्यम् **आ** **वृणीमहे** संभजामहे । अस्मभ्यं धनं देहीति संभजनं कुर्म इत्यर्थः ॥ जिग्युषः । ‘ जि जये' । लिटि क्वसौ ‘वस्वेकाजात्' इति नियमादिडभावः। 'सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः । ङसि परतो वसोः संप्रसारणम् । क्वसुप्रत्ययस्वरः ॥
@@ -163,7 +166,7 @@ _________
 
 It’s with you—that prize-seeker who has won all the stakes—  
 that we choose partnership.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
@@ -190,10 +193,6 @@ Wir erwählen uns deine Freundschaft, dieses Preisgewinners, der alle Siegesprei
 
 Der du als Streitross alles Gut erbeutet hast, dich wünschen wir Uns zur Genossenschaft herbei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

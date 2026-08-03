@@ -1,6 +1,5 @@
 +++
 title = "+025"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ A salient feature of this hymn is the focus on the various kinds of relationship
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २५   वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्
 </details>

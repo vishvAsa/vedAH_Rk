@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः सो꣡मम् पवि꣡त्र आ꣡  
-सृज꣡ता म꣡धुमत्तमम्  
-देवे꣡भ्यो देवश्रु꣡त्तमम्
+आ᳓ नः सो᳓मम् पवि᳓त्र आ᳓  
+सृज᳓ता म᳓धुमत्तमम्  
+देवे᳓भ्यो देवश्रु᳓त्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्मदर्थम्। मधुमत्तमम्- अतिशयेन मधुरम्। देवश्रुत्तमम्- अतिशयेन दिव्यश्रुतियुतम्।  सोमम्- रसम्। पवित्रे- कलशे प्रतीके। आ- मर्यादया। आ- आभिमुख्येन। देवेभ्यः- देवताभ्यः।  सृजत॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **नः** अस्माकं **देवश्रुत्तमम्** अत्यन्तं देवैः श्रूयमाणं **मधुमत्तमम्** अतिशयेन मधुमन्तं **सोमं** **देवेभ्यः** इन्द्राद्यर्थं **पवित्रे** दशापवित्रे **आ** **सृजत** साधयत ।
@@ -151,7 +154,7 @@ _________
 
 Into the filter send our soma, the most honeyed  
 for the gods, the most audible to the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
@@ -178,10 +181,6 @@ Lasset unseren süßesten Soma auf die Seihe laufen für die Götter, der von de
 
 Den gern die Götter hören, giesst den Göttern zu den süssesten, Den Soma in die Seihe ihr.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

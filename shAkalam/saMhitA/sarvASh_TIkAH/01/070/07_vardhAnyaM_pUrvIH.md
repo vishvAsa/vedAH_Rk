@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡र्धान् य꣡म् पूर्वीः꣡ क्षपो꣡ वि꣡रूपा  
-स्थातु꣡श् च र꣡थम्† ऋत꣡प्रवीतम्
+व᳓र्धान् य᳓म् पूर्वीः᳓ क्षपो᳓ वि᳓रूपा  
+स्थातु᳓श् च र᳓थम्† ऋत᳓प्रवीतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

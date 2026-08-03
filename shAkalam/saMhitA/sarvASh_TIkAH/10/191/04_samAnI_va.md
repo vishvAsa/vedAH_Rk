@@ -3,7 +3,6 @@ title = "004"
 devataa = "संज्ञानं"
 RShiH = "संवननः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-समानी꣡ व आ꣡कूतिः  
-समाना꣡ हृ꣡दयानि वः  
-समान꣡म् अस्तु वो म꣡नो  
-य꣡था वः सु꣡सहा꣡सति
+समानी᳓ व आ᳓कूतिः  
+समाना᳓ हृ᳓दयानि वः  
+समान᳓म् अस्तु वो म᳓नो  
+य᳓था वः सु᳓सहा᳓सति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ā́kūtiḥ ← ā́kūti- (nominal stem)  
@@ -186,6 +184,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यथा। वः- युष्माकम्। सुसह- शोभनसङ्गतिः। असति- भवति तथा। वः- युष्माकम्। आकूतिः-  अध्यवसायः। समानी- समानो भवतु। वः- युष्माकम्। हृदयानि। समाना- समानानि भवन्तु।  वः- युष्माकम्। मनः- मननम्। समानम्। अस्तु- भवतु॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विग्यजमानाः **वः** युष्माकम् **आकूतिः** संकल्पोऽध्यवसायः **समानी** एकविधोऽस्तु । तथा **वः** युष्माकं **हृदयानि** **समाना** समानान्येकविधानि सन्तु । तथा **वः** युष्माकं **मनः** अन्तःकरणम् । प्रत्येकापेक्षयैकवचनम् । तदपि **समानमस्तु** । **यथा** **वः** युष्माकं **सुसह** शोभनं साहित्यम् **असति** भवति तथा समानमस्त्वित्यन्वयः ॥ अस्तेर्लटि ‘बहुलं छन्दसि' इति शपो लुगभावः ॥ ॥ ४९ ॥
@@ -223,8 +226,6 @@ Einig sei euer Vorhaben, einig eure Herzen; einig soll euer Sinn sein, auf daß 
 Единой да будет ваша мысль,  
 Чтоб было у вас доброе согласие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

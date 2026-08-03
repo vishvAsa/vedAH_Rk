@@ -1,6 +1,5 @@
 +++
 title = "+130"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first two verses of the hymn provide a conventional opening, with an invitat
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३०   परुच्छेपो दैवोदासिः। इन्द्रः।  अत्यष्टिः, १० त्रिष्टुप्।
 </details>

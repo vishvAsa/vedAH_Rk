@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The next six verses (7–12) present a more conventional description of the Maru
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३८  कण्वो घौरः। मरुतः। गायत्री
 </details>

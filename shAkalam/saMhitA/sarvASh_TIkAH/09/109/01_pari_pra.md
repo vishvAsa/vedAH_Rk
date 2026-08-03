@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि प्र꣡ धन्व इ꣡न्द्राय सोम  
-स्वादु꣡र् मित्रा꣡य पूष्णे꣡ भ꣡गाय
+प᳓रि प्र᳓ धन्व इ᳓न्द्राय सोम  
+स्वादु᳓र् मित्रा᳓य पूष्णे᳓ भ᳓गाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। स्वादुः- मधुरः सन्। मित्राय- स्नेहाधिदैवताय। पूष्णे- पोषकायात्मसूर्याय। भगाय-  सौभाग्याधिदैवताय। प्र- प्रकर्षेण। परि- परितः। धन्व- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **स्वादुः** स्वादुरसस्त्वम् **इन्द्राय** **मित्राय** **पूष्णे** **भगाय** एतेभ्यो देवेभ्यः **परि** **प्र** **धन्व** परितः पात्रेषु प्रक्षर ॥
@@ -141,7 +144,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Run forth and around for Indra, o Soma, sweet for Mitra, Pūṣan,  and Bhaga.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
@@ -172,8 +175,6 @@ Ringsum entströme – dem Indra, Soma, dem Mitra lieblich – dem Puschan, Bhag
 Беги вперед кругами, о сома, для Индры,  
 Вкусный для Митры, Пушана, Бхаги!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

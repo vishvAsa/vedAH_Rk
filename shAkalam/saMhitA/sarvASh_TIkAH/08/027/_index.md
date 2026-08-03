@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The language of the hymn is fairly simple and straightforward, and the lexicon  
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२७  मनुर्वैवस्वतः। विश्वे देवाः । प्रगाथः (विषमा बृहती, समा सतोबृहती )
 </details>

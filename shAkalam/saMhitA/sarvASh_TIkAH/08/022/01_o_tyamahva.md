@@ -3,7 +3,6 @@ title = "001"
 devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-õ꣡ त्य꣡म् अह्व आ꣡ र꣡थम्  
-अद्या꣡ दं꣡सिष्ठम् ऊत꣡ये  
-य꣡म् अश्विना सुहवा रुद्रवर्तनी  
-आ꣡ सूरिया꣡यै तस्थ꣡थुः
+õ᳓ त्य᳓म् अह्व आ᳓ र᳓थम्  
+अद्या᳓ दं᳓सिष्ठम् ऊत᳓ये  
+य᳓म् अश्विना सुहवा रुद्रवर्तनी  
+आ᳓ सूरिया᳓यै तस्थ᳓थुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यम्। अश्विना- प्राणेशनशक्तिभूतौ। सुहवा- शोभनाह्वानौ। रुद्रवर्तनी- रुद्रमार्गगौ। सूर्यायै-  उषसे। आ तस्थथुः- आश्रयथः। अद्य- इदानीम्। ऊतये- वृद्धये। दंसिष्ठम्- दर्शनीयम्। त्यम्-  तम्। रथम्- ऋताख्यं रथम्। आ अह्वे- आह्वये। अश्विनौ  श्वासप्रश्वासस्थप्राणवशीकरणपूरकरेचकदेवते। उषा ज्ञानोदयदेवता समाधिदेवता।  कुम्भकाधिदेवता॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **दंसिष्ठम्** अत्यन्तदर्शनीयं यद्वातिशयेन शत्रूणामुपक्षपयितारं **त्यं** तं युवयोः **रथम्** **ऊतये** रक्षणाय **अद्य** अस्मिन् यागदिने **अह्वे** सोभरिरहमाह्वयामि । **सुहवा** सुहवौ स्तोत्रशस्त्रादिभिः शोभनाह्वानौ **रुद्रवर्तनी** संग्रामे रोदनशीलमार्गौ यद्वा स्तूयमानमार्गौ हे अश्विनौ **सूर्यायै** सूर्यां स्वयंवरे वरयितुं **यं** रथं युवाम् **आ** **तस्थथुः** आश्रयथः तं रथमाह्वयामीति ॥
@@ -221,7 +224,7 @@ On the path to battle: rudravartani = having a pathwhich causes weeping in battl
 I have called here this most wondrous chariot for help today,  
 the one that you mounted for Sūryā, o Aśvins easy to call, you who  
 follow the course of the Rudras [=Maruts]—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
@@ -256,8 +259,6 @@ Herbei ruf euren Wagen ich zur Hülfe heut, den kräftigsten, Den, Ritter, ihr g
 На которую, о легко призываемые, следующие сверкающим путем Ашвины,  
 Вы взошли для Сурьи,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

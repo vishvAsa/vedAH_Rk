@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वर्धन्तु नो गि꣡र  
-इ꣡न्द्रं सुता꣡स इ꣡न्दवः  
-इ꣡न्द्रे हवि꣡ष्मतीर् वि꣡शो अराणिषुः
+इ᳓न्द्रं वर्धन्तु नो गि᳓र  
+इ᳓न्द्रं सुता᳓स इ᳓न्दवः  
+इ᳓न्द्रे हवि᳓ष्मतीर् वि᳓शो अराणिषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,6 +149,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रम्। नः- अस्माकम्। गिरः- वाचः। वर्धन्तु। सुतासः- निष्पन्नाः। इन्दवः- रसाः। वर्धन्तु-  वर्धन्ताम्। हविष्मतीर्विशः- चरुपुरोडाशध्यानभावनादिहव्यवत्यः प्रजाः। इन्द्रे। अराणिषु-  रमन्ते॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्माकं **गिरः** स्तुतिरूपा वाचः **इन्द्रं** **वर्धन्तु** वर्धयन्तु । **सुतासः** अभिषुताः **इन्दवः** सोमाश्चास्मदीयाः तम् **इन्द्रं** वर्धयन्तु । **हविष्मतीः** हविष्मत्यो हविर्भिश्चरुपुरोडाशादिभिर्युक्ताः **विशः** प्रजास्तस्मिन् **इन्द्रे** **अराणिषुः** अरंसिषुः ॥
@@ -172,7 +175,7 @@ Excite plural asure: or, having rejoiced in Indra, araṃsiṣuḥ
 <details><summary>Jamison Brereton</summary>
 
 Let our songs increase Indra, let our pressed drops (increase) Indra; in Indra have the oblation-bearing clans found joy.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
@@ -206,8 +209,6 @@ Den Indra stärke unser Lied, ihn der gepresste Indusaft; Des Indra freun die Me
 Индру – выжатые соки (сомы).  
 В Индре находят радость племена совершающие возлияния.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

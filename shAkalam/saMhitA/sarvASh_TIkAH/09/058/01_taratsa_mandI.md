@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡रत् स꣡ मन्दी꣡ धावति  
-धा꣡रा सुत꣡स्य अ꣡न्धसः  
-त꣡रत् स꣡ मन्दी꣡ धावति
+त᳓रत् स᳓ मन्दी᳓ धावति  
+धा᳓रा सुत᳓स्य अ᳓न्धसः  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तरत्- तारयन्। सः- असौ। मन्दी- हर्षकरः। धावति- सरति। सुतस्य- निष्पादितस्य। अन्धसः-  हव्यभूतस्य। धारा धावति। तरत्स मन्दी धावति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मन्दी** देवानां हर्षकरः **सः** सोमः **तरत्** स्तोतॄन् पाप्मनः सकाशात् तारयन् **धावति** पवते । तदेव दर्शयति । **सुतस्य** अभिषुतस्य **अन्धसः** देवानामन्नात्मकस्य सोमस्य **धारा** धावतीति । पुनरपि तदेवाह अत्यन्तादरार्थं **तरत्स** **मन्दी** **धावति** इति । यद्वा । अस्या ऋचो यास्केनोक्तोऽर्थो द्रष्टव्यः । तद्यथा-‘तरति स पापं सर्वं मन्दी यः स्तौति धावति गच्छत्यूर्ध्वाँ गतिम् । धारा सुतस्यान्धसो धारयाभिषुतस्य सोमस्य मन्त्रपूतस्य वाचा स्तुतस्य ' (निरु. १३.६ ) इति ॥
@@ -164,7 +167,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 In crossing, the invigorating one runs, the stream of the pressed stalk. – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
@@ -196,10 +199,6 @@ Er gelange über das Wasser, der Berauschende läuft ab, der Strom des ausgepre�
 Er drang hindurch, der erfreuende strömt im Strome des gepressten Krautes; er drang hindurch, der erfreuende strömt.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -220,7 +219,7 @@ Er drang hindurch, der erfreuende strömt im Strome des gepressten Krautes; er d
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  पापियों को तारने का अभिप्राय यह है कि जो लोग पाप का प्रायश्चित्त करके उसकी शरण को प्राप्त होते हैं, वे फिर कदापि पाप से पीड़ित नहीं होते। अथवा यों कहो कि पापमय संचित कर्मों की स्थिति उनके हृदय से दूर हो जाती है। अन्य पापों को ईश्वर कदापि क्षमा नहीं करता॥१॥
+भावार्थभाषाः -  पापियों को तारने का अभिप्राय यह है कि जो लोग पाप का प्रायश्चित्त करके उसकी शरण को प्राप्त होते हैं, वे फिर कदापि पाप से पीड़ित नहीं होते। अथवा यों कहो कि पापमय संचित कर्मों की स्थिति उनके हृदय से दूर हो जाती है। अन्य पापों को ईश्वर कदापि क्षमा नहीं करता॥१॥
 </details>
 
 <details><summary>आर्यमुनि (सं) - विषयः</summary>

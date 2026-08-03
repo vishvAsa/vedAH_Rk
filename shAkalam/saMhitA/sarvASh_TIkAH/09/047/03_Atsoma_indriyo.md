@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡त् सो꣡म इन्द्रियो꣡ र꣡सो  
-व꣡ज्रः सहस्रसा꣡ भुवत्  
-उक्थं꣡ य꣡द् अस्य जा꣡यते
+आ᳓त् सो᳓म इन्द्रियो᳓ र᳓सो  
+व᳓ज्रः सहस्रसा᳓ भुवत्  
+उक्थं᳓ य᳓द् अस्य जा᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। अस्य- एतस्य सोमस्य। उक्थम्- मन्त्रः। जायते- प्रभवति। तदा। आत्-  मन्त्रजन्मानन्तरम्। वज्रः- इन्द्रायुधभूतः। इन्द्रियो रसः- ईशनाधिदैवतमादकरसः। सोमः।  सहस्रसाः- अनन्तदः। भुवत्- भवति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यत्** यदा **अस्य** इन्द्रस्य **उक्थं** शस्त्रं **जायते** प्रादुर्भवति तत् **आत्** अनन्तरमेव **इन्द्रियः** इन्द्रस्य प्रियकरः रसः बलवान् **वज्रः** वज्रसदृशः केनाप्यहिंस्यः **सोमः** **सहस्रसाः** अस्मभ्यमपरिमितस्य धनस्य दाता भवति ॥
@@ -195,10 +198,6 @@ Und Soma, der indrische Saft, wird zur tausendgewinnenden Keule, wenn das Preisl
 
 Wenn ihm das Loblied wird erzeugt, dann wird des Indra Somatrank Ein Blitz, der tausend Güter schenkt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

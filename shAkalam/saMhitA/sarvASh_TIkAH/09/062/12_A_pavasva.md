@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व सहस्रि꣡णं  
-रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
-पुरुश्चन्द्र꣡म् पुरुस्पृ꣡हम्
+आ᳓ पवस्व सहस्रि᳓णं  
+रयिं᳓ गो᳓मन्तम् अश्वि᳓नम्  
+पुरुश्चन्द्र᳓म् पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,6 +121,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ- समन्तात्। सहस्रिणम्- अनन्तम्। गोमन्तम्- ज्ञानयुक्तम्। अश्विनम्- प्राणयुक्तम्।  पुरुश्चन्द्रम्- प्रभूताह्लादकम्। पुरुस्पृहम्- बहुभिरपेक्षितम्। रयिम्- दानयोग्यधनम्। पवस्व-  क्षर॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिरुपेतम् **अश्विनम्** अश्ववन्तं **पुरुश्चन्द्रं** बहूनां हर्षकं **पुरुस्पृहं** बहुस्पृहणीयं **रयिं** धनम् **आ** **पवस्व** परिक्षर ॥
@@ -139,7 +142,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 In purifying yourself bring wealth in thousands of cows and of horses, much gleaming, much craved.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
@@ -166,10 +169,6 @@ Läutere tausendfachen Reichtum an Rindern und Rossen, vielschimmernden, vielbeg
 
 O riesle tausendfachen Schatz herbei, der reich an Rind und Ross, Sehr glänzend ist und vielbegehrt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

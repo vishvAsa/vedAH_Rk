@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते म꣡दो व꣡रेणियस्  
-ते꣡ना पवस्व अ꣡न्धसा  
-देवावी꣡र् अघशंसहा꣡
+य᳓स् ते म᳓दो व᳓रेणियस्  
+ते᳓ना पवस्व अ᳓न्धसा  
+देवावी᳓र् अघशंसहा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+५    यः। ते- तव। मदः- तर्पकः। वरेण्यः- श्रेष्ठः। तेन। अन्धसा- अन्नेन। देवावीः- देवकामः।  अघशंसहा- पापघ्नः सन्। पवस्व- क्षर॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **ते** तव **देवावीः** देवकामः **अघशंसहा** राक्षसानां हन्ता **वरेण्यः** सर्वैर्वरणीयः **मदः** मदकरः **यः** रसो विद्यते **तेन** रसेन **अन्धसा** अदनीयेन **पवस्व** क्षर ॥
@@ -158,7 +161,7 @@ _________
 
 Your exhilarating drink that is worthy to be chosen, with that stalk  purify yourself,  
 pursuing the gods, smashing those who utter evil.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
@@ -192,8 +195,6 @@ Welch Rauschtrank dir der schönste ist, mit solchem Safte riesle hell, Die Bös
 Очищайся с этим (твоим) соком,  
 Приглашающий богов, убивающий злоречивых.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

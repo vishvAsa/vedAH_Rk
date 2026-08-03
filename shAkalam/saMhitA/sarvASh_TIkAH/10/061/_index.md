@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -30,4 +29,10 @@ self is doing his job in producing poetry. Verse 18 seems to us to embody the  p
 With the patron put in his place, the hymn now turns to a depiction of the  dawn sacrifice, or rather its conclusion, in five verses (20–24), each beginning with  the word ádha “(and) now.” The dakṣiṇās are now properly given (see 21ab), and  the poet therefore calls on the gods for honor and protection for the patrons (vss.  22–23). In the final verse of this sequence (24) the poet and his colleagues appear  to be poised to express their final prayers (24b), prayers found in the final verse  (27). In between are two verses (25–26) that ascribe “good lineage” to an unidenti  
 fied subject, who both takes pleasure in a praise hymn and performs ritual service.  The “good lineage” reminds us of the patron’s claims to distinguished kinship  earlier in the hymn, which were trumped by the god Agni. In these two verses we  believe that the poet deliberately left the subject unidentified and that he meant  the verses to be read with both Agni and himself (the poet) as potential subjects,  thus associating himself with the fine family and divine relations that the patron  craved.  
 Needless to say, this is a very speculative reading of the poem, and many details  remain unaccounted for. It is to be hoped that further progress can be made in its  interpretation, within a R̥gvedic context.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६१  नाभानेदिष्ठो मानवः। विश्वे देवाः। त्रिष्टुप्
 </details>

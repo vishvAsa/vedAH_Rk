@@ -3,7 +3,6 @@ title = "009"
 devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ यज्ञइ꣡र् अवीवृधन्  
-प꣡वमान वि꣡धर्मणि  
-अ꣡था नो व꣡स्यसस् कृधि
+तुवां᳓ यज्ञइ᳓र् अवीवृधन्  
+प᳓वमान वि᳓धर्मणि  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वाम्- भवन्तम्। यज्ञैः- पूजाभिर्दानैः सङ्गतिकरणैश्च। पवमान। विधर्मणि- विशेषधर्माय।  अवीवृधन्- वर्धयामासुः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पवमान** सोम यजमानानां विधारणाय प्रवृत्तं **त्वां** **यज्ञैः** **विधर्मणि** आत्मनो विधारणार्थम् **अवीवृधन्** यजमाना वर्धयन्ति । सिद्धमन्यत् ॥
@@ -186,8 +189,6 @@ Durch Opfer hat man dich gestärkt im weiten Raum, o rieselnder Und mach' uns re
 О Павамана, когда ты распространяешься, –  
 И сделай нас лучше!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+147"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ It is also worth noting that this is the first time in the Dīrghatamas cycle th
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४७   दीर्घतमा औचथ्यः।अग्निः। त्रिष्टुप्।
 </details>

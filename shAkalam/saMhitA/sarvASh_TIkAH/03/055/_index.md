@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ somian), or a prefiguring of Indra. Commentators differ in their identifications
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods As noted in the published introduction, this hymn is notable for its refrain, “great is the one and only lordship of the gods” (mahád devā́nām asuratvám ékam), with its juxtaposition of devá- and ásura-.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५५  प्रजापतिर्वैश्वामित्रः, प्रजापतिर्वाच्यो वा।विश्वे देवाः। त्रिष्टुप्
 </details>

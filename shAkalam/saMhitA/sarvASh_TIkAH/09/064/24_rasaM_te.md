@@ -3,7 +3,6 @@ title = "024"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-र꣡सं ते मित्रो꣡ अर्यमा꣡  
-पि꣡बन्ति व꣡रुणः कवे  
-प꣡वमानस्य मरु꣡तः
+र᳓सं ते मित्रो᳓ अर्यमा᳓  
+पि᳓बन्ति व᳓रुणः कवे  
+प᳓वमानस्य मरु᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानस्य- पुनानस्य। ते- तव। रसम्। कवे- हे क्रान्तदर्शिन्। मित्रः- स्नेहाधिदेवता। अर्यमा-  सौशील्याधिदेवता। वरुणः- ऋताधिदेवता। मरुतः- प्राणविशेषाः। पिबन्ति- अनुभवन्ति॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **कवे** क्रान्तकर्मन् सोम **पवमानस्य** क्षरतः **ते** तव **रसं** **मित्रः** **अर्यमा** च **वरुणः** च **मरुतः** च एते सर्वे देवाः पिबन्ति ॥
@@ -149,7 +152,7 @@ _________
 
 Mitra, Aryaman, and Varuṇa drink your sap, o poet,  
 as do the Maruts, when you purify yourself.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
@@ -176,10 +179,6 @@ Deinen Saft trinken Mitra, Aryaman, Varuna, o Weiser, die Marut, wenn du dich l�
 
 Es trinken, Weiser, deinen Saft, des hellen, Mitra, Arjaman Und Varuna, die Marutschar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

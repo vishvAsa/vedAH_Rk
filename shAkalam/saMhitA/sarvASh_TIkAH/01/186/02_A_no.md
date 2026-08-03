@@ -3,7 +3,6 @@ title = "002"
 devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो वि꣡श्व आ꣡स्क्रा गमन्तु देवा꣡  
-मित्रो꣡ अर्यमा꣡ व꣡रुणः सजो꣡षाः  
-भु꣡वन् य꣡था नो वि꣡श्वे वृधा꣡सः  
-क꣡रन् सुषा꣡हा विथुरं꣡ न꣡ श꣡वः
+आ᳓ नो वि᳓श्व आ᳓स्क्रा गमन्तु देवा᳓  
+मित्रो᳓ अर्यमा᳓ व᳓रुणः सजो᳓षाः  
+भु᳓वन् य᳓था नो वि᳓श्वे वृधा᳓सः  
+क᳓रन् सुषा᳓हा विथुरं᳓ न᳓ श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,6 +241,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+विश्वे अस्क्राः- सर्वे आस्कन्दयितारः। देवाः। मित्रः- स्नेहाधिदेवता। अर्यमा- दानाधिदेवता।  वरुणः- ऋताधिदेवता। सजोषाः- समानप्रीतयः। नः- अस्मान्। आ गमन्तु- आगच्छन्तु। यथा।  शवः- बलम्। विथुरं न- अहीनम्। भुवत्- भवेत्। तथा। सुषाहा- सहनशीलतया। नः- अस्मान्।  विश्वे वृधासः- सर्वे वर्धका देवाः। करन्- कुर्वन्तु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्माकं यज्ञं **विश्वे** सर्वे देवाः **आस्क्राः** शत्रूणामास्कन्दयितारः आक्रमितारो वा **आ** **गमन्तु** आगच्छन्तु । के ते । **मित्रो** **अर्यमा** **वरुणः** च त्रयोऽपि **सजोषाः** समानप्रीतयः सन्तः आगच्छन्तु । किंतु **विश्वे** देवाः **नः** अस्माकं **वृधासः** वर्धयितारः यथा **भुवन्** भवेयुः तथा **सुषाहा** सुष्ठु शत्रूणामभिभवेन नोऽस्मदीयं **शवः** अन्नं **विथुरं** हीनं यथा **न** **करन्** न कुर्युः तथा आगच्छन्तु ॥
@@ -260,7 +263,7 @@ _________
 
 Let all the gods together come here to us: Mitra, Aryaman, and Varuṇa  in concert,  
 so that they all will become our strengtheners and will make (all things)  easy to overcome, like faltering power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
@@ -295,8 +298,6 @@ Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit si
 Так, чтобы они все придали нам силы,  
 Чтобы сделали (все) легко одолимым, словно расходившаяся сила.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "008"
 devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ इ꣡त् क्षेति सु꣡धित ओ꣡कसि स्वे꣡  
-त꣡स्मा इ꣡ळा पिन्वते विश्वदा꣡नीम्  
-त꣡स्मै वि꣡शः स्वय꣡म् एवा꣡ नमन्ते  
-य꣡स्मिन् ब्रह्मा꣡ रा꣡जनि पू꣡र्व ए꣡ति
+स᳓ इ᳓त् क्षेति सु᳓धित ओ᳓कसि स्वे᳓  
+त᳓स्मा इ᳓ळा पिन्वते विश्वदा᳓नीम्  
+त᳓स्मै वि᳓शः स्वय᳓म् एवा᳓ नमन्ते  
+य᳓स्मिन् ब्रह्मा᳓ रा᳓जनि पू᳓र्व ए᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -238,6 +236,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्मिन्। राजनि। ब्रह्मा- बृहस्पतिः। पूर्वः- प्रथमं पूज्यः सन्। एति- गच्छति। सः। सुधितः-  शोभनध्यानयुक्तः। स्वे ओकसि- स्वगृहे। क्षेति- निवसति। तस्मै। विश्वदानीम्- सर्वदा। इळा-  भूमिः। पिन्वते- वर्धते। तस्मै। विशः- प्रजाः। स्वयमेव- बलात्कारं विना प्रेम्णैव। नमन्ते॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **इत्** स एव **क्षेति** निवसति । **सुधितः** सुष्ठु तृप्तः सन् **स्वे** स्वकीये एव **ओकसि** सदने । स एव समृद्धो निर्बाधः सन् सुखेनास्ते । **तस्मा** **इळा** भूमिः **विश्वदानीं** सर्वकालं **पिन्वते** वर्धते फलैः । **तस्मै** **विशः** प्रजाः **स्वयमेव** **नमन्ते** प्रणता भवन्ति । दण्डनमन्तरेण स्वयमेव दत्तकरा भवन्ति । **यस्मिन्** **राजनि** **ब्रह्मा** **पूर्वः** प्रथमं पूज्यः सन् **एति** गच्छति । वर्तत इत्यर्थः ॥ .
@@ -256,7 +259,7 @@ _________
 Only he dwells peacefully, well-situated in his own home; for him  refreshment swells at all times;  
 to him the clans bow just of themselves—for which king the  
 Formulator comes first.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
@@ -298,8 +301,6 @@ Nur der wohnt sicher in dem eignen Hause, dem schwillt reichlich zu aller Zeit d
 Перед тем сами склоняются племена,  
 У кого брахман идет впереди.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

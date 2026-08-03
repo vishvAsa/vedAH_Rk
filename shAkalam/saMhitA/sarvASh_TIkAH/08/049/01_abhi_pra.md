@@ -3,7 +3,6 @@ title = "001"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्र꣡ वः सुरा꣡धसम्  
-इ꣡न्द्रम् अर्च य꣡था विदे꣡  
-यो꣡ जरितृ꣡भ्यो मघ꣡वा पुरूव꣡सुः  
-सह꣡स्रेणेव शि꣡क्षति
+अभि᳓ प्र᳓ वः सुरा᳓धसम्  
+इ᳓न्द्रम् अर्च य᳓था विदे᳓  
+यो᳓ जरितृ᳓भ्यो मघ᳓वा पुरूव᳓सुः  
+सह᳓स्रेणेव शि᳓क्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -190,6 +188,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। जरितृभ्यः- स्तोतृभ्यः। मघवा- सम्पद्वान्। पुरूवसुः- प्रभूतधनः। सहस्रेणेव- बहु। शिक्षति-  यच्छति। तम् इन्द्रम्- परमेश्वरम्। यथा। विदे- विद्वांसमर्चति तथा। वः- युष्माकम्। सुराधसम्-  सुसंसिद्धिभूतम्। अभि अर्च- अभिपूजय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -225,8 +228,6 @@ Den Indra will ich preisen euch, der vieles schenkt nach seiner Art, Den mächti
 Который, будучи щедрым, обладая многим добром,  
 Словно тысячей, хочет помочь певцам.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ उ स्य꣡ वृ꣡षा र꣡थो  
-अ꣡व्यो वा꣡रेभिर् अर्षति  
-ग꣡छन् वा꣡जं सहस्रि꣡णम्
+एष᳓ उ स्य᳓ वृ᳓षा र᳓थो  
+अ᳓व्यो वा᳓रेभिर् अर्षति  
+ग᳓छन् वा᳓जं सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः स्यः- सोयम्। वृषा- वर्षकः। रथः- रंहणशीलः। सहस्रिणं वाजम्- अनन्तसंपदं प्रति।  गच्छन्- सरन्। अव्यो वारेभिः- रसव्यञ्जकैर्वरणीयैः प्रतीकैः। अर्षति- प्रवहति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स्यः** स प्रसिद्धः **एषः** अभिषुतः सोमः **वृषा** वर्षिता **रथः** रंहणस्वभावः **अव्यो** **वारेभिः** अवेर्वालैर्दशापवित्रेण **अर्षति** गच्छति कलशम् । **वाजम्** अन्नं **सहस्रिणं** सहस्रसंख्याकं यजमानाय प्रदातुं **गच्छन्** द्रोणकलशं प्रविशन्नर्षतीत्यर्थः । **उ** पूरणः ॥
@@ -190,10 +193,6 @@ Dieser bullenhafte Wagen eilt durch die Schafhaare, nach dem tausendwertigen Sie
 
 Er, dieser Stier, dem Wagen gleich rennt durch die Widderwolle hin, Er geht auf tausend Güter aus.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

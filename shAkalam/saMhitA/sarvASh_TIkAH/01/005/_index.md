@@ -1,6 +1,5 @@
 +++
 title = "+005"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Structurally, the hymn divides into two halves. In the first (vss. 1–5), the p
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५  मधुच्छन्दा वैश्वामित्रः। इन्द्रः। गायत्री
 </details>

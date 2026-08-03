@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व सहस्रि꣡णं  
-रयिं꣡ सोम सुवी꣡रियम्  
-अस्मे꣡ श्र꣡वांसि धारय
+आ᳓ पवस्व सहस्रि᳓णं  
+रयिं᳓ सोम सुवी᳓रियम्  
+अस्मे᳓ श्र᳓वांसि धारय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। सुवीर्यं- शोभनवीर्याम्। सहस्रिणम्- अनन्ताम्। रयिम्- संपदम्। आ- आभिमुख्येन।  पवस्व- क्षर। अस्मे- अस्मासु। श्रवांसि- श्रुत्युपलक्षितवेदनानि। धारय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **सहस्रिणं** बहुसंख्याकं **सुवीर्यं** शोभनवीर्यं **रयिं** धनम् **आ** **पवस्व** आभिमुख्येन क्षर । अपि च **अस्मे** अस्मासु **श्रवांसि** अन्नानि **धारय** स्थापय ॥
@@ -154,7 +157,7 @@ _________
 In purifying yourself, o Soma, bring wealth in thousands and an  
 abundance of good heroes;  
 secure our claims to fame for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
@@ -180,10 +183,6 @@ Läutere tausendfältigen Reichtum uns zu, o Soma, und die Meisterschaft; verlei
 
 O riesle tausendfaches Gut und Heldenkraft, o Soma, her, Uns reiche hohe Schätze dar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

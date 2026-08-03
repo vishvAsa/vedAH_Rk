@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् जागार त꣡म् ऋ꣡चः कामयन्ते  
-अग्नि꣡र् जागार त꣡म् उ सा꣡मानि यन्ति  
-अग्नि꣡र् जागार त꣡म् अयं꣡ सो꣡म आह  
-त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः
+अग्नि᳓र् जागार त᳓म् ऋ᳓चः कामयन्ते  
+अग्नि᳓र् जागार त᳓म् उ सा᳓मानि यन्ति  
+अग्नि᳓र् जागार त᳓म् अयं᳓ सो᳓म आह  
+त᳓वाह᳓म् अस्मि सखिये᳓ नि᳓ओकाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -259,6 +257,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्निः। जागार- जागरणशीलः। तम्। ऋचः। कामयन्ते- इच्छन्ति। अग्निः। जागार-  जागरणशीलः। तम्। सामानि। यन्ति- अभिसरन्ति। अग्निः। जागार- जागरणशीलः। तम्।  सख्ये- मैत्र्याम्। तव- ते। अहम्। अस्मि- भवामि। इति। न्योकाः- शरण्यः। सोमः। आह-  अवदत्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अग्निर्जागारेतिपञ्चदशी पूर्वयैवनिगदितव्याख्या यइत्यस्यस्थाने अग्निरितिविशेषः ॥ १५ ॥अथचतुर्थेनुवाकेद्वादशसूक्तानि तत्रविदादिवइत्येकादशर्चम्प्रथमंसूक्तं सदापृणोनामात्रेयऋषिः त्रिष्टुप् छन्दः वैतदित्युक्तत्वादि -दमपिवैश्वदेवं विदाएकादशसदापृणइत्यनुक्रमणीका विनियोगोलैङ्गिकः ।
@@ -277,7 +280,7 @@ _________
 Agni stays awake: him the verses desire. Agni stays awake: to him go the  melodies.  
 Agni stays awake: to him does this Soma say, “I am at home in  
 fellowship with you.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/044/14-15.md">
@@ -314,8 +317,6 @@ Agni ist wach, ihn lieben die Gebete, Agni ist wach, ihm strömen zu die Lieder,
 Агни бодрствует, ему сказал этот сома:  
 В дружбе с тобой я, как дома.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

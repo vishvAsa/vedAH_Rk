@@ -1,6 +1,5 @@
 +++
 title = "+066"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ Note the ring-compositional element, the “sight of the sun,” in the first ha
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६६    पराशरः शाक्त्यः।अग्निः। द्विपदा विराट् ।
 </details>

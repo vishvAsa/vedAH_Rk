@@ -3,7 +3,6 @@ title = "016"
 devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-कुषुम्भक꣡स् त꣡द् अब्रवीद्  
-गिरेः꣡ प्रवर्तमानकः꣡  
-वृ꣡श्चिकस्यारसं꣡ विष꣡म्  
-अरसं꣡ वृश्चिक ते विष꣡म्
+कुषुम्भक᳓स् त᳓द् अब्रवीद्  
+गिरेः᳓ प्रवर्तमानकः᳓  
+वृ᳓श्चिकस्यारसं᳓ विष᳓म्  
+अरसं᳓ वृश्चिक ते विष᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 abravīt ← √brū- (root)  
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गिरेः प्रवर्तमानकः- गिरिजम्। गिरिर्जडप्रतीकः तस्मादुद्भूतम्। कुषुम्भकः- कुटिलतया विदारकं  विषम्। तत्- तद्वाक्यम्। अब्रवीत्- उवाच। वृश्चिकस्य- विषजन्तुविशेषस्य बाह्यत आगतस्य।  विषम्। अरसम्- विफलं भवति। वृश्चिक- वृश्चिकोपलक्षितबाह्यविषजन्तो। ते- तव। विषम्।  अरसम्। अस्मच्छरीरादेवोद्भूतं विषं निर्विषं भवति चेत् बाह्यं विषमप्यरसं भवतीति भावः॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवं महानुभावेन अगस्त्यमहर्षिणा उच्यमाने सति **गिरेः** सकाशात् प्रवर्तमानकः प्रवर्तमानः अतिशीघ्रमभिगच्छन् **कुषुम्भकः** नकुलः **तदब्रवीत्** तद्वाक्यमाचख्यौ। किं तदिति उच्यते । **वृश्चिकस्य** एतत् **विषम्** **अरसम्** असारं बाधकं न भवतीत्यर्थः । तथा लोकेऽपि सर्पदष्टमपि क्रिम्यादिदंशनमेव अतो न बाधः इति हि वदन्ति । एवमभिवचनेन सोऽपि निर्विषोऽभवत् । अथ तं वृश्चिकं प्रति नकुल आह । हे **वृश्चिक** **ते** **विषम्** **अरसम्** । अतस्तमृषिं किं करिष्यति । तस्मात् परिहरेति । यदा एवमवादीत् तदाप्रभृति वृश्चिकविषम् असारमभवत् । एषा विषनिर्हरण्युपनिषत् ॥ ॥ १६ ॥
@@ -175,7 +178,7 @@ _________
 
 The little teeny kuṣumbha-bug said this, as it made its teeny turn forth  from the mountain:  
 “Without juice is the poison of the little scorpion, without juice is your  poison, little scorpion.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
@@ -212,8 +215,6 @@ Das winzige Giftinsekt, als es vom Berge herab sich wandte, sprach dies Wort: Da
 Яд скорпиона лишен сока.  
 Лишен сока, скорпион, твой яд.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

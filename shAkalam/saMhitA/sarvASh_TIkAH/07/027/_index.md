@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ swelling gift-cow in 4cd was previously enclosed (in our opinion; this adjective
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२७  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप्।
 </details>

@@ -3,7 +3,6 @@ title = "022"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ सो꣡मा असृक्षत  
-गृणानाः꣡ श्र꣡वसे महे꣡  
-मदि꣡न्तमस्य धा꣡रया
+एते᳓ सो᳓मा असृक्षत  
+गृणानाः᳓ श्र᳓वसे महे᳓  
+मदि᳓न्तमस्य धा᳓रया
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदिन्तमस्य- अतिशयतृप्तिदस्य। धारया। महे- महत्यै। श्रवसे- श्रुत्यै। गृणानाः- स्तूयमानाः।  एते- इमे। सोमाः- रसाः। असृक्षत- सृष्टाः॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **गृणानाः** स्तूयमानाः **एते** इमे **सोमाः** **महे** महते **श्रवसे** अन्नाय **मदिन्तमस्य** मादयितृतमस्य रसस्य **धारया** **असृक्षत** ऋत्विग्भिः सृज्यन्ते ॥
@@ -134,7 +137,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 These soma juices, while being hymned, have surged for great fame in a stream of most exhilarating (soma).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
@@ -162,10 +165,6 @@ Diese Somatränke sind losgelassen worden zu großem Ruhme gepriesen, mit dem St
 Ergossen sind die Soma's hier gepriesen nun zu hohem Ruhm, Im Strome des berauschendsten.
 </details>
 
-
-
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -181,7 +180,7 @@ Ergossen sind die Soma's hier gepriesen nun zu hohem Ruhm, Im Strome des berausc
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  उक्त गुणोंवाले सेनापति संसार में यश और बल बढ़ाने के लिये उत्पन्न किये जाते हैं॥२२॥
+भावार्थभाषाः -  उक्त गुणोंवाले सेनापति संसार में यश और बल बढ़ाने के लिये उत्पन्न किये जाते हैं॥२२॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

@@ -3,7 +3,6 @@ title = "048"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡ नस् तुवं꣡ रथिरो꣡ देव सोम  
-प꣡रि स्रव चमु꣡वोः पूय꣡मानः  
-अप्सु꣡ स्वा꣡दिष्ठो म꣡धुमाँ ऋता꣡वा  
-देवो꣡ न꣡ यः꣡ सविता꣡ सत्य꣡मन्मा
+नू᳓ नस् तुवं᳓ रथिरो᳓ देव सोम  
+प᳓रि स्रव चमु᳓वोः पूय᳓मानः  
+अप्सु᳓ स्वा᳓दिष्ठो म᳓धुमाँ ऋता᳓वा  
+देवो᳓ न᳓ यः᳓ सविता᳓ सत्य᳓मन्मा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,6 +223,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। देवः सविता- सूर्यः। न- इव। सत्यमन्मा- सत्यज्ञानयुक्तः। मधुमान्- मधुरः। अप्सु-  मूलशक्तिधारासु। स्वादिष्ठः- अतिशयेन आस्वादनीयः। सः। पूयमानः- पुनानः। त्वम्। नु-  क्षिप्रम्। चम्वोः- द्यावापृथिव्योर्मध्ये। रथिरः- महारथः सन्। देव- द्योतनशील। सोम- रस। परि  स्रव॥४८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देव काम्यमान हेसोम रथिरोरथवांस्त्वं नोस्माकं स्वभूतेयज्ञे चम्वोरधिषवणफलक- योः पूयमानः सन् अप्सु वसतीवरीषु नुक्षिप्रं परिस्रव परितः क्षर । स्वादिष्ठः स्वादुतमः अतएव मधुमान् माधुर्ययुक्तः ऋतावा ऋतवान् यज्ञवान् सविता सर्वस्यप्रेरकोयस्त्वं देवोन देवइव सत्यमन्मा सत्यस्तुतिकोभवसि सत्वं परिस्रवेति ॥ ४८ ॥
@@ -247,7 +250,7 @@ Flow quickly into the cups: camvoḥ = adhiśavṇa phalakayoḥ; apsu is relate
 
 Now, you, o god Soma, as charioteer—flow around for us in the two  cups, while being purified,  
 sweetest in the waters, honeyed, truthful, you whose thoughts become  reality, like god Savitar’s.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
@@ -284,8 +287,6 @@ Nun ströme du, Gott Soma, Wagen lenkend, hell flammend durch die Seihe in die S
 Самый вкусный в водах, полный меда, преданный закону,  
 Кто подобен богу Савитару, чья мысль истинна.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

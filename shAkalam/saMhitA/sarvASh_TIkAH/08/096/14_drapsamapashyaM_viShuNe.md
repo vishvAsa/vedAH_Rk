@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः;इन्द्रः~मरुतः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-द्रप्स꣡म् अपश्यं वि꣡षुणे च꣡रन्तम्  
-उपह्वरे꣡ नदि꣡यो अंशुम꣡त्याः  
-न꣡भो न꣡ कृष्ण꣡म् अवतस्थिवां꣡सम्  
-इ꣡ष्यामि वो वृषणो यु꣡ध्यताजउ꣡
+द्रप्स᳓म् अपश्यं वि᳓षुणे च᳓रन्तम्  
+उपह्वरे᳓ नदि᳓यो अंशुम᳓त्याः  
+न᳓भो न᳓ कृष्ण᳓म् अवतस्थिवां᳓सम्  
+इ᳓ष्यामि वो वृषणो यु᳓ध्यताजउ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अंशुमत्या नद्यः- रसयुक्तमूलशक्तिधाराया अर्थे। उपह्वरे- कुटिले। विषुणे- विषमे। चरन्तम्।  द्रप्सम्- वेगवन्तम्। नभः- बन्धकम्। न- च। कृष्णम्- अन्धकारभूतं वृत्रमावरणप्रतीकम्। ५    अवतस्थिवांसम्। अपश्यम्। तेन साकं योद्धुम्। वृषणः- हे वर्षकाः। वः- युष्मान्। इष्यामि-  इच्छामि। आजौ- युद्धभूमौ। युध्यत- तेन युद्धं कुरुत॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 चतुर्थः पादो मारुतः - मरुतः प्रति यद् वाक्यम् इन्द्र उवाच । तदत्रकीर्त्यते -
@@ -219,7 +222,7 @@ _________
 _________
 **English translation:**  
 
-“"I have seen the swift-moving (demon) lurking in an inaccessible plural ce, in the depths of the riverAṃśumatī, (I have seen) **Kṛṣṇa** standing there as (the sun) in a cloud; I appeal to you, showerers; conquerhim in battle".”
+“"I have seen the swift-moving (demon) lurking in an inaccessible plural ce, in the depths of the riverAṃśumatī, (I have seen) **Kṛṣṇa** standing there as (the sun) in a cloud; I appeal to you, showerers; conquer him in battle".”
 
 _________
 **Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
@@ -243,7 +246,6 @@ Pāda b collects several words that have been prominent in the characterization 
 
 Note that though cd forms a single clause with two different subjects (“all the worlds” and “heaven and earth”), the dual verb rejete agrees with the nearer one, the decomposed dual dvandva dyā́vā … pṛthivī́ca.
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -253,6 +255,7 @@ Schlerath also point out that the last word of the hymn is rājan.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -284,10 +287,6 @@ Ich sah den Drapsa in schlimmer Lage im Schoße des Flusses Amsumati, ich sah de
 
 Ich sah den Tropfen wandern in der Ferne im Niedergang des somareichen Stromes; Er kam herab wie eine schwarze Wolke, ich send' ihn euch, o Helden, kämpft in Schlachten.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

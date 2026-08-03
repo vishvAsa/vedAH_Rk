@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ समर्यं꣡ वि꣡ अ꣡चेद् ऋ꣡घावा  
-दीर्घं꣡ य꣡द् आजि꣡म् अभि꣡ अ꣡ख्यद् अर्यः꣡  
-अ꣡चिक्रदद् वृ꣡षणम् प꣡त्नी अ꣡छा  
-दुरोण꣡ आ꣡ नि꣡शितं सोमसु꣡द्भिः
+यदा᳓ समर्यं᳓ वि᳓ अ᳓चेद् ऋ᳓घावा  
+दीर्घं᳓ य᳓द् आजि᳓म् अभि᳓ अ᳓ख्यद् अर्यः᳓  
+अ᳓चिक्रदद् वृ᳓षणम् प᳓त्नी अ᳓छा  
+दुरोण᳓ आ᳓ नि᳓शितं सोमसु᳓द्भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। ऋघावा- वृत्रहिंसकः। समर्यं- समरस्थम्। व्यचेत्- विशेषेण जानीयात्। अर्यः- आर्यः।  आजिम्- युद्धम्। अभ्यख्यत्- अभिपश्येत्। तदा। सोमसुद्भिः- रसनिष्पादकैः। दुरोणे- पात्रे  तदुपलब्धिस्थान इति भावः। निशितम्- तीक्ष्णीकृतम्। सूक्ष्मतया कृतमिति भावः। वृषणम्-  वर्षकम्। सोमम्- रसम्। अच्छा- अभिलक्ष्य। आ- आभिमुख्येन। पत्नी- यज्ञपालनसमर्था  अदितिरुषा वा। अचिक्रदत्- अशब्दयत्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यदा** **ऋघावा** शत्रूणां हिंसक इन्द्रः **समर्यं** सह मर्तव्यं शत्रुं **व्यचेत्** व्यज्ञासीत् विशेषेण जानीयात् । यत् यदा **अर्यः** स्वामीन्द्रः **दीर्घम्** अत्यधिकम् **आजिं** संग्रामम् **अभ्यख्यत्** अभिपश्येत् तदा तस्य इन्द्रस्य **पत्नी** **दुरोणे** यज्ञगृहे 'सोमसुद्भिः सोमं सुन्वद्भिर्ऋत्विग्भिः निशितं तीक्ष्णीकृतम् । सोमपानेनोत्साहवन्तमित्यर्थः । **वृषणं** कामानां वर्षितारमिन्द्रम् **अच्छ** अभि आ **अचिक्रदत्** आक्रन्दति आहृवयते ॥
@@ -253,8 +256,6 @@ Both Geldner and Oldenberg suggest that ṛ́ghāvā should be read as neut. *�
 
 In d “whetted sharp by the soma pressers” (níśitaṃ somasúbhiḥ) continues the theme of the previous vss., that getting Indra on one’s side in battle requires plying him with soma at the sacrifice.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -279,10 +280,6 @@ Als er den drohenden Streit gemustert, als er dem langen Wettstreit des Nebenbuh
 
 Als stürmend er das Schlachtgetümmel wahrnahm, den langen Kampfzug treugesinnt beschaute, Da rief dem kühnen Helden zu die Gattin, als ihn gestärkt im Haus die Somapresser.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

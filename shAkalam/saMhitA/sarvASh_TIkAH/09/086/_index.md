@@ -1,6 +1,5 @@
 +++
 title = "+086"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+086"
 <details><summary>Jamison Brereton</summary>
 
 86 (798)  
-Soma Pavamāna  
+Soma Pavamāna  
 Akrṣṭā ̥ s, the Māṣā seer-group (1–10); Siktatās, the Nivāvarī seer-group (11–20); Prś̥ nis,  the Ajā seer-group (21–30); Atris (31–40); Atri Bhauma (41–45); Grtsam ̥ ada (46–48) 48 verses: jagatī, arranged in trcas ̥  
 As noted in the introduction to IX.85, this last hymn of the jagatī group, one of the  longest in the R̥gveda, can actually be easily divided into smaller hymns, in this case  into sixteen sets of tr̥cas, and can thus be made to conform to the patterns of hymn  arrangement. The resulting triadic groupings do not at all match the divisions in  the Anukramaṇī reproduced above. The degree of internal cohesion between tr̥cas  varies considerably: some show no obvious signs of unity, while others (e.g., vss.  28–30) are stylistically unified. There is also some chaining across tr̥ca boundar  
 ies; for example, verse 4, which begins the second tr̥ca, is strictly parallel to verses  1 and 2 (especially the former). Such chaining is not an argument against the tr̥ca  division, as perceived similarities between particular tr̥cas might have dictated the  arrangement of originally separate hymns. The last tr̥ca (vss. 46–48), attributed to  Gr̥tsamada, ends with the Gr̥tsamada clan refrain of Maṇḍala II.  
@@ -39,4 +38,10 @@ On the structure of the last two hymns of the Jagatī group, see the published
 introductions to IX.85 and 86. In brief, after a series of hymns of 5 vss. (IX.75-84), these last two have 12 vss. and 48 vss. respectively. However, they are clearly composites: IX.85 consists of three groups of four vss. apiece, IX.86 of 16 tṛcas. The standard principles of hymn arrangement can thus be restored.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८६  ऋ. १-१० अकृष्टा माषाः, ११-२० सिकता निवावरी, २१-३० पृश्नियोऽजाः, ३१-४० अकृष्टमाषादयस्त्रयः,  ४१-४५ भौमोऽत्रिः, ४६-४८ गृत्समदः शौनकः।पवमानः सोमः। जगती।
 </details>

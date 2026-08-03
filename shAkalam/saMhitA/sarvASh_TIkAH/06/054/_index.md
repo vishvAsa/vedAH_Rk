@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+054"
 <details><summary>Jamison Brereton</summary>
 
 54 (495)  
-Pūsaṇ  
+Pūsaṇ  
 Bharadvāja Bārhaspatya  
 10 verses: gāyatrī  
 Pūṣan is here in his role as protector of livestock and finder of lost things,  especially cows.
@@ -20,4 +19,10 @@ Pūṣan is here in his role as protector of livestock and finder of lost things
 <details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan A remarkably unproblematic hymn on the whole.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५४  बार्हस्पत्यो भरद्वाजः।पूषा। गायत्री।
 </details>

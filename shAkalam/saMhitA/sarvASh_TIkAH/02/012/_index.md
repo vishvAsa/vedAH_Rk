@@ -1,6 +1,5 @@
 +++
 title = "+012"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ One verse that has attracted particular attention is verse 5, which says that th
 <details><summary>Jamison Brereton Notes</summary>
 
 [II.12 Indra (misc. comments by SJ to JPB tr.)
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। त्रिष्टुप्
 </details>

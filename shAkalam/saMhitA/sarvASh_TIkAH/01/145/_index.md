@@ -1,6 +1,5 @@
 +++
 title = "+145"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Agni’s identification with Apām Napāt (“Child of the Waters”), whose roa
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४५  दीर्घतमा औचथ्यः।अग्निः। जगती, ५ त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+088"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,7 +14,7 @@ Maruts
 Gotama Rāhūgaṇa  
 6 verses: prastārapaṅkti 1, 6; triṣṭubh 2–4; virāḍrūpā 5  
 Metrically, thematically, and poetically complex, this hymn brings Gotama’s Marut  collection to a worthy end. It is structured as a “journey” hymn—the Maruts’ jour ney to and arrival at the sacrifice—but unlike the general run of such hymns, with  stereotyped and simple expressions, this is a superbly crafted example of the genre,  which develops in unpredictable directions.  
-The hymn is organized by pairs of verses. The first two describe the glittering  flight of the Maruts, in fairly typical terms, with special emphasis on their chariots.  The focus shifts to the waiting poets in the next verse pair (3–4). At the beginning  of verse 3 the Maruts are said to “have axes on their bodies.” This detail seems at  first just to continue the inventory of the Maruts’ equipment found in the previous  verses, but the poet turns it into a telling image: the poets will raise up their poems  “like trees,” thus inviting the Maruts to chop them down with their axes—that is,  to take possession of the poems. The next verse (4) picks up another superficially  straightforward characterization of the Maruts and complicates it with reference to  the poets. In verse 1 the Maruts were urged to “fly like birds” to the sacrifice; in verse  4 unspecified plural subjects “wheel like vultures” (pāda 1). In our view these vul tures are the poets (the Gotamas named later in the verse), mentally circling around  the dhī́ “insight, poetic vision” (pāda b) that they are seeking in order to produce a  bráhman, a “sacred formulation,” fit for the Maruts. In the second half of the verse  they succeed in making this bráhman (pāda c) and, in a different image, push the  fountainhead of poetic inspiration upward in order to drink from it (pāda d). They  had also been wheeling around the goddess vārkāryā́ (pāda 4b). This hapax has  been much discussed, and is generally considered to be the name of the Gotamas’  muse, their “Sangeskunst.” We will propose our own interpretation below.  
+The hymn is organized by pairs of verses. The first two describe the glittering  flight of the Maruts, in fairly typical terms, with special emphasis on their chariots.  The focus shifts to the waiting poets in the next verse pair (3–4). At the beginning  of verse 3 the Maruts are said to “have axes on their bodies.” This detail seems at  first just to continue the inventory of the Maruts’ equipment found in the previous  verses, but the poet turns it into a telling image: the poets will raise up their poems  “like trees,” thus inviting the Maruts to chop them down with their axes—that is,  to take possession of the poems. The next verse (4) picks up another superficially  straightforward characterization of the Maruts and complicates it with reference to  the poets. In verse 1 the Maruts were urged to “fly like birds” to the sacrifice; in verse  4 unspecified plural subjects “wheel like vultures” (pāda 1). In our view these vul tures are the poets (the Gotamas named later in the verse), mentally circling around  the dhī́ “insight, poetic vision” (pāda b) that they are seeking in order to produce a  bráhman, a “sacred formulation,” fit for the Maruts. In the second half of the verse  they succeed in making this bráhman (pāda c) and, in a different image, push the  fountainhead of poetic inspiration upward in order to drink from it (pāda d). They  had also been wheeling around the goddess vārkāryā́ (pāda 4b). This hapax has  been much discussed, and is generally considered to be the name of the Gotamas’  muse, their “Sangeskunst.” We will propose our own interpretation below.  
 The last two verses (5–6) depict the simultaneous arrival of the Maruts and of  the inspired thought for the poem in their honor, again in complex and obscure  imagery. The literary epiphany of a god is often marked linguistically by deictic  pronouns and/or the aorist of immediacy (“just now”). The last two verses of I.88  begin with paired double deictics: (vs. 5) etát tyád and (vs. 6) eṣā́ syā́ both mean  
 ing “this very,” and verse 5 contains also the aorist aceti “has just appeared/been  
 
@@ -28,4 +27,10 @@ ticular, can the literal sense be made to conform with the statements in verse 6
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८८   गोतमो राहूगणः। मरुतः। त्रिष्टुप्, १,६ प्रस्तारपंक्तिः, ५ विराड्रूपा
 </details>

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व प्रत्ने꣡भिर् अ꣡ध्वभिर्  
-अ꣡व्यो वा꣡रे प꣡रि प्रियः꣡  
-सह꣡स्रधारो यात् त꣡ना
+त᳓व प्रत्ने᳓भिर् अ᳓ध्वभिर्  
+अ᳓व्यो वा᳓रे प᳓रि प्रियः᳓  
+सह᳓स्रधारो यात् त᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तव- भवतः। प्रत्नेभिः- पुरातनैः। अध्वभिः- मार्गैः। तना- विस्तारभावेन। सहस्रधारः-  अनन्तप्रवाहः। प्रियः। अव्यो वारे- रक्षाशक्तियुक्ते श्रेष्ठे प्रतीके। परि- परितः। यात्- गच्छति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **तव** संबन्धी **प्रियः** देवानां प्रीतिकरः **सहस्रधारः** बहुधारः **तना** विस्तृतसारो रसः **प्रत्नेभिः** पुराणैः **अध्वभिः** मार्गैः **अव्यः** अवेः **वारे** वाले दशापवित्रे **परि** **यात्** परिगच्छति ॥
@@ -181,10 +184,6 @@ Auf deinen alten Wegen kreise der beliebte Saft in tausend Strömen, in einem Zu
 
 Auf seinen alten Wegen geh der liebe durch das Widderhaar In tausend Strömen fort und fort.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,5 +1,0 @@
-+++
-title = "०९ न यातयामैः कार्यम्"
-
-+++
-9. Let him not do his work with implements wasted by use.

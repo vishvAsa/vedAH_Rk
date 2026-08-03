@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-कृण्व꣡न्तो व꣡रिवो ग꣡वे  
-अभि꣡ अर्षन्ति सुष्टुति꣡म्  
-इ꣡ळाम् अस्म꣡भ्य° संय꣡तम्
+कृण्व᳓न्तो व᳓रिवो ग᳓वे  
+अभि᳓ अर्षन्ति सुष्टुति᳓म्  
+इ᳓ळाम् अस्म᳓भ्य° संय᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मभ्यम्- नः। गवे- ज्ञानाय। संयतम्- संयमाख्यम्। वरिवः- धनम्। कृण्वन्तः- कुर्वन्तः।  सुष्टुतिम्- शोभनस्तुतिभूताम्। इळाम्- अस्माकं वाचम्। अभ्यर्षन्ति- अभिगच्छन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अस्माकं **गवे** **अस्मभ्यं** च **संयतं** यदस्मान् संयच्छति तत् **वरिवः** धनम् **इळाम्** अन्नं च **कृण्वन्तः** कुर्वन्तः सोमाः **सुष्टुतिम्** अस्मदीयां शोभनां स्तुतिम् **अभ्यर्षन्ति** आभिमुख्येन गच्छन्ति ॥
@@ -157,7 +160,7 @@ Sustaining: saṃyatam = yad asmān saṃyacchati, that which supports us
 Making a wide realm for the cow, they rush toward the lovely  
 praise hymn,  
 toward lasting refreshment for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
@@ -186,10 +189,6 @@ Dem Winde Wohlfahrt verschaffend fließen sie zu schönem Loblied und für uns z
 
 Sie strömen zu dem Lobgesang dem Rinde schaffend freien Raum, Uns Labetrunk, der nie versiegt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

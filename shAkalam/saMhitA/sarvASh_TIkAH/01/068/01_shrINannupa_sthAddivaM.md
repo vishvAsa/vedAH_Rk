@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्रीण꣡न्न् उ꣡प स्थाद् दि꣡वम् भुरण्यु꣡  
-स्थातु꣡श् चर꣡थम् अक्तू꣡न् वि꣡ ऊर्णोत्
+श्रीण᳓न्न् उ᳓प स्थाद् दि᳓वम् भुरण्यु᳓  
+स्थातु᳓श् चर᳓थम् अक्तू᳓न् वि᳓ ऊर्णोत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

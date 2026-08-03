@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते महिना꣡ महः꣡  
-प꣡रि ज्माय꣡न्तम् ईय꣡तुः  
-ह꣡स्ता व꣡ज्रं हिरण्य꣡यम्
+य᳓स्य ते महिना᳓ महः᳓  
+प᳓रि ज्माय᳓न्तम् ईय᳓तुः  
+ह᳓स्ता व᳓ज्रं हिरण्य᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,6 +133,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। महः- महात्मनः। ते- तव। हस्ता- हस्तौ। महिना- माहात्म्येन। परि ज्मायन्तम्- परितो  गच्छन्तम्। हिरण्ययम्- दीप्तम्। वज्रम्। ईयतुः- गृह्णीतः॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **महः** महतः **यस्य** **ते** तव । यच्छब्दः प्रकृतपरामर्शकः । प्रकृतं तूक्तमृग्द्वयम् । तत्रत्यतुविकूर्मिमृतीषहमित्याद्युक्तलक्षणस्य तवेत्यर्थः । **महिना** महत्त्वेन **हस्ता** तव हस्ता हस्तौ **ज्मायन्तं** पृथिव्यां सर्वतो व्याप्नुवन्तं **हिरण्ययं** हिरण्मयं **वज्रम्** **ईयतुः** परिगृह्णीतः । सर्वदास्माकं भयनिवारणायेति भावः ॥
@@ -178,10 +181,6 @@ Den Großen, dessen Hände mit ihrer Größe die goldene Keule, die losfahren wi
 
 Du grosser, dessen Hände rings mit Macht den Donnerkeil umfahn, Den goldnen, der zur Erde strebt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

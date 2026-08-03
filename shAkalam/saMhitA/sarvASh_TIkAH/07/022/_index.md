@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The focus of this hymn is entirely ritual: Indra is invited to drink the soma an
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra 25
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२२  मैत्रावरुणर्वसिष्ठः।इन्द्रः। विराट्, ९ त्रिष्टुप्।
 </details>

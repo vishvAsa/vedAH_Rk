@@ -1,6 +1,5 @@
 +++
 title = "+040"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ ond, almost identical, to Agni. The hymn ends with a verse in a different meter,
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४०  नाभाकः काण्वः।इन्द्राग्नी । महापङ्क्तिः, २ शक्वरी, १२ त्रिष्टुप्
 </details>

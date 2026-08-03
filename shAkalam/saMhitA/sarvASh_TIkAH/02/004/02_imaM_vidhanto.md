@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ विध꣡न्तो अपां᳐꣡ सध꣡स्थे  
-द्विता꣡दधुर् भृगवो विक्षु꣡ आयोः꣡  
-एष꣡ वि꣡श्वानि अभि꣡ अस्तु भू꣡मा  
-देवा꣡नाम् अग्नि꣡र् अरति꣡र् जीरा꣡श्वः
+इमं᳓ विध᳓न्तो अपां᳐᳓ सध᳓स्थे  
+द्विता᳓दधुर् भृगवो विक्षु᳓ आयोः᳓  
+एष᳓ वि᳓श्वानि अभि᳓ अस्तु भू᳓मा  
+देवा᳓नाम् अग्नि᳓र् अरति᳓र् जीरा᳓श्वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इमम्- एनमग्निम्। विधन्तः- परिचरन्तः। अपाम्- मूलशक्तिधाराणाम्। सदस्थे- सदने। आयोः-  यजमानस्य। विक्षु- प्रजासु। भृगवः- तेजस्विन उपासकाः। भृक् ज्वाला। तया सहोत्पन्ना भृगव  इति शब्दकल्पद्रुमे। द्विता- द्विधा अभ्युदये निःश्रेयसे च। अदधुः- धृतवन्तः। देवानाम्-  द्योतनशक्तीनाम्। अरतिः- ईश्वरः। अग्निः। जीराश्वः- क्षिप्रप्राणः। एषः- अयमग्निः। भूम-  स्वविस्तारेण। विश्वानि- सर्वाणि। अभि अस्तु- व्याप्नोतु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इममग्निंविधन्तः परिचरन्तोभृगवोस्मत्पूर्वेमहर्षयः अपांसधस्थेसहस्थानेन्तरिक्षेआयोर्मनुष्य- स्ययजमानस्यस्वभूतासुविक्षुप्रजास्वृत्विक्षुतेषाम्मध्येचद्विताद्वयोःस्थानात् अदधुः अधारयत् दधाते- र्लुङिरूपं एषोग्निर्भूमभूम्नाअत्यर्थंविश्वानिभूतजातान्यस्मद्विरोधीन्यभ्यस्तुअभिभवतु सकीदृशः देवानामरतिरीश्वरः तेषाम्मध्येशीघ्रंअरणशीलोवास्मद्यागम्प्रति तथाजीराश्वः क्षिप्राश्वः ॥ २ ॥
@@ -250,7 +253,6 @@ The combination of honoring Agni “in the seat of the waters” (a) and the Bh�
 
 -- having done honor to him in the seat of the waters, they followed him along his
 tracks ... / With reverences seeking him who was hiding in secret, the fire-priests, the insightful Bhrgus ̥ found him.” The same myth may be alluded to, in ring compositional fashion, in vs. 9 of our hymn. Note also that the poet to whom this hymn is ascribed is Somāhuti Bhārgava.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
@@ -293,8 +295,6 @@ Die Bhrigus fanden ihn im Sitz der Wasser, und setzten ein ihn in der Menschen H
 Да будет этот Агни надо всеми мирами,  
 Возница (?) богов, правящий быстрыми конями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

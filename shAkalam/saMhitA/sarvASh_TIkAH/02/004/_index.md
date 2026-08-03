@@ -1,6 +1,5 @@
 +++
 title = "+004"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The hymn first concerns itself with the installation of the ritual fire (vss. 1�
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४  सोमाहुतिर्भार्गवः। अग्निः। त्रिष्टुप्
 </details>

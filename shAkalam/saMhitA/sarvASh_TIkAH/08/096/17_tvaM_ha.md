@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ ह त्य꣡द् अप्रतिमान꣡म् ओ꣡जो  
-व꣡ज्रेण वज्रिन् धृषितो꣡ जघन्थ  
-त्वं꣡ शु꣡ष्णस्य अ꣡वातिरो व꣡धत्रैस्  
-तुवं꣡ गा꣡ इन्द्र श꣡चिये꣡द् अविन्दः
+तुवं᳓ ह त्य᳓द् अप्रतिमान᳓म् ओ᳓जो  
+व᳓ज्रेण वज्रिन् धृषितो᳓ जघन्थ  
+त्वं᳓ शु᳓ष्णस्य अ᳓वातिरो व᳓धत्रैस्  
+तुवं᳓ गा᳓ इन्द्र श᳓चिये᳓द् अविन्दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,6 +230,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। वज्रिन्- वज्रपाणे। धृषितः- धृष्टः सन्। वज्रेण। अप्रतिमानम्- अप्रतिमम्। ओजः।  जघन्थ- नाशितवान्। त्वम्। शुष्णस्य- शोषकम्। वधत्रैः- प्रहरणैः। अवातिरः- अवधीः। त्वम्।  इन्द्र। गाः- चिद्रश्मीन्। धेनूर्वा। शच्या- प्रज्ञया। अविन्दः- लब्धवान्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **ह** **त्वं** खलु **त्यत्**   एतत् कर्माकार्षीः। किं तत् अभिधीयते । हे **वज्रिन्** वज्रवन्निन्द्र **धृषितः** धृष्टः संग्रामेषु शत्रुहनने कुशलः सन्। यद्वा। धृष्टो धीरः सन् **अप्रतिमानम्** । प्रतिमानमुपमा। निरुपमम्। अस्य सदृशमन्यदीयं वीर्यं  नास्तीत्यर्थः। तादृशं **शुष्णस्य** **ओजः** बलं **वज्रेण** आयुधेन **जघन्थ** हतवानसि।  ‘अभ्यासाच्च' इति इन्तेर्घत्वम् । पूर्वं शुष्णस्य बलं विनाश्येदानीं शुष्णमपि हतवानित्याह । **त्वं** **वधत्रैः** हननसाधनैरायुधैः **शुष्णस्य** । ‘क्रियाग्रहणं कर्तव्यम्' इति संप्रदानसंज्ञा। चतुर्थ्यर्थे बहुलम्' इति षष्ठी। शुष्णम् **अवातिरः** । कुत्साय राजर्षयेऽवाङ्मुखं कृत्वावधीः । तथा च निगमः-- कुत्साय शुष्णमशुषं नि बर्हीः' (ऋ. सं. ४. १६. १२) इति । तथा हे **इन्द्र** **त्वं** **शच्या** स्वकीयया प्रज्ञया कर्मणा वा **गाः** शत्रून् हत्वा तेषां गाः **अविन्दः** अलभथाः । यद्वा । अङ्गिरसां गाः पणीन् संप्रहृत्य लब्धवानसि ॥
@@ -249,7 +252,7 @@ _________
 
 You then—emboldened, you smote the power without counterpart with  your mace, mace-bearer.  
 You brought low (the power) of Śuṣṇa with your murderous weapons.  You found the cows just with your skill, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
@@ -276,10 +279,6 @@ Du hast da jene Macht, die nicht ihresgleichen hatte, mit der Keule, du Keulentr
 
 Du zeigtest jene unerreichte Stärke, als kühn du Blitzer mit dem Blitze schlugest; Den Çuschna warfst mit Hieben du zu Boden, gewannst, o Indra, dir mit Kraft die Kühe.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

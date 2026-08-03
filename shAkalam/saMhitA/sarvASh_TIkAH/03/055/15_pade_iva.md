@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पदे꣡ इव नि꣡हिते दस्मे꣡ अन्त꣡स्  
-त꣡योर् अन्य꣡द् गुहियम् आवि꣡र् अन्य꣡त्  
-सध्रीचीना꣡ पथि꣡या सा꣡ वि꣡षूची  
-मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
+पदे᳓ इव नि᳓हिते दस्मे᳓ अन्त᳓स्  
+त᳓योर् अन्य᳓द् गुहियम् आवि᳓र् अन्य᳓त्  
+सध्रीचीना᳓ पथि᳓या सा᳓ वि᳓षूची  
+मह᳓द् देवा᳓नाम् असुरत्व᳓म् ए᳓कम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पदे इव- चरणीये। दस्मे- दर्शनीये अहोरात्रे। अन्तः- नभस्यन्तः। निहिते- स्थापिते। तयोः-  अहोरात्रयोः। अन्यत्- एका निशा। गुह्यम्- गूढा। अन्यत्- अन्यदहः। आविः- प्रकाशितम्।  सध्रीचीना- अहोरात्रयोः परस्परमेलनरूपः। पथ्या- मार्गः काल इति भावः। सः- असौ। विषूची-  नानागतिर्भवति। महद्देवानामसुरत्त्वमेकम्॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पदेइव** । पद्येते ज्ञायेते तत्तदसाधारणलिङ्गेनेति पदे । अहश्च रात्रिश्चेत्येते **दस्मे** सर्वैर्दर्शनीये ते  उभे **अन्तः** नभसि मध्ये **निहिते** स्थापिते इव वर्तेते । **तयोः** अहोरात्रयोः **अन्यत्** रात्रिलक्षणं **गुह्यम्** अप्रकाशमानतया गूढमिवास्ते । **अन्यत्** अहः **आविः** सूर्यप्रकाशेन प्रकटं भवति । **सधीचीना** अहोरात्रयोः परस्परमेलनरूपा **पथ्या** मार्गः । काल इत्यर्थः। **सा** **विषूची** । पुण्यकृतोऽपुण्यकृतश्च प्राप्नोतीति विषूची भवति । सर्वे जना अहोरात्रयोर्वर्तन्ते । यद्वा । पदेइव देवमनुष्यादीनां स्थानभूते द्यावापृथिव्यौ अन्तरन्तरिक्षे निहिते वर्तेते । तयोरन्यत् अन्या द्यौः गुह्यमस्माभिः अदृश्यमानतया गूढा वर्तते । अन्या पृथिवी आविः सर्वैः दृश्यमानत्वेन प्रकटा भवति। सध्रीचीनेति पूर्ववत् ॥ सध्रीचीना । सहपूर्वादञ्चतेः क्विन् । 'सहस्य सध्रिः' इति सध्र्यादेशः । ‘विभाषाञ्चेरदिक्स्त्रियाम्' इति स्वः(स्वरः) ॥ ॥ ३० ॥
@@ -259,8 +262,6 @@ Moreover, the two “set down within the wondrous one” echoes 12c ṛtásya t�
 The vs. also recycles various thematically significant lexical items: padá- (see comm. ad 14); nihité echoing ní dadhe (13b); antár (12c and passim: 2c, 5b, 5c, 8c, 9b, 12c; antár is in a sense the signature word of this hymn); anyád … anyád 11b.
 
 The ‘pathway’ (pathyā̀) takes us back to III.54.5 where a question about “the pathway leading to the gods” (devā́m̐áchā pathyā̀) initiated the mysteries that have dogged us ever since.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
@@ -294,8 +295,6 @@ Wie zwei Fusstapfen stehen dort die Schönen, verborgen eine, offenbar die andre
 (Их) путь устремлен к одной цели, (но направлен) он в разные стороны.  
 Велико могущество богов, единственно.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो याहि महेमते  
-स꣡हस्रोते श꣡तामघ  
-दिवो꣡ अमु꣡ष्य शा꣡सतो  
-दि꣡वं यय꣡ दिवावसो
+आ᳓ नो याहि महेमते  
+स᳓हस्रोते श᳓तामघ  
+दिवो᳓ अमु᳓ष्य शा᳓सतो  
+दि᳓वं यय᳓ दिवावसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महेमते- महामते। सहस्रोते- अनन्तरक्षाशक्तिसम्पन्न। शतामघ- अनन्तधन। नः- अस्मान्। आ  याहि- आगच्छ॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **महेमते** महाबुद्धे **सहस्रोते** सहस्ररक्षण **शतामघ** बहुधनेन्द्र त्वं **नः** अस्मान् **आ** **याहि** आगच्छ । सिद्धमन्यत् ॥
@@ -202,8 +205,6 @@ Komm hochgesinnter zu uns her mit tausend Hülfen, hundertreich; Von jenes Herrs
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

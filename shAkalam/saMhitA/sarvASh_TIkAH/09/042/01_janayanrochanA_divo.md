@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-जन꣡यन् रोचना꣡ दिवो꣡  
-जन꣡यन्न् अप्सु꣡ सू꣡रियम्  
-व꣡सानो गा꣡ अपो꣡ ह꣡रिः
+जन᳓यन् रोचना᳓ दिवो᳓  
+जन᳓यन्न् अप्सु᳓ सू᳓रियम्  
+व᳓सानो गा᳓ अपो᳓ ह᳓रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,6 +137,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरिः- आकर्षकः सोमः। गाः- चित्किरणान्। अपः- मूलशक्तिधाराः। वसानः- बिभ्रत्। दिवः-  चिदाकाशस्य। रोचना- दीप्तिशक्तीः। जनयन्- प्रकटयन्। अप्सु- मूलशक्तिधारासु। सूर्यं-  आत्मसूर्यम्। जनयन्- प्रकटयन् विराजते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अयं **हरिः** सोमः **दिवः** द्युसंबन्धीनि **रोचना** रोचनानि नक्षत्रग्रहमण्डलानि **जनयन्** तथा **अप्सु** अन्तरिक्षे **सूर्यं** च **जनयन्** तथा **गाः** अधोगन्त्रीः **अपः** **वसानः** भूमिमात्मानं वाच्छादयन् पवत इत्युत्तरत्र संबन्धः ॥
@@ -182,10 +185,6 @@ Die Lichter des Himmels hervorbringend, die Sonne im Wasser hervorbringend läut
 
 Erzeugend Licht des Himmelsraums in Nebelflut der Sonne Glanz, Ein Ross in Milch und Flut gehüllt,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

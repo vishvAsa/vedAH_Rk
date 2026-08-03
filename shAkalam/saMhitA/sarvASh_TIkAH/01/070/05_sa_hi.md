@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ क्षपा꣡वाँ अग्नी꣡ रयीणां꣡  
-दा꣡शद् यो꣡ अस्मा अ꣡रं सुउक्तइः꣡
+स᳓ हि᳓ क्षपा᳓वाँ अग्नी᳓ रयीणां᳓  
+दा᳓शद् यो᳓ अस्मा अ᳓रं सुउक्तइः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -3,7 +3,6 @@ title = "005"
 devataa = "यक्ष्मघ्नं"
 RShiH = "विवृहा काश्यपः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-मे꣡हनाद् वनंक꣡रणाल्  
-लो꣡मभ्यस् ते नखे꣡भियः  
-य꣡क्ष्मं स꣡र्वस्माद् आत्म꣡नस्  
-त꣡म् इदं꣡ वि꣡ वृहामि ते
+मे᳓हनाद् वनंक᳓रणाल्  
+लो᳓मभ्यस् ते नखे᳓भियः  
+य᳓क्ष्मं स᳓र्वस्माद् आत्म᳓नस्  
+त᳓म् इदं᳓ वि᳓ वृहामि ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 méhanāt ← méhana- (nominal stem)  
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। वनङ्करणात्- उदककरणात्। मेहनात्- मेढ्रात्। ते- तव। लोमभ्यः- रोमभ्यः। नखेभ्यः।  सर्वस्मादात्मनः। इदम्- इदानीम्। तम्। यक्ष्मम्- रोगम्। वि वृहामि॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वनंकरणात्** । वनमुदकं शारीरम् । तत्क्रियते विसृज्यते येन तद्वनंकरणम् । तस्मात् **मेहनात्** मेढ्रात् **ते** तव **लोमभ्यः** **नखेभ्यः** च **यक्ष्मं** **वि** **वृहामि** । किं बहुना । **इदम्** इदानीं **तं** यक्ष्मं **सर्वस्मादात्मनः** कृत्स्नादेव **ते** तव शरीरात् वि वृहामि ॥
@@ -210,8 +213,6 @@ Aus deiner Scham, deiner Harnröhre, aus Haaren und Nägeln, aus deinem ganzen L
 Якшму – из всего тела  
 Ее я тут вырываю у тебя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "012"
 devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सर्जि कल꣡शाँ अभि꣡  
-मीळ्हे꣡ स꣡प्तिर् न꣡ वाजयुः꣡  
-पुनानो꣡ वा꣡चं जन꣡यन्न् असिष्यदत्
+अ᳓सर्जि कल᳓शाँ अभि᳓  
+मीळ्हे᳓ स᳓प्तिर् न᳓ वाजयुः᳓  
+पुनानो᳓ वा᳓चं जन᳓यन्न् असिष्यदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मीळ्हे- हर्षे। वाजयुः- संपत्कामः सोमः। सप्तिर्न- अश्व इव। कलशान्- भाजनानि प्रतीकभूतानि।  अनु। असर्जि- सृष्टः। पुनानः- पूयमानः। वाचम्- मन्त्रम्। जनयन्- उत्पादयन्। असिष्यदत्-  स्यन्दते॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजयुः** यजमानानामन्नमिच्छन् स सोमः **कलशान्** अभिलक्ष्य कलशेषु **असर्जि** सृज्यते । तत्र दृष्टान्तः । **सप्तिर्न** यथाश्वः **मीळ्हे**। संग्रामनामैतत् । संग्रामे सृज्यते तद्वत्। ततः **पुनानः** पूयमानः सोमः **वाचं** शब्दं **जनयन्** उत्पादयन् **असिष्यदत्** पात्रेषु स्यन्दते ॥
@@ -164,7 +167,7 @@ _________
 
 He has been sent surging toward the tubs, like a prize-seeking team at a  competition.  
 Being purified, begetting speech, he has flowed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
@@ -197,8 +200,6 @@ Entsandt ist zu den Bechern er, ein Ross, das Preis im Kampf erstrebt, Und Sang 
 Словно упряжка, стремящаяся к награде на состязании.  
 Он потек, очищаясь, порождая речь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ vides a fitting end to the rest. The name indra ́ opens the final pāda (11d). 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra I have endeavored to preserve in tr. the consistent position of índra- in each vs., for which see the published introduction. Other elements have had to be juggled; as is often the case, it is harder to honor the half-verse division in Gāyatrī than in trimeter.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३७  गाथिनो विश्वामित्रः। इन्द्रः।  गायत्री, ११ अनुष्टुप्।
 </details>

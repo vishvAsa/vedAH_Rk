@@ -3,7 +3,6 @@ title = "006"
 devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् इ꣡त् समान꣡म् आशते°  
-वे꣡नन्ता न꣡ प्र꣡ युछतः  
-धृत꣡व्रताय दाशु꣡षे
+त᳓द् इ᳓त् समान᳓म् आशते°  
+वे᳓नन्ता न᳓ प्र᳓ युछतः  
+धृत᳓व्रताय दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,10 +144,30 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+धृतव्रताय- प्रकृतिनियत्यनुस्यूतनियमसंपन्नाय। दाशुषे- दानकर्त्रे। वेनन्ता- कान्तिसंपन्नौ  मित्रावरुणौ। वेनतिः कान्तिकर्मा। तदित्- तदेवास्माकं जीवनं भावनं वा। आशाते- अश्नुवाते। न  प्र युच्छतः- प्रमादं मा कुरुतः। युच्छ प्रमादे॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **धृतव्रताय** अनुष्ठितकर्मणे **दाशुषे** हविर्दत्तवते यजमानाय वेनन्तौ कामयमानौ मित्रावरुणाविति शेषः । तावुभौ **समानं** साधारणं **तदित्** अस्माभिर्दत्तं तदेव हविः **आशाते** अश्नुवाते। **न** **प्र** **युच्छतः** कदाचिदपि प्रमादं न कुरुतः ॥ आशाते । अश्नोतेर्लिटि द्विर्भावहलादिशेषौ । ‘अत आदेः ' (पा. सू. ७. ४. ७० ) इति आत्वम् । ‘अनित्यमागमशासनम्' इति वचनात् “ अश्नोतेश्च ' ( पा. सू. ७. ४. ७२ ) इति नुडभावः । वेनन्ता। वेनतिः कान्तिकर्मा ।' सुपां सुलुक् ' इति आकारः। प्र युच्छतः । 'युच्छ प्रमादे'। दाशुषे ।' दाशृ दाने' इत्यस्मात् दाश्वान् साह्वान्' इति क्वसुप्रत्ययो निपातितः । वसोः संप्रसारणम्' इति संप्रसारणम् । शासिवसिघसीनां च ' इति षत्वम् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+They both have equally acquired the same [power],  
+fervently, they do not neglect 
+the venerator, whose vows are strong.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+mitra cannot be separated from varuNa even when the devatA of the R^ik (for that matter, the whole sUkta) is specified as varuNa.  
+
+The entire sUkta does not mention mitra by name. Yet in this R^ik it is clear that silently mitra is invoked alongside varuNa. That's why the dual specification is used. This linkage is mirrored again in the varuNa (=ahura)-centric reflexes of the Iranian religion.
+</details>
+
 
 <details><summary>Wilson</summary>
 
@@ -188,8 +206,6 @@ Sie beide nehmen liebend an das Opfer und entziehn sich nicht dem Frommen, welch
 Почитателем, чьи обеты крепки.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -205,7 +221,7 @@ Sie beide nehmen liebend an das Opfer und entziehn sich nicht dem Frommen, welch
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  ये (प्रयुच्छतः) आनन्द करते हुए (वेनन्ता) बाजा बजानेवालों के (न) समान सूर्य और वायु (धृतव्रताय) जिसने सत्यभाषण आदि नियम वा क्रियामय यज्ञ धारण किया है, उस (दाशुषे) उत्तम दान आदि धर्म करनेवाले पुरुष के लिये (तत्) जो उसका होम में चढ़ाया हुआ पदार्थ वा विमान आदि रथों की रचना (इत्) उसी को (समानम्) बराबर (आशाते) व्याप्त होते हैं॥६॥
+पदार्थान्वयभाषाः -  ये (प्रयुच्छतः) आनन्द करते हुए (वेनन्ता) बाजा बजानेवालों के (न) समान सूर्य और वायु (धृतव्रताय) जिसने सत्यभाषण आदि नियम वा क्रियामय यज्ञ धारण किया है, उस (दाशुषे) उत्तम दान आदि धर्म करनेवाले पुरुष के लिये (तत्) जो उसका होम में चढ़ाया हुआ पदार्थ वा विमान आदि रथों की रचना (इत्) उसी को (समानम्) बराबर (आशाते) व्याप्त होते हैं॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

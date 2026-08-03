@@ -1,6 +1,5 @@
 +++
 title = "+099"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+099"
 <details><summary>Jamison Brereton</summary>
 
 99 (811)  
-Soma Pavamāna  
+Soma Pavamāna  
 Two sons of Rebha, the Kāśyapas  
 8 verses: anuṣṭubh, except br̥hatī 1  
 The varieties of thought and its poetic expressions are the focus of this hymn, espe cially in its earlier verses (1–2, 4–5), and Soma’s mental and verbal powers comple ment those of his mortal worshipers (vs. 6). The physical preparation of soma is not  neglected, however (esp. vss. 3, 7–8).
@@ -25,4 +24,10 @@ The varieties of thought and its poetic expressions are the focus of this hymn, 
 Hymns predominantly in Anuṣṭubh
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९९  रेभसूनू काश्यपौ।पवमानः सोमः। अनुष्टुप्, १ बृहती
 </details>

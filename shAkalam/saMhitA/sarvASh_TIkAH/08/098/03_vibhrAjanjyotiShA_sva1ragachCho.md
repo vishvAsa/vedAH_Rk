@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-विभ्रा꣡जञ् ज्यो꣡तिषा सु꣡वर्  
-अ꣡गछो रोचनं꣡ दिवः꣡  
-देवा꣡स् त इन्द्र सखिया꣡य येमिरे
+विभ्रा᳓जञ् ज्यो᳓तिषा सु᳓वर्  
+अ᳓गछो रोचनं᳓ दिवः᳓  
+देवा᳓स् त इन्द्र सखिया᳓य येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ज्योतिषा। विभ्राजन्- प्रकाशयन्। स्वः- स्वर्गम्। दिवः रोचनम्- नभसश्चित्ताकाशस्य वा  दीप्तिस्थानम्। अगच्छः- गतवान्। इन्द्र। ते- तव। सख्याय- सौहृदाय। देवाः। येमिरे- यत्नं  कुर्वन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** त्वं **ज्योतिषा** तेजसा **दिवः** आदित्यस्य **रोचनं** प्रकाशकमधिकरणत्वेन **स्वः** स्वर्गं **विभ्राजन्** प्रकाशयन् **अगच्छः** प्राप्नोः । किंच **देवाः** सर्वे **ते** तव **सख्याय** मित्रत्वाय **येमिरे** स्वं स्वमात्मानं नियमितवन्तः । अस्माकमिन्द्रः सखा यथा स्यादिति सर्वे देवाः प्रयत्नमकार्षुरित्यर्थः ॥
@@ -171,7 +174,7 @@ Light of the sky: rocanam **divaḥ**; you have pervaded and illumined by yourli
 
 Flashing forth (like) the sun with its light, you went to the luminous  realm of heaven.  
 The gods yielded themselves to partnership with you, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
@@ -213,8 +216,6 @@ Mit Glanz erstrahlend gingst du hin zur Sonne, zu des Himmels Licht; Die Götter
 К солнцу, в светлое пространство неба.  
 Боги, о Индра, преданы дружбе с тобой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

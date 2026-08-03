@@ -1,6 +1,5 @@
 +++
 title = "+135"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+135"
 <details><summary>Jamison Brereton</summary>
 
 135  
-Vāyu (1–3, 9), Indra and Vāyu (4–8)  
+Vāyu (1–3, 9), Indra and Vāyu (4–8)  
 Paruchepa Daivodāsi  
 9 verses: atyaṣṭi, except aṣṭi 7–8, arranged in tr̥cas  
 The second of Paruchepa’s Vāyu hymns is longer than the first, and presumably  originally consisted of three hymns, corresponding to the tr̥ca divisions. For most  of its length it is preoccupied with the usual themes of Vāyu hymns: Vāyu’s journey  to the sacrifice with his many teams and his right to the first drink of soma at the  Morning Pressing. The first tr̥ca (vss. 1–3) is an invitation to Vāyu alone; the second  (vss. 4–6), thematically and verbally parallel to the first, is addressed to Vāyu and  Indra, who share the second soma oblation at the Morning Pressing.  
@@ -23,4 +22,10 @@ phenomena. And, of course, in a hymn focused on the soma sacrifice, any unidenti
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३५   परुच्छेपो दैवोदासिः। १-३, ९ वायुः, ४-८ इन्द्रवायू। अत्यष्टिः, ७-८ अष्टिः ।
 </details>

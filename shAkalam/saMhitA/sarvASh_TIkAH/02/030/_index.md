@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The hymn contains some striking expressions, for instance the “night” of the
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and other divinities This hymn has at least three, possibly four modern ling. features: conditional (ábhariṣyat vs. 2), future impv (kṛṇutāt vs. 5 [though the fut. impv. appears to be inherited, it is fairly rare in the RV and generally seems to belong to a more colloquial speech level]), gerund (abhikhyā́ya, hatvī́vss. 9, 10), and mid. subj. in -ai (naśāmahai vs. 11).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३०  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः, ६ इन्द्रासोमौ,८ (पूर्वाऽर्धर्चस्य) सरस्वती,  ९ बृहस्पतिः, ११ मरुतः। त्रिष्टुप्, ११ जगती
 </details>

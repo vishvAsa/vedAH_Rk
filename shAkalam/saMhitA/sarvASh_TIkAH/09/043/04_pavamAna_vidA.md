@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान विदा꣡ रयि꣡म्  
-अस्म꣡भ्यं सोम सुश्रि꣡यम्  
-इ꣡न्दो सह꣡स्रवर्चसम्
+प᳓वमान विदा᳓ रयि᳓म्  
+अस्म᳓भ्यं सोम सुश्रि᳓यम्  
+इ᳓न्दो सह᳓स्रवर्चसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

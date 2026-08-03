@@ -3,7 +3,6 @@ title = "015"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡ इ꣡न्द्राय वज्रि꣡णे  
-सो꣡मासो द꣡धिआशिरः  
-पवि꣡त्रम् अ꣡ति अक्षरन्
+सुता᳓ इ᳓न्द्राय वज्रि᳓णे  
+सो᳓मासो द᳓धिआशिरः  
+पवि᳓त्रम् अ᳓ति अक्षरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    वज्रिणे इन्द्राय- ईशनाधिदैवताय। सुताः- निष्पादिताः। दध्याशिरः- धारणामिश्रिताः। सोमासः-  रसाः। पवित्रम्- शोधकं प्रतीकम्। अति- अतिक्रम्य च। अक्षरन्- क्षरन्ति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वज्रिणे** वज्रवते **इन्द्राय** इन्द्रार्थं **सुताः** अभिषुताः **दध्याशिरः** । दधि आशीराश्रयणद्रव्यं येषां ते दध्याशिरः । दधिसंस्कृताः **सोमासः** सोमाः **पवित्रमति** अतिक्रम्य **अक्षरन्** धारया क्षरन्ति ॥ ॥ ३२ ॥
@@ -140,7 +143,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have streamed across the filter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
@@ -167,10 +170,6 @@ Die für den Keulenträger Indra ausgepreßten Somasäfte, die mit saurer Milch 
 
 Dem Blitzer Indra ausgepresst, ergiessen durch die Seihe sich Die Somatränke milchgemischt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

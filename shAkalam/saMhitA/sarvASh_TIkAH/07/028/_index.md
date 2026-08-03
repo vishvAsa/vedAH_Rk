@@ -1,6 +1,5 @@
 +++
 title = "+028"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Verse 4 is notable because of the intrusion of Varuṇa into this Indra hymn,  a
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२८  मैत्रावरुणर्वसिष्ठः।इन्द्रः । त्रिष्टुप्।
 </details>

@@ -3,7 +3,6 @@ title = "039"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡नः प꣡त्नीम् अग्नि꣡र् अदाद्  
-आ꣡युषा सह꣡ व꣡र्चसा  
-दीर्घा꣡युर् अस्या यः꣡ प꣡तिर्  
-जी꣡वाति शर꣡दः शत꣡म्
+पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
+आ᳓युषा सह᳓ व᳓र्चसा  
+दीर्घा᳓युर् अस्या यः᳓ प᳓तिर्  
+जी᳓वाति शर᳓दः शत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 adāt ← √dā- 1 (root)  
@@ -188,6 +186,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तमेव भावं पुनर्दर्शयति। आयुषा। वर्चसा- तेजसा। सह। पत्नीम्- जायाम्। अग्निः- पावकः  सर्वभूतहितक्रतुः। पुनः। अदात्- ददौ। एवमग्निप्रसादभूतजाययैव। अस्याः- एतस्याः। यः पतिः-  यो भर्ता अस्ति सः। दीर्घायुः। शरदः शतम्- पूर्णं जीवनम्। जीवाति- जीवति॥३९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनः** स्वगृहीतां **पत्नीम्** **अग्निः** **आयुषा** **सह** वर्चसा सह **अदात्** प्रायच्छत् ॥ **अस्याः** अग्निदत्तायाः **यः** **पतिः** पुमान् सः **दीर्घायुः** सन् **शरदः** **शतं** शतसंवत्सरं **जीवाति** जीवतु ॥
@@ -229,8 +232,6 @@ Jetzt hat Agni die Gattin zurückgegeben in blühender Lebenskraft, lange lebe i
 Долголетен (да будет тот,) кто ее муж!  
 Да проживет он сотню осеней!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

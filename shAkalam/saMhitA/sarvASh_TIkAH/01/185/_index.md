@@ -1,6 +1,5 @@
 +++
 title = "+185"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The last three verses (9–11) develop this theme. The poet expresses the hope  
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८५   अगस्त्यो मैत्रावरुणिः।द्यावापृथिव्यौ। त्रिष्टुप्।
 </details>

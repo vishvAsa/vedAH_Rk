@@ -1,9 +1,0 @@
-+++
-title = "५५ अन्नमापो मूलफलं यच्चान्यच्छ्राद्धिकम्"
-
-+++
-55 [^11] . 'Food, water, roots and fruits, and whatsoever else Śrāddha-food there may be: even when he has (only) accepted thereof, the study should be interrupted; the Brāhmaṇa's hand is his mouth; so it is taught.'
-
-
-[^11]:  Comp. Manu IV, 117; Vasiṣṭha XIII, 16.
-

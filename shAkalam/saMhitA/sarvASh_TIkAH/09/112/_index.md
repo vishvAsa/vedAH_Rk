@@ -1,6 +1,5 @@
 +++
 title = "+112"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+112"
 <details><summary>Jamison Brereton</summary>
 
 112 (824)  
-Soma Pavamāna  
+Soma Pavamāna  
 Śiśu Āṅgirasa  
 4 verses: paṅkti  
 This charming little hymn has no obvious connection to soma except through its  refrain (which it shares with the next two hymn, 113–114, also in the same meter),  which sits oddly in each verse, and through the glancing mention of the soma-presser  in 1d. The diversity of people’s occupations and of their goals is the theme, presented  in casual style and sometimes colloquial language (see especially the designations for  father and mother in vs. 3), with the gently cynical message that what everyone really  wants is gain or an easy life. The final verse (4) opens out to the nonhuman world.  
@@ -23,4 +22,10 @@ ful to abandon.
 <details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this hymn has no apparent connection with soma except for the refrain.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ११२  शिशुराङ्गिरसः।पवमानः सोमः। पङ्क्तिः।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+138"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+138"
 <details><summary>Jamison Brereton</summary>
 
 138  
-Pūsaṇ  
+Pūsaṇ  
 Paruchepa Daivodāsi  
 4 verses: atyaṣṭi  
 This hymn lacks the colloquial tone and idiomatic style of most Pūṣan hymns.  Instead, as befits the elaborate meter, this is high-register praise, with a somewhat  bombastic and overblown edge and contorted syntax.  
@@ -21,4 +20,10 @@ The poet is especially concerned to establish “fellowship” (sakhyá, vss. 2�
 <details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३८  परुच्छेपो दैवोदासिः।मित्रावरुणौ। अतिशक्वरी।
 </details>

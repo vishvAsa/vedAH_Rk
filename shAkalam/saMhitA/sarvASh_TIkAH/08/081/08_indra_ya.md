@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र य꣡ उ नु꣡ ते अ꣡स्ति  
-वा꣡जो वि꣡प्रेभिः स꣡नित्वः  
-अस्मा꣡भिः सु꣡ तं꣡ सनुहि
+इ᳓न्द्र य᳓ उ नु᳓ ते अ᳓स्ति  
+वा᳓जो वि᳓प्रेभिः स᳓नित्वः  
+अस्मा᳓भिः सु᳓ तं᳓ सनुहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। यः- या। ते- तव। विप्रेभिः- मेधाविभिः। सनित्वः- सम्भजनीया। वाजः- सम्पदस्ति।  तम्- ताम्। अस्माभिः। सु- सुष्ठु। सनुहि- यच्छ॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **यः** **वाजः** अन्नं **विप्रेभिः** मेधाविभिः **सनित्वः** संभजनीयः **ते** तव **अस्ति** **तं** वाजम् **अस्माभिः** याचितः सन् अस्मभ्यं वा **सु** सुष्ठु **सनुहि** देहि ॥
@@ -204,10 +207,6 @@ Indra, dein Siegerpreis, der von den Redekundigen zu gewinnen ist, den gewinne f
 
 Welche Labung du, o Indra, durch die Sänger musst empfangen, Die sollst du durch uns empfangen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

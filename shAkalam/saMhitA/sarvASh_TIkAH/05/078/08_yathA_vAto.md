@@ -3,7 +3,6 @@ title = "008"
 devataa = "अश्विनौ (गर्भस्राविण्युपनिषत्)"
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था वा꣡तो य꣡था व꣡नं  
-य꣡था समुद्र꣡ ए꣡जति  
-एवा꣡ त्वं꣡ दशमासिय  
-सहा꣡वेहि जरा꣡युणा
+य᳓था वा᳓तो य᳓था व᳓नं  
+य᳓था समुद्र᳓ ए᳓जति  
+एवा᳓ त्वं᳓ दशमासिय  
+सहा᳓वेहि जरा᳓युणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 vánam ← vána- (nominal stem)  
@@ -168,6 +166,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। वातः- वायुः। यथा। वनम्- वनस्पतिगणः। यथा। समुद्रः- अर्णवः। एजति- कम्पते।  एव- तथा। त्वम्। दशमास्यः। जरायुणा सह। अव इहि- पत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 वातोयथाकम्पमानोवनङ्कम्पयतिस्वयं ॥ यथासमुद्रश्चलतिचाल्यतेवाथवायुना ॥ १ ॥ स्थित्वादशैवमासांस्त्वङ्गर्भोल्बेनसुवेष्टितः ॥ निर्गच्छजठारान्मातुर्जरायुयुजआपत ॥ २ ॥ ८ ॥
@@ -210,8 +213,6 @@ Wie sich der Wind, wie sich der Wald, wie sich das Meer in Wogen regt, so du auc
 Так выходи ты, о десятимесячный,  
 Вместе с последом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

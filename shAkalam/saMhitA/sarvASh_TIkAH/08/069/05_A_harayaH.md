@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ह꣡रयः ससृज्रिरे  
-अ꣡रुषीर् अ꣡धि बर्हि꣡षि  
-य꣡त्राभि꣡ संन꣡वामहे
+आ᳓ ह᳓रयः ससृज्रिरे  
+अ᳓रुषीर् अ᳓धि बर्हि᳓षि  
+य᳓त्राभि᳓ संन᳓वामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अरुषीः- रोचमानाः। हरयः- प्राणाश्वाः। अधि बर्हिषि- दर्भासने। आ ससृजिरे- इन्द्रं सृजन्ति।  यत्र। तम्। अभि संनवामहे- अभिसंस्तुमः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हरयः** हरितवर्णा अश्वाः **अरुषीः** आरोचमानाः **अधि** **बर्हिषि** । अधीति सप्तम्यर्थानुवादी । बर्हिष्यास्तृते **आ** ससृज्रिरे आसृजन्तु । **यत्र** यस्मिन् बर्हिषि स्थितमिन्द्रम् **अभि** संनवामहे अभिसंस्तुमः ॥ ॥ ५ ॥
@@ -161,10 +164,6 @@ Die Falben sind auf die roten Kühe auf dem Barhis losgelassen, wobei wir in das
 
 Die goldigen ergossen sich, die Flammenrosse auf die Streu, Wo wir lobsingen allesammt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वाजय꣡न्न् इव नू꣡ र꣡थान्  
-यो꣡गाँ अग्ने꣡र् उ꣡प स्तुहि  
-यश꣡स्तमस्य मीळ्हु꣡षः
+वाजय᳓न्न् इव नू᳓ र᳓थान्  
+यो᳓गाँ अग्ने᳓र् उ᳓प स्तुहि  
+यश᳓स्तमस्य मीळ्हु᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यशस्तमस्य- अतिशयेन कीर्तिमतः। मीळ्हुषः- आनन्दकरस्य। अग्नेः- पावकस्य  सर्वभूतहितक्रतोः। उप- अन्तिके। रथान्। वाजयन्निव- गमयन्निव। योगान्- समाधीः गमयन्।  युज समाधौ। नु- क्षिप्रम्। स्तुहि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेअन्तरात्मन् नुक्षिप्रंअग्नेर्योगानश्वान् उपस्तुहि कीदृशस्याग्नेः वशस्तमस्यप्रवृद्धयशसः त्वमर्थोलु- प्यते मीह्ळुषः सेक्तुः फलस्य ईदृशस्ययोगान् स्तुहि होतरितिवासम्बोध्यं स्तुतौदृष्टान्तः—वाजयन्नि- वअन्नमिच्छन् पुरुषइव सयथाअश्वान् गमनायस्तौतितद्वत् यद्वोक्तलक्षणस्याग्रेर्गमनसाधनान् रथान् स्तुहि ॥ १ ॥
@@ -158,7 +161,7 @@ _________
 
 As a prize-seeker (praises) his chariots, now praise the yoke(d teams)  of Agni,  
 the most glorious one, who grants rewards,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
@@ -197,8 +200,6 @@ Wie Preis erjagend rühme nun des Agni Wagen und Gespann, Des herrlichsten, des 
 Самого прославленного, щедрого,
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -219,7 +220,7 @@ Wie Preis erjagend rühme nun des Agni Wagen und Gespann, Des herrlichsten, des 
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे शिल्पी विद्वान् जन! आप जैसे घोड़ों और बैल आदि से चलनेवाले रथों को चलाते हैं, वैसे ही अति शीघ्र गति से जल के कलाघरों से प्रेरणा पाया अग्नि विमानादि यानों को शीघ्र चलाता है, यह सबके प्रति उपदेश करो ॥१॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे शिल्पी विद्वान् जन! आप जैसे घोड़ों और बैल आदि से चलनेवाले रथों को चलाते हैं, वैसे ही अति शीघ्र गति से जल के कलाघरों से प्रेरणा पाया अग्नि विमानादि यानों को शीघ्र चलाता है, यह सबके प्रति उपदेश करो ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

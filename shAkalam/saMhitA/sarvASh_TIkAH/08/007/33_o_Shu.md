@@ -3,7 +3,6 @@ title = "033"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-õ꣡ षु꣡ वृ꣡ष्णः प्र꣡यज्यून्  
-आ꣡ न꣡व्यसे सुविता꣡य  
-ववृतियां꣡ चित्र꣡वाजान्
+õ᳓ षु᳓ वृ᳓ष्णः प्र᳓यज्यून्  
+आ᳓ न᳓व्यसे सुविता᳓य  
+ववृतियां᳓ चित्र᳓वाजान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृष्णः- वर्षकान्। प्रयज्यून्- प्रकर्षेण पूज्यान्। चित्रवाजान्- विचित्रगतीन् मरुतः। नव्यसे-  अभिनवाय। सुविताय- सुखाय। सु- सुष्ठु। आ ववृत्याम्- आवर्तयामि॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृष्णः** वर्षितॄन् अभीष्टफलदान् **प्रयज्यून्** प्रकर्षेण यष्टव्यान् **चित्रवाजान्** विचित्रगमनान् विचित्रबलान् विचित्रधनान् वा एवंभूतान् मरुतः **सु** सुषु **ओ** आ उ **ववृत्यां** आवर्तयामि। अस्मदभिमुखं यथा गच्छन्ति तथा करोमि । अपि च **नव्यसे** नवीयसे नवतराय अत्यन्तं प्रशस्ताय **सुविताय** सुष्ठु प्राप्तव्याय धनाय च तान् **आ** ववृत्याम् आवर्तयामि ॥
@@ -161,7 +164,7 @@ _________
 
 I (would turn) hither the bulls, worshiped first at the sacrifice, hither for  newer good progress,  
 would turn them who bring glittering prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
@@ -200,8 +203,6 @@ Her möcht ich ziehn zu neuem Glück die Heldenschar, die vorwärts stürmt und 
 Я хотел бы хорошенько направить к новому счастливому выезду,  
 (Их), приносящих яркие награды.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

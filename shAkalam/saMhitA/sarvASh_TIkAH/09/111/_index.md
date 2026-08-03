@@ -1,6 +1,5 @@
 +++
 title = "+111"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+111"
 <details><summary>Jamison Brereton</summary>
 
 111 (923)  
-Soma Pavamāna  
+Soma Pavamāna  
 Anānata Pārucchepi  
 3 verses: atyaṣṭi  
 This hymn is the only one in the IXth Maṇḍala in the intricate atyaṣṭi meter, with  its variable lines and patterned repetition. The poet, according to the Anukramaṇī,  is Anānata son of Parucchepa, a poet not otherwise represented in the R̥gveda.  However, his putative father, Parucchepa, is the author, again according to the  Anukramaṇī, of I.127–39, the only sustained corpus of atyaṣṭi in the R̥gveda.  
@@ -22,4 +21,10 @@ The reference of the next item, the melody or sāman, is equally obscure. If it 
 <details><summary>Jamison Brereton Notes</summary>
 
 On the characteristics of Atyaṣṭi meter see comm. ad I.127-39, the only series of Atyaṣṭi hymns in the RV, which are attributed to our poet’s father Paruchepa.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १११  अनानतः पारुच्छेपिः।पवमानः सोमः। अत्यष्टिः।
 </details>

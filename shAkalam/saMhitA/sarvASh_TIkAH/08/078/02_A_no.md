@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो भर विअ꣡ञ्जनं  
-गा꣡म् अ꣡श्वम् अभिअ꣡ञ्जनम्  
-स꣡चा मना꣡ हिरण्य꣡या
+आ᳓ नो भर विअ᳓ञ्जनं  
+गा᳓म् अ᳓श्वम् अभिअ᳓ञ्जनम्  
+स᳓चा मना᳓ हिरण्य᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+गाम्- धेनुं चिद्रश्मिम्। अश्वम्- तुरगं प्राणम्। अभ्यञ्जनम्- अभिव्यक्तिम्। व्यञ्जनम्-  अभिव्यञ्जितानामितोपि विशेषेण अभिव्यक्तिम्। सचा- तया सह। हिरण्यया- दीप्तानि। मना-  मननानि। नः- अस्मभ्यम्। आ भर- आहर॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **नः** अस्मभ्यं **व्यञ्जनं** **गामश्वमभ्यञ्जनं** तैलं च **आ** **भर**। **मना** मननीयानि **हिरण्यया** हिरण्मयान्युपकरणानि **सचा** सहाभरेति ॥
@@ -177,10 +180,6 @@ Bring das, was ziert, Rind, Roß, Salböl nebst goldener Schabracke!
 
 O bringe Schmuck und Rinder uns und Rosse und Geschmeide her Zugleich mit goldenem Geräth.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

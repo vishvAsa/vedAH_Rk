@@ -3,7 +3,6 @@ title = "003"
 devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-घृत꣡म् पवस्व धा꣡रया  
-यज्ञे꣡षु देववी꣡तमः  
-अस्म꣡भ्यं वृष्टि꣡म् आ꣡ पव
+घृत᳓म् पवस्व धा᳓रया  
+यज्ञे᳓षु देववी᳓तमः  
+अस्म᳓भ्यं वृष्टि᳓म् आ᳓ पव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,6 +130,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देववीतमः- दिव्यानुभवः सन्। यज्ञेषु- अस्मदुपासनेषु। धारया। घृतम्- दीप्तिम्। पवस्व- क्षर।  अस्मभ्यम्- नः। वृष्टिम्। आ पव॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **यज्ञेषु** **देववीतमः** अत्यन्तं देवकामस्त्वम् **अस्मभ्यं** भार्गवेभ्यः कविभ्यः **घृतम्** उदकम् । वनं घृतम्' इत्युदकनामसु पाठात् । **धारया** संपातेन **पवस्व** क्षर। **वृष्टिं** वर्षं च **आ** **पव** पवस्व ॥
@@ -173,10 +176,6 @@ Läutere Schmalz in Strömen, der du zu den Opfern am besten die Götter ladest,
 
 Im Strome riesle Butter her, bei Opfern Götter-labendster, Und ströme Regen uns herbei.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

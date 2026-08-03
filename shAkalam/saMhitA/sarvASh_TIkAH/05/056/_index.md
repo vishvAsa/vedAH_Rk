@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The poet repeatedly calls the Maruts to come here: the forms “I call,” “we
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५६  श्यावाश्व आत्रेयः।मरुतः। बृहती, ३, ७ सतोबृहती।
 </details>

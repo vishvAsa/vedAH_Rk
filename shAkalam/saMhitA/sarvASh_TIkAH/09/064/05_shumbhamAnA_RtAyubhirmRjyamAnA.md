@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शुम्भ꣡माना ऋतायु꣡भिर्  
-मृज्य꣡माना ग꣡भस्तियोः  
-प꣡वन्ते वा꣡रे अव्य꣡ये
+शुम्भ᳓माना ऋतायु᳓भिर्  
+मृज्य᳓माना ग᳓भस्तियोः  
+प᳓वन्ते वा᳓रे अव्य᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -107,6 +105,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    ऋतायुभिः- प्रकृतिनियतिभूतसत्यकामैः। गभस्त्योः- रसोद्दीपकयोः प्राणापानेशनशत्तयोः। बभसति  दीपयन्त्याभ्यां रसमिति गभस्ती प्राणापनेशनशक्ती।  आधिभौतिके तु बाहुभ्याम्। बभसति  दीपयन्ति निर्मथ्नन्त्याभ्यामग्निमिति गभस्ती बाहू। शुम्भमानाः- अलंक्रियमाणाः। मृज्यमानाः-  शोध्यमानाः। अव्यये वारे- वरणीये प्रतीके । पवन्ताम्- क्षरन्तु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ऋतायुभिः** यज्ञकामैः **शुम्भमानाः** अलंक्रियमाणाः **गभस्त्योः** गभस्तिभ्यां बाहुभ्याम् । ‘ गभस्ती बाहू' इति बाहुनामसु पाठात् । **मृज्यमानाः** शोध्यमानाः सोमाः **अव्यये** अविमये **वारे** वाले पवित्रे **पवन्ते** क्षरन्ति ॥ ॥ ३६ ॥
@@ -123,7 +126,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Being beautified by those who seek truth, being groomed in the two hands, they purify themselves in the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
@@ -150,10 +153,6 @@ Schön gemacht von den Frommen, zwischen den Händen geputzt, läutern sie sich 
 
 Sie rieseln hin aufs Widderhaar, von frommen Männern ausgeschmückt, Mit beiden Armen schön geklärt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

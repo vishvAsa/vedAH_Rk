@@ -3,7 +3,6 @@ title = "009"
 devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हो꣡ता म꣡नुर्हितो  
-व꣡ह्निर् आसा꣡ विदु꣡ष्टरः  
-अ꣡ग्ने य꣡क्षि दिवो꣡ वि꣡शः
+तुवं᳓ हो᳓ता म᳓नुर्हितो  
+व᳓ह्निर् आसा᳓ विदु᳓ष्टरः  
+अ᳓ग्ने य᳓क्षि दिवो᳓ वि᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। विदुष्टरः- ज्ञानी। त्वम्। होता- देवानामाह्वाता। मनुः- अवबोधकः। मनु अवबोधने। हितः।  वह्निः- वोढा। आसा- ज्वालया। दिवो विशः- देवान्। यक्षि- यज॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **त्वं** **होता** होतृत्वेन **मनुर्हितः** मनुनाहितोऽसि । **आसा** आस्येनास्यभूतया ज्वालया **वह्निः** हविषां वोढा **विदुष्टरः** अतिशयेन विद्वान् । अतः कारणात् त्वं **दिवः** द्युलोकसंबन्धिनीः **विशः** दैवीः प्रजाः **यक्षि** यज ।
@@ -162,7 +165,7 @@ _________
 
 You are the Hotar established by Manu, the conveyor (of oblations)  with your mouth, the very wise one.  
 Agni, sacrifice to the clans of heaven.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
@@ -196,8 +199,6 @@ Des Himmels Stämme ehre du, den Manu sich zum Priester nahm, Darbringend, Agni,
 Уводящий (жертву) ртом, знающий более других.  
 О Агни, почти племена неба!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

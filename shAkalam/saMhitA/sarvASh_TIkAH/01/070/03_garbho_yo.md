@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग꣡र्भो यो꣡ अपां꣡ ग꣡र्भो व꣡नानां  
-ग꣡र्भश् च स्थातां꣡ ग꣡र्भश् चर꣡थाम्
+ग᳓र्भो यो᳓ अपां᳓ ग᳓र्भो व᳓नानां  
+ग᳓र्भश् च स्थातां᳓ ग᳓र्भश् चर᳓थाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -3,7 +3,6 @@ title = "010"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ चष्ट आसाम् पा꣡थो नदी꣡नां  
-व꣡रुण उग्रः꣡ सह꣡स्रचक्षाः
+आ᳓ चष्ट आसाम् पा᳓थो नदी᳓नां  
+व᳓रुण उग्रः᳓ सह᳓स्रचक्षाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -122,6 +120,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्रः- वीरः। सहस्रचक्षाः- अनन्तदर्शनः। वरुणः- ऋतदेवः। आसाम्। नदीनां पाथः- उदकानि  मूलशक्तिधाराः। आ चष्टे- पश्यति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहस्रचक्षाः** बहुचक्षुः **वरुणः** **आसां** **नदीनां** **पाथः** जलम् **आ** चष्टे अभिपश्यति । कीदृशो वरुणः । **उग्रः** उद्गूर्ण ओजस्वी वा ॥ ॥ २५ ॥
@@ -139,7 +142,7 @@ _________
 
 He inspects the haven of these (waters), of the rivers—  
 powerful Varuṇa of a thousand eyes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">
@@ -176,8 +179,6 @@ Es schaute dieser – Gewässer Pfade mit tausend Augen – Varuna mächtig,
 Надзирает за местом этих рек  
 Варуна, грозный, тысячеокий.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+035"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The final verse (5) is syntactically very difficult and has given rise to a vari
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra This hymn is tr. by Schmidt in Bṛhaspati und Indra 152-53.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३५  नरो भरद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

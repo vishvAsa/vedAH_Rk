@@ -1,6 +1,5 @@
 +++
 title = "+050"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+050"
 <details><summary>Jamison Brereton</summary>
 
 50  
-Sūrya (1-9), and a Spell against Disease (10–13)  
+Sūrya (1-9), and a Spell against Disease (10–13)  
 Praskaṇva Kāṇva  
 13 verses: gāyatrī 1–9, anuṣṭubh 10–13  
 This final hymn of the Praskaṇva sequence falls into two parts. The last three  verses (11–13) have a clear Atharvan cast, as a spell against disease, specifically  jaundice. By sympathetic magic, the golden sun removes the jaundice from the  afflicted man and displaces it onto other, presumably yellowish creatures—parrots  and other birds.  
@@ -21,4 +20,10 @@ The first nine verses, in a different meter, are a charmingly simple descrip tio
 <details><summary>Jamison Brereton Notes</summary>
 
 Sūrya Although this is the last hymn in the Praskaṇva group (I.44-50), it does not belong directly with the preceding hymns, which are clearly grouped in pairs and belong to the Prātaranuvāka litany.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५०   प्रस्कण्वः काण्वः। सूर्यः(११-१३ रोगघ्न्य उपनिषदः, १३ अन्त्योऽर्धर्चः द्विषद्घ्नश्च)। गायत्री, १० - १३  अनुष्टुप्
 </details>

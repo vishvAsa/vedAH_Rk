@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+015"
 <details><summary>Jamison Brereton</summary>
 
 15  
-R̥tudevatāḥ (Sequential Deities)  
+R̥tudevatāḥ (Sequential Deities)  
 Medhātithi Kāṇva  
 12 verses: gāyatrī  
 This hymn has a precise ritual application: it accompanies a series of ritual offer ings (R̥tugrahas “sequential cups”) made in a fixed order to a fixed sequence of  gods by a similarly fixed sequence of priests, roughly matched in function to  the gods they serve. (See, e.g., Eggeling Śatapatha Brāhmaṇa 2: 319 n. 1.) The same sequence is found in the two hymns II.36–37, which together are entirely  parallel to this hymn. (See further remarks in the introductions to those hymns.)  The divine order and the priestly counterparts are the following. (The priests  are not all mentioned by title in this hymn, but those not bracketed are found in  II.36–37.)
@@ -24,4 +23,10 @@ Sequential deities (for the ṛtugrahas) Although this hymn is in some ways a ro
 The Wealth-giver is the subject of the next three verses (8-10) as well, but it is only in vs. 9 that any drinking goes on. Here the imperative “drink!” is replaced by the desiderative “desires to drink” (pipīṣati), and though there is an ablative of a priestly cup, it is one belonging to a different priest and the verb used with it is not ‘drink’.
 
 Although this is not high art, it does show that even the most cut-and-dried litany affords some room to tinker with the verbal form.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५   मेधातिथिः काण्वः। (प्रतिदैवतं ऋतुसहितं) १ इन्द्रः, २ मरुतः, ३ त्वष्ट्रा, ४ अग्निः, ५ इन्द्रः, ६ मित्रावरुणौ,  ७-१० द्रविणोदा, ११ अश्विनौ, १२ अग्निः। गायत्री
 </details>

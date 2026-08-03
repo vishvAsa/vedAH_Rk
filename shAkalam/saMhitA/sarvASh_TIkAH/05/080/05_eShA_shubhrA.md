@@ -3,7 +3,6 @@ title = "005"
 devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ शुभ्रा꣡ न꣡ तनु꣡वो विदाना꣡  
-ऊर्ध्वे꣡व स्नाती꣡ दृश꣡ये नो अस्थात्  
-अ꣡प द्वे꣡षो बा꣡धमाना त꣡मांसि  
-उषा꣡ दिवो꣡ दुहिता꣡ ज्यो꣡तिषा꣡गात्
+एषा᳓ शुभ्रा᳓ न᳓ तनु᳓वो विदाना᳓  
+ऊर्ध्वे᳓व स्नाती᳓ दृश᳓ये नो अस्थात्  
+अ᳓प द्वे᳓षो बा᳓धमाना त᳓मांसि  
+उषा᳓ दिवो᳓ दुहिता᳓ ज्यो᳓तिषा᳓गात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -238,6 +236,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषा- इयम्। शुभ्रा- शुक्ला नारी। न- इव। तन्वः- अङ्गानि। विदाना- प्रकटयन्ती। ऊर्ध्वेव स्नाती-  स्नात्वेव समुद्रादूर्ध्वं गच्छति। आध्यात्मिके हृदयसमुद्रादुद्भूता। नः- अस्माकम्। दृशये- दर्शनाय।  अस्थात्। द्वेषः तमांसि- द्वेषभावनामयानन्धकारान्। अप बाधमाना- नाशयन्ती। दिवो दुहिता-  दिव्या। ज्योतिषा। अगात्- आगच्छति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषा** उषाः **शुभ्रा** **न** शुभ्रवर्णा निर्मला स्वलंकृता योषिदिव **तन्वः** अङ्गानि **विदाना** प्रज्ञापयन्ती **स्नाती** स्नानं कुर्वाणा **ऊर्ध्वेव** उन्नतेव स्नानादुत्तिष्ठन्तीव **नः** अस्मदर्थम् अस्माकं पुरतो वा **दृशये** सर्वेषां दर्शनाय उत् **अस्थात्** पूर्वस्यां दिशि उत्तिष्ठति। किं कुर्वती । **द्वेषः** द्वेष्याणि **तमांसि** **अप** **बाधमाना** **दिवो** **दुहिता** **उषाः** **ज्योतिषा** तेजसा सह 'आगात् आगच्छति ॥
@@ -255,7 +258,7 @@ _________
 
 She, like a beauty who knows her own body, has stood up erect like a  bather for us to see.  
 Thrusting away hatred and the shades of darkness, Dawn, the Daughter  of Heaven, has come here with her light.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">
@@ -288,8 +291,6 @@ Wie reingewaschen ihre Glieder zeigend, stand wie gebadet aufrecht uns zu schaue
 Прогоняя прочь враждебность (и) мрак,  
 Ушас, дочь неба, явилась со светом.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The hymn begins with a verse to Agni and ends with a verse and a half to him,  t
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५४  प्रजापतिर्वैश्वामित्रः, प्रजापतिर्वाच्यो वा।विश्वे देवाः । त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा सुता꣡स इ꣡न्दवो  
-म꣡दा य꣡ इन्द्र गिर्वणः  
-आ꣡पो न꣡ वज्रिन्न् अ꣡नु ओकि꣡यं स꣡रः  
-पृण꣡न्ति शूर रा꣡धसे
+आ᳓ त्वा सुता᳓स इ᳓न्दवो  
+म᳓दा य᳓ इन्द्र गिर्वणः  
+आ᳓पो न᳓ वज्रिन्न् अ᳓नु ओकि᳓यं स᳓रः  
+पृण᳓न्ति शूर रा᳓धसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -203,6 +201,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शूर- समर्थ। इन्द्र- परमेश्वर। गिर्वणः- गीर्भिर्वननीय। वज्रिन्- वज्रपाणे। आपः। सरः-  सरोवरम्। न- इव। ओक्यम्- शरण्यम्। त्वा- त्वाम्। इन्दवः- हृदयस्पर्शिनः। सुतासः- निष्पन्ना  रसाः। मदाः- हर्षाः। राधसे- संसिद्ध्यै। आ पृणन्ति- आपूरयन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -244,8 +247,6 @@ Dich, Indra, füllen Tränke an wie Wasserflut den Heimat-See, Gepresst berausch
 По приятной привычке, словно воды - озеро,  
 О герой, - для щедрого дарения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

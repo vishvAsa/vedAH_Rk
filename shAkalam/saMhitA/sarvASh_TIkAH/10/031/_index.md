@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ cer must exert his own inherent powers in order to perform a proper sacrifice an
 Verses 5–6 are roughly the center of the hymn (especially since vs. 11 is a  pseudo-dānastuti); they are verbally responsive (note the asyá beginning 5c, 6a, and  6c, for example), and they introduce a larger cosmic dimension to the depiction of  the sacrifice. They thus qualify as an omphalos. Most important in these two verses  are the three words for “earth” that knit them together: kṣā́ḥ in 5a, bhū́man in 6b,  and, by implication, pr̥thvī́, disguised in the feminine participle paprathānā́ in 6a,  derived from the same root (prath) as pr̥thvī́ in 9a. (The three words—kṣā́ḥ, bhū́man,  and pr̥thvī́—are reunited again in vs. 9, a good indication that the conjunction in  vss. 5–6 was deliberate.) This emphasis on the earth in a ritual context seems to  make an implicit claim that the sacrificial ground is the earth. In verse 5 the sacrifi cial context is more overt: this seems to concern the distribution of the dakṣiṇās or priestly gifts at dawn. Verse 6 is more opaque, but in our view refers to the benevo lence of a well-pleased Agni radiating outward. The second half of verse 6 provides  a transition to the cosmic speculations that follow: the “lord” of 6a seems still to  be Agni, with his womb containing, on the one hand, his flames, and, on the other  hand perhaps, the gods.  
 The speculations of verses 7–10 begin, as often, with an unanswerable question  about the origins of the cosmos. Verse 7 also contrasts the stable and unchanging  quality of heaven and earth (space) with the ever-changing and aging aspect of  time. This opposition in a way provides the framework for the next few verses,  although the direct connection between 7 and what follows is superficially dim.  However, if, as we believe, the next three verses (8–10) concern Agni, he partakes  of both space and time, and provides the foundation for both. He supports heaven  and earth (8b)—there is no reason to look elsewhere (8a)—but he is also in con stant motion (8cd, 9ab) and appears in many guises (9cd). He thus grounds the  stability of the spatial cosmos while being in constant motion through it. In the  same way (vs. 10), temporal aging is represented by his regular rebirth, but because  of the paradox that he is born before his parents, temporal advance is negated.  The space/time conundrum is solved! The last clause of verse 10, “if they should  inquire” / “when they shall ask,” is in our view the formal closure to the cosmic  speculation opened by a question in verse 7 and not confined to the themes of  verse 10.  
 The final verse (11) has all the trappings of a dānastuti, appended to the  hymn, but it seems to refer to a very obscure saga also encountered in I.117.8, an  Aśvin hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३१  कवष ऐलूषः। विश्वे देवाः। त्रिष्टुप्
 </details>

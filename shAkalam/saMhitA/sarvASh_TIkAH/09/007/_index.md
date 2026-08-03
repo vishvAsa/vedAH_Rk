@@ -1,6 +1,5 @@
 +++
 title = "+007"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+007"
 <details><summary>Jamison Brereton</summary>
 
 7 (719)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 9 verses: gāyatrī  
 The word “soma” does not appear at all in this hymn, and the epithet “self-purify ing” (pávamāna) only once, in verse 5 (a finite verb form from the same root is found  in vs. 8). Verses 1 and 8 have a similar structure, especially in their final pādas, and  
@@ -22,4 +21,10 @@ form a ring, with the last verse (9) addressed not to soma but to the world-halv
 <details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the word sóma- does not appear in this hymn. The word is also absent from IX.3, though there the omnipresence of pávamāna- and other forms of √pū takes up the slack. In this hymn pávamāna- is found only once, in vs. 5.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

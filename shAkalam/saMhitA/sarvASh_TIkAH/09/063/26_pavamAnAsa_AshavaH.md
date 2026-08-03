@@ -3,7 +3,6 @@ title = "026"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानास आश꣡वः  
-शुभ्रा꣡ असृग्रम् इ꣡न्दवः  
-घ्न꣡न्तो वि꣡श्वा अ꣡प द्वि꣡षः
+प᳓वमानास आश᳓वः  
+शुभ्रा᳓ असृग्रम् इ᳓न्दवः  
+घ्न᳓न्तो वि᳓श्वा अ᳓प द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    आशवः- वेगवन्तः। शुभ्राः- शुद्धाः। इन्दवः- क्लेदकाः। विश्वा द्विषः- सर्वा द्वेषभावनाः। अप  घ्नन्तः- मारयन्तः। पवमानासः- पुनानाः। असृग्रम्- सृज्यन्ते॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आशवः** शीघ्राः **शुभ्राः** शोभमानाः **पवमानासः** क्षरन्तः **इन्दवः** दीप्ताः सोमाः **विश्वाः** सर्वान् **द्विषः** द्वेष्टॄन् शत्रून् **अप** **घ्नन्तः** मारयन्तः **असृग्रं** सृज्यन्ते ॥
@@ -148,7 +151,7 @@ _________
 
 The swift, resplendent, self-purifying drops have surged,  
 smashing away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
@@ -174,10 +177,6 @@ Die sauberen Renner, die sich läuternden Säfte haben sich ergossen, alle Feind
 
 Ergossen sind die flammenden, die schnellen Tropfen, licht und schön, Verjagend aller Feinde Schar.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

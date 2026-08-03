@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सुअस्ति꣡ मित्रावरुणा  
-सुअस्ति꣡ पथ्ये रेवति  
-स्वस्ति꣡ न इ꣡न्द्रश् चाग्नि꣡श् च  
-स्वस्ति꣡ नो अदिते कृधि
+सुअस्ति᳓ मित्रावरुणा  
+सुअस्ति᳓ पथ्ये रेवति  
+स्वस्ति᳓ न इ᳓न्द्रश् चाग्नि᳓श् च  
+स्वस्ति᳓ नो अदिते कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)
 _________
 **Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
@@ -196,6 +194,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्रावरुणा- हे मित्रावरुणौ। रेवति- सम्पद्वन्। पथ्ये- सन्मार्गे। इन्द्रश्चाग्निश्च- हे इन्द्राग्नी।  अदिते- अखण्डप्रकृते। नः- अस्मभ्यम्। स्वस्ति। कृधि- कुरु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मित्रावरुणा** अहोरात्राभिमानिदेवौ **स्वस्ति** कुरुतम् । हे **पथ्ये**। पन्थाः अन्तरिक्षमार्गः । तत्र हिता मार्गाभिमानिनी देवी । हे तादृशि **रेवति** धनवति देवि **स्वस्ति** कृधि । **इन्द्रश्चाग्निश्च** प्रत्येकं **नः** अस्मभ्यं **स्वस्ति** कृधि । हे **अदिते** देवि **नः** **स्वस्ति** **कृधि** कुरु ॥
@@ -223,7 +226,7 @@ Revati = goddess presiding over riches
 Well-being, o Mitra and Varuṇa, well-being, o rich Path.  
 Well-being for us (let) Indra and Agni—well-being, o Aditi, make  
 for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
@@ -260,8 +263,6 @@ Schafft Heil uns, Mitra, Varuna und Heil, o reicher Himmelsraum, Und Indra uns u
 Благо (пусть принесут нам) Индра и Агни!  
 Благо, Адити, нам создай!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

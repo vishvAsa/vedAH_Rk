@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ the poet worries about the best means of ritual service and in verse 4 reminds I
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra 33
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२९  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप्।
 </details>

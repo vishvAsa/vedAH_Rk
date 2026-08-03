@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने तुवं꣡ नो अ꣡न्तम  
-उत꣡ त्राता꣡ शिवो꣡ भवा वरूथ्यः᳡
+अ᳓ग्ने तुवं᳓ नो अ᳓न्तम  
+उत᳓ त्राता᳓ शिवो᳓ भवा वरूथ्यः᳡
 </details>
 
 <details><summary>Vedaweb annotation</summary>

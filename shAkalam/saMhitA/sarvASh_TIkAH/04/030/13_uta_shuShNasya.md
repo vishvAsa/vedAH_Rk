@@ -3,7 +3,6 @@ title = "013"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ शु꣡ष्णस्य धृष्णुया꣡  
-प्र꣡ मृक्षो अभि꣡ वे꣡दनम्  
-पु꣡रो य꣡द् अस्य सम्पिण꣡क्
+उत᳓ शु᳓ष्णस्य धृष्णुया᳓  
+प्र᳓ मृक्षो अभि᳓ वे᳓दनम्  
+पु᳓रो य᳓द् अस्य सम्पिण᳓क्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शुष्णस्य- शोषकस्य। वेदनम्- लाभम्। अभि- अभितः। प्र- प्रकर्षेण। मृक्षः- अबाधथाः। अस्य  पुरः- शुष्णकृतबन्धनानि। संपिणक्- संपिष्टवानसि॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च हे इन्द्र **धृष्णुया** धृष्णुः धर्षकस्त्वं **शुष्णस्य** शुष्णनाम्नोऽसुरस्य संबन्धि **वेदनं** वित्तम् **अभि** अभितः सर्वतः **प्र** **मृक्षः** प्रकर्षेणाबाधथाः। **यत्** यदा **अस्य** शुष्णस्य **पुरः** पुराणि नगराणि **संपिणक्** संपिष्टवानसि । तदा प्र मृक्षः इति संबन्धः ॥
@@ -161,7 +164,7 @@ _________
 
 And you boldly seized the possessions of Śuṣṇa,  
 when you completely crushed his fortresses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
@@ -196,8 +199,6 @@ Und auch des Çuschna Eigenthum ergriffest du mit kühnem Muth, Als seine Burgen
 Когда разбил его крепости.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -218,7 +219,7 @@ Und auch des Çuschna Eigenthum ergriffest du mit kühnem Muth, Als seine Burgen
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  वही राजा सम्मत होवे कि जो सेना को बढ़ाय और अन्याय के आचरणों को दूर करके बिन कहे को अच्छा जाननेवाला होवे ॥१३॥
+भावार्थभाषाः -  वही राजा सम्मत होवे कि जो सेना को बढ़ाय और अन्याय के आचरणों को दूर करके बिन कहे को अच्छा जाननेवाला होवे ॥१३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

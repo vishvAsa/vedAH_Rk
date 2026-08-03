@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ वि꣡श्वा दाशु꣡षे व꣡सु  
-सो꣡मा दिव्या꣡नि पा꣡र्थिवा  
-प꣡वन्ताम् आ꣡न्त꣡रिक्षिया
+ते᳓ वि᳓श्वा दाशु᳓षे व᳓सु  
+सो᳓मा दिव्या᳓नि पा᳓र्थिवा  
+प᳓वन्ताम् आ᳓न्त᳓रिक्षिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ते- अमी। सोमाः- रसाः। यूयम्। दाशुषे- दात्रे। दिव्यानि। पार्थिवानि- भौमानि। अन्तरिक्ष्या-  अन्तरिक्षजानि। विश्वा- सर्वाणि। वसु- धनानि। पवन्ताम्- क्षरन्तु॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ते** **सोमाः** **दिव्यानि** दिवि भवानि **पार्थिवा** पार्थिवानि पृथिव्यां संभूतानि च **अन्तरिक्ष्या** अन्तरिक्ष्याणि अन्तरिक्षे जातानि च **विश्वा** विश्वानि **वसु** वसूनि धनानि **दाशुषे** हविषां प्रदात्रे यजमानाय **आ** **पवन्तां** क्षरन्तु ॥
@@ -154,7 +157,6 @@ All goods for the pious—heavenly, earthly, and those of the midspace— let th
 <details><summary>Jamison Brereton Notes</summary>
 
 The preverb ā́that turns páva- into a quasi-transitive “bring by purifying oneself” immediately follows the verb, allowing pávantām to take a position matching. that of pávante in 5c and pávamānasya in 7a.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -180,10 +182,6 @@ Diese Soma´s sollen dem Opferspender alle Schätze, die himmlischen, irdischen 
 
 Die Soma's mögen alles Gut der Erd', des Himmels und der Luft Zurieseln dem Verehrenden.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

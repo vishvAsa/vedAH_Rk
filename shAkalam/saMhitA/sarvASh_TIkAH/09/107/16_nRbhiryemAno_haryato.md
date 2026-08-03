@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नृ꣡भिर् येमानो꣡ हर्यतो꣡ विचक्षणो꣡  
-रा꣡जा देवः꣡ समुद्रि꣡यः
+नृ᳓भिर् येमानो᳓ हर्यतो᳓ विचक्षणो᳓  
+रा᳓जा देवः᳓ समुद्रि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -106,6 +104,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    नृभिः- उपासकैः। येमानः- नियम्यमानः। हर्यतः- स्पृहणीयः। विचक्षणः- विशेषद्रष्टा। राजा-  रञ्जकः। देवः- द्योतनशीलः। समुद्रियः- हृदयसमुद्रगतः। श्रुतौ समुद्रो हृदयं अन्तःसमुद्रे  हृद्यन्तरायुषीत्यादिषु यथा॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नृभिः** कर्मनेतृभिः **येमानः** नियम्यमानः **हर्यतः** स्पृहणीयः **विचक्षणः** विद्रष्टा **देवः** दीप्यमानः **समुद्रियः** अन्तरिक्षे भवः **राजा** सोम इन्द्रार्थं पवत इत्युत्तरेण संबन्धः॥ ‘समुद्राभ्राद्धः इति भवार्थे घप्रत्ययः । ।
@@ -123,7 +126,7 @@ _________
 
 Being guided by men, the delightful, wide-gazing king and god  
 belonging to the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
@@ -155,8 +158,6 @@ Von den Männern gelenkt der liebliche, weitschauende, der König, des Meeres Go
 Направленный мужами, желанный, смотрящий далеко,  
 Царь, бог морской:
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किष् ट एता꣡ व्रता꣡ मिनन्ति  
-नृ꣡भ्यो य꣡द् एभ्यः꣡ श्रुष्टिं꣡ चक꣡र्थ
+न᳓किष् ट एता᳓ व्रता᳓ मिनन्ति  
+नृ᳓भ्यो य᳓द् एभ्यः᳓ श्रुष्टिं᳓ चक᳓र्थ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

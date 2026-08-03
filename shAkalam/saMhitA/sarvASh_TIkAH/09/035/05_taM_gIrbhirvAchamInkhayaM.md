@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ गीर्भि꣡र् वाचमीङ्खय꣡म्  
-पुनानं꣡ वासयामसि  
-सो꣡मं ज꣡नस्य गो꣡पतिम्
+तं᳓ गीर्भि᳓र् वाचमीङ्खय᳓म्  
+पुनानं᳓ वासयामसि  
+सो᳓मं ज᳓नस्य गो᳓पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    वाचमीङ्खयम्- मन्त्रप्रेरकम्। पुनानम्- पवमानम्। जनस्य गोपतिम्- जनानां ज्ञानपालकम्।  सोमम्- रसम्। तम्। गीर्भिः- मन्त्रैः। वासयामसि- आच्छादयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **तं** सोमं **गीर्भिः** स्तुतिवाग्भिः स्तौमीति शेषः । किंच **वाचमीङ्खयं** वाचः प्रेरयितारं **पुनानं** पूयमानं तं **सोमं** **वासयामसि** वासयामः श्रयणद्रव्यैः । कीदृशं सोमम् । **जनस्य** **गोपतिं** गवां पालकम् । यद्वा । एकमेव वाक्यम् । उक्तविशेषणविशिष्टं सोमं स्तुतिभिर्वासयाम इति । माधवस्तु वाचमिति पृथक्पदं तिङन्तं कृत्वा वाक्यद्वयं चकार ॥
@@ -164,10 +167,6 @@ Ihn, der die Rede hin und her bewegt, decken wir mit Lobesworten zu, während er
 
 Mit Liedern schmücken wir ihn aus, der Sang erregt, den Flammenden, den Soma, ihn des Volkes Herrn.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "021"
 devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अ꣡त्ति उपजि꣡ह्विका  
-य꣡द् वम्रो꣡ अतिस꣡र्पति  
-स꣡र्वं त꣡द् अस्तु ते घृत꣡म्
+य᳓द् अ᳓त्ति उपजि᳓ह्विका  
+य᳓द् वम्रो᳓ अतिस᳓र्पति  
+स᳓र्वं त᳓द् अस्तु ते घृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,6 +146,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत् काष्ठम्। उपजिह्विका- कीटविशेषः। अत्ति- भक्षयति। वम्रः। अतिसर्पति- अतिगच्छति।  सर्वम्। तत्। ते- तुभ्यम्। घृतमिव। अस्तु- भवतु॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **यत्** काष्ठादिकम् **उपजिह्विका** । उपजिघ्रतीत्युपजिह्विका’ । **अत्ति** भक्षयति । यत् च काष्ठादिकं **वम्रः** । वमत्युदकमिति वम्रः । उपजिह्विकावम्रशब्दौ यद्यपि पर्यायौ तथापि पृथगुपादानात् वम्रशब्दस्तद्विशेषे पर्यवस्यति । सोऽपि **अतिसर्पति** अतिगच्छति । **तत्** सर्वं **ते** तव **घृतं** घृतसदृशम् **अस्तु** । यथा घृतं तव प्रियकरं भवति तथा प्रियकरं भवत्वित्यर्थः ॥
@@ -165,7 +168,7 @@ _________
 
 What the little termite eats, what the ant creeps over,  
 let all that be ghee for you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
@@ -197,8 +200,6 @@ Was die weibliche Ameise verzehrt, über was die männliche kriecht, das alles s
 По чему ползает муравей,  
 Все это пусть будет тебе жиром!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

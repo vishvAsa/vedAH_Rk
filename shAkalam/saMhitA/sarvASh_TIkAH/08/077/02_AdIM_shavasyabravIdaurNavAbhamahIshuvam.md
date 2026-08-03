@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईं शवसि꣡ अब्रवीद्  
-और्णवाभ꣡म् अहीशु꣡वम्  
-ते꣡ पुत्र सन्तु निष्टु꣡रः
+आ᳓द् ईं शवसि᳓ अब्रवीद्  
+और्णवाभ᳓म् अहीशु᳓वम्  
+ते᳓ पुत्र सन्तु निष्टु᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,9 +133,21 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आदीम्- अनन्तरम्। शवसी- बलवती माता। और्णवाभम्- ऊर्णनाभिवद्ग्राहकम् ।  ऊर्णुरिवास्यास्तीति ऊर्णवः। अहीशुवम्- सर्पबाणवन्तम्। इशुः अस्य अस्तीति इशुवः।  अब्रवीत्- अवदत्। पुत्र- हे तनय। ते- अमी राक्षसाः। निष्टुरः- निस्तारणीयाः। सन्तु-  भवन्तु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रेण पृष्टा **शवसी** माता अनन्तरमेव एनमिन्द्रम् **अब्रवीत्** । किमिति उच्यते । **और्णवाभमहीशुवम्** एतन्नामानावसुरौ तिष्ठतः । तावुक्तावन्ये च तादृशा हे **पुत्र** तव **निष्टुरः** निस्तारणीयाः **सन्तु** इति ॥
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Then shavasI said to him  
+they are aurNavAbha and ahIshuva;  
+O son, they must be the ones you must fell.
 </details>
 
 <details><summary>Wilson</summary>
@@ -188,8 +198,6 @@ Da nannte ihm die kräftige die Spinnenbrut Ahiçuva: »Die mögest fällen du, 
 Аурнавабху, Ахишуву.  
 О сын, они должны быть сокрушителями.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

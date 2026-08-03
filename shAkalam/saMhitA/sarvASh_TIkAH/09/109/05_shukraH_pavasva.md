@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शुक्रः꣡ पवस्व देवे꣡भ्यः सोम  
-दिवे꣡ पृथिव्यइ꣡ शं꣡ च प्रजा꣡यै
+शुक्रः᳓ पवस्व देवे᳓भ्यः सोम  
+दिवे᳓ पृथिव्यइ᳓ शं᳓ च प्रजा᳓यै
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,6 +123,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शुक्रः- शुद्धः सन्। देवेभ्यः- देवताभ्यः। पवस्व- क्षर। सोम- रस। दिवे- नभसे। पृथिव्यै- भूम्यै।  प्रजायै च- जनाय च। शम्- मङ्गळम्। पवस्व॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **शुक्रः** दीप्तस्त्वं देवेभ्यः देवार्थं पवस्व क्षर । किंच **दिवे** **पृथिव्यै** च द्यावापृथिवीभ्यां च ततः **प्रजायै** प्रजाभ्यश्च **शं** सुखं **च** कुरु ॥
@@ -141,7 +144,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Gleaming, purify yourself for the gods, o Soma, for heaven, for earth,  and as weal for offspring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
@@ -173,8 +176,6 @@ Du lichter, riesle – den Göttern, Soma! – der Erd', dem Himmel, – den Wes
 Светлый, очищайся для богов, о сома,  
 для неба, земли и счастья для потомства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

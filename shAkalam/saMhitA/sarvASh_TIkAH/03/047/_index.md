@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This ritually focused hymn is appropriate to the Midday Pressing, where Indra  d
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४७  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

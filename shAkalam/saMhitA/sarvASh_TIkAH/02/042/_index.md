@@ -1,6 +1,5 @@
 +++
 title = "+042"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The last two brief hymns in Maṇḍala II have a popular character and call on 
 <details><summary>Jamison Brereton Notes</summary>
 
 Omen-bird
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४२  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।शकुन्तः (कपिञ्जलरूपीन्द्रः)। त्रिष्टुप्
 </details>

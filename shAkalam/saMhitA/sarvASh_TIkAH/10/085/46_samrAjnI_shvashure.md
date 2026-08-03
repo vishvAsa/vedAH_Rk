@@ -3,7 +3,6 @@ title = "046"
 devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सम्रा꣡ज्ञी श्व꣡शुरे भव  
-सम्रा꣡ज्ञी श्वश्रुवा꣡म् भव  
-न꣡नान्दरि सम्रा꣡ज्ञी भव  
-सम्रा꣡ज्ञी अ꣡धि देवृ꣡षु
+सम्रा᳓ज्ञी श्व᳓शुरे भव  
+सम्रा᳓ज्ञी श्वश्रुवा᳓म् भव  
+न᳓नान्दरि सम्रा᳓ज्ञी भव  
+सम्रा᳓ज्ञी अ᳓धि देवृ᳓षु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 bhava ← √bhū- (root)  
@@ -158,6 +156,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्वशुरे सम्राज्ञी- भर्तृजनकस्वामिनी। भव। श्वश्र्वाम्- भर्तृजननीस्वामिनी। भव। ननान्दरि सम्राज्ञी  ़ भर्तृसोदरीस्वामिनी भव। देवृषु अधि सम्राज्ञी- भ़र्तृसोदरस्वामिनी भव॥४६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे वधु श्वशुरादिषु त्वं **सम्राज्ञी** **भव**। **देवृषु** । देवरेष्वित्यर्थः ॥
@@ -200,8 +203,6 @@ Sei Oberherrin über den Schwäher, Oberherrin über die Schwieger, Oberherrin �
 Над золовкой повелительницей будь,  
 Повелительницей над деверями!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

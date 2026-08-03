@@ -3,7 +3,6 @@ title = "012"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-हतं꣡ च श꣡त्रून् य꣡ततं च मित्रि꣡णः  
-प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-ऊ꣡र्जं नो धत्तम् अश्विना
+हतं᳓ च श᳓त्रून् य᳓ततं च मित्रि᳓णः  
+प्रजां᳓ च धत्तं᳓ द्र᳓विणं च धत्तम्  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+ऊ᳓र्जं नो धत्तम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,6 +232,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शत्रून्- रिपून्। हतम्- नाशयतम्। मित्रिणः- सुहृदः। यततम्- गच्छतम्॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां **शत्रून्** **च** **हतम्** । उतापि च **यततं** **मित्रिणः** मैत्रीयुक्तान् **च** गच्छतम् । सिद्धमन्यत् ॥ ॥ १५ ॥
@@ -251,7 +254,7 @@ _________
 
 Smite rivals and arrange allies in their place. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
@@ -286,8 +289,6 @@ Erschlagt die Feinde, einigt die Verbündeten, und schenket Kinder, schenket rei
 Единодушные с Ушас и Сурьей,  
 Наделите нас питательной силой, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

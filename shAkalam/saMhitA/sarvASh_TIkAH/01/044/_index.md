@@ -1,6 +1,5 @@
 +++
 title = "+044"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ Agni
 For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
   </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४४   प्रस्कण्वः काण्वः। अग्निः, १-२ अग्निः, अश्विनौ, उषाश्च । प्रगाथः - विषमा बृहत्यः, समाः सतोबृहत्यः
 </details>

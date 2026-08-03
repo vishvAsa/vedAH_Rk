@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The final verse is a dānastuti, praising and detailing the gift made by Abhyāv
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २७  बार्हस्पत्यो भरद्वाजः।इन्द्रः, ८ अभ्यावर्ती चायमानः (दानं)। त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रिष्कृतास इ꣡न्दवो  
-यो꣡षेव पि꣡त्रियावती  
-वायुं꣡ सो꣡मा असृक्षत
+प᳓रिष्कृतास इ᳓न्दवो  
+यो᳓षेव पि᳓त्रियावती  
+वायुं᳓ सो᳓मा असृक्षत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पित्र्यावती- जनकमण्डिता। योषेव- पुत्रीव। इन्दवः- क्लेदनकरा रसाः। परिष्कृतासः- मण्डिताः।  सोमाः- रसाः। वायुम्- प्राणम्। असृक्षत- ससृजुः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्दवः** यागेषु क्लिद्यमानाः **सोमाः** **परिष्कृतासः** परिष्कृता अलंकृताः सन्तः **पित्र्यावती** पितृमती **योषेव** अलंकृता कन्यका यथा वरं प्रति गच्छति तद्वत् **वायुं** प्रति **असृक्षत** गच्छन्ति ॥
@@ -158,10 +161,6 @@ Geschmückt wie ein junges Weib, das ihr väterliches Erbteil hat, wurden die So
 
 Die Indutränke sind geschmückt wie eine Maid im Vatersitz, Zu Vaju sind sie hingeströmt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

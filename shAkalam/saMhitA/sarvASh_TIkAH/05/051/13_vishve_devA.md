@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती त्रिष्टुब्वा"
 - छन्दः - जगती त्रिष्टुब्वा
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे देवा꣡ नो अद्या꣡ सुअस्त꣡ये  
-वैश्वानरो꣡ व꣡सुर् अग्निः꣡ सुअस्त꣡ये  
-देवा꣡ अवन्तु ऋभ꣡वः सुअस्त꣡ये  
-सुअस्ति꣡ नो रुदरः꣡+ पातु अं꣡हसः
+वि᳓श्वे देवा᳓ नो अद्या᳓ सुअस्त᳓ये  
+वैश्वानरो᳓ व᳓सुर् अग्निः᳓ सुअस्त᳓ये  
+देवा᳓ अवन्तु ऋभ᳓वः सुअस्त᳓ये  
+सुअस्ति᳓ नो रुदरः᳓+ पातु अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। स्वस्तये। अद्य- इदानीम्। विश्वे देवाः- सर्वे देवाः। वैश्वानरः- सर्वभूतहितः।  वसुः- शरण्यः। अग्निः। स्वस्तये। ऋभवः- सूर्यरश्मिभूताः। देवाः। स्वस्तये। अवन्तु- रक्षन्तु।  नः- अस्माकम्। स्वस्ति। रुद्रः- वेगाधिदेवता। अंहसः- अघात्। पातु- रक्षतु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वे** सर्वेऽपि **देवाः** **नः** अस्मान् **अद्य** अस्मिन् यागदिने **स्वस्तये** क्षेमाय अवन्तु । **वैश्वानरः** । विश्व एनं नरा नयन्तीति वैश्वानरः । **वसुः** सर्वस्य वासयिता **अग्निः** देवः ।  ‘ अयमेवाग्निर्वैश्वानर इति शाकपूणिः ' (निरु. ७, २३ ) इति यास्कः । सोऽपि **स्वस्तये** अवतु । **देवाः** **ऋभवः** अपि **स्वस्तये** **अवन्तु** । **रुद्रः** दुःखात् द्रावयिता देवोऽपि **अंहसः** पापात् **स्वस्ति** **पातु** **नः** अस्मान् ॥
@@ -235,7 +238,7 @@ _________
 
 Let all the gods be there for us today, for well-being; let Vaiśvānara,  Vasu, Agni (be there) for well-being.  
 Let the gods, the R̥bhus give aid for (our) well-being. With well-being  let Rudra protect us from constraint.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
@@ -272,8 +275,6 @@ Die Götter alle seien heute uns zum Heil, der Menschenhort, der gute Agni uns z
 Боги пусть помогут, Рибху – на благо!  
 На благо пусть хранит нас Рудра от узости!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

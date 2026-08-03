@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "चक्षुर्मानवः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ धन्वा सोम जा꣡गृविर्  
-इ꣡न्द्रायेन्दो प꣡रि स्रव  
-द्युम꣡न्तं शु꣡ष्मम् आ꣡ भरा सुवर्वि꣡दम्
+प्र᳓ धन्वा सोम जा᳓गृविर्  
+इ᳓न्द्रायेन्दो प᳓रि स्रव  
+द्युम᳓न्तं शु᳓ष्मम् आ᳓ भरा सुवर्वि᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,6 +171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। जागृविः- जागरणशीलः सन्। प्र- प्रकर्षेण। धन्व- क्षर। इन्द्राय- परमेश्वराय।  इन्दो- क्लेदनशील रस। परि स्रव। द्युमन्तम्- दीप्तम्। शुष्मम्- बलम्। स्वर्विदम्- ज्योतिर्विदम्।  आ भर- आहर॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **जागृविः** जागरणशीलस्त्वं **प्र** **धन्व** प्रक्षर । हे **इन्दो** सोम **इन्द्राय** **परि** **स्रव** परितः पात्रेषु क्षर । किंच **द्युमन्तं** दीप्तियुक्तं **स्वर्विदं** सर्वस्य लम्भकं **शुष्मं** शत्रूणां शोषकं बलम् **आ** **भर** आहर ॥
@@ -189,7 +192,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Run forth as the wakeful one, o Soma; flow around for Indra, o drop. Bring here brilliant tempestuous force that finds the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
@@ -222,8 +225,6 @@ O Soma laufe munter vor, zum Indra, Indu, ströme durch; Bring hohe Stärke uns 
 Для Индры, о капля, растекайся вокруг!  
 Принеси (нам твое) блистательное неистовство, находящее солнце!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡मानि ते शतक्रतो  
-वि꣡श्वाभिर् गीर्भि꣡र् ईमहे  
-इ꣡न्द्राभिमातिषा꣡हिये
+ना᳓मानि ते शतक्रतो  
+वि᳓श्वाभिर् गीर्भि᳓र् ईमहे  
+इ᳓न्द्राभिमातिषा᳓हिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -120,6 +118,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतो- प्रभूतप्रज्ञ। ते- तव। नामानि। अभिमातिषाह्ये- अभिमानाभिभवाय। इन्द्र- परमेश्वर।  विश्वाभिः- सर्वाभिः। गीर्भिः- वाग्भिः। ईमहे- याचामहे॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **शतक्रतो** हे **इन्द्र** अभिमातिषाह्ये । मातिर्मानो गर्वः । अभितो मानो येषां तेऽभिमातयः शत्रवः । तेषां सहनमेव सह्यम् । तस्मिन् युद्धे अस्माकमुपस्थिते सति **ते** तव **नामानि** शक्रवज्रहस्तादीनि नामधेयानि यद्वा तदुपलक्षितानि बलानि **विश्वाभिर्गीभिः** सर्वाभिः स्तुतिलक्षणाभिर्वाग्भिः **ईमहे** वयं याचामहे ॥ ईमहे । ई कान्त्यादिषु । व्यत्ययेनात्मनेपदम् । अदादित्वाच्छपो लुक् । निघातः ॥
@@ -137,7 +140,7 @@ _________
 
 We implore your names with all our songs—  
 Indra of a hundred resolves—in vanquishing hostility.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">
@@ -171,8 +174,6 @@ Wir rufen deine Namen an durch jedes Lied, viel wirkender, Zur Feindbesiegung In
 Мы произносим с мольбою во всех песнях,  
 О Индра, чтобы одолеть преследователей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "020"
 devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शृण्व꣡न्तु नो वृ꣡षणः प꣡र्वतासो  
-ध्रुव꣡क्षेमास इ꣡ळया म꣡दन्तः  
-आदितियइ꣡र् नो अ꣡दितिः शृणोतु  
-य꣡छन्तु नो मरु꣡तः श꣡र्म भद्र꣡म्
+शृण्व᳓न्तु नो वृ᳓षणः प᳓र्वतासो  
+ध्रुव᳓क्षेमास इ᳓ळया म᳓दन्तः  
+आदितियइ᳓र् नो अ᳓दितिः शृणोतु  
+य᳓छन्तु नो मरु᳓तः श᳓र्म भद्र᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -199,6 +197,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषणः- वर्षकाः। पर्वतासः- गिरयः स्थैर्यप्रतीकाः। ध्रुवक्षेमासः- स्थिरक्षेमाः। इळया- मन्त्रेण।  मदन्तः- तुष्यन्तः। शृण्वन्तु। अदितिः- अखण्डप्रकृतिः। आदित्यैः- अखण्डप्रकृतिजैर्देवैः सह।  नः- अस्मान्। शृणोतु। मरुतः- प्राणविशेषाः। नः- अस्मभ्यम्। शर्म। भद्रम्। यच्छन्तु-  ददतु॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृषणः** अभिमतफलसेचका मरुतः **पर्वतासः** । पृणन्ति पूरयन्त्यर्थिनां कामानिति पर्वता ग्रावाभिमानिनो देवाः **ध्रुवक्षेमासः** निश्चलस्थानाः **इळया** हविर्लक्षणेनान्नेन **मदन्तः** माद्यन्तः सन्तः **नः** अस्मदीयां स्तुतिं **शृण्वन्तु** । किंच **आदित्यैः** अपत्यभूतैरादित्यैः उपेता **अदितिः** **नः** अस्मदीयां स्तुतिं **शृणोतु** । **मरुतः** च **नः** अस्मभ्यं **भद्रं** कल्याणकरं **शर्म** सुखं **यच्छन्तु** ददतु॥ आदित्यैः । अदितेरपत्यानीत्यर्थे ' दित्यदिति° ' इति ण्यः । प्रत्ययस्वरेणान्तोदात्तः । सुपा सहैकादेशे कृते एकादेश उदात्तः ॥
@@ -221,7 +224,7 @@ Abiding in fixed habitations: dhruvakṣemāsaḥ niścalasthānaḥ, those of f
 
 Let the bullish mountains with stable dwelling places hear us, as they  become exhilarated on the refreshing drink.  
 Let Aditi with the Ādityas hear us. Let the Maruts extend to us  beneficial shelter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
@@ -258,8 +261,6 @@ Die starken Berge mögen uns erhören, die festgegründet sich des Trunks erfreu
 Да услышит нас Адити с Адитьями!  
 Да пожалуют нам Маруты счастливое убежище!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

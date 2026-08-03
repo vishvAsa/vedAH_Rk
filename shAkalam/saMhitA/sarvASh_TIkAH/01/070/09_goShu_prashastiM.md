@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गो꣡षु प्र꣡शस्तिं व꣡नेषु धिषे  
-भ꣡रन्त वि꣡श्वे बलिं꣡ सु꣡वर् णः
+गो᳓षु प्र᳓शस्तिं व᳓नेषु धिषे  
+भ᳓रन्त वि᳓श्वे बलिं᳓ सु᳓वर् णः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

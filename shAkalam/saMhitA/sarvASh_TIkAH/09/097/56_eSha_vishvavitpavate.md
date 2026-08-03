@@ -3,7 +3,6 @@ title = "056"
 devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ विश्ववि꣡त् पवते मनीषी꣡  
-सो꣡मो वि꣡श्वस्य भु꣡वनस्य रा꣡जा  
-द्रप्साँ꣡ ईर꣡यन् विद꣡थेषु इ꣡न्दुर्  
-वि꣡ वा꣡रम् अ꣡व्यं सम꣡या꣡ति याति
+एष᳓ विश्ववि᳓त् पवते मनीषी᳓  
+सो᳓मो वि᳓श्वस्य भु᳓वनस्य रा᳓जा  
+द्रप्साँ᳓ ईर᳓यन् विद᳓थेषु इ᳓न्दुर्  
+वि᳓ वा᳓रम् अ᳓व्यं सम᳓या᳓ति याति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषः- अयम्। विश्ववित्- सर्वज्ञः। मनीषी- मेधावी। विश्वस्य- सर्वस्य। भुवनस्य- लोकस्य।  राजा- रञ्जकः। सोमः- रसः। पवते- क्षरति। द्रप्सान्- रसकणान्। विदथेषु- यज्ञेषु  यैर्विदन्त्यात्मानमिति विदथाः। आत्मा यज्ञेन कल्पतामिति श्रुतौ। ईरयन्- प्रेरयन्। इन्दुः-  क्लेदनशीलो रसः। समया- उभयतः। अव्यम्- सरणशीलरसस्य स्वस्थान एव  रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसस्य प्रवेशस्थानम्। रसतत्त्वस्य सुलभतया  अवगमसाधनभूतम्। रसार्थयाचनसाधनभूतम्। रसक्रियम्। रसावाप्तिसाधनभूतम्। रसावरणम्।  रससंभक्तारम्। रसवर्धकम्। वारम्- वरणीयं प्रतीकम्। वि- विशेषेण। अति- अतिक्रम्य च।  याति- गच्छति॥५६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 विश्ववित् सर्वस्यवेत्ता अतएव मनीषी मेधावी विश्वस्य भुवनस्य सर्वस्य लोकस्य राजा स्वामी एषसोमः पवते क्षरति । एतदेव विवृणोति । विदथेषु विन्दन्ति जानन्त्य- त्रदेवानिति । यद्वा विन्दन्ति लभन्ते विदथायज्ञास्तेषु द्रप्सान् रसकणान् ईरयन् प्रेरयन् । इन्दुः सोमः अव्यं अविभवं वारं वालं पवित्रं समया उभयतः व्यतियाति व्यतीत्यगच्छ- ति ॥ ५६ ॥
@@ -241,8 +244,6 @@ Rousing the droplets at the rites, the drop proceeds over and across the  sheep�
 <details><summary>Jamison Brereton Notes</summary>
 
 Note the phonological play in d: ví vā́ram ávyaṃ samáyā́ti yāti. The last bit is reminiscent of 54d, in that the phonological agreement crosscuts the word divisions: we have rhyming -yā́ti yāti, but the first yā́ti is to be segmented (samá)yā áti.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
@@ -280,8 +281,6 @@ Allwissend strömet leuchtend dieser weise, der Soma, er, des ganzen Weltalls K�
 Приводя в движения капли на жертвенных собраниях,  
 Сок сомы прозодит посредине через сито из овечьей шерсти.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

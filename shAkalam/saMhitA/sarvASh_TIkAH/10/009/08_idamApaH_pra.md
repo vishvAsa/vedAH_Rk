@@ -3,7 +3,6 @@ title = "008"
 devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इद꣡म् आपः प्र꣡ वहत  
-य꣡त् किं꣡ च दुरित꣡म् म꣡यि  
-य꣡द् वाह꣡म् अभिदुद्रो꣡ह  
-य꣡द् वा शेप꣡ उता꣡नृतम्
+इद᳓म् आपः प्र᳓ वहत  
+य᳓त् किं᳓ च दुरित᳓म् म᳓यि  
+य᳓द् वाह᳓म् अभिदुद्रो᳓ह  
+य᳓द् वा शेप᳓ उता᳓नृतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line  
-popular;; epic anuṣṭubh (424);; repeated line
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line  
+popular;; epic anuṣṭubh (424);; repeated line
 _________
 **Morph**  
 āpaḥ ← áp- (nominal stem)  
@@ -209,6 +207,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इदम्- एतद्भैषज्यम्। प्र वहत- प्रवाहयत। मयि। यत् किंच- यत्किञ्चित्। दुरितम्-  पापचिन्तनमस्ति। अहम्। यद्वा। यद्वा। अभिदुद्रोह- अभितो जनेभ्यो द्रोहमकरवम्। शेपे- साधून्  शशाप। अनृतम्- असत्यमुक्तवान्। तत्सर्वं प्रवाहेण मत्तोऽपनयत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -251,8 +254,6 @@ O Wasser, traget alles fort, was irgend Unrecht ist an mir, Was andern Uebles ic
 Если я обманул  
 Или если проклял, и (всю) неправду!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "013"
 devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ मूर्धा꣡नः क्षितीना᳐꣡म्  
-अ꣡दब्धासः स्व꣡यशसः  
-व्रता꣡ र꣡क्षन्ते अद्रु꣡हः
+ये᳓ मूर्धा᳓नः क्षितीना᳐᳓म्  
+अ᳓दब्धासः स्व᳓यशसः  
+व्रता᳓ र᳓क्षन्ते अद्रु᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। क्षितीनाम्- भूमिकानाम्। मूर्धानः- शिरःस्थानीयाः। अदब्धासः- अहिंस्याः। स्वयशसः-  स्वायत्तकीर्तयः। अद्रुहः- द्रोहरहिताः। व्रता- धर्मान्। रक्षन्ते- पालयन्ति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **मूर्धानः** सर्वेषां मूर्धस्थानीया उच्छ्रिताः **क्षितीनां** मनुष्याणाम् **अदब्धासः** अहिंसकाः **स्वयशसः** स्वायत्तकीर्तयः **व्रता** व्रतान्यस्मदीयानि कर्माणि **रक्षन्ते** पालयन्ते **अद्रुहः** अद्रोग्धारः सन्तः॥
@@ -142,7 +145,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 They who, as heads of the settled peoples, untrickable, self-glorious, without deceit, guard their commandments—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
@@ -176,8 +179,6 @@ Die aller Menschen Häupter sind, untrüglich, herrlich durch sich selbst Und tr
 С собственным блеском,  
 Безгрешные, охраняют заветы, –
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

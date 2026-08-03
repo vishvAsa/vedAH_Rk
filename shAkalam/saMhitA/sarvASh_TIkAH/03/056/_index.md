@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ Another enigmatic and mystical All God hymn, with its mysteries, as so often,  c
 All Gods I will not attempt to further identify the referents in these enigmatic vss.
 
 beyond the sketchy suggestions given in the published intr. Ample disc. can be found in the standard tr. As in many such mystical hymns, the grammar is mostly quite straightforward; it’s the purport that remains cloaked in obscurity.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५६  प्रजापतिर्वैश्वामित्रः, प्रजापतिर्वाच्यो वा।विश्वे देवाः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+007"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The hymn also illustrates, more clearly than usual, the poetic use of the meta p
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७  सोमाहुतिर्भार्गवः।अग्निः । गायत्री
 </details>

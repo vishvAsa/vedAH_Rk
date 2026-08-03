@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,4 +17,10 @@ This and the next hymn are attributed to Utkīla Kātya, the grandson of Viśvā
 gested in the first half of the verse. Or the poet may also be punning on pāyú, which  
 
 means “protector” here as elsewhere (cf. VII.37.8), but which formally and sec ondarily—though only secondarily—could be derived from √pā “drink” and mean  “drinker,” a natural description of soma-drinking Indra. In short, the appearance  of Agni could be or could mark the appearance of Indra.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५  कात्य उत्कीलः। अग्निः।  त्रिष्टुप्
 </details>

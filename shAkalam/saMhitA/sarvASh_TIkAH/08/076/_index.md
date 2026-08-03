@@ -1,6 +1,5 @@
 +++
 title = "+076"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Although the hymn is simple, it makes implicit reference to a complex ritual  de
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७६  कुरुसुतिः काण्वः ।इन्द्रः । गायत्री ।
 </details>

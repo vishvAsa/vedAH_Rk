@@ -3,7 +3,6 @@ title = "002"
 devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡म् मे स्तो꣡मम् अश्विना  
-इम꣡म् मे शृणुतं ह꣡वम्  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+इम᳓म् मे स्तो᳓मम् अश्विना  
+इम᳓म् मे शृणुतं ह᳓वम्  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्विना। इमम्- एतम्। मे- मम। स्तोमम्- मन्त्रम्। मे- मम। हवम्- आह्वानम्।  मध्वः सोमस्य  पीतये। आ  गच्छतम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** अश्विनौ **मे** मदीयम् **इमं** **स्तोमं** स्तोत्रं किंच **मे** मदीयम् **इमम्** इदमागमनविषयं **हवम्** आह्वानं च **शृणुतम्** ॥ ।
@@ -185,8 +188,6 @@ O Ritter, dies mein Loblied hört, vernehmet diesen meinen Ruf, Zum Trunk des s�
 О Ашвины, этот зов мой,  
 Чтобы пить сладкого сому!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

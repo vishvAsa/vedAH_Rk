@@ -1,6 +1,5 @@
 +++
 title = "+010"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+010"
 <details><summary>Jamison Brereton</summary>
 
 10 (722)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 9 verses: gāyatrī  
 This hymn, which shares a number of themes with IX.9, begins with three verses  heavy with similes, quickly sketching the pressing, filtering, and mixing of the soma  juices. After a verse (4)  with no poetic figuration, the second part of the hymn  switches to metaphor, and especially to metaphors of and identifications with the  sun, as in IX.9. The spreading of the soma juices across the sheep’s fleece is likened  to suns and their rays (vs. 5). The “lone one” in verse 7 is probably both the soma  crossing the filter and the sun crossing heaven. Soma’s eye is first tied to the sun (vs.  8), and then the sun implicitly becomes his eye (vs. 9). In addition, the “portion” of  Vivasvant (“the one shining forth”) and of Dawn in verse 5 probably refers to the  radiance of these divinities, obtained by the soma juices, which are then transformed  into suns.  
@@ -21,4 +20,10 @@ Other metaphors involve the poets and sacrificers: the doors of poetry (vs. 6), 
 <details><summary>Jamison Brereton Notes</summary>
 
 For the poetic structure of the hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

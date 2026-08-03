@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡रयो धूम꣡केतवो  
-वा꣡तजूता उ꣡प द्य꣡वि  
-य꣡तन्ते वृ꣡थग् अग्न꣡यः
+ह᳓रयो धूम᳓केतवो  
+वा᳓तजूता उ᳓प द्य᳓वि  
+य᳓तन्ते वृ᳓थग् अग्न᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,6 +131,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरयः- आकर्षणशीलाः। धूमकेतवः- धूमेन ज्ञातव्याः। वातजूताः- वातप्रेरिताः। अग्नयः। वृथक्-  पृथक्। द्यवि- दिवि। उप यतन्ते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हरयः** हरणशीलाः **वातजूताः** वातप्रेरिताः **धूमकेतवः** धूमध्वजाः **अग्नयः** **उप** **द्यवि** अन्तरिक्षे **वृथक्** पृथक् **यतन्ते** गच्छन्ति । पृथगित्यनेन सममव्ययं वृथगिति । पृथगित्येव वाजसनेयिनः पठन्ति (वा. सं. ३३. २)॥
@@ -150,7 +153,7 @@ _________
 
 The fallow bays with smoke as their beacon, sped by the wind up  toward heaven,  
 take up opposing positions—the fires.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
@@ -184,8 +187,6 @@ Die Flammen rings von Rauch umwallt die goldnen ziehn mit Lust dahin Zum Himmel 
 Гонимые ветром, по доброй воле  
 Выстраиваются, приближаясь к нему.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

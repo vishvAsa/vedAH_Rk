@@ -3,7 +3,6 @@ title = "021"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्वापयद् दभी꣡तये  
-सह꣡स्रा त्रिंश꣡तं ह꣡थैः  
-दासा꣡नाम् इ꣡न्द्रो माय꣡या
+अ᳓स्वापयद् दभी᳓तये  
+सह᳓स्रा त्रिंश᳓तं ह᳓थैः  
+दासा᳓नाम् इ᳓न्द्रो माय᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -119,6 +117,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दभीतये- हिंसनाय। इन्द्रः- ईशनाधिदेवता। मायया- स्वशत्तया। दासानाम्-  विषयदास्यभावनानाम्। सहस्रा त्रिशतम्- प्रभूतं प्रसवम्। हथैः- हननसाधनैः। अस्वापयत्-  अपातयत्॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रो** **मायया** स्वकीयया शक्त्या **दासानां** लोकानामुपक्षपयितॄणां राक्षसादीनां **त्रिंशतं** त्रिंशत्संख्याकानि **सहस्रा** सहस्राणि **दभीतये** दभीतिनामकस्यार्थाय **हथैः** हननसाधनैरायुधैः **अस्वापयत्** अवधीत् ॥
@@ -135,7 +138,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For Dabhīti, Indra “put to sleep” with his blows thirty thousand Dāsas by his magic power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
@@ -169,8 +172,6 @@ Für den Dabhiti tödtete Dämonen dreissigtausende Mit Schlägen Indra und mit 
 Индра усыпил для Дабхити  
 Тридцать тысяч дасов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

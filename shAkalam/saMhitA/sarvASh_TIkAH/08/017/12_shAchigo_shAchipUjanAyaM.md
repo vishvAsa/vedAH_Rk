@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शा꣡चिगो शा꣡चिपूजन  
-अयं꣡ र꣡णाय ते सुतः꣡  
-आ꣡खण्डल प्र꣡ हूयसे
+शा᳓चिगो शा᳓चिपूजन  
+अयं᳓ र᳓णाय ते सुतः᳓  
+आ᳓खण्डल प्र᳓ हूयसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -124,6 +122,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शाचिगो- शक्तिगमन। शाचिपूजन- शक्तिपूजन। ते- तव। रणाय- रमणाय। सुतः- निष्पन्नः।  आखण्डल- हे शत्रुखण्डन। त्वम्। प्र- प्रकर्षेण। हूयसे- आहूतोसि॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शाचिगो** । शाचयः शक्ता गावो यस्यासौ शाचिगुः । यद्वा । ‘शच व्यक्तायां वाचि '। अस्मादौणादिक इङ्प्रत्ययः । शाचयो व्यक्ताः प्रख्याता गावो रश्मयो गाव एव वा यस्य तादृश । हे **शाचिपूजन**। पूज्यतेऽनेनेति पूजनं स्तोत्रादि । प्रख्यातपूजन **ते** तव **रणाय** रमणाय सुखजननाय **अयं** सोमः **सुतः** अभिषुतः । यतः कारणात् हे **आखण्डल** शत्रूणामाखण्डयितः **प्र** **हूयसे** प्रकृष्टाभिः स्तुतिभिराहूयसे । अत आगत्येमं सोमं पिबेति भावः ॥
@@ -152,7 +155,7 @@ Radiance: śācigo: śaktā gāvo yasya, he whose cattle are strong;
 
 Śācigu, Śācipūjana, this has been pressed for your joy.  
 Ākhaṇḍala, you are called forth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
@@ -186,8 +189,6 @@ Der stark du schreitest, Stärke ehrst, zur Lust ist dieser dir gebraut, Dich, o
 Этот (сома) выжат тебе на радость.  
 О Акхандала, тебя призывают.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

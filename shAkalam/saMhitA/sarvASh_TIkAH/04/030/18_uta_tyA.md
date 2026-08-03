@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्या꣡ सद्य꣡ आ꣡रिया  
-सर꣡योर् इन्द्र पार꣡तः  
-अ꣡र्णाचित्र꣡रथावधीः
+उत᳓ त्या᳓ सद्य᳓ आ᳓रिया  
+सर᳓योर् इन्द्र पार᳓तः  
+अ᳓र्णाचित्र᳓रथावधीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। इन्द्र। त्या- तौ। आर्यौ-आर्यशीलौ। अर्णाचित्ररथौ- उदकस्थं रथस्थं च। सरयोः-  सरणशीलाया नद्याः। पारतः- पारम्। सद्यः- क्षणेन। अवधीः- अगमयः। हन हिंसागत्योः॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उत** अपि च **सद्यः** सपदि हे **इन्द्र** त्वं **त्या** त्यौ तौ **आर्या** आर्यौ आर्यत्वाभिमानिनौ सन्तावपि । इन्द्रविषयभक्तिश्रद्धारहितावित्यर्थः । **सरयोः** सरय्वा नद्याः **पारतः** पारे तीरे वसन्तौ **अर्णाचित्ररथा** अर्णनामकं चित्ररथनामकं च राजानौ **अवधीः** अहिंसीः ॥
@@ -152,7 +155,7 @@ Those two Āryas: **āryā** = āryābhimānau, āryatvabhimāninau, presuming o
 
 And these two Āryas, Arṇa and Citraratha, did you strike at the  same time  
 to the far side of the Sarayu (River), o Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
@@ -187,8 +190,6 @@ Und Arna und Tschitraratha, die Arjer, schlugest Indra du Jenseit der Saraju sog
 О Индра, по ту сторону Сараю.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -209,7 +210,7 @@ Und Arna und Tschitraratha, die Arjer, schlugest Indra du Jenseit der Saraju sog
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! आप निरन्तर दुष्टों का ताड़न और श्रेष्ठों का सत्कार करो ॥१८॥
+भावार्थभाषाः -  हे राजन् ! आप निरन्तर दुष्टों का ताड़न और श्रेष्ठों का सत्कार करो ॥१८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

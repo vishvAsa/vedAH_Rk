@@ -3,7 +3,6 @@ title = "002"
 devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ आ꣡पो दिव्या꣡ उत꣡ वा स्र꣡वन्ति  
-खनि꣡त्रिमा उत꣡ वा याः꣡ स्वयंजाः꣡  
-समुद्रा꣡र्था याः꣡ शु꣡चयः पवाका꣡स्+  
-ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
+या᳓ आ᳓पो दिव्या᳓ उत᳓ वा स्र᳓वन्ति  
+खनि᳓त्रिमा उत᳓ वा याः᳓ स्वयंजाः᳓  
+समुद्रा᳓र्था याः᳓ शु᳓चयः पवाका᳓स्+  
+ता᳓ आ᳓पो देवी᳓र् इह᳓ मा᳓म् अवन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -249,6 +247,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+याः। आपः। दिव्याः- व्योमजाः। उत वा। स्रवन्ति- भूमौ सरन्ति। खनित्रिमाः- खननेन निर्वृत्ताः।  उत वा। याः। स्वयंजाः- स्वयमेव प्रादुर्भवन्त्यः। याः। शुचयः- शुद्धाः। पावकाः- शोधयित्र्यः।  समुद्रार्थाः- अर्णवाभिमुख्यः सरन्ति। आपो मूलशक्तिधारा आध्यात्मिके। समुद्रो हृदयम्। ता आपो  देवीरिह मामवन्तु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **या** **आपो** **दिव्याः** अन्तरिक्षभवाः सन्ति। **उत** **वा** अपि च याः आपः नद्यादिगताः सत्यः **स्रवन्ति** गच्छन्ति । याश्च **खनित्रिमाः** खननेन निर्वृत्ताः। **उत** **वा** अपि च **याः** **स्वयंजाः** स्वयमेव प्रादुर्भवन्त्यः **समुद्रार्थाः** । समुद्र एवार्थो गन्तव्यो यासां ताः समुद्रार्थाः । **शुचयः** दीप्तियुक्ताः **पावकाः** शोधयित्र्यश्च भवन्ति । **ता** **आपः** **मामवन्तु** इति ॥
@@ -271,7 +274,7 @@ Those whose channels have been dug: khanitrimā = khanenanivṛttaḥ, formed, o
 
 The heavenly waters, or those that flow, or are found by digging, or arise  by themselves,  
 those, clear and pure, whose goal is the sea—let those waters, goddesses,  help me here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
@@ -312,8 +315,6 @@ Des Himmels Wasser und die niederrinnen aus eignen Quellen oder in Kanälen, Die
 Эти божественные воды пусть мне здесь помогут!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आपः
@@ -334,7 +335,7 @@ Des Himmels Wasser und die niederrinnen aus eignen Quellen oder in Kanälen, Die
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे विद्वानो ! जैसे जल और प्राण हमारी अच्छे प्रकार रक्षा कर बढ़ावें, वैसे तुम लोग हम को बोध कराओ ॥२॥
+भावार्थभाषाः -  हे विद्वानो ! जैसे जल और प्राण हमारी अच्छे प्रकार रक्षा कर बढ़ावें, वैसे तुम लोग हम को बोध कराओ ॥२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

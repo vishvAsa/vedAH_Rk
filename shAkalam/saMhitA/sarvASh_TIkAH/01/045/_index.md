@@ -1,6 +1,5 @@
 +++
 title = "+045"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ Agni The theme of “hearing,” found also in the last two verses of I.44, is f
 For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
   </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४५   प्रस्कण्वः काण्वः। अग्निः, १० (उत्तरार्धस्य) देवाः। अनुष्टुप्।
 </details>

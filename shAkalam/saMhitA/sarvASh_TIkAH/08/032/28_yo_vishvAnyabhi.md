@@ -3,7 +3,6 @@ title = "028"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वि꣡श्वानि अभि꣡ व्रता꣡  
-सो꣡मस्य म꣡दे अ꣡न्धसः  
-इ꣡न्द्रो देवे꣡षु चे꣡तति
+यो᳓ वि᳓श्वानि अभि᳓ व्रता᳓  
+सो᳓मस्य म᳓दे अ᳓न्धसः  
+इ᳓न्द्रो देवे᳓षु चे᳓तति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,6 +139,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। इन्द्रः। सोमस्य अन्धसः- रसस्य। मदे- हर्षे। विश्वानि- सर्वान्। व्रता- धर्मान्। सर्वा  नियतीर्वा। देवेषु। चेतति- प्रज्ञापयति॥२८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अन्धसः** अद्यमानस्य **सोमस्य** **मदे** संजाते **विश्वानि** सर्वाणि **व्रता** व्रतानि कर्माणि **यः** **इन्द्रः** **देवेषु** **अभि** **चेतति** ज्ञापयति तस्मा इन्द्राय देवत्तं ब्रह्म गायतेत्यर्थः ॥
@@ -158,7 +161,7 @@ _________
 
 Who in the exhilaration of the soma stalk  
 oversees all commandments among the gods—Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
@@ -190,8 +193,6 @@ Ihn, der auf alle Werke merkt im Rausch des somareichen Krauts, Den Indra in der
 Внимает всем заветам  
 В опьянении соком сомы...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

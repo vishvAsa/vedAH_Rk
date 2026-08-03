@@ -3,7 +3,6 @@ title = "010"
 devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ वृ꣡षा ज꣡नाना᳐म्  
-मं꣡हिष्ठ इन्द्र जज्ञिषे  
-सत्रा꣡ वि꣡श्वा सुअपत्या꣡नि दधिषे
+तुवं᳓ वृ᳓षा ज᳓नाना᳐म्  
+मं᳓हिष्ठ इन्द्र जज्ञिषे  
+सत्रा᳓ वि᳓श्वा सुअपत्या᳓नि दधिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्वम्। जनानाम्- जनेभ्यः। वृषा- वर्षकः। मंहिष्ठः- अतिशयेन दाता। इन्द्र। जज्ञिषे- प्रादुर्भूतः।  सत्रा- सहैव। विश्वा- सर्वाणि। स्वपत्यानि। दधिषे- यच्छसि॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **वृषा** वर्षिता **त्वं** **जनानां** देवजनानां मध्ये **मंहिष्ठः** दातृतमः **जज्ञिरे** प्रादुर्भवसि । अत एव **विश्वा** सर्वाणि **स्वपत्यानि** शोभनैः पुत्रादिभिः सहितानि **सत्रा** सह **दधिषे** दातुं धारयसि । ददासि वा ॥ ॥ १८ ॥
@@ -169,7 +172,7 @@ i.e. you give offspring, and all good things
 You are the bull of the peoples; you were born as the most  
 munificent, Indra.  
 In every way you have acquired all things that bring good descendants.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
@@ -203,8 +206,6 @@ Der gabenreichste Männerherr, o Indra, bist du von Geburt; Du schenkest Kind un
 Как самый щедрый, о Индра,  
 Ты располагаешь сразу всем, что дает хорошее потомство.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

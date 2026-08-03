@@ -3,7 +3,6 @@ title = "021"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡षं तोका꣡य नो द꣡धद्  
-अस्म꣡भ्यं सोम विश्व꣡तः  
-आ꣡ पवस्व सहस्रि꣡णम्
+इ᳓षं तोका᳓य नो द᳓धद्  
+अस्म᳓भ्यं सोम विश्व᳓तः  
+आ᳓ पवस्व सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। इषम्- सदिच्छाम्। तोकाय- युष्मद्वत्सभूतेभ्यः। अस्मभ्यम्- नः। दधत्-  धारयन्। विश्वतः- सर्वतः। सहस्रिणम्- प्रभूतां संपदम्। आ पवस्व- क्षर॥२१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **नः** अस्माकं **तोकाय** पुत्राय **इषम्** अन्नं **दधत्** विदधत् प्रयच्छन् **सहस्रिणं** सहस्रसंख्याकं धनं **विश्वतः** सर्वतो दिक्षु **अस्मभ्यं** च **आ** **पवस्व** आप्रापय । अस्मभ्यं पुत्राय च अन्नधनादिकं प्रयच्छेत्यर्थः ॥
@@ -153,7 +156,7 @@ _________
 
 Establishing refreshment for our offspring and for us on all sides,  o Soma,  
 by purifying yourself bring thousandfold (wealth) here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
@@ -179,10 +182,6 @@ Unserer Nachkommenschaft und uns von allen Seiten gute Speise, tausendfältigen 
 
 Erquickung spendend unserm Stamm und uns, o Soma, überall Ström' her uns tausendfaches Gut.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

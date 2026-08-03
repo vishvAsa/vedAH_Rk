@@ -3,7 +3,6 @@ title = "015"
 devataa = "ऋक्षाश्वमेधयोर्दानस्तुतिः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ऋज्रा꣡व् इन्द्रोत꣡ आ꣡ ददे  
-ह꣡री ऋ꣡क्षस्य सून꣡वि  
-आश्वमेध꣡स्य रो꣡हिता
+ऋज्रा᳓व् इन्द्रोत᳓ आ᳓ ददे  
+ह᳓री ऋ᳓क्षस्य सून᳓वि  
+आश्वमेध᳓स्य रो᳓हिता
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रोते- इन्द्ररक्षासम्पन्न। ऋक्षस्य सूनवि- आवरणबाधकस्य। ऋक्ष वधे। आश्वमेधस्य। रोहिता-  दीप्तौ। ऋज्रौ- ऋजुगती। प्राणाश्वौ। आ ददे- गृह्णामि॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **इन्द्रोते** एतन्नामक आतिथिग्वेऽतिथिग्वनाम्नो राज्ञः पुत्रे । ' अतिथिग्वाय शम्बरम्' (ऋ. सं. १. ५१. ६)  ‘ अतिथिग्वाय शंस्यम्' (ऋ. सं. ६. २६. ३) इत्यादिष्वतिथिग्वः प्रसिद्धः । तत्पुत्र इन्द्रोते **ऋज़ौ** ऋजुगामिनावश्वौ **आ** **ददे** स्वीकृतवानस्मि । तथा **ऋक्षस्य** **सूनवि** ऋक्षनाम्नः पुत्रेऽन्यस्मिन् राजनि **हरी** हरितवर्णावश्वौ आ ददे। तथा **आश्वमेधस्य** अश्वमेधपुत्रे राजनि **रोहिता** रोहितवर्णावश्वौ आ ददे। नन्वनुक्रमण्यामुभयोरेव दानप्रशंसारूपत्वमुक्तम् अत्र कथं त्रयाणां दानकीर्तनमिति । नैष दोषः । ऋक्षाश्वमेधपुत्रयोरेव यागेऽस्यर्षेः प्रवृत्तेस्तयोरेव दानं प्रस्तुतम्। इन्द्रोतस्तु स्वपित्रा सह तयोर्यज्ञदिदृक्षयागत्य तयोर्दानं दृष्ट्वा स्वपित्रा प्रेरितो दत्तवानश्वौ। अतस्तद्दानं प्रासङ्गिकमिति । एवमृक्षाश्वमेधयोर्दानस्तुतित्वं न व्याहन्यते । पितृपुत्रयोरभेदात्तयोः पक्षकर्तृत्वाच्च। इन्द्रोतदानस्थ प्रासङ्गिकत्वं ‘षळश्वान्' इत्यत्र विस्पष्टयिष्यते ॥
@@ -150,7 +153,7 @@ Indrota: these princes with their respective fathers are the six mentioned in th
 
 From Indrota I received two silvery ones, from the son of R̥kṣa two  fallow bays,  
 and the two chestnuts of the son of Aśvamedha;
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
@@ -181,10 +184,6 @@ Von Indrota empfing ich zwei Schimmel, von dem Sohne des Riksa zwei Falben, von 
 
 Zwei glänzendrothe Rosse empfing ich von Indrota, dem Sohne des Rikscha, aus dem Geschlechte des Açvamedha.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

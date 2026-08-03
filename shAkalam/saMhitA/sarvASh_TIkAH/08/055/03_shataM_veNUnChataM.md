@@ -3,7 +3,6 @@ title = "003"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "कृशः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-शतं꣡ वेणू꣡ञ् छतं꣡ शु꣡नः  
-शतं꣡ च꣡र्माणि म्लाता꣡नि  
-शत꣡म् मे बल्बजस्तुका꣡  
-अ꣡रुषीणां च꣡तुःशतम्
+शतं᳓ वेणू᳓ञ् छतं᳓ शु᳓नः  
+शतं᳓ च᳓र्माणि म्लाता᳓नि  
+शत᳓म् मे बल्बजस्तुका᳓  
+अ᳓रुषीणां च᳓तुःशतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतम्- प्रभूतान्। वेणून् - मस्करान्। शतम्- प्रभूतान्। शुनः- शुनकान्। शतम्- प्रभूतानि।  म्लातानि- मृदूकृतानि। चर्माणि- अजिनानि। शतम्- बह्वीः। बल्बजस्तुकाः- तृणपूलाः। चतुःशतं  अरुषीणाम्- प्रभूता गाः। अददात्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -201,8 +204,6 @@ Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Geflechte v
 Сотню пучков (травы) балбаджа,  
 Четыре сотни рыжих коров (коров ты) мне (дал).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

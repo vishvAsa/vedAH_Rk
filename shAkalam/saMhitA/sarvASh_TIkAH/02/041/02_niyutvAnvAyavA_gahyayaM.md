@@ -3,7 +3,6 @@ title = "002"
 devataa = "वायुः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नियु꣡त्वान् वायव् आ꣡ गहि  
-अयं꣡ शुक्रो꣡ अयामि ते  
-ग꣡न्तासि सुन्वतो꣡ गृह꣡म्
+नियु᳓त्वान् वायव् आ᳓ गहि  
+अयं᳓ शुक्रो᳓ अयामि ते  
+ग᳓न्तासि सुन्वतो᳓ गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,6 +151,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नियुत्वान्- प्राणप्रणालीभूताश्ववान् सन्। वायो- प्राण। आ गहि- आगच्छ। अयम्- एषः। शुक्रः-  शुद्धो रसः। ते- त्वदर्थम्। अयामि- गृहीतः। सुन्वतः- रसनिष्पादकस्य। गृहम्- सुद्म। गन्ता-  याता। असि- भवसि॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेवायो नियुत्वान् नियुतोबाहनानिवायोः तैर्युक्तस्त्वं आगह्यगच्छ अयंशुक्रोदीप्यमानः सोमः तेतुभ्यं अयामिनियतोगृहीतआसीत् यमेःकर्मणिलुङ् सुन्वतः सोमाभिषवं कुर्वतोयजमानस्यगृहं गन्तासियाताभवसि ॥ २ ॥
@@ -179,7 +182,7 @@ _________
 
 You with your teams, Vāyu, come here. This clear (soma) has been held  out to you.  
 You are wont to come to the house of the presser.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
@@ -213,8 +216,6 @@ Mit Vielgespann, o Vāju, komm, hier ward dir reiner Trank gereicht, Bald kommst
 Этот прозрачный (сома) поднесен тебе.  
 Ты всегда ездишь в дом выжимающего сому.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

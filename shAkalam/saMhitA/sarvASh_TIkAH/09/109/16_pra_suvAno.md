@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ स्वानो꣡° अक्षाः सह꣡स्रधारस्  
-तिरः꣡ पवि꣡त्रं वि꣡ वा꣡रम् अ꣡व्यम्
+प्र᳓ स्वानो᳓° अक्षाः सह᳓स्रधारस्  
+तिरः᳓ पवि᳓त्रं वि᳓ वा᳓रम् अ᳓व्यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अव्यं वारम्- सरणशीलरसस्य स्वस्थान एव रक्षाकरमुपलब्धिस्थानमित्यर्थः। रसव्यञ्जकम्। रसस्य  प्रवेशस्थानम्। रसतत्त्वस्य सुलभतया अवगमसाधनभूतम्। रसार्थयाचनसाधनभूतम्। रसक्रियम्।  रसावाप्तिसाधनभूतम्। रसावरणम्। रससंभक्तारम्। रसवर्धकम्। वरणीयम्। पवित्रम्- शोधकं  भाजनं प्रतीकं वा। तिरः- अतिक्रम्य च। सुवानः- निष्पन्नः। सहस्रधारः- अनन्तधारो रसः। प्र-  प्रकर्षेण। वि- विशेषेण। अक्षाः- क्षरति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुवानः** अभिषूयमाणः अत एव **सहस्रधारः** बहुधारायुक्तः सोमः **अव्यम्** अविभवं **वारं** वालं **पवित्रं** **तिरः** व्यवधायकं कुर्वन् **प्र** **अक्षाः** विविधं प्रक्षरति । क्षरतेर्लुङि रूपम् ॥
@@ -144,7 +147,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Being pressed, he has streamed forth in a thousand streams, across the  filter, through the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
@@ -176,8 +179,6 @@ Gepresst nun rann er – in tausend Strömen quer durch die Seihe, – durch Wid
 Выжатый, он потек вперед в тысячу потоков  
 Через цедилку сквозь сито из овечьей шерсти.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

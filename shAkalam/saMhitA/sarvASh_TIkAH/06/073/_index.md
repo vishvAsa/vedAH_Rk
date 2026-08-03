@@ -1,6 +1,5 @@
 +++
 title = "+073"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In this brief hymn Br̥haspati is credited with many of Indra’s exploits and i
 <details><summary>Jamison Brereton Notes</summary>
 
 Bṛhaspati Renou EVP XV.66-67.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७३  बार्हस्पत्यो भरद्वाजः। बृहस्पतिः।  त्रिष्टुप्।
 </details>

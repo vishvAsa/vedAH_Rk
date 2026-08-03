@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् हिन्वानो꣡ अर्षति  
-तिरो꣡ वा꣡राणि अव्य꣡या  
-ह꣡रिर् वा꣡जम् अचिक्रदत्
+इ᳓न्दुर् हिन्वानो᳓ अर्षति  
+तिरो᳓ वा᳓राणि अव्य᳓या  
+ह᳓रिर् वा᳓जम् अचिक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हिन्वानः- प्रेरितः। हरिः- आकर्षकः। इन्दुः- क्लेदनशीलो रसः। अव्यया वाराणि-  सरणशीलरसस्य स्वस्थान एव रक्षाकराण्युपलब्धिस्थाननीत्यर्थः। रसव्यञ्जकानि। प्रतीकभूतानि २    भाजनानि वा। तिरः- अतिक्रम्य च। अर्षति- सरति। वाजम्- हव्यम्। अचिक्रदत्-  अशब्दयदुपदिदेशेत्यर्थः॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **हिन्वानः** ग्रावभि: प्रेर्यमाणोऽभिषूयमाणः **इन्दुः** सोमः **अव्यया** अविमयान्यवीनां स्वभूतानि **वाराणि** वालानि । पवित्राणीत्यर्थः। तानि **तिरः** तिरस्कृत्य व्यवधाय **अर्षति** गच्छति । प्रभूतं निर्गच्छतीत्यर्थः। सोऽयं **हरिः** हरितवर्णः सोमः **वाजम्** अन्नम् **अचिक्रदत्** शब्दयति । त्वया सह इन्द्रमहमाह्वयामीत्यर्थः॥
@@ -144,7 +147,7 @@ _________
 
 The drop, being impelled, rushes across the sheep’s fleece;  
 the tawny one has roared for the prize.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
@@ -178,8 +181,6 @@ Getrieben rennt das goldne Ross, der Indu durch des Widders Haar, Schon wiehert 
 Через (отверстия) сита из овечьей шерсти.  
 Буланый конь заржал навстречу награде.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first verse of this hymn is a remarkably condensed expression of the poetic 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३४  शुनहोत्रो भारद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

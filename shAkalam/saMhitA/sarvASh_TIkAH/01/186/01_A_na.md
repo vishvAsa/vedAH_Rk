@@ -3,7 +3,6 @@ title = "001"
 devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इ꣡ळाभिर् विद꣡थे सुशस्ति꣡  
-विश्वा꣡नरः सविता꣡ देव꣡ एतु  
-अ꣡पि य꣡था युवानो म꣡त्सथा नो  
-वि꣡श्वं ज꣡गद् अभिपित्वे꣡ मनीषा꣡
+आ᳓ न इ᳓ळाभिर् विद᳓थे सुशस्ति᳓  
+विश्वा᳓नरः सविता᳓ देव᳓ एतु  
+अ᳓पि य᳓था युवानो म᳓त्सथा नो  
+वि᳓श्वं ज᳓गद् अभिपित्वे᳓ मनीषा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,6 +216,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। युवानः- नित्यतरुणा देवाः। नः- अस्माकम्। मनीषा- मनीषया। अभिपित्वे- अभिपतनीये  धाम्नि स्थिताः सन्तः। विश्वं जगत्- सर्वम्। मत्सथ- मादयथ। तथा। विदथे- यज्ञे।  यैर्विदन्त्यात्मानमिति विदथाः। सुशस्ति- शोभनस्तोत्ररूपाभिः। इळाभिः- वाग्भिः। नः-  अस्मान्। विश्वानरः- सर्वहितकरः। देवः सविता- आत्मसूर्यः। आ एतु- आगच्छतु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** **विदथे** अस्मदीये यज्ञे **सुशस्ति** ॥ सुपो लुक् ॥ सुशस्तिभिः शोभनशंसनैः स्तुतिभिः प्रदेयैः रत्नैः सह । यद्वा । **इळाभिः**। तदाश्रितेषु तच्छब्द्यम् । भूमिस्थानाभिर्देवताभिः सह। **विश्वानरः** सर्वप्राणिहितकार्यग्निः **सविता** प्रेरक आदित्यश्च **देवः** **एतु** आगच्छतु । हे **युवानः** नित्यतरुणा यज्ञस्य मिश्रयितारो वा यूयं **नः** अस्मान् **अभिपित्वे** अभिपतनीयेऽस्मद्यज्ञे **मनीषा** मनीषया मनसः ईशितृत्वेन स्वेच्छयेत्यर्थः । अपिः संभावनायाम् । **अपि** अस्मान् **मत्सथ** मादयथ। **यथा** **विश्वं** **जगत्** । एतत्स्थावरस्याप्युपलक्षणम् । यद्वा कृत्स्नं प्रपञ्चे मत्सथ तथा अस्मानपि । यद्वा । जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान् यथा मत्सथ तथेत्यर्थः ॥
@@ -255,8 +258,6 @@ The initial ápi of c is somewhat puzzling. Geldner (/Witzel Gotō) render it �
 
 In d manīṣā́can be nom. or instr. I follow Geldner in taking it as the former, while Renou and Witzel Gotō take it as the latter, with Renou taking Savitar as implied subject and Witzel Gotō víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -289,8 +290,6 @@ Durch unser Lied und unsre Opfer komme Gott Savitar zum Opfer hold den Menschen,
 Чтобы вы обрадовали нас, о юные,  
 (Пусть придет он) ко всему живому миру вечером вместе с Вдохновением!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

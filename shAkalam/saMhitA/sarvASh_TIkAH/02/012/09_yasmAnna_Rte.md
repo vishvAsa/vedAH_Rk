@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मान् न꣡ र्ते꣡ विज꣡यन्ते ज꣡नासो  
-यं꣡ यु꣡ध्यमाना अ꣡वसे ह꣡वन्ते  
-यो꣡ वि꣡श्वस्य प्रतिमा꣡नम् बभू꣡व  
-यो꣡ अच्युतच्यु꣡त् स꣡ जनास इ꣡न्द्रः
+य᳓स्मान् न᳓ र्ते᳓ विज᳓यन्ते ज᳓नासो  
+यं᳓ यु᳓ध्यमाना अ᳓वसे ह᳓वन्ते  
+यो᳓ वि᳓श्वस्य प्रतिमा᳓नम् बभू᳓व  
+यो᳓ अच्युतच्यु᳓त् स᳓ जनास इ᳓न्द्रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -224,6 +222,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्मात्। ते- यं विना। जनासः- वीराः। न विजयन्ते- न जयन्ति। यम्। युध्यमानाः- युद्धं  कुर्वन्तः। अवसे- रक्षायै। हवन्ते- आह्वयन्ति। यः। विश्वस्य- सर्वस्य लोकस्य। प्रतिमानम्-  प्रतिनिधिः। बभूव- अभवत्। विराट् भवति। यः। अच्युतच्युत्- अचलचालकः। स जनास  इन्द्रः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यस्मादृते जनासोजनाः नविजयन्ते विजयन्नप्राप्नुवन्ति अतः युध्यमानायुद्धङ्कुर्वाणाजनाअवसे- स्वरक्षणायंइन्द्रं हवन्तेआह्वयन्ति यश्चविश्वस्यसर्वस्यजगतः प्रतिमानम्प्रतिनिधिर्बभुव यश्चाच्युत- च्युत् अच्युतानाङ्क्षयरहितानाम्पर्वतादीनाञ्च्यावयितासइन्द्रइत्यादिप्रसिद्धम् ॥ ९ ॥
@@ -242,7 +245,7 @@ _________
 Without whom peoples do not win, whom they call upon for help as  they fight,  
 who has become a match for everyone, who is the mover of the  
 immovable – he, o peoples, is Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
@@ -282,8 +285,6 @@ Ohn' dessen Beistand Männer nimmer siegen, den alle Kämpfer sich zu Hülfe ruf
 Кто всегда был противовесом всего,  
 Кто сотрясает несотрясаемое – тот, о люди, Индра!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

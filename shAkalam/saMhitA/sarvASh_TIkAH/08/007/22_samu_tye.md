@@ -3,7 +3,6 @@ title = "022"
 devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ त्ये꣡ महती꣡र् अपः꣡  
-सं꣡ क्षोणी꣡ स꣡म् उ सू꣡रियम्  
-सं꣡ व꣡ज्रम् पर्वशो꣡ दधुः
+स᳓म् उ त्ये᳓ महती᳓र् अपः᳓  
+सं᳓ क्षोणी᳓ स᳓म् उ सू᳓रियम्  
+सं᳓ व᳓ज्रम् पर्वशो᳓ दधुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्ये- ते। महतीः। अपः। क्षोणी- द्यावापृथिव्यौ। सूर्यं- सवितारम्। वज्रम्। पर्वशः- पर्वणि  पर्वणि। सम्- सम्यक्। दधुः- धारयन्ति॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **त्ये** ते पूर्वोक्तगुणा मरुतः **महतीः** बह्वीः **अपः** वृष्टयुदकानि **समु** **दधुः** संदधति । ओषध्यादिभिः संयोजयन्ति । यद्वा । घर्मकाले सूर्यरश्मिभिराहृता उपरि सम्यग्धारयन्ति ॥ ‘ बृहन्महतोरुपसंख्यानम् ' इति महतः परस्य ङीप उदात्तत्वम् ।' ऊडिदम् ' इत्यादिना अप्शब्दात्परः शस् उदात्तः ॥ तथा **क्षोणी** क्षोण्यौ द्यावापृथिव्यौ च ते मरुतः **सं** दधुः । यथा स्वे स्वे स्थानेऽवतिष्ठेते तथा धारयन्ति । सूत्रात्मना वायुना सर्वं जगद्धार्यते । तथा च श्रूयते - वायुर्वै गोतम तत्सूत्रं वायुना वै गोतम सूत्रेणायं च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्ति ' (बृ. उ. ३. ७. २) इति । तथा **सूर्यं** सर्वस्य प्रेरकमादित्यं चान्तरिक्षे **सं** दधुः सम्यग्धारयन्ति । उशब्दः समुच्चये। ईदृशास्ते मरुतः **वज्रम्** आत्मीयमायुधं **पर्वशः** पर्वणि पर्वणि वृत्रस्य सर्वेष्ववयवसंबन्धिषु हननार्थं **सं** दधुः समयूयुजन् ॥
@@ -197,7 +200,7 @@ Vṛtra: they have plural nted thethunderbolt in (Vṛtra's) every limb
 
 They put together the great waters, together the two “opponents”  [=heaven and earth], together the sun,  
 together the mace, joint by joint.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
@@ -236,8 +239,6 @@ Die grossen Wasser fügten sie, das Weltenpaar, der Sonne Ball, Den Blitz zusamm
 Вместе – два войска, вместе – солнце,  
 Вместе – ваджру по суставам.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

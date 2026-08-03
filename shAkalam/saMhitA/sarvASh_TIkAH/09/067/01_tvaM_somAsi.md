@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "भरद्वाजः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोमासि धारयु꣡र्  
-मन्द्र꣡ ओ꣡जिष्ठो अध्वरे꣡  
-प꣡वस्व मंहय꣡द्रयिः
+तुवं᳓ सोमासि धारयु᳓र्  
+मन्द्र᳓ ओ᳓जिष्ठो अध्वरे᳓  
+प᳓वस्व मंहय᳓द्रयिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,6 +129,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। त्वम्। धारयुः- धाराकामः। मन्द्रः- हर्षप्रदः। अध्वरे- ध्वररहिते कर्मणि। ओजिष्ठः-  बलिष्ठः। असि- भवसि। मंहयद्रयिः- स्तोतृभ्यो दीयमानधनः सन्। पवस्व- क्षर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** अभिषूयमाण पवमान **मन्द्रः** मादयितृतमः **ओजिष्ठः** ओजस्वितमः **त्वम्** **अध्वरे** हिंसारहितेऽस्मदीये यज्ञे **धारयुः** अभिषवणधाराकामः **असि** भवसि । ततस्त्वं **मंहयद्रयिः** स्तोतृभ्यः प्रदीयमानधनः सन् **पवस्व** द्रोणकलशे ग्रहादिषु दशापवित्रेण पूतो भव । यद्वा । धारयुः । ‘ तद्वदर्थे भाष्यते' इति मत्वर्थीयो युः । स हे सोम त्वं धारावानिव ततः पवस्वेति संबन्धः ॥
@@ -147,7 +150,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You, Soma, are supporting, invigorating, strongest at the ceremony. Purify yourself, readying wealth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
@@ -182,8 +185,6 @@ Du Soma bist an Strömen reich, am Fest erfreuend reich an Kraft, O flamme Reich
 Радостный, самый сильный на обряде.  
 Очищайся, щедро раздавая богатства!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

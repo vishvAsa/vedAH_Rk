@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अप्सा꣡ इ꣡न्द्राय वाय꣡वे  
-व꣡रुणाय मरु꣡द्भियः  
-सो꣡मो अर्षति वि꣡ष्णवे
+अप्सा᳓ इ᳓न्द्राय वाय᳓वे  
+व᳓रुणाय मरु᳓द्भियः  
+सो᳓मो अर्षति वि᳓ष्णवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अप्साः- जीवोदकानां संभक्ता। षण संभक्तौ। सोमः- रसः। इन्द्राय- ईशनाधिदैवताय। वायवे-  प्राणाधिदैवताय। वरुणाय- ऋताधिदैवताय। मरुद्भ्यः- प्राणविशेषेभ्यः। विष्णवे- सर्वव्यापिने।  अर्षति- गच्छति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अप्साः** वसतीवरीनामधेयानामपां संभक्ता । ‘षण संभक्तौ । **जनसन** ' इति विट् । आत्वं ‘ विड्वनोः' इति । तादृशः **सोमः** **अर्षति** द्रोणकलशमागच्छति । किमर्थम्। **इन्द्राय** । सर्वदेवानां प्रथम एवेन्द्रः सोमं पिबति तस्मात्पूर्वमेवाभिहितः । तस्मै **वायवे** तत्सहायाय च । ऐन्द्रवायवे हीन्द्रस्यानन्तरं वायुः सोमं पिबति तस्मात्तदनु वायुरुक्तः । तस्मै च **वरुणाय** **मरुद्भ्यः**  मितं शब्दं कुर्वद्भ्य एतन्नामकेभ्यो देवेभ्यः **विष्णवे** सर्वजगद्व्यापिने विष्णवे च । एतेषां पातुं सोमः स्रवतीत्यर्थः ॥ ॥ ४ ॥
@@ -143,7 +146,7 @@ _________
 
 For Indra, for Vāyu, for Varuṇa, for the Maruts, for Viṣṇu  
 the water-winning soma rushes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
@@ -169,10 +172,6 @@ Das Wasser gewinnend rinnt Soma für Indra, Vayu, Varuna, die Marut und Vishnu.
 
 Dem Indra, Vaju, Varuna, den Maruts und dem Vischnu strömt Der Soma Fluten spendend zu.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

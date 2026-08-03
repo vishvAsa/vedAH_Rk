@@ -1,6 +1,5 @@
 +++
 title = "+036"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The mood of the hymn changes with verse 13. There follow a number of peremp tory
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३६ कण्वो घौरः। अग्निः, १३-१४ यूपो वा । प्रगाथ - विषमा बृहत्यः, समाः सतोबृहत्यः (१३  उपरिष्टाद्बृहती। ऐ.ब्रा. २.२ चरणच्छेदः)
 </details>

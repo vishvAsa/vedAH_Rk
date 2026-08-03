@@ -3,7 +3,6 @@ title = "011"
 devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु त्वा रो꣡दसी उभे꣡  
-क्र꣡क्षमाणम् अकृपेताम्  
-इ꣡न्द्र य꣡द् दस्युहा꣡भवः
+अ᳓नु त्वा रो᳓दसी उभे᳓  
+क्र᳓क्षमाणम् अकृपेताम्  
+इ᳓न्द्र य᳓द् दस्युहा᳓भवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,6 +141,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। दस्युहा- स्तेनबाधकः। अभवः- बभूविथ। तदा। त्वा- त्वाम्। रोदसी-  द्यावापृथिव्यौ। उभे। क्रक्षमाणम्- विलिखन्तम्। इन्द्र। अनु अकृपेताम्- अनुकल्पयेताम्॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **क्रक्षमाणं** शत्रून् विलिखन्तं **त्वा** त्वाम् **उभे** **रोदसी** उभे अपि द्यावापृथिव्यौ **अनु** **अकृपेताम्** अनुकल्पयेताम् । **यत्** यदा **दस्युहा** **अभवः** भवसि तदा ॥
@@ -182,10 +185,6 @@ Beide Welten fügten sich dir, dem Lärmenden, als du Indra, der Dasyutöter war
 
 Dir seufzten beide Welten nach dem brausenden, als Indra du Vernichter der Dämonen warst.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

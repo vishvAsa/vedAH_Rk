@@ -3,7 +3,6 @@ title = "020"
 devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡घ्निर् वृत्र꣡म् अमित्रि꣡यं  
-स꣡स्निर् वा꣡जं दिवे꣡-दिवे  
-गोषा꣡ उ अश्वसा꣡ असि
+ज᳓घ्निर् वृत्र᳓म् अमित्रि᳓यं  
+स᳓स्निर् वा᳓जं दिवे᳓-दिवे  
+गोषा᳓ उ अश्वसा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,6 +153,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अमित्रियम्- अस्मच्छत्रुभूतम्। वृत्रम्- आवारकम्। जघ्निः- नाशितवान्। दिवेदिवे- प्रतिदिनम्।  वाजम्- भोगस्य। सस्निः- संभक्ता असि। गोषाः- चिद्रश्मिसंभक्ता। अश्वसाः- प्राणसंभक्ता।  असि- भवसि॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वम् **अमित्रियम्** अमित्रभवं **वृत्रं** शत्रुं **जघ्निः** हन्ता **असि** भवसि । किंच **दिवेदिवे** प्रतिदिनं **वाजं** संग्रामं **सस्निः** संभक्तासि । किंच **गोषाः** गवां दातासि । **अश्वसाः** अश्वानां दाता चासि ॥ ॥ २१ ॥
@@ -172,7 +175,7 @@ _________
 
 Smashing Vr̥tra the hostile, winning the prize every day,  
 you are a winner of cows and of horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
@@ -207,8 +210,6 @@ Erschlagend den verhassten Feind und Labung spendend Tag für Tag Verleihst du R
 Ты – захватчик коров и захватчик коней.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -219,7 +220,7 @@ Erschlagend den verhassten Feind und Labung spendend Tag für Tag Verleihst du R
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (अमित्रियम् वृत्रम् जघ्निः) आप, जो आप की आज्ञा के प्रतिकूल है, उस पापी के हन्ता हैं। तथा (वाजम् दिवेदिवे सस्निः) प्रतिदिन संग्राम के लिये सैनिक विभाग में तत्पर रहते हैं (गोपाः उ अश्वसाः असि) गो अश्व आदि हितकारक जीवों के बढ़ानेवाले हैं॥२०॥
+पदार्थान्वयभाषाः -  (अमित्रियम् वृत्रम् जघ्निः) आप, जो आप की आज्ञा के प्रतिकूल है, उस पापी के हन्ता हैं। तथा (वाजम् दिवेदिवे सस्निः) प्रतिदिन संग्राम के लिये सैनिक विभाग में तत्पर रहते हैं (गोपाः उ अश्वसाः असि) गो अश्व आदि हितकारक जीवों के बढ़ानेवाले हैं॥२०॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

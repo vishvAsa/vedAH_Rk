@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व꣡ह्निर् अ꣡मर्तियः  
-सप्त꣡ पश्यति वा꣡वहिः  
-क्रि꣡विर् देवी꣡र् अतर्पयत्
+अभि᳓ व᳓ह्निर् अ᳓मर्तियः  
+सप्त᳓ पश्यति वा᳓वहिः  
+क्रि᳓विर् देवी᳓र् अतर्पयत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वह्निः- यज्ञवोढा। अमर्त्यः- मरणरहितो रसः। वावहिः- वाहकः सन्। सप्त- सप्त मूलशक्तिधाराः।  पश्यति- अवगच्छत्यनुभवति वा। क्रिविः- तासां स्वप्रवणशीलत्वेन धारकः कूपः सन्। देवीः-  अपः धाराः। अतर्पयत्॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यः **वह्निः** यज्ञस्य धुरो वोढा **अमर्त्यः** मरणरहितः **वावहिः** देवानां तृप्तेरत्यन्तं वोढा च सोमः **सप्त** नदीः **पश्यति** सोऽयं **क्रिविः** कूपरूपेण पूर्णोऽवस्थितः सन् **देवीः** नदी: **अतर्पयत्** तर्पयति ॥
@@ -153,8 +156,6 @@ The problem of the fem. referent continues here. In ab Soma, as the draught-hors
 On the hapax vā́vahi- see AiG II.2.292-93.
 
 On the always ghastly krívi- see comm. ad I.30.1 and V.44.4. Esp. in the latter passage I argue that the word often seems to be used of an equine and that it might be a deformation or hyper-Sanskritization of kaví-. Both factors are present here: the first two pādas of this vs. depict Soma as a draught horse drawing (váhniḥ … vā́vahiḥ), but we also had occasion to note ad vs. 1 above that Soma was twice identified as a kaví- there. In the published translation I default to a PN, but I do in fact think that the word has richer semantics, derived from both just mentioned uses, here. I do not see any way to convey that in a single tr. of the word, however.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -187,8 +188,6 @@ Der Gott, der fährt, der stürmend fährt, beschaut die sieben Göttinnen, Der 
 Рассматривает семь (молитв).  
 Криви насытил богинь.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

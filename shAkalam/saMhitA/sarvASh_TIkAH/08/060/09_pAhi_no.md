@@ -3,7 +3,6 @@ title = "009"
 devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पाहि꣡ नो अग्न ए꣡कया  
-पाहि꣡ उत꣡ द्विती꣡यया  
-पाहि꣡ गीर्भि꣡स् तिसृ꣡भिर् ऊर्जा᳐म् पते  
-पाहि꣡ चतसृ꣡भिर् वसो
+पाहि᳓ नो अग्न ए᳓कया  
+पाहि᳓ उत᳓ द्विती᳓यया  
+पाहि᳓ गीर्भि᳓स् तिसृ᳓भिर् ऊर्जा᳐म् पते  
+पाहि᳓ चतसृ᳓भिर् वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,6 +187,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एकया। नः- अस्मान्। अग्ने। पाहि- रक्ष। उत- अपि च। द्वितीयया वाचा। पाहि। तिसृभिः।  गीर्भिः- वाग्भिः। पाहि। ऊर्जां पते- प्राणस्य अधिपते। वसो- शरण्य। चतसृभिः। पाहि॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **नः** अस्मान **एकया** ऋचा गिरा **पाहि** रक्ष । **उत** अपि च **द्वितीयया** ऋचा **पाहि** पालय । **पाहि** **तिसृभिः** **गीर्भिः** **ऊर्जाम्** अन्नानां बलानां वा **पते** स्वामिन् । तथा **पाहि** **चतसृभिः** गीर्भिर्हे **वसो** वासकाग्ने ॥
@@ -211,7 +214,7 @@ Four: ṛk, **yajuṣ**, **sāman** and **nigada**
 
 Protect us with one, Agni, and protect us with a second.  
 Protect us with three hymns, o lord of nourishments; protect us with  four, o good one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -243,8 +246,6 @@ O Agni, schütz mit einer Burg und schütze mit der zweiten uns, Mit dreien Burg
 Защити тремя словами, о господин питательных сил,  
 Защити четырьмя, о Васу!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

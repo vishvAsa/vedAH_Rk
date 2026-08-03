@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-जुष꣡स्व सप्र꣡थस्तमं  
-व꣡चो देव꣡प्सरस्तमम्  
-हव्या꣡ जु꣡ह्वान आस꣡नि
+जुष᳓स्व सप्र᳓थस्तमं  
+व᳓चो देव᳓प्सरस्तमम्  
+हव्या᳓ जु᳓ह्वान आस᳓नि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -114,6 +112,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सप्रथस्तमम्- अतिशयेन विस्तीर्णम्। देवप्सरस्तमम्- अतिशयेन देवप्रीतिकरम्। वचः- मन्त्रम्।  जुषस्व- सेवस्व। आसनि- अग्नेर्मुखे। हव्या- हवींषि। जुह्वानः- समर्पयन् भव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **सप्रथस्तमम्** अतिशयेन विस्तीर्णं **वचः** स्तोत्रलक्षणमस्मदीयं वचनं **जुषस्व** सेवस्व । कीदृशम् । **देवप्सरस्तमं** देवानां प्रीणयितृतमम् । किं कुर्वन् । **आसनि** तवास्ये **हव्या** हव्यानि स्तोकलक्षणानि हवींषि **जुह्वानः** प्रक्षिपन् । इमानि स्तोकलक्षणानि हवींषि वृथा मा भूवन् तत्सर्वं त्वदीयेन मुखेन स्वीकुर्वित्यर्थः ॥ देवप्सरस्तमम् ।' स्पृ प्रीतिबलयोः । देवान् स्पृणोति प्रणयतीति देवप्सराः ।' गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारपकारयोः स्थानविपर्ययः। अतिशयेन देवप्सरा देवप्सरस्तमः । जुह्वानः । जुहोतेर्व्यत्ययेन शानच् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । आसनि । ' पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः ।
@@ -131,7 +134,7 @@ _________
 
 Take delight in the most extensive speech, which affords most delight to  the gods,  
 while pouring the oblations into your own mouth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
@@ -171,8 +174,6 @@ Nimm an das Lied, das weit erschallt, der Götter schönstes Labsal ist, Den Tra
 Речь, больше всех служащую к усладе богов,  
 Когда ты совершаешь устами жертвенные возлияния!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

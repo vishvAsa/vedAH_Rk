@@ -3,7 +3,6 @@ title = "016"
 devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्रा꣡स्मा ऊ꣡र्जं घृतश्चु꣡तम्  
-अ꣡श्विना य꣡छतं युव꣡म्  
-यो꣡ वां सुम्ना꣡य तुष्ट꣡वद्  
-वसूया꣡द् दानुनस् पती
+प्रा᳓स्मा ऊ᳓र्जं घृतश्चु᳓तम्  
+अ᳓श्विना य᳓छतं युव᳓म्  
+यो᳓ वां सुम्ना᳓य तुष्ट᳓वद्  
+वसूया᳓द् दानुनस् पती
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,6 +171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वसुयात्- सम्पदमिच्छन्। सुम्नाय- सुखाय। वाम्- युवाम्। दानुनस्पाती- दानपालकौ।  तुस्तुवत्- अस्तुवत्। अस्मै- तस्मै। अश्विना- हे अश्विनौ। युवम्- युवाम्। घृतश्चुतम्-  ज्योतिःस्रावकम्। ऊर्जं- प्राणं बलम्। ऊर्ज प्राणबलयोः। यच्छतम्- दत्तम्॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अश्विना** अश्विनौ **अस्मै** स्तोत्रे **घृतश्चुतं** घृतधारया युक्ताम् **ऊर्जं** बलकरमन्नरसं **युवं** युवां **प्र** **यच्छतं** दत्तम् । हे **दानुनस्पती** दानस्याधिपती **वां** युवां **सुम्नाय** सुखार्थं **यः** **तुष्टवत्** स्तुयात् । यश्च **वसूयात्** वसु धनमात्मन इच्छेत् । अस्मा इत्यन्वयः ॥
@@ -190,7 +193,7 @@ _________
 
 O Aśvins, offer nourishment dripping with ghee to him  
 who will praise you for your favor and will seek goods from you, o lords  of the drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
@@ -225,8 +228,6 @@ Diesem [Vatsa] reichet ihr beide, o Ritter, Speise die von Butter trieft, ihm, d
 (Того,) кто восхваляет вас за доброжелательность,  
 Жаждя добра, о повелители росы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

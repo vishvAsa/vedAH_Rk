@@ -3,7 +3,6 @@ title = "006"
 devataa = "पवमानः सोमः"
 RShiH = "चक्षुर्मानवः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अस्म꣡भ्यं गातुवि꣡त्तमो  
-देवे꣡भ्यो म꣡धुमत्तमः  
-सह꣡स्रं याहि पथि꣡भिः क꣡निक्रदत्
+अस्म᳓भ्यं गातुवि᳓त्तमो  
+देवे᳓भ्यो म᳓धुमत्तमः  
+सह᳓स्रं याहि पथि᳓भिः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -126,6 +124,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्मभ्यम्- नः। गातुवित्तमः- अतिशयेन मार्गज्ञः सन्। देवेभ्यः- देवताभ्यः। मधुवित्तमः-  अतिशयेन मधुरः सन्। कनिक्रदत्- शब्दयन्। पथिभिः- सुमार्गैः। सहस्रम्- सहस्रधारया। याहि-  आगच्छ॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **अस्मभ्यं** **गातुवित्तमः** अत्यन्तं मार्गस्य लम्भकः तथा **देवेभ्यः** च **मधुमत्तमः** अत्यन्तं स्वादुकारी त्वं **कनिक्रदत्** शब्दं कुर्वन् **सहस्रं** **पथिभिः** बहुभिर्मार्गैः **याहि** कलशमागच्छ ॥
@@ -143,7 +146,7 @@ _________
 
 The best finder of the way for us, most honeyed for the gods,  
 drive along your thousand paths, ever roaring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
@@ -176,8 +179,6 @@ Der du uns freiste Bahn verschaffst, und schönsten Meth der Götterschar, Auf t
 Самый богатый медом для богов,  
 Двигайся тысячей путей, громко ревя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

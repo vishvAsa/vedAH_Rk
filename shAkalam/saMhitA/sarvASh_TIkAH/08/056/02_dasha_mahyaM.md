@@ -3,7 +3,6 @@ title = "002"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-द꣡श म꣡ह्यम् पौतक्रतः꣡  
-सह꣡स्रा द꣡स्यवे वृ꣡कः  
-नि꣡त्याद् रायो꣡ अमंहत
+द᳓श म᳓ह्यम् पौतक्रतः᳓  
+सह᳓स्रा द᳓स्यवे वृ᳓कः  
+नि᳓त्याद् रायो᳓ अमंहत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -127,6 +125,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पौतक्रतः- हे पूतक्रतो। मह्यम्। दश सहस्रा- प्रभूतान्। दस्यवे- दस्यून्। विभक्तिव्यत्ययः। वृकः-  छिन्नवान्। नित्यात्- सनातनात् त्वत्तः। रायः- सम्पदः। अमंहत- दानशीला यच्छन्ति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -162,8 +165,6 @@ Dasjavevrika, der Sohn der Pūtakratā, schenkte mir zehntausend aus seinem eign
 Даровал мне десять тысяч  
 Из своего собственного богатства.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,9 +1,0 @@
-+++
-title = "०९ अग्निर्जनिता स मेऽमूम्"
-
-+++
-9. (With the words,) 'Agni is the begetter; may he give to me N.N. as my wife; svāhā!
-
-'Soma is rich in wives; may he make me rich in wives by N.N.; svāhā!
-
-'Pūṣan is rich in kindred; may he make me rich in kindred by the father, the mother, the brothers of N.N.; svāhā!'

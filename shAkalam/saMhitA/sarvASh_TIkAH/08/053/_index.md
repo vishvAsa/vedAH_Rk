@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A fairly conventional Indra hymn, which begins with a string of superlatives  ap
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५३  मेध्यः काण्वः।इन्द्रः। प्रगाथः (विषमा बृहती समा सतोबृहती)।
 </details>

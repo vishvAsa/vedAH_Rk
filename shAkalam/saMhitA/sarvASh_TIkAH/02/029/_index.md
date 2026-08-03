@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The poet calls on various gods, especially the Ādityas, for protection from per
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२९  कूर्मो गार्त्समदो, गृत्समदो वा।विश्वेदेवाः। त्रिष्टुप्
 </details>

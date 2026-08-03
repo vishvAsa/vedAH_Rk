@@ -1,6 +1,5 @@
 +++
 title = "+071"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ In short, in terms of structure this hymn neither follows a point-to-point traje
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७१ पराशरः शाक्त्यः। अग्निः। त्रिष्टुप्।
 </details>

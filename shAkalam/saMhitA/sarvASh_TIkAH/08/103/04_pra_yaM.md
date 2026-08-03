@@ -3,7 +3,6 @@ title = "004"
 devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ यं꣡ राये꣡ नि꣡नीषसि  
-म꣡र्तो य꣡स् ते वसो दा꣡शत्  
-स꣡ वीरं꣡ धत्ते अग्न उक्थशंसि꣡नं  
-त्म꣡ना सहस्रपोषि꣡णम्
+प्र᳓ यं᳓ राये᳓ नि᳓नीषसि  
+म᳓र्तो य᳓स् ते वसो दा᳓शत्  
+स᳓ वीरं᳓ धत्ते अग्न उक्थशंसि᳓नं  
+त्म᳓ना सहस्रपोषि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+२    यम्। राये- दानयोग्यसम्पदे। प्र- प्रकर्षेण। निनीषसि- नेतुमिच्छसि। यः। वसो- शरण्य। मर्तः-  मर्त्यः। ते- तुभ्यम्। दाशत्- यच्छति। सः। अग्ने। उक्थशंसिनम्- मन्त्रस्तुतम्। सहस्रपोषिणम्-  अनन्तपोषकम्। वीरम्- वीर्यसम्पन्नमिन्द्रमीशनाधिदैवतम्। त्मना- स्वतः। धत्ते- धारयति॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वसो** वासक **अग्ने** त्वं **यं** तव स्तोतारं **राये** धनार्थं **प्र** **निनीषसि** प्रणेतुमिच्छसि **यः** च **मर्तः** मनुष्यः **ते** तुभ्यं **दाशत्** हवींषि प्रयच्छति **सः** मनुष्यः **उक्थशंसिनम्** उक्थानां शंसितारं **त्मना** आत्मनैव सहस्रपोषिर्ण बहुधनं **वीरं** पुत्रं **धत्ते** धारयति ॥
@@ -228,7 +231,7 @@ A lord of great wealth:sahasrapoṣiṇa = bahudhanam, nourisher of thousands
 The mortal whom you wish to lead forward for wealth, who does pious  service for you, good one,  
 he acquires a hero who proclaims solemn speech, who fosters a  
 thousand by himself, o Agni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
@@ -263,8 +266,6 @@ Der Mensch, den du zu Reichthum führst, der dir, o Guter, huldiget, O Agni, der
 Он получает сына, о Агни, который способен произносить гимн,  
 Который сам по себе взращивает тысячу (быков).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

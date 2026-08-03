@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वाद्भ्यो꣡ अ꣡दाभियः  
-प꣡वस्व ओ꣡षधीभियः  
-प꣡वस्व धिष꣡णाभियः
+प᳓वस्वाद्भ्यो᳓ अ᳓दाभियः  
+प᳓वस्व ओ᳓षधीभियः  
+प᳓वस्व धिष᳓णाभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -108,6 +106,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अदाभ्यः- अदम्भनीय। अद्भ्यः- जीवोदकेभ्यः। पवस्व- क्षर। ओषधीभ्यः- भौमभोगेभ्यः  वीरुद्भ्यो वा। पवस्व। धिषणाभ्यः- धीभ्यः। पवस्व॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वम् **अद्भ्यः** वसतीवरीभ्यः **अदाभ्यः** अंशुभ्यश्च **पवस्व** क्षर । अपि च **ओषधीभ्यः** **पवस्व** क्षर। किंच **धिषणाभ्यः** ग्रावभ्यः **पवस्व** क्षर ॥
@@ -146,10 +149,6 @@ Läutere dich für die Gewässer, ohne dich betören zu lassen, läutere dich f�
 
 Trugloser, riesle aus der Flut und riesle aus den Kräutern her Und aus den Schalen riesle hell.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

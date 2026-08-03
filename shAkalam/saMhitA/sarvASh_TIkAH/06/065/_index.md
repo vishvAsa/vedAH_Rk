@@ -1,6 +1,5 @@
 +++
 title = "+065"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In virtual mirror-image to the previous hymn, this one begins with a single Dawn
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६५  बार्हस्पत्यो भरद्वाजः।उषाः। त्रिष्टुप्।
 </details>

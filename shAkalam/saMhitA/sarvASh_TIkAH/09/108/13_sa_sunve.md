@@ -3,7 +3,6 @@ title = "013"
 devataa = "पवमानः सोमः"
 RShiH = "ऋणंचयः"
 ChandaH = "गायत्री यवमध्या"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री यवमध्या"
 - छन्दः - गायत्री यवमध्या
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ सुन्वे यो꣡ व꣡सूनां᳐  
-यो꣡ राया꣡म् आनयिता꣡+ य꣡ इ꣡ळाना᳐म्  
-सो꣡मो यः꣡ सुक्षितीना᳐꣡म्
+स᳓ सुन्वे यो᳓ व᳓सूनां᳐  
+यो᳓ राया᳓म् आनयिता᳓+ य᳓ इ᳓ळाना᳐म्  
+सो᳓मो यः᳓ सुक्षितीना᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वसूनाम्- संपदाम्। रायाम्- दानयोग्यधनानाम्। इळानाम्- मन्त्राणाम्। सुक्षितीनाम्-  सुभूमिकानाम्। दाता। सः। सोमः- रसः। सुन्वे- निष्पन्नः॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सः** सोमः **सुन्वे** अभिसुषुव ऋत्विग्भिः । **यः** सोमः **वसूनां** धनानाम् **आनेता** **यः** च **रायाम्** । रान्ति प्रयच्छन्ति क्षीरादिकमिति रायो गावः । तेषामानेता **यः** च **इळानाम्** अन्नानां च **यः** च **सोमः** **सुक्षितीनां** सुनिवासानां शोभनमनुष्ययुक्तानां गृहाणामानेता विद्यते सोऽभिषुतोऽभूदिति ॥
@@ -177,7 +180,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 He is pressed—who is the leader of goods, of riches, of Iḍā-offerings, Soma, who (is the leader) of good settlements,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
@@ -211,8 +214,6 @@ Gepresst ist er der Güter bringt, der reichen Schatz und Labetränke zu uns fü
 Кто – богатств, кто – возлияний,  
 Сома, кто (поставщик) хороших поселений.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

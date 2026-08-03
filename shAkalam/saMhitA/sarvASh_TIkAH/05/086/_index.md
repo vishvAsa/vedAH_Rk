@@ -1,6 +1,5 @@
 +++
 title = "+086"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Although Agni and Indra separately receive the largest number of R̥gvedic hymns
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni The hymn begins with the voc. dual dvandva índrāgnī, and a form of that cmpd is found in 2d, 4b, 6a; vss. 3 and 5, which lack the cmpd., begin with dual pronouns (táyoḥ and tā́respectively), while dual forms of both the demonst. and the rel. pronoun are also common elsewhere in the hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८६  भौमोऽत्रिः।इन्द्राग्नी। अनुष्टुप्, ६ विराट्पूर्वा ।
 </details>

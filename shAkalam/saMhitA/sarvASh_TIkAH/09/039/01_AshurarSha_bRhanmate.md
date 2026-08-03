@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आशु꣡र् अर्ष बृहन्मते  
-प꣡रि प्रिये꣡ण धा꣡मना  
-य꣡त्र देवा꣡ इ꣡ति ब्र꣡वन्
+आशु᳓र् अर्ष बृहन्मते  
+प᳓रि प्रिये᳓ण धा᳓मना  
+य᳓त्र देवा᳓ इ᳓ति ब्र᳓वन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियेण धाम्ना- प्रियसदनेनर्तेन। परि- परितः। यत्र देवाः- देवान् प्रति गच्छामि। इति। ब्रवन्-  वदन्। बृहन्मते- महामते। आशुः- शीघ्रः सन्। अर्ष- गच्छ॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **बृहन्मते** महामते सोम **प्रियेण** देवानां प्रियतमेन **धाम्ना** शरीरेण धारया **आशुः** शीघ्रः सन् **परि** **अर्ष** परिगच्छ । **यत्र** **देवाः** इन्द्रादयो वर्तन्ते **इति** **ब्रवन** ब्रुवन् उच्चारयन् । तां दिशं गच्छामीति ब्रुवन्नित्यर्थः ॥
@@ -194,10 +197,6 @@ Fließe schnell ab, du Hochgesinnter, in deiner angenehmen Form, dorthin, wo man
 
 O hochgesinnter, ströme schnell durch den geliebten Ort dahin, »Wo Götter sind«, das ist dein Wort.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

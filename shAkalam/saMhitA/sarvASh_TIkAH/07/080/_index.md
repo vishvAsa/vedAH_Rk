@@ -1,6 +1,5 @@
 +++
 title = "+080"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This very brief hymn, a mere three verses, sketches the main outlines of Dawn’
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८०  मैत्रावरुणर्वसिष्ठः।उषसः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ seen in verse 5, with Soma (if this identification is correct) on his way to the
 Several features disturb this simplistic sketch of the hymn. First, the journey is  also conceived of as a wedding journey; in addition to verse 3 (to be discussed) see  especially the “wooers” in verse 1 and the bridal procession in verse 4. Moreover, the  middle verse of this portion of the hymn, verse 3, has a pronounced omphalos char  
 acter. It announces itself as a wonder, and then produces three striking paradoxes: the  son who knows his parents’ birth (pāda b), the wife who conveys her husband on the  bridal journey (pāda c), and the same role reversal seen from the husband’s point of  view, a bridal procession made for the man (pāda d). It is difficult to know exactly what  to make of this, but it appears that Indra’s journey to the sacrifice is being imagined as  the wedding journey of a bride. The hyper-virile Indra is in some sense filling the pas  
 sive role of bride—a fine conceit, though one that the poet does not over-emphasize. The focus on the “seat” in verse 4, quite possibly the hearth, as well as the first  paradox of verse 3, the son who knows his parents’ birth, a typical Agni trope, turn  our attention to that god in the second part of the hymn. The installation and kin dling of the ritual fire are the subject, and the mythic model is the well-known tale of  Agni’s flight, concealment in the waters, and recovery (vs. 6ab). The narrator owes his  knowledge of this to Indra (6cd); in verse 7 he makes a general statement about the  value of instruction for the uninitiated. This short sequence is reminiscent of nearby  X.28, in which Indra acts as the instructor of the callow. Verse 8 returns to Agni and  describes the kindling of a dormant fire. The enigmatic verse 9 presents itself as a  sort of reverse dānastuti, though with the identity of the speakers being somewhat  unclear.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३२  कवष ऐलूषः। इन्द्रः। जगती, ६-९ त्रिष्टुप्
 </details>

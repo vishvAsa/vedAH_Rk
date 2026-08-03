@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+038"
 <details><summary>Jamison Brereton</summary>
 
 38 (334)  
-Heaven and Earth (1), Dadhikrā (2–10)  
+Heaven and Earth (1), Dadhikrā (2–10)  
 Vāmadeva Gautama  
 10 verses: triṣṭubh  
 This hymn and the next two (IV.39–40) are dedicated to a horse known as  Dadhikrā(van), a prizewinning racer and a warhorse. Although no doubt in part  referring to a real horse belonging to Trasadasyu, king of the Pūrus, it also repre sents the sacrificial horse of the great royal sacrifice, the Aśvamedha, and a symbol  of Pūru, and then general Ārya, hegemony. In this capacity it is compared to the  sun, in the last, triumphal verse.  
@@ -24,4 +23,10 @@ Although the Anukramaṇī assigns the first verse to Heaven and Earth, it is mo
 <details><summary>Jamison Brereton Notes</summary>
 
 Dadhikrā The middle vss. of this hymn are introduced by repeated utá sma (5, 6, 8, 9), varied by utá syá in 7. As noted in the published introduction, this sequence of ‘and’s adds to the sense of speed.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३८   वामदेवो गौतमः। दधिक्रा, १ द्यावापृथिवी। त्रिष्टुप्
 </details>

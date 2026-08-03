@@ -1,9 +1,0 @@
-+++
-title = "०३ उपलिप्त उद्धतावोक्षितेऽग्निं प्रणीय"
-
-+++
-3 [^3] . To a place that has been smeared (with cow-dung), which is elevated, and which has been sprinkled (with water), he carries forward the fire,
-
-
-[^3]:  On the Agni-praṇayana comp. the details given in the Gṛhya-saṃgraha-pariśiṣṭa (Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. xxxv), I, 64-69.
-

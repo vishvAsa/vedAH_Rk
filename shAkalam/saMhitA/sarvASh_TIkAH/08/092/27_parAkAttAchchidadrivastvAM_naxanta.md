@@ -3,7 +3,6 @@ title = "027"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पराका꣡त्ताच् चिद् अद्रिवस्  
-तुवां꣡ नक्षन्त नो गि꣡रः  
-अ꣡रं गमाम ते वय꣡म्
+पराका᳓त्ताच् चिद् अद्रिवस्  
+तुवां᳓ नक्षन्त नो गि᳓रः  
+अ᳓रं गमाम ते वय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पराकात्तात्- दूरात्। नः- अस्माकम्। गिरः- वाचः। अद्रिवः- वज्रिन्। नक्षन्त- व्याप्नुवन्तु।  वयम्। ते- तव सम्पदम्। अरम्- अलम्। गमाम- गच्छाम॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अद्रिवः** वज्रवन्निन्द्र **नः** अस्मदीयाः **गिरः** इतो निर्गताः स्तुतयः **पराकात्तात्** । **चित्** अप्यर्थः । अतिदूरादपि **त्वां** **नक्षन्त** व्याप्नुवन्तु । किमुत समीपात्त्वामश्नुवतामिति । नक्षतेर्व्याप्तिकर्मणो नशतेर्वा' लेटि सिपि रूपम् । एवं सति स्तोतारः **वयं** **ते** त्वदीयं धनम् **अरम्** अलं पर्याप्तं **गमाम** त्वत्तो गच्छाम ॥
@@ -162,7 +165,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Even from a distance our hymns reach you, possessor of the stone. Let us go fittingly to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
@@ -191,10 +194,6 @@ Auch von ferne sollen dich, du Herr des Preßsteins, unsere Lobreden erreichen; 
 
 Auch aus der Fern' o Schleuderer erreich' dich unser Lieder Schall; Wir mögen kommen dir zu pass.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

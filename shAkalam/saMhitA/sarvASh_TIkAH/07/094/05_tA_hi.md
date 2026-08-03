@@ -3,7 +3,6 @@ title = "005"
 devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ हि꣡ श꣡श्वन्त ई꣡ळत  
-इत्था꣡ वि꣡प्रास ऊत꣡ये  
-सबा꣡धो वा꣡जसातये
+ता᳓ हि᳓ श᳓श्वन्त ई᳓ळत  
+इत्था᳓ वि᳓प्रास ऊत᳓ये  
+सबा᳓धो वा᳓जसातये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ता- तौ। हि- खलु। शश्वन्तः- बहवः। विप्रासः- मेधाविनः। सबाधः- वृत्रबाधिताः। वाजसातये-  सद्गतिलब्धये। इत्था- एवम्। ऊतये- रक्षायै। ईळते- स्तुवन्ति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ता** **हि** तौ खल्विन्द्राग्नी **शश्वन्तः** बहवः विप्रासः मेधाविनो जनाः **ऊतये** रक्षणाय **इत्था** इत्थमनेन प्रकारेण **ईळते** स्तुवन्ति । तथा **सबाधः** समानं बाधमानाः परस्परं बाध्यमाना जनाः **वाजसातये** अन्नलाभाय तावेवेन्द्राग्नी ईळते स्तुवन्ति । यद्वा वाजसातिरिति संग्रामनाम । संग्रामार्थम् ॥
@@ -145,7 +148,7 @@ _________
 
 For these two do the inspired poets, each and every one, reverently  invoke in just this way, for aid,  
 urgently, for the winning of prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
@@ -182,8 +185,6 @@ Denn stets aufs neue flehen euch die Sänger recht um Hülfe an Voll Eifer, und 
 Настойчиво – для приобретения награды.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -194,7 +195,7 @@ Denn stets aufs neue flehen euch die Sänger recht um Hülfe an Voll Eifer, und 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सबाधः) पीड़ित हुए (वाजसातये) यज्ञों में (विप्रासः) मेधावी लोग (ऊतये) अपनी रक्षा के लिए (इत्था) इस प्रकार (शश्वन्तः) निरन्तर (ता, हि) निश्चय करके उक्त कर्मयोगी, ज्ञानयोगी की (ईळते) स्तुति करते हैं॥५॥
+पदार्थान्वयभाषाः -  (सबाधः) पीड़ित हुए (वाजसातये) यज्ञों में (विप्रासः) मेधावी लोग (ऊतये) अपनी रक्षा के लिए (इत्था) इस प्रकार (शश्वन्तः) निरन्तर (ता, हि) निश्चय करके उक्त कर्मयोगी, ज्ञानयोगी की (ईळते) स्तुति करते हैं॥५॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+004"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A more conventionally structured hymn than the last two with less knotty phrase 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्टुप्।
 </details>

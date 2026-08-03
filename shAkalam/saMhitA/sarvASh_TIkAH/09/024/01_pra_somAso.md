@@ -3,7 +3,6 @@ title = "001"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सो꣡मासो अधन्विषुः  
-प꣡वमानास इ꣡न्दवः  
-श्रीणाना꣡ अप्सु꣡ मृञ्जत
+प्र᳓ सो᳓मासो अधन्विषुः  
+प᳓वमानास इ᳓न्दवः  
+श्रीणाना᳓ अप्सु᳓ मृञ्जत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोमासः- रसाः। प्र- प्रकर्षेण। अधन्विषुः- धावन्ति। पवमानासः- पूयमानाः। इन्दवः-  क्लेदनकराः। श्रीणानाः- आश्रिताः। अप्सु- मूलशक्तिधारासु। मृञ्जत- संस्कृता भवन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सोमासः** सोमाः **पवमानासः** पूयमानाः **इन्दवः** दीप्ताः **प्र** **अधन्विषुः** । धन्वतिर्गतिकर्मा। प्रगच्छन्ति । किंच **श्रीणानाः** गोभिः श्रयमाणाः **अप्सु** वसतीवरीषु च **मृञ्जत** मृज्यन्ते ।
@@ -135,7 +138,7 @@ _________
 
 The soma juices have run forth, the self-purifying drops.  
 Brought to readiness, they have been groomed in the waters.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
@@ -170,8 +173,6 @@ Die Soma's sind hervorgeströmt, die milchgemischten, rieselnden, Zur Reinigung 
 Паваманы, капли.  
 Украшенные (молоком), они начищаются в водах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

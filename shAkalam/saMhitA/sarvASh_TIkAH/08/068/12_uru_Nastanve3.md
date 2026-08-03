@@ -3,7 +3,6 @@ title = "012"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उरु꣡ णस् तनु꣡वे त꣡न  
-उरु꣡ क्ष꣡याय नस् कृधि  
-उरु꣡ णो यन्धि जीव꣡से
+उरु᳓ णस् तनु᳓वे त᳓न  
+उरु᳓ क्ष᳓याय नस् कृधि  
+उरु᳓ णो यन्धि जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,6 +158,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्माकम्। तन्वे- देहाय। तने- तनयाय। उरु- प्रभूतम्। कृधि- कुरु। नः। क्षयाय-  निवासाय। उरु कृधि। नः। जीवसे- जीवनाय। उरु। यन्धि- यच्छ॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **नः** अस्माकं **तन्वे** आत्मजाय **उरु** प्रभूतं **कृधि** कुरु । सामर्थ्याद्धनं सुखं वेति गम्यते । तथा **तने** तत्पुत्राय **उरु** कृधि । तथा **क्षयाय** निवासाय **उरु** कृधि । **नः** अस्माकं **जीवसे** जीवनाय **यन्धि** प्रयच्छाभिमतम् ॥
@@ -198,10 +201,6 @@ Schaff uns selbst und unseren Kindern Weite, schaff uns Weite zum Wohnsitz, gew�
 
 Uns selbst und unsrer Kinderschar und unserm Wohnsitz schaffe Raum; Gib weiten Raum zum Leben uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

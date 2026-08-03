@@ -3,7 +3,6 @@ title = "006"
 devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वृषभं꣡ चर्षणीनां᳐꣡  
-विश्व꣡रूपम् अ꣡दाभियम्  
-बृ꣡हस्प꣡तिं व꣡रेणियम्
+वृषभं᳓ चर्षणीनां᳐᳓  
+विश्व᳓रूपम् अ᳓दाभियम्  
+बृ᳓हस्प᳓तिं व᳓रेणियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -109,6 +107,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चर्षणीनाम्- दर्शनानाम्। वृषभम्- वर्षकम्। विश्वरूपम्। अदाभ्यम्- अहिंस्यम्। वरेण्यम्-  श्रेष्ठम्। बृहस्पतिम्- मेधाधिदैवतम्। वन्दे॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **चर्षणीनां** मनुष्याणां **वृषभम्** अभिमतफलवर्षकं **विश्वरूपं** व्याप्तरूपम् । यद्वा । विश्वरूपानामकगोवाहनोपेतम् । तथा च मन्त्रवर्णः -- बृहस्पतिर्विश्वरूपामुपाजत ' ( ऋ. सं. १. १६१. ६ इति । **अदाभ्यं** केनाप्यतिरस्करणीयं **वरेण्यं** सर्वैर्भजनीयं **बृहस्पतिम्** । अभिमतफलं याचे ‘ इति पूर्वेणान्वयः ॥ विश्वरूपम् ।  ‘ बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । यद्वा । विश्वरूपास्य अस्तीति अर्शआदित्वात् अच्प्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । अदाभ्यम् ।  ‘ दभेश्चेति वक्तव्यम्' इति ण्यत्प्रत्ययः ॥
@@ -125,7 +128,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 To the bull of the settled domains, having all forms, undeceivable, Br̥haspati worthy to be chosen.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
@@ -159,8 +162,6 @@ Den herrlichen Brihaspati, der allgestaltig, ungetäuscht, Des Männervolks Gebi
 Имеющему много обличий, не терпящему обмана  
 Брихаспати желанному!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

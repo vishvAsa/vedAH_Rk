@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "विराट्"
 - छन्दः - विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡विदद् द꣡क्षम् मित्रो꣡ न꣡वीयान्  
-पपानो꣡ देवे꣡भ्यो व꣡स्यो अचैत्  
-ससवा꣡न् स्तौला꣡भिर् धौत꣡रीभिर्  
-उरुष्या꣡ पायु꣡र् अभवत् स꣡खिभ्यः
+अ᳓विदद् द᳓क्षम् मित्रो᳓ न᳓वीयान्  
+पपानो᳓ देवे᳓भ्यो व᳓स्यो अचैत्  
+ससवा᳓न् स्तौला᳓भिर् धौत᳓रीभिर्  
+उरुष्या᳓ पायु᳓र् अभवत् स᳓खिभ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्रः- सखा। नवीयान्- अभिनवः। दक्षम्- शक्तिम्। अविदत्- ज्ञातवान्। पपानः-  अनुभूतियुक्तः। देवेभ्यः। वस्यः- श्रेष्ठं धनम्। अचैत्- चिनोति। ससवान्- अन्नवान्। स्तौलाभिः-  स्थूलाभिः। धतरीभिः- कम्पकाभिः प्राणवडवाभिः। उरुष्या- रक्षेच्छया। सखिभ्यः- स्वमित्रेभ्यः।  पायुः- पालकः। अभवत्- बभूव॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 स इन्द्रः **दक्षं** कर्मसु समर्थं प्रवृद्धं वा यष्टारम् **अविदत्** जानाति । कीदृशः । **मित्रः** मित्रभूतः **नवीयान्** नवतरः कल्याणतरः स्तुत्यतरो वा। स च 'पपानः सोमं पिबन् **देवेभ्यः** स्तोतृभ्यः **वस्यः** वसीयः श्रेष्ठं धनम् **अचैत्** चिनोति उपचितं करोति ददातीति यावत् । अपि च **ससवान्** । ससमित्यन्ननाम । हविर्लक्षणान्नोपेतः स इन्द्रः **स्तौलाभिः** स्थूलाभिः प्रवृद्धाभिः **धौतरीभिः** कम्पनकारिणीभिर्वडवाभिरीदृशैर्मरुद्भिर्वा युक्तः सन् **सखिभ्यः** स्तोतृभ्यः **उरुष्या** रक्षणेच्छया आगत्य **पायुरभवत्** रक्षको भवति । यद्वा । ससवानिति सनतेः क्वसौ रूपम् । स्तौलाभिधौंतरीभिः ससवान् संभजमान इति संबन्धः ॥
@@ -208,7 +211,7 @@ Implied: vaḍavābhiḥ **yuktaḥ**, joined with such mares; epithets, though 
 Our newer ally [=Soma] has found the skill. Having been drunk, he has  perceived what is better for the gods.  
 Having won with the brawny racers [?], in making broad shelter he  
 became a protector for his comrades.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -221,8 +224,6 @@ On acait as a nonce s-aor. to √cit ‘perceive’, see Narten (114).
 staulā́- here is reminiscent of the likewise impenetrable stauná- in this same maṇḍala VI.66.5. No remotely credible guesses have been proposed for these forms, or for dhautárī-; Geldner (n. 7c): “ganz dunkel” and he fails to tr. the NP; Oldenberg: “Über staulā́bhir dhautárībhiḥ scheint kein Ergebnis erreichbar”; EWA (II.762 and I.783) also throws up its hands. I am inclined to connect staulā́- and stauná- with similar words but with aspirated initial sth-, namely sthūrá- ‘brawny, sturdy’ and sthū́ṇā- ‘post’ (see comm. ad VI.66.5) respectively, but I cannot explain the phonological discrepancy.
 
 As for dhautárī-, Oldenberg tentatively suggests that it might belong with one of the roots √dhāv ‘run’ or ‘rinse’. For translational convenience I have assumed the former, but without any conviction. In any case the striking double vṛddhi -au- of these paired nominals must be meant to draw attention to the phrase.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
@@ -259,8 +260,6 @@ Es schaffte Thatkraft – der neue Freund sich, und mehr als Götter – strahlt
 Он стал широко защищать друзей.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -276,12 +275,12 @@ Es schaffte Thatkraft – der neue Freund sich, und mehr als Götter – strahlt
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे राजन् ! जो (नवीयान्) अतिशय थोड़ी अवस्थावाला (पपानः) पालन करता हुआ (मित्रः) सब का मित्र (ससवान्) अच्छे अन्नवाला (पायुः) रक्षक हुआ (स्तौलाभिः) स्थूल में हुई (धौतरीभिः) शत्रुओं को कम्पानेवाली सेनाओं से (देवेभ्यः) विद्वानों के और (सखिभ्यः) मित्रों के लिये (वस्यः) अत्यन्त वास का कारण (अचैत्) बटोरे और (उरुष्या) रक्षा करे और सब का मित्र (अभवत्) हो, वह अतुल (दक्षम्) बल को (अविदत्) पाता है ॥७॥
+पदार्थान्वयभाषाः -  हे राजन् ! जो (नवीयान्) अतिशय थोड़ी अवस्थावाला (पपानः) पालन करता हुआ (मित्रः) सब का मित्र (ससवान्) अच्छे अन्नवाला (पायुः) रक्षक हुआ (स्तौलाभिः) स्थूल में हुई (धौतरीभिः) शत्रुओं को कम्पानेवाली सेनाओं से (देवेभ्यः) विद्वानों के और (सखिभ्यः) मित्रों के लिये (वस्यः) अत्यन्त वास का कारण (अचैत्) बटोरे और (उरुष्या) रक्षा करे और सब का मित्र (अभवत्) हो, वह अतुल (दक्षम्) बल को (अविदत्) पाता है ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे मनुष्यो ! जो सब का मित्र, युवा, धन-धान्य आदि से युक्त, सब का रक्षक, बड़ी सेनावाला, विद्वान् राजा होवे, वही धार्म्मिकों के रक्षण के लिये सत्य बल को प्राप्त होवे ॥७॥
+भावार्थभाषाः -  हे मनुष्यो ! जो सब का मित्र, युवा, धन-धान्य आदि से युक्त, सब का रक्षक, बड़ी सेनावाला, विद्वान् राजा होवे, वही धार्म्मिकों के रक्षण के लिये सत्य बल को प्राप्त होवे ॥७॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

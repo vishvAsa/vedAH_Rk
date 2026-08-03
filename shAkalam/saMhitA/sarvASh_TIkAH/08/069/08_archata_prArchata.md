@@ -3,7 +3,6 @@ title = "008"
 devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्चत प्र꣡ अर्चत  
-प्रि꣡यमेधासो अ꣡र्चत  
-अ꣡र्चन्तु पुत्रका꣡ उत꣡  
-पु꣡रं न꣡ धृष्णु꣡ अर्चत
+अ᳓र्चत प्र᳓ अर्चत  
+प्रि᳓यमेधासो अ᳓र्चत  
+अ᳓र्चन्तु पुत्रका᳓ उत᳓  
+पु᳓रं न᳓ धृष्णु᳓ अर्चत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,6 +145,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रियमेधासः- प्रेमधिषणाः। अर्चत- पूजयत। प्र- प्रकर्षेण। अर्चत। उत- अपि च। पुत्रकाः-  त्वत्पुत्राः। अर्चन्तु। पुरं न- यथापुरम्। धृष्णु- शत्रुधर्षकमिन्द्रम्। अर्चत॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अध्वर्य्वादयः यूयमिन्द्रम् **अर्चत** पूजयत स्तुत्या। **प्रार्चत** प्रकर्षेणार्चतेन्द्रमेव । हे **प्रियमेधासः** प्रियमेधसंबन्धिनस्तद्गोत्रा यूयम् **अर्चत** इन्द्रम् । **पुत्रकाः** पुत्रा अपि **अर्चन्तु** इन्द्रम् । **उत** अपि च **पुरं** **न** **धृष्णु** यथा पुरं धर्षणशीलमर्चन्ति तादृशमिन्द्रम् **अर्चत** ॥
@@ -182,10 +185,6 @@ Lobsinget, hebet an, ihr Priyamedha´s, lobsinget! Es sollen die Söhnchen lobsi
 
 Auf, preiset, hebt zu preisen an o preiset, Prijamedha's ihr; Die Kinder sollen preisen auch; den kühnen preist wie eine Burg.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

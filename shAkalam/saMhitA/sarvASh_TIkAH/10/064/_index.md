@@ -1,6 +1,5 @@
 +++
 title = "+064"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,4 +17,10 @@ Making up for his restrained focus on the Ādityas in the preceding All God hymn
 Only in verses 13–14 do we reach something more interesting. In verse 13 he  expresses his hope that the Maruts will recognize their “common birth” with him,  presumably on the basis of their shared role as singers and poets (on this see also  I.87.5), as they meet at the “navel” (the loaded word of X.61–62, hymns attrib  
 uted to a different poet). The navel here must be both the sacrificial ground of the  here-and-now and the mythical point of their joint origin, before their division into  mortals and gods. In verse 14 he suggests Heaven and Earth as a model for this kin ship. Perhaps the idea is that Heaven and Earth are not divided, with Heaven taking  the gods’ side and Earth that of mortals, but they work as partners—both being  related to the gods and both accepting the sacrifice of men. In any case the kinship  that the poet has suggested he has with the Maruts as poets he asserts in another  way in verse 16, where he describes himself as a “powerfully roaring poet” (kavís tuvīrávān), the exact phrase with which he identified Br̥haspati, the wordsmith par  excellence of the gods, in verse 4.  
 The final two verses (16–17), in a different meter from the rest of the poem, are  the poet’s summary verses, both beginning with evā́ “in this way” and both men tioning the poet by name. The second of the two is also found at the end of X.63.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६४  गयः प्लातः। विश्वे देवाः। जगती, १२, १६, १७ त्रिष्टुप् ।
 </details>

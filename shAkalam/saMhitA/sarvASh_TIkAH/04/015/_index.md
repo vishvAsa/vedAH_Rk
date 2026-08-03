@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+015"
 <details><summary>Jamison Brereton</summary>
 
 15 (311)  
-Agni (1–6), Somaka Sāhadevya (7–8), Aśvins (9–10)  
+Agni (1–6), Somaka Sāhadevya (7–8), Aśvins (9–10)  
 Vāmadeva Gautama  
 10 verses: gāyatrī  
 This final hymn of the Agni cycle in Maṇḍala IV consists of ten verses. Its length  marks it as out of order in the cycle, since it follows a sequence of shorter hymns,  but its internal structure is not entirely clear. It is generally agreed that the first  three verses form a tr̥ca dedicated to Agni, and could therefore, as an independent  hymn, be properly placed in the Agni cycle. The next three verses (4–6) could also  form a tr̥ca to Agni and could likewise be properly placed, but the mention of  Sr̥ñjaya Daivavāta suggests that the final four verses (7–10), a dānastuti to Somaka  Sāhadeva, belong with verses 4–6, since Somaka’s father, Sahadeva, is elsewhere  (Aitareya Brāhmaṇa 7.34) identified as a Sr̥ñjaya.  
@@ -25,4 +24,10 @@ coristic: note the -ka-suffix characteristic of nicknames) of the patron in 7–
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १५  वामदेवो गौतमः। अग्निः, ७-८ सोमकः साहदेव्यः,९-१० अश्विनौ। गायत्री
 </details>

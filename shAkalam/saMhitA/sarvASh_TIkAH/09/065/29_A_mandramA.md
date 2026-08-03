@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मन्द्र꣡म् आ꣡ व꣡रेणियम्  
-आ꣡ वि꣡प्रम् आ꣡ मनीषि꣡णम्  
-पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
+आ᳓ मन्द्र᳓म् आ᳓ व᳓रेणियम्  
+आ᳓ वि᳓प्रम् आ᳓ मनीषि᳓णम्  
+पा᳐᳓न्तम् आ᳓ पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्द्रम्- तृप्तिकरम्। वरेण्यम्- वरणीयम्। विप्रम्- मेधाविनम्। मनीषिणम्- मनःसङ्कल्पसंपातम्।  पान्तम्- पालकम्। पुरुस्पृहम्- बहुभिः स्पृहणीयम्। आ वृणीमहे॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **मन्द्रं** मदकरं स्तुत्यं वा त्वाम् **आ** वृणीमहे । **वरेण्यं** सर्वैर्वरणीयं संभजनीयं च । किंच **विप्रं** मेधाविनं त्वाम् । तथा **मनीषिणम्** । मनस ईषा मनीषा। तद्वन्तं स्तुतिमन्तं वा त्वाम् **आ** वृणीमहे । प्रत्येकविशेषणापेक्षया आ इत्युपसर्गः कृतः । किंच **पान्तं** सर्वेषां रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं च त्वां संभजामहे ॥
@@ -161,7 +164,7 @@ _________
 
 Here the gladdening (drink), here the one worthy to be chosen, here the  inspired poet, here the inspirited one,  
 here the much coveted drink,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
@@ -186,10 +189,6 @@ Den erfreuenden, begehrenswerten, den beredten, gedankenreichen, den vielbegehrt
 
 Die Freude schafft, die herrliche, begeisterte, verständige, Die vielbegehrte, schützende,
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

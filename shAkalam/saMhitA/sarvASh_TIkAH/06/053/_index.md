@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+053"
 <details><summary>Jamison Brereton</summary>
 
 53 (494)  
-Pūsaṇ  
+Pūsaṇ  
 Bharadvāja Bārhaspatya  
 10 verses: gāyatrī, except anuṣṭubh 8  
 Pūṣan is a favorite minor god of the Bharadvājas: this short Pūṣan sequence (VI.53– 58) is the only series of hymns dedicated to Pūṣan in the R̥gveda. This particular  hymn begins with gentle and positive requests of the god (vss. 1–2), but quickly  becomes more bloodthirsty, seeking Pūṣan’s punishment against stingy patrons. The  instruments of punishment are the homely tools of Pūṣan, his awl (vss. 5–8) and goad  (vs. 9). Despite the apparent viciousness of the actions urged on Pūṣan, the short  lines, repeated phrases, colloquial expressions, and phonetic figures (what is trans  
@@ -21,4 +20,10 @@ lated anachronistically as “shred them, make them shrapnel” in vss. 7–8 is
 <details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan Although, as noted in the published introduction, this hymn is remarkably bloodthirsty, there is also a minor theme focusing on poetry and poetic formulation. The word dhī́- ‘poetic vision’ is found in the first and last vss., shaping a faint ring, as well as in vs. 4. And Pūṣan is called kaví- in vs. 5, and his awl is the ‘impeller of the bráhman-’ (brahma-códanī-) in vs. 8.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५३  बार्हस्पत्यो भरद्वाजः।पूषा। गायत्री, ८ अनुष्टुप्।
 </details>

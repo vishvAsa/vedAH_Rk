@@ -3,7 +3,6 @@ title = "015"
 devataa = "वाक्"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ससर्परी꣡र् अ꣡मतिम् बा꣡धमाना  
-बृह꣡न् मिमाय जम꣡दग्निदत्ता  
-आ꣡ सू꣡रियस्य दुहिता꣡ ततान  
-श्र꣡वो देवे꣡षु अमृ꣡तम् अजुर्य꣡म्
+ससर्परी᳓र् अ᳓मतिम् बा᳓धमाना  
+बृह᳓न् मिमाय जम᳓दग्निदत्ता  
+आ᳓ सू᳓रियस्य दुहिता᳓ ततान  
+श्र᳓वो देवे᳓षु अमृ᳓तम् अजुर्य᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -185,6 +183,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ससर्परीः- सर्वत्र सर्पणशीला वाक्। अमतिम्- अज्ञानम्। बाधमाना। जमदग्निदत्ता-  ज्वलदग्निदत्ता। बृहत्- महत्। मिमाय- शब्दितवती। सूर्यस्य दुहिता- ज्ञानोदयदेवता। देवेषु-  द्योतनशक्तिषु। अजुर्यं- जरारहितम्। अमृतम्। श्रवः- अतीन्द्रियश्रवणम्। आ ततान-  विस्तृतवती॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जमदग्निदत्ता** जमदग्निभिः प्रज्वलिताग्निभिर्ऋषिभिरस्मभ्यं दत्ता **अमतिम्** अज्ञानं **बाधमाना** **ससर्परीः** सर्वत्र शब्दरूपतया सर्पणशीला वाक् **बृहत्** प्रभूतं यथा भवति तथा **मिमाय** नभसि शब्दं करोति । सैषा **सूर्यस्य** **दुहिता** वाग्देवता **देवेषु** इन्द्रादिषु **अजुर्यं** क्षयरहितम् **अमृतम्** अमृतलक्षणं **श्रवः** अन्नम् **आ** **ततान** समन्तात् स्वाहाकारवाचा' तनोति ॥ जमदग्निदत्ता । ‘दाण् दाने' इत्यस्य निष्ठायां ‘दो दद्धोः' इति ददादेशः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः । अजुर्यम् । ‘जॄ वयोहानौ '। ऋहलोर्ण्यत्'। ‘ बहुलं छन्दसि' इत्युत्वम् ।' नञ्सुभ्याम् ' इत्यन्तोदात्तत्वम् ॥२१॥
@@ -208,7 +211,7 @@ Given by Jamadagni: jamadagni **dattā** = given by the ṛs;is maintaining a bl
 The squirming, sappy (cow called) Sasarparī, given by the Jamadagnis,  banishing neglect, has bellowed loftily.  
 (She like) the Daughter of the Sun has stretched (their [=the  
 Jamadagnis’]) fame, immortal and unaging, to the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
@@ -254,8 +257,6 @@ Die reichlich strömende Kuh [siehe Anmerkungen], die den Mangel abwehrt, brüll
 Дочь солнца протянула славу  
 Среди богов, бессмертную, нестареющую.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

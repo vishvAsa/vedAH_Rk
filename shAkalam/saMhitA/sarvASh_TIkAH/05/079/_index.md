@@ -1,6 +1,5 @@
 +++
 title = "+079"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The usual attention to Dawn’s beauty, her first appearance, her journey, her  
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn The meter of this hymn is Paṅkti, with five 8-syllable pādas. The fifth in all vss. is the refrain, a voc. phrase sújāte aśvasūnṛte “o well-born lady, liberal with horses,” which is essentially detachable. So the hymn comes across as standard Anuṣṭubh, with an appended and superfluous refrain. As indicated in the published translation, the contents are for the most part uninspired, contrary to most Dawn hymns, though closer inspection reveals more intricate patterns than a superficial reading turned up.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७९  सत्यश्रवा आत्रेयः।उषाः। पङ्क्तिः ।
 </details>

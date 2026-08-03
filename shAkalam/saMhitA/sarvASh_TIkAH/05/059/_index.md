@@ -1,6 +1,5 @@
 +++
 title = "+059"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn is constructed around a series of similes and metaphors, some of which
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५९ श्यावाश्व आत्रेयः।मरुतः। जगती, ८ त्रिष्टुप्।
 </details>

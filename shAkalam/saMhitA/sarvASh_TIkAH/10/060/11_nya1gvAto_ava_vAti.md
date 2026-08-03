@@ -3,7 +3,6 @@ title = "011"
 devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡अग् वा꣡तो अ꣡व वाति  
-नि꣡अक् तपति सू꣡रियः  
-नीची꣡नम् अघ्निया꣡ दुहे  
-नि꣡अग् भवतु ते र꣡पः
+नि᳓अग् वा᳓तो अ᳓व वाति  
+नि᳓अक् तपति सू᳓रियः  
+नीची᳓नम् अघ्निया᳓ दुहे  
+नि᳓अग् भवतु ते र᳓पः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 áva ← áva (invariable)  
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वातः- वायुः। न्यक्- नीचीनम्। अव वाति। सूर्यः। न्यक्। तपति। अघ्न्या- गौः। नीचीनम्।  दुहे- दोग्धि। ते- तव। रपः- पापम्। न्यक्- नीचीनम्। भवतु। अधः पतत्विति भावः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वातः** वायुर्द्युलोकात् **न्यक्** नीचीनम् **अव** **वाति** गच्छति । **सूर्यः** च **न्यक्** **तपति** । **अघ्न्या** अहननीया गौः **नीचीनं** **दुहे** दुग्धे। एवं **ते** **रपः** पापं **न्यक्** नीचीनं **भवतु** ॥
@@ -222,8 +225,6 @@ Hernieder weht des Windes Hauch hernieder strahlt der Sonne Glut, Hernieder str�
 Вниз доится корова –  
 Вниз пусть сгинет твое повреждение!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

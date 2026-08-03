@@ -3,7 +3,6 @@ title = "015"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "उष्णिक्"
 - छन्दः - उष्णिक्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व꣡ह्नय ऊत꣡ये  
-अ꣡नूषत प्र꣡शस्तये  
-न꣡ देव वि꣡व्रता ह꣡री ऋत꣡स्य य꣡त्
+अभि᳓ व᳓ह्नय ऊत᳓ये  
+अ᳓नूषत प्र᳓शस्तये  
+न᳓ देव वि᳓व्रता ह᳓री ऋत᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,6 +147,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत् ऋतस्य तत् प्रति। विव्रता- विशेषधर्माणौ। हरी- प्राणाश्वौ। देव- हे इन्द्र। न- सम्प्रति। त्वां  वहतः। ऊतये- रक्षायै। प्रशस्तये- कीर्त्यै। वह्नयः- वोढारः। त्वाम्। अभि अनूषत-  अभिस्तुवन्ति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वह्नयः** वोढार ऋत्विजः **ऊतये** रक्षणार्थं **प्रशस्तये** प्रशस्त्यर्थं च **अभि** **अनूषत** इन्द्रमम्यष्टुवन् । 'नू स्तुतौ ' । कुटादिः । हे **देव** दानादिगुणयुक्तेन्द्र । **न** इति संप्रत्यर्थे । संप्रति **विव्रता** विविधकर्माणौ **हरी** त्वदीयावश्वौ **ऋतस्य** यज्ञस्य सत्यस्य वा संबन्धि **यत्** स्तोत्रं हविर्वा विद्यते तदभिलक्ष्य त्वां वहत इति शेषः । ॥ ३ ॥
@@ -170,7 +173,7 @@ Protection: or, for the sake of his protection andpraise
 <details><summary>Jamison Brereton</summary>
 
 The draft-horses have roared to (him) for help and for his glorification. Your two fallow bays, o god, do not follow a commandment separate  (from the one) that belongs to truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
@@ -204,8 +207,6 @@ Es jauchzten ihm die Priester zu zur Wonne, zur Verherrlichung, Nicht widerstreb
 Ради (его) помощи, ради прославления.  
 Пара (твоих) буланых коней не сопротивляется (речи), которая истинна.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

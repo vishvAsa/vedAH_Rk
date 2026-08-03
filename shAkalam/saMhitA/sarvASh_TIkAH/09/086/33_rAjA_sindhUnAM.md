@@ -3,7 +3,6 @@ title = "033"
 devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "जगती"
 - छन्दः - जगती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जा सि꣡न्धूनाम् पवते प꣡तिर् दिव꣡  
-ऋत꣡स्य याति पथि꣡भिः क꣡निक्रदत्  
-सह꣡स्रधारः प꣡रि षिच्यते ह꣡रिः  
-पुनानो꣡ वा꣡चं जन꣡यन्न् उ꣡पावसुः
+रा᳓जा सि᳓न्धूनाम् पवते प᳓तिर् दिव᳓  
+ऋत᳓स्य याति पथि᳓भिः क᳓निक्रदत्  
+सह᳓स्रधारः प᳓रि षिच्यते ह᳓रिः  
+पुनानो᳓ वा᳓चं जन᳓यन्न् उ᳓पावसुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -210,6 +208,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सिन्धूनाम्- जीवोदकानाम्। राजा- रञ्जकः। दिवः- स्वर्गस्य। पतिः- पालकः। पवते- क्षरति।  ऋतस्य- प्रकृतिनियतिभूतसत्यस्य। पथिभिः- मार्गैः। याति- गच्छति। कनिक्रदत्-  मन्त्रानशब्दयत्। वाचम्- मन्त्रम्। जनयन्- प्रकटयन्। उपावसुः- चित्तवृत्तिस्तम्भसमीपप्रापकः।  वसु स्तम्भे। पुनानः- पूयमानः। हरिः- आकर्षकः। सहस्रधारः- अनन्तधारः। परि षिच्यते-  संस्क्रियते॥३३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सिन्धूनां** नदीनामुदकानां **राजा** ईश्वरः **दिवः** **पतिः** द्युलोकस्य स्वामी **ऋतस्य** यज्ञस्य **पथिभिः** मार्गैः **कनिक्रदत्** शब्दं कुर्वन् **याति** । **सहस्रधारः** बहुधारायुक्तः सोमो नृभिर्नेतृभिर्ऋत्विग्भिः **परि** **षिच्यते** पात्रेषु । **पुनानः** पूयमानः **वाचं** शब्दं **जनयन्** उत्पादयन् **उपावसुः** उपागच्छद्घनः परि षिच्यते इति समन्वयः ॥
@@ -227,7 +230,7 @@ _________
 
 The king of rivers, the lord of heaven purifies himself. He proceeds  along the paths of truth, ever roaring.  
 The tawny one is poured around with his thousand streams as he is  being purified, begetting speech, bringing goods near at hand.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
@@ -266,8 +269,6 @@ Der Ströme König rieselt hell, des Himmels Herr, und schreitet wiehernd auf de
 В тысячу потоков золотистый разливается кругами,  
 Очищаясь, порождая речь, неся с собой блага.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

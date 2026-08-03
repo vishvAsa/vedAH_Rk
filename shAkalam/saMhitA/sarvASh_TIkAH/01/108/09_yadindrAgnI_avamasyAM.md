@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् इन्द्राग्नी अवम꣡स्याम् पृथिव्या꣡म्  
-मध्यम꣡स्याम् परम꣡स्याम् उत꣡ स्थः꣡  
-अ꣡तः प꣡रि वृषणाव् आ꣡ हि꣡ यात꣡म्  
-अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
+य᳓द् इन्द्राग्नी अवम᳓स्याम् पृथिव्या᳓म्  
+मध्यम᳓स्याम् परम᳓स्याम् उत᳓ स्थः᳓  
+अ᳓तः प᳓रि वृषणाव् आ᳓ हि᳓ यात᳓म्  
+अ᳓था सो᳓मस्य पिबतं सुत᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,6 +221,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदि। अवमस्याम्- सन्निकृष्टायाम्। पृथिव्याम्- भूम्याम्। मध्यमस्याम्- मध्यमान्तरिक्षे।  उत- अपि च। परमस्याम्- परे व्योमनि। स्थः- भवथः॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राग्नी** **अवमस्यां** पृथिव्यां संनिकृष्टायामस्यां भूम्यां **यत्** यदि **स्थः** वर्तमानौ भवथः । यदि वा **मध्यमस्यां** पृथिव्यामन्तरिक्षलोके । अत्र पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते । यथा  ‘ यो द्वितीयस्यां तृतीयस्यां पृथिव्यामस्यायुषा नाम्ना ' ( तै. सं. १. २. १२. १ ) इति । **उत** अपि च **परमस्याम्** उत्कृष्टायां दूरे वर्तमानायां पृथिव्यां द्युलोके यदि वा वर्तेथे । **अतः** सर्वस्मात् स्थानात् हे **वृषणौ** आगच्छतम् । आगमनानन्तरं सुतं सोमं **पिबतम्** ॥ अवमस्याम् । अवमशब्दादुत्तरस्य ङेर्व्यत्ययेन स्याडागमः । एवमुत्तरत्रापि ॥
@@ -240,7 +243,7 @@ _________
 
 When, o Indra and Agni, you are on the lowest earth, on the middle  one, and on the highest one,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">
@@ -275,8 +278,6 @@ Wenn, Indra-Agni, ihr im tiefsten Weltraum, im mittelsten und höchsten auch ver
 Оттуда, о два быка, возвращайтесь вы к вам  
 И напейтесь выжатого сомы!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

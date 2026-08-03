@@ -1,6 +1,5 @@
 +++
 title = "+026"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ A different structural feature pairs verse 1 with the final verse 5, in oppositi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२६  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप् ।
 </details>

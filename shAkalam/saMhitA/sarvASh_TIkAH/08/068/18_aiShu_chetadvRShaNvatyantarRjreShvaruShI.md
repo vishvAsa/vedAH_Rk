@@ -3,7 +3,6 @@ title = "018"
 devataa = "ऋक्षाश्वमेधयोर्दानस्तुतिः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अइ꣡षु चेतद् वृ꣡षण्वती  
-अन्त꣡र् ऋज्रे꣡षु अ꣡रुषी  
-सुअभीशुः꣡ क꣡शावती
+अइ᳓षु चेतद् वृ᳓षण्वती  
+अन्त᳓र् ऋज्रे᳓षु अ᳓रुषी  
+सुअभीशुः᳓ क᳓शावती
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    एषु- एतेषु। ऋज्रेषु- ऋजुगतिषु। अन्तः- मध्ये। अरुषी- रोचमाना। वृषण्वती- वर्षिणी।  स्वभीशुः- शोभनप्रग्रहा। कशावती। सुष्ठु नियमितेति भावः। वडवा। चेतत्- ज्ञायते॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **एषु** **ऋज्रेषु** ऋजुगामिष्वश्वेषु **अन्तः** मध्ये **आ** **चेतत्** आज्ञायते । का। **वृषण्वती** वर्षकैः पुमश्वैस्तद्वती **अरुषी** आरोचमाना **स्वभीशुः** शोभनप्रग्रहा **कशावती** दृप्ता वडवा ज्ञायते ॥
@@ -174,10 +177,6 @@ Unter diesen Schimmeln fällt die von Hengsten umgebene rötliche Stute mit sch�
 
 Unter ihnen zeichnet sich aus eine mit Hengstfüllen versehene Stute und unter den braunen eine lichtrothe Stute, die mit schönem Zügel und schöner Peitsche versehen ist.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

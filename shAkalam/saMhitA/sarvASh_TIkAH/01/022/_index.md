@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+022"
 <details><summary>Jamison Brereton</summary>
 
 22  
-Various Gods (Aśvins 1–4, Savitar 5–8, Agni 9–10, Gods 11, Indrāṇī, Varuṇānī, Agnāyī 12, Heaven and Earth 13–14, Earth 15, Viṣṇu or Gods 16, Viṣṇu 17–21)  
+Various Gods (Aśvins 1–4, Savitar 5–8, Agni 9–10, Gods 11, Indrāṇī, Varuṇānī, Agnāyī 12, Heaven and Earth 13–14, Earth 15, Viṣṇu or Gods 16, Viṣṇu 17–21)  
 Medhātithi Kāṇva  
 21 verses: gāyatrī  
 The Medhātithi group ends with two lengthy hymns to a variety of divini ties:  the ascriptions of the Anukramaṇī are reproduced above. As Oldenberg  points out (1888: 224–25; Noten ad loc.), both hymns can easily be broken down  into smaller hymns, which then conform to the principles of arrangement in the  Saṃhitā. The clear changes of divinity support the division of this hymn into  smaller units, although Oldenberg’s divisions do not altogether match those  of the Anukramaṇī; Oldenberg’s are clearly superior:  1–4, 5–8, 9–12, 13–15,  16–18, 19–21.  
@@ -21,4 +20,10 @@ Like the immediately preceding hymn, the first sections of this one are pri mari
 <details><summary>Jamison Brereton Notes</summary>
 
 Various divinities
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२२   मेधातिथिः काण्वः। १-४ अश्विनौ, ५-८ सविता, ९-१० अग्निः, ११ देव्यः, १२ इन्द्राणीवरुणान्यग्नाय्यः,  १३-१४ द्यावापृथिव्यौ, १५ पृथिवी, १६ विष्णुर्देवा वा, १७-२१ विष्णुः। गायत्री।
 </details>

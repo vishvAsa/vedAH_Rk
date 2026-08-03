@@ -3,7 +3,6 @@ title = "020"
 devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ वि꣡श्वानि पा꣡र्थिवाँ  
-ए꣡को व꣡सूनि प꣡त्यते  
-गि꣡र्वणस्तमो अ꣡ध्रिगुः
+स᳓ हि᳓ वि᳓श्वानि पा᳓र्थिवाँ  
+ए᳓को व᳓सूनि प᳓त्यते  
+गि᳓र्वणस्तमो अ᳓ध्रिगुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -130,6 +128,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ। हि- खलु। विश्वानि- सर्वाः। पार्थिवा- भौमाः। वसूनि- सम्पदः। एकः- असहायः।  पत्यते- ईष्टे। गिर्वणस्तमः- अतिशयेन गीर्भिः सम्भजनीयः। अध्रिगुः- अधृतगमन इति सायणः।  कुत्सितगतिरहित इति वैदिकपदानुक्रमकोशे॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **स** **हि** स खल्विन्द्रः **विश्वानि** सर्वाणि **पार्थिवा** पृथिव्यां भवानि **वसूनि** धनानि **एकः** एव **पत्यते** ईष्टे नान्यः कश्चित् । पत्यतिरैश्वर्यकर्मा । कीदृश इन्द्रः । **गिर्वणस्तमः** अतिशयेन गीर्भिः स्तुतिभिः संभजनीयः अध्रिगुः अधृतगमनः । अप्रतिहतगतिरित्यर्थः ॥ ॥ २४ ॥
@@ -147,7 +150,7 @@ _________
 
 For he alone is lord of all the good things of the earth,  
 the rich one who most longs for songs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
@@ -182,8 +185,6 @@ Denn alle Güter in der Welt besitzt der liederlustigste Allein, der mächtig sc
 Больше всех жаждущий хвалебных песен, неудержимо  
 продвигающийся.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

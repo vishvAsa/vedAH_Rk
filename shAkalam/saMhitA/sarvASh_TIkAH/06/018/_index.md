@@ -1,6 +1,5 @@
 +++
 title = "+018"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ This focus on Indra’s power betrays some nervous worry about the existence  of
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८ बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्
 </details>

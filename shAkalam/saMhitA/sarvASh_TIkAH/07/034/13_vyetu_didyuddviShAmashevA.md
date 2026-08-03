@@ -3,7 +3,6 @@ title = "013"
 devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ एतु दिद्यु꣡द् द्विषा꣡म् अ꣡शेवा  
-युयो꣡त वि꣡ष्वग् र꣡पस् तनू꣡नाम्
+वि᳓ एतु दिद्यु᳓द् द्विषा᳓म् अ᳓शेवा  
+युयो᳓त वि᳓ष्वग् र᳓पस् तनू᳓नाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,6 +121,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अशेवा- दुःखकरम्। द्विषाम्- द्वेष्टॄणाम्। दिद्युत्- प्रहरणम्। व्येतु- अपगच्छतु। विष्वक्- सर्वतः।  तनूनाम्- देहानाम्। रपः- पापम्। युयोत- पृथक्कुरुत॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **द्विषां** शत्रूणां **दिद्युत्** आयुधम् **अशेवा** असुखकरी **विष्वक्** सर्वतः **व्येतु** अपगच्छतु । **तनूनाम्** अङ्गानां **रपः** पापं देवाः **युयोत** अस्मत्तः पृथक्कुरुत ॥
@@ -140,7 +143,7 @@ _________
 
 Let the unfriendly missile of the haters go wide.  
 Keep the infirmity of bodies away, off to the side.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
@@ -173,8 +176,6 @@ Der Feinde schlimmes – Geschoss entweiche; weithin vertreibet – den Fehl der
 Отвратите со всех сторон повреждение (наших) тел!
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -195,7 +196,7 @@ Der Feinde schlimmes – Geschoss entweiche; weithin vertreibet – den Fehl der
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजजनो ! तुम, जो धार्मिक सज्जनों को पीड़ा देवें उनको दण्ड से पवित्र करो, जिससे सब ओर से सबको सुख प्राप्त हो ॥१३॥
+भावार्थभाषाः -  हे राजजनो ! तुम, जो धार्मिक सज्जनों को पीड़ा देवें उनको दण्ड से पवित्र करो, जिससे सब ओर से सबको सुख प्राप्त हो ॥१३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>

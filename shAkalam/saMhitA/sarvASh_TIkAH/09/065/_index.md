@@ -1,6 +1,5 @@
 +++
 title = "+065"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,7 +16,7 @@ title = "+065"
 <details><summary>Jamison Brereton</summary>
 
 65 (777)  
-Soma Pavamāna  
+Soma Pavamāna  
 Bhrgu V ̥ āruṇi or Jamadagni Bhārgava  
 30 verses: gāyatrī, arranged in trcas ̥  
 Even in this maṇḍala devoted to “self-purifying” Soma, the constant repetition of  that epithet and its associated verbal forms (“purify yourself,” etc.) in this hymn is  remarkable. In particular, the idiom “by purifying yourself bring here ...” (much  more economically expressed in Sanskrit by ā́ pavasva) is insistent, along with other  demands that Soma bring or convey goods here. Intermingled are verses treating the familiar details of soma preparation. All in all, the hymn seems flat, uninspired,  and repetitive.  
@@ -33,4 +32,10 @@ On the qualities of this hymn as a whole, see published introduction.
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६५  भृगुर्वारुणिर्जमदग्निर्भार्गवो वा।पवमानः सोमः। गायत्री।
 </details>

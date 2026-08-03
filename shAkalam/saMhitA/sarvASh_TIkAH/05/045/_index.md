@@ -1,6 +1,5 @@
 +++
 title = "+045"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ A brief grammatical digression is necessary here in order to show the particular
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the structure of the hymn and the grammatical patterning that supports that structure, see published introduction. Note that this patterning imposes presential renderings of the injunctives in the first three vss.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४५ सदापृण आत्रेयः।विश्वे देवाः। त्रिष्टुप्, ९ पुरस्ताज्ज्योतिः।
 </details>

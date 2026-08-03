@@ -1,6 +1,5 @@
 +++
 title = "+082"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In verse 2a there is again an ambiguity: iṣṭá may mean what is offered in s
 appear in verse 4. In that case the frame of reference is the sacrifice. That is to say,  the first verses describe both the creation of the sacrifice and the creation of the  world and thereby link the creation of the sacrifice to the creation of the world.  
 Whatever it is that Viśvakarman represents is central to these creations. He  is initially set beyond both the sacrifice and the cosmos as the “father” of poetic  vision and of the sun. But then in verse 2 he spreads throughout the sacrifice and  the world. Verse 2ab puns on his name Viśvakarman, repeating its first syllable by  the prefix vi- in vímanā “vast in mind,” víhāyā “vast in power,” and vidhātā́ “vast  distributor”—the last, the one who distributes widely. The opposite of vi-, literally  “apart,” is sam- “together, completely,” and the latter replaces vi- in 2bc in saṃdŕ̥ś “full manifestation,” a cosmic term, and sám √mad “fully invigorate,” a sacrificial  term. The lexical shifts create the sense that Viśvakarman first extends throughout  the sacrifice and the cosmos and then condenses in a perceptible form.  
 In the latter part of the poem, in verses 5–7, the poet explores the manifest forms  that Viśvakarman has taken. The best clue to the forms of Viśvakarman is the ref erence repeated in verses 5 and 6 to “the first embryo” that the waters received and  in which all the gods were manifest and gathered. That first embryo can represent  any or all of three realities. First, on the cosmic plane, it can be the sun, which rises  out of the waters. Thus Viśvakarman would be initially the father of the sun and  then, in manifest form, the sun itself. Second, on the sacrificial plane, the embryo  can be fire, or more specificially the sacrificial fire, which is the “child of the waters”  (apā́ṃ nápāt) and the form in which the presence of the gods at the sacrifice is  manifested. And third, perhaps uniting cosmos and sacrifice, the embryo can be the  king, who is reborn as the sun or as a sun-like being by means of the unction waters  in the royal consecration rite. For a clearer reference to such imagery in the royal  consecration rite, see X.121.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८२  विश्वकर्मा भौवनः। विश्वकर्मा। त्रिष्टुप्
 </details>

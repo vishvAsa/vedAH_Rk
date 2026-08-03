@@ -3,7 +3,6 @@ title = "009"
 devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सा꣡ द्युम्नइ꣡र् द्युम्नि꣡नी बृह꣡द्  
-उ꣡पोप श्र꣡वसि श्र꣡वः  
-द꣡धीत वृत्रतू꣡रिये
+सा᳓ द्युम्नइ᳓र् द्युम्नि᳓नी बृह᳓द्  
+उ᳓पोप श्र᳓वसि श्र᳓वः  
+द᳓धीत वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,6 +134,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृत्रतूर्ये- आवरणनाशने। सा। द्युम्नैः- दीप्यमानैः। द्युम्निनी- दीप्तिमती। श्रवसि- श्रुतौ। श्रवः-  श्रुतिम्। बृहत्- महतीम्। उप दधीत- धारयतु॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सा** अस्माभिः क्रियमाणा स्तुतिः **द्युम्नैः** द्योतमानैरन्नैः अस्मभ्यं प्रदेयैः **द्युम्निनी** अन्नवती **श्रवसि** पूर्वस्मिन् विद्यमानेऽन्ने पुनरपि **बृहत्** महत् **श्रवः** अन्नम् **उपोप** **दधीत** पुनरुपरि धारयतु । कुत्रेति उच्यते । **वृत्रतूर्ये** संग्रामे । शत्रोः संबन्धीति यावत् ॥
@@ -175,10 +178,6 @@ Dies an Herrlichkeit herrliche möge hohen Ruhm auf Ruhm häufen im Feindekampf.
 
 Es möge herrlich dir an Glanz zum Ruhme dir noch höhern Ruhm verleihen in der Feindesschlacht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

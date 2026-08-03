@@ -1,6 +1,5 @@
 +++
 title = "+180"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Indra
 Jaya Aindri  
 3 verses: triṣṭubh  
 Indra’s victories over his (and our) enemies are the special focus of this hymn, but  the poet does not fail to mention our interest in his gifts as well (vs. 1).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८०  जय ऐन्द्रः। इन्द्रः । त्रिष्टुप् ।
 </details>

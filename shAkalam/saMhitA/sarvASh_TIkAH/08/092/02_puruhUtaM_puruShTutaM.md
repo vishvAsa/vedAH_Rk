@@ -3,7 +3,6 @@ title = "002"
 devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पुरुहूत꣡म् पुरुष्टुतं꣡  
-गाथानि꣡यं स꣡नश्रुतम्  
-इ꣡न्द्र इ꣡ति ब्रवीतन
+पुरुहूत᳓म् पुरुष्टुतं᳓  
+गाथानि᳓यं स᳓नश्रुतम्  
+इ᳓न्द्र इ᳓ति ब्रवीतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -115,6 +113,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरुहूतम्- बहुभिः साहाय्यायाहूतम्। पुरुष्टुतम्- बहुभिः स्तुतम्। गाथान्यम्- गानयोग्यम्।  सनश्रुतम्- सनातनश्रुतिगतम्। इन्द्रः। इति। ब्रवीतन- वदत॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विग्यजमानाः **पुरुहूतं** यज्ञेषु बहुभिराहूतं **पुरुष्टुतं** बहुभिः स्तोत्रशस्त्रादिभिः स्तुतम् अत एव **गाथान्यं** गानयोग्यं गातव्यं **सनश्रुतं** सनातनतया प्रसिद्धमेवंविधं देवम् **इन्द्र** **इति** यूयं **ब्रवीतन** ब्रूयात । ‘ब्रूञ् व्यक्तायां वाचि' इत्यस्य लोटि व्यत्ययेन ध्वमस्तनबादेशः । अत एव गुणः ॥
@@ -132,7 +135,7 @@ _________
 
 Much-invoked, much-praised leader of song, famed of old—  
 call him, “Indra!”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
@@ -159,10 +162,6 @@ Den Vielgerufenen, Vielgepriesenen, Tonangebenden, den seit alters Berühmten ne
 
 Der vielgerufen, vielgelobt, Gesänge leitet weitberühmt, »Das, das ist Indra« also sprecht.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

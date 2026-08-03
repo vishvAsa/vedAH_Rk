@@ -3,7 +3,6 @@ title = "031"
 devataa = "पावमान्यध्येतृस्तुतिः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ पावमानी꣡र् अध्ये꣡ति  
-ऋ꣡षिभिः स꣡म्भृतं र꣡सम्  
-स꣡र्वं स꣡ पूत꣡म् अश्नाति  
-स्वदित꣡म् मातरि꣡श्वना
+यः᳓ पावमानी᳓र् अध्ये᳓ति  
+ऋ᳓षिभिः स᳓म्भृतं र᳓सम्  
+स᳓र्वं स᳓ पूत᳓म् अश्नाति  
+स्वदित᳓म् मातरि᳓श्वना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 adhyéti ← √i- 1 (root)  
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। ऋषिभिः- सूक्ष्मदर्शिभिः। संभृतम्- निष्पादितम्। रसम्। पावमानीः- तस्य शोधकशक्तीश्च।  अध्येति- उपास्ते। सः। मातरिश्वना- प्राणेन। स्वदितम्- स्वादूकृतम्। सर्वं- विश्वम्। पूतम्-  पवित्रम्। अश्नात्- अनुभवति॥३१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** जनः **पावमानीः** पवमानदेवताकाः सर्वा ऋचः तद्रूपम् **ऋषिभिः** सूक्तद्रष्टृभिर्मधुच्छन्दःप्रभृतिभिः **संभृतं** संपादितं **रसं** वेदरसभूतं सारं सूक्तसंघम् **अध्येति** अधीते **सः** जनः **सर्वं** भोज्यजातं **पूतं** परिशुद्धमेव अश्नाति । परिपूतं पापरहितमन्नं भक्षयति । कथमस्य पूतत्वं तत्राह । स्वस्याशनात्प्रागेव **मातरिश्वना** । मातर्यन्तरिक्षे श्वसितीति मातरिश्वा वायुः । स च वायुः पवित्रमेव । पवित्रेण वायुना **स्वदितं** स्वादूकृतं परिपूतमेवान्नं पश्चात् स नरोऽश्नाति ॥
@@ -184,7 +187,7 @@ Mātariśvan = Va+yu, because it breathes in the atmosphere, antarikṣe śvasit
 
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 that one eats the whole purified (sap), sweetened by Mātariśvan.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
@@ -221,8 +224,6 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 Сделанное Матаришваном вкусным.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमान्यध्येतृस्तुतिः
@@ -233,7 +234,7 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यः) जो जन (पावमानीः) परमैश्वर्य स्तुतिरूप ऋचाओं को (अध्येति) पढ़ता है, (सः) वह (ऋषिभिः) मन्त्रद्रष्टाओं से (संभृतं) स्पष्ट किया हुआ (रसं) ब्रह्मानन्द को(अश्नाति)भोगता है और (सर्वं) सम्पूर्ण (मातरश्विना स्वदितं) वायु से स्वादूकृत(पूतं)पवित्र पदार्थों को (अश्नाति) भोगता है॥३१॥
+पदार्थान्वयभाषाः -  (यः) जो जन (पावमानीः) परमैश्वर्य स्तुतिरूप ऋचाओं को (अध्येति) पढ़ता है, (सः) वह (ऋषिभिः) मन्त्रद्रष्टाओं से (संभृतं) स्पष्ट किया हुआ (रसं) ब्रह्मानन्द को(अश्नाति)भोगता है और (सर्वं) सम्पूर्ण (मातरश्विना स्वदितं) वायु से स्वादूकृत(पूतं)पवित्र पदार्थों को (अश्नाति) भोगता है॥३१॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>

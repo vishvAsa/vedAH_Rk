@@ -1,6 +1,5 @@
 +++
 title = "+081"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ ship, but this theme is not pursued.
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८१  कुसीदी काण्वः।इन्द्रः । गायत्री ।
 </details>

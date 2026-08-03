@@ -3,7 +3,6 @@ title = "003"
 devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ भू꣡रिपाशाव् अ꣡नृतस्य से꣡तू  
-दुरत्ये꣡तू रिप꣡वे म꣡र्तियाय  
-ऋत꣡स्य मित्रावरुणा पथा꣡ वाम्  
-अपो꣡ न꣡ नावा꣡ दुरिता꣡ तरेम
+ता᳓ भू᳓रिपाशाव् अ᳓नृतस्य से᳓तू  
+दुरत्ये᳓तू रिप᳓वे म᳓र्तियाय  
+ऋत᳓स्य मित्रावरुणा पथा᳓ वाम्  
+अपो᳓ न᳓ नावा᳓ दुरिता᳓ तरेम
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,10 +196,35 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ता- तौ। भूरिपाशा- महापाशयुक्तौ। जलग्रहणशक्तिरेव वरुणपाशः। जलस्य  ग्रहणशत्तयाख्यप्रकृतिनियतिमवमत्य यो जलेऽवगाहते तं जलग्रहणशक्तिः पातयति। तद्वदत् तं पुरुषं  प्रकृतिनियतिविरोधिनं वरुणः पाशेन गृह्णाति। अनृतस्य- प्रकृतिनियतिविरोधस्य। सेतू- बन्धकौ।  
+रिपवे मर्त्याय- शत्रवे। अनृताय मर्त्यायेति भावः। दुरत्येतू- दुरतिक्रमौ। मित्रावरुणा- मित्रावरुणौ।  वाम्- युवयोः। ऋतस्य पथा- प्रकृतिनियतिभूतसत्यानुस्यूतमार्गेण। अपः- उदकानि। नावा-  प्लवेन। न- इव। दुरिता- अघानि। प्रकृतिनियतिविरोधीनि। तरेम॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ता** तौ मित्रावरुणौ **भूरिपाशौ** प्रभूतबन्धनसाधनपाशोपेतौ **अनृतस्य** यागरहितस्य **सेतू** सेतुवद्बन्धकौ **रिपवे** **मर्त्याय** वैरिजनाय **दुरत्येतू** दुरतिक्रमौ भवतः । हे **मित्रावरुणा** तादृशौ मित्रावरुणौ **वां** युवयोः **ऋतस्य** यज्ञस्य युवयोरर्थायानुष्ठीयमानस्य यागस्य **पथा** मार्गेण **दुरिता** दुःखानि **तरेम** **नावा** **अपो** **न** प्रभूतान्युदकानीव ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+They, having many lassoes, are the two dams\* to lawlessness,
+which are difficult for a deceiving mortal to penetrate
+O mitrAvaruNA, the path of the law%, [may by] you 
+We cross difficulties like waters in a boat!
+
+\* The are peculiarly described as setu-s of anR^ita. Normally setu is understood to mean a bridge, but here should be understood as dams or bunds.
+
+% R^ita= law, i.e., the natural law of existence that is the manifestation of mitra and varuNa.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The special weapon of varuNa, pAsha (the lasso) also belongs mitra. Here both are said to have many pAsha-s. 
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
@@ -241,8 +264,6 @@ Ihr seid des Unrechts seilversehne Wehren, dem bösen Menschen nicht zu übersch
 О Митра-Варуна, (идя) путем закона, пусть благодаря вам  
 Мы пересечем трудности, словно воды, на лодке!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

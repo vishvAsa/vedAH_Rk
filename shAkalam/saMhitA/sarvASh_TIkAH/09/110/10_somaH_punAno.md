@@ -3,7 +3,6 @@ title = "010"
 devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "विराट्"
 - छन्दः - विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः पुनानो꣡ अव्य꣡ये वा꣡रे  
-शि꣡शुर् न꣡ क्री꣡ळन् प꣡वमानो अक्षाः  
-सह꣡स्रधारः शत꣡वाज इ꣡न्दुः
+सो᳓मः पुनानो᳓ अव्य᳓ये वा᳓रे  
+शि᳓शुर् न᳓ क्री᳓ळन् प᳓वमानो अक्षाः  
+सह᳓स्रधारः शत᳓वाज इ᳓न्दुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,6 +164,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सहस्रधारः- अनन्तधारः। शतवाजः- अनन्तहव्यः। इन्दुः- क्लेदनशीलः। सोमः- रसः। पुनानः-  पूयमानः। पवमानः- क्षरणशीलः। सोमः- रसः। शिशुर्न क्रीळन्- शिशुरिव विहरन्। अव्यये वारे-  सरणशीलरसस्य स्वस्थान एव रक्षाकरे उपलब्धिस्थाने । रसव्यञ्जके। रसस्य प्रवेशस्थाने।  रसतत्त्वस्य सुलभतया अवगमसाधनभूते। रसार्थयाचनसाधनभूते। रसक्रिये। रसावाप्तिसाधनभूते।  रसावरणे। रससंभक्तरि। रसवर्धके। वरणीये प्रतीके । अक्षाः- क्षरति॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पुनानः** पूयमानः **पवमानः** पूतः **सोमः** **अव्यये** अविमये **वारे** वाले पवित्रे **शिशुर्न** शिशुरिव **क्रीळन्** इतस्ततः संक्रीडमानः सन् **अक्षाः** क्षरति । कीदृशः । **सहस्रधारः** बहुधारायुक्तः **शतवाजः** बहुबलः **इन्दुः** दीप्तः ॥
@@ -183,7 +186,7 @@ _________
 
 Self-purifying Soma, being purified in the sheep’s fleece, has streamed,  playing like a child—  
 the drop possessing a thousand streams and a hundred prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
@@ -217,8 +220,6 @@ Sich klärend rann hell rieselnd Soma, hüpfend jetzt wie ein Füllen durch des 
 Павамана потек, играя, как ребенок,  
 Сок в тысячу потоков, приносящий сто наград.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

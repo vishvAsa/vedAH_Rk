@@ -3,7 +3,6 @@ title = "015"
 devataa = "श्रुतर्वण आर्क्षस्य दानस्तुतिः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सत्य꣡म् इ꣡त् त्वा महेनदि  
-प꣡रुष्णि अ꣡व देदिशम्  
-ने꣡म् आपो अश्वदा꣡तरः  
-श꣡विष्ठाद् अस्ति म꣡र्तियः
+सत्य᳓म् इ᳓त् त्वा महेनदि  
+प᳓रुष्णि अ᳓व देदिशम्  
+ने᳓म् आपो अश्वदा᳓तरः  
+श᳓विष्ठाद् अस्ति म᳓र्तियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -177,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महेनदि- हे महानदि। परुष्णि- पर्ववति। सत्यम्। इत्- एव। त्वा- त्वाम्। अव देदिशम्-  आदिशामि। आपः। शविष्ठात्- बलिष्ठात् श्रुतर्वणः। अश्वदातरः- अश्वानां दातृतमः। मर्त्यः। न।  अस्ति॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **महेनदि** **परुष्णि** एतन्नामिके **त्वा** त्वां **सत्यमित्** सत्यमेव **अव** **देदिशम्** आदिशामि वदामि । नद्याकारेण संबोध्यापः संबोधयति । हे **आपः** **ईम्** अस्मात् **शविष्ठात्** बलवत्तमाच्छ्रुतर्वणोऽधिकः कश्चित् **अश्वदातरः** अश्वानां दातृतमः **मर्त्यः** **न** **अस्ति** । परुष्ण्यास्तीरे राज्ञोऽश्वमेधप्रतिग्रहात्तां संबोध्य ब्रूते ॥ ॥ २३ ॥
@@ -217,10 +220,6 @@ Die Wahrheit versichere ich dir, du großer Strom Parusni: nicht gibt es einen S
 
 Wahrheit will ich dir verkünden, o grosser Strom Paruschni. Es gibt, o ihr Wasser, keinen Sterblichen, der mehr Rosse schenkt als Çavischtha.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

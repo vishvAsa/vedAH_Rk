@@ -3,7 +3,6 @@ title = "030"
 devataa = "दुन्दुभिः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ क्रन्दय ब꣡लम् ओ꣡जो न आ꣡ धा  
-नि꣡ ष्टनिहि दुरिता꣡ बा꣡धमानः  
-अ꣡प प्रोथ दुन्दुभे दुछु꣡ना इत꣡  
-इ꣡न्द्रस्य मुष्टि꣡र् असि वीळ꣡यस्व
+आ᳓ क्रन्दय ब᳓लम् ओ᳓जो न आ᳓ धा  
+नि᳓ ष्टनिहि दुरिता᳓ बा᳓धमानः  
+अ᳓प प्रोथ दुन्दुभे दुछु᳓ना इत᳓  
+इ᳓न्द्रस्य मुष्टि᳓र् असि वीळ᳓यस्व
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आक्रन्दय- रिपून्रोदय। नः- अस्मभ्यम्। बलम्। ओजः- तेजः। आ धाः- धारय। दुरिता-  अघानि। बाधमानः- नाशयन्। निः स्तनिहि- नितरां गर्जनं कुरु। दुन्दुभे। दुच्छुनाः- इतरबाधनेन  हृष्टान्। इतः- अस्मात् स्थानात्। अप प्रोथ- बाधस्व। इन्द्रस्य। मुष्टिरसि। वीळयस्व-  दृढीकुरु॥३०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे दुन्दुभे **आ** **क्रन्दय** अस्मच्छत्रून् रोदय । **बलं** सेनारूपम् **ओजः** शरीरबलं च **नः** अस्मभ्यम् **आ** **धाः** आधेहि । प्रयच्छ । तथा **दुरिता** दुरितानि दुर्गमनानि **बाधमानः** हिंसंस्त्वं **निः** **स्तनिहि** नितरां शब्दं कुरु ।' स्तन शब्दे' इति धातुः । हे **दुन्दुभे** **दुच्छुनाः** अस्मद्दुःखहेतुभूतं शुनं सुखं यासां तादृशीः शत्रुसेनाः **इतः** अस्मत्स्थानात **अप** **प्रोथ** बाधस्व । त्वं च **इन्द्रस्य** **मुष्टिरसि** । मुष्टिरिव शत्रूणां हन्ता भवसि । अतोऽस्मान् वीळयस्व दृढीकुरु ॥
@@ -248,7 +251,7 @@ _________
 Roar out your power. Set strength in us. Thunder down, thrusting away  difficulties.  
 Blast away misfortunes from here, o Drum. You are the fist of  
 Indra: be firm!
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
@@ -283,8 +286,6 @@ O dröhne Kraft uns zu, verleihe Stärke, Gefahren donnre fort, zurück sie stos
 Пыхтеньем прогони прочь отсюда несчастья, о барабан!  
 Ты – кулак Индры. Держись крепко!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

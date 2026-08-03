@@ -3,7 +3,6 @@ title = "015"
 devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रस्या अ꣡धि संव꣡तो  
-अ꣡वराँ अभि꣡ आ꣡ तर  
-य꣡त्राह꣡म् अ꣡स्मि ताँ꣡ अव
+प᳓रस्या अ᳓धि संव᳓तो  
+अ᳓वराँ अभि᳓ आ᳓ तर  
+य᳓त्राह᳓म् अ᳓स्मि ताँ᳓ अव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+परस्याः- अन्यस्याः। संवतः- सेनायाः। अवरान्- अधमान्। अभ्यातर- तारय। यत्र। अहम्।  अस्मि- भवामि। तान्। अव- रक्ष॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अग्ने **परस्याः** अन्यस्याः **संवतः** सेनायाः **अवरान्** अन्यानस्मदीयान् **अभि** अभिमुखम् **आ** सर्वतः **तर** तारय । वैरिसेना अस्मद्भटैः पराभावयेत्यर्थः । **यत्र** येष्वस्मदीयपरिजनमध्ये **अहमस्मि** स्वामी **तानव** रक्ष ॥
@@ -192,10 +195,6 @@ Von der anderen Seite geh zu den auf dieser Seite Stehenden über! Wo ich bin, d
 
 Aus ferner Gegend dringe du zu uns den näheren hindurch, Bei denen ich bin, denen hilf.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

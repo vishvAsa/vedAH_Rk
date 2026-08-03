@@ -3,7 +3,6 @@ title = "004"
 devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त्रो अ꣡पि प्रा꣡णीयत  
-पूत꣡क्रतायै वि꣡अक्ता  
-अ꣡श्वानाम् इ꣡न् न꣡ यूथि꣡याम्
+त᳓त्रो अ᳓पि प्रा᳓णीयत  
+पूत᳓क्रतायै वि᳓अक्ता  
+अ᳓श्वानाम् इ᳓न् न᳓ यूथि᳓याम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अश्वानां यूथ्याम्- तुरगबृन्दम्। प्राणबृन्दम्। व्यक्ता- विविधं गन्ता इन्द्रः। तत्र। अपि। पूतक्रतायै-  शोधितक्रतुयुक्तायै। प्राणीयत- प्रकर्षेण नीतवान्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -180,8 +183,6 @@ Da wurde auch der Pūtakratā eine schöngeschmückte Stute vorgeführt, die nic
 Для Путакрайи украшенную (кобылу),  
 Как если бы она принадлежала к табуну коней.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

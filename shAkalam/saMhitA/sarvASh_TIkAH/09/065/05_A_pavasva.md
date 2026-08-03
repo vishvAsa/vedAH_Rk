@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व सुवी꣡रियम्  
-म꣡न्दमानः सुआयुध  
-इहो꣡ षु꣡ इन्दव् आ꣡ गहि
+आ᳓ पवस्व सुवी᳓रियम्  
+म᳓न्दमानः सुआयुध  
+इहो᳓ षु᳓ इन्दव् आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,6 +160,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मन्दमानः- हर्षकरः सन्। स्वायुध- शोभनायुध। सुवीर्यं- शोभनवीर्यम्। आ- आभिमुख्येन।  पवस्व- क्षर। इह- अत्र। सु- सुष्ठु। इन्दो- क्लेदनशील। आ गहि- आगच्छ॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **स्वायुध** । यज्ञे स्फ्यकपालादीनि दशायुधानीत्यभिधीयन्ते । शोभनानि तानि यस्य स तथोक्तः। यद्वा । धनुरादीन्यायुधानि यस्य सः । तादृश हे सोम त्वं **मन्दमानः** मोदमानः सन् । यद्वा। अन्तर्णीतण्यर्थः । देवान् स्वयं मादयन् । **सुवीर्यं** शोभनवीर्योपेतं पुत्रादिकमस्माकम् **आ** **पवस्व** । पवतिर्गत्यर्थः । आप्रापय । किंच हे **इन्दो** ग्रहेषु चमसेषु च क्षरणशील सोम **इहो** । इह उ पदद्वयम् । उ इत्यवधारणे । इहैवास्मदीये यज्ञ एव सुष्ठु **आ** **गहि** आगच्छ ॥ ॥ १ ॥
@@ -184,7 +187,7 @@ Well-armed: or, having fine sacrificial implements, such as sphya, **kapāla**
 
 By purifying yourself bring here an abundance of heroes, you yourself  becoming exhilarated, o you of good weapons.  
 Come just here, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
@@ -211,10 +214,6 @@ Läutere uns die Meisterschaft zu, dich berauschend, du Wohlbewaffneter! Komme d
 
 O riesle Heldenkraft herbei, erfreut, o schön bewaffneter, O Indu, komme schnell hieher.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

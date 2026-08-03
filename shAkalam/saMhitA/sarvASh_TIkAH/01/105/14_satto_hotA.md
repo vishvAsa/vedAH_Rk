@@ -3,7 +3,6 @@ title = "014"
 devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,14 +11,13 @@ ChandaH = "पङ्क्तिः"
 - छन्दः - पङ्क्तिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सत्तो꣡ हो꣡ता मनुष्व꣡द् आ꣡  
-देवाँ꣡ अ꣡छा विदु꣡ष्टरः  
-अग्नि꣡र् हव्या꣡ सुषूदति  
-देवो꣡ देवे꣡षु मे꣡धिरो  
-वित्त꣡म् मे अस्य꣡ रोदसी
+सत्तो᳓ हो᳓ता मनुष्व᳓द् आ᳓  
+देवाँ᳓ अ᳓छा विदु᳓ष्टरः  
+अग्नि᳓र् हव्या᳓ सुषूदति  
+देवो᳓ देवे᳓षु मे᳓धिरो  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -207,6 +205,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सत्तः- निषण्णः। होता- आह्वाता। मनुष्वत्- अवबोधरसवदाप्तः। विदुष्टरः- विद्वत्तरः। देवान्-  द्योतनशक्तीः। अच्छा- अभिलक्ष्य। आ- मर्यादया यजति। मेधिरः- ज्ञानी। देवः- द्योतनशीलः।  अग्निः। हव्या- चरुपुरोडाशध्यानभावनात्मकानि हव्यानि। सुषूदति- क्षरणं करोति। षूद  क्षरणे॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मनुष्वत्** मनोरिवास्माकं यज्ञे **सत्तः** निषण्णः **होता** देवानामाह्वाता **विदुष्टरः** विद्वत्तरः **देवः** दानादिगुणयुक्तः **देवेषु** सर्वेष्विन्द्रादिषु मध्ये **मेधिरः** मेधावी एवंभूतः **अग्निः** तान् **देवान्** **अच्छ** आभिमुख्येन **हव्या** हव्यानि अस्मदीयानि हवींषि । मर्यादायामाकारः । शास्त्रमर्यादया यथाशास्त्रं **सुषूदति** प्रेरयतु । अन्यत् समानम् ॥ सुषूदति । ‘षूद क्षरणे' । लेटि अडागमः । ‘ बहुलं छन्दसि ' इति शपः श्लुः । मेधिरः । मेधारथाभ्यामिरनिरची वक्तव्यौ ' ( पा. सू. ५. २. १०९. ३ ) इति मत्वर्थीय इरन् ।
@@ -225,7 +228,7 @@ _________
 Seated here as Hotar, as for Manu, (facing?) toward the gods, as the one  who knows better,  
 Agni sweetens the oblations, the wise god among the gods.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
@@ -235,6 +238,7 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -267,8 +271,6 @@ Gesetzt als Priester, menschengleich, als kundigster zu Göttern hin, Macht Agni
 Бог, мудрый среди богов.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "014"
 devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो ग꣡व्येभिर् अ꣡श्वियैः  
-सह꣡स्रैर् उ꣡प गछतम्  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+आ᳓ नो ग᳓व्येभिर् अ᳓श्वियैः  
+सह᳓स्रैर् उ᳓प गछतम्  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,6 +157,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+नः- अस्मान्। गव्येभिः- चिद्रश्मिभिः। अश्व्यैः- प्राणाश्वैः। सहस्रैः- अनन्तैः। आ उप गच्छतम्-  आगच्छतम्॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ **नः** अस्मान् **सहस्रैः** अपरिमितैः **गव्येभिः** गोसमूहैः **अश्व्यैः** अश्वसमूहैश्च **उप** **गच्छतम्** ॥
@@ -199,8 +202,6 @@ Mit tausend Gaben kommt zu uns; an Rindern und an Rossen her; Es sei uns eure H�
 С тысячами коров (и) коней.  
 Пусть ваша помощь будет рядом!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

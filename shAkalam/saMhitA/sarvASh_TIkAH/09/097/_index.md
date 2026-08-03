@@ -1,6 +1,5 @@
 +++
 title = "+097"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+097"
 <details><summary>Jamison Brereton</summary>
 
 97 (809)  
-Soma Pavamāna  
+Soma Pavamāna  
 Vasiṣṭha Maitrāvaruṇi 1–3, Indrapramati Vāsiṣṭha 4–6, Vrṣ̥ agaṇa Vāsiṣṭha 7–9, Manyu  Vāsiṣṭha 10–12, Upamanyu Vāsiṣṭha 13–15, Vyāghrapād Vāsiṣṭha 16–18, Śakti  Vāsiṣṭha 19–21, Karṇaśrut Vāsiṣṭha 22–24, Mrḷ̥īka Vāsiṣṭha 25–27, Vasukra Vāsiṣṭha  28–30, Parāśara Śāktya 31–44, Kutsa Āṅgirasa 45–58  
 58 verses: triṣṭubh, arranged in trcas ̥  
 This is the longest hymn in the R̥gveda, consisting of fifty-eight verses, arranged  in three-verse units. It is also the last IXth Maṇḍala hymn in triṣṭubh. Despite  its extraordinary length, it can be analyzed as consisting of a series of originally  independent tr̥cas combined into one, and it therefore conforms to the prevailing  principles of arrangement in the Saṃhitā. In the first half (vss. 1–30) each tr̥ca is  attributed to Vasiṣṭha or to a different Vasiṣṭhid; the second half is divided between  two, non-Vasiṣṭhid, poets. If we assume that the tr̥ca division continues in this sec  
@@ -36,4 +35,10 @@ The section containing Triṣṭubh hymns
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९७  ऋषि- १-३ मैत्रावरुणिर्वसिष्ठः, ४-६ वासिष्ठ इन्द्रप्रमतिः, ७-९ वासिष्ठो वृषगणः, १०-१२ वासिष्ठो मन्युः*,  १३-१५ वासिष्ठ उपमन्युः**, १६-१८वासिष्ठो व्याघ्रपाद्, १९-२१ वासिष्ठः शक्तिः, २२-२४ वासिष्ठः  कर्णश्रुद्, २५-२७ वासिष्ठो मृळीकः, २८-३० वासिष्ठो वसुक्रः, ३१-४४ पराशरः शाक्त्यः, ४५-५८ कुत्स  आङ्गिरसः।पवमानः सोमः। त्रिष्टुप्
 </details>

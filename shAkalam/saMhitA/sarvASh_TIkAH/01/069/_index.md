@@ -1,6 +1,5 @@
 +++
 title = "+069"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -30,4 +29,10 @@ Agni As discussed in the published introduction. and in the art. cit., this hymn
 Agni I consider these three hymns to be thematically and verbally linked, treating the Vaiśvānara fire and encoding this theme by deploying the two words underlying this vṛddhi compound, víśva- and nṛ́-. The first, víśva-, dominates I.68, the second, nṛ́- I.69, and they are juxtaposed in the climactic verses of I.70.9-10. See the introductions to the three hymns in the published translation, and for a detailed discussion, Jamison, Fs. J. S. Klein (“Inter-hymnic Rhetorical Structure in Ṛgveda I.68-70: Parāśara Śāktya’s Vaiśvānara Cycle,” 2016).
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६९   पराशरः शाक्त्यः।अग्निः। द्विपदा विराट्।
 </details>

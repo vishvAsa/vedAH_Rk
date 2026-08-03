@@ -1,6 +1,5 @@
 +++
 title = "+092"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This long, loosely structured hymn is essentially a constantly repeated invitati
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९२  श्रुतकक्षः सुकक्षो वा आङ्गिरसः।इन्द्रः। गायत्री, १ अनुष्टुप्
 </details>

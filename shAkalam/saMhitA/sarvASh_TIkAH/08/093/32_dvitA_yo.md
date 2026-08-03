@@ -3,7 +3,6 @@ title = "032"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-द्विता꣡ यो꣡ वृत्रह꣡न्तमो  
-विद꣡ इ꣡न्द्रः शत꣡क्रतुः  
-उ꣡प नो ह꣡रिभिः सुत꣡म्
+द्विता᳓ यो᳓ वृत्रह᳓न्तमो  
+विद᳓ इ᳓न्द्रः शत᳓क्रतुः  
+उ᳓प नो ह᳓रिभिः सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,6 +142,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शतक्रतुः- बहुप्रज्ञः। इन्द्रः। वृत्रहन्तमः- अतिशयेनावरणबाधकः। द्विता- द्विधा  अभ्युदयनिःश्रेयसात्मकः। विदे- ज्ञायते॥३२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वृत्रहन्तमः** अतिशयेन वृत्रस्य हन्ता **शतक्रतुः** नानाविधकर्मा **यः** **इन्द्रः** **द्विता** द्विधा **विदे** वृत्रवधादावुग्रकर्मा जगद्रक्षणकाले शान्तकर्मेति द्विप्रकारेण सर्वैर्ज्ञायते । **विद** ज्ञाने'। कर्मणि विहितस्य तप्रत्ययस्य लोपस्त आत्मनेपदेषु' इति तलोपः । स त्वं **हरिभिः** सह **सुतं** सोममुपयाहि ॥
@@ -166,7 +169,7 @@ Whose power is known in a two-fold way: i.e., you are known in your terribleform
 
 He who is known, now as before, as Indra, best smiter of Vr̥tra,  possessing a hundred resolves—  
 right up to our pressed soma with your fallow bays.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
@@ -193,10 +196,6 @@ Der doppelt, als der Erzfeindetöter und als der ratreiche Indra, bekannt ist, k
 
 Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen komm zu unserm Trank.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

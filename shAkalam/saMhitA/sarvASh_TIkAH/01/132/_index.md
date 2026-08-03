@@ -1,6 +1,5 @@
 +++
 title = "+132"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ and present are invoked together, we ask Indra to aid us in the same way as he a
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३२   परुच्छेपो दैवोदासिः। इन्द्रः, ६ ( १ अर्धर्चस्य) इन्द्रापर्वतौ। अत्यष्टिः।
 </details>

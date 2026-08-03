@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते सा꣡धिष्ठो अ꣡वसे  
-ते꣡ सियाम भ꣡रेषु ते  
-वयं꣡ हो꣡त्राभिर् उत꣡ देव꣡हूतिभिः  
-ससवां꣡सो मनामहे
+य᳓स् ते सा᳓धिष्ठो अ᳓वसे  
+ते᳓ सियाम भ᳓रेषु ते  
+वयं᳓ हो᳓त्राभिर् उत᳓ देव᳓हूतिभिः  
+ससवां᳓सो मनामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,6 +182,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः- ये। ते- तव। अवसे- तृप्त्यै। साधिष्ठः- अतिशयेन साधकाः। ते। ते- तव। भरेषु- निर्वाहेषु।  स्याम- भवेम। वयम्। होत्राभिः- वाग्भिः। उत- अपि च। देवहूतिभिः- देवाह्वानैः। ससवांसः-  हव्यादियुक्ताः। मनामहे- त्वां मननं कुर्मः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -226,8 +229,6 @@ In Kämpfen seien solche wir, die dir zum Schutz die liebsten sind; Wir denken d
 Мы считаем себя достигшими цели  
 Благодаря (нашим) возлияниям и призывом богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

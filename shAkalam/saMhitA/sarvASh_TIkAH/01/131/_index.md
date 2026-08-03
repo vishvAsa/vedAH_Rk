@@ -1,6 +1,5 @@
 +++
 title = "+131"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ tention is vividly depicted in verse 3. In verses 4–5 Indra’s own inclinatio
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra The hymn contains a concentration of intensive forms: ánamnata 1a, kárikrat 3f, carkiran 5a, saniṣṇata 5fg. This parade of intensives may express the prolonged and continuous struggle of the Ārya to subdue their rivals and gain territory with the constantly sought help of Indra.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३१   परुच्छेपो दैवोदासिः।इन्द्रः। अत्यष्टिः।
 </details>

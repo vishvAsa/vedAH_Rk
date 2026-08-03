@@ -3,7 +3,6 @@ title = "027"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमाना दिव꣡स् प꣡रि  
-अन्त꣡रिक्षाद् असृक्षत  
-पृथिव्या꣡ अ꣡धि सा꣡नवि
+प᳓वमाना दिव᳓स् प᳓रि  
+अन्त᳓रिक्षाद् असृक्षत  
+पृथिव्या᳓ अ᳓धि सा᳓नवि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -118,6 +116,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। अन्तरिक्षात्। पृथिव्या अधि सानवि- भूम्या उत्कृष्टप्रदेशे। पवमानाः- पुनानाः  सोमाः। असृक्षत- सृज्यन्ते। चिदाकाशात्प्राणमयकोशाच्च आशरीरं रसः सृज्यत  इत्याध्यात्मिके॥२७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पवमानाः** सोमाः **दिवः** द्युलोकात् **अन्तरिक्षात्** च **पृथिव्याः** भूम्याः **अधि** **सानवि** समुच्छ्रिते देशे देवयजने **परि** **असृक्षत** सृज्यन्ते ॥
@@ -139,7 +142,7 @@ The summit of the ground: i.e., the raised plural ce, the plural ce of divine sa
 <details><summary>Jamison Brereton</summary>
 
 The self-purifying ones have surged from the heaven, from the midspace onto the back of the earth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
@@ -165,10 +168,6 @@ Die sich läuternden Säfte haben sich vom Himmel, aus der Luft ergossen auf die
 
 Ergossen sind vom Himmel her und aus der Luft die flammenden Nun auf der Erde Fläche hin.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+006"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Most of this hymn consists of a vivid depiction of destructive fire raging acros
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+028"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -30,4 +29,10 @@ For further discussion of this hymn, see Jamison (2004a; 2007: 80–83; 2008b).
 <details><summary>Geldner</summary>
 
 Die Schwiegertochter:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२८  १ इन्द्रस्नुषा वसुक्रपत्नी ऋषिका, २, ६, ८, १०, १२ इन्द्र ऋषिः, ३, ४, ५, ७, ९, ११ ऐन्द्रो वसुक्र ऋषिः।   २, ६, ८, १०, १२ ऐन्द्रो वसुक्रो देवता, १, ३, ४, ५, ७, ९, ११ इन्द्रो देवता। त्रिष्टुप्
 </details>

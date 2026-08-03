@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् त्वा यामि सुवी꣡रियं  
-त꣡द् ब्र꣡ह्म पूर्व꣡चित्तये  
-ये꣡ना य꣡तिभ्यो भृ꣡गवे ध꣡ने हिते꣡  
-ये꣡न प्र꣡स्कण्वम् आ꣡विथ
+त᳓त् त्वा यामि सुवी᳓रियं  
+त᳓द् ब्र᳓ह्म पूर्व᳓चित्तये  
+ये᳓ना य᳓तिभ्यो भृ᳓गवे ध᳓ने हिते᳓  
+ये᳓न प्र᳓स्कण्वम् आ᳓विथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,6 +196,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+येन। यतिभ्यः- यमिभ्यस्तपस्विभ्यः। यच्छसि। धने- चिद्रश्मिषु। हिते- निहितेषु। भृगवे- दीप्ताय  ऋषये। तान् प्रकटयसि। येन। प्रस्कण्वम्- प्रकर्षेण मन्त्रविदम्। आविथ- रक्षसि। तत्। सुवीर्यम्।  तत्। ब्रह्म- मन्त्रमुपासनं मेधां वा। पूर्वचित्तये- पुराणज्ञानाय। त्वा- त्वाम्। यामि- याचे॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **तत्** **सुवीर्यं** शोभनवीर्यं **त्वा** त्वां **यामि** याचामि । छान्दसो वर्णलोपः । तथा **तत्** **ब्रह्म** परिवृढमन्नं **पूर्वचित्तये** पूर्वप्रज्ञानायान्येभ्यः पूर्वमेव लाभाय त्वां याचामि । **धने** **हिते** अभीष्टे सति **येन** सुवीर्येण **यतिभ्यः** कर्मसूपरतेभ्योऽयष्टृभ्यो जनेभ्यः सकाशाद्धनमाहृत्य **भृगवे** महर्षये प्रयच्छसि । यद्वा । कर्मसु नियता अङ्गिरसो यतयः । तेषामर्थं धनं प्रयच्छसि । तादर्थ्ये चतुर्थी। **येन** च ब्रह्मणा **प्रस्कण्वं** कण्वप्रभवं कण्वस्य पुत्रमृषिम् **आविथ** ररक्षिथ। तदुभयं याचामीत्यन्वयः ॥
@@ -220,7 +223,7 @@ Taken from those: yena yatibhyo **dhane** hite: yatibhyaḥ = karmasu uparatebhy
 
 I beg you for a mass of good heroes and for the sacred formulation to  be first in your thought.  
 That with which, when the stake was set, (you were there) for the Yatis  and for Bhr̥gu, with which you helped Praskaṇva,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
@@ -259,8 +262,6 @@ Dich bitt' ich um die Heldenkraft, um die Begeisterung zuerst, Mit der du einst 
 (Слове,) с которым (ты пришел на помощь) к Яти, к Бхригу, когда была установлена ставка,  
 Которым ты помог Прасканве.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

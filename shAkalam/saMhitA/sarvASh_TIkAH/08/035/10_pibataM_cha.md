@@ -3,7 +3,6 @@ title = "010"
 devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 - छन्दः - उपरिष्टाज्ज्योतिः
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡बतं च तृप्णुतं꣡ चा꣡ च गछतम्  
-प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-ऊ꣡र्जं नो धत्तम् अश्विना
+पि᳓बतं च तृप्णुतं᳓ चा᳓ च गछतम्  
+प्रजां᳓ च धत्तं᳓ द्र᳓विणं च धत्तम्  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+ऊ᳓र्जं नो धत्तम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,6 +242,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पिबतम्- अनुभवतम्। तृष्णुतम्- तृप्यतम्। च। आ गच्छतम् च। प्रजाम्- धर्मसन्ततिम्। च  धत्तम्- दत्तम्। द्रविणम्- सम्पदम्। च। धत्तम्॥।१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे अश्विनौ युवां सोमं **पिबतं** च **तृप्णुतं** च तृप्यतं च । पानार्थं तृप्त्यर्थं **च** **आ** **गच्छतम्** । सोमं पीत्वा तृप्तौ सन्तौ युवामस्मभ्यं **प्रजां** **च** **धत्तं** धारयतम् । **द्रविणं** धनं **च** **धत्तम्** । **उषसा** सूर्येण च संगतौ **नः** अस्मभ्यम् **ऊर्जं** बलं च **धत्तम्** ॥
@@ -261,7 +264,7 @@ _________
 
 Drink and satisfy yourself and come here. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
@@ -296,8 +299,6 @@ O kommet her und trinket und ergötzet euch, und schenket Kinder, schenket reich
 Единодушные с Ушас и Сурьей,  
 Наделите нас питательной силой, о Ашвины!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+012"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This simple hymn has a high proportion of pādas repeated from other hymns, and 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२ मेधातिथिः काण्वः। अग्निः, ६ प्रथमपादस्य (निर्मथ्याहवनीयौ) अग्नी। गायत्री।
 </details>

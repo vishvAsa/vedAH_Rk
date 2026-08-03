@@ -3,7 +3,6 @@ title = "015"
 devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स्वस्ति꣡ प꣡न्थाम् अ꣡नु चरेम  
-सूर्याचन्द्रम꣡साव् इव  
-पु꣡नर् द꣡दता अ꣡घ्नता  
-जानता꣡ सं꣡ गमेमहि
+स्वस्ति᳓ प᳓न्थाम् अ᳓नु चरेम  
+सूर्याचन्द्रम᳓साव् इव  
+पु᳓नर् द᳓दता अ᳓घ्नता  
+जानता᳓ सं᳓ गमेमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)  
-genre M;; epic anuṣṭubh (424)
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)
 _________
 **Morph**  
 ánu ← ánu (invariable)  
@@ -174,6 +172,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+४    सूर्याचन्द्रमसौ- सूर्याचन्द्रौ। इव। स्वस्ति- क्षेमकरम्। पन्थाम्- मार्गम्। अनु चरेम- अनुगच्छेम।  पुनः। ददत- यच्छत। अघ्नता- अहिंसता। जानता- विदुषा। सं गमेमहि- सङ्गच्छेमहि॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **पन्थां** पन्थानं **स्वस्ति** क्षेमेण **अनु** **चरेम** **सूर्याचन्द्रमसाविव** । तौ यथा निरालम्बे मार्गे राक्षसादिभिरनुपद्रुतौ संचरतस्तद्वत् । किंच वयं प्रवसन्तः **पुनर्ददता** अभिमतम् **अघ्नता** चिरकालविलम्बकोपेन अहिंसता **जानता** अविस्मरता मदीयश्चिरकालं गतः कोऽयमिति संदेहमकुर्वता । मदीयोऽयमिति बुध्यमानेनेत्यर्थः । उक्तलक्षणेन बन्धुजनेन **सं** **गमेमहि** संगच्छेमहि । यद्वा । पूर्वार्धं प्रवसतां वाक्यमुत्तरार्धं बन्धूनाम् । वयं बन्धवो ददताभिमतमुपार्जितं यच्छताघ्नता प्रवासकोपेन अहिंसता जानता सस्नेहमधिगच्छता प्रवसता सं गमेमहि ॥ ॥ ७ ॥
@@ -201,7 +204,7 @@ With well-being we would follow along our path, like the Sun and  the Moon.
 May we meet up with one who gives in return, who does not smite, with  one who knows.  
 Maṇḍala V contains the largest collection of Marut hymns in the R̥gveda,  V.52–61, plus V.87. The ten sequential hymns, 52–61, attributed to Śyāvāśva  Ātreya, are poetry of the highest order—inventive, exuberant, and beautifully  crafted—and they capture both aspects of the Maruts:  their social existence  as a sort of Männerbund, a group of young, handsome, high-spirited war  
 riors, and their naturalistic existence as personifications of the monsoon/thun derstorm—without losing sight of their divinity and the benefits they provide  to men.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
@@ -238,8 +241,6 @@ Zum Heil lasst unsern Pfad uns gehn, gleichwie die Sonne und den Mond, Gesellt m
 Пусть встретимся мы с дающим вновь,  
 С неубивающим, с понимающим!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

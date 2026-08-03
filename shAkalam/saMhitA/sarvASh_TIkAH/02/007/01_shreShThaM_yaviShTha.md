@@ -3,7 +3,6 @@ title = "001"
 devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-श्रे꣡ष्ठं यविष्ठ भारत  
-अ꣡ग्ने द्युम꣡न्तम् आ꣡ भर  
-व꣡सो पुरुस्पृ꣡हं रयि꣡म्
+श्रे᳓ष्ठं यविष्ठ भारत  
+अ᳓ग्ने द्युम᳓न्तम् आ᳓ भर  
+व᳓सो पुरुस्पृ᳓हं रयि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यविष्ठ- अभिनव। भारत- निर्वाहक। वसो- शरण्य। अग्ने- पावक सर्वभूतहितक्रतो। श्रेष्ठम्-  उत्तमम्। द्युमन्तम्- दीप्तम्। पुरुस्पृहम्- बहुभिः स्पृहणीयम्। रयिम्- दानयोग्यधनम्। आ भर-  आहर॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने यविष्ठ** युवतम हे **भारत** भरता ऋत्विजः तेषांसम्बन्धीभारतः अध्वर्य्वादिभिःमन्थनहविः स्तोत्रादिनाव्याप्रियमाणात्वःत् तादृश हेवसोवासकव्याप्तवा एवंरूपाग्ने श्रेष्ठंअतिप्रशस्यं द्युमन्तं- दीप्तिमन्तम्पुरुस्पृहम्बहुभिरर्थिभिःस्पृहणीयंरयिंआभर आहर ॥ १ ॥
@@ -183,7 +186,7 @@ VASU, thou most youthful God, Bharata, Agni, bring us wealth,
 <details><summary>Oldenberg</summary>
 
 Bring us, O youngest god, Bhârata 1, Agni, the best, resplendent, much-desired wealth, O Vasu 2!
-꣡</details>
+᳓</details>
 
 <details><summary>Keith</summary>
 
@@ -208,8 +211,6 @@ Den besten Reichthum bringe her, den schönen, Agni Bharata, Den vielbegehrten, 
 О Агни, принеси сверкающее  
 Очень желанное богатство, о Васу!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

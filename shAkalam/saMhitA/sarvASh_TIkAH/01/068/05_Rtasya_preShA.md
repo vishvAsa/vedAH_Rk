@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋत꣡स्य प्रे꣡षा ऋत꣡स्य धीति꣡र्  
-विश्वा꣡युर् वि꣡श्वे अ꣡पांसि चक्रुः
+ऋत᳓स्य प्रे᳓षा ऋत᳓स्य धीति᳓र्  
+विश्वा᳓युर् वि᳓श्वे अ᳓पांसि चक्रुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

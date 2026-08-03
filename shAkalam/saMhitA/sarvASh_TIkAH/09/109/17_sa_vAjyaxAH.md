@@ -3,7 +3,6 @@ title = "017"
 devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,11 +11,10 @@ ChandaH = "द्विपदा विराट्"
 - छन्दः - द्विपदा विराट्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ वाजी꣡ अक्षाः सह꣡स्ररेता  
-अद्भि꣡र् मृजानो꣡ गो꣡भिः श्रीणानः꣡
+स᳓ वाजी᳓ अक्षाः सह᳓स्ररेता  
+अद्भि᳓र् मृजानो᳓ गो᳓भिः श्रीणानः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,6 +121,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सः- असौ रसः। वाजी- वेगवान्। सहस्ररेताः- बहुरेतस्को। अद्भिः- मूलशक्तिधाराभिः। मृजानः-  शोधितः। गोभिः- चिद्रश्मिभिः। श्रीणानः- मण्डितः। अक्षाः- क्षरति॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वाजी** वेगवान् बलवान् वा **सः** सोमः **अक्षाः** क्षरति । कीदृशः । **सहस्ररेताः** बहुरेतस्को बहूदकः **अद्भिः** वसतीवरीभिः **मृजानः** मृज्यमानः **गोभिः** गोविकारैः क्षीरादिभिः **श्रीणानः** श्रीयमाणः ॥
@@ -139,7 +142,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The prizewinner has streamed in a thousand spurts, being groomed  with waters, being prepared with cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
@@ -172,8 +175,6 @@ Und schnell nun rann er – mit tausend Samen, geklärt vom Wasser, – gemischt
 Начищаемый водами, смешиваемый с молоком.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -189,7 +190,7 @@ Und schnell nun rann er – mit tausend Samen, geklärt vom Wasser, – gemischt
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जब दृढ़ अभ्यास से परमात्मा का परिपक्व ज्ञान हो जाता है, तब परमात्मज्ञान, जो अमृत के समान है, वह उपासक को आनन्द प्रदान करता है, इसी का नाम यहाँ सिञ्चन करना है ॥१७॥
+भावार्थभाषाः -  जब दृढ़ अभ्यास से परमात्मा का परिपक्व ज्ञान हो जाता है, तब परमात्मज्ञान, जो अमृत के समान है, वह उपासक को आनन्द प्रदान करता है, इसी का नाम यहाँ सिञ्चन करना है ॥१७॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>

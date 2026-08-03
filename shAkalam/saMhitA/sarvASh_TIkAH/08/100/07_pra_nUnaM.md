@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ नूनं꣡ धावता पृ꣡थङ्  
-ने꣡ह꣡ यो꣡ वो अ꣡वावरीत्  
-नि꣡ षीं वृत्र꣡स्य म꣡र्मणि  
-व꣡ज्रम् इ꣡न्द्रो अपीपतत्
+प्र᳓ नूनं᳓ धावता पृ᳓थङ्  
+ने᳓ह᳓ यो᳓ वो अ᳓वावरीत्  
+नि᳓ षीं वृत्र᳓स्य म᳓र्मणि  
+व᳓ज्रम् इ᳓न्द्रो अपीपतत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -29,10 +27,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 dhāvata ← √dhāv- 1 (root)  
@@ -195,6 +193,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    यः। प्र धावत- प्रधावति। पृथक् नेह- पृथक् न तिष्ठति। वः- युष्मान्। न। अवावरीत्-  वारयति। अनिवारयन् भीतः पलायतीति भावः। तस्य। वृत्रस्य। मर्मणि। इन्द्रः। वज्रम्। सीम्-  सर्वतः। नि- नितराम्। अपीपतत्- अपातयत्॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** शत्रुः **नूनम्** इदानीं **प्र** **धावत** प्रधावति **पृथक्** **इह** पृथङ्न तिष्ठति च **वः** युष्मान् **न** अवीवरीतु न विवारयति च तस्य **वृत्रस्य** शत्रोः **मर्मणि** मर्मस्थाने **इन्द्रः** **वज्रं** कुलिशं **नि** **अपीपतत्** नितरामपातयत् ॥
@@ -217,7 +220,7 @@ That enemy who was running forward and stayed not apart and didnot hinder you-- 
 
 [Singer:] “‘Now, (waters,) run forth each separately: he who obstructed  you is not here.  
 Indra has let fly his mace down onto Vr̥tra’s mortal place.’
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
@@ -252,8 +255,6 @@ Strömt nun hervor [ihr Wasser] hier und dort; er ist nicht mehr da, der euch so
 В уязвимое место Вритры  
 Индра запустил дубиной.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

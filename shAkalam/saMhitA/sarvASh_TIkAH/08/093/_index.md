@@ -1,6 +1,5 @@
 +++
 title = "+093"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ As often, the tr̥cas become more tightly organized toward the end of the hymn, 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९३  सुकक्ष आङ्गिरसः ।इन्द्रः, ३४ इन्द्र - ऋभवश्च । गायत्री ।
 </details>

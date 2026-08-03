@@ -3,7 +3,6 @@ title = "019"
 devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-ग्रा꣡व्णा तुन्नो꣡ अभि꣡ष्टुतः  
-पवि꣡त्रं सोम गछसि  
-द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
+ग्रा᳓व्णा तुन्नो᳓ अभि᳓ष्टुतः  
+पवि᳓त्रं सोम गछसि  
+द᳓धत् स्तोत्रे᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ग्राव्णा- स्थैर्यप्रतीकेन। तुन्नः- निष्पन्नः सन्। स्तोत्रे- मन्त्रे। सुवीर्यम्। दधत्- धारयन्।  अभिष्ठुतः- आभिमुख्येन वन्दितः। सोम- रस। पवित्रम्- भाजनं प्रतीकम्। गच्छसि॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **ग्राव्णा** **तुन्नः** अभिपीडितोऽभिषुतस्त्वं स्तोतृभिः **अभिष्टुतः** सन् **पवित्रं** **गच्छसि** प्राप्नोषि । किं कुर्वन् । **स्तोत्रे** स्तोत्रकारिणे जनाय **सुवीर्यं** शोभनवीर्योपेतं धनादिकं **दधत्** विदधत् प्रयच्छन् ॥
@@ -155,7 +158,7 @@ _________
 
 Pounded by the stone, bepraised, you go to the filter, o Soma,  
 establishing for the praiser an abundance of heroes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
@@ -188,8 +191,6 @@ Vom Stein gestossen, Soma, gehst besungen du zur Seihe hin, Dem Sänger schenken
 Ты движешься, о сома, к цедилке,  
 Даря восхвалителю обилие мужей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "+028"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -14,10 +13,16 @@ title = "+028"
 Indra, or Indra and Soma  
 Vāmadeva Gautama  
 5 verses: triṣṭubh  
-After the preceding two hymns devoted to the theft of soma and the preparation  and offering of this ritual drink to Indra, this hymn shows the results, celebrating  the great martial deeds that Indra was capable of, once he had acquired the soma.  Indeed, Soma is presented as the equal partner of Indra in the performance of  these deeds. The deeds themselves are the familiar ones:  the slaying of Vr̥tra in  order to free the waters (vs. 1), the tearing off of the Sun’s wheel with the Śuṣṇa  saga obliquely alluded to (vs. 2), the destruction of earthly foes (vss. 3–4), and  the opening of the Vala cave (vs. 5). The hymn is marked by a clever bit of ring  composition: the waters freed from Vr̥tra’s imprisonment are as if “covered over”  (ápihitā) in verse 1, while the same adjective “covered over” is found also in verse 5  (ápihitāni), where it refers both to those waters and to the cows freed from the Vala  cave—thus suggesting the deep-structure similarity of those two myths.
+After the preceding two hymns devoted to the theft of soma and the preparation  and offering of this ritual drink to Indra, this hymn shows the results, celebrating  the great martial deeds that Indra was capable of, once he had acquired the soma.  Indeed, Soma is presented as the equal partner of Indra in the performance of  these deeds. The deeds themselves are the familiar ones:  the slaying of Vr̥tra in  order to free the waters (vs. 1), the tearing off of the Sun’s wheel with the Śuṣṇa  saga obliquely alluded to (vs. 2), the destruction of earthly foes (vss. 3–4), and  the opening of the Vala cave (vs. 5). The hymn is marked by a clever bit of ring  composition: the waters freed from Vr̥tra’s imprisonment are as if “covered over”  (ápihitā) in verse 1, while the same adjective “covered over” is found also in verse 5  (ápihitāni), where it refers both to those waters and to the cows freed from the Vala  cave—thus suggesting the deep-structure similarity of those two myths.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra, or Indra and Soma
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २८  वामदेवो गौतमः। इन्द्रः, इन्द्रासोमौ वा।। त्रिष्टुप्
 </details>

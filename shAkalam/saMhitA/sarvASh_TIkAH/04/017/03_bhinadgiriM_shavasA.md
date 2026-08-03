@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-भिन꣡द् गिरिं꣡ श꣡वसा व꣡ज्रम् इष्ण꣡न्न्  
-आविष्कृण्वानः꣡ सहसान꣡ ओ꣡जः  
-व꣡धीद् वृत्रं꣡ व꣡ज्रेण मन्दसानः꣡  
-स꣡रन्न् आ꣡पो ज꣡वसा हत꣡वृष्णीः
+भिन᳓द् गिरिं᳓ श᳓वसा व᳓ज्रम् इष्ण᳓न्न्  
+आविष्कृण्वानः᳓ सहसान᳓ ओ᳓जः  
+व᳓धीद् वृत्रं᳓ व᳓ज्रेण मन्दसानः᳓  
+स᳓रन्न् आ᳓पो ज᳓वसा हत᳓वृष्णीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -204,6 +202,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शवसा- बलेन। वज्रम्- स्वायुधम्। इष्णन्- प्रेरयन्। गिरिम्- पर्वतं जडोपलक्षितम्। भिनत्-  बिभेद। हतवृष्णीः- वर्षयितृमेघजाः। आपः- अपो मूलशक्तिधाराः। जवसा- वेगेन। सरन्-  निःसारयन्। ओजः। आविष्कुर्वाणः- प्रकटयन्। सहसानः- सहनशीलः। मन्दसानः-  आनन्दसम्भक्ता। वज्रेण- स्वायुधेन। वृत्रम्- आवरणम्। वधीत्- अवधीत्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सहसानः** शत्रूणामभिभवन् **ओजः** तेजः आविष्कृण्वानः आविष्कुर्वन् इन्द्रः **वज्रमिष्णन्** वज्रं प्रेरयन् **शवसा** बलेन **गिरिं** पर्वतं जातं **भिनत्** अभिनत् बिभेद । किंच **मन्दसानः** सोमेन मोदमान इन्द्रः **वज्रेण** **वृत्रं** वृत्रनामानमसुरं **वधीत्** अवधीत् जघान । ततः **आपः** वृत्रेणावृतान्युदकानि **हतवृष्णीः** । हतो वृषा वृत्रो यासां ता हतवृष्ण्यः । ता वृत्रवधानन्तरं निवारणरहिताः सत्यः **जवसा** वेगेन **सरन्** असरन् अगच्छन् ॥
@@ -230,8 +233,6 @@ Almost the full panoply of power terms is on display in the first hemistich: ś�
 
 The “bull” of the waters is of course Vṛtra.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -239,6 +240,7 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 
 </details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -273,8 +275,6 @@ Mit Macht zerbrach den Fels er, Blitze schleudernd, der allgewalt'ge, seine Kraf
 Опьянившись, он убил Вритру ваджрой. .  
 Быстро обратились в бегство воды, когда их бык был убит.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

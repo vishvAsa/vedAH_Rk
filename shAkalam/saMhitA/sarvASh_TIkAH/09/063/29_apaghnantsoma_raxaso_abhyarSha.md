@@ -3,7 +3,6 @@ title = "029"
 devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अपघ्न꣡न् सोम रक्ष꣡सो  
-अभि꣡ अर्ष क꣡निक्रदत्  
-द्युम꣡न्तं शु꣡ष्मम् उत्तम꣡म्
+अपघ्न᳓न् सोम रक्ष᳓सो  
+अभि᳓ अर्ष क᳓निक्रदत्  
+द्युम᳓न्तं शु᳓ष्मम् उत्तम᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। रक्षसः- दुष्टान्। अपघ्नन्- नाशयन्। कनिक्रदत्- शब्दयन्। द्युमन्तम्- दीप्तमत्।  उत्तमम्- वरम्। शुष्मम्- बलम्। अभ्यर्ष- अभिगमय। अस्मद्बलं प्रत्यागच्छ ॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** त्वं **रक्षसः** रक्षांसि **अपघ्नन्** विनाशयन् **कनिक्रदत्** शब्दं कुर्वन् **द्युमन्तं** दीप्तिमन्तम् **उत्तमं** श्रेष्ठं **शुष्मं** बलम् **अभ्यर्ष** अस्मान् प्रति पवस्व ॥
@@ -145,7 +148,7 @@ _________
 
 Smashing away demons, Soma, rush ever roaring  
 toward highest brilliant tempestuousness.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
@@ -172,10 +175,6 @@ Die Unholde vertreibend, o Soma, rinne brüllend zu glänzendem höchstem Mute!
 
 Verjagend der Gespenster Schar, o Soma, ströme rauschend her Die höchste, glanzbegabte Kraft.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

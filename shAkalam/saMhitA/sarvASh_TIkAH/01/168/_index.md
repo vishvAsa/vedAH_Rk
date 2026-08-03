@@ -1,6 +1,5 @@
 +++
 title = "+168"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The theme throughout is that, although the Maruts display great violence in  the
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६८   अगस्त्यो मैत्रावरुणिः।मरुतः। जगती, ८-१० त्रिष्टुप्।
 </details>

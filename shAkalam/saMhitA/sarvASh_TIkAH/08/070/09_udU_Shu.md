@@ -3,7 +3,6 @@ title = "009"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् ऊ षु꣡ णो वसो महे꣡  
-मृश꣡स्व शूर रा꣡धसे  
-उ꣡द् ऊ षु꣡ मह्यइ꣡ मघवन् मघ꣡त्तय  
-उ꣡द् इन्द्र श्र꣡वसे महे꣡
+उ᳓द् ऊ षु᳓ णो वसो महे᳓  
+मृश᳓स्व शूर रा᳓धसे  
+उ᳓द् ऊ षु᳓ मह्यइ᳓ मघवन् मघ᳓त्तय  
+उ᳓द् इन्द्र श्र᳓वसे महे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -219,6 +217,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महे- महत्यै। राधसे- संसिद्ध्यै। नः- अस्मान्। शूर- समर्थ। सु- सुष्ठु। उत् मृशस्व- उत्थापय।  मह्यै- महत्यै। मघत्तये- सम्पदे। मघवन्- सम्पद्वन्। इन्द्र। महे- महत्यै। श्रवसे- श्रुत्यै। उत्-  उत्थापय॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **वसो** वासयितः **शूर** इन्द्र त्वं **नः** अस्मान् **सु** सुष्ठु **उदु** **मृशस्व** उन्मृशस्वैव । उत्थापय । किमर्थम्। **महे** महते **राधसे** अन्नाय । तथा हे शूर **मघवन्** इन्द्र **उत्** मृशस्व **मह्यै** महते मघत्तये धनदानाय । तथा **उत्** मृशस्व **इन्द्र** **महे** महत्यै **श्रवसे** कीर्त्यै ॥
@@ -262,10 +265,6 @@ Streck fein die Hand für uns aus, du Guter, zu großer Freigebigkeit, du Held, 
 
 O hebe, guter, uns empor, zu grossem Schatze schnell, o Held, Empor, o reicher, uns zu reichem Schatzempfang, Idra, empor zu hohem Ruhm.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

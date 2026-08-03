@@ -3,7 +3,6 @@ title = "004"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा हि꣡ अ꣡सि भानु꣡ना  
-द्युम꣡न्तं त्वा हवामहे  
-प꣡वमान सुआधि꣡यः
+वृ᳓षा हि᳓ अ᳓सि भानु᳓ना  
+द्युम᳓न्तं त्वा हवामहे  
+प᳓वमान सुआधि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषा- वर्षकः। असि- भवसि। हि- खलु। भानुना द्युमन्तम्- तेजसा ज्वलन्तम्। त्वा- भवन्तम्।  हवामहे- आह्वयामः। पवमान- पुनान। स्वाध्यः- शोभनध्यानविषयोऽसि॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम त्वं **वृषा** अभिमतफलानां वर्षिता **असि** **हि** भवसि खलु । तस्मात् हे **पवमान** पूयमान पुनान वा सोम **स्वाध्यः** शोभनकर्माणः सुष्ठु ध्यानवन्तो वा वयं **भानुना** तेजसा **द्युमन्तं** दीप्तिमन्तम् । अतिशयेन तेजस्विनमित्यर्थः । स्तुतिमन्तं वा **त्वा** त्वां **हवामहे** यज्ञेष्वाह्वयामहे ॥
@@ -145,7 +148,7 @@ _________
 
 Because you are a bull, we, very attentive, invoke you who are brilliant  with radiance,  
 o self-purifying one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
@@ -172,10 +175,6 @@ Denn du bist ein Bulle; dich, den im Glanze Strahlenden rufen wir wohlgesinnt an
 
 Du bist an Strahlen ja ein Held, drum rufen wir dich glänzenden, O flammender, an Andacht reich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

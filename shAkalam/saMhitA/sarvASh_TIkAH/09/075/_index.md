@@ -1,6 +1,5 @@
 +++
 title = "+075"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+075"
 <details><summary>Jamison Brereton</summary>
 
 75 (787)  
-Soma Pavamāna  
+Soma Pavamāna  
 Kavi Bhārgava  
 5 verses: jagatī  
 Soma’s deep, almost reflexive, involvement in verbal products and production is  the subject of the first two verses of the hymn. He strengthens himself on his own  names in verse 1, and in verse 2 is both the physical (tongue, speaker) and concep tual (father) source of truth and insight. In the second half of verse 2, in the sort of  paradox much beloved by R̥gvedic seers, he not only knows the hidden names but  as son bestows them on his parents.  
@@ -28,4 +27,10 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७५  कविर्भार्गवः।पवमानः सोमः। जगती।
 </details>

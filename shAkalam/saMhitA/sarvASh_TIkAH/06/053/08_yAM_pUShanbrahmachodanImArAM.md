@@ -3,7 +3,6 @@ title = "008"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "अनुष्टुप्"
 - छन्दः - अनुष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-या꣡म् पूषन् ब्रह्मचो꣡दनीम्  
-आ꣡राम् बि꣡भर्षि आघृणे  
-त꣡या समस्य हृ꣡दयम्  
-आ꣡ रिख किकिरा꣡ कृणु
+या᳓म् पूषन् ब्रह्मचो᳓दनीम्  
+आ᳓राम् बि᳓भर्षि आघृणे  
+त᳓या समस्य हृ᳓दयम्  
+आ᳓ रिख किकिरा᳓ कृणु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पूषन्- पोषक सूर्य। आघृणे- दीप्त। याम्- यम्। ब्रह्मचोदनीम्- मन्त्रचोदकम्। आराम्-  प्रतोदम्। बिभर्षि- धारयसि। तया। समस्य- सर्वस्य पणेः। हृदयम्। आ रिख- आलिख।  किकिरा कृणु- शिथिलानि कुरु॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **आघृणे** आगतदीप्ते **पूषन्** **ब्रह्मचोदनीं** ब्रह्मणोऽन्नस्य प्रेरयित्रीं **याम्** **आरां** **बिभर्षि** हस्ते धारयसि **तया** **समस्य** सर्वस्य लुब्धजनस्य **हृदयम्** **आ** **रिख** आलिख। **किकिरा** किकिराणि कीर्णानि प्रशिथिलानि च **कृणु** कुरु ॥
@@ -206,7 +209,7 @@ Kikirā = to tear into pieces, rend into rags and tatters RV. vi, 53, 7 and 8.
 The awl that you carry, which impels the sacred formulation, o  
 glowing Pūṣan,  
 with it shred the heart of each one, make it shrapnel.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
@@ -243,8 +246,6 @@ O Puschan, welchen Spiess du trägst, gebetgeschärften, glühender, Mit dem zer
 Расцарапай, разорви в клочья  
 С его помощью сердце любого (скупца)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

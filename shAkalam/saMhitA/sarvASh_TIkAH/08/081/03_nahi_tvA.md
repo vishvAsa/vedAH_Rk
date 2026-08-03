@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ त्वा शूर देवा꣡  
-न꣡ म꣡र्तासो दि꣡त्सन्तम्  
-भीमं꣡ न꣡ गां꣡ वार꣡यन्ते
+नहि᳓ त्वा शूर देवा᳓  
+न᳓ म᳓र्तासो दि᳓त्सन्तम्  
+भीमं᳓ न᳓ गां᳓ वार᳓यन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,6 +143,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शूर- समर्थ। भीमम्- भयङ्करम्। गाम्- वृषभम्। न- इव। त्वा- त्वाम्। दित्सन्तम्-  दातुमिच्छन्तम्। देवाः। मर्तासः- मर्त्याः। नहि वारयन्ते॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शूर** इन्द्र **त्वा** त्वां **दित्सन्तं** दातुमिच्छन्तं **देवाः** **नहि** **वारयन्ते** न निवारयन्ति । तथा **मर्तासः** मर्त्या अपि **न** वारयन्ते । **भीमं** **न** **गां** भयजनकं वृषभं यवसे प्रवृत्तमिव । तं यथा वारयितुं न शक्नुवन्ति तद्वत् ॥
@@ -179,10 +182,6 @@ Wenn du geben willst, halten dich ja weder Götter noch Sterbliche auf, so wenig
 
 Denn, o Held, nicht hemmen Götter dich, noch Menschen, wenn du spendest, Dich, der wildem Stiere gleichet.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

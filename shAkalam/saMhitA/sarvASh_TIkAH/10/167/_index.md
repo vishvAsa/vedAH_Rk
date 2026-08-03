@@ -1,6 +1,5 @@
 +++
 title = "+167"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A fairly conventional invitation to the soma sacrifice. One of Indra’s great d
 <details><summary>Geldner</summary>
 
 Jamadagni und Visvamitra:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १६७ ऋ. विश्वामित्र-जमदग्नी। इन्द्रः, ३ सोम-वरुण-बृहस्पति-अनुमति-मघवत्-धातृ-विधातारः।  जगती। जगती।
 </details>

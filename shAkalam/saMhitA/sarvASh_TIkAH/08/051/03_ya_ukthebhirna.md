@@ -3,7 +3,6 @@ title = "003"
 devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उक्थे꣡भिर् न꣡ विन्ध꣡ते  
-चिकि꣡द् य꣡ ऋषिचो꣡दनः  
-इ꣡न्द्रं त꣡म् अ꣡छा वद न꣡व्यस्या मती꣡  
-अ꣡रिष्यन्तं न꣡ भो꣡जसे
+य᳓ उक्थे᳓भिर् न᳓ विन्ध᳓ते  
+चिकि᳓द् य᳓ ऋषिचो᳓दनः  
+इ᳓न्द्रं त᳓म् अ᳓छा वद न᳓व्यस्या मती᳓  
+अ᳓रिष्यन्तं न᳓ भो᳓जसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -205,6 +203,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। चिकित्- जानन्। उक्थेभिः- मन्त्रैः। न- सम्प्रति। विन्धते- परिचरति। यः। ऋषिचोदनः-  ऋषिचोदकः। तमिन्द्रम्। अरिष्यन्तम्- अहिंसकम्। न- च। अच्छ- अभिलक्ष्य। नव्यस्या-  अभिनवया। मत्या। भोजसे- स्वपालनाय। वद- स्तुहि॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 Sayana bhashya empty
@@ -246,8 +249,6 @@ Den, welcher an Sprüchen keinen Mangel hat, den weisen, welcher den Dichter beg
 Этого Индру пригласи самой новой молитвой,  
 Как не причиняющего вреда, для вкушения.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

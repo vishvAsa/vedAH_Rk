@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Most of the hymn is devoted to generic praise of Indra, and especially of his im
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४६  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

@@ -3,7 +3,6 @@ title = "१६ यज्ञेन यज्ञमयजन्त"
 devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "त्रिष्टुप्"
 - छन्दः - त्रिष्टुप्
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञे꣡न यज्ञ꣡म् अयजन्त देवा꣡स्  
-ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्  
-ते꣡ ह ना꣡कम् महिमा꣡नः सचन्त  
-य꣡त्र पू꣡र्वे साधियाः꣡ स꣡न्ति देवाः꣡
+यज्ञे᳓न यज्ञ᳓म् अयजन्त देवा᳓स्  
+ता᳓नि ध᳓र्माणि प्रथमा᳓नि आसन्  
+ते᳓ ह ना᳓कम् महिमा᳓नः सचन्त  
+य᳓त्र पू᳓र्वे साधियाः᳓ स᳓न्ति देवाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -221,6 +219,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यज्ञेन- धर्मेण। यज्ञम्- ऋतं विष्णुं वा। देवाः। अयजन्त- उपासते। तानि धर्माणि- ते धर्मा एव।  प्रथमाणि- पूर्वे। आसन्- अभवन्। यत्र- यस्मिन्। पूर्वे- पुराणाः। साध्याः- पुरुषसाधकाः।  देवाः। सन्ति- भवन्ति। नाकम्- तं स्वर्गमानन्दमयम्। ते- अमी। महिमानः- महात्मान  उपासकाः। सचन्त- सङ्गता भवन्ति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात् **तानि** प्रसिद्धानि **धर्माणि** जगद्-रूप-विकाराणां धारकाणि **प्रथमानि** मुख्यानि **आसन्** । एतावता सृष्टि-प्रतिपादक-सूक्त-भागार्थः संगृहीतः । 
@@ -260,15 +263,15 @@ The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
    *sacanta* in TS.TA. 
    
-&gt; "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
-&gt; 
-&gt; - those with Indra at their head and 
-&gt; - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
+> 
+> - those with Indra at their head and 
+> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
    brought into order, under control, or into comprehension'). 
 
-&gt; They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
-&gt; 
-&gt; R. \*⌊Also RV. x. 90. 16.⌋
+> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
+> 
+> R. \*⌊Also RV. x. 90. 16.⌋
 </details>
 
 <details><summary>Griffith</summary>
@@ -299,8 +302,6 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 Эти же могущества последовали на небо,  
 Где находятся прежние боги – садхья.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

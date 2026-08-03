@@ -3,7 +3,6 @@ title = "016"
 devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानः सुतो꣡ नृ꣡भिः  
-सो꣡मो वा꣡जम् इवासरत्  
-चमू꣡षु श꣡क्मनास꣡दम्
+प᳓वमानः सुतो᳓ नृ᳓भिः  
+सो᳓मो वा᳓जम् इवासरत्  
+चमू᳓षु श᳓क्मनास᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पवमानः- पुनानः। नृभिः- उपासकैः। सुतः- निष्पादितः। सोमः- रसः। शक्मना- बलेन।  चमूषु- पात्रेषु प्रतीकेषु। आसदम्- उपवेष्टुं। वाजमिव- अन्नमिव। असरत्- सरति॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नृभिः** नेतृभिर्ऋत्विग्भिः **सुतः** अभिषुतः **सोमः** **चमूषु** चमसेषु **शक्मना** बलेन **आसदम्** उपवेष्टुं **वाजमिव** युद्धमिव स्थानम् **असरत्** सरति ॥
@@ -150,7 +153,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purifying himself, pressed by men, Soma has flowed, as if to a prize, to sit in the cups, through his mastery.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
@@ -177,10 +180,6 @@ Der sich läuternde Soma ist von den Männern ausgepreßt gleichsam um den Siege
 
 Gepresst von Männern, flammend hat der Soma Labung hergeströmt, Setzt kräftig in die Schalen sich.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

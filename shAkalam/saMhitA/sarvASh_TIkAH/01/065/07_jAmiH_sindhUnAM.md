@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-जामिः꣡ सि꣡न्धूनाम् भ्रा꣡तेव स्व꣡स्राम्  
-इ꣡भ्यान् न꣡ रा꣡जा व꣡नानि अत्ति
+जामिः᳓ सि᳓न्धूनाम् भ्रा᳓तेव स्व᳓स्राम्  
+इ᳓भ्यान् न᳓ रा᳓जा व᳓नानि अत्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

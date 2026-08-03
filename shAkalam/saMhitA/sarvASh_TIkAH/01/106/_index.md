@@ -1,6 +1,5 @@
 +++
 title = "+106"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ ation and makes the same appeal. The verse conforms better to its context in thi
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०६   कुत्स आङ्गिरसः। विश्वे देवाः। जगती, ७ त्रिष्टुप्
 </details>

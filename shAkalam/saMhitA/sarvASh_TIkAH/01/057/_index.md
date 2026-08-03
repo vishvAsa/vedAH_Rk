@@ -1,6 +1,5 @@
 +++
 title = "+057"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ One of the puzzles of the hymn is the identity of the female addressee in verse 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५७   सव्य आङ्गिरसः। इन्द्रः। जगती।
 </details>

@@ -3,7 +3,6 @@ title = "002"
 devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ सुनीथो꣡ ददाशु꣡षे  
-अजुर्यो꣡ जर꣡यन्न् अरि꣡म्  
-चा꣡रुप्रतीक आ꣡हुतः
+यः᳓ सुनीथो᳓ ददाशु᳓षे  
+अजुर्यो᳓ जर᳓यन्न् अरि᳓म्  
+चा᳓रुप्रतीक आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -128,6 +126,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। सुनीथः- शोभननेता। ददाशुषे- दात्रे। अजुर्यः- जरारहितः। अरिम्- शत्रुम्। जरयन्।  चारुप्रतीकः- कल्याणदीप्तिः। आहुतः- आराधितो भवति॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 सुनीथःशोभाननयनः अनुर्यः अजरणीयः अनभिचव्यः वारुप्रतीकः शोभनोपक्रमोयोस्तिसोग्निः ददा- शुषेहविर्दत्तवते यजमानायतदर्थं अरिन्तस्यश्त्रुं जरयन् नाशयन् आहुतः समन्तात् आराधितोभवति ॥ २ ॥
@@ -145,7 +148,7 @@ _________
 
 Who offers good guidance to the one doing pious work, himself unaging  but aging the other,  
 whose countenance is lovely when he is bepoured,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
@@ -183,8 +186,6 @@ Der schön dem Frommen Bahnen schafft, nicht alternd altern lässt den Feind, Du
 Кто старит врага, не старея (сам),  
 У кого милый лик, когда он полит маслом,
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

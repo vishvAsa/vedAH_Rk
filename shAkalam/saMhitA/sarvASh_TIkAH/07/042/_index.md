@@ -1,6 +1,5 @@
 +++
 title = "+042"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ All Gods
 All Gods 68 These two hymns are in some ways companion pieces, progressing similarly through the ritual and sharing means of expression and images. For details see individual discussions below.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४२  मैत्रावरुणर्वसिष्ठः।विश्वे देवाः। त्रिष्टुप्।
 </details>

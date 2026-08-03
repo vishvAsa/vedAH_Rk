@@ -3,7 +3,6 @@ title = "009"
 devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वः श꣡र्धं रथेशु꣡भं  
-त्वेष꣡म् पनस्यु꣡म् आ꣡ हुवे  
-य꣡स्मिन् सु꣡जाता सुभ꣡गा महीय꣡ते  
-स꣡चा मरु꣡त्सु मीळ्हुषी꣡
+तं᳓ वः श᳓र्धं रथेशु᳓भं  
+त्वेष᳓म् पनस्यु᳓म् आ᳓ हुवे  
+य᳓स्मिन् सु᳓जाता सुभ᳓गा महीय᳓ते  
+स᳓चा मरु᳓त्सु मीळ्हुषी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -192,6 +190,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्। वः- युष्माकम्। शर्धः- बलम्। रथेशुभम्- रथे शोभमानम्। त्वेषम्- दीप्तम्। पनस्युम्-  स्तुत्यम्। आ हुवे- आह्वये। यस्मिन् बले। मरुत्सु। मीळ्हुषी- सन्तुष्टा। सुजाता- सुष्ठु जाता।  सुभगा- सौभाग्यवती। रोदसी- विद्युन्मयी शक्तिर्मरुत्पत्नीभूता रोदसी। महीयते- पूज्यते॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे मरुतः **वः** **शर्धं** युष्मदीयं बलं गणं **रथेशुभं** रथे शोभनं **त्वेषं** दीप्तं **पनस्युं** स्तुत्यम् **आ** **हुवे** आह्वये। **यस्मिन्** शर्धे **सुजाता** सुष्ठु प्रवृद्धा **सुभगा** शोभनभाग्यातिमहती **मीळ्हुषी** ।  ‘ मीळ्हुष्टम शिवतम' इत्यादौ दर्शनात् मीढ्वान् रुद्रः। तत्पत्नी मीळ्हुषी । **मरुत्सु** **सचा** सह **महीयते** पूज्यते **तं** शर्धमा हुवे । आपस्तम्बोऽपि रुद्रपत्नीं मीळ्हुषीसंज्ञया व्यवजहार - उत्तरया दक्षिणस्यामीशानमावाहयति लौकिक्या वाचोत्तरस्यां मीळ्हुषीं मध्ये जयन्तम् ' ( आप. गृ. २०. १-३ ) इति ॥ ॥ २० ॥ ॥ ४ ॥
@@ -214,7 +217,7 @@ The rain-bestowing goddess: mīḷhuṣī is another name of **Rodasi**, the wif
 
 This troop of yours, beauty on the chariot, vibrant, inviting admiration  do I call here,  
 in which the noble, well-portioned (Rodasī) shows her greatness, the  generous one in company with the Maruts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
@@ -253,8 +256,6 @@ Ich rufe eure schnelle Schar, die schöne wagenglänzende, Bei der die holde, ho
 Среди которой благородная, дающая счастье (Родаси)  
 Пользуется уважением у Марутов, (она,) щедрая.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

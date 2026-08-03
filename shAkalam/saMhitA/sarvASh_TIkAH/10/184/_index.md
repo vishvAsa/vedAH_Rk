@@ -1,6 +1,5 @@
 +++
 title = "+184"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Pregnancy/Birth Charm [To Assorted Divinities]
 Tvaṣṭar Garbhakartar or Viṣṇu Prājāpatya  
 3 verses: anuṣṭubh  
 This little charm follows naturally on the immediately preceding hymn. There a  married couple prepares to have sex in order to conceive; here a range of gods and  goddesses responsible for conception and safe pregnancy are called upon to ensure  conception followed by a full-term birth.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८४  त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः। १ विष्णु-त्वष्टृ-प्रजापति-धातारः, २ सिनीवालीसरस्वत्यश्विनः, ३  अश्विनौ । अनुष्टुप् ।
 </details>

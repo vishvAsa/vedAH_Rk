@@ -3,7 +3,6 @@ title = "001"
 devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-गउ꣡र् धयति मरु꣡तां᳐  
-श्रवस्यु꣡र् माता꣡ मघो꣡नाम्  
-युक्ता꣡ व꣡ह्नी र꣡थाना᳐म्
+गउ᳓र् धयति मरु᳓तां᳐  
+श्रवस्यु᳓र् माता᳓ मघो᳓नाम्  
+युक्ता᳓ व᳓ह्नी र᳓थाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मघोनाम्- सम्पद्वताम्। मरुताम्- प्राणविशेषाणां वातानां वा। माता- जननी। श्रवस्युः-  अतीन्द्रियश्रवणोपलक्षितानुभूतिकामा। रथानाम्- मरुद्रथानां सद्रंहणप्रतीकानाम्। वह्नी- वोढ्री।  युक्ता- समाधिस्था। युज समाधौ। गौः- माध्यमिका वागिति सायणः। धयति- पाययति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मघोनां** धनवतां **मरुतां** **माता** निर्मात्री **गौः** पृश्निरूपा । ‘पृश्नियै वै पयसो मरुतो जाताः' इति श्रुतेः। यद्वा । गौर्माध्यमिकी वाक् । तत्रैव मध्यमस्थाने मरुतामपि वर्तनात्तेषां तत्पुत्रत्वमुपचर्यते। **धयति** सोमं पिबति पाययति वा स्वपुत्रान् मरुतः । किमिच्छन्ती। **श्रवस्युः** अन्नं कामयमाना । कीदृशी। **रथानां** मारुतानां **वह्निः** पृषतीभिर्वडवाभिर्वोढ्री संयोजयित्री सा **युक्ता** सर्वत्र समन्तात् पूज्या भवति ॥
@@ -156,7 +159,7 @@ The cow: cf. RV. 1.23.10; 2.34.2
 
 The cow herself takes suck, the fame-seeking mother of the bounteous  Maruts;  
 she is yoked as the draft-horse of their chariots,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
@@ -190,8 +193,6 @@ Die Kuh, die nach der Nahrung lechzt, der reichen Maruts Mutter trinkt, Zum Zieh
 Мать щедрых Марутов,  
 Возница колесниц, запряженная (в колесницы),
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

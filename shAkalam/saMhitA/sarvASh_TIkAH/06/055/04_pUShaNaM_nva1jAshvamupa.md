@@ -3,7 +3,6 @@ title = "004"
 devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-पूष꣡णं नु꣡ अजा꣡शुवम्  
-उ꣡प स्तोषाम वाजि꣡नम्  
-स्व꣡सुर् यो꣡ जार꣡ उच्य꣡ते
+पूष᳓णं नु᳓ अजा᳓शुवम्  
+उ᳓प स्तोषाम वाजि᳓नम्  
+स्व᳓सुर् यो᳓ जार᳓ उच्य᳓ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,6 +136,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। स्वसुः- स्वतः सरणशीलाया उषसो ज्ञानोदयदेवतायाः। जारः- रसनिष्पादकः। इत्युच्यते।  तम्। अजाश्वम्- गतिशीलप्राणतुरगयुक्तम्। वाजिनम्- सद्गतिमन्तम्। वज गतौ। पूषणम्- पोषकं  सूर्यम्। स्तोषम- स्तवाम॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अजाश्वं** छागवाहनं **वाजिनम्** अन्नवन्तं बलवन्तं वा **पूषणं** पोषकं देवं **नु** अद्य **उप** **स्तोषाम** उपस्तवाम। **यः** पूषा **स्वसुः** उषसः **जारः** उपपतिरिति **उच्यते** तं पूषणमित्यन्वयः ॥
@@ -160,7 +163,7 @@ Svasur yo **jāra** ucyate, the sister of Pūṣan is the dawn, with whom he, as
 
 Pūṣan who has goats for horses let us now approach with praise—the  prizewinner,  
 who is said to be the lover of his sister.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
@@ -195,8 +198,6 @@ Lasst uns den Puschan preisen jetzt, den raschen, der mit Ziegen fährt, Den man
 (Того,) кто зовется любовником (своей) сестры.
 </details>
 
-
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पूषा
@@ -212,7 +213,7 @@ Lasst uns den Puschan preisen jetzt, den raschen, der mit Ziegen fährt, Den man
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यः) जो (स्वसुः) बहिन के समान वर्त्तमान उषा का (जारः) जीर्ण करानेवाला (उच्यते) कहा जाता है उस (वाजिनम्) ज्ञान और बल का देनेवाला (अजाश्वम्) जिसमें बकरी और घोड़े विद्यमान (पूषणम्) जो पुष्टि करनेवाला है, उस आदित्य की हम (नु) शीघ्र (उप, स्तोषाम) प्रशंसा करें ॥४॥
+पदार्थान्वयभाषाः -  (यः) जो (स्वसुः) बहिन के समान वर्त्तमान उषा का (जारः) जीर्ण करानेवाला (उच्यते) कहा जाता है उस (वाजिनम्) ज्ञान और बल का देनेवाला (अजाश्वम्) जिसमें बकरी और घोड़े विद्यमान (पूषणम्) जो पुष्टि करनेवाला है, उस आदित्य की हम (नु) शीघ्र (उप, स्तोषाम) प्रशंसा करें ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "+070"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ For an analysis of the phonetic and grammatical features of the entire hymn, see
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७०  पुरुहन्मा आङ्गिरसः।इन्द्रः । बृहती, १-६ प्रगाथः (विषमा बृहती समा सतोबृहती), १२ शंकुमती, १३  उष्णिक्, १४ अनुष्टुप्, १५ पुरउष्णिक्
 </details>

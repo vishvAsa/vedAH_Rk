@@ -3,7 +3,6 @@ title = "016"
 devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "सतो बृहती"
 - छन्दः - सतो बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-सप्त꣡ हो꣡तारस् त꣡म् इ꣡द् ईळते तुवा  
-अ꣡ग्ने सुत्य꣡जम् अ꣡ह्रयम्  
-भिन꣡त्सि अ꣡द्रिं त꣡पसा वि꣡ शोचि꣡षा  
-प्रा꣡ग्ने तिष्ठ ज꣡नाँ अ꣡ति
+सप्त᳓ हो᳓तारस् त᳓म् इ᳓द् ईळते तुवा  
+अ᳓ग्ने सुत्य᳓जम् अ᳓ह्रयम्  
+भिन᳓त्सि अ᳓द्रिं त᳓पसा वि᳓ शोचि᳓षा  
+प्रा᳓ग्ने तिष्ठ ज᳓नाँ अ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -235,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तम्- अमुम्। त्वाम्- त्वाम्। अग्ने। सुत्यजम्- शोभनत्यागशीलम्। अह्रयम्- अकुटिलम्। सप्त  होतारः। ईळते- स्तुवन्ति। शोचिषा- ज्वलता। तपसा। अद्रिम्- जडप्रतीकपाषाणम्। वि-  विशेषेण। भिनत्सि। अग्ने। जनान्। अति- अतिक्रम्य। तिष्ठसि॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **तमित्** तमेव **त्वा** त्वां **सप्त** **होतारः** होत्रकाः **ईळते** स्तुवन्ति । कीदृशं त्वाम् । **सुत्यजं** सुत्यागम् । अभिमतप्रदमित्यर्थः । **अह्रयम्** अक्षीणं प्रवृद्धम्। किंच **अद्रिं** मेघं **तपसा** तापकेन **शोचिषा** तेजसा । तपसा शोचिषा चेति वा योज्यम् । **वि** **भिनत्सि**। हे **अग्ने** **जनान्** अस्मान् **अति** अतीत्य **प्र** **तिष्ठ** प्रगच्छ हविरादाय देवान् प्रति । अथवास्मद्विरोधिजनानतिक्रम्य प्र तिष्ठ ॥
@@ -257,7 +260,7 @@ Janām = asmān, proceed to the gods with theoblation, having left us behind
 
 The seven Hotars reverently invoke just you, o Agni, the unabashed one  displaying great abandon.  
 You split apart the rock with your heat and your flame. Agni, stand out  beyond the peoples.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -287,8 +290,6 @@ Als solchen preisen, Agni, sieben Priester dich, den kecken, tücht'gen Schleude
 Ты раскалываешь скалу жаром, пламенем.  
 Агни, двигайся вперед, за пределы людей!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

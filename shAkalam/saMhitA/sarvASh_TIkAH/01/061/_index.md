@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -34,4 +33,10 @@ It is difficult to do justice to this tour de force of poetic craft, and many of
 Indra For general discussion of the intricate structure of this hymn, see the published
 
 introduction. as well as Jamison 2007: 60-68.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+नोधा गौतमः। इन्द्रः। त्रिष्टुप्।
 </details>

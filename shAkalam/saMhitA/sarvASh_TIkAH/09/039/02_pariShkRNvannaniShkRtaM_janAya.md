@@ -3,7 +3,6 @@ title = "002"
 devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-परिष्कृण्व꣡न्न् अ꣡निष्कृतं  
-ज꣡नाय यात꣡यन्न् इ꣡षः  
-वृष्टिं꣡ दिवः꣡ प꣡रि स्रव
+परिष्कृण्व᳓न्न् अ᳓निष्कृतं  
+ज᳓नाय यात᳓यन्न् इ᳓षः  
+वृष्टिं᳓ दिवः᳓ प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अनिष्कृतम्- असंस्कृतम्। परिष्कृण्वन्- संस्कुर्वन्। जनाय- मनुष्येभ्यः। इषः- सदिच्छाः।  यातयन्- प्रेरयन्। दिवः- नभसः। वृष्टिम्। परि स्रव॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अनिष्कृतम्** असंस्कृतं यजमानं स्थानं वा **परिष्कृण्वन्** संस्कुर्वन् **जनाय** यागकर्त्रे **इषः** अन्नानि **यातयन्** निर्गमयन् **दिवः** अन्तरिक्षात् **वृष्टिं** **परि** **स्रव** ॥
@@ -180,10 +183,6 @@ Das unfertige vollkommen machend, dem Manne mit Labsalen vergeltend, laß des Hi
 
 Das ungeschmückte schmückend schön, dem Menschen reichend Labetrunk, Ergiess des Himmels Regen uns.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

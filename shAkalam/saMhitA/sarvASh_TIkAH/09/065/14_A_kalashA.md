@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,12 +11,11 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ कल꣡शा अनूषत  
-इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
-ए꣡न्द्रस्य पीत꣡ये विश
+आ᳓ कल᳓शा अनूषत  
+इ᳓न्दो धा᳓राभिर् ओ᳓जसा  
+ए᳓न्द्रस्य पीत᳓ये विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,6 +135,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्दो- क्लेदनशील। कलशाः- रसपात्राणि रसोपलब्धिस्थानानि प्रतीकभूतानि। अनूषत- उपासकैः  स्तूयन्ते। आ- आभिमुख्येन। ओजसा- तेजसा। धारया। इन्द्रस्य पीतये- इन्द्रानुभूतये। आ  विश- भाजनं प्रतीकं प्रविश॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्दो** क्षरणशील सोम **ओजसा** बलेन युक्तस्य तव **धाराभिः** निरन्तराभिः सहिताः **कलशाः** । प्रयोगबाहुल्यापेक्षमेतद्बहुवचनम् । द्रोणकलशाः **आ** **अनूषत** स्तोतृभिः आभिमुख्येन स्तूयन्ते । सोमाभिषवकाले हि ऋत्विजः स्तुवन्ति खलु। ततस्त्वम् **इन्द्रस्य** **पीतये** पानाय **आ** **विश** ग्रहांश्चमसांश्च प्रविश ॥
@@ -154,7 +157,7 @@ _________
 
 The tubs have cried out, o drop. In streams, with strength,  
 enter (them) for Indra’s drinking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
@@ -181,10 +184,6 @@ Die Krüge erbrausten kräftiglich, o Indu, durch deine Ströme. Zieh ein zum Tr
 
 Erklungen, Indu, sind mit Macht die Schüsseln hier von deinem Strom, Zum Trunk des Indra geh hinein.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

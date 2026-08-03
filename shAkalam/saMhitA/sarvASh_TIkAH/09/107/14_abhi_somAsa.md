@@ -3,7 +3,6 @@ title = "014"
 devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12,13 +11,12 @@ ChandaH = "बृहती"
 - छन्दः - बृहती
 </details>
 
-
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ सो꣡मास आय꣡वः  
-प꣡वन्ते म꣡दियम् म꣡दम्  
-समुद्र꣡स्या꣡धि विष्ट꣡पि मनीषि꣡णो  
-मत्सरा꣡सः सुवर्वि꣡दः
+अभि᳓ सो᳓मास आय᳓वः  
+प᳓वन्ते म᳓दियम् म᳓दम्  
+समुद्र᳓स्या᳓धि विष्ट᳓पि मनीषि᳓णो  
+मत्सरा᳓सः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समुद्रस्य- हृत्समुद्रस्य। अधि विष्टपे- उच्छ्रये देशे। मनीषिणः- मेधाविनः। मत्सरासः- हर्षकराः।  स्वर्विदः- ज्योतिर्विदः। आयवः- शोभनगतयः। सोमासः- रसाः। मद्यम्- तृप्तिकरम्। मदम्-  आनन्दम्। अभि पवन्ते- अभितः क्षरन्ति। १४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **आयवः** गमनशीलाः **सोमासः** सोमाः **मद्यं** मदकरं **मदम्** आत्मीयं रसम् **अभि** **पवन्ते** । अभितो निर्गमयन्ति । कुत्रेत्युच्यते । **समुद्रस्य** अन्तरिक्षस्य **अधि** **विष्टपि** अधिकं समुच्छ्रिते पवित्रे। यद्वा । समुद्रस्य । समुद्रवन्त्यस्माद्रसाः । तस्य कलशस्याध्युपरि विष्टपि स्थाने पवित्रे निर्गमयन्ति । कीदृशाः । **मनीषिणः** मनस ईशितारः **मत्सरासः** मदकराः **स्वर्विदः** सर्वस्य लम्भकाः ॥
@@ -179,7 +182,7 @@ _________
 The soma juices, the Āyus, purify themselves into an exhilarating drink  of exhilaration—  
 they of inspired thought, bringing exhilaration and finding the sun,  
 (purify themselves) upon the surface of the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
@@ -214,8 +217,6 @@ Die Soma's rieseln hell herbei den Wonnetrank, die emsigen, Hin auf des Meeres F
 На поверхности океана, (эти) хранители мудрости,  
 Пьянящие, находящие солнце.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
