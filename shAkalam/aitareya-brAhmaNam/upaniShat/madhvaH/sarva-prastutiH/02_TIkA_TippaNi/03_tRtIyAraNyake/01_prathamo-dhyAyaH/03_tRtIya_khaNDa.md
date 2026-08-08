@@ -83,4 +83,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/17955/931/upanas/6-ait
 
 'अग्र उ एवोभयमन्तरेणे' त्यत्र अग्रशब्दार्थं वदन्नन्वयं दर्शयति अग्र एवेति ॥ उभयमन्तरेण क्रम इत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))
