@@ -246,8 +246,20 @@ _________
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे इन्द्रासोमौ **दुष्कृतः** दुष्कर्मकारिणः राक्षसान् **वव्रे** वारके **अन्तः** मध्ये **अनारम्भणे** आलम्बनरहिते **तमसि** अन्धकारे **प्र** **विध्यतं** प्रवेश्य ताडयतम् । **यथा** येन प्रकारेणैषां मध्ये **एकश्चन** एकोऽपि राक्षसः **अतः** अस्मात्तमसः **पुनः** **न** **उदयत्** उद्गच्छेत् । तथा विध्यतमित्यर्थः । एतेर्लेट्यडागमः । इतश्च लोपः' इतीकारलोपः । गुणावादेशौ । **तत्** प्रसिद्धं **मन्युमत्** क्रोधयुक्तं **वां** युवयोः **शवः** बलं **सहसे** रक्षसामभिभवनाय **अस्तु** भवतु ॥
+हे इन्द्रासोमौ **दुष्कृतः** दुष्कर्मकारिणः राक्षसान् **वव्रे** वारके **अन्तः** मध्ये **अनारम्भणे** आलम्बन-रहिते **तमसि** अन्धकारे **प्र** **विध्यतं** प्रवेश्य ताडयतम् । **यथा** येन प्रकारेणैषां मध्ये **एकश्चन** एकोऽपि राक्षसः **अतः** अस्मात् तमसः **पुनः** **न** **उदयत्** उद्गच्छेत् ।  
+तथा विध्यतमित्यर्थः । एतेर्लेट्यडागमः ।  
+'इतश्च लोपः' इतीकारलोपः । गुणावादेशौ ।  
+**तत्** प्रसिद्धं **मन्युमत्** क्रोधयुक्तं **वां** युवयोः **शवः** बलं **सहसे** रक्षसामभिभवनाय **अस्तु** भवतु ॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> 7.104.3  proves that evil souls are hurled down into hell without any return, this proves eternal hell. - mAdhvas
+
+> If I lock someone in a room, they cannot get out. Indra is the king of the gods, so he can do the same to the rakṣasas. But calling that an eternal hell is absurd—the rakṣasa would simply die there and take another birth. No return simply would mean the rAkShasas will not return in the same condition(upadhi/body-phusical/mental). Their aupAdhika identity will not escape and will persist in it until it perishes.  
+> Also the verse uses तमस्, not नरक, and occurs within an intensely imprecatory hymn against wicked/demonic forces.
+</details>
+
 
 <details><summary>Wilson</summary>
 
