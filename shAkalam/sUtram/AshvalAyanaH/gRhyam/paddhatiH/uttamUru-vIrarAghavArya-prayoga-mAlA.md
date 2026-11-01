@@ -57,30 +57,81 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA/page/n3/mode/2u
 [[260]]
 
 सक्तुप्राशनम् ।  
-सक्तु॑मिव॒ तित॑उना पु॒नन्तो॒ यत्र॒ धीरा॒ मन॑सा॒ वाच॒मक्र॑त ।  
-अत्रा॒ सखा॑यः स॒ख्यानि॑ जानते भ॒द्रैषां॑ ल॒क्ष्मीर्नहि॒ताधि॑ वा॒चि ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/071/02_saktumiva_titaunA.md">
+<details open><summary><h5>०२ सक्तुमिव तितउना ...{Loading}...</h5></summary>
+
+स᳓क्तुम् इव ति᳓तउना पुन᳓न्तो    
+य᳓त्र धी᳓रा म᳓नसा वा᳓चम् अ᳓क्रत    
+अ᳓त्रा स᳓खायः सखिया᳓नि जानते    
+भद्रइ᳓षां लक्ष्मी᳓र् नि᳓हिता᳓धि वाचि᳓
+</details>
+</div>  
 
 दधिप्राशनम् ।  
-द॒धि॒क्राव्णो॑ अकारिषञ्जि॒ष्णोरश्व॑स्य वा॒जिनः॑ ।  
-सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूं॑षि तारिषत् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
+<details open><summary><h5>०६ दधिक्राव्णो अकारिषं ...{Loading}...</h5></summary>
+
++++(pegasus-प्रोष्ठपदासु)+++ दधि-क्रा᳓व्णो **अकारिषं**    
+जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः ।    
+**सुरभि᳓** नो मु᳓खा **करत्**    
+प्र᳓ ण **आ᳓यूँषि तारिषत्** ।
+</details>
+</div>  
 
 यज्ञोपवीतधारणम् ।  
 यज्ञोपवीतधारणमन्त्रः = यज्ञोपवीतधारणमन्त्रस्य, ब्रह्मा ऋषिः, त्रिष्टुप्छन्दः, परमात्मा (त्रयीविद्या) देवता ॥ यज्ञोपवीतधारणे विनियोगः
 
-य॒ज्ञो॒प॒वी॒तं प॑र॒मं प॒वित्रं॑ प्र॒जाप॑ते॒र्यत्स॑ह॒जं पु॒रस्ता॑त् ।  
-आ॒यु॒ष्य॑म॒ग्र्यं॑ प्रति॑मुञ्च शु॒भ्रं य॑ज्ञोपवी॒तं बल॑मस्तु॒ तेजः॑ ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md">
+<details open><summary><h5>यज्ञोपवीतं परमं पवित्रं ...{Loading}...</h5></summary>
+
+य॒ज्ञो॒प॒वी॒तं प॑र॒मं प॒वित्रं॑    
+प्र॒जाप॑ति॒र् यत् स॑ह॒जं पु॒रस्ता॑त् ।    
+आ॒यु॒ष्य॑म् अ॒ग्र्यं॑ प्रति॑मुञ्च शु॒भ्रं    
+य॑ज्ञोपवी॒तं बल॑म् अस्तु॒ तेजः॑ ॥  
+  
+<details><summary>छन्द-आदि (द्रष्टुं नोद्यम्)</summary>  
+  
+> यज्ञोपवीत-धारण-महा-मन्त्रस्य    
+ब्रह्म र्षिः,    
+त्रिष्टुप् च्छन्दः    
+त्रयी विद्या देवता ।    
+यज्ञोपवीतधारणे विनियोगः ।   
+  
+</details>
+</details>
+</div>  
 
 मौञ्जीधारणमन्त्रः =  
-प्रा॒वे॒पा मा॑ बृह॒तो मा॑दयन्ति प्रवाते॒जा इरि॑णे॒ वर्वृ॑तानाः ।  
-सोम॑स्येव मौजव॒तस्य॑ भ॒क्षो वि॒भीद॑को॒ जागृ॑वि॒र्मह्य॑मच्छान् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/034/01_prAvepA_mA.md">
+<details open><summary><h5>०१ प्रावेपा मा ...{Loading}...</h5></summary>
+
+प्रावेपा᳓ मा बृहतो᳓ मादयन्ति    
+प्रवातेजा᳓ इ᳓रिणे व᳓र्वृतानाः    
+सो᳓मस्येव मौजवत᳓स्य भक्षो᳓    
+विभी᳓दको जा᳓गृविर् म᳓ह्यम् अछान्
+</details>
+</div>  
 
 अजिनधारणमन्त्रः =  
-ऋ॒क्सा॒माभ्या॑म॒भिहि॑तौ॒ गावौ॑ ते साम॒ नावि॑तः ।  
-श्रोत्रं॑ ते च॒क्रे आ॑स्तां दि॒वि पन्था॑श्चराच॒रः ॥ [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/11_RksAmAbhyAmabhihitau_gAvau.md">
+<details open><summary><h5>११ ऋक्सामाभ्यामभिहितौ गावौ ...{Loading}...</h5></summary>
+
+ऋक्सामा᳓भ्याम् अभि᳓हितौ    
+गा᳓वौ ते सामना᳓व्+++(=शान्ताव्)+++ इतः ।    
+श्रो᳓त्रं ते चक्रे᳓ आस्तां    
+दिवि᳓ प᳓न्थाश् चराचारः᳓+++(=ecliptic)+++ ॥११
+</details>
+</div>  
 
 दण्डधारणमन्त्रः =  
-ए॒ष क्षे॑ति॒ रथ॑वीतर्म॒घवा॒ गोम॑ती॒रनु॑ ।  
-पर्व॑ते॒ष्वपः॑ श्रितः ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/061/19_eSha_xeti.md">
+<details open><summary><h5>१९ एष क्षेति ...{Loading}...</h5></summary>
+
+एष᳓ क्षेति र᳓थवीतिर्    
+मघ᳓वा गो᳓मतीर् अ᳓नु    
+प᳓र्वतेषु अ᳓पश्रितः
+</details>
+</div>  
 
 वेदारम्भः - आथीर्वादः सम्भावना ॥
 
