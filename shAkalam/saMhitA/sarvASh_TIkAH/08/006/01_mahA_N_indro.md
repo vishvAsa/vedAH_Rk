@@ -17,6 +17,13 @@ ChandaH = "गायत्री"
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव  
 स्तो᳓मैर् वत्स᳓स्य वावृधे
 </details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा ।  
+प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ।
+</details>
+
 
 <details><summary>Vedaweb annotation</summary>
 
