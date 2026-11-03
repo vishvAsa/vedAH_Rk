@@ -222,7 +222,7 @@ Although this vs. is lexically and syntactically quite distinct from V.38.2, the
 spreads itself out longest, also an image of unbounded expanse. The means of expressing the concept are quite different, but the concept itself seems the same.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra were identified with the Maruts already by Sāyaṇa. Since this section culminates in the Midday Pressing (4d), this identification makes sense, since that pressing is shared by Indra and the Maruts.
 </details>

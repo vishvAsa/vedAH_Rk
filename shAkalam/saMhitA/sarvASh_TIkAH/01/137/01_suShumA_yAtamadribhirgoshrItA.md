@@ -299,11 +299,12 @@ We have pressed—you two, drive hither—with the stones; these
 exhilarating ones here are mixed with cows [=milk]—these  
 exhilarating soma drinks.  
 You two kings, touching heaven, come here right to us, into our midst. These with their milk mixture are for you two, Mitra and Varuṇa—the  clear soma drinks and those with their milk mixture.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 ā́yātam is parenthetical and in 2nd position, breaking up syntactic constituents (suṣumá … ádribhiḥ and imé … índavaḥ respectively), in the initial pādas of both these verses.
 

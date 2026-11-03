@@ -201,11 +201,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Here and now you two will mount the swift-tracked chariot, o Aśvins. Here should these praise songs of mine move you, like a cloud.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 With Kümmel (181-82), I assign the curious paired reduplicated med. opt.
 

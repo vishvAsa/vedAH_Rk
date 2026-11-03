@@ -163,7 +163,7 @@ The āmreḍita rucā́-rucā evokes the single instr. rucā́at the end of the 
 Pāda c is characterized by alliteration of an unremarkable type: víśvā vásūny ā́viśa.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity. Vss. 2 and 3 have forms of the pres. part.
 

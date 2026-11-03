@@ -192,11 +192,12 @@ It is known: yasya tyacchambaram made: tyat = tat prasiddham yathā **bhavati** 
 
 In whose exhilaration you subdued Śambara for Divodāsa—  
 here is that soma, Indra, pressed for you. Drink!
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain of pādas cd, the position of sá and of the unaccented elements indra te strongly suggests that the clause begins in the middle of c -- or rather that sómaḥ sutáḥ has been extraclausally topicalized. Although in vss. 1-2 this nom. phrase could belong to the rel. clause of ab, that prospect is foreclosed in vs. 3, because soma is represented in the rel. cl. of 3ab by the instr. yéna.
 

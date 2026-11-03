@@ -214,11 +214,12 @@ _________
 
 The Ruśamas send me home well-ornamented with thousands of cows,  o Agni.  
 The sharp (soma-drinks, when) pressed, exhilarated Indra at the early  brightening of the night, at its final turn.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
-<details open><summary><h2>13-14 ...{Loading}...</h2></summary>
+<details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 The two pāda-final sequences páritakmyāyāḥ (13d) and páritakmyā yā́m̐ (14a) in adjacent pādas are puzzling. The published translation reflects emendations of both forms to loc. sg. páritakmyāyām. This loc. occurs 6x, always pāda-final, including in the next hymn, V.31.11 -- by far the most common form to this stem. Moreover, VI.24.9d is identical to 14d, save for having the loc. páritakmyāyām -- a variation that Bloomfield (RVReps) finds “baffling.” The arguments in favor of emendation are the dominance of the loc. sg. and its appearance both in the next hymn and in the otherwise identical pāda in VI.24.9. However, these arguments cut both ways: it is difficult to understand how these forms would have become mangled - especially given the dominance of that same loc. sg. It cannot be claimed that the redactors misunderstood the forms because they had never seen their like. I therefore now feel that we must accept that the forms were in the urtext, deliberately produced by the poet, who was playing games with this well-known pāda-final temporal expression. I still believe that the intent of both forms is the same as the loc., but that the loc. has been deliberately altered, in two different ways, conditioned by the immediate context.
 

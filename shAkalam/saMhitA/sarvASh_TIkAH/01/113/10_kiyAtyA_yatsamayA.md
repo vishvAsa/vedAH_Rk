@@ -272,7 +272,7 @@ ví síndhavaḥ samáyā sasrur ádrim
 Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that frequently work formulaically with each other, samáyā seems to partake more in the semantics of sám than of samá- ‘same’ and to mean ‘altogether’, ‘all at once’, or ‘together with’. I take it in the last meaning here: the question being asked is when the current Dawn will be (re)joined with her sister Dawns, both preceding and following her.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details open><summary><h2>07-13 ...{Loading}...</h2></summary>
+<details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
 

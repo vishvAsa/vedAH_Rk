@@ -179,7 +179,7 @@ I supply “lying there” with Dānu, because in two of the four singular passa
 sense ‘pass over’ fits having the prostrate enemy as the object.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 My interpr. of the structural relationship of these two vss. and of the internal structure of vs. 8 differs considerably from the standard. Because of the parallelism of the openings of these vss., both with utá smā, I think that there should be two parallel clauses. But vs. 7 is a hí clauses with accented verb (āhúḥ), whereas the only verb in vs. 8 is maṃhase in pāda c. I am also puzzled by the pári in 8a, which is difficult to construe with the rest. There is no pári √maṃh elsewhere, and pári is in any case not situated where we would expect a preverb in tmesis. Witzel Gotō tr.
 

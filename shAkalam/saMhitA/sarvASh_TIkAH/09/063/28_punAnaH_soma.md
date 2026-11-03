@@ -165,11 +165,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Becoming purified in a stream, o Soma drop, smash away all errors, away the demonic forces, o you of good resolve.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
-<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+<details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The páva- sequence found in the last two tṛcas is brought to an end with the alternative pres. part. punānáḥ ‘becoming purified’, which opens this last tṛca. The lexeme ápa √han also found in once each in the last two tṛcas (24a, 26c) occurs in the first two vss.: ápa … jahí (28b, c), apaghnán (29a).
 

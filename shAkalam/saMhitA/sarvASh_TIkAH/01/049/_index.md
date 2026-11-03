@@ -25,10 +25,11 @@ Dawn On this hymn and, especially, on its “versified sandhi paradigm” (in Je
 The hymn itself has a simple ring structure: bhadrébhiḥ in 1a (with which ‘rays’ is supplied on the basis of I.48.13) matches ráśmibhiḥ in 4a, rocanā́t in 1b matches rocanám in 4b, while the genitive diváḥ of 1b anticipated in 3d.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/044-049.md">
-  <details open><summary><h2>44-49 ...{Loading}...</h2></summary>
+  <details><summary><h2>44-49 ...{Loading}...</h2></summary>
 
 For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
-  </details>
+  
+</details>
 </div>
 </details>
 

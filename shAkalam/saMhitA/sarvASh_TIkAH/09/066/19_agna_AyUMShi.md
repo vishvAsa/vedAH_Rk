@@ -202,7 +202,7 @@ Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preve
 This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
 

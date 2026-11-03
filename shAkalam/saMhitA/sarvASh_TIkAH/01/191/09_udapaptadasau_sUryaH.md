@@ -189,11 +189,12 @@ Cf. AV 6.52.1
 
 Up has flown yonder Sun, incinerating all the many—  
 the Āditya (up) from the mountains, the smasher of the no-see-ums,  seen by all.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The rising of the sun may reflect the fact, mentioned above, that many bugs feed at twilight (dawn and dusk), and sunrise portends the end of the (pre-)dawn feeding frenzy.
 

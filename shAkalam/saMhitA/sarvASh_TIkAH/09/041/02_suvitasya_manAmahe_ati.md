@@ -151,7 +151,7 @@ With Oldenberg, Geldner, Renou I take the gen. suvitásya as the gen. obj. of ma
 durāvyàm, modifying sétum, is assigned to a stem dur-ā́vya / durā́via by Grassmann, misrepresenting the accent, inter alia. As Oldenberg points out, however, the stem is really durāvī́-, a root noun cmpd. (see now Scarlatta 497), and it must mean ‘difficult to pursue / follow’. Since sétu- here refers to the curls of the sheep’s fleece (in my view), these curls can be conceived of as the tracks that the liquid would follow as it's being strained through the fleece, tracks that can be difficult to pursue. So the acc. phrase sétuṃ durāvyàm jams two different but evocative images into one. Note also that suvitásya … durāv(í)yam is something of a phonetic figure, with the semantically contrastive adverbial prefixes su and dus, but different verbal roots (√i and √vī) -- though internal sandhi provides √i with an apparent initial v matching vī.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are somewhat illuminated by IX.73.4-5, containing some very similar expressions: 73.4d padé-pade pāśínaḥ santi sétavaḥ “At every step there are snares that bind”; 73.5bcd … saṃdáhanto avratā́n / … ápa dhamanti … tvácam ásiknīm “…burning up those who follow no commandment, they blow away … the black skin.” Cf. also bhū́rṇayaḥ in 73.4b, corresponding to bhū́rṇayaḥ in our 1a, and note also that ápa dhamanti in 73.5c with “black skin” as its obj. resembles ghnántaḥ … ápa in our 1c, also with “black skin” as object.
 

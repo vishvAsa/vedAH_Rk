@@ -246,7 +246,7 @@ morphological variant of matsarín(-tama)- (4x), with a different possessive suf
 The initial sá in both our pāda and the one on which it is based does not follow my rules for sá 2nd-ps. reference. On this aberrancy see comm. ad IX.76.5, where it can be motivated. That pāda was then simply borrowed (and slightly altered) here.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
-<details open><summary><h2>31-33 ...{Loading}...</h2></summary>
+<details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 The first vs. of the tṛca contains a form of √sṛj, thus concatenating with the previous tṛca. Both the first (31) and last (33) vss. contain a reference to the sun, and I see one in the middle vs. as well; see comm. ad 32.
 

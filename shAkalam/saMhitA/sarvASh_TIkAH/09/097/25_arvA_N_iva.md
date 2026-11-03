@@ -263,11 +263,12 @@ _________
 
 Like a steed rushing to a win for the sake of fame, rush to the pursuit  of Indra and Vāyu.  
 Give us a thousand lofty refreshments; become a finder of chattels  while you are being purified, o Soma.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Like the tṛca 19-21, this one focuses in great part on the gods as drinkers of soma and the desire to bring them to the ritual; the “pursuit” (vītím) of Indra and Vāyu in 25b is reprised in devā-vī́- ‘pursuing the gods’ in 26a, while the gods are mentioned twice in 27ab. The final vs. also begins with the typical hymnsummarizing evā́as three times elsewhere in this hymn (vss. 13-15, 19-21, 34-36).
 

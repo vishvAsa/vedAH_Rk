@@ -254,7 +254,7 @@ However, I now wonder if we should interpret the abstract amṛtatvám in c in l
 Note that the phrase víśve … devā́ḥ, parcelled out over two pādas, may teasingly invite us to connect the first term, víśve, with the dominant epithet in this hymn, vaiśvānará-.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
-<details open><summary><h2>03-05 ...{Loading}...</h2></summary>
+<details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
 

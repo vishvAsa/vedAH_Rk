@@ -138,11 +138,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The ancient yokemate of riches, the comrade who spurs on the weak, the one who most has the sacred formulation as his vehicle—upon him  do I call.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
-<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+<details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 These two vss. contain superlatives to bahuvrīhi s-stems that appear earlier in the simplex: 19c bráhma-vāhastamam: 4a bráhma-vāhase; 20c gírvanastamaḥ: 13a girvanaḥ (also 28b).
 

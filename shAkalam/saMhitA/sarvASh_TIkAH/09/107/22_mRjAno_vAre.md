@@ -204,11 +204,12 @@ _________
 
 Being groomed, purifying yourself on the sheep’s fleece, as bull you  have roared down into the wood(en cup).  
 O self-purifying Soma, you rush to the rendezvous with the gods, being  anointed with cows.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
-<details open><summary><h2>21-22 ...{Loading}...</h2></summary>
+<details><summary><h2>21-22 ...{Loading}...</h2></summary>
 
 Lexical cohesion: mṛjyámānaḥ opening 21a echoed by mṛjānáḥ opening 22a; pávamāna 21d, 22a, c; arṣasi 21d, 22d.
 

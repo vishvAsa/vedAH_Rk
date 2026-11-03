@@ -163,7 +163,7 @@ The verb ví … cṛntánti lacks an overt object, and several different ones h
 The pf. prá vavāca is one of the very few pf. forms to √vac with full reduplication (against uvā́ca, etc.). On the basis of its agreement with Aves. vauuac-, Kümmel (p. 441) considers this the older type of reduplication, with the newer type spreading from Samprasāraṇa roots.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two verses are syntactically dependent on each other, consisting of three relative clauses (7ab, cd, 8ab) and a main clause with coreferential pronoun (8cd). However, this structure is complicated by the fact that, though two of the rel.
 

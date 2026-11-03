@@ -243,7 +243,7 @@ by Klein (I.425), takes it as the obj. of ārcat, as ‘last (song)’. See Geld
 The standard interpr. (Geldner [/Witzel Gotō], Oldenberg, Klein I.425) take aryáḥ as nom. sg., referring to Cyavatāna of c, and Thieme (Fremdl. 85) also thinks it’s probably nom. sg., but declines to discuss the passage because of the obscurity of ānūkám. But a patron like Cyavatāna should not be chanting or singing; that is the province of the poet-priests he is patronizing. Moreover, aryáḥ echoes gen. sg. aryáḥ in 6d, which announced the dānastuti to come, and I think the form should be interpr. in the same way in the absence of evidence to the contrary. In 9d I think that the gift of the arí- is still in question (as in 6d). The unnamed poet praised (‘sang’ ārcat) his gift for the wonder (vápuṣe) of it -- of its over-the-top munificence.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
-<details open><summary><h2>08-10 ...{Loading}...</h2></summary>
+<details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānastuti proper are further unified, all beginning utá tyé mā.
 

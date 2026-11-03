@@ -232,7 +232,8 @@ I.e., by the four stanzas of this **sūkta** from the fifth to the eighth
 
 Then, o Indra, when you smashed down from heaven the circling magic  spells of Svarbhānu,  
 Atri with the fourth formulation found the sun, hidden by darkness  because of (an act) contrary to commandment.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

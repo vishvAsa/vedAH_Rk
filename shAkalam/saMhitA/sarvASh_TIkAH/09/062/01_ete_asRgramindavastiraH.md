@@ -149,11 +149,12 @@ _________
 
 These drops have surged, swift across the filter,  
 toward all gifts of good fortune.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular sign of unity in this tṛca, though all three vss. concern the journey of the soma drops across the filter and towards the milk mixture and the rest of the ritual (as do vast numbers of other vss. in IX, of course). Vss. 2 and 3 also both contain the pres. part.
 

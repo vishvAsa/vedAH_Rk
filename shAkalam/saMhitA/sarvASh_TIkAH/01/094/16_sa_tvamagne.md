@@ -285,7 +285,7 @@ You, o Agni, knowing the quality of good fortune—for us extend our  lifetime h
 Because sá with 2nd ps. reference is restricted by rule to imperatives (see Jamison 1992 [HS 105]), ab must be a single clause, pace Geldner
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
-<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+<details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped. The 2nd hemistich of vs. 16 contains the first example in the Saṃhitā of the Kutsa refrain.
 

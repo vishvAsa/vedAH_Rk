@@ -187,7 +187,7 @@ Both Geldner and Renou take ródasī mahī́as acc. obj. of the frame, with māt
 For Heaven and Earth (i.e., the two world-halves represented by ródasī here) as subject of medial √duh, see VI.70.2 ghṛtáṃ duhāte “the two yield ghee as milk,” in a hymn to Heaven and Earth, which are the default referent of the many duals in the hymn.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
-<details open><summary><h2>04-07 ...{Loading}...</h2></summary>
+<details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yáḥ and couched in the 3rd ps.; the main clause appears to be vs. 7, with the resumptive prn. sá and 3rd ps. verb.
 

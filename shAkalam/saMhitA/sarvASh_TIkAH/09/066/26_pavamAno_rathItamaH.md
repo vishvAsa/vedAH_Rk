@@ -147,7 +147,7 @@ to a ppl. cmpd. Oldenberg himself doesn’t provide a gloss, but on the basis of
 Unfortunately “gold-glittering” for háriścandra- obscures its relationship to háreś candrā́ḥ in 25b “of the tawny one, the glittering (drops).”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Each vs. opens with a form of pávamāna-, which also connects it with the preceding tṛca (see above). An even stronger link to the previous tṛca is the gen. intens. part.
 

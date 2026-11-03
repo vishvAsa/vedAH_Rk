@@ -17,6 +17,13 @@ ChandaH = "गायत्री"
 प᳓तिः पृथिविया᳓ अय᳓म्  
 अपां᳓ रे᳓तांसि जिन्वति
 </details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
+पति॑ᳶ पृथि॒व्या अ॒यम् ।  
+अ॒पाँ रेताँ॑सि जिन्वति ।
+</details>
+
 
 <details><summary>Vedaweb annotation</summary>
 

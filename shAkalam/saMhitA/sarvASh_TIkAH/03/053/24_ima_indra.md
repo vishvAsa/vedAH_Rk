@@ -237,7 +237,8 @@ Niruktam: sa vasiṣṭhadveṣī ṛk-aham ca kapiṣṭhalo **vasi**.ṣhaḥ 
 Are these the sons of Bharata, Indra? They take note of the non-meal,  not the meal.  
 They spur the alien horse, not their own. At the contest they lead  
 around the one whose prize is (just) a bowstring.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -250,7 +251,7 @@ The mealtime prapitvá- is well attested in the RV, but apapitvá- is found only
 The accentuation of jyā̀- in the bahuvrīhi jyā̀-vāja-, against simplex jyā́-, is attributed to the shift to initial accent in some other bahuvrīhis: AiG II.1.293 with Nachtr. 81. The standard tr. avoid the problem of the sense of this cmpd by attributing to -vāja- a sense it doesn’t otherwise have: Geldner (Witzel Gotō; cf. Grassmann) Schnelligkeit, Renou la force. But vā́ja- means ‘prize’ and bahuvrīhis with it as 2nd member ‘having X as prize’. I here assume that winning only a bowstring (minus the bow) would not be a glorious outcome.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
-<details open><summary><h2>21-24 ...{Loading}...</h2></summary>
+<details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are traditionally taken as depicting the rivalry between Viśvāmitra and Vasiṣṭha, but I see no sign of this here; certainly Vasiṣṭha is not mentioned. The verbal link is supposed to be VII.104.16 adhamás padīṣṭa “let him fall lowest,” a curse uttered in a Vasiṣṭha hymn that echoes our 21c ádharaḥ sás padīṣṭa. But in neither case is the opponent named, and there is no reason to assume that Vasiṣṭha directs this at Viśvāmitra or vice versa.
 

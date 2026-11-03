@@ -232,7 +232,7 @@ drink of the god, for exhilaration.
 The 2nd hemistich contains three pairs of phonological and (partly) etymological figures: #índur índrasya, #devó devásya, matsaró mádāya#, with the 1st two presenting matching nom.+gen. grammatical figures.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Manyu Vāsiṣṭha, with the name possibly extracted from the previous tṛca, where manyú- in 8a is taken by some as part of a PN (see comm. above).
 

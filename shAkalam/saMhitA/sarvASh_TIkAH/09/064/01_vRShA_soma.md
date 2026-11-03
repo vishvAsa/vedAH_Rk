@@ -17,6 +17,12 @@ ChandaH = "गायत्री"
 वृ᳓षा देव वृ᳓षव्रतः  
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ।
+</details>
+
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -152,7 +158,18 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **वृषा** वर्षकस्त्वं **द्युमान्** दीप्तिमान् **असि** । अपि च हे **देव** द्योतमान सोम **वृषा** त्वं **वृषव्रतः** वर्षणशीलकर्मासि । किंच हे सोम **वृषा** त्वं **धर्माणि** देवानां मनुष्याणां च हितानि कर्माणि **दधिषे** धारयसि ॥
+
+
+_____________
+
+हे सोम त्वं वृषा कामानां वर्षयिताऽसि।   द्युमान्दीप्तिमांश्चासि।   हे देव यस्मात्त्वं वृषा वर्षयिता तस्मात्वं वृषव्रतो वर्षणनिमित्तं व्रतं कर्म यस्य स वृषव्रतः।   किंच यस्मात्त्वं वृषा वर्षयिता तस्माद्धर्माणि पुण्यानि दधिषे।   हे सोम त्वं वृषा धारयिताऽसि।
+
+_____________
+हे सोम त्वं वृषा कामानां वर्षयिता द्युमान् दीप्तिमांश् चासि।
+हे देव यस्मात् त्वं वृषा वर्षयिता तस्मात् त्वं वृष-व्रतो वर्ष-निमित्तं कर्म यस्यासौ वृष-व्रतः।
+किंच यस्मात् त्वं वृषा वर्षयिता तस्माद् धर्माणि पुण्यानि दधिषे धारयसि।
 </details>
+
 
 <details><summary>Wilson</summary>
 
@@ -175,7 +192,7 @@ Oldenberg’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi
 vṛ́ṣā opens the two previous pādas of this vs., it seems unlikely that a morphologically different, and at the least very rare, phonologically identical form would open the third - esp. since, when a neut. adj. is required in the next vs. (2a), the deriv. vṛ́ṣṇya- is employed.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this opening tṛca is marked by the identification of Soma and his attributes with a bull (vṛ́ṣan-). This theme is especially dominant in vss. 1 and 2: all three pādas of vs. 1 open vṛ́ṣā, with the bahuvrīhi vṛ́ṣa-vrataḥ ending the first hemistich; vs. 2 is even more insistent, with two forms of the stem (or deriv. vṛ́ṣṇya-) in each of the three pādas. By contrast, vs. 3 only nods at the theme: vṛ́ṣā appears once in 3a, though the final word of the vs., vṛdhi, may be meant to echo the word phonologically.
 

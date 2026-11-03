@@ -259,7 +259,7 @@ The initial ápi of c is somewhat puzzling. Geldner (/Witzel Gotō) render it �
 In d manīṣā́can be nom. or instr. I follow Geldner in taking it as the former, while Renou and Witzel Gotō take it as the latter, with Renou taking Savitar as implied subject and Witzel Gotō víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The c-pādas of all three verses consist of a yáthā purpose clause with subjunctive.
 

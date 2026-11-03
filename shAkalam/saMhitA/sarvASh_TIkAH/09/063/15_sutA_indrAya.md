@@ -143,11 +143,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have streamed across the filter.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 14 is contrasted with the soma mixed with curds (dádhyāśir-) in 15.
 

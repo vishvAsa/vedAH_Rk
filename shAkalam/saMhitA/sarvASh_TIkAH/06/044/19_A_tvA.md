@@ -237,11 +237,12 @@ _________
 
 Your fallow bays, the bulls that have been yoked, the steeds with their  bullish chariot and with their bullish reins,  
 the bulls that convey your mace—let them, well-yoked, convey you here  in our direction for bullish exhilaration.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This tṛca has a more obvious unifying feature than the last several: the repeated ‘bull’ words, vṛ́ṣan- and vṛṣabhá-. I count 16 exx. of the two stems in the three vss. The bull(ish) grammatical subjects of the three vss. are different: 19 Indra’s horses, 20 the soma drinks, 21 Indra himself. The vṛ́ṣan- stem predominates; vṛṣabhá- only appears beginning in the last pāda of 20 (though prepared for by instr.
 

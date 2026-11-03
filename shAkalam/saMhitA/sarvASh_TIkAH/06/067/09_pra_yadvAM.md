@@ -263,7 +263,7 @@ The first half of this vs. is fairly straightforward; the problems arise in the 
 reasonably well-attested ‘watery’ stem ápi ya- and the accent retracted. As for meaning, I suggest that ‘not swelling/swollen’ means ‘not growing / thriving’, and in reference to children to stunted or underdeveloped ones, afflicted by what is now called “failure to thrive” in pediatric medicine. Note that the aniṭ form of the ‘swell’ root makes a negated root-noun cmpd apít- in VII.82.3 ápinvatam apítaḥ “you two made the unswollen (waters) swell.” The published translation does not represent the rel. prn. yé in c but treats all of cd as the main cl. corresponding to the subord. clauses of ab. I do not know an easy way to do this, but might suggest an alternative tr. of cd as “those not attending on the sacrifice who are neither gods … nor mortals are like children …”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
-<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+<details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. seem to concern themselves with rival sacrificers.
 

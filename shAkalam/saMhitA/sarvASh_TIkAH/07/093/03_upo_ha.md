@@ -253,11 +253,12 @@ _________
 When the prize-seekers have come to the rite of distribution, the inspired  poets with their visionary thoughts seeking your solicitude,  
 like steeds reaching the finish line, the men ever calling on Indra  
 and Agni—
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is no main clause in vs. 3: the three co-referential participial phrases (… ichámānāḥ b, … nákṣamānāḥ c, … jóhuvataḥ …d) all simply expanding on the dependent cl. of pāda a, úpo ha yád … gúḥ “When they have come”).
 

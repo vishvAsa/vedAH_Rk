@@ -267,7 +267,7 @@ My reason for preferring the preterital reading has to do with my view of the st
 Since the chariot mounting of 6a is part of the mythological past, a preterital (or timeless) tr. fits it better. (It might also be better to tr. the injunc. ā́… gāt in 5c in the same preterital fashion.) In the published translation I take śubhé with the preceding pāda: “mount for beauty,” since śúbh- is very commonly used in Marut hymns to refer to their journey (cf., e.g.,
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
-<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+<details><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
 

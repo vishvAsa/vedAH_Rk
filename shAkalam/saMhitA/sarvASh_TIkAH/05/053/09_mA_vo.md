@@ -268,11 +268,12 @@ Rasa, Anitabhā, Kubhā: names of rivers; the wide-roving ocean: **kramuḥ** **
 
 Let not the Rasā (River), the Anitabhā, the Kubhā, the Krumu, let not  the Sindhu bring you to a halt.  
 Let not the overflowing Sarayu hem you around. On us alone let your  favor be.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo (9a) / mā́vaḥ (9bc). The vaḥ then migrates to the end of 9d.
 </details>

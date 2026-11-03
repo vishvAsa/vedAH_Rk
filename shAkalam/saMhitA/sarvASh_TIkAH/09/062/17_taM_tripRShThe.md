@@ -179,7 +179,7 @@ See published introduction. for the ritual specificity of the images in this vs.
 The uninflected numeral ‘seven’ (saptá) is stationed between two pl. nouns, gen. ṛ́ṣīṇāṃ ‘of the seers’ and instr. dhītíbhiḥ ‘with visionary thoughts’. Of course seven is the canonical number of seers throughout Indian religious history, starting with the RV, but ‘seven’ is also used of dhītí- in IX.9.4 sá saptá dhītíbhir hitáḥ and passages cited there. Most tr. choose to construe it with one or the other (Geldner, Ober [II.72] ṛ́ṣi-; Renou, Lüders [710], Ober [II.222] dhītí-), with, surprisingly (to me), more going for dhītí- than ṛ́ṣi-. But surely its position helps signal that it should be construed with both (as Renou in his n. and Ober in his 2nd tr. indicate).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Several elements link at least two of the vss. in the tṛca: the presence of vā́jain 16 and 18 (vā́jam 16b, vā́jāya 18b, vājínam 18c) and the dat. inf. yā́tave in 17b and 18b.
 

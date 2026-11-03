@@ -228,15 +228,17 @@ Become a defense for the singer, o radiant one. Become shelter for  bounteous on
 Deliver the singer from narrow straits, Agni. – Early in the  
 morning—soon—he should come, bringing goods through (his)  
 insight.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Vs. 9 is essentially a paraphrase of vs. 8, with several parallel expressions.
 
-And the final pāda of 9 is the Nodhas refrain.</details>
+And the final pāda of 9 is the Nodhas refrain.
+</details>
 </div>
 </details>
 

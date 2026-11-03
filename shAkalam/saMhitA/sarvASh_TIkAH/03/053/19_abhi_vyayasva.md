@@ -237,7 +237,8 @@ Khayar and śiśu: khadirasya sāram is the text;
 
 Engird yourself in the hardwood of the acacia tree; place strength in the  śiṃśapā(-wood) in its recoil.  
 O Axle, you who are firm and were made firm, stay firm. Don’t make us  leave off from this journey.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

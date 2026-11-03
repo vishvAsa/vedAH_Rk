@@ -244,11 +244,12 @@ With you who purify yourself, o Soma, we would pull out the perfect  (“hand”
 – This let Mitra and Varuṇa grant this to us, and Aditi, River, and  
 Earth and Heaven.1344 IX.98  
 Anusṭubh Hymns: 98–101 ̣
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
-<details open><summary><h2>55-58 ...{Loading}...</h2></summary>
+<details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
 The rest of the hymn consists of 4 vss. Oldenberg dithers about whether this consists of an odd vs., 55, followed by a final tṛca, 56-58 - or a tṛca 55-57, with a final independent vs. 58. At least to my mind, the latter analysis is clearly superior.
 

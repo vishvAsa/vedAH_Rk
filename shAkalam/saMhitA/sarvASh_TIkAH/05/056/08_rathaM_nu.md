@@ -209,11 +209,12 @@ Rodasi = wife of **Rudra**, and the mother of the Maruts
 
 The Marutian chariot, seeking fame, do we now call here,  
 on which there stands, bearing great delights, Rodasī in company with  the Maruts.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 These two vss. essentially duplicate each other The main verbs of the two vss., ā́huvāmahe (8b) and ā́huve (9b) resonate with the verb in the 1st vs. (ā́…) áva hvaye.
 

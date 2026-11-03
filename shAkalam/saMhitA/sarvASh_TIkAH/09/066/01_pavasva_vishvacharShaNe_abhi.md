@@ -145,7 +145,7 @@ a comrade for your comrades, to be reverently invoked.
 The b pāda lacks a verb: Geldner supplies (silently) “zu gewinnen,” Renou parenthetically “pour (atteindre).” The pāda is found 3x elsewhere (IX.23.1, 62.25, 63.25); in two the vs. contains a form of √sṛj ‘surge’ (asṛgram 23.1, asṛkṣata 63.25) and I therefore supply that verb here.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The tṛca shows clear signs of unity, esp. lexically. Not only do all three vss.
 

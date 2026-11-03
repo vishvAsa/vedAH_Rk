@@ -192,7 +192,7 @@ The 2 occurrences of tuṣṭuvúḥ are standardly interpr. as preterital (“�
 Pāda c contains an ellipsis: we expect an instr. here, as in VIII.1.18 ayā́ vardhasva tanvā̀girā́máma. The appropriate word can either be extracted from the proleptic adj. súṣṭutaḥ “by my (praise) (so that you become) well praised” (as well as the two forms of tuṣṭuvúḥ in ab) or, less likely, pratnéna mánmanā in 11a.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11a; tvā́m 12a; máma 12c.
 

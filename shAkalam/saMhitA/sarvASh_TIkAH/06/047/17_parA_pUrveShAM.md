@@ -195,7 +195,7 @@ The hapax ánānubhūtīḥ is not entirely clear, but two things must be kept i
 (Geldner’s “dass sie … nicht …” has the same proleptic purpose interpr.) The point is that one can’t get old if one keeps the years at a distance; my “close in” is meant to capture the slangy tone of the passage (see also “double-cross” in b).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
-<details open><summary><h2>15-18 ...{Loading}...</h2></summary>
+<details><summary><h2>15-18 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this section, which concerns Indra’s fickle attentions to various clients in turn, is marked grammatically by āmreḍitas and intensives (i.e., iterative/frequentatives), expressing the constantly shifting nature of the actions and their objects. See the published introduction. for the continuity of content I see in this section.
 

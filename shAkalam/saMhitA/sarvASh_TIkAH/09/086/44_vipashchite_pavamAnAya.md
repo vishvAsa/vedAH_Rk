@@ -267,7 +267,7 @@ But insofar as it is possible to narrow the referent of this word, it is used of
 The simile in d, átyo ná krīḷan, is also found in 26d.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
-<details open><summary><h2>43-45 ...{Loading}...</h2></summary>
+<details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 This tṛca seems more artful than most of the other, with metaphor layered upon metaphor (vss. 43, 45), varied by similes (vs. 44).
 

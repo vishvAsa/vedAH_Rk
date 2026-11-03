@@ -254,11 +254,12 @@ _________
 
 Many goods many-fold in their goodness might I attain of you through  seeking you, o King Agni.  
 For many are the goods in you, o Agni of many favors, for the one who  does (you) honor, since you are king.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
-<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+<details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in this final explosion of begging for a suitable return from the god.
 

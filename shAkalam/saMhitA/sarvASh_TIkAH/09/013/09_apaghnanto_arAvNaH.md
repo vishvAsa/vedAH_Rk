@@ -141,13 +141,15 @@ Pure libations: or, this verse may be addressed to the gods who are invited to p
 <details><summary>Jamison Brereton</summary>
 
 Striking away the non-givers, purifying yourselves, looking like the sun, sit on the womb of truth.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
-The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. The sg. subj. of 8 is also replaced by a pl., but sg. sómaḥ / indo and pl. sómāḥ / índavaḥ alternate throughout the hymn.</details>
+The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. The sg. subj. of 8 is also replaced by a pl., but sg. sómaḥ / indo and pl. sómāḥ / índavaḥ alternate throughout the hymn.
+</details>
 </div>
 </details>
 

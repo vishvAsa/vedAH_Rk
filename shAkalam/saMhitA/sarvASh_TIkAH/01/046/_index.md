@@ -20,10 +20,11 @@ In verse 1 Dawn is the first to arrive, before other deities, although with the 
 
 <details>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/044-049.md">
-  <details open><summary><h2>44-49 ...{Loading}...</h2></summary>
+  <details><summary><h2>44-49 ...{Loading}...</h2></summary>
 
 For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
-  </details>
+  
+</details>
 </div>
 </details>
 

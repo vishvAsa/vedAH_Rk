@@ -243,11 +243,12 @@ To them bring lofty brilliance and glory, o bounteous Dawn,
 to the patrons who apportion to us benefits consisting of horses  
 and cows  
 – o well-born lady, liberal with horses.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Here the patrons, who have properly compensated the priest/poets, receive their own reward from Dawn. Interestingly it is not material, but rather yáśas- ‘glory’
 

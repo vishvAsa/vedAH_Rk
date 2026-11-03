@@ -261,7 +261,7 @@ It’s a long and winding road to what we want! The interpr. of the hapax bahuvr
 assumes a concrete homestead, which belongs to the speaker and/or his associates, that is stuffed, as it were, with horses. The difference between the abstract and the concrete interpr. is small but significant, and I continue to prefer the concrete one.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
-<details open><summary><h2>40-42 ...{Loading}...</h2></summary>
+<details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
 The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
 

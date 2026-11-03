@@ -236,11 +236,12 @@ In a shining robe: i.e., the filter
 
 The delightful one has clothed himself in a silvery cloak, to be caressed  like a dear son.  
 The laborers propel him, in their two hands, as they would a chariot,  into the rivers.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
-<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+<details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion. River(s) appear in both vss., but with different words (síndhu- 12b, nadī́- 13d). jā́gṛviḥ in 12c echoes the one in 6a.
 

@@ -191,7 +191,7 @@ However, it is possible that a finite verb would bear the accent after the accen
 is certainly not excluded. Since the “you” of the published translation (/ “dich” of Geldner’s tr.) is not overtly expressed, either interpretation fits the text. ## 066 Indra
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharāmasi.
 

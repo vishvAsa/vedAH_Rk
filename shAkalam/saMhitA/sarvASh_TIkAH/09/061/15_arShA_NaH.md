@@ -166,11 +166,12 @@ _________
 
 Rush as weal for our cow, Soma; milk out swelling refreshment.  
 Increase the sea, worthy of hymns.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again no signs of tṛca unity, unless the presence of cows in all three verses counts (13b góbhiḥ, 14b vatsáṃ saṃśíśvarīḥ iva, 15a gáve, 15b dhukṣásva).
 

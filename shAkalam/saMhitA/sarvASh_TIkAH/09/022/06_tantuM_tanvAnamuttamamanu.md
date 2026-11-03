@@ -152,11 +152,12 @@ As it spreads out the sacrifice: tantum = yajñam; or, alternatively, straining-
 <details><summary>Jamison Brereton</summary>
 
 They have reached the highest thread being stretched, along the inclines, and this one that is to be higher still.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 More chaining: vss. 4 and 6 end with rájaḥ; the exact phrase in 5c is uttamáṃ rájaḥ, whose uttamám is then picked up in 6a and augmented with uttamā́yyam in 6c.
 
@@ -167,7 +168,7 @@ My “that is to be higher still” is meant to capture the pseudo-gerundive for
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vs. 7 stands somewhat apart from the rest of the hymn, but there is chaining here as well: 6a tántuṃ tanvānám … is echoed by 7c tatáṃ tántum …
 

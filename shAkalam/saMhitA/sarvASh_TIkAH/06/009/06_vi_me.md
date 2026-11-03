@@ -300,11 +300,12 @@ _________
 
 My two ears fly widely, widely my sight, widely this light that was  deposited in my heart.  
 Widely goes my mind, my intentions at a distance. What shall I say, and  what now shall I think?
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
-<details open><summary><h2>05-07 ...{Loading}...</h2></summary>
+<details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 The last three vss. of this hymn are dominated by play on the syllable ví, which is also evident, though recessive, in the first part of the hymn. Starting with 5c every hemistich begins with ví: 5c víśve, 6a ví, 6c ví, 7a víśve; note also ví in the middle of 5d and 6a and beginning 6b. This sequence culminates in 7c vaiśvānaraḥ, whose first syllable is phonologically a vṛddhi form of vi and whose first member vaiśva- is morphologically a vṛddhi derivative of víśva-. That the two forms of víśve in 5c and 7a are in the syntagm víśve devā́ḥ “all the gods” and the 2nd member of vaiśvānará- is contrastively -nara- ‘man’ makes the pattern all the more pleasing.
 
@@ -313,7 +314,7 @@ And of course it is Agni Vaiśvānara who is the source of the poet’s revelati
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The transference of the properties and powers of Agni to our poet is explicit in these two vss. In 5a Agni is light set down or deposited (jyótir níhitam); in 5b he is “swiftest mind” (máno jáviṣṭham). In 6b the poet comments on “this light that has been deposited in (my) heart” (idáṃ jyótir hṛ́daya ā́hitaṃ yát; note the neardeictic idám again), and in 6c “my mind goes widely” (ví me mánaś carati).
 

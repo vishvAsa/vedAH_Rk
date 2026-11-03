@@ -135,7 +135,7 @@ _________
 
 हे ऋत्विजो यूयम् **अध्वरेषु** **शुचिं** शुद्धं **बृहस्पतिम्** **अर्कैः** अर्चनीयैः स्तोत्रैः **नमस्यत** परिचरत । **अनामि** अनमनशीलं परैरनभिभवनीयम् **ओजः** तस्य बलम् **आ** **चके** सर्वतो याचे ॥ बृहस्पतिम् । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरः । चके । कमेर्लिट्युत्तमे मकारलोपश्छान्दसः ॥ ॥ ९ ॥
 ________________
-10अथ दशमीमाह - हे ऋत्विजः! शुचिं शुद्धं बृहस्पतिमध्वरेषु याजेषु अर्कैरर्चनैस्सह नमस्यत नमस्कुरुत । तस्य बृहस्पतेः प्रसादादहम् अनामि कस्याप्य् अवशं **ओजो** बलम् **आचके** सर्वतः प्राप्नवानि ।
+हे ऋत्विजः! शुचिं शुद्धं बृहस्पतिमध्वरेषु याजेषु अर्कैरर्चनैस्सह नमस्यत नमस्कुरुत । तस्य बृहस्पतेः प्रसादादहम् अनामि कस्याप्य् अवशं **ओजो** बलम् **आचके** सर्वतः प्राप्नवानि ।
 
 </details>
 
@@ -157,7 +157,7 @@ To blazing Br̥haspati give reverence with recitations at the ceremonies— his 
 Geldner (/Witzel Gotō) take ā́cake as 3rd sg. (Geldner: “Er liebt unbeugsame Kraft”). This is certainly possible, but Schmidt (Bṛhaspati und Indra, 131) makes good arguments for flg. Sāyaṇa and Grassmann in taking it as 1st sg.; see also Renou (EVP XVI, ad loc.).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phrase is obj. of namasyata; 5c is a parenthetical intrusion.
 

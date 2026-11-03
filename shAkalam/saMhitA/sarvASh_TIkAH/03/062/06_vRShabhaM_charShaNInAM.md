@@ -128,11 +128,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 To the bull of the settled domains, having all forms, undeceivable, Br̥haspati worthy to be chosen.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phrase is obj. of namasyata; 5c is a parenthetical intrusion.
 

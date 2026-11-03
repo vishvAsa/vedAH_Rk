@@ -255,7 +255,7 @@ The combination of honoring Agni “in the seat of the waters” (a) and the Bh�
 tracks ... / With reverences seeking him who was hiding in secret, the fire-priests, the insightful Bhrgus ̥ found him.” The same myth may be alluded to, in ring compositional fashion, in vs. 9 of our hymn. Note also that the poet to whom this hymn is ascribed is Somāhuti Bhārgava.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 As Ian Hollenbaugh pointed out to me, dvitā́dadhur in 2b can be read, contra Pp. adadhur, as dvitā́dadhur, with perfect indic. or pres. injunc.; I now favor the unaugmented reading for reasons given below.
 

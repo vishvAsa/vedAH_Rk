@@ -189,7 +189,7 @@ The 2nd pl. impv. in c must be addressed to the whole set of ritual participants
 Geldner insists (n. to 26c) that stotṛ́bhyaḥ must be read with pāda b, parallel to dāśúṣe “die Kleinode verteile für den Opfernden, für die Sänger,” but the rigid parallelism of the c pādas in this tṛca suggests rather that it belongs with its pāda. Presumably the full set of participants are chanting on behalf of the subset of “praisers.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 The c pādas of all three verses in this tṛca have the same structure: dat. pl. stotṛ́bhyaḥ, a form of índra- (acc. 25-26, voc. 27), 2nd ps. imperative.
 

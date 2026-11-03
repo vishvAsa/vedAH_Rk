@@ -170,11 +170,12 @@ _________
 And you are great, you to whose might the two autonomous  
 world-halves  
 have yielded, o Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Echo between 7b svadhā́varī and 8b sayā́varī, though they occupy different metrical positions.
 
@@ -182,7 +183,7 @@ Echo between 7b svadhā́varī and 8b sayā́varī, though they occupy different
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes 6a tvám vármāsi.
 </details>

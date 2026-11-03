@@ -214,13 +214,15 @@ _________
 
 – For blessing we would invoke bounteous Indra, most manly, at this  raid, at the winning of the prize of victory,  
 the strong one who listens, (we would invoke) for help in battles, him  who smashes obstacles, the winner of prizes.534 III.51
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/050/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
-On the sequence of two repeated vss. see published introduction.</details>
+On the sequence of two repeated vss. see published introduction.
+</details>
 </div>
 </details>
 

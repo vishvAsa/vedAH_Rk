@@ -184,7 +184,7 @@ When sácā occurs with a loc., it generally lacks lexical value and simply sign
 However, I would now be inclined simply to tr. here “I have taken my share at sun(rise).”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 All three vss. of this tṛca begin with yátra. I take them all as subordinated to vs. 3. Geldner [/Witzel Gotō] and Klein (DGRV I.432) take the main clause for all three vss. to be 6c, but Indra’s help for Etaśa does not seem sufficiently significant to carry the whole tṛca. Geldner (/Witzel Gotō) take all three yátra as ‘where’, not ‘when’, but what location they are thinking of I don’t know.
 

@@ -234,7 +234,7 @@ stóbhati, and it is therefore impossible to determine its exact value -- includ
 808) argues against such a value, on the basis of the intrans. sense of the root, and I have followed him in the non-passive assessment. My tr. “beat a tattoo” reflects my sense that √stubh is associated esp. with rhythm. As for sárga-, lit. ‘surge, gush’, it can refer to the instant when the surge is released, hence here the start of a race.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
-<details open><summary><h2>09-12 ...{Loading}...</h2></summary>
+<details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 Each of these vss. begins with the resonant and charged instr. ṛténa ‘by truth’, the usual introduction to a truth formulation. Each of the vss. does seem to express a mystical truth about the ritual or its mythic background. There is no obvious connection to the group of vss. that precede (the question vss. of 4cd-8), but if I am correct that we should supply ‘thought’ or ‘thoughts’ in 8cd, where we ask Agni to send them all the way to heaven, it may not be fanciful to think that vss. 9-12 are these very thoughts.
 

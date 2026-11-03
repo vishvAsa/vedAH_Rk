@@ -161,13 +161,15 @@ _________
 
 Who in the exhilaration of the soma stalk  
 oversees all commandments among the gods—Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
-<details open><summary><h2>27-28 ...{Loading}...</h2></summary>
+<details><summary><h2>27-28 ...{Loading}...</h2></summary>
 
-These two verses form a sort of ring with vs. 1. There gā́thayā / máde sómasya vocata “with a song proclaim … in the exhilaration of soma”; here bráhma gāyata // … sómasya máde “sing a formulation … in the exhilaration of soma.”</details>
+These two verses form a sort of ring with vs. 1. There gā́thayā / máde sómasya vocata “with a song proclaim … in the exhilaration of soma”; here bráhma gāyata // … sómasya máde “sing a formulation … in the exhilaration of soma.”
+</details>
 </div>
 </details>
 

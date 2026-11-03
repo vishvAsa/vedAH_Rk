@@ -150,11 +150,12 @@ _________
 
 For he alone is lord of all the good things of the earth,  
 the rich one who most longs for songs.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
-<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+<details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 These two vss. contain superlatives to bahuvrīhi s-stems that appear earlier in the simplex: 19c bráhma-vāhastamam: 4a bráhma-vāhase; 20c gírvanastamaḥ: 13a girvanaḥ (also 28b).
 

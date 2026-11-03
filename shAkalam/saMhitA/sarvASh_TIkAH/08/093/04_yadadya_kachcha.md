@@ -204,7 +204,7 @@ Only the unambiguous reference of vṛtrahan to Indra saves it from being applie
 The verb udágāḥ reprises úd … eṣi expressing the same action in vs. 1. In fact 1a #ud ghéd abhí is echoed by 4b #udágā abhí with the actual verb agā́(ḥ) substituting for the intervening particles of the former.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 I do not understand the force of the vā in 5a, since this verse does not seem to me a logical alternative to vs. 4. Nor do I understand the utá-u beginning 5c, which should not be conjoining the dependent clause of ab with the main clause of c.
 

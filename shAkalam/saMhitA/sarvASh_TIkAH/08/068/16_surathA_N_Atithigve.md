@@ -128,11 +128,12 @@ _________
 
 (Horses) having good chariots from the son of Atithigva, those having  good reins from the son of R̥kṣa,  
 and those having good ornaments from the son of Aśvamedha.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
-<details open><summary><h2>15-17 ...{Loading}...</h2></summary>
+<details><summary><h2>15-17 ...{Loading}...</h2></summary>
 
 The donors of the various gifts are generally in the locative here and so would be properly translated “bei,” “chez,” “at (the hands of) …” or the like, but a series of locatival tr. is simply too heavy and awkward.
 

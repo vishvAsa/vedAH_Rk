@@ -244,14 +244,15 @@ _________
 
 O Adhvaryu, hero, give of the pressed (soma drinks) to great Indra, for  he is its king,  
 he who has grown strong by the previous and the present songs of  singing seers.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains disharmony of number in a constructio ad sensum: The priest is urged to offer of the pressed (soma-drink)s in the plural (sutā́nām); the reason for this is immediately given in the 2nd part of pāda b, sá hy àsya rā́jā “for he is its king.” Unaccented singular asya presupposes a referent already in the discourse, with “it” referring to soma, represented in the previous clause as a plural. The singular is then continued in the rest of the tṛca (asyá 14a, tám … sómam 14cd, sutám … sómam 15a, with sg. sutám picking up pl. sutā́nām of 13a).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Another soma tṛca.
 

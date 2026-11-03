@@ -155,11 +155,12 @@ _________
 
 Becoming purified, o drop, much invoked by these peoples,  
 as dear one, enter the sea.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 The unusual acc. expression vā́cam … sahásrabharṇasam is found in both 25 and 26 (in different order). For sahásra-bharṇas- see comm. ad IX.60.2. All three vss.
 

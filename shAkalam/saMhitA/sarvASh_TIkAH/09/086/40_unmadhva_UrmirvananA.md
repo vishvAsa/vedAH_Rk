@@ -256,7 +256,7 @@ There is an Oldenberg Avestan hapax of the same shape (Y. 44.15) that seems unco
 Soma is presumably “thousand-spiked” (sahásrabhṛṣṭi-) because of the knobs, thorns, or similar extrusions on the plant.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
-<details open><summary><h2>40-42 ...{Loading}...</h2></summary>
+<details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
 The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
 

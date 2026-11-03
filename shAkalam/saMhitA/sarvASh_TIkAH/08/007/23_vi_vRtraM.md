@@ -177,7 +177,7 @@ arājín- is a hapax. Though it is obviously derived from a root √rāj, it is 
 It is possible that ví √yā should be rendered ‘drive through’, not ‘drive apart’, although this produces a less happy contrast with sám in vs. 22. In that case I would tr. “they drove through Vṛtra, joint by joint, (drove) through the mountains …” On vṛ́ṣṇi see comm. ad VIII.96.19.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
-<details open><summary><h2>22-23 ...{Loading}...</h2></summary>
+<details><summary><h2>22-23 ...{Loading}...</h2></summary>
 
 The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its opposite ví in 23, though ví needs only two occurrences to continue the pattern.
 

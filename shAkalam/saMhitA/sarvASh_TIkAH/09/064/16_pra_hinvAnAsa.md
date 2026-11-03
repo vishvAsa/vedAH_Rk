@@ -154,11 +154,12 @@ The firmament: **samudram** may mean the vasatīvarī waters
 
 Being impelled forth, the swift drops,  
 sped by insightful thought, have surged to the sea.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and their acc. goal, the sea (samudrám); their first pādas also both contain nom. pl. pres. middle athem. participles with the extended ending -āsaḥ, hinvānā́saḥ and marmṛjānā́saḥ respectively. The third vs. stands apart.
 

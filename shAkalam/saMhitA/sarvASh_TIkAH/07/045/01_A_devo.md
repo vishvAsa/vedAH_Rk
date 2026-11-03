@@ -18,6 +18,14 @@ ChandaH = "त्रिष्टुप्"
 ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+आ दे॒वो या॑तु सवि॒ता सु॒रत्नः॑ ।   
+अ॒न्त॒रि॒क्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।   
+हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ ।   
+नि॒वे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ।
+</details>
+
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -224,6 +232,10 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुरत्नः** शोभनरत्नोपेतः **अन्तरिक्षप्राः** स्वकीयेन तेजसान्तरिक्षस्य पूरयिता **अश्वैः** स्वकीयैर्वाहैः  **वहमानः** उह्यमानः **सविता** सर्वस्य प्रेरकः **देवः** **आ** **यातु** आगच्छतु । कीदृशः। **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि धनानि **हस्ते** पाणौ **दधानः** दातुं धारयन् **भूम** भूतानि **निवेशयंश्च**   रात्रिषु स्वे स्थाने स्थापयंश्च **प्रसुवंश्च** अहःसु प्रेरयंश्च । एवंभूतः सविता देव आ यातु ॥
+
+
+_____________
+सविता देवः आयातु आगच्छतु । कीदृशः? सुरत्नः शोभनै रत्नैर्युक्तः । अन्तरिक्षप्ताः स्वकीयै रश्मिभिरन्तरिक्षं पूरयिता । अश्वैर्वहमानः स्वकीयैरश्वै रथं वाहयन् । नर्या नरेभ्यो हितानि पुरूणि बहूनि रत्नानि यजमानाय दातुं हस्ते दधानः । भूम बहुलं जगत्प्राणिजातं निवेशयंश्च रात्रौ स्वस्वगृहेऽवस्थापयन्नपि प्रसुवंश्च दिवसे स्वस्वव्यापारेषु प्रेरयन्नपि वर्तत इति शेषः॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -244,11 +256,12 @@ Niveśayan ca prasuvan ca **bhūma** = **bhūtāni** rātriṣu sve sthāpayansc
 Let god Savitar drive here, possessed of good treasure, filling the  
 midspace, journeying with his horses,  
 holding many things meant for men in his hand, bringing the world to  rest and impelling it forth.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
 

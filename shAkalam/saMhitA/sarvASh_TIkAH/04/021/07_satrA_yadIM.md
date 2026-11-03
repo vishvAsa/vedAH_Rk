@@ -255,7 +255,7 @@ As indicated in the published translation, I think vs. 7 depicts the bursting in
 tr. I also tentatively took Agni as the referent of īm, but I now think that the īm in pāda a refers to the praiser in b, while the īm in c refers to the Aṅgirases. (Remember that number is neutralized in īm.) The point is that the śúṣma- of the kindled fire accompanies each of these in order to allow the desired outcomes expressed in pāda b and d to occur -- the singer to receive his reward and the Aṅgirases to cause the cows to come out of the Vala cave. (I am tempted to tr. a version of “may the force be with you.”) So I would modify the tr. to “When … the force … accompanies him [=singer], for the singer to take his reward; when it accompanies them [=Aṅgirases] to the secret place [=Vala cave], … for (the cows) to go forth …” In d I take the three datives (prá) dhiyé (prá) áyase mádāya not as triply parallel, but make the first and last further complements to áyase ‘to go forth’. The two prá’s would in some sense structure these two parallel goal expressions: “to go ←forth to insight>, ←forth to exhilaration>.” Needless to say, it is impossible to be certain about this interpr., but at least it hangs together.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
 

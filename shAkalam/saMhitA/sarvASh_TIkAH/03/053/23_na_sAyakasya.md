@@ -235,7 +235,8 @@ Lodha = from lubdham, desirous that his penance might not be frustrated, **tapas
 
 There is no notice taken of his missile, you people. They lead a lump,  thinking it a beast.  
 (But) they are not making a non-prizewinner race with a prizewinner,  nor leading a donkey before the horses.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -254,7 +255,7 @@ because the following vs. muddies the waters even further.
 Given the interpretational difficulties, the grammatical identity of áśvān is a minor problem. In the published translation I take it as acc. pl. áśvān, but the Pp. interprets it as abl. áśvāt, with the final -n in sandhi before the nasal of nayanti. Either is possible (“lead before the horses” / “lead before the horse”), and given the uncertainty of meaning, there is no obvious way to choose. The abl. is supposed to be construed with puráḥ, but in fact ABL. + puráḥ is not a robust construction.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
-<details open><summary><h2>21-24 ...{Loading}...</h2></summary>
+<details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are traditionally taken as depicting the rivalry between Viśvāmitra and Vasiṣṭha, but I see no sign of this here; certainly Vasiṣṭha is not mentioned. The verbal link is supposed to be VII.104.16 adhamás padīṣṭa “let him fall lowest,” a curse uttered in a Vasiṣṭha hymn that echoes our 21c ádharaḥ sás padīṣṭa. But in neither case is the opponent named, and there is no reason to assume that Vasiṣṭha directs this at Viśvāmitra or vice versa.
 

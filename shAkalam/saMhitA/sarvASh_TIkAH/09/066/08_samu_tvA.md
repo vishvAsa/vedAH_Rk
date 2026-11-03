@@ -183,7 +183,7 @@ But 1) do fingers “cry out”? and more important, 2) why then “seven”? It
 In IX the figure Vivasvant seems to be the prototype sacrificer (see Oldenberg ad IX.99.2), perhaps in his role as father of Manu. For further on Vivasvant see published introduction. to I.139 as well as comm. to IX.99.2, X.14.5.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 No particular sign of cohesion either internal or external.
 

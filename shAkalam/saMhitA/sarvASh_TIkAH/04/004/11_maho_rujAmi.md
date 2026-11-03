@@ -313,7 +313,8 @@ The great I overcome [4] through kinship and my songs;
 That hath descended to me from Gotama, my sire;  
 Pay heed to this song of ours,  
 O Hotr, most youthful, skilful, friend of the house.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Geldner</summary>
 

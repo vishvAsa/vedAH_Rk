@@ -158,7 +158,7 @@ The hapax ádyu- has been variously analyzed and rendered: e.g., Sāyaṇa. adī
 Our half-verse ádyuṃ kṛṇota śáṃsaṃ ninitsóḥ is nearly identical to VII.25.2c āré táṃ śáṃsaṃ kṛṇuhi ninitsóḥ, though in a different meter (our two 5-syl. pādas of Dvipadā versus Triṣṭubh). To accommodate the meter the verb and object had to be flipped and a different predicate supplied. This metrically driven modification procedure is instructive.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
-<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+<details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in general. The priests/poets who were previously unspecified 2nd pl. subjects do not command the powers to carry out the desires specified.
 

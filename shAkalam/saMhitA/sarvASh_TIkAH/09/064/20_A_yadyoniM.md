@@ -157,11 +157,12 @@ I.e., he does not approach the sacrifice of those who do not worship; he only ap
 
 When the swift one sits on the golden womb of truth,  
 he leaves behind the undiscerning.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (prácetasaḥ 21b) and the undiscriminating (ávicetasaḥ 21c). The first vs. (19) of the tṛca does not participate.
 

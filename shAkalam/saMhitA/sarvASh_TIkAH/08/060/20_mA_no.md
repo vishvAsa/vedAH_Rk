@@ -220,7 +220,8 @@ Let demonic power not enter into us, nor the sorcery of those who  deploy sorcer
 [=Pūṣan].  
 Keep thirst and hunger away, far beyond the pasture-lands; o Agni,  
 keep away those who deploy demonic power.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

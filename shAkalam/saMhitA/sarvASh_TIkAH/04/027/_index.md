@@ -24,7 +24,7 @@ The next two verses (3–4) freeze the dramatic moment when the archer Kr̥śān
 The perfect jabhāra is found in vss. 2 and 4 (cf. the pres. stem forms to √bhṛ in the preceding hymn, vss. 4-7). It thus frames the central vs. 3, which could then be an omphalos. That vs. is certainly confused enough to qualify and captures the crucial moment of the grabbing of soma. But since vs. 3 consists of a series of subordinate clauses whose main clause is found in vs. 4, it cannot be syntactically isolated into a free-standing omphalos.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026-027.md">
-<details open><summary><h2>26-27 ...{Loading}...</h2></summary>
+<details><summary><h2>26-27 ...{Loading}...</h2></summary>
 
 These are the famous hymns devoted to the stealing of soma from heaven.
 

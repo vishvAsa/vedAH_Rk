@@ -273,14 +273,14 @@ Grassmann (and Lubotsky) assign ukṣámānāḥ to √ukṣ ‘sprinkle’, but
 Our problematic expression may have spawned the two ánu forms (in c and d) from áyā nú. The first is in the familiar expression ánu jóṣam (II.21.3, etc.) “according to / at pleasure”; the latter I construe with tanvàm (cf. I.147.4 ánu mrk̥ ṣīṣta tanvàm, with similar discontinuity). Neither √vakṣ / ukṣ nor √mṛc otherwise ánu.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is lexical chaining between 3d and 4a with the identical phrase vidhaté rátnam in the same metrical position.
 </details>
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The two outer exx. are both idā́hí; the two inner ones are followed by phonologically similar them. datives: 4b idā vīrā́ya / 4c idá víprāya.
 

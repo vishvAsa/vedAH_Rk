@@ -225,7 +225,7 @@ Instead I take it as belonging to a parallel nominal clause, still in the domain
 The final phrase that is the ostensible main clause, té syāma “might we be they,” violates number agreement: pl. té cannot properly pick up sg. yásmai. This is a variant of a common tag and feels tacked on.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
-<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+<details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped. The 2nd hemistich of vs. 16 contains the first example in the Saṃhitā of the Kutsa refrain.
 

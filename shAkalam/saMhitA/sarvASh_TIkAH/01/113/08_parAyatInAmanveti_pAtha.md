@@ -210,11 +210,12 @@ Pāthontarikṣam (**Nirukta** 6.7)\] of the mornings that have passed, and firs
 She follows the troop of those who go away; she is the first of those  who, one by one, come hither—  
 Dawn, as she dawns forth, rousing up (every) living being, but  
 awakening no dead one at all.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details open><summary><h2>07-13 ...{Loading}...</h2></summary>
+<details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
 

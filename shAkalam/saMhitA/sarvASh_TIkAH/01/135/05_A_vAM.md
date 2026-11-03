@@ -365,11 +365,12 @@ As the grooms rub down: the intended verb is: marmṛjanta, have strained or cle
 Our thoughts should turn you two hither to our ceremonies; they  keep grooming this drop, the prizewinner—(the drop) swift like a  
 prizewinning steed.  
 Drink of these (soma drinks), seeking us; come here to us with help. O Indra and Vāyu, (drink) of them, pressed by stones, you two—(drink)  to exhilaration, you two prize-givers.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this tṛca is constructed in parallel to 1-3, but addressed to the two gods Vāyu and Indra rather than Vāyu alone. I will not call attention to the pervasively parallel phraseology: a simple skimming of the two sets of verses will amply demonstrate it.
 

@@ -276,7 +276,8 @@ The horses: gāvau gaccheta iti gāvau aśvau: **gāvā** implies those who go, 
 
 Let the two oxen be steadfast, the axle firm; let the chariot-pole not be  torn off, nor the yoke be broken off.  
 Let Indra keep the two pātalyas [=pieces of chariot?] from breaking.  You with indestructible wheel-rims, escort us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

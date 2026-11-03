@@ -318,7 +318,7 @@ The first hemistich is otherwise unproblematic, but the second one raises some f
 Hoffmann (Injunk. 163-64) tr. and discusses this pair of vss., with special reference to the change from augmented to injunctive verbs.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. form a tight pair, whose responsions are detailed below.
 

@@ -151,11 +151,12 @@ _________
 
 Then, o Agni, best of Aṅgirases, best of ritual adepts, something  dear to you  
 might we speak—a winning sacred formulation.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note the play between the two final words of these verses: āsáni / sānasí.
 

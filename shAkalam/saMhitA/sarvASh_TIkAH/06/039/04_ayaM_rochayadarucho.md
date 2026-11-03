@@ -231,7 +231,7 @@ Geldner (explicitly n. 2b) considers ṛtayúj- here as having a different sense
 the other three instances of ṛtayúj- (incl. our vs. 4), all modifying ‘horses’, with the anodyne ‘wohlgeschirrten’, as opposed to our vs. 2, which he renders ‘der Verbündete des Ṛta’ -- in other words, implicitly following Geldner’s differentiation. I would alter the published translation from “whose yoke is truth” to “yoked with truth,” as in vs. 2.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
-<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+<details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. (and see comm. ad VI.38.2-4 above), the three middle verses are marked by repeated use of the near deictic in pāda-initial position, beginning every hemistich but 2cd and coming to a crescendo in vs. 4 with three iterations: ayám 2a, ayám 3a, imám 3c, ayám 4a, b, c. The unidentified referent of all these deictic forms is soma — see Oldenberg’s disc. — but soma at least partially identified with Indra, as the opener of the Vala cave. The repeated use of the deitic, pointing to something in the immediate vicinity of the speaker, focuses on soma as the ritual substance on the sacrificial ground.
 

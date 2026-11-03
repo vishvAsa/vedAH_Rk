@@ -17,6 +17,12 @@ ChandaH = "गायत्री"
 भ᳓र्गो देव᳓स्य धीमहि  
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
+</details>
+
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -170,7 +176,13 @@ _________
 यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+
+
+_____________
+
+यः सवितास्माकं बुद्धीः प्रेरयति तस्य सवितुर्देवस्य वरणीयं भर्गस्तेजो ध्यायेम।
 </details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -552,7 +564,7 @@ And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mant
 Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 

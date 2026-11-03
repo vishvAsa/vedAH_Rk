@@ -208,7 +208,7 @@ See comm. ad IX.70.2 and, on supposed masc. cā́ruṇaḥ, VIII.5.14. Renou sup
 I take the pl. śrávaṃsi as distributive: each one of the pl. subj. acquires his own śrávaḥ.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. cl. introduced by yéna referring to Soma, the 2nd ps. subj. of 3.
 

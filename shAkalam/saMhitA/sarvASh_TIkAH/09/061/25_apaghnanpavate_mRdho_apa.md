@@ -149,11 +149,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Smashing away the scorners, away the ungenerous, Soma purifies himself, going to the rendezvous with Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 This tṛca focuses even more strongly on combat, with forms of √han in 25 and 26 and ‘do battle’ (makhasyá-) in 27. Generosity is also a topic.
 

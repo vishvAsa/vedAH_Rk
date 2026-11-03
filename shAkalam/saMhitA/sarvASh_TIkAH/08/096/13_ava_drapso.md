@@ -280,7 +280,7 @@ The manly minded one repelled the “blizzards” (of attacking warriors?).
 The ca in c is one of the rare examples of subordinating ca in the RV, as shown by the accent induced on the verb vavártat; see Klein DGRV I.240-41. Its position, about which Klein does not comment, is peculiar, but it can probably be accounted for metrically. In this particular Atijagatī line (13 syl.), there is a natural break after the first two words (5 syllables), máṃhiṣṭho gīrbhír, and the rest of the line behaves as if it were a dimeter (8-syl.) line, ā́ca yajñíyo vavártat, with initial preverb followed by the enclitic conjunction.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As indicated in the introduction, the identity of the ‘droplet’ (drapsá-) and the purport of this tṛca are quite unclear. Geldner takes both drapsá- and kṛṣṇá- (‘black’) as PNs and the tṛca as their “saga.” Since such a saga is otherwise unknown and both words have lexical meaning, such an approach does not seem to gain us much. 
 

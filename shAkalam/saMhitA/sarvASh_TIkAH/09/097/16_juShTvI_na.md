@@ -259,7 +259,7 @@ For the loc. uraú see III.54.9 uraú pathí.
 For ghanéva see comm. ad I.63.5.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca does seem to have a controlling theme and metaphor, esp. in 17-18 -- the passage through the filter, beginning in 16. Navigating among the curly tufts is compared on the one hand to the triumphant progress of the Aryas (vs. 17) and to a sort of moral progress in discriminating between the crooked and the straight (18). Each vs. also contains a form of the impv. dhanva ‘run’ (16d, 17c, 18d).
 

@@ -285,7 +285,7 @@ He considers the pf. as resultative, and it is possible that my ‘seeks’ shou
 IV.23.7-10: The contrast between the ‘lie’ (pāda-initial drúh- 7a) and ṛtá- (10 pādainitial and 2 pāda-medial exx. in vss. 8-10) certainly underlines and cements the sense ‘truth’ for this word. Note also that ṛṇā́‘debts’, which opens the 2nd hemistich of vs 7, phonologically anticipates the ṛtá’s to come.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The root √juṣ encountered in two different forms in 1bc recurs here in the perfect, subjunctive (4d) and indicative (5b).
 </details>

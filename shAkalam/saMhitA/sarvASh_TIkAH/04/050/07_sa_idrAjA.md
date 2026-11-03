@@ -233,7 +233,7 @@ Note the etymological figure in c: súbhṛtam bibhárti.
 The sense of pūrvabhā́j- is limited by pū́rva eti in 8d and for that reason is presumably not a ritual technical term. (Vāyu would be the god who “receives the first portion” by that measure.)
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These vss. are structured similarly: a main clause (or clauses) referring to the happy results for the king who (now a rel. cl.) properly treats a particular figure.
 

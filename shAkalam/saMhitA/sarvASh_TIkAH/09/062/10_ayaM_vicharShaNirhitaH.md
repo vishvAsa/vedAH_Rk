@@ -162,7 +162,7 @@ The other uncertainty in the vs. is how to construe ā́pyam bṛhát “lofty f
 here (e.g., “die hohe Freundschaft zur eile treibend”), while I have chosen to take it as passive and to construe the acc. with cetati, on the grounds that I don’t know what it would mean to “impel friendship” (though such an image is well within the potential range of a RVic poet). Gotō (1st class, 139) takes it as I do.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b, (ā́) pavasva 12a. This is scarcely surprising in the Soma Pavamāna maṇḍala, but in fact this stem has not yet appeared in the hymn.
 

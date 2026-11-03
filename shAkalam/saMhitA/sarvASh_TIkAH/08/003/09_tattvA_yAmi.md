@@ -223,11 +223,12 @@ Taken from those: yena yatibhyo **dhane** hite: yatibhyaḥ = karmasu uparatebhy
 
 I beg you for a mass of good heroes and for the sacred formulation to  be first in your thought.  
 That with which, when the stake was set, (you were there) for the Yatis  and for Bhr̥gu, with which you helped Praskaṇva,
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
-<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+<details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 Although Geldner takes the second hemistich as dependent on the first, because of the parallel yénā clause opening vs. 10, I prefer to take 9cd and 10a as dependent on 10b, with the yénā’s of 9c, 9d, and 10a all referring to śávaḥ in 10b.
 

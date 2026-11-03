@@ -155,11 +155,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Indra should drink of you, Soma, when you are pressed, for will and  skill—and (so should) all the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion, beyond the mention of Soma’s divine recipients in vss. 1-2. Vs. 3 begins with a possibly summary evā́.
 </details>

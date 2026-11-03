@@ -253,7 +253,7 @@ ein ved. *oghas- ‘Strömung’ verwertbar.” Mayr instead tentatively follows
 Admittedly, there is no independently attested s-stem *óghas-. But consider the semantically and morphologically parallel gó-arṇas- (4x) ‘having a flood of cows’, with the well-attested s-stem árṇas- ‘flood’. It is easy (at least for me) to imagine that an s-stem *óghas- was coined in analogy to árṇas- for just this cmpd.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Manyu Vāsiṣṭha, with the name possibly extracted from the previous tṛca, where manyú- in 8a is taken by some as part of a PN (see comm. above).
 

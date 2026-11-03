@@ -152,11 +152,12 @@ _________
 
 He who perceives him gone into hiding,  
 and who has taken his seat at the stream of truth—
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two verses are syntactically dependent on each other, consisting of three relative clauses (7ab, cd, 8ab) and a main clause with coreferential pronoun (8cd). However, this structure is complicated by the fact that, though two of the rel.
 

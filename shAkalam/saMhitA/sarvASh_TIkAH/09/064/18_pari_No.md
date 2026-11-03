@@ -171,7 +171,7 @@ Inclined toward us, encompass for us all goods with your strength. Protect for u
 The opening of pāda a #pári no yāhi gets remixed into c #pāhi naḥ.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and their acc. goal, the sea (samudrám); their first pādas also both contain nom. pl. pres. middle athem. participles with the extended ending -āsaḥ, hinvānā́saḥ and marmṛjānā́saḥ respectively. The third vs. stands apart.
 

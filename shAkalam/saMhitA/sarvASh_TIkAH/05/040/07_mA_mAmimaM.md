@@ -276,7 +276,8 @@ _________
 [The Sun:] “O Atri, let him not, deceived by jealousy and fear, swallow  me, who am one of yours.  
 You are an ally whose bounty is real; do you and King Varuṇa help  
 me here.”
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -228,7 +228,7 @@ As for vā́tapramiyaḥ, there is no question about its component parts, merely
 I read kā́ṣṭhā(ḥ) in both simile and frame: in the simile it refers to the wooden barriers of the race-course that the horse splits in his speeding around the course, in the frame to sticks floating in the current of the streams and split (against rocks vel sim.) by the violent speed of that current. (Of course the “frame” here is itself metaphorical, since these are streams of ghee, not actual watercourses.)
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
-<details open><summary><h2>05-10 ...{Loading}...</h2></summary>
+<details><summary><h2>05-10 ...{Loading}...</h2></summary>
 
 Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
 

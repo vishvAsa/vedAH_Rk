@@ -279,7 +279,7 @@ adj. vyácasvantā that opens pāda d but also the complex loc. phrase that occu
 Putting all this together, I offer the revised translation: “He is master of the manly power of both of these (armies) when the ritual adepts call on him in the clash, whether an obstacle or a dwelling place rich in men is at issue — if the two (armies) in their expansion will keep tussling mightily back and forth with one another.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
 

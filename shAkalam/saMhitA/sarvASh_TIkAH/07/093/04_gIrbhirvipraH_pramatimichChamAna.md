@@ -238,11 +238,12 @@ Formerly enjoyed riches: i.e. riches desirable even in older time, pūrvam eva s
 <details><summary>Jamison Brereton</summary>
 
 With his hymns the inspired poet seeking your solicitude reverently  invokes (you) for glorious wealth that provides the foremost portion. Indra and Agni, smiters of Vr̥tra, possessing good maces, further us with  new gifts.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is no main clause in vs. 3: the three co-referential participial phrases (… ichámānāḥ b, … nákṣamānāḥ c, … jóhuvataḥ …d) all simply expanding on the dependent cl. of pāda a, úpo ha yád … gúḥ “When they have come”).
 

@@ -201,7 +201,7 @@ However, he also wants it to be a type of partitive genitive (“eine Art von Ge
 partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of partitive gen. could be construed with ‘beget’. I see no reason why this gen. cannot depend on dhárman as ṛtásya does (Sāyaṇa.’s solution).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 A very challenging tṛca, esp. the last two vss.
 

@@ -174,11 +174,12 @@ Light of the sky: rocanam **divaḥ**; you have pervaded and illumined by yourli
 
 Flashing forth (like) the sun with its light, you went to the luminous  realm of heaven.  
 The gods yielded themselves to partnership with you, Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Parts of these two verses reappear, verbatim or slightly modified, in X.170.4, a hymn to Sūrya: 3ab = X.170.4ab, while the first two words of 2c nom. sg.
 

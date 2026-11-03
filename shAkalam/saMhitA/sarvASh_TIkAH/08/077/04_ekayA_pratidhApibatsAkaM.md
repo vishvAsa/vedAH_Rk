@@ -166,7 +166,7 @@ tr. ‘hogshead’ is an attempt to replicate the possible derivation of a word 
 So, something like “(the vessels) of soma provided by the Kāṇvas.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
 

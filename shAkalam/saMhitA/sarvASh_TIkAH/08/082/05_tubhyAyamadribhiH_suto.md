@@ -177,11 +177,12 @@ _________
 
 For you this one here has been pressed by stones, prepared with cows  [=milk], for exhilaration.  
 The soma is being poured forth, Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 (ní) … hūyase (4b) and (prá) … hūyate (5c), though built to identical stems, belong to the roots √hvā/hū ‘call’ and √hu ‘pour’ respectively.
 

@@ -248,7 +248,7 @@ The first hemistich introduces a note of aggression, but this quickly dissipates
 I do not understand the doubling of abhí in pāda c, esp. since abhí seems to add little to this idiom.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
-<details open><summary><h2>43-45 ...{Loading}...</h2></summary>
+<details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 The tṛca has a superficial unity from the (over-)abundance of forms of √pū, esp. in the middle vs.: pavasva 43a, 44a, 44b, 44d; pávamānaḥ 44c; punānáḥ 45c (the only form of √pū in this vs., and belonging to a different stem). Otherwise there is little to hold it together. The supposed transition between the poets Parāsara Śaktya and Kutsa Āṅgirasa happens after vs. 44, but as noted in the published introduction, this change of poets seems unlikely.
 

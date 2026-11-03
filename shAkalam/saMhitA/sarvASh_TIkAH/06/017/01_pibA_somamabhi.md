@@ -261,7 +261,7 @@ respectively, with Indra the subject of both, represented by *yáḥ. But how wo
 In d Geldner suggests that vṛtrám is a “collective singular” and should be construed with neut. pl. víśvā amitríyā, tr. “alle feindseligen Vṛtra’s.” I see no advantage to ignoring the number, and the passages he adduces as parallel do not impose the notion of “collective singular.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These first three vss. form something of a unity. Each begins with a “drink!” imperative (1a píbā sómam, 2a sá īm pāhi, 3a evā́pāhi), and each contains the lexeme abhí √tṛd ‘drill through to’. As outlined below, it is a pleasingly designed rhetorical structure, whose balance and contrast only become evident after conscious analysis.
 

@@ -276,14 +276,15 @@ _________
 
 Once more, in these our battles, bounteous Indra, make for us a great  wide space and easy passage.  
 Go halves with our patrons, Indra, in the conquering of the waters, of  life and lineage.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 For the idiom in sūrī́n kṛṇuhí … ardhám, cf. II.30.5 asmā́n ardhám krṇ̥ utāt.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/17-18.md">
-<details open><summary><h2>17-18 ...{Loading}...</h2></summary>
+<details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 These two vss. contain two exx. of unexpectedly accented 2nd sg.
 
@@ -293,7 +294,7 @@ impvs.: 17a jahí and 18d kṛṇuhí, both internal to the pāda and preceded b
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Here the power of soma to rouse Indra to beneficial action is the general subject of the tṛca. The three forms belonging to √pā ‘drink’ in the 1st hemistich, pā́tram ‘drinking cup’, indrapā́nam ‘giving drink to Indra’, and apāyi ‘has been drunk’, in echoing the first word of the preceding vs. (15a pā́tā ‘drinker’), may have caused this tṛca to be grafted onto the last.
 

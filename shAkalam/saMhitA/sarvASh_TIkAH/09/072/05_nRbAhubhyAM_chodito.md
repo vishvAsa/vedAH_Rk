@@ -283,7 +283,7 @@ He has fulfilled their intentions; he has won completely the thoughts at  the ce
 On 3rd sg. ajais and its AV replacements, see Narten (Sig.Aor. 119-20).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss., in the center of the hymn, are constructed in parallel. To begin with, the post-caesura portion of 4d and 5b are identical: pavate sóma indra te.
 

@@ -218,11 +218,12 @@ _________
 
 Purify yourself, Soma, rich in honey, following the truth, clothing  yourself in waters, on the sheep’s back.  
 Sit down in the cups full of ghee as the most elating, exhilarating drink  for Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
-<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+<details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), just as the last vs. of the previous hymn ended with pavasva (12c). Again, this concatenation may have led to the attachment of 13-16 at this point. Of course, pávasva is hardly a rare form in this maṇḍala.
 

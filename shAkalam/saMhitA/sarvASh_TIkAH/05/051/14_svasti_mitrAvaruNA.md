@@ -226,11 +226,12 @@ Revati = goddess presiding over riches
 Well-being, o Mitra and Varuṇa, well-being, o rich Path.  
 Well-being for us (let) Indra and Agni—well-being, o Aditi, make  
 for us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
-<details open><summary><h2>11-15 ...{Loading}...</h2></summary>
+<details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
 Considered by Oldenberg to be an Anhang even to this set of appended hymns.
 

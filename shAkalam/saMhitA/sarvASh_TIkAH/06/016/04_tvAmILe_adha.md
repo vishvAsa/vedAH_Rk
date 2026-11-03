@@ -171,7 +171,7 @@ In b bharató vājíbhiḥ “Bharata with his prize-winner” is an untranslata
 The ritualistic verbs īḷe ‘reverently invoke’ (a) and ījé ‘sacrifice’ (c) are exact rhymes (save for accent). I take them here as 3rd sg. , as do Geldner and Renou Although the 3rd sg. to the former stem is usually īṭṭ́ e with īḷ ́ e the 1st sg., in this context a 3rd sg. reading is favored, and the lack of accent on īḷe allows it to be drawn into the morphological orbit of the pf. ījé (cf. 3rd sg. perfect-accented īḍé in IV.3.3). Kümmel (389), flg. Tichy, takes both verbs as 1st sg., which is equally possible, as long as Bharata is referring to himself by name: “You do I, Bharata, reverently invoke …”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, each vs. in this tṛca begins with a form of the 2nd sg. prn., although all three are slightly different: the acc. sg. t(u)vā́ m in 4a shows distraction; both 5a and 6a contain the nom. sg., but the 1st is undistracted, the 2nd distracted.
 

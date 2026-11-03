@@ -253,7 +253,7 @@ The summary evā́might be more emphatically rendered as “in just this way” 
 The ppl. in the periphrasis in d, smási hitā́ḥ, could belong either to √dhā or to √hi (so Sāyaṇa.). It is actually not clear to me which one Geldner favors from his “denn wir sind in grossem Wettstreit begriffen” (and his n. 27c doesn’t entirely clarify). Renou clear chose √dhā: “Avec ambition [maháś cid?] nous nous sommes en vérité placéś dans la compétition.” I favor √hi: I think the point is that we are “driven” / “hardpressed” in the hostile encounter, and we need divine help - which we will only get once they have partaken of our soma. But there are several logical steps missing in every interpr.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Like the tṛca 19-21, this one focuses in great part on the gods as drinkers of soma and the desire to bring them to the ritual; the “pursuit” (vītím) of Indra and Vāyu in 25b is reprised in devā-vī́- ‘pursuing the gods’ in 26a, while the gods are mentioned twice in 27ab. The final vs. also begins with the typical hymnsummarizing evā́as three times elsewhere in this hymn (vss. 13-15, 19-21, 34-36).
 

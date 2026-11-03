@@ -185,9 +185,10 @@ yád góbhiḥ ... samajyáse, IX.72.1 sáṃ dhenúbhiḥ ... ajyate; without s
 The published translation does not reflect the possible pun on sám … ajyate that was noted in
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
-The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. </details>
+The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. 
+</details>
 </div>
 </details>
 

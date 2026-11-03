@@ -221,7 +221,8 @@ _________
 
 Bestow the most brilliant skill on us. Repel the many hostilities of the  peoples.  
 Make our vitality higher through your abilities. Help us in the winning  of the stake.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -230,7 +231,7 @@ This tṛca-final vs. reprises and repurposes some of the statements in the open
 VI.44.10-12: This tṛca foresees various disasters and tribulations and asks Indra for his help in combatting them.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On the meter of this tṛca see Oldenberg, Proleg. 91 and Holland & van Nooten Rig Veda edition metrical comm. The fading in and out between Virāj and Triṣṭubh is further complicated by the openings of 3 in 11-syllable lines in 7b, c.
 

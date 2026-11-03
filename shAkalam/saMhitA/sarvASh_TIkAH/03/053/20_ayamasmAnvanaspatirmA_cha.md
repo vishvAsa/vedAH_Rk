@@ -213,7 +213,8 @@ This lord of the forest: **vanaspati**, i.e. the timber of which the car is made
 
 Let this Lord of the Forest [=tree] here not leave us behind and not  cause us harm.  
 (Let there be) well-being all the way to the houses, to the unharnessing,  to the unhitching.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

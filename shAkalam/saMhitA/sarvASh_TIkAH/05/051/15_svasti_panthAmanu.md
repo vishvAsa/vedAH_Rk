@@ -204,11 +204,12 @@ With well-being we would follow along our path, like the Sun and  the Moon.
 May we meet up with one who gives in return, who does not smite, with  one who knows.  
 Maṇḍala V contains the largest collection of Marut hymns in the R̥gveda,  V.52–61, plus V.87. The ten sequential hymns, 52–61, attributed to Śyāvāśva  Ātreya, are poetry of the highest order—inventive, exuberant, and beautifully  crafted—and they capture both aspects of the Maruts:  their social existence  as a sort of Männerbund, a group of young, handsome, high-spirited war  
 riors, and their naturalistic existence as personifications of the monsoon/thun derstorm—without losing sight of their divinity and the benefits they provide  to men.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
-<details open><summary><h2>11-15 ...{Loading}...</h2></summary>
+<details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
 Considered by Oldenberg to be an Anhang even to this set of appended hymns.
 

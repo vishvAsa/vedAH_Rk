@@ -238,7 +238,7 @@ The final infinitival ādíśe can be taken in a number of ways: Geldner (fld. b
 In that vs. I take the lexeme as meaning ‘designate (X as Y=epithet)’, and I think something similar is meant here: by giving Pūṣan attributes and identifying him with various gods I've uniquely identified him.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
-<details open><summary><h2>14-19 ...{Loading}...</h2></summary>
+<details><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
 

@@ -261,7 +261,7 @@ The 2nd hemistich opens with a form of the 2nd sg prn., táva, followed at inter
 The image of Soma purifying himself “between the two world-halves” of course reflects the cosmic reach of the Soma, but it may also have a narrower ritual application. In IX.98.9 Geldner suggests that the world-halves there are the jaws of the soma-press, which would fit nicely here. See also IX.75.4, where the world-halves are called the mothers of Soma.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by increasingly larger claims for Soma’s cosmic reach. It has fewer connections to previous tṛcas, save for the echo in 15b dhā́ma prathamám vyānaśe of 5a and c, on which see comm. there.
 

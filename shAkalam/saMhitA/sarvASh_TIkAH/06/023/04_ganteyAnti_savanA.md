@@ -253,11 +253,12 @@ _________
 
 Going to even such pressings as these with his two fallow bays, bearing  his mace, drinking soma, giving cows,  
 who makes the manly hero possessed of hale heroes, the hearer of the  singer’s call, for praise songs are his vehicle.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The alternation of root-accented -tar- agent nouns and redupl. agentive - i-stems, both with verbal rection, is a distinctive characteristic of these two vss.
 

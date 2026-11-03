@@ -272,11 +272,12 @@ Adoration: divyarceva **māsā** = divase sautye ahani **arcana** sādhanena sto
 This is (weal) for him: seeking attachment, the soma has been set  firmly in Indra, like the two shining ones, (sun and) moon, in  
 heaven.  
 Our invocations along with our sacrifices have entirely strengthened  (him), like a man in the desert when waters con(verge) on him.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The identical openings of these two vss., ásmā etád, pick up the last clause of vs. 3, śáṃ tád asmai, and invite the two phrases to be interpr. as separate clauses, with śám to be supplied from 3d, as both Oldenberg and Geldner point out.
 

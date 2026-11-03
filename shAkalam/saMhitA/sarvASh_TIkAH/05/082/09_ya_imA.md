@@ -166,7 +166,7 @@ by Klein [DGRV I.248 n. 93, 251]) takes cá as subordinating, tr. ‘wenn’, th
 The phrase āśrāváyati ślókena is technically an etymological figure, somewhat obscured by the l-form of ślóka- and its highly lexicalized state.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 There are no overt main clauses in these last two vss., whose vs.-init. rel.
 

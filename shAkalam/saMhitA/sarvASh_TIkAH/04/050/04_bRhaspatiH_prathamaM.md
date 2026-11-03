@@ -236,7 +236,7 @@ As usual, numerology is difficult to interpr. I think Geldner is correct that th
 Geldner suggests the seven reins of the sacrifice; I prefer the seven seers, who are, in my opinion, the referents of the phrase saptá raśmáyaḥ in the enigmatic I.105.9 (see comm. ad loc.). This would provide Bṛhaspati with two different connections to poetic speech, appropriately enough.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
-<details open><summary><h2>01-06 ...{Loading}...</h2></summary>
+<details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
 

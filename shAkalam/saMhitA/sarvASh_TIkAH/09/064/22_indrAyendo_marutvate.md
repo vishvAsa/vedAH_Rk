@@ -140,11 +140,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For Indra with the Maruts, o drop, purify yourself as the most honeyed, to sit on the womb of truth.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The mention of the divine recipients of the soma in vss. 22 and 24 marks this tṛca, though the middle vs. lacks this feature. The (human) inspired poets (víprāḥ) in 23 implicitly contrast with the kaví- Soma, addressed in the voc. in 24. Note also that this is the third tṛca in a row that refers to sitting on (or coming to) “the womb of truth” (17c, 20ab, 22c), a trope found also in 11c; all four expressions are slightly different, though containing the same basic elements: 11c sī́dann ṛtásya yónim ā́, 17c ágmann ṛtásya yónim ā́, 20ab ā́… yóniṃ hiraṇyáyam … ṛtásya sī́dati, 22c ṛtásya yónim āsádam. For further on this trope see comm. ad vs. 30 below.
 

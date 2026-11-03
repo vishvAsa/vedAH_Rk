@@ -185,7 +185,7 @@ This pressed soma here purifies himself, gleaming like ghee, for you,  glowing o
 That Pūṣan is addressed in the 2nd ps. here, while the refrain remains in the 3rd ps., might be taken as evidence for Ober’s identification of Soma as the subject of the refrain - since soma is in the 3rd ps. in this vs. However, refrains tend to operate in syntactic independence from their vss., and, as I argued above, once the refrain is set, it is unlikely to change referents.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This, the Atri tṛca, shows very tight cohesion. To begin with, Pūṣan, under his name (vs. 10) or characteristic epithets (kapardín- vs. 11, ā́ghṛṇi- vs. 12), appears in every vs., in particular as the recipient of the pressed and purified soma in vss. 11-12. Since, as noted in the published introduction, Pūṣan is rarely found in IX, devoting a tṛca to him here is striking, and the assumption that he wants soma is esp. anomalous, since in the hymn devoted to Indra and Pūṣan (VI.57) Indra’s desire for soma is explicitly contrasted with Pūṣan’s for porridge (VI.57.2).
 

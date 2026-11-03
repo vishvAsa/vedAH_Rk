@@ -249,7 +249,7 @@ There are various suggestions about what to supply with purū́ṇi: Sāyaṇa. 
 In the last pāda it is Soma who is urged to “go past the barriers” (paridhī́n); we might have expected the poet to ask Soma for help in getting past them himself (but see next vs.). For Soma’s journey past the paridhī́n Geldner and Renou cite IX.96.11 paridhī́m̐r áporṇu “open up the barriers.” In both passages the paridhí- are presumably obstacles to Soma’s progress on his ritual journey, perhaps the tufts of the fleece filter.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
-<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+<details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 This is the first and only place in the hymn in which the 1st person is found. The speaker’s eagerness for fellowship with Soma, who is addressed directly, and his admission of his troubles give an intimate and almost confessional tone. Both vss. have the 1st sg. prn. ahám, a form of sakhyá-, a form of dív- ‘day’, and the voc. to babhrú- ‘brown one’ and are tightly connected, also structurally (see disc. ad 20).
 

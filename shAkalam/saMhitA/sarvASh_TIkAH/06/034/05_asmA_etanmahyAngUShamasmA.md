@@ -245,7 +245,7 @@ so that, in the great overcoming of Vr̥tra [/obstacles], Indra will be our  lif
 The balance and reciprocity between god and worshipers evident earlier in the hymn also characterizes its ending. The last thing said about Indra is that he is our ‘strengthener’ (vṛdháḥ 5d), just as our offerings, both material and verbal, have strengthened him (vardháyantīḥ 3b, vāvṛdhuḥ 4d).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The identical openings of these two vss., ásmā etád, pick up the last clause of vs. 3, śáṃ tád asmai, and invite the two phrases to be interpr. as separate clauses, with śám to be supplied from 3d, as both Oldenberg and Geldner point out.
 

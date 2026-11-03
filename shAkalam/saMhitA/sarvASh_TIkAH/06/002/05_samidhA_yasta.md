@@ -202,7 +202,7 @@ The two adjectives vayā́vantam and śatā́yuṣam are best taken as proleptic
 For extensive disc. of this vss., see comm. ad VI.2.4-5 above.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss. are in some ways an expansion of VI.1.9: 4ab are the equivalent of VI.1.9a (for disc. see below); 5ab corresponds to VI.1.9bc. Note esp.
 

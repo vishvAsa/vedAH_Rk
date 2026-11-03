@@ -179,7 +179,7 @@ Geldner takes ámithitaḥ as “ohne Zank” (without a quarrel), but I think i
 However, Oldenberg very persuasively suggests that it is a 1st sg. subjunctive in the direct speech introduced by abravīt. Although to the reduplicated present of √hā we would expect accent on the reduplication (*jáhā), Oldenberg argues that the fluctuation of accent in IIIrd class presents makes the accent irrelevant. I would alternatively suggest that it could be a subjunctive to the perfect stem. See Oldenberg’s extensive discussion of the various previous proposals about this form.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
-<details open><summary><h2>37-38 ...{Loading}...</h2></summary>
+<details><summary><h2>37-38 ...{Loading}...</h2></summary>
 
 For my interpretation of this bit of dialogue, see the published introduction.
 

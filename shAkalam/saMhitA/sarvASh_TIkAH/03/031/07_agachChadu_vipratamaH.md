@@ -252,7 +252,7 @@ My tr. of d, áthābhavad áṅgirasāḥ sadyó árcan, differs in an important
 seems to me thematically backwards. Indra joins the category of the Aṅgirases because he joins them in song, which is their principal function in this myth; he is not an Aṅgiras by nature who happens to start singing. (This point is made, more or less, by Schmidt [173], despite his contrary tr.)
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Given the thematic weight the part. árcan carries (see comm. immed.
 
