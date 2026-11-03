@@ -236,11 +236,12 @@ Delivererfromm enemies: tarutr. = jetr. (RV 8.1.28)
 
 Which, difficult to surpass, worthy of fame, is the overcomer in the  prize-contests, o you who grant all wishes—  
 you, o strongest good one—come here to our pressings. May we go to a  pen full of cows.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
-<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 A thematic and syntactic modulation. The yáḥ clauses of vs. 8 (which lacks a main clause) clearly refer to Indra’s máda- ‘exhilaration’, and the yáḥ which opens vs. 9 seems simply to continue this construction. But the 2nd hemistich is couched in the 2nd ps. and refers to Indra, and it is possible to assume that Indra is also the subject of ab (despite the 3rd ps. construction and the 2nd ps. vocative), because the qualifiers in 9ab are better suited to Indra than to his máda-. (As Oldenberg says, “Übergleiten von Indras máda zu I. selbst.”) In the end, though, it is better to assume a covert identification of Indra and his máda-, which allows a smooth transition from describing the latter to describing the former.
 

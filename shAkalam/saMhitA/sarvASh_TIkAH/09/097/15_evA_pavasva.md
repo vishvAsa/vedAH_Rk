@@ -236,7 +236,7 @@ His solution also does not mesh with passages like I.165.6 víśvasya śátror �
 The expression in pāda c, “encompassing the glistening color,” presumably refers to Soma’s incorporating the gleaming white milk - rendered clearly, if nonliterally, by Geldner’s “weisse Farbe annehmend.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion in this tṛca, which is a collection of soma tropes. If there is any unifying theme it is movement, with eti (13b), eṣi (14b, c), arṣati (13d), arṣa (15d); for other repeated lexical items also pariṣicyámānaḥ (14d), pári … siktáḥ (15d). Also the final vs. (15) begins with evā́, the common hymn-ending summary particle - an effect that is muted in the published translation
 

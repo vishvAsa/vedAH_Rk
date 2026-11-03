@@ -276,11 +276,12 @@ _________
 Indra, with your manifold means of help, which are the best possible  ones, quicken us today, bounteous champion.  
 Whoever hates us, let him fall low. Whomever we hate, let breath  
 leave him.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
-<details open><summary><h2>21-24 ...{Loading}...</h2></summary>
+<details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are traditionally taken as depicting the rivalry between Viśvāmitra and Vasiṣṭha, but I see no sign of this here; certainly Vasiṣṭha is not mentioned. The verbal link is supposed to be VII.104.16 adhamás padīṣṭa “let him fall lowest,” a curse uttered in a Vasiṣṭha hymn that echoes our 21c ádharaḥ sás padīṣṭa. But in neither case is the opponent named, and there is no reason to assume that Vasiṣṭha directs this at Viśvāmitra or vice versa.
 

@@ -162,7 +162,7 @@ As dear one, enter the sea.
 On (ní) √tuś see comm. ad VIII.38.2.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a pattern that is repeated in the next tṛca.
 

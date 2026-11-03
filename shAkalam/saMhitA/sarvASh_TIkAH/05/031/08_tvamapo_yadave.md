@@ -273,7 +273,7 @@ Scarlatta (313 n. 444) and Witzel Gotō. I see no reason to accept this. The ste
 Although most take atrá- as a PN, I still prefer the older derivation (see, e.g., Grassmann) from √ad ‘eat’ with simplification of the geminate (*at-trá-), pace EWA s.v. átri-. It does not have to have anything to do with the seer Atri (átri-), but átrin- ‘voracious’ is, in my opinion, derivationally connected.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The recital of Indra’s deeds now reverts to the past tense, to a series of insistently augmented imperfects: 7b ámimīthāḥ, 7c agṛbhṇāḥ, 7d asedhaḥ, 8b áramayaḥ, 8c ayātam, ávahaḥ. (In 8d the Pp. reads unaug. áranta, but in its sandhi situation [uśánā́ranta] it could as easily be ā́ranta; the accent should be on the augment because it’s in a subordinate cl., but ā + áranta would come out this way.
 

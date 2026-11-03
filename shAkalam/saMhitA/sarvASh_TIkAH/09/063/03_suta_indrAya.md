@@ -149,11 +149,12 @@ _________
 
 Pressed for Indra, for Viṣṇu, soma has streamed into the tub.  
 Let it be honeyed for Vāyu.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
 </details>

@@ -249,14 +249,15 @@ _________
 
 The bulls have mounted the wooden cup for you, o bull, like waves  spraying ghee as they bring exhilaration.  
 Indra, to you, the bullish bull, they present soma from out of the  (drops) pressed by bulls.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 Although they belong to different, and distant, tṛcas, the partitive gen. construction here, … prá … sutā́nām, DAT bharanti …, matches that in vs. 13: … prá … sutā́nām, DAT bhara … and occupies the same position in the vs., though in our vs. √bhṛ also has a direct acc. object sómam.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This tṛca has a more obvious unifying feature than the last several: the repeated ‘bull’ words, vṛ́ṣan- and vṛṣabhá-. I count 16 exx. of the two stems in the three vss. The bull(ish) grammatical subjects of the three vss. are different: 19 Indra’s horses, 20 the soma drinks, 21 Indra himself. The vṛ́ṣan- stem predominates; vṛṣabhá- only appears beginning in the last pāda of 20 (though prepared for by instr.
 

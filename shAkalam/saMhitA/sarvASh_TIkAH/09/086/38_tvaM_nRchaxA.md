@@ -257,7 +257,7 @@ Purify yourself in a manner rich in goods and gold for us. May we be  (fit) to l
 I take the -mat and -vat forms adverbially.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
-<details open><summary><h2>37-39 ...{Loading}...</h2></summary>
+<details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 For the first time in this hymn (save for briefly in vs. 18), this tṛca shows some interest in what Soma might do for us, particularly in the 2nd two vss.
 

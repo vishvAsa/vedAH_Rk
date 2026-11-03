@@ -156,11 +156,12 @@ _________
 
 Upon you the clans, offering oblations, call for help,  
 (you who are) of broad expanse through the drops.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">
-<details open><summary><h2>26-27 ...{Loading}...</h2></summary>
+<details><summary><h2>26-27 ...{Loading}...</h2></summary>
 
 Vs. 26 (and if I am right, 25c) are both dependent on vs. 27 by my reading.
 

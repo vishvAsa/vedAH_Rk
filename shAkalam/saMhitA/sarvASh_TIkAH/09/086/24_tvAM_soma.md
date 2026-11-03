@@ -237,7 +237,7 @@ The impf. amadan in b is wrongly tr. as a present in the published translation: 
 Once again the Pp. analyzes ā́/ abharat, but the sequence could instead be ā́/ bharat with an injunc.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca seems to be characterized by augmented imperfects, though three of the five could be injunctives instead: ā́rohayaḥ [maybe] 22d, abhavaḥ 23c, avṛṇoḥ [maybe] 23d, amadan 24b, ā́bharat [maybe] 24c. It is also characterized by mythic allusions, esp. the Vala myth and the opening of the cowpen for the Aṅgirases (23d) and the stealing of soma from heaven (24c), as well as the cosmogonic act of raising the sun into heaven (22d). Both this latter deed and the opening of the Vala cave are deeds usually attributed to Indra.
 

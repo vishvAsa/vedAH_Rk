@@ -275,7 +275,7 @@ This interpr. allows, but does not enforce, a coreferential interpr. of naḥ (c
 What calumny? Geldner (n. 8d) suggests the dishonor because of the loss of the herd.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Given the thematic weight the part. árcan carries (see comm. immed.
 

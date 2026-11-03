@@ -164,11 +164,12 @@ _________
 
 He pierced (the boar Emuṣa), pierced the cooked rice porridge forth  from the mountains, and held it fast.  
 Indra (took) the well-stretched Bunda-bow.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
 

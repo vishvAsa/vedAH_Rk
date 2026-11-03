@@ -156,13 +156,15 @@ _________
 
 Here your skill, which is joy itself, we choose today, here (you as)  draft-animal,  
 here the much coveted drink,
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
-<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+<details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
-As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca is bound by bonds of iron: 13 occurrences of ā́, most construed with an acc. of a desirable object, all sharing a single verb (ā́) vṛṇīmahe (28b). In addition the three c pādas are identical. This refrain contains the nom. stem pā́nta- ‘drink’, not the pres. part.</details>
+As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca is bound by bonds of iron: 13 occurrences of ā́, most construed with an acc. of a desirable object, all sharing a single verb (ā́) vṛṇīmahe (28b). In addition the three c pādas are identical. This refrain contains the nom. stem pā́nta- ‘drink’, not the pres. part.
+</details>
 </div>
 </details>
 

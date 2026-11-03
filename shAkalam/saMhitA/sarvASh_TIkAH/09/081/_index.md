@@ -19,7 +19,7 @@ Attributed to the same poet as the preceding hymn (IX.80), this hymn concerns  i
 <details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md">
-<details open><summary><h2>068-086 ...{Loading}...</h2></summary>
+<details><summary><h2>068-086 ...{Loading}...</h2></summary>
 
 The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī section goes through IX.86.
 

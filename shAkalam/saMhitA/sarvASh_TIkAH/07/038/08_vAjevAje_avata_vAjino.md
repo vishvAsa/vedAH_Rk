@@ -246,7 +246,7 @@ Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along t
 It is appropriate that the vājíns should be the topic in a clause with the āmreḍita loc. absol. vā́je-vāje. The etym. figure would be clearer if the loc. had been tr. “whenever prizes (are at stake)” vel sim.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These last two vss. concern the vājínaḥ ‘prize-winners’. As indicated in the published introduction, although most (in addition to the usual tr., see Oberlies RdV II.240) take these to be horses, as so often, I instead take the referent of vājín- to be the Maruts. In an All God hymn the default expectation is that gods are the dedicands.
 

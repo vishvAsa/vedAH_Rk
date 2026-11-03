@@ -244,11 +244,12 @@ The seven kine: the seven verses, **gāyatrī** and others, or the seven rivers;
 
 Seven milk-cows roar toward the tawny one being purified on the  sheep’s fleece in a wave all around.  
 Into the lap of the waters, into the womb of truth have the Āyus, the  buffaloes propelled the poet.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">
-<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+<details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are seven in 25b (recalling the “thrice seven” that produced the milk-mixture in 21c), here called dhenávaḥ, with gā́ḥ in 26c and góbhiḥ in 27c. Other miscellaneous animals: the sheep’s fleece (ávye … vā́re 25a), buffaloes (mahiṣā́ḥ 26d), a steed (átyaḥ 26d), as well as the tawny one (hárim 25b, 27b), if that is specifically a tawny horse or, as in 31b (vṛ́ṣā … háriḥ), a tawny bull.
 

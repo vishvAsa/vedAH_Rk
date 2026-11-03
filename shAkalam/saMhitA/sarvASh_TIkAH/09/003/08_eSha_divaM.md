@@ -165,11 +165,12 @@ _________
 
 This one has now run through heaven, across the airy spaces, and  cannot be recaptured—  
 good at the rite as he purifies himself.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. are paired; their first two pādas are almost identical: 7ab eṣá dívaṃ ví dhāvati, tiró rájāṃsi dhā́rayā 8ab eṣá dívaṃ vy ā́sarat, tiró rájāṃsi áspṛtaḥ I think this close match actually conceals an important difference in intent. Vs. 7 describes the ritual journey of the just pressed soma in the standard grandiose cosmic style -- the journey from filter to cup configured as a journey through the vast realms of heaven and the midspace. The verb dhāvati is pres. indicative. The vs. picks up from vs. 6, which describes the mixing of the pressed juice with water.
 

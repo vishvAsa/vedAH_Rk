@@ -343,7 +343,7 @@ The problem with ‘drink’ of course is that this root makes a root aorist, no
 I take the two abl. in fg in different senses: víśvasmād bhúvanāt as a temporal expression, but asuryā̀t as causal.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Fronted forms of the 2nd sg. pronoun begin most of the metrically significant sections in this sequence of vss. (4a, d, 5a, d, 6a).
 

@@ -158,7 +158,7 @@ The third pāda of this vs. is radically incomplete, consisting only of a partic
 However, this structural argument runs into problems of mythological content. Although Turvaśa and Yadu are sometimes enemies of Indra (see, e.g., VII.19.2), at other times they are under Indra’s protection. In particular, in the Indra cycle from which IV.26.3 and IV.30.14, the parallels to our vss. 1-2ab, were cited above, T + Y are rescued by Indra: IV.30.17 utá tyā́turváśāyádū, … / índraḥ … apārayat “And Indra brought these two, T + Y, to the far shore,” just three vss. later than the smiting of Śambara. Note further that IV.30.17a is very like our pāda, a dimeter line with an introduction. disyllabic connective, a form of the demonstr. syá- / tyá-, and the two names, though with a dual dvandva turváśāyádū rather than two individual acc. sgs. On this basis, I’m afraid the simple solution of taking T + Y as further victims of Indra should be abandoned, in favor of supplying (or at least assuming) a positive verb to govern them, such as Geldner’s (n. 2c) “errettete” or Renou’s “sauva.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, with the objects of the verb in 1c partly postponed to 2ab. The third vs. has as its verb pári … kṣárā, which echoes pári srava in 1a.
 

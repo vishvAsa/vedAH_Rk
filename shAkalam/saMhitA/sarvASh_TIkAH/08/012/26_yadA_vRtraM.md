@@ -173,11 +173,12 @@ _________
 
 When, o mace-bearer, with your vast power you smashed Vr̥tra who was  blocking the rivers,  
 just after that your two beloved fallow bays waxed strong.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
-<details open><summary><h2>25-28 ...{Loading}...</h2></summary>
+<details><summary><h2>25-28 ...{Loading}...</h2></summary>
 
 The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā́hárī.
 

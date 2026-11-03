@@ -564,7 +564,7 @@ And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mant
 Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 

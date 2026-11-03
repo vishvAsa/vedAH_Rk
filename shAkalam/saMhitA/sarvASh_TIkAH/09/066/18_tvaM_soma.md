@@ -189,7 +189,7 @@ As noted above, vṛṇīmáhe sakhyā́ya is a permutation of 14c sakhitvám u�
 On vṛṇīmáhe yújyāya, see comm. ad IX.88.1. Given the other exx. of this lexeme, I would now alter the tr. to “we choose you for yoking [/use].”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. are linked lexically and by their investment in grammatical comparison. The third is unconncected, but 18c echoes vs. 14 in the previous tṛca.
 

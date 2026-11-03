@@ -242,14 +242,15 @@ _________
 
 Here is this drinking cup, giving drink to Indra. Indra’s dear immortal  (drink) has been drunk,  
 so that it will exhilarate the god for the sake of his good favor and will  keep hatred and constraint away from us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes índrasya as agent of apāyi (“Indra hat seinen lieben Göttertrank getrunken”), but finite passives, even verbs of consumption, don’t take genitive agents.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Here the power of soma to rouse Indra to beneficial action is the general subject of the tṛca. The three forms belonging to √pā ‘drink’ in the 1st hemistich, pā́tram ‘drinking cup’, indrapā́nam ‘giving drink to Indra’, and apāyi ‘has been drunk’, in echoing the first word of the preceding vs. (15a pā́tā ‘drinker’), may have caused this tṛca to be grafted onto the last.
 

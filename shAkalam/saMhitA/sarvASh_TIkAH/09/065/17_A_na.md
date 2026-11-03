@@ -161,11 +161,12 @@ _________
 
 Convey to us here, o drop, hundredfold thriving of cattle, an abundance  of horses,  
 and the gift of good fortune, for aid.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his conveying good things to us on that journey. Cf. esp. 17 ā́naḥ … váhā and 18 ā́naḥ … bhara. All three vss. end in a purpose dative / dative infinitive: 16 yā́tave, 17 ūtáye, 18 devávītaye.
 

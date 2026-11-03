@@ -243,7 +243,7 @@ I take this nominal clause (/subclause) as annunciatory of the gapped object of 
 Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Geldner “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and Witzel Gotō. The form is an injunctive, contra the Pp.; so already Grassmann; see Oldenberg (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
-<details open><summary><h2>10-18 ...{Loading}...</h2></summary>
+<details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
@@ -251,7 +251,7 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md">
-<details open><summary><h2>11-12 ...{Loading}...</h2></summary>
+<details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 The repeated phrase “in the nest of the bull” (vṛṣabhásya nīḷé, 11d, 12b) is somewhat opaque, but I think Geldner is basically right, that the vṛṣabhá- is Agni (not, with Hoffmann, heaven). His nest is, in my opinion, the ritual ground; its designation also as the “womb of truth” (ṛtásya yóni-, 12b) supports this identification. I find Witzel Gotō’s n. on this phrase incomprehensible, though it seems to follow Hoffmann in part.
 

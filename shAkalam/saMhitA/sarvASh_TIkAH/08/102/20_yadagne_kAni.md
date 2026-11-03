@@ -184,13 +184,15 @@ Any kinds oftimber: **Taittirīya** **Saṃhitā** 5.1.10: in ancient times they
 
 When, Agni, we set any pieces of wood whatsoever in you,  
 enjoy them, youngest one.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
-<details open><summary><h2>19-22 ...{Loading}...</h2></summary>
+<details><summary><h2>19-22 ...{Loading}...</h2></summary>
 
-See published introduction. for my general interpr. of these verses.</details>
+See published introduction. for my general interpr. of these verses.
+</details>
 </div>
 </details>
 

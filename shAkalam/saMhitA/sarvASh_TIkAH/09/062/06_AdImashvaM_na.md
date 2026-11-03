@@ -157,11 +157,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Then, like drivers a horse, they have beautified him for the immortal, the sap of honey for joint revelry.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Again no obvious signs of unity, beyond the progress through the preparation of soma. Note, however, that 4b and 5b both begin apsú and the opening of 6b, áśū(śubhan) echoes that opening phonologically.
 

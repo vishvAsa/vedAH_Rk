@@ -172,11 +172,12 @@ i.e. you give offspring, and all good things
 You are the bull of the peoples; you were born as the most  
 munificent, Indra.  
 In every way you have acquired all things that bring good descendants.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
-<details open><summary><h2>07-10 ...{Loading}...</h2></summary>
+<details><summary><h2>07-10 ...{Loading}...</h2></summary>
 
 Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. pronoun.
 

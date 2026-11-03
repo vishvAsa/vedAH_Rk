@@ -222,7 +222,7 @@ Geldner takes ná in b as the neg. (flg. Sāyaṇa.) and asserts (n. 13), contra
 The 2nd hemistich begins like 1c: ápa śvā́nam … The simile in d, “as the Bhr̥gus did the Battler” (makháṃ ná bhṛ́gavaḥ), refers to what Geldner calls an otherwise unknown saga. The makhá- is found as a defeated enemy of Indra in X.171.2, a hymn attributed to one Iṭa Bhārgava, the patronymic of the victors in our vs.. Note that the denom. verb makhasyate occurs in our vs. 5c.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The dog returns from the first tṛca in the first vs. of this one. The tṛca is also more rhetorically ambitious than those in the middle of this hymn, with an abundance of similes (13b, d, 14b, c, d, 15b). Vss. 14 and 15 end identically.
 

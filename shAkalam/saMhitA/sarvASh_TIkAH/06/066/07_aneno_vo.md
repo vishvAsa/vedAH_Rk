@@ -253,7 +253,8 @@ Let your course be without antelopes, o Maruts, also without horses— the cours
 Without halt, without reins as it crosses the dusky realm, it travels  
 through the two world-halves along its paths, heading toward  
 its goal.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

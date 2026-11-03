@@ -180,11 +180,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 When your two beloved fallow bays grew strong from day to day, just after that all these worlds held themselves in submission to you.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
-<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+<details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The linkage of tṛcas is unusually close here, with the pāda-length refrain of vss. 25-27 recast as the first hemistich of vs. 28 and ā́d ít te, which opened the refrain of 25-27, retained as the opening of the refrain of 28-30.
 
@@ -194,7 +195,7 @@ For the only time in the hymn the Anhang is only three syllables, yemire, but th
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
-<details open><summary><h2>25-28 ...{Loading}...</h2></summary>
+<details><summary><h2>25-28 ...{Loading}...</h2></summary>
 
 The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā́hárī.
 

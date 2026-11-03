@@ -154,11 +154,12 @@ _________
 The self-purifying one rushes across failures toward the lovely  
 praise hymn,  
 visible to all like the sun.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 No strong signs of unity, though a form of pávamāna- opens vss. 22 and 24, but Soma as the sun in 22c returns in the theme of light and the defeat of darkness in 24bc.
 

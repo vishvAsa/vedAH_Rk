@@ -294,11 +294,12 @@ _________
 
 Indra created what exists in the exhilaration of it, what exists at the  drinking of it; what exists in the fellowship of it.  
 Or those [=priests] who were there with joy at the installation of it—the  previous ones acquired what exists; the current ones what exists.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. form a tight pair, whose responsions are detailed below.
 

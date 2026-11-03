@@ -198,7 +198,7 @@ The notion that “the middle bucket” (kóśa- madhyamá-) is the rain cloud g
 It is possible that the impv. didīhí ‘illuminate’ in the first hemistich is meant to evoke lightning in this context, although it is not otherwise found in this usage, as far as I can tell.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
-<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+<details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 These two vss. are syntactically independent but linked by the theme of rain.
 

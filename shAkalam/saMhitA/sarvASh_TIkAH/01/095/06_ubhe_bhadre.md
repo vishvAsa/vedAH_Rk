@@ -261,7 +261,7 @@ The position of simile-marking ná is aberrant, preceding the simile’s noun m�
 The etymological figure in c, dákṣāṇāṃ dákṣapatiḥ “skill-lord of skills,” then participates in a phonological figure with semantically distinct dakṣiṇatáḥ “from the right (/south)” in d.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) to take pleasure (in themselves),” but this tr. seems too heavy, esp. in adjacent pādas.
 

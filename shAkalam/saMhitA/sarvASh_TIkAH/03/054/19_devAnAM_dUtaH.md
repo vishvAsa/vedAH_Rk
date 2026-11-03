@@ -234,11 +234,12 @@ _________
 
 The messenger of the gods, impelled forth in many forms—let him  pronounce us blameless in our entirety.  
 Let Earth, Heaven, and the Waters hear us, and the Sun with the  heavenly bodies, and the broad midspace.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
-<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+<details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 The call to the gods to hear us, found first in vs. 1, returns here at almost the end of the hymn (19c, 20a, 20c). Note that in 19c the verb is sg. (śṛṇótu) with a series of sg. subjects (and one pl., ā́paḥ, in the middle), while in 20a it is pl.
 

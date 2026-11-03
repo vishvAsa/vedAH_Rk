@@ -167,11 +167,12 @@ _________
 
 When the beams of powerful Agni go forth in all directions  
 —(you) blazing away the bad for us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
-<details open><summary><h2>03-05 ...{Loading}...</h2></summary>
+<details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 These three middle verses, before the refrain becomes reintegrated into the verse, begin identically: prá yát, though the sense of yád in 3-4 differs from that in 5.
 

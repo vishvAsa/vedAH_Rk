@@ -157,11 +157,12 @@ _________
 
 The tubs have cried out, o drop. In streams, with strength,  
 enter (them) for Indra’s drinking.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again, no signs of unity.
 

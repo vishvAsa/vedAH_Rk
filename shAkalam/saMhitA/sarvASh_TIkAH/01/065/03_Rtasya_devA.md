@@ -172,9 +172,8 @@ Or at least it matches bhū́ma acdg. to the standard renderings (Geldner, Renou
 Yet another aspect of this little expression is its relation to other such expressions in this small group of hymns attributed to Parāśara Śāktya (I.65-73): twice elsewhere in this collection Agni is depicted as encompassing something else, with the lexemes pári √bhū (I.68.2 pári … bhúvat, I.69.2 pári … babhūtha), while in
 
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ (3b) to the associated roots √gam and √gā respectively, with no apparent difference in semantics. Here one might almost invoke the much over-used explanation of metrical convenience: both of these 3rd plurals are always (gman) or almost always (guḥ) pāda-final, with the first “making position” with a preceding light syllable (often ánu) and the latter not.
 

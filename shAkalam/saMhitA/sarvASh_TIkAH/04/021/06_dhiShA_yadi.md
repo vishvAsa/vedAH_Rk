@@ -246,7 +246,7 @@ As indicated in the published introduction. I take auśijá-, the vṛddhi deriv
 On the problematic duróṣāḥ (here apparently an -s-stem, as opposed to the thematic stem found in the two other occurrences), see comm. ad VIII.1.13.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
 

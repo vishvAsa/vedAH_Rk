@@ -172,13 +172,15 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Agni do the gods kindle at the front, as the best obstacle-smasher by whom goods are brought here and the demonic powers crushed—by  the prizewinner.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
-<details open><summary><h2>47-48 ...{Loading}...</h2></summary>
+<details><summary><h2>47-48 ...{Loading}...</h2></summary>
 
-This long hymn (or the short final tṛca) seems to end with a buried poetic signature: 47b ends with bharāmasi, 48c with vājínā, the last word of the hymn. Together they are the elements that make up the poet’s name Bharadvāja.</details>
+This long hymn (or the short final tṛca) seems to end with a buried poetic signature: 47b ends with bharāmasi, 48c with vājínā, the last word of the hymn. Together they are the elements that make up the poet’s name Bharadvāja.
+</details>
 </div>
 </details>
 

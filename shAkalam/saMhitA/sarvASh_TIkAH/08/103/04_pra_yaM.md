@@ -231,11 +231,12 @@ A lord of great wealth:sahasrapoṣiṇa = bahudhanam, nourisher of thousands
 The mortal whom you wish to lead forward for wealth, who does pious  service for you, good one,  
 he acquires a hero who proclaims solemn speech, who fosters a  
 thousand by himself, o Agni.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 In both these vss. tmánā ‘by himself’ contrasts with the vast number (thousands) that the action of this sole individual wins or prospers.
 

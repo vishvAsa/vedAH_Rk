@@ -255,7 +255,7 @@ But I take úparā as meaning ‘nearer, very close’ (so approx. Renou) and th
 Hoffmann (194-95, fld. by Witzel Gotō) sees sáṃ vā́k as a new, separate clause (“Dabei ist die Vāc.”). Although I don’t entirely understand the position and function of sám, I do not think making these last two words into an abrupt appendage works well.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
-<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+<details><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
 

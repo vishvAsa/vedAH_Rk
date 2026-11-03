@@ -161,11 +161,12 @@ Yasus. 8.63
 
 In purifying yourself, o Soma, bring masses of gold, of horses, of  heroes;  
 bring hither a prize of cows.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 No evidence of unity, beyond vājínam (17b), vā́jaṃ (18c), and the vss. are quite hackneyed, even for Soma Gāyatrī hymns.
 </details>

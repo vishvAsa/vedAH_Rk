@@ -161,11 +161,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The soma drinks which have been pressed in the distance, which nearby, to all those do you go, Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 I do not understand the force of the vā in 5a, since this verse does not seem to me a logical alternative to vs. 4. Nor do I understand the utá-u beginning 5c, which should not be conjoining the dependent clause of ab with the main clause of c.
 

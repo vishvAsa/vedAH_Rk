@@ -243,11 +243,12 @@ _________
 
 This very Soma purifies himself for you, o Indra, in the cups, insightful  and powerful for you who desire it—  
 the charioteer having the eye of the sun, whose impetuosity is real, who  has been sent surging like the desire of those who seek the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
-<details open><summary><h2>46-48 ...{Loading}...</h2></summary>
+<details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
 Again very few signs of cohesion as a whole, though the 1st and last vss. have a few echoes: rathiráḥ (46c, 48a) and a satyá-X bahuvrīhi (satyá-śuṣma46c, satyá-manman- 48d), as well as camū́- (46b, 48b). Also, assuming that the “daughter” in 47b is the Daughter of the Sun (as most do), both 46 and 47 have ref.
 

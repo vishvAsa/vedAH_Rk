@@ -148,11 +148,12 @@ _________
 
 For these two do the inspired poets, each and every one, reverently  invoke in just this way, for aid,  
 urgently, for the winning of prizes.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
-<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Both vss. begin with the dual pronoun tā́, but the first is 3rd ps. (“these two”) and object of a 3rd ps. verb (īḷate … víprāsaḥ “the inspired poets invoke those two”), while the 2nd, followed by 2nd ps. enclitic vām, has switched reference to 2nd ps.
 

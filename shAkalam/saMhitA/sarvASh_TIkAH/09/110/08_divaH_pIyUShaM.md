@@ -212,11 +212,12 @@ _________
 
 The ancient beestings of heaven, worthy of hymns—they milked that  out of the great depth of heaven.  
 They cried out in unison toward Indra as he was being born.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Considerably clearer than the previous tṛca.
 

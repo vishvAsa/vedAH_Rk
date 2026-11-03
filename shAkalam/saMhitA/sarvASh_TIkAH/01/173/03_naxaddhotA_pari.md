@@ -293,7 +293,7 @@ What I don’t understand in this pāda are the preverb/adposition/adverb ā́an
 In c Geldner and Renou identify the horse neighing while being led as Agni; this would fit nicely with my hypothesis that b depicts the carrying of the Āhavanīya fire to the east, though neither of them takes b that way. Geldner also identifies the bellowing cow of c as the Speech (vā́k) of d, which seems reasonable.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such verbs. The next -at form, jújoṣat, pāda-initial in 4c, is a subjunctive. The change in mood, while keeping the formal expression -at the same, is surely deliberate.
 

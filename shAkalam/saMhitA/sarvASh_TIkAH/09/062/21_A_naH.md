@@ -154,11 +154,12 @@ _________
 
 Into the filter send our soma, the most honeyed  
 for the gods, the most audible to the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and two mentions of gods in pāda c in 20, 21, incl. dat. pl. devébhyaḥ in each). In addition, all three vss. begin with the preverb ā́(univerbated and therefore accentless in 19a).
 

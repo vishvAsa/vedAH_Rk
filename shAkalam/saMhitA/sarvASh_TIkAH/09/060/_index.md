@@ -22,7 +22,7 @@ The hymn also has extra-hymnic structural echoes: its final pāda is identical t
 On the structure of this hymn, see published introduction.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/053-060.md">
-<details open><summary><h2>53-60 ...{Loading}...</h2></summary>
+<details><summary><h2>53-60 ...{Loading}...</h2></summary>
 
 The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas (IX.61-68) that end the dimeter collection, are attributed to Avatsāra Kāśyapa. All of them contain four vss., and a number of them are structured such that the first three vss. form a unity, with the last vs. stylistically or thematically contrastive or completive. See esp.
 

@@ -245,7 +245,7 @@ subjects várāṃsi … jávāṃsi (e.g., Geldner “Wenn sich die Breiten des
 The sudhyáḥ ‘those of good insight’ are probably, with Witzel Gotō, the Aṅgirases in the Vala myth, but I would add that this word would also identify the poets/priests at the ritual, in the double reading of this triad of verses that I favor.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
 

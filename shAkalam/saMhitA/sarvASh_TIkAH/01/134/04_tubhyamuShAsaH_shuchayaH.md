@@ -321,7 +321,7 @@ As with raśmíbhiḥ in I.132.5 I take raśmíṣu here as a temporal expr., co
 On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Fronted forms of the 2nd sg. pronoun begin most of the metrically significant sections in this sequence of vss. (4a, d, 5a, d, 6a).
 

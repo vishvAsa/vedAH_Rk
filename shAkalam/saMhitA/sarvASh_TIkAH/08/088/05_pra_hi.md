@@ -215,11 +215,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Because you project beyond the limits of heaven with your strength, the earthly realm does not contain you, Indra. You have waxed strong  following your independent power.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 jā́yathā(ḥ) in 5a echoes jáyā(ḥ) in the immediately preceding pāda (4d), though they belong to entirely different roots.
 

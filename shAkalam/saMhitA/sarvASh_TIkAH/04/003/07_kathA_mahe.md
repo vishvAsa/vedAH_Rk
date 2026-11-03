@@ -260,7 +260,7 @@ recognize, there is no reason to substitute the god for his symbolic accoutremen
 Geldner (n. 7d) points out the contrast between Viṣṇu as creator (c) and Rudra as destroyer (d).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
-<details open><summary><h2>05-08 ...{Loading}...</h2></summary>
+<details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
 

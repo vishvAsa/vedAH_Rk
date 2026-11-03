@@ -271,7 +271,7 @@ Aryaman, to Fortune?
 The last pāda would be more accurately rendered “What to Aryaman, what to Fortune?”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
-<details open><summary><h2>05-08 ...{Loading}...</h2></summary>
+<details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
 

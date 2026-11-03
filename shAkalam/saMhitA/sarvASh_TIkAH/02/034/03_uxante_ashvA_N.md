@@ -237,7 +237,7 @@ The pṛkṣám of d should not be severed from pṛkṣé beginning 4a, though 
 nourishment. The corresponding root noun pṛ́kṣ- has the same basic sense (see Schindler, Rt Noun, s.v.), but here in the dat. is used infinitively (so also Schindler, as well as the standard tr.). The phrase pṛkṣáṃ yātha may well be a syntagm, judging from the PN pṛkṣá-yāma in I.122.7 (adduced by Oldenberg), and the acc. appears to be a goal, contra Geldner’s (/Witzel Gotō) rendering of pṛkṣám as an adverb (“kräftig”).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
-<details open><summary><h2>02-05 ...{Loading}...</h2></summary>
+<details><summary><h2>02-05 ...{Loading}...</h2></summary>
 
 Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
 
@@ -245,7 +245,7 @@ Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám �
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
-<details open><summary><h2>01-04 ...{Loading}...</h2></summary>
+<details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The first words of each hemistich in this series of vss. echo each other: 1a úpem, 1c apā́m, 2a imám, 2c apā́m, 3a sám, 3c tám, 4a tám. Since similar openings are found only in scattered vss. later in the hymn (9a apā́m, 11c yám, 12c sám) I consider the effect deliberate.
 

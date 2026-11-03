@@ -184,7 +184,7 @@ The lexeme ví √jñā means ‘discern, recognize’, and a full rendering of 
 have a tendency to attenuate the third term -- e.g., Klein (DGRV I.432) “the one desiring (aid)” -- but in this saucy hymn I think sex is never far from the surface. I do have to admit, however, that kāmín- is not otherwise used of sexual desire, but has a more general application, incl. to the Maruts in this same cycle (V.53.16).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As indicated in the published translation, I consider these vss. a digression reflecting on the character of women in general, motivated by the introduction of the winning woman in vs. 5.
 

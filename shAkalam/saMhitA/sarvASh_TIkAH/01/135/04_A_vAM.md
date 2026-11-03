@@ -363,7 +363,7 @@ O Vāyu, you two come here with shimmering bounty—and Indra, you  two come her
 The vā́yav índraś ca construction here unfolds over two pādas.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this tṛca is constructed in parallel to 1-3, but addressed to the two gods Vāyu and Indra rather than Vāyu alone. I will not call attention to the pervasively parallel phraseology: a simple skimming of the two sets of verses will amply demonstrate it.
 

@@ -166,7 +166,8 @@ The Viśvāmitras: The **bharatas**, or descendants of **Bharata**, are descenda
 
 The Viśvāmitras have given the formulation to Indra who bears  the mace.  
 He will make us well rewarded.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -263,7 +263,7 @@ Pāda b hótā … ní ṣasāda yájīyān closely echoes 2a ádhā hótā ny �
 Whatever the exact posture described by jñubā́dhaḥ (for detailed disc. see Scarlatta 343-45), the Engl. idiom “on bended knee” conveys the same sense of physical reverence.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 I do not understand why 6c has the act. pf. part. dīdivā́ṃsam while, in the same metrical position, qualifying the same entity, and apparently meaning the same thing, 7c has the middle part. dī́diyānaḥ (whose tense-aspect stem affiliation is not entirely clear: its accent weakly suggests that it already belongs to the new redupl.
 

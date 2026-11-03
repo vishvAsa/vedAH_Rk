@@ -250,11 +250,12 @@ _________
 
 Showing mastery, you speed across these worlds here, o drop, having  hitched up your golden fine-feathered (mares).  
 Let them stream honeyed ghee and milk for you. O Soma, let the  separate peoples stay under your commandment.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
-<details open><summary><h2>37-39 ...{Loading}...</h2></summary>
+<details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 For the first time in this hymn (save for briefly in vs. 18), this tṛca shows some interest in what Soma might do for us, particularly in the 2nd two vss.
 

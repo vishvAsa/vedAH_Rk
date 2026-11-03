@@ -161,11 +161,12 @@ _________
 
 As a prize-seeker (praises) his chariots, now praise the yoke(d teams)  of Agni,  
 the most glorious one, who grants rewards,
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
-<details open><summary><h2>01-04 ...{Loading}...</h2></summary>
+<details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronoun yá- in the next 3 vss. (2a #yáḥ, 3a #yá(h), 3c #yásya, with the last, 4a #ā́ yáḥ, no longer in initial position), though of course it is entirely unrelated to the relative. The referent of all those rel. pronouns is Agni, who is also the referent of yaśástamasya. Phonology and syntax are thus wedded.
 </details>

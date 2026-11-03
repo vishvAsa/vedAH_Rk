@@ -172,11 +172,12 @@ _________
 
 The most honeyed pressed soma drinks, exhilarating to Indra,  
 provided with filters, have flowed. Let your exhilarating drinks go to  the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No particular unity in this tṛca unless the mention of Indra in each vs. counts. After the difficulties of the 1st tṛca, this one is blessedly simple.
 

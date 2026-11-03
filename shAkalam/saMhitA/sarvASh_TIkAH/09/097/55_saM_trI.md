@@ -250,7 +250,7 @@ We meet the three filters also in IX.73.8, where their identity is not clear.
 Needless to say, Lüders (703-4) has a cosmic explanation.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
-<details open><summary><h2>55-58 ...{Loading}...</h2></summary>
+<details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
 The rest of the hymn consists of 4 vss. Oldenberg dithers about whether this consists of an odd vs., 55, followed by a final tṛca, 56-58 - or a tṛca 55-57, with a final independent vs. 58. At least to my mind, the latter analysis is clearly superior.
 

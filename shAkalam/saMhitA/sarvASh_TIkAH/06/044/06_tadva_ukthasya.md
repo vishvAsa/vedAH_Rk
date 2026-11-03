@@ -198,7 +198,8 @@ Vipo na, medhāvirat iva, that is, the protective measures or expedients of a se
 
 It (is mine) to lay on your behalf, with the power of solemn speech, the  underlayer for Indra,  
 whose forms of helps are like inspired words, since, dwelling together,  they spread apart in their ascent.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -217,7 +218,7 @@ The poet then, by a clever trick, mobilizes this underlayer of words to serve as
 The connection between the two is suggested by the phrase barháṇā vipáḥ “by the power of inspired speech” in VIII.63.7 (vipáḥ there is gen. sg., as opposed to our nom. pl. vípaḥ, as the accent shows). In cd the poet asserts that like our hymns, which rise to Indra, spreading from their position as interconnected (sakṣítaḥ ‘dwelling together’) underlayer, his forms of help will similarly grow up and out. On this vs. see also Scarlatta (97).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Although this tṛca does not have glaring signs of unity, it particularly concerns the songs that strengthen Indra and rouse his aid to us. It also has a subtle morphological ring; see the disc. of the loc. inf. in 3d.
 

@@ -183,11 +183,12 @@ _________
 
 The one in whose house the wondrous form Agni, possessing all  desirable things, should take delight in the praise song  
 or in the oblations, while he [=Agni] keeps laboring at his labors,
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
-<details open><summary><h2>11-12 ...{Loading}...</h2></summary>
+<details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 The VP cáno dadhīta “should take delight” takes complements in two different cases (both found independently elsewhere), acc. stómam (11b), havyā́ (11c) and loc. rātíṣu (12b), all connected by vā (11c, 12a). Another ex. of the poets’ enjoyment of syntactically licensed case disharmony.
 

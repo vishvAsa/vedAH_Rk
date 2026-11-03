@@ -248,7 +248,7 @@ The verb viyánti in d is ambiguous. With the Pp., Grassmann, etc., it may be ta
 Because of the connections between the preceding hymn VII.42 and this one, I favor the latter affiliation on the basis of (prá) vetu in VII.42.1b, but ví √i is certainly not excluded -- and might make slightly better sense with the simile. The tr. might then alternatively read “go apart” for “go questing.” On the other hand, I like the idea of formulations going in quest of divine response and rewards, an interpr. encouraged by the prá lexemes (like prá … etu in the next pāda, 2a).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The 1st two vss. of this hymn begin with prá, recalling the insistent prá in the 1st vs. of the preceding hymn (VII.42.1) and presumably fulfilling the same function: to express the energetic initiation of the ritual. However, both prá √ṛc (1a) and prá √i (2a) are standard lexemes, unlike those in 42.1.
 

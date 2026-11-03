@@ -226,7 +226,7 @@ Pāda d poses some syntactic challenges. The first is that sā́dhā, by all acc
 requires a slight emendation, from sā́dhā diváḥ to *sā́dhā́diváḥ -- that is, sā́dha ā́ diváḥ, with ā́+ ABL in the meaning “all the way to.” Cf. I.92.17 yaú … ślókam ā́ diváḥ … cakráthuḥ “you two who made your signal-call (reach) all the way to heaven”; sim. III.61.4. See comm. ad locc. An asterisk should be inserted before “all the way.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
-<details open><summary><h2>05-08 ...{Loading}...</h2></summary>
+<details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
 

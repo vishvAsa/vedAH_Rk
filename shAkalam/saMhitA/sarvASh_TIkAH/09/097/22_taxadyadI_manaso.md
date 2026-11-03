@@ -283,7 +283,7 @@ in that way. Alternatively “in front of cattle” could refer to the place on 
 This would more narrowly define the location than the first locative phrase, which gives the whole ritual ground as the locus. The 2nd possibility provides a better set of parallels with vā - both locational - but I prefer the 1st because of the use of ánīkawith dawn elsewhere.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not otherwise found in the Anukr. This tṛca depicts Soma as a king on a royal journey, and associates him with the resonant words ṛtá- (23b, 24d) and dhárman- (22b) / dharmán- (23c) and the traditional roles they imply.
 

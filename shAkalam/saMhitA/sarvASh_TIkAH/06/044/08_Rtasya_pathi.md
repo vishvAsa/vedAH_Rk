@@ -235,7 +235,8 @@ _________
 
 On the path of truth, the ritual adept has been drunk. The gods have  set their minds for glory.  
 Acquiring the name of “great” by (ritual) speeches, the one worthy of  the quest has disclosed his wondrous form to be seen.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -254,7 +255,7 @@ In keeping with the interpr. of the root √ven as ‘track, trace, seek’, I i
 its grdv. venyá-, when not a PN, as ‘(worthy) to be tracked/sought’.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On the meter of this tṛca see Oldenberg, Proleg. 91 and Holland & van Nooten Rig Veda edition metrical comm. The fading in and out between Virāj and Triṣṭubh is further complicated by the openings of 3 in 11-syllable lines in 7b, c.
 

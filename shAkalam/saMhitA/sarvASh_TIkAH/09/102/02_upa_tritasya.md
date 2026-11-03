@@ -205,7 +205,7 @@ As for verse-initial úpa, elsewhere in IX it's almost always used with a verb o
 This interpr. seems to me to provide a more satisfactory account of the vs. than the other alternative. However, it has one major drawback: the yád clause of b is embedded within the main clause, which occupies pādas a, c (/d). If I follow this interpr., there is no way of avoiding this violation of standard practice, whereas in the Geldner/Renou/Klein interpr. yád gúhā padám is a nominal cl., which is permitted internally. Weighing the two alternatives, I still find myself inclined to my own, though I don’t have an explanation for the problematic embedding. That there appears to be a parenthetic inserted clause in the next vs. may indicate that this hymn is somewhat more lax about the combination of syntactic units than we usually meet with.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Trita figures in these two vss. Although the name Trita has several different referents, or at least several different roles, in the RV, in Maṇḍala IX he is the archetypal soma presser: see esp. comm. ad IX.37.4. In these two vss. there is also a play on the literal sense of tritá- ‘third’, which is played off against the dual pāṣyòḥ in 2a and the numeral trī́ṇi ‘three’ in 3a. The Anukr. ascribes this hymn to Trita Āptya, a mythical figure most prominent in X.8, but this ascription is presumably based on the occurrence of tritá- in vss. 2-3. Trita Āptya is credited with several other hymns in the RV, incl., in this maṇḍala, IX.33-34.
 

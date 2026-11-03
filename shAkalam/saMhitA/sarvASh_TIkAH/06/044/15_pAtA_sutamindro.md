@@ -244,7 +244,8 @@ _________
 
 Let Indra be the one who drinks the pressed soma, who smashes the  obstacle [/Vr̥tra] with his mace in his exhilaration,  
 who goes to the sacrifice, even from far away, who is the good helper of  insights, providing nourishment to the bard.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -253,7 +254,7 @@ The vs. is characterized by three root-accented agent nouns (pā́tā a, hántā
 Note that kārúdhāyas-, a rare bv., reappears here from 12 -- again, a possible reason for attaching this tṛca to the preceding one.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Another soma tṛca.
 

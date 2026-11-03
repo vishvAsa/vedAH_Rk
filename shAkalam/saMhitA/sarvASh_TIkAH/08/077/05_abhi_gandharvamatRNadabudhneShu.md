@@ -181,7 +181,7 @@ I take the phrase giríbhya ā́as expressing the freeing of the odanám from th
 “all the way to,” though in that sense the ablative usually follows (see Grassmann s.v. ā́), hence “He pierced the boar all the way to/through the mountains.” As noted ad vs. 5, bundá- is reminiscent of (a)budhná- in the immediately preceding mysterious Gandharva verse.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
-<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
 

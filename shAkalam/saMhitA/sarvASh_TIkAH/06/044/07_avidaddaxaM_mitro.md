@@ -211,7 +211,8 @@ Implied: vaḍavābhiḥ **yuktaḥ**, joined with such mares; epithets, though 
 Our newer ally [=Soma] has found the skill. Having been drunk, he has  perceived what is better for the gods.  
 Having won with the brawny racers [?], in making broad shelter he  
 became a protector for his comrades.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -226,7 +227,7 @@ staulā́- here is reminiscent of the likewise impenetrable stauná- in this sam
 As for dhautárī-, Oldenberg tentatively suggests that it might belong with one of the roots √dhāv ‘run’ or ‘rinse’. For translational convenience I have assumed the former, but without any conviction. In any case the striking double vṛddhi -au- of these paired nominals must be meant to draw attention to the phrase.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On the meter of this tṛca see Oldenberg, Proleg. 91 and Holland & van Nooten Rig Veda edition metrical comm. The fading in and out between Virāj and Triṣṭubh is further complicated by the openings of 3 in 11-syllable lines in 7b, c.
 

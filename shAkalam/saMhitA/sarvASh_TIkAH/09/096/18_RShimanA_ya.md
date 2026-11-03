@@ -240,7 +240,7 @@ As generally noted by tr. (Geldner, Renou, also Scarlatta [72]), pāda d involve
 assumes that virā́jam represents not only the acc. sg. of the rt. noun cmpd. virā́j-, but also the nom. sg. pres. part. *virā́jan to the them. pres. rā́jati. This seems preferable to trying to construe it as an acc. sg. in the sense ‘wide-ruling’, and the interchange of final nasals would be fairly trivial for a pun. Scarlatta. (72 n. 97) notes that the lexeme ánu √rāj is used in II.43.1 also of regulating meters, there Gāyatrī and Triṣṭubh. The preverb ánu also has to be read with ṣṭúp, as a cmpd decomposed and flanking rājati (ánu rājati ṣṭúp), for the meter name. The technical references to meters here may be the culmination of the kaví- / ṛ́ṣi- theme of 17-18.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
-<details open><summary><h2>17-18 ...{Loading}...</h2></summary>
+<details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on kaví- and 18a on ṛ́ṣi-, though with kaví- returning in pāda b
 

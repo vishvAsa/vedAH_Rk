@@ -286,7 +286,7 @@ but also on the árātayaḥ of c. The point is: if the stranger’s hostilities
 As I just said, I don’t have a high degree of certainty about the correctness of this interpr. Those produced by the others just named, which all assign both verbs to ‘reach, attain’, are certainly not out of the question. Unfortunately I can’t endorse either of Oldenberg’s alternatives, however.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The opening of this vs. prá ṇo dhanvantv índavaḥ … echoes that of vs. 1 X no dhanvantv índavaḥ, prá but with the preverb in tmesis relocated to a more standard, pre-verbal position.
 

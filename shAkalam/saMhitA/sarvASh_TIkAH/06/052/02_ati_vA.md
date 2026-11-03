@@ -287,7 +287,7 @@ Oldenberg, Geldner, and Renou all take vṛjinā́ni as a nominalized adjective 
 (‘twisted [ways]’) and as an adj. ‘twisting’ characterizing the flames. In this way the punishment fits the crime. Note that vṛjiná- was used twice in the preceding hymn, VI.51.2, 13.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 It is unfortunately impossible to capture in Engl. the play between ánu √man ‘concede’ (1a) and áti √man ‘disdain’ (2a), with the further echo of áti in atiyā́já- (1d).
 

@@ -288,7 +288,7 @@ As Oldenberg notes, there are 3 forms of √ric in this hymn, all pf.: pf. part.
 ririkvāṃsaḥ (3b), pf. opt. riricyāt here, and a plupf. (probably) arirecīt (9c). They are all somewhat marked in form and have different contextual meanings. Oldenberg remarks “der Dichter liebte dies Verb.” Certainly he seems to be making a point with it.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The pile-up of pāda-initial ā́d íd ‘just then, just after that’, beginning with 4d and marking every pāda in 5, conveys the quick succession of events, but switches abruptly from battlefield to sacrifice. The néme constructions of 4d and 5a make it clear, however, that despite the change in venue the same antagonists are in play.
 

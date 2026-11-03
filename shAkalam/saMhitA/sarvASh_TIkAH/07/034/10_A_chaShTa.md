@@ -142,11 +142,12 @@ _________
 
 He inspects the haven of these (waters), of the rivers—  
 powerful Varuṇa of a thousand eyes.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">
-<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 After several vss. with a ritual, priestly focus, we return to the semiriddling listing of gods, with these two vss. devoted to Varuṇa. In 10 the subj.
 

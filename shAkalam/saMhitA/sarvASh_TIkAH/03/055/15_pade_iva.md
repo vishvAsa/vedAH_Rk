@@ -264,7 +264,7 @@ The vs. also recycles various thematically significant lexical items: padá- (se
 The ‘pathway’ (pathyā̀) takes us back to III.54.5 where a question about “the pathway leading to the gods” (devā́m̐áchā pathyā̀) initiated the mysteries that have dogged us ever since.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
-<details open><summary><h2>14-15 ...{Loading}...</h2></summary>
+<details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
 The published translation is somewhat misleading, in that vápūṃṣi in 14a is tr. as “wondrous forms” and dasmé in 15a as “the wondrous one.” I might substitute “marvellous forms” for the first, to avoid the impression of an etymological connection.
 

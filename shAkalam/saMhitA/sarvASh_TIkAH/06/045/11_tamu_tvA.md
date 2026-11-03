@@ -214,7 +214,7 @@ Hear our call!
 It is worth noting that in the temporally contrastive rel. clauses (a: purā́ ‘previously’, b: nūnám ‘now’) whose joint predicate is the grdv. hávyaḥ (see above), the one with past reference has an overt copula, pf. ā́sitha, while the one with current reference has the copula gapped.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/10-11.md">
-<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 These vss. form a syntactic pair characterized by simple enjambment.
 

@@ -214,11 +214,12 @@ Kāṣṭhāsu **arvataḥ**, in the quarters or regions of the hors, where hors
 Because it is just you that we bards call upon at the winning of  the prize,  
 you, Indra, as master of settlements that our men (call upon) amid  
 obstacles, you at the finish lines of our steed,
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
 
@@ -307,4 +308,9 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे धनवान लोकांनो ! जर तुम्ही आमचे सहायक व्हाल तर तुमच्या धनाने आम्ही शिल्पविद्येद्वारे अनेक पदार्थ निर्माण करून तुम्हाला अधिक धनवान करू. ॥ १ ॥
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+बृहत्सामेत्यस्या गानं प्रसिद्धम्! "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।"
 </details>

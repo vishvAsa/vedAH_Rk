@@ -239,7 +239,7 @@ víprāso matíbhiḥ, X.6.5 víprāso matíbhiḥ, X.25.10 matíṃ víprasya, 
 I therefore construe matī̃nā́m with vípraḥ in the published translation, as a loosely descriptive gen. In cd the phrase mithunā́saḥ … adhvaryávaḥ is taken by Geldner (fld. by Renou) as referring to the pair (or presumably multiple pairs, given the pl.) of Adhvaryu and Hotar. Although at least I.83.2, which he adduces for this sense, does seem to refer to that pair of two priests, in the dual, I think the pl. here instead refers to rivalrous priests at competing sacrifices, which must be implicit in Geldner’s rendering, given the pl. They could be pairs of Adhvaryu and Hotar or (more likely in my opinion) just multiple Adhvaryus, each performing in a separate sacrifice.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
-<details open><summary><h2>37-39 ...{Loading}...</h2></summary>
+<details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 I do not see any signs of unity in this tṛca. All three vss. contain a participle of √pū in passive function, pūnāná- in 37, 38, pūyámāna- in 39, but this is hardly remarkable in the Soma maṇḍala.
 

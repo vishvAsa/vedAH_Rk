@@ -148,11 +148,12 @@ _________
 
 You, having been pressed by stones—rush, roaring constantly,  
 toward highest brilliant tempestuous force.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 Attributed to Bharadvāja, the tṛca shows elementary unity by positoning tvám at the beginning of each vs. _________
 **01**  

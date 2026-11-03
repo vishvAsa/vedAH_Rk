@@ -198,11 +198,12 @@ _________
 Before whom the communities tremble, as he performs (deeds) to be  constantly acclaimed,  
 the one who by himself wins thousands as if at the winning of  
 wisdom—serve Agni with insightful thoughts.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 In both these vss. tmánā ‘by himself’ contrasts with the vast number (thousands) that the action of this sole individual wins or prospers.
 

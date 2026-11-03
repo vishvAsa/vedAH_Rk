@@ -206,7 +206,7 @@ Let the godly folk purify me; let the Vasus purify me with insight. O All Gods, 
 This last vs. of the purificatory spell is in a different meter (Anuṣṭubh) and makes reference to a larger variety of personnel - both often signs of finality.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
-<details open><summary><h2>22-27 ...{Loading}...</h2></summary>
+<details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
 

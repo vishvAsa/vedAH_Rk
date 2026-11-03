@@ -258,7 +258,7 @@ Although both Geldner and Renou tr. -dhūta- as ‘shaken’, I prefer the more 
 Both Geldner and Renou take pradívaḥ with what precedes; this is entirely possible and impossible to determine. Not much rests on it.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss., in the center of the hymn, are constructed in parallel. To begin with, the post-caesura portion of 4d and 5b are identical: pavate sóma indra te.
 

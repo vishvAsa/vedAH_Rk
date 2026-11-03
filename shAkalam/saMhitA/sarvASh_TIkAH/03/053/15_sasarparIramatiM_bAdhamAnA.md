@@ -211,11 +211,12 @@ Given by Jamadagni: jamadagni **dattā** = given by the ṛs;is maintaining a bl
 The squirming, sappy (cow called) Sasarparī, given by the Jamadagnis,  banishing neglect, has bellowed loftily.  
 (She like) the Daughter of the Sun has stretched (their [=the  
 Jamadagnis’]) fame, immortal and unaging, to the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
-<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+<details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, the subject of these two vss. is the mysterious feminine sasarparī́-, which has been interpr. as differently as “Kriegstrompete” (BR, fld. by Grassmann), “Sangesgeweise” of the Viśvāmitras (Geldner), and Vāc (Anukramaṇī, Sāyaṇa.). The interpr. of these vss. has been further complicated by the later tradition that sees them as concerning the supposed rivalry between Viśvāmitra and Vasiṣṭha, for which I see no evidence at all in the RV.
 

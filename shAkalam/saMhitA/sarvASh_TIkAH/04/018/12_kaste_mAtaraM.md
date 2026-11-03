@@ -266,11 +266,12 @@ Since you have slain the father: yat prākṣiṇāḥ pitaram pādagṛhya; cf.
 
 Who made your mother a widow? Who tried to smash you as you lay,  as you wandered?  
 What god was merciful toward you when you destroyed your father,  having grasped him by the foot?
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
-<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+<details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. _________
 **12**  

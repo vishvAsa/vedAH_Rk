@@ -185,7 +185,7 @@ The reading of the first word of this vs. is uncertain. The Saṃhitā text appa
 sacanā́vant- is construed with the instr. sumatíbhiḥ: “provided with favors as accompaniment.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 This pragātha contains poetic self-address at a distance. Vs. 1 begins ā́ … have “I have called here …,” while 2c ends with the voc. sobhare. (On poetic selfaddress see Jamison [Fs. Skjaervø, 2009].)
 

@@ -252,7 +252,7 @@ He impelled forth the good milkers (who were) within the cave; he pried  apart t
 Geldner and Witzel Gotō take sáhaḥ as the only subj. of ájaniṣṭa, while I take sáhaḥ as an appositive qualifying the unexpressed subj. índraḥ. Again the difference is minor, but I favor my interpr. because the birth of Indra and the prodigous feats he performs immediately thereafter are frequent topics in the RV.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 An etymological sequence -- táviṣīm (2d), táviṣībhiḥ (3b), távyān (3d) -- that also builds to a climax, from singular ‘(a) power’ to plural ‘powers’ to the comparative ‘more powerful’, all associated with Indra.
 

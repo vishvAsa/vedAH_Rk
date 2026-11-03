@@ -255,7 +255,7 @@ Syn.). I also take it as an abl., but suggest construing it with puráḥ. I now
 Nonetheless I hold to this interpr. Although puráḥ + ABL is not a robust construction, the related purā́is regularly found with the abl. Here I would suggest that we have a sort of pun. The lexeme puráḥ + √dhā ‘set in front, install’ is of course very common, and that phrase is found here, dadhiré puró naḥ. Although, as I just said, to express “ahead of / in front of the stranger” we might expect aryáḥ [abl.] … purā́, there was interference with the VP dadhiré puró naḥ “they have set us in front,” and puráḥ prevailed.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
-<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+<details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
 

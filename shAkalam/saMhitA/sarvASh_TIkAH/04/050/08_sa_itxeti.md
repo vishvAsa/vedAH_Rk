@@ -259,11 +259,12 @@ _________
 Only he dwells peacefully, well-situated in his own home; for him  refreshment swells at all times;  
 to him the clans bow just of themselves—for which king the  
 Formulator comes first.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These vss. are structured similarly: a main clause (or clauses) referring to the happy results for the king who (now a rel. cl.) properly treats a particular figure.
 

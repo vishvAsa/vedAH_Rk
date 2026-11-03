@@ -273,7 +273,7 @@ Pādas b-c show a clever chaining of significant vocabulary. In b Soma is compar
 The vs. ends with yet another term relating to social life, namely víś- ‘clan’; as king, Soma would exert himself on behalf of this social unit.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
-<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+<details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Attributed to Vasukra Vāsiṣṭha, who is not otherwise known - though a Vasukra Aindra is supposedly responsible for the devilish trio of hymns X.27-29.
 

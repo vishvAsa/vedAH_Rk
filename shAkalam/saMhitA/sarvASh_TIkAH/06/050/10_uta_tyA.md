@@ -275,7 +275,7 @@ Whether Geldner, Renou, and/or Klein were influenced by Oldenberg’s arguments 
 My own interpr. is identical to Oldenberg’s first pass, with impv. mumuktam and a supplied ‘me’ as obj., parallel to átrim in the simile. As for the second verb, I follow Gotō (1st Kl., 163 n. 258) in taking tū́rvataṃ narā as a parenthetical clause. This allows the abl. phrase at the end of d, duritā́d abhī́ke “from difficulty at close quarters,” to be construed with mumuktam, parallel to the abl. mahás támasaḥ “from great darkness” in the simile. However, if the parenthetical interpr. seems too awkward, it might be possible to take d as a single, separate cl.: “be victorious from difficulty at close quarters,” though tūrv seems not to take an abl. elsewhere.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
-<details open><summary><h2>08-10 ...{Loading}...</h2></summary>
+<details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛtyāt (9b), jagmyātam (10a), but they do not show any peculiarities of register or usage. The connection among the vss. is also signaled by utá, which opens the second two. Klein (DGRV I.424) notes the co-occurrence of the “optative series” (he does not mention that they are belong to the pf.) and the utá’s.
 

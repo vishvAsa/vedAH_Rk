@@ -277,7 +277,7 @@ As both Geldner and Oldenberg point out, the parṇám ‘wing, feather(s)’ in
 I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curving racetrack rather than, with some, as a curvy part of a horse. Since áṅkāṃsi in the next vs. clearly refers to the racetrack, it’s unlikely that a related word would have an entirely different referent in such close proximity.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
 

@@ -26,7 +26,7 @@ For the four-vs. sequences and their contents, see published introduction.
 
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md">
-<details open><summary><h2>068-086 ...{Loading}...</h2></summary>
+<details><summary><h2>068-086 ...{Loading}...</h2></summary>
 
 The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī section goes through IX.86.
 
@@ -34,7 +34,7 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085-086.md">
-<details open><summary><h2>85-86 ...{Loading}...</h2></summary>
+<details><summary><h2>85-86 ...{Loading}...</h2></summary>
 
 On the structure of the last two hymns of the Jagatī group, see the published
 

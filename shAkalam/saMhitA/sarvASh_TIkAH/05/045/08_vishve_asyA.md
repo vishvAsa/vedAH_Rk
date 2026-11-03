@@ -247,7 +247,7 @@ The 2nd hemistich brings another syntactic problem: in c the Pp. interprets úts
 10) I prefer the loc. útse, parallel to paramé sadhásthe, and defining the place where Saramā found the cows in d.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Here the mythic model of the dawn accompanying the dawn ritual, the opening of the Vala cave through the verbal efforts of the Aṅgirases, is spelled out. Note the variant versions of the phrase “Saramā found the cows”: 7c sarámā gā́avindat, with augmented imperfect; 8d sarámā vidad gā́ḥ, with aor. injunctive (per Pp.) or aor. indicative (sarámāvidad, with augmented avidat is a possible reading). For Hoffmann’s interpr. of this vs. pair see Injunk. 164-65.
 

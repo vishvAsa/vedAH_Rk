@@ -268,7 +268,7 @@ As also indicated in the published introduction, I take pāda d as an old saying
 However, Geldner tr. ‘Handel’ and suggests (n. 9d) that it is derived from vaṇíj- ‘merchant’, which seems very plausible. That it is otherwise unknown in this meaning would not be surprising, given the specialized lexical level it inhabits.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
-<details open><summary><h2>08-10 ...{Loading}...</h2></summary>
+<details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 For my interpr. of these vss., see published introduction.
 

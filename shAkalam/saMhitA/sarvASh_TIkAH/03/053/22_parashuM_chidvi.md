@@ -207,7 +207,8 @@ The ellipse: as the tree is cut down by the axe, so may the enemy be cut down; a
 (Though) he heats his axe all the way through, it’s just a śimbala flower  he hacks off.  
 The ukhā-pot, (though) boiling, boiling over, just throws off foam,  
 o Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -216,7 +217,7 @@ With Oldenberg, I reject the interpr. of cid in abc as a simile particle (contra
 Each hemistich describes an action involving great effort and drama that produces trivial and insubstantial results. In ab an ax is thoroughly heated, but this formidable weapon only cuts off the blossom of a silk cotton tree. (That silk cotton tree flowers are a vivid red might remind the audience of the real blood that might have been shed by a blazing hot ax.) In cd a pot, also heated, is boiling (yéṣantī), indeed has boiled over (práyastā), but all it produces is foam.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
-<details open><summary><h2>21-24 ...{Loading}...</h2></summary>
+<details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are traditionally taken as depicting the rivalry between Viśvāmitra and Vasiṣṭha, but I see no sign of this here; certainly Vasiṣṭha is not mentioned. The verbal link is supposed to be VII.104.16 adhamás padīṣṭa “let him fall lowest,” a curse uttered in a Vasiṣṭha hymn that echoes our 21c ádharaḥ sás padīṣṭa. But in neither case is the opponent named, and there is no reason to assume that Vasiṣṭha directs this at Viśvāmitra or vice versa.
 

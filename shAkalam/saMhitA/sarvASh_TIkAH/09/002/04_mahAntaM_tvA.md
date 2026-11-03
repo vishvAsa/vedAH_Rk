@@ -169,7 +169,7 @@ The b pāda contains a pres. indic., ā́po arṣanti síndhavaḥ “The waters
 the finite future, is relatively rare in the RV, and, curiously, it tends to have a more volitional nuance than the subjunctive, with which it competes. A good ex. of this is found in the famous and well-trodden Agni hymn I.1, where in vs. 6 yád … dāśúṣe … bhadraṃ kariṣyási should be rendered “what good thing you will do for the pious man,” indicating Agni’s deliberate choice to favor that man. Here I would suggest that Soma is bound and determined to clothe himself with milk at this point in the ritual proceedings; it is not just the next event on the menu.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. introduce the trope of “clothing,” a metaphor for mixing the soma juice with various substances: after the pressing proper the soma is mixed first with water (vs. 3) and then with milk (vs. 4), the latter accounting for the ubiquitous “cows” of the IXth Maṇḍala. Thus, though an expression “clothe himself with cows” initially strikes the inexperienced reader as ludicrous, it makes perfect sense in the tightly constructed verbal realm of the Soma hymns: clothing = mixing and cows = waters.
 

@@ -245,7 +245,8 @@ _________
 
 In its exhilaration, knowing many shapes, Indra smashed unopposable  obstacles.  
 Pour forth for him the honeyed soma, for the belipped hero to drink.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -258,7 +259,7 @@ attested being the pass. aor. áhāvi. However, an act. s-aor. is reasonably wel
 subjunctive to this aor., *hoṣat, etc., to which hoṣi would ultimately belong, or whether it was created as a nonce beside the other -si impvs. in this ritual sphere such as yákṣi, mátsi and has nothing to do with the aor. forms in prose. I weakly favor the latter explanation.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Another soma tṛca.
 

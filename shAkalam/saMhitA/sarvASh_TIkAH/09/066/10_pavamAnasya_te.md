@@ -154,7 +154,7 @@ Of you purifying yourself, o poet and prizewinner, the surges have surged, like 
 Soma’s acquisition of “imperishable fame” in 7c is anticipated, as it were, by his streams, likened to horses, “seeking fame” (śravasyávaḥ).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
-<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is thematically unified by the journey theme, reinforced by two forms of √sṛj in vss. 10 (asṛkṣata) and 11 (ásṛgram), the former in an etym. figure. Note the juxtaposition of the newer s-aor. 3rd pl. middle and the older root aorist, with no apparent functional or semantic difference. On these two formations see Narten (Sig.Aor. 270-71); she claims that they were originally differentiated functionally and still are occasionally (see IX.86.4), but in almost all occurrences this difference has been lost.
 

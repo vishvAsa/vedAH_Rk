@@ -263,7 +263,7 @@ The med. part. huvāná- is ordinarily passive in value; pace Grassmann, only VI
 This would of course make just as much sense; my choice is based on the usage of the preponderance of occurrences of the stem.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
-<details open><summary><h2>10-18 ...{Loading}...</h2></summary>
+<details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 

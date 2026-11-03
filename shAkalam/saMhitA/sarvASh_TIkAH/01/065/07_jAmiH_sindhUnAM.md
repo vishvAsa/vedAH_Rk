@@ -161,7 +161,7 @@ Akin to the rivers, like a brother to his sisters,
 
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The similes continue in these verses, but with less strict parallelism in structure.
 

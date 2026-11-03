@@ -261,7 +261,7 @@ The “ox flying in the burbling up of the river” of pāda c is an ex. of the 
 I take the subj. of gṛbhṇate and referent of hiraṇya-pāvā́ḥ in d still to be the waters, with āsu functioning as reflexive. Renou explicitly changes his subj. here to “les hommes.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
-<details open><summary><h2>43-45 ...{Loading}...</h2></summary>
+<details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 This tṛca seems more artful than most of the other, with metaphor layered upon metaphor (vss. 43, 45), varied by similes (vs. 44).
 

@@ -259,7 +259,7 @@ I tr. dīdayat … ū́rmyā ā́“shine towards the nights,” rather than “
 On dakṣā́yyaḥ, whose morphology resembles didhiṣā́yyaḥ in 1c, see comm. ad I.91.3. As noted there, in this passage it could also or alternatively mean “to be skillfully tended.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 As Ian Hollenbaugh pointed out to me, dvitā́dadhur in 2b can be read, contra Pp. adadhur, as dvitā́dadhur, with perfect indic. or pres. injunc.; I now favor the unaugmented reading for reasons given below.
 

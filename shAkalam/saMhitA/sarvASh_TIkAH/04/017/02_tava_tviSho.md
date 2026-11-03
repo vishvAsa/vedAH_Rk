@@ -242,7 +242,7 @@ With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus par
 Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
-<details open><summary><h2>01-04 ...{Loading}...</h2></summary>
+<details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
 
@@ -250,7 +250,7 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 saráyanta ā́paḥ (sarayánte out of sandhi) in 2d is reprised by sárann ā́paḥ in 3d. The two verbs seem semantically identical; the intransitive -áya-formation takes the post-(late-)caesura position also favored by metrically identical janáyanta.
 

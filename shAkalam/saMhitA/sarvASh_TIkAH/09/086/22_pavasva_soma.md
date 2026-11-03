@@ -251,7 +251,7 @@ Sitting in the belly of Indra, ever roaring, guided by the men, you have  made t
 Although the Pp. analyzes ā́rohayaḥ as containing an augment (ā́/ arohayaḥ), it could equally well have an injunc.: ā́/ rohayaḥ. The latter would fit better with the injunc. ví rocayat in 21a, just disc.; the former with the other augmented forms of this tṛca.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
-<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+<details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca seems to be characterized by augmented imperfects, though three of the five could be injunctives instead: ā́rohayaḥ [maybe] 22d, abhavaḥ 23c, avṛṇoḥ [maybe] 23d, amadan 24b, ā́bharat [maybe] 24c. It is also characterized by mythic allusions, esp. the Vala myth and the opening of the cowpen for the Aṅgirases (23d) and the stealing of soma from heaven (24c), as well as the cosmogonic act of raising the sun into heaven (22d). Both this latter deed and the opening of the Vala cave are deeds usually attributed to Indra.
 

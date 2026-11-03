@@ -160,11 +160,12 @@ Imbibe: vṛṣasva, sprinkle, shower, that is, into the stomach, so that it may
 <details><summary>Jamison Brereton</summary>
 
 Indra! Enjoy the pressed soma that finds the will, you much-praised one. Drink it, drench yourself in it—the ever satisfying (soma).
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The difference, if any, between pāhi (1c) and píba (2c) is as usual not clear. See disc. ad III.35.10. If we are looking for ways to distinguish them, ā́vṛṣasva “drench yourself in it,” immediately following píba in 2c, might support a more durative interpr. of the pres. impv., as perhaps would the adj. tā́tṛpi- if it has intensive semantics ‘ever satisfying’.
 

@@ -245,11 +245,12 @@ _________
 Without whom peoples do not win, whom they call upon for help as  they fight,  
 who has become a match for everyone, who is the mover of the  
 immovable – he, o peoples, is Indra.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
-<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+<details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 Note the phonological sequence, with several different interlocking repetitions: 9c yó víśvasya 10a yáḥ śaśvato … śaru vā 10c yáḥ śardhate … śṛdhyā́m 11a yáḥ śambaram … śarádi
 

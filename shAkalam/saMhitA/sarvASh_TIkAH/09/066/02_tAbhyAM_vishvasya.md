@@ -168,7 +168,7 @@ Answering the first question is made difficult by the fact that this is the only
 This interpr. gives pratīcī́in c more content than the fairly empty renderings of Geldner (“die sich (uns) darbieten”) and Renou (“qui se tiennent face (à nous)”): Heaven and Earth as the two cosmic halves face each other.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The tṛca shows clear signs of unity, esp. lexically. Not only do all three vss.
 

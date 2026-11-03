@@ -169,7 +169,7 @@ ad IX.57.3. Renou takes the whole of b as a simile, with the “thunder” match
 This is certainly possible, though it is not the soma pressing that ordinarily kindles the ritual fire. I prefer to take it more generally as shared light, perhaps localized as the sun, which would continue the heavenly theme of pāda b. Alternatively, this pāda, which is entirely in the neuter, may be nominative not accusative and refer to Soma himself. This interpr. may be favored by the matching pāda at the end of the tṛca, 18c jyótir víśvam svàr dṛśé “(as) light for everyone to see the sun,” where the soma sap—that is, soma itself—is identified as this light. I would therefore suggest an alternative tr. of pāda c here: “(he) the lofty light belonging to all men.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
-<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+<details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca is unified by the simple device of stationing a form of pávamāna- at the beginning of each vs. (16a, 17a, 18a). Note also the two forms of rása- ‘sap’ in 17a and 18a (the two pādas are scramblings of each other: 17a pávamānasya te rásaḥ, 18a pávamāna rásas táva, with different case forms of pávamāna- and enclitic versus full form of the gen. sg. 2nd ps. prn.). And 16c jyótir vaiśvānarám … matched by 18c jyótir víśvam …
 

@@ -146,11 +146,12 @@ _________
 
 For Indra, for Vāyu, for Varuṇa, for the Maruts, for Viṣṇu  
 the water-winning soma rushes.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
-<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </details>

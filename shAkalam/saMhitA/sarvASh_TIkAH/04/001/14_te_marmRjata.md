@@ -265,7 +265,7 @@ The hapax cmpd. paśváyantra- is puzzling in formation and sense, although the 
 In terms of the structure of the vs., I now think the odd pādas (a, c) refer to the Aṅgirases and the even ones (b, d) to the current singers. I would therefore slightly modify the published translation, which presents pāda d as if it were the direct speech -- the song -- of the Aṅgirases described in c. I now think d is what the other, current poets were said to proclaim in b.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
-<details open><summary><h2>10-18 ...{Loading}...</h2></summary>
+<details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 

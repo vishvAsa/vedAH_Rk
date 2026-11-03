@@ -272,7 +272,7 @@ I take the hapax voc. svapivāta to the lexeme ápi √vat, which I interpr. aft
 My tr. “o you who are our familiar” does not represent the su-, but it is difficult to incorporate it without making an already heavy tr. even more so.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The final pādas of both vss. are semantic variants of each other: “don’t hurt our children.” In 2d the negative is expressed by the privative on the adj.
 

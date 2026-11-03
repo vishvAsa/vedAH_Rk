@@ -150,11 +150,12 @@ _________
 
 The prominent somian sap, the primordial drop  
 purifies itself for Indra—a lively one for a lively one [/Āyu].
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
-<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+<details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. _________
 **09**  

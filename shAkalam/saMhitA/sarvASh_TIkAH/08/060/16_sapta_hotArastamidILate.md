@@ -260,7 +260,8 @@ Janām = asmān, proceed to the gods with theoblation, having left us behind
 
 The seven Hotars reverently invoke just you, o Agni, the unabashed one  displaying great abandon.  
 You split apart the rock with your heat and your flame. Agni, stand out  beyond the peoples.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

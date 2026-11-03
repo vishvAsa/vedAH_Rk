@@ -272,7 +272,7 @@ Although I realize that this is a very fussy solution, I cannot see any other wa
 The contrastively paired similes, “like (a maiden) faring forth to her lover, not like one going (home) again” (jārá ivā́cárantī … ná púnar yatī́va), are well understood by the standard comm. and nicely indicate that Dawn dawns with as much speed as she can muster, eager for reunion with her lover, rather than lingering like one reluctantly leaving a tryst. For the first cf. I.123.9 … yóṣā ná ... niṣkr̥tám ācárantī “going to the appointed place like a maiden to a rendezvous,” also of Dawn (see also VI.75.4 in the weapon hymn). The iva is wrongly placed in the 2nd simile, but the poet had too many elements to fit in as it was.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. are defined as an omphalos, and this relationship is signaled by the patterned repetition of their first pādas: 3a tā́nī́d … āsan / 4a tá íd … āsan “just those were …”
 

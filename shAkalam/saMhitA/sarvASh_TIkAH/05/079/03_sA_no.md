@@ -252,7 +252,7 @@ yó beginning pāda c represents yā́+ u (note Pp. yó íti), but the apparent 
 form causes a momentary stir.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These three vss. follow the same pattern: Dawn is urged to repeat for us now a previous action she performed in the presence of and for the benefit of a previous patron. The name Satyaśravas Vāyya appears in all three vss. (The Anukr.
 
@@ -262,7 +262,7 @@ attributes the hymn to Satyaśravas Ātreya, but as Geldner points out [n. 1d] h
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Is the comparative ‘mightier’ (sáhīyas-) used to assert that Satyaśravas Vāyya is mightier than Sunītha Śaucadratha? The Pp. reads accented ví even directly before accented aúchaḥ (2b, 3c), where we might expect univerbation and loss of accent on the preverb. The Saṃhitā text is of course ambiguous.
 

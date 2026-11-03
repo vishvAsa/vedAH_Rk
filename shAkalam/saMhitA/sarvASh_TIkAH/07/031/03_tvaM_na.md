@@ -154,11 +154,12 @@ _________
 
 You, Indra, are seeking spoils for us; you are seeking cows, o you of a  hundred resolves;  
 you are seeking gold, o good one.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Although these verses straddle a tṛca boundary, they are neatly responsive. The repeated tvám of vs. 3 is matched by the initial vayám of vs. 4, and the repeated -yú- (‘seeking X’) adjectives of 3 are again matched by the tvāyú- ‘seeking you’ of 4a. The final word of both verses is the voc. vaso. Even the gavyú- ‘seeking cows’ of 3b has its complement in 4b vṛṣan ‘o bull’.
 

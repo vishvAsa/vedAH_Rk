@@ -245,7 +245,7 @@ anarváṇaḥ receives far more attention than I think it deserves. See esp. Ol
 However, now see the abundant references to my own comments on the various anarvá(n)(a)- stems in the lexical commentary index.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
-<details open><summary><h2>11-15 ...{Loading}...</h2></summary>
+<details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
 Considered by Oldenberg to be an Anhang even to this set of appended hymns.
 

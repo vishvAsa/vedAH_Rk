@@ -298,7 +298,7 @@ champion does the wager – he, o peoples, is Indra.
 cyávana- is ordinarily agentive, ‘rousing, rouser’, but there is no escaping the sense ‘exploit, deed’ here (like its fellow derivative cyautná-). Perhaps the semantic development is by way of “stirring (deed)” or sim.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
-<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+<details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The phrases aryáḥ puṣṭā́ni (4d) and aryáḥ puṣṭī́ḥ (5c) with ppl. and fem.
 

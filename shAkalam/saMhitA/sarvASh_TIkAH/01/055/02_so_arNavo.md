@@ -248,7 +248,7 @@ The object of the verb práti gṛbhṇāti in the frame, which would correspond
 Unfortunately most of the examples of ví √śri are used of the opening of the divine doors in Āprī hymns, so there is no formulaic material to aid in determining what to supply. The phrase yudhmá ójasā is repeated in 5b and ójasā alone in 6b, both in the same metrical position.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/055/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The two stems varimán- and várīman- appear here in successive verses without clear differentiation in meaning (though they do appear in different grammatical forms, nom. sg. and instr. pl. respectively).
 

@@ -230,7 +230,7 @@ The phrase mahé … rāyé divítmatī is very reminiscent of IV.31.11 mahó r�
 context. As for divítmant-, I now tentatively accept the analysis of divít- as containing the root noun -i-t- and would alter the tr. to “as one coming from heaven” or “as heaven-sent one.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These three vss. follow the same pattern: Dawn is urged to repeat for us now a previous action she performed in the presence of and for the benefit of a previous patron. The name Satyaśravas Vāyya appears in all three vss. (The Anukr.
 

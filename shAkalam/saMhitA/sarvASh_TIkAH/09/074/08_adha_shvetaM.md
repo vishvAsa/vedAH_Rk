@@ -246,7 +246,7 @@ of c, which does less violence to the order of elements but is still, to my mind
 It is easy to understand the attempts of others to link d with something else in the vs., because it consists only of a dative phrase (kakṣī́vate śatáhimāya) and a gen. pl. (gónām). However, as I just remarked, this pāda seems to be an abbreviated dānastuti, with the dāna specified and no stuti given, but the poet and would-be recipient emphatically named. In such circumstances condensed phraseology is not surprising. Geldner appositely cites as parallel I.126.2 śatáṃ kakṣī́vān ásurasya gónām “A hundred cows of the lord (have I,) Kakṣīvant, (taken).” In our passage the “hundred” is cleverly tucked into the adj. śatáhima-, which otherwise presumably expresses Kakṣīvant’s proleptic wish for a 100-year lifespan; it seems unlikely that he is already that old.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. seem to resolve the situation set up in vs. 1, esp. 1bc: the racehorse that was striving to win the sun (=milk) there (1b) has achieved this goal and “keeps company” with ritual speech and labor, as it did in 1c (and 5a) with more physical features of the ritual process. The repetition of the desid. síṣāsati from 1b in 7a and the resolution of the desid. into an achieved state via a pf. part. sasavā́n (8b) signal the relationship between vss. 1 and 7-8 - as does the repetition of sacate from 1c (/sácamānaḥ 5a) in 7c.
 

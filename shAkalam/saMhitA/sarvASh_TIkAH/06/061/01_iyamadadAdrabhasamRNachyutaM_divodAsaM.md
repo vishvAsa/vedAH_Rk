@@ -249,7 +249,7 @@ On the root affiliation of cakhā́da see EWA s.v. KHED and Kümmel (152-53), wi
 and the parallel I.93.4, with √muṣ ‘steal’: yád ámuṣṇītam avasám paṇíṃ gā́ḥ.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
-<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine subject immediately and emphatically (“this she here”). Since the just-given tr. is at best graceless and, more to the point, not English, I have opted to focus on the gender rather than the deixis. The next vs. also begins with iyám and the final vs. of the tṛca with the voc. sárasvati.
 

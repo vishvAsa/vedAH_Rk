@@ -240,7 +240,7 @@ instr. sādhāraṇyā́‘common’ refers both to the fact that Rodasī is hel
 In the next pāda both Rodasī and the two world halves are then the objects of a (quasi-)infinitival vṛ́dham (again, my interpr. differs from others’). Cf. the similar expression in I.85.1c ródasī hí marútaś cakriré vr̥dhé “the Maruts made the two world halves grow strong,” with a clear dative infinitive in periphrastic causative usage. The only other ex. of acc. vṛ́dham in III.16.2 also has infinitival value and even has the Maruts as subj.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
-<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+<details><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
 

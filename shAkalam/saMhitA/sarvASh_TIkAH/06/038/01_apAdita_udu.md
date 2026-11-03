@@ -248,7 +248,7 @@ The subject of cd is also left unspecified; again I assume Agni: if he is embark
 The pāda-final splv. citrátamaḥ produces a bad Triṣṭubh cadence. There is no obvious way to fix it, and the other 5 instances of this stem are found elsewhere in the line, where they work metrically.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I think vs. 2 functions as complementary to 1: in the first vs. the índra-hūti- is conveyed up to Indra (presumably in heaven); in 2 he
 

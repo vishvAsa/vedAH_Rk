@@ -134,11 +134,12 @@ _________
 
 King of kingdoms, ornament of the rivers:  
 lifelong lordship has been conceded to him.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">
-<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 After several vss. with a ritual, priestly focus, we return to the semiriddling listing of gods, with these two vss. devoted to Varuṇa. In 10 the subj.
 

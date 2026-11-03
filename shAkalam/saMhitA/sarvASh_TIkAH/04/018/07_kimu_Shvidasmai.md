@@ -275,7 +275,7 @@ The complex is then to be rendered ‘having a good husband in the house’ vel 
 Alternatively Geldner (n. 7d) suggests that it might be a metathesis of *su-daṃpatnīḥ (given without accent), which seems quite unlikely. Although I think the form plays off dámpati-, I am still inclined towards the ‘wondrous’ interpr., because of the deeds that have just been ascribed to Indra.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
-<details open><summary><h2>06-09 ...{Loading}...</h2></summary>
+<details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
 
@@ -283,7 +283,7 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide a textbook case of -anta replacement. See my 1979 IIJ 21 article, pace Gotō’s (1st Kl., 222) characterization of bhananta as “reziprok.”
 

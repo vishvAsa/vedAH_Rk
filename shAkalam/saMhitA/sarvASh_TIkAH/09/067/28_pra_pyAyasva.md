@@ -159,11 +159,12 @@ _________
 
 Swell forth, flow forth, Soma, with all your shoots  
 as highest oblation for the gods.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
-<details open><summary><h2>28-29 ...{Loading}...</h2></summary>
+<details><summary><h2>28-29 ...{Loading}...</h2></summary>
 
 It’s not clear why we return to purely Soma vss. at this point, but the aoristic summary in 29 (úpa … áganma bíbhrato námaḥ “up to him have we come bearing homage”) is another typical hymn-ender, summarizing the hymn that precedes.
 

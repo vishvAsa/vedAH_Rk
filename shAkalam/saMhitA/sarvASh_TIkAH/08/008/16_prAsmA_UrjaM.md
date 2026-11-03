@@ -193,11 +193,12 @@ _________
 
 O Aśvins, offer nourishment dripping with ghee to him  
 who will praise you for your favor and will seek goods from you, o lords  of the drop.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
-<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+<details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, which is reasonably appropriate both for ‘refreshment’ (íṣ-, 14) and ‘nourishment’ (ū́rj-, 16).
 

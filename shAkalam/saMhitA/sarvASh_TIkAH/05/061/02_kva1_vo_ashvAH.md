@@ -263,3 +263,8 @@ Wo sind die Ross' und Zügel euch? wie machtet ihr's? wie kamt ihr her? auf Rüc
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जेव्हा विद्वानांना प्रश्न विचारला जातो तेव्हा त्यांनी उत्तर द्यावे. पक्षपात न करता न्यायाधीशाप्रमाणे वागल्यास संपूर्ण बोध होतो. ॥ २ ॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+- Dates Rk to post 2200 BCE - [SCI](https://www.science.org/content/article/ancient-dna-reveals-long-sought-homeland-modern-horses)
+</details>

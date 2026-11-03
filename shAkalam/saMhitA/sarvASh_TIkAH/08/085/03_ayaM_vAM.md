@@ -146,11 +146,12 @@ _________
 
 This Kr̥ṣṇa is calling you, o Aśvins whose goods are prizewinning  mares,  
 to drink of the honeyed soma.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
-<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The Anukramaṇī identifies the poet as Kṛṣṇa Āṅgirasa.
 

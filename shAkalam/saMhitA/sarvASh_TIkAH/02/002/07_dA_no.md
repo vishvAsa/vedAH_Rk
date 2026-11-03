@@ -297,7 +297,7 @@ Kümmel (251) takes ví didyutaḥ as intrans., not trans.-caus. (in his terms, 
 The simile in d svàr ṇá “like the sun” is perfectly ambiguous. It can be nominative, compared to Agni, the subject of ví didyutaḥ, as an entity that makes the dawns shine. (Given the temporal proximity of dawn and sunrise, this causal connection is perfectly in order.) Or Agni can make the dawns shine forth like the sun, with the simile in the acc. In 8b and 10d the same simile is in the nominative, but I do not think this is a sufficient reason to impose the same analysis here.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
-<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 6c and 7c are paraphrases of each other. Each contains a dual referring to the two worlds, an impv. of √kṛ, and an indication of directionality.
 

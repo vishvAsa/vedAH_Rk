@@ -297,11 +297,12 @@ _________
 With nourishment you help the gods, with strength you help yourself. – O you of a hundred resolves, for exhilaration drink the soma that they  fixed as your portion—  
 you winning all battles, (winning) the broad expanse, entirely victorious  amid the waters, accompanied by the Maruts, o Indra, master of  
 settlements.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/036/02-03.md">
-<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+<details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Somewhat unusual 2nd ps. reflexive using the standard 2nd ps. pronoun: 2a áva tvā́m “help yourself,” 3a ávasi … tvā́m. The accent on the verb in 3 is probably the textbook example of an implicitly contrastive accented verb, with predicates preceding and following.
 

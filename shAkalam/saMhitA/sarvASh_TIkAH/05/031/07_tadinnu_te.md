@@ -301,7 +301,7 @@ vádhar appears here in the same metrical position as in 3b. There the weapon wa
 As noted ad vs. 4, the poetic repair effected by prábhṛtā mádasya in 5c is somewhat muddied by 7c vájrasya prábhṛtau. What exactly this latter phrase means is not clear. I doubt that Geldner’s “im Schlag mit der Keule” is correct, since ‘strike’ is not a standard sense of prá √bhṛ (the closest we get is ‘bear down on’). Witzel Gotō’s “beim Vorführen des Vajra” is similar to my “at the proffering of the mace” (‘proffer’ having been chosen to match the tr. of this lexeme in 4c and 5c). The English idiom “present arms” is a direct correspondent, though the action in the English phrase is a gesture of respect, not (as here) of intimidation. The point of both úd … vádhar yámiṣṭa “held up his weapon” and vájrasya prábhṛtau seems to be to show Vṛtra the unbeatable power of the vájra-. See also the mahatā́vadhéna in 8c.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
-<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The recital of Indra’s deeds now reverts to the past tense, to a series of insistently augmented imperfects: 7b ámimīthāḥ, 7c agṛbhṇāḥ, 7d asedhaḥ, 8b áramayaḥ, 8c ayātam, ávahaḥ. (In 8d the Pp. reads unaug. áranta, but in its sandhi situation [uśánā́ranta] it could as easily be ā́ranta; the accent should be on the augment because it’s in a subordinate cl., but ā + áranta would come out this way.
 

@@ -136,11 +136,12 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 All the gods drink of him, prepared with cows, pressed by men.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
-<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma figure in 14-15.
 

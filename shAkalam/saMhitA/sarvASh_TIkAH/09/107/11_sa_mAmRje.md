@@ -202,11 +202,12 @@ _________
 
 He has become groomed across the fine (hairs) of the ewe, like a  prize-seeking team at a competition.  
 Self-purifying Soma is to be cheered on by those of inspired thought,  by the inspired reciters of verses.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
-<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 Little overt cohesion. The adv. tiráḥ ‘across’ referring to the filter is found in both vss. (10b, 11a). And the part. s(u)vāná- in 10a echoes the occurrences in vss. 3 and 8.
 
