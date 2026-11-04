@@ -256,6 +256,15 @@ _________
 **Yajus**. 15.43; the two ladles: termed **juhu** and upabhṛt, two ladles used for pouring the oiled butter upon the fire; or ubhe **darvi**, two **hands** serving as ladles
 </details>
 
+<details><summary>Keith</summary>
+
+O bright one, in thy mouth thou cookest
+Both ladles (full) of butter;
+Do thou make us full
+For our hymns, O lord of strength;
+Do thou bear food to the praisers.
+</details>
+
 <details><summary>Jamison Brereton</summary>
 
 O you who are beautifully shimmering, you make the two spoonsful of  melted butter ready within your mouth,  
