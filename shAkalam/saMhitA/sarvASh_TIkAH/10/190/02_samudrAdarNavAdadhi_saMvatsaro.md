@@ -161,6 +161,11 @@ _________
 **मिषतो** निमिषादि-युक्तस्य विश्वस्य सर्वस्य प्राणिजातस्य **वशी** स्वामी भूत्वा वर्तते॥२॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततः समुद्रात् संवत्सरोऽजायत संवसन्त्यस्मिन् सर्वाः प्रजा इति संवत्सरः समस्तप्रजाधारभूतो विराट् प्रजापतिर् योऽण्डात् प्रादुरभवत् 'संवत्सरः प्रजापतिः' इति च श्रुतिः । कीदृश इत्याह - अहोरात्राण्य् अहोरात्रजीविनः प्राणिनः सर्वान् विदधद् विविधं स्थापयन् कर्मानुरूपेण नानायोनिप्राप्तया सुखदुःखयोर्नियमयन् । यद्वा - कालसृष्टिरेषा संवत्सरावयवः कालः संवत्सरः यो ऽहोरात्राणि विदधाति यश्च विश्वस्य मिषतश् चेतनाचेतनवर्गस्य वशी नियन्ता । ननु दिनकररजनीकरयोरसृष्टयोः कथमहोरात्राणां तज्जीविनां च प्राणिनामयं विधाता स्यात् । तत्राह -
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -179,6 +184,11 @@ which distributes the days and nights and exerts its will over everyone  who bli
 
 From that same billowy flood of sea the Year was afterwards produced,  
      Ordainer of the days nights, Lord over all who close the eye.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+from the various seas the year, the lord of the all moments was born creating the days and the nights;
 </details>
 
 <details><summary>Geldner</summary>

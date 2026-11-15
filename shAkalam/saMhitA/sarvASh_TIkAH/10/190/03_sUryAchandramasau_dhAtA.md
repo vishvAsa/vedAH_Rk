@@ -159,6 +159,11 @@ _________
 तद् एतत् सर्वं धाता विधाता यथा पूर्वं पूर्विस्मिन् काले **ऽकल्पयत्** सृष्टवान् तथैवागामिन्य् अपि कल्पे कल्पयिश्यतीत्यर्थः॥३॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सूर्याचन्द्रमसौ धाता यथापूर्वम् अकल्पयद् आनुपूर्व्येण स्थितयोस्तत्परिच्छेद्याहोरात्राद्यवस्थानोपपत्तिर् अण्ड इव सृष्ट्यनन्तरं सूर्याचन्द्रमसौ धाता विश्वस्य धारयिता देवो ऽकल्पयत् । ततस् ताभ्यामहोरात्राणि विविधं स्थापयामास अनेनाभिप्रायेण अहोरात्राणि विदधत् संवत्सरोऽजायत इत्यवोचामेति यथापूर्वग्रहणेन दर्शितम् । यद्वा - यथोचितकार्यकारणक्रमेण पूर्वसृष्टसदृशं वा सर्वमकल्पयद् यथा - सूर्याचन्द्रमसौ पूर्वसृष्टिभवाविहाहोरात्रयोः परिच्छेत्तारौ अकल्पयद् वयोविद्याऽऽचारादीनां विहरणार्थं सुवः नाकस्य पृष्ठं परमसुखस्थानम् अकल्पयत् । यद्वा - द्युप्रभृतिनिवासिनः सर्वान् यथायथं स्वेस्वे अधिकारे अकल्पयत् । सामर्थ्यात् सा परा देवता अस्मान् पुनावित्यवगम्यते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -176,6 +181,11 @@ The Ordainer arranged, according to their proper order, sun and moon, heaven and
 
 Dhatar, the great Creator, then formed in due order Sun and Moon.  
      He formed in order Heaven and Earth, the regions of the air, and light.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the disposer made the sun and the moon as before and also the heaven, the earth, the mid-region and the paradise.
 </details>
 
 <details><summary>Geldner</summary>

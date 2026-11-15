@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,6 @@ yanti ← √i- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +229,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -273,12 +272,15 @@ They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) 
 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details><summary><h2>07-13 ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+
+<details open><summary><h2>07-13 …{Loading}…</h2></summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
-
 </details>
+</details>
+
 </div>
 </details>
 
@@ -304,6 +306,11 @@ They come who shall behold her in days to come.
 <details><summary>Geldner</summary>
 
 Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
 </details>
 
 <details><summary>Grassmann</summary>

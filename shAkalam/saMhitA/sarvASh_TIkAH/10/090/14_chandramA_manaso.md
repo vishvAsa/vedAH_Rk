@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -74,7 +75,6 @@ lokā́n ← loká- (nominal stem)
 
 táthā ← táthā (invariable)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +178,6 @@ _________
     imitate; restore; make; treat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -193,7 +192,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-चक्षोरिति । वर्णलोपश्छान्दसः । चष्टेर्वा उप्रत्ययः । मुखाद् आस्यात् । 
+चक्षोरिति । वर्णलोपश्छान्दसः । चष्टेर्वा उप्रत्ययः । मुखाद् आस्यात् ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -223,6 +222,11 @@ The Moon was gendered from his mind, and from his eye the Sun had birth;
 <details><summary>Geldner</summary>
 
 Aus dem Nabel ward der Luftraum, aus dem Haupte ging der Himmel hervor, aus den Füßen die Erde, aus dem Ohre die Weltgegenden. So regelten sie die Welten.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The moon was born of (his) mind; the sun was born of the eye, Indra and the fire were born of the mouth and the wind was born of the breath.
 </details>
 
 <details><summary>Grassmann</summary>

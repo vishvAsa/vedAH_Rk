@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -86,7 +87,6 @@ sánti ← √as- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +216,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -288,6 +287,11 @@ The Gods adored the Sacrifice with worship: these were the statutes of primeval 
 <details><summary>Geldner</summary>
 
 Mit dem Opfer opferten die Götter dem Opfer. Dies waren die ersten Normen des Opfers. Diese Mächte schlossen sich dem Himmel an, in dem die früheren Götter, die Sadhya´s, sich befinden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I know this Great Puruṣa, who has the colour of the sun, who is out of the darkness; He, the wise one, is merciful on the world after deciding all the forms and giving the names to them.
 </details>
 
 <details><summary>Grassmann</summary>

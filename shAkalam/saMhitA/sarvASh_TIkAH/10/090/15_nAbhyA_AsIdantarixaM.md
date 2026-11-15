@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -77,7 +78,6 @@ paśúm ← paśú- (nominal stem)
 
 púruṣam ← púruṣa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +193,6 @@ _________
     Paśu; herd; goat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,6 +232,11 @@ Forth from his navel came mid-air the sky was fashioned from his head
 <details><summary>Geldner</summary>
 
 Sieben waren seine Umleghölzer, dreimal sieben Brennhölzer wurden gemacht, als die Götter das Opfer vollzogen und Purusa als Opfertier anbanden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+From the navel the mid-region was born; from the head moved round the heaven; from the legs the earth and from the ear the quarters came forth; in that way they caused all the world (6).
 </details>
 
 <details><summary>Grassmann</summary>

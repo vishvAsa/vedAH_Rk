@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -77,7 +78,6 @@ atiróhati ← √ruh- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +192,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,6 +245,11 @@ This Purusa is all that yet hath been and all that is to be;
 <details><summary>Geldner</summary>
 
 Purusa allein ist diese ganze Welt, die vergangene und die zukünftige, und er ist der Herr über die Unsterblichkeit und auch über das, was durch Speise noch weiter wächst.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+That all is Puruṣa (only), whatever was (before) or whatever will be (further); He is the Lord of the immortality (gods) as well as of those, who are born (living on) by the food.
 </details>
 
 <details><summary>Grassmann</summary>

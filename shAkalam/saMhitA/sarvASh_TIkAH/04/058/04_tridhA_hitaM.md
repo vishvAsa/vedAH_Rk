@@ -240,6 +240,11 @@ _________
 **पणिभिः** असुरैः **गवि** गोषु **त्रिधा** क्षीरदध्याज्यभेदेन त्रिप्रकारं **हितं** निहितं **गुह्यमानं** गोपितं **घृतं** दीप्तं रसरूपं वा द्रव्यं **देवासः** देवाः **अन्वविन्दन्** अलभन्त । तत्र **इन्द्र** **एकं** क्षीरं **जजान** उदपादयत् । **सूर्य** **एकं** जजान । **वेनात्** कान्तिमतः अग्नेर्गमनवतो वायोर्वा **एकं** घृतं **स्वधया** अन्नेन निमित्तेन द्रव्येण वा साधनेन **निष्टतक्षुः** निरपादयन् देवाः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्रिधा हितमिति ॥ त्रिधा त्रिप्रकारं घृतं हितं स्थापितं गवि शब्दब्रह्मणि मन्त्रे वा पणिभिर् व्यवहर्तृभिर् मन्त्रदृग्भिर् ऋषिभिर् गुह्यमानं सम्प्रीयमाणं देवासः देवा अन्वविन्दन् अनुक्रमेणालभन्त उपलब्धवन्त इन्द्रादयः । तदेव त्रैविध्यं दर्शयति - इन्द्रः पर्जन्यात्मा एकं जजान प्रकाशितवान् एकं स्वरूपं वृक्षलतादिषु रश्मिसंयोगेन परिणतं सूर्यो जनयति । छान्दसे लिटि 'बहुलं सञ्ज्ञाछन्दसोः' इति णिलुक् । अथ एकं स्वधया अमृतमावेन उपलक्षितम् अन्नेन वा हविषा तत्परिणामात्मकम् अमृतात्मकं वेनात् कान्तात् । परमात्मनः वस्वादयो निष्टतक्षुर् निष्कृप्य उत्पादितवन्तः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -270,6 +275,11 @@ The threefold nature and creation of ghee has been variously interpreted; it aga
 
 That oil in triple shape the Gods discovered laid down within the Cow, concealed by Panis.  
      Indra produced one shape, Surya another: by their own power they formed the third from Vena.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The gods discovered that ghee laid down in the cow in triple shape (milk, curd and ghee), concealed by Panis (demons); Indra produced one shape, the sun another; the third by their own power.
 </details>
 
 <details><summary>Geldner</summary>

@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -68,7 +69,6 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 
 áraṁkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +161,6 @@ _________
 - “decorate; prepare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,7 +175,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सोमं सोमवन्मधुरं तिललक्षणं हविर् यमाय सुनुत अभिषवसदृशेन हस्तव्यापारेण आक्षिपत हे परिचारकाः! । यमायैव हविर् जुहुत निवेदयत जुह्वतो मे प्रयोजका भवत । यमं ह यममेव अयं यज्ञो गच्छति तिललक्षणो गच्छत्व् अग्निदूतो ऽग्निवोढृकस् तत्र पूर्वं कृतत्वाद् अरङ्कृतः पर्याप्तं शीघ्रं वा कृतः ॥  
+सोमं सोमवन्मधुरं तिललक्षणं हविर् यमाय सुनुत अभिषवसदृशेन हस्तव्यापारेण आक्षिपत हे परिचारकाः! । यमायैव हविर् जुहुत निवेदयत जुह्वतो मे प्रयोजका भवत । यमं ह यममेव अयं यज्ञो गच्छति तिललक्षणो गच्छत्व् अग्निदूतो ऽग्निवोढृकस् तत्र पूर्वं कृतत्वाद् अरङ्कृतः पर्याप्तं शीघ्रं वा कृतः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -207,6 +206,11 @@ For Yama press the Soma juice, To Yama offering present. To Yama goes the sacrif
 <details><summary>Geldner</summary>
 
 Dem Yama presset Soma, dem Yama opfert die Spende! Zu Yama geht das zubereitete Opfer, dessen Bote Agni ist.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Press soma for Yama; sacrifice oblation for Yama; the sacrifice, having fire as envoy, full of ornament, goes to Yama.
 </details>
 
 <details><summary>Grassmann</summary>

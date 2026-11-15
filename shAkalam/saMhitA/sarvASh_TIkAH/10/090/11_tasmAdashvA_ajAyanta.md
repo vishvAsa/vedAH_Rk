@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -80,7 +81,6 @@ ucyete ← √vac- (root)
 
 ūrū́ ← ūrú- (nominal stem)  
 {case:NOM, gender:M, number:DU}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +195,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -210,10 +209,12 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11पुनश्च पशुसृष्टिं प्रपञ्चयति - तस्मादेवाश्वा अजायन्त । ये के च ये केचिद् उभयादत उभयोः पार्श्वयोर् दन्ता येषां ते गर्दभादयश्च अजायन्त । 'छन्दसि च' इति दतृभावः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम् , नुमभावश्छान्दसः । गावश्च अजाश्च अवयश्च तस्माज्जाताः ॥
+पुनश्च पशुसृष्टिं प्रपञ्चयति - तस्मादेवाश्वा अजायन्त । ये के च ये केचिद् उभयादत उभयोः पार्श्वयोर् दन्ता येषां ते गर्दभादयश्च अजायन्त । 'छन्दसि च' इति दतृभावः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम् , नुमभावश्छान्दसः । गावश्च अजाश्च अवयश्च तस्माज्जाताः ॥
 </details>
 
 <details><summary>Wilson</summary>
+
+
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -230,6 +231,11 @@ From it were horses born, from it all cattle with two rows of teeth:
 <details><summary>Geldner</summary>
 
 Als sie den Purusa auseinander legten, in wie viele Teile teilten sie ihn? Was ward sein Mund, was seine Arme, was werden seine Schenkel, was seine Füße genannt?
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+From that the horses were produced and also those, who have teeth in the sides of the mouth (as asses etc.) were born; the cows came forth from that; the goats and the sheep were born of him.
 </details>
 
 <details><summary>Grassmann</summary>

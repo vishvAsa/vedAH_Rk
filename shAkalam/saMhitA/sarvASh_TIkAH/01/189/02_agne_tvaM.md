@@ -296,6 +296,11 @@ Be a broad, thick, wide fortress for us,
 Health and wealth for our children and descendants. 
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!

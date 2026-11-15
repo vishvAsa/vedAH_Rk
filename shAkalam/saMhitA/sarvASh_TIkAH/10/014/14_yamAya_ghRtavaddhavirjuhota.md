@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -80,7 +81,6 @@ jīváse ← √jīv- (root)
 
 prá ← prá (invariable)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +191,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -206,7 +205,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।  
+अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।
 </details>
 
 <details><summary>Wilson</summary>
@@ -237,6 +236,11 @@ To Yama offering rich in ghee Present forthwith, and forward step. Let him direc
 <details><summary>Geldner</summary>
 
 Dem Yama opfert das schmalzige Opfer und tretet vor! Er soll sich für uns bei den Göttern verwenden, auf daß wir noch lange Zeit weiterleben.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Sacrifice the oblation, full of ghee for Yama and stand firm; may he, one among the gods, grant us long age for living well.
 </details>
 
 <details><summary>Grassmann</summary>

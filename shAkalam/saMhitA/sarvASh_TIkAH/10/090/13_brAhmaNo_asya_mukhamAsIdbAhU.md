@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -74,7 +75,6 @@ prāṇā́t ← prāṇá- (nominal stem)
 
 vāyúḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +184,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -199,7 +198,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13-15उत्तरं ब्राह्मणोऽस्येत्यादि ॥ ब्राह्मणादीनां मुखादिभ्य उत्पन्नत्वात् तत्तद्भावेन ते कल्पिताः । 'पद्भ्यां शूद्रो अजायत' इति दर्शनात् सर्वेऽपि ब्राह्मणादयो मुखादिभ्य उत्पन्ना इति गम्यते । 
+उत्तरं ब्राह्मणोऽस्येत्यादि ॥ ब्राह्मणादीनां मुखादिभ्य उत्पन्नत्वात् तत्तद्भावेन ते कल्पिताः । 'पद्भ्यां शूद्रो अजायत' इति दर्शनात् सर्वेऽपि ब्राह्मणादयो मुखादिभ्य उत्पन्ना इति गम्यते ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -230,6 +229,11 @@ The Brahman was his mouth, of both his arms was the Rajanya made.
 <details><summary>Geldner</summary>
 
 Der Mond ist aus seinem Geist entstanden, die Sonne entstand aus seinem Auge; aus seinem Munde Indra und Agni, aus seinem Aushauch entstand der Wind.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Brāhmaṇa (caste) was his mouth; Kṣatriya was his hands (5); Vaiśya was his thighs and Śūdra was born of the legs.
 </details>
 
 <details><summary>Grassmann</summary>

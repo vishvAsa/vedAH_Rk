@@ -236,6 +236,11 @@ _________
 हे **जातवेदः** **नः** अस्माकं **दुर्गहा** दुःखेन गाह्यानि दुःखेन भोग्यानि **विश्वानि** **दुरितानि** **अति** **पर्षि** अतिपारय । **सिन्धुं** **न** **नावा** नदीं नाविको यथा तद्वत् । हे **अग्ने** **अत्रिवत्** अत्रेर्यथा तथा अस्माकं **नमसा** स्तोत्रेण **गृणानः** स्तूयमानः सन् **अस्माकं** **तनूनाम्** **अविता** रक्षकः **बोधि** बुध्यस्व ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वानि न इति 'जुष्टो दमूनाः' इत्यत्र व्याख्याता ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -259,6 +264,11 @@ Over all woes and dangers, Jatavedas, bear us as in a boat across a river.
 <details><summary>Oldenberg</summary>
 
 Bring us across all difficulties and dangers,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, destroyer of the sorrows, you make us across all the sins as one crosses the sea by the boat; O fire, like Atri, become the waking protector of our bodies uttering (protective Mantras) by mind.
 </details>
 
 <details><summary>Geldner</summary>

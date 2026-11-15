@@ -176,6 +176,11 @@ __________________
 
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वानीति ॥ हे देवः सवितः! विश्वा विश्वानि दुरितानि परासुव नाशय । किं विशेष्यते - दुष्ष्वप्न्यमिति । यद् भद्रं कल्याणं तत् सर्वं मे आसुव मदीयत्वेन अनुजानन् आनय ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -199,6 +204,11 @@ What is beneficial, that impel here to us.
 
 Savitar, God, send far away all sorrows and calamities,  
      And send us only what is good.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O god Savitr, destroy all the sins; what is auspicious, bring that for me.
 </details>
 
 <details><summary>Geldner</summary>

@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -74,7 +75,6 @@ jātā́ḥ ← √janⁱ- (root)
 
 tásmāt ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:M, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +194,6 @@ _________
 - “sheep; avi \[word\]; menstruating woman; ewe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,12 +208,12 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-10 अथ तत् तस्मात् तादृशाद् यज्ञाद् ऋचस्सामानि जज्ञिरे छन्दांसि च सर्वाण्य् ऋगादिमया वेदा जज्ञिरे । यजुश्च तस्मादजायत । जातावेकवचनम् ॥
+अथ तत् तस्मात् तादृशाद् यज्ञाद् ऋचस्सामानि जज्ञिरे छन्दांसि च सर्वाण्य् ऋगादिमया वेदा जज्ञिरे । यजुश्च तस्मादजायत । जातावेकवचनम् ॥
 </details>
 
 <details><summary>उवटः</summary>
 
-तस्मादेव यज्ञात्सर्वहुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च । एवम् आत्मयज्ञे प्रणवेन दीपिते स्वयमेव ज्ञानात् अधिष्ठितानि भवन्ति । एवं येन परमात्मनि ज्ञायते सर्वे जग्धा(?) सर्वं वाङ्मयं ज्ञानं भवतीति ।। ७ ।। 
+तस्मादेव यज्ञात्सर्वहुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च । एवम् आत्मयज्ञे प्रणवेन दीपिते स्वयमेव ज्ञानात् अधिष्ठितानि भवन्ति । एवं येन परमात्मनि ज्ञायते सर्वे जग्धा(?) सर्वं वाङ्मयं ज्ञानं भवतीति ।। ७ ।।
 </details>
 
 <details><summary>मध्वः</summary>
@@ -236,7 +235,7 @@ _________
 
 ऋगादीनां लक्षणं जैमिनिना सूत्रितम् । 'तचोदकेषु मन्त्राख्या' (जै.सू.२-१-३२) । 'तेषाम् ऋग् यत्रार्थवशेन पादव्यवस्था' (जै.सू.२-१-३५) । 'गीतिषु सामाख्या' (जै.सू.२-१-३६) । ‘शेषे यजुःशब्दः' (जै.सू.२-१-३७) इति । 
 
-अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।। 
+अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।।
 </details>
 
 <details><summary>Wilson</summary>
@@ -269,6 +268,11 @@ From that great general sacrifice Rcas and Sama-hymns were born:
 <details><summary>Geldner</summary>
 
 Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm entstanden die Rinder, aus ihm sind die Ziegen und Schafe entstanden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+From that sacrifice, where all (in the form of the person) was sacrificed, came forth the Ṛcas, the Sāmans, the verses came forth from that, the Yajus was produced from that (4).
 </details>
 
 <details><summary>Grassmann</summary>

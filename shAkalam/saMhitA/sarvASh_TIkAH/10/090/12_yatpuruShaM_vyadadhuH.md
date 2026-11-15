@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -77,7 +78,6 @@ padbhyā́m ← pád- (nominal stem)
 
 śūdráḥ ← śūdrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +192,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,7 +206,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12यदित्यादि ॥ यदा पुरुषं विराजं व्यदधुः प्राणादयः कल्पितवन्तः, तदा कतिधा कतिभिः प्रकारैर् विशिष्टं व्यकल्पयन्, कानि चास्य मुखादीन्युच्यन्ते ॥ 
+यदित्यादि ॥ यदा पुरुषं विराजं व्यदधुः प्राणादयः कल्पितवन्तः, तदा कतिधा कतिभिः प्रकारैर् विशिष्टं व्यकल्पयन्, कानि चास्य मुखादीन्युच्यन्ते ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -233,6 +232,11 @@ When they divided Purusa how many portions did they make?
 <details><summary>Geldner</summary>
 
 Sein Mund ward zum Brahmanen, seine beiden Arme wurden zum Rajanya gemacht, seine beiden Schenkel zum Vaisya, aus seinen Füßen entstand der Sudra.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+In how many ways they caused the person, when they caused the person? What is called his mouth? What are the hands? What are the thighs? And what are called the legs?
 </details>
 
 <details><summary>Grassmann</summary>

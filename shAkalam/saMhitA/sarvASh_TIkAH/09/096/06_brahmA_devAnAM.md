@@ -218,6 +218,11 @@ _________
 तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ब्रह्मा देवानामिति ॥ व्याख्याता 'त्वमग्ने बृहद्वययः' इत्यत्र । अयमेव तद्रूपेण वर्तत इति योज्यम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -247,6 +252,11 @@ Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a
 
 Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
      Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+That Atman (Self) is Brahman among the gods, knowledge (of words) among the poets, the seer among the learned ones (Vipras); buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterance (of Mantras).
 </details>
 
 <details><summary>Geldner</summary>

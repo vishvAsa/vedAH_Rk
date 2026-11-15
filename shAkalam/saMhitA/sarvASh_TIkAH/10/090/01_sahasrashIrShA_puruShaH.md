@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -65,7 +66,6 @@ atiṣṭhat ← √sthā- (root)
 
 daśāṅgulám ← daśāṅgulá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +173,6 @@ _________
 - “finger; finger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -218,6 +217,11 @@ A THOUSAND heads hath Purusa, a thousand eyes, a thousand feet.
 <details><summary>Geldner</summary>
 
 Tausendköpfig, tausendäugig, tausendfüßig ist Purusa; er bedeckte vollständig die Erde und erhob sich zehn Finger hoch darüber.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hundred-headed Puruṣa (Person) having hundred eyes, hundred feet, after covering all the worlds stood larger (than these) by ten fingers.
 </details>
 
 <details><summary>Grassmann</summary>

@@ -154,6 +154,11 @@ ________________
 हे सवितर्देव! अद्यास्मिन्कर्मणि नोऽस्माकं प्रजावत् पुत्रपौत्राद्युपेतं सौभगं सौभाग्यं सावीः अनुजानीहि । दुष्ष्वप्नियं दुस्स्वप्ननिमित्तं दोषं परासुव विनाश्य ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अद्या न इति ॥ हे देवः सवितः! सर्वस्यानुज्ञातः! अद्य अस्मिन्नहन्य् अस्मभ्यं प्रजावत् प्रजासमृद्धिमत् सौभगं सौभाग्यं सुश्रीकत्वं सावीर् अनुजानीहि । छान्दसे लुङि 'बहुलं छन्दस्यमाङ्योगेऽपि' इत्यडभावः । 'सुभगं मन्त्रे' इति सुभगशब्दादञ् । किञ्च - दुष्ष्वप्नियं दुस्स्वप्नप्रभवं परासुव नाशय । 'भवेच्छन्दसि' इति दुस्स्वप्नाद्यत् । छान्दस इकारोपजनः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -177,6 +182,11 @@ Impel away the bad dream.
 
 Send us this day, God Savitar, prosperity with progeny.  
      Drive thou the evil dream away.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O god Savitr, grant us today fortune with progeny and destroy the effect of bad dreams.
 </details>
 
 <details><summary>Geldner</summary>

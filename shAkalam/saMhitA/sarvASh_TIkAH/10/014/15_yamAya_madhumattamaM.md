@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -65,7 +66,6 @@ pathikŕ̥dbhyaḥ ← pathikŕ̥t- (nominal stem)
 
 pū́rvebhyaḥ ← pū́rva- (nominal stem)  
 {case:DAT, gender:M, number:PL}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +142,6 @@ _________
 - \[noun\], dative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +156,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यमाय मधुमत्तमम् अतिशयेन मधु स्वादुयुक्तं हव्यं यमाय राज्ञे जुहोतन जुहुत । इदं नमो ऽयं नमस्कार इदं हविर्वा । पूर्वजेभ्यः पूर्वेभ्यश्च चिरन्तनेभ्यः पथिकृद्भ्यः मार्गकृद्भ्य ऋषिभ्यो ऽस्त्वित्यध्याहार्यम् ॥ दक्षिणस्यां - 'यौ ते श्वानौ' इति गतम् । उत्तरस्यां - यमदूताभ्यां 'उरुणसौ'10 इति गतम् ॥  
+यमाय मधुमत्तमम् अतिशयेन मधु स्वादुयुक्तं हव्यं यमाय राज्ञे जुहोतन जुहुत । इदं नमो ऽयं नमस्कार इदं हविर्वा । पूर्वजेभ्यः पूर्वेभ्यश्च चिरन्तनेभ्यः पथिकृद्भ्यः मार्गकृद्भ्य ऋषिभ्यो ऽस्त्वित्यध्याहार्यम् ॥ दक्षिणस्यां - 'यौ ते श्वानौ' इति गतम् । उत्तरस्यां - यमदूताभ्यां 'उरुणसौ'10 इति गतम् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -188,6 +187,11 @@ To Yama as a King present Oblation very honey-sweet. This homage is for seers of
 <details><summary>Geldner</summary>
 
 Dem König Yama opfert die süßeste Spende! Diese Verbeugung gilt den erstgeborenen Rishi´s, den früheren Wegbereitern.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Sacrifice the oblation, full of most (sweet) honey for Yama, the king. This is salutation for the seers, ancestors, born before and maker of the paths (1).
 </details>
 
 <details><summary>Grassmann</summary>

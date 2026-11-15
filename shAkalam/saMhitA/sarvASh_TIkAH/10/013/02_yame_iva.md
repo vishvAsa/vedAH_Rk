@@ -4,6 +4,7 @@ devataa = "हविर्धाने"
 RShiH = "विवस्वानादित्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -89,7 +90,6 @@ naḥ ← ahám (pronoun)
 
 svāsasthé ← svāsasthá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +226,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,7 +240,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2उत्तरे मन्त्रे यमस्य यम्याश्च सहवचनम् - यमे इव यमळोत्पन्ने इव दृश्यमाने यतमाने तत्रतत्र हविर्ग्रहणाय गन्तुं यत्नं कुर्वाणे यदा ऐतम् । लडर्थे लङ् । इतः गच्छथः । यदेति वचनात् तदेति गम्यते । तदा देवयन्तः देवान् यष्टुकामा मानुषा वां युवाभ्यां प्रभरन् । 'हृग्रहोर्भः' इति भः, लडर्थे लङ् । प्रहरन्ति हवींषि स्तुतिञ्चोपहरन्ति । तौ युवां स्वं लोकं स्वस्थानं विदाने जानन्तौ आसीदतम् । आसाद्य च स्वासस्थे शोभनासनस्थे भवतं नो ऽस्माकम् इन्दवे ऐश्वर्याय । एवं विनियुक्तार्थगोचरतालोभेन क्लेशेन व्याख्यातम् । बह्वृचास्तु - हविर्धानशकटयोरभिधानं मन्यन्ते ॥  
+उत्तरे मन्त्रे यमस्य यम्याश्च सहवचनम् - यमे इव यमळोत्पन्ने इव दृश्यमाने यतमाने तत्रतत्र हविर्ग्रहणाय गन्तुं यत्नं कुर्वाणे यदा ऐतम् । लडर्थे लङ् । इतः गच्छथः । यदेति वचनात् तदेति गम्यते । तदा देवयन्तः देवान् यष्टुकामा मानुषा वां युवाभ्यां प्रभरन् । 'हृग्रहोर्भः' इति भः, लडर्थे लङ् । प्रहरन्ति हवींषि स्तुतिञ्चोपहरन्ति । तौ युवां स्वं लोकं स्वस्थानं विदाने जानन्तौ आसीदतम् । आसाद्य च स्वासस्थे शोभनासनस्थे भवतं नो ऽस्माकम् इन्दवे ऐश्वर्याय । एवं विनियुक्तार्थगोचरतालोभेन क्लेशेन व्याख्यातम् । बह्वृचास्तु - हविर्धानशकटयोरभिधानं मन्यन्ते ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -272,6 +271,11 @@ When speeding ye came nigh us like twin sisters, religious-hearted votaries brou
 <details><summary>Geldner</summary>
 
 Als ihr kamet, wie zwei Zwillingsschwestern gleichen Rang einnehmend, da führten euch die gottverlangenden Menschen vor. Setzet euch in eure Welt als Bekannte, dienet unserem Soma als guter Sitzplatz!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+When you come acting as Yemes (Yama and Yami); may then the men, desirous of divine ones, nourish you well; may you sit knowing your places and on that comfortable seat be for our happiness.
 </details>
 
 <details><summary>Grassmann</summary>

@@ -4,6 +4,7 @@ devataa = "पुरुषः"
 RShiH = "नारायणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -74,7 +75,6 @@ idhmáḥ ← idhmá- (nominal stem)
 
 śarát ← śarád- (nominal stem)  
 {case:NOM, gender:F, number:SG}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +172,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,7 +186,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6इदानीं सृष्टिविशेष उच्यते - यदिति ॥ यद् यदा पुरुषेण प्रजापतिना हविषा हविष्ट्वेन सङ्कल्पितेन हविरन्तरस्याभावाद् देवाः प्राणाः प्राजापत्या इन्द्रियाणि च यज्ञं सङ्कल्पात्मकम् अतन्वत यज्ञमिव अकुर्वत । सृष्टिकामः प्रजापतिरेव प्राणादिवृत्तिभेदेनोच्यते । अथ अस्य यज्ञस्य वसन्त आज्यमासीत्, तत्र गवां भूयिष्ठत्वात् तमेवर्तुं तद्विकाराज्यकार्याय समकल्पयत् । एवं ग्रीष्मशरदौ व्याख्येये ॥
+इदानीं सृष्टिविशेष उच्यते - यदिति ॥ यद् यदा पुरुषेण प्रजापतिना हविषा हविष्ट्वेन सङ्कल्पितेन हविरन्तरस्याभावाद् देवाः प्राणाः प्राजापत्या इन्द्रियाणि च यज्ञं सङ्कल्पात्मकम् अतन्वत यज्ञमिव अकुर्वत । सृष्टिकामः प्रजापतिरेव प्राणादिवृत्तिभेदेनोच्यते । अथ अस्य यज्ञस्य वसन्त आज्यमासीत्, तत्र गवां भूयिष्ठत्वात् तमेवर्तुं तद्विकाराज्यकार्याय समकल्पयत् । एवं ग्रीष्मशरदौ व्याख्येये ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -217,6 +216,11 @@ When Gods prepared the sacrifice with Purusa as their offering,
 <details><summary>Geldner</summary>
 
 Als die Götter mit Purusa das Opfer vollzogen, da war der Frühling dessen Schmelzbutter, der Sommer das Brennholz, der Herbst die Opfergabe.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+When the gods performed the sacrifice by the oblation of the person, then Vasant (spring season) was its ghee, Grīṣma (summer) was fuel and Śarad (autumn) was the oblation.
 </details>
 
 <details><summary>Grassmann</summary>
