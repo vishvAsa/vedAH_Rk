@@ -252,6 +252,11 @@ Gods, may we with our ears listen to what is good, and with our eyes see what is
      With limbs and bodies firm may we extolling you attain the term of life appointed by the Gods.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May we hear the auspicious (things) with ears, O gods; may we, the sacrificers, see the auspicious (things) with eyes; with bodies of strong limbs; may we, praising, obtain (the span of) life which is assigned by the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gutes wollen wir mit Ohren hören, ihr Götter, Gutes mit Augen sehen, ihr Opferwürdige. Mit festen Gliedern und Leibern wollen wir, die wir lobgesungen haben, das gottgesetzte Alter erreichen.

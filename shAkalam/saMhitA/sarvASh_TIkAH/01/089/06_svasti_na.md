@@ -259,6 +259,11 @@ Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master
      May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare.
+</details>
+
 <details><summary>Geldner</summary>
 
 Glück soll uns Indra von hohem Ruhme, Glück uns Pusan, der alle Güter hat, Glück uns Tarksya mit unversehrtem Radkranz , Glück soll uns Brihaspati bringen.
