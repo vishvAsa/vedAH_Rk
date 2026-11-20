@@ -60,7 +60,7 @@ vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)
 <details><summary>पद-पाठः</summary>
 
 ग्रावा॑णः । उप॑रेषु । आ । म॒ही॒यन्ते॑ । स॒ऽजोष॑सः ।  
-वृष्णे॑े॒ । दध॑तः । वृष्ण्य॑म् ॥
+वृष्णे॑ । दध॑तः । वृष्ण्य॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
